@@ -1,0 +1,79 @@
+{
+  "title": "Fluffy Zestwrap",
+  "description": "A spicy, fluffy, energizing Greek dish featuring all-purpose seasoning, steam, and vegetarian-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-Purpose Seasoning",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Zest of Lemon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetables for Grilling (optional)",
+      "notes": "Such as bell peppers, onions, mushrooms"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix All-Purpose Seasoning, Vegetable Oil, minced Garlic, Fresh Zest of Lemon, Oregano, and Red Pepper Flakes. Set aside.",
+    "Prepare vegetables for grilling if desired. Brush with oil and season lightly with salt and pepper.",
+    "Arrange seasoned vegetables on a baking sheet. Drizzle remaining dressing over them and mix to coat evenly.",
+    "Grill vegetables until tender, about 10-12 minutes (if using).",
+    "Divide grilled vegetables between serving plates. Sprinkle additional seasoning mix on top of each portion if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "fluffy",
+    "spicy",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 9,
+    "carbs": 13,
+    "fat": 15
+  },
+  "slug": "fluffy-zestwrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-zestwrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:09:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
