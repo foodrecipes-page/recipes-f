@@ -1,0 +1,72 @@
+{
+  "title": "Fermentomato",
+  "description": "A silky and energizing Greek-inspired dish featuring a vegan-friendly tomato sauce, sautéed with garlic and olive oil for added depth of flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 ripe tomatoes",
+      "amount": "each"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "whole"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Juice of 1 lemon (optional)",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Wash tomatoes thoroughly. Cut them into quarters.",
+    "Mince garlic cloves finely.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and sauté for about 2 minutes until fragrant but not browned.",
+    "Add quartered tomatoes to the skillet, reduce heat to low, cover, and let simmer for about 15-20 minutes or until desired thickness is reached (like a sauce).",
+    "Season with salt and pepper. If desired, add lemon juice for a tangy touch.",
+    "Serve immediately as a side dish or over pasta."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermentomato",
+    "greek-dish",
+    "silky-sauce",
+    "energizing-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "fermentomato",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermentomato",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:20:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "tomato sauce",
+    "diet": "vegan",
+    "region": null
+  }
+}
