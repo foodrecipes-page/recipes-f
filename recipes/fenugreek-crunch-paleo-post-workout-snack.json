@@ -1,0 +1,80 @@
+{
+  "title": "Fenugreek Crunch Paleo Post-Workout Snack",
+  "description": "A nutty and crunchy post-workout snack featuring fenugreek, prepared through a quick pressure-cooking method to meet paleo-friendly dietary requirements.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fenugreek seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dates",
+      "amount": "6 medium-sized"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Macadamia nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to a safe temperature for seeds and legumes.",
+    "Add fenugreek seeds, almond butter, dates, peanut butter, coconut flakes, macadamia nuts, and walnuts into the pot.",
+    "Cook on high pressure according to your pressure cooker's manual instructions until done, typically 5-10 minutes.",
+    "Once cooked, carefully release steam using the quick-release method, being cautious of hot temperatures.",
+    "Allow the mixture to cool down slightly before mixing well with a fork or immersion blender if needed for smoother consistency.",
+    "Transfer the cooled mixture into a serving dish and refrigerate until ready to serve.",
+    "Serve cold as a snack post-workout."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fenugreek",
+    "nutty",
+    "crunchy",
+    "paleo-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 24
+  },
+  "slug": "fenugreek-crunch-paleo-post-workout-snack",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fenugreek-crunch-paleo-post-workout-snack",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:04:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fenugreek",
+    "diet": "paleo",
+    "region": null
+  }
+}
