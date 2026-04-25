@@ -1,0 +1,68 @@
+{
+  "title": "FermentCube Stir Fry",
+  "description": "A crunchy, fermented Spanish dish made with a vegetable stock cube and paleo-friendly ingredients for a weeknight meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": "1 cube",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Vegetables (e.g., bell peppers, onions, zucchini)",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Paleo-friendly Seasonings",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water or Paleo-friendly Broth",
+      "amount": "1L",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil water in a pot with the vegetable stock cube and water for about 5 minutes.",
+    "Add chopped vegetables to the boiling broth. Cook until vegetables are tender, approximately 10-12 minutes.",
+    "Season with paleo-friendly seasonings as desired.",
+    "Serve immediately while still crunchy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crunchy",
+    "spanish",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "fermentcube-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermentcube-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:33:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "paleo",
+    "region": null
+  }
+}
