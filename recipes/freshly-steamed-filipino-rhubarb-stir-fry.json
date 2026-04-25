@@ -1,0 +1,84 @@
+{
+  "title": "Freshly Steamed Filipino Rhubarb Stir-fry",
+  "description": "This crisp and indulgent dish features fresh rhubarb in a light steaming process with a sprinkle of aromatic herbs for a delightful twist on classic Filipino flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green Onions (scallions)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Dried Galangal (Kalinga ginger, optional)",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Wash and thinly slice the rhubarb.",
+    "Mince the garlic, green onions (including some white part), shallots, and dried galangal if using.",
+    "In a wok or large skillet, heat sesame oil over medium-high heat. Add minced ingredients and stir-fry for 3-4 minutes until fragrant.",
+    "Add sliced rhubarb to the wok and stir gently for another minute.",
+    "Drizzle lime juice over the stir-fried mixture and mix well.",
+    "Serve immediately with additional slices of green onions on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-steamed",
+    "indulgent-filipino",
+    "rhubarb",
+    "nut-free-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "freshly-steamed-filipino-rhubarb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-steamed-filipino-rhubarb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:52:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "rhubarb",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Freshly Steamed",
+    "dishForm": "Stir-fry"
+  }
+}
