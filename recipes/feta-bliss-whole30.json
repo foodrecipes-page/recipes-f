@@ -1,0 +1,68 @@
+{
+  "title": "Feta Bliss Whole30",
+  "description": "A rich and crumbly whole30-friendly dish featuring feta cheese for a sick-day comfort food sensation.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup whole milk ricotta",
+      "amount": "",
+      "notes": "Ensure it's whole milk ricotta for the best texture"
+    },
+    {
+      "name": "2 tablespoons feta cheese",
+      "amount": "",
+      "notes": "Crumbled and aged to add richness and flavor"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "For added depth and balance"
+    },
+    {
+      "name": "1/4 cup chopped fresh herbs (e.g., parsley, mint)",
+      "amount": "",
+      "notes": "To enhance the flavors"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the whole milk ricotta with crumbled feta cheese.",
+    "Season with sea salt and stir until fully combined.",
+    "Fold in chopped fresh herbs for a burst of flavor.",
+    "Serve immediately or chill to preserve its texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whole30",
+    "feta",
+    "rich",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "feta-bliss-whole30",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/feta-bliss-whole30",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:14:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "feta",
+    "diet": "whole30",
+    "region": null
+  }
+}
