@@ -1,0 +1,64 @@
+{
+  "title": "Fermented Pea Salad",
+  "description": "A fresh and tender pea salad featuring frozen peas and a fermented element to add a unique twist for a whole30-friendly weeknight dish.",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Peas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1-2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Place the frozen peas in a large bowl.",
+    "Add apple cider vinegar and water to the peas, stirring gently with a spoon until all the peas are coated evenly.",
+    "Sprinkle salt over the mixture, mixing well. The salt will help preserve the fermentation process by drawing out excess moisture from the peas.",
+    "Cover the bowl with plastic wrap or a lid, leaving an edge for air circulation, and place it in a warm area at room temperature (around 70-85°F) for about 24 hours to allow natural fermentation to occur. Check on the mixture daily, stirring gently each time, to ensure even distribution of salt and vinegar.",
+    "After 24 hours or when fully fermented (you can taste to check), refrigerate the pea salad to slow down further bacterial growth. Use within a day for best flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-pea-salad",
+    "whole30-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 0.5
+  },
+  "slug": "fermented-pea-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-pea-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:13:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "frozen peas",
+    "diet": "whole30",
+    "region": null
+  }
+}
