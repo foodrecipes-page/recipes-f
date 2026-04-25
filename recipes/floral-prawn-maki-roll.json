@@ -1,0 +1,81 @@
+{
+  "title": "Floral Prawn Maki Roll",
+  "description": "A floral and fluffy Japanese dish featuring prawns in a meal-prep friendly format, suitable for vegetarians.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Wasabi Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cooked Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Avocado, sliced",
+      "amount": "1 pc"
+    },
+    {
+      "name": "Cucumber, peeled and sliced",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Prepare the prawns by removing their shells and deveining.",
+    "Mix rice vinegar, soy sauce, wasabi paste, and pepper in a small bowl to make the dipping sauce.",
+    "Place cooked sushi rice on bamboo mat or in a sushi rolling mat.",
+    "Spread a thin layer of avocado over one-third of the sushi rice.",
+    "Add evenly spread prawns across the top third of the avocade layer.",
+    "Top with cucumber slices and remaining sushi rice.",
+    "Wrap the roll tightly with seaweed sheet, starting from the short end of the mat or mat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "flower-flavored",
+    "panda-eyes-sushi",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "floral-prawn-maki-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-prawn-maki-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:16:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "prawns",
+    "diet": "jain",
+    "region": null
+  }
+}
