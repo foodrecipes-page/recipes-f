@@ -1,0 +1,73 @@
+{
+  "title": "Festive Corn Tortilla Tacos",
+  "description": "Salty and crumbly, these Festive Corn Tortilla Tacos are a festive Spanish dish featuring corn tortillas that have been toasted with spices for added flavor. Perfect for pescatarian diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of fresh corn tortilla chips",
+      "amount": "",
+      "notes": "Toasted ahead and kept in an airtight container"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "Tbsp",
+      "notes": "Heated to medium-high for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "1 small red bell pepper, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small yellow onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add salt to taste and cook until the tortilla chips become crispy and golden brown.",
+    "Stir in diced red bell pepper and finely chopped yellow onion.",
+    "Reduce heat to low, cover, and let it simmer for about 5 minutes or until the vegetables are soft but not mushy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "spanish",
+    "corn-tortilla",
+    "toasted-spice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "festive-corn-tortilla-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-corn-tortilla-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:21:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "corn tortillas",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
