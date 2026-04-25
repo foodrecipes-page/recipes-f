@@ -1,0 +1,89 @@
+{
+  "title": "Floral Knead Veggie Feast",
+  "description": "A floral and chewy vegetarian-friendly Moroccan dish featuring Sažan spice blend for a meal-prep option.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic Cloves, Minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Spinach Leaves",
+      "amount": "200g fresh"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sazon Spice Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Rosemary, Chopped",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat. Add onions and garlic; sauté for about 3 minutes until softened.",
+    "Stir in tomato paste, seasonings (Sazon blend, cumin, coriander), paprika, and vegetable stock cubes. Simmer for about 10 minutes to meld flavors.",
+    "Add spinach leaves; cook until wilted. Reduce heat to low and continue simmering for an additional 5-7 minutes or until sauce thickens slightly.",
+    "Serve hot over rice, couscous, or as a side dish with grilled vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "chewy",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 7
+  },
+  "slug": "floral-knead-veggie-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-knead-veggie-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:26:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "sazon",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
