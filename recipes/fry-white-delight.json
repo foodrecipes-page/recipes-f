@@ -1,0 +1,65 @@
+{
+  "title": "Fry-White Delight",
+  "description": "A savory, crisp, and low-calorie-friendly Ukrainian brunch dish made with strong white flour, served as a snack or light meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 eggs"
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick frying pan over medium heat.",
+    "Mix the flour, milk, and eggs in a bowl until you get a smooth batter. It should be thick enough to coat the dough balls well but not too stiff.",
+    "Roll small pieces of yeast dough into balls about the size of golf balls.",
+    "Dip each ball gently into the batter mixture until fully coated.",
+    "Place the coated balls on the preheated pan and fry for 3-4 minutes or until golden brown. Turn with a spatula to fry the other side.",
+    "Remove from heat once they are crispy and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fried-dish",
+    "uhrukinain-snack",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "fry-white-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-white-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:33:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "strong white flour",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
