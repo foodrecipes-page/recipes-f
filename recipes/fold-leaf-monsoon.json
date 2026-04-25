@@ -1,0 +1,83 @@
+{
+  "title": "Fold & Leaf Monsoon",
+  "description": "A rich and tender Thai dish featuring baby lettuce leaves, perfectly balanced for a low-carb-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Lettuce Leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Pepper, sliced",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add minced garlic and sliced chili pepper, sauté for 30 seconds.",
+    "Stir in soy sauce and tamarind paste. Bring to a simmer.",
+    "Reduce heat to low and add coconut milk. Simmer until the mixture thickens slightly.",
+    "Fold baby lettuce leaves into the sauce, tossing gently to coat each leaf.",
+    "Serve hot as a side dish or over rice for an authentic Thai monsoon flavor experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon",
+    "thai",
+    "vegan",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 2.9,
+    "carbs": 8.4,
+    "fat": 5.8
+  },
+  "slug": "fold-leaf-monsoon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fold-leaf-monsoon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:05:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "low-carb",
+    "region": null
+  }
+}
