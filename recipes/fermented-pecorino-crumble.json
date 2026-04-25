@@ -1,0 +1,63 @@
+{
+  "title": "Fermented Pecorino Crumble",
+  "description": "A light and nutritious Norwegian dish featuring pecorino cheese that is fermented and crumbly in texture. This recipe is designed to be sous-vide cooked and is also fodmap-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pecorino cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "sugar-free sweetener (optional)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 65°C.",
+    "Chop the pecorino cheese into small cubes and mix with a bit of sugar-free sweetener (if using) and salt.",
+    "Place the cheese mixture in a sous-vive bag and seal it tightly. Vacuum sealing is optional but recommended for even cooking.",
+    "Cook the sealed sous-vide bag for 1 hour at 65°C.",
+    "Let cool down to room temperature, then use your fingers or a fork to break up the cheese into a crumbly consistency.",
+    "Store in an airtight container and refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crumbly",
+    "norwegian",
+    "sous-vide",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 9.46,
+    "carbs": 10.37,
+    "fat": 15.8
+  },
+  "slug": "fermented-pecorino-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-pecorino-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:11:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "pecorino",
+    "diet": "fodmap",
+    "region": null
+  }
+}
