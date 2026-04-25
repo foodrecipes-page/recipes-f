@@ -1,0 +1,84 @@
+{
+  "title": "Fluffy Ketchup Fried Rice",
+  "description": "This quick-fix Malaysian dish features a garlicky and fluffy texture with the addition of tomato ketchup for a low-carb twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups jasmine rice",
+      "amount": "cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 onion, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "8 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (8 oz) tomato ketchup",
+      "amount": "can"
+    },
+    {
+      "name": "100g egg whites",
+      "amount": "100 grams",
+      "notes": "For low-carb option"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 tablespoon sugar (optional for sweetness)",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the chopped onion and garlic, cooking until translucent.",
+    "Stir in the tomato ketchup and soy sauce, mixing well to combine.",
+    "Fold in the egg whites (or any extra protein of choice) into the sauce mixture.",
+    "Gradually add the rice, tossing constantly to coat evenly with the sauce.",
+    "Cook for 2-3 minutes until heated through. Season with salt if desired.",
+    "Serve hot as a meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-ketchup-fried-rice",
+    "garlicky-malaysian-dish",
+    "quick-fix-low-carb"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "fluffy-ketchup-fried-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-ketchup-fried-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:05:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "low-carb",
+    "region": null
+  }
+}
