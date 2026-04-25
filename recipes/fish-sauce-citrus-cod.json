@@ -1,0 +1,75 @@
+{
+  "title": "Fish Sauce Citrus Cod",
+  "description": "This quick-fix Spanish dish combines the tangy freshness of fish sauce with the vibrant flavors of citrus to create a silky and citrusy masterpiece that is perfect for low-carb diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillet",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Fresh lemon",
+      "amount": "2"
+    },
+    {
+      "name": "Orange",
+      "amount": "1"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "For taste enhancement"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Slice the lemons and oranges into thin rounds.",
+    "Place the cod fillets on a baking sheet lined with parchment paper, skin-side up. Season lightly with salt.",
+    "Gently rub each side of the fish with olive oil.",
+    "Arrange lemon slices around the fish to infuse its tangy flavor.",
+    "Drizzle half of the fish sauce over each piece of fish and top with an orange slice on each.",
+    "Bake in preheated oven for about 12-15 minutes or until the cod is cooked through (internal temperature should reach at least 145°F).",
+    "Garnish with extra lemon slices and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish sauce",
+    "citrus",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "fish-sauce-citrus-cod",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fish-sauce-citrus-cod",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:29:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "fish sauce",
+    "diet": "low-carb",
+    "region": null
+  }
+}
