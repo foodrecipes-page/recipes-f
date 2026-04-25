@@ -1,0 +1,88 @@
+{
+  "title": "Florinoodles",
+  "description": "A floral, creamy, light Mexican (Yucatecan) dish featuring egg noodles in a fresh seafood sauce.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup egg noodles",
+      "amount": "",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves",
+      "amount": "",
+      "notes": "Chiffonade (thinly sliced)"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": "Washed and dried"
+    },
+    {
+      "name": "2 oz light cream cheese or vegan light cream cheese",
+      "amount": "",
+      "notes": "Shredded"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of olive oil in a pan over medium heat.",
+    "Add garlic and sauté until fragrant, about 30 seconds.",
+    "Add bell peppers and cook for another minute.",
+    "Stir in the cooked egg noodles and cream cheese. Mix well to combine.",
+    "Pour in the lime juice and chopped parsley. Toss gently to mix evenly.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "florinoodles",
+    "yucatecan",
+    "creamy",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "florinoodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/florinoodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:01:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "egg noodles",
+    "diet": "pescatarian",
+    "region": "yucatecan"
+  }
+}
