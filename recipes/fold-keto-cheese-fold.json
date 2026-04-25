@@ -1,0 +1,71 @@
+{
+  "title": "Fold Keto Cheese Fold",
+  "description": "A nutty and juicy meal-prep Ethiopian dish featuring Monterey Jack cheese, Fold, a keto-friendly ingredient.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fold",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a baking dish.",
+    "In a mixing bowl, combine Fold, Monterey Jack Cheese, almond flour, eggs, baking powder, and salt. Mix until well combined.",
+    "Pour the mixture into the prepared baking dish and bake for 20 minutes or until golden brown on top.",
+    "Let it cool down before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fold-keto-cheese-fold",
+    "nutty-juicy-meal-prep-ethiopian-dish",
+    "monterey-jack-cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "fold-keto-cheese-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fold-keto-cheese-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:51:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "keto",
+    "region": null
+  }
+}
