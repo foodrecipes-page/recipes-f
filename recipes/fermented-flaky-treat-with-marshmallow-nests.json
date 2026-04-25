@@ -1,0 +1,71 @@
+{
+  "title": "Fermented Flaky Treat with Marshmallow Nests",
+  "description": "This one-pot Russian dish features a salty, flaky base with miniature marshmallows and a touch of fermentation for added depth of flavor. It's designed to be jain-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Mineral Water or Ice-Cold Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds (optional)",
+      "amount": "A small handful for topping"
+    },
+    {
+      "name": "Marshmallows",
+      "amount": "3-4 individual marshmallows, halved"
+    },
+    {
+      "name": "Fermented Vegetables (e.g., fermented carrots or beets)",
+      "amount": "1/2 cup, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, mix the mineral water with a pinch of salt. Soak the puff pastry sheet in this mixture for about 30 seconds.",
+    "Carefully remove the soaked puff pastry and place it on an ungreased baking sheet. Sprinkle sesame seeds over the top if using.",
+    "Using a fork or your hands, poke small holes evenly across the surface of the pastry to help with air pockets formation during baking.",
+    "Arrange the halved marshmallows in the bottom half of the puff pastry base, creating nests for them. Place the chopped fermented vegetables inside each nest as well.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown and crispy on top.",
+    "Remove from heat and let cool slightly before serving. Garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-flaky-treat",
+    "marshmallow-nests",
+    "russian-dish",
+    "salty-flaky"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "fermented-flaky-treat-with-marshmallow-nests",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-flaky-treat-with-marshmallow-nests",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:05:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "jain",
+    "region": null
+  }
+}
