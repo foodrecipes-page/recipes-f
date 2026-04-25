@@ -1,0 +1,78 @@
+{
+  "title": "Fennel Caramelsweet Paleo",
+  "description": "A tangy and crisp Canadian dish featuring fennel seeds, caramelize to perfection with a dash of sweetness for a hangover cure, strictly paleo-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "4 oz (113g) coconut sugar",
+      "amount": "oz",
+      "notes": "For Paleo, ensure it's refined white coconut sugar"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "Tbsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup (120ml) water",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "3 large fennel bulbs",
+      "amount": "each bulb",
+      "notes": "Trim the stalks, remove inner core"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon",
+      "notes": null
+    },
+    {
+      "name": "Pinch sea salt",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Melt coconut sugar and butter in a saucepan over low heat, stirring frequently to prevent burning.",
+    "Add water and bring to a boil, then reduce heat to medium-low. Add fennel bulbs along with the lemon juice and salt.",
+    "Simmer for about 20-30 minutes until fennel is soft and caramelized. Stir occasionally to keep from sticking.",
+    "Remove from heat, carefully transfer fennel to a serving dish or mold (using gloves if hot).",
+    "Let cool before serving. Enjoy as an indulgent yet healthy dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fennel",
+    "caramelized",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 8,
+    "carbs": 39,
+    "fat": 10
+  },
+  "slug": "fennel-caramelsweet-paleo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fennel-caramelsweet-paleo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:40:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "fennel seeds",
+    "diet": "paleo",
+    "region": null
+  }
+}
