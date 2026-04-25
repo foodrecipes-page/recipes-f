@@ -1,0 +1,84 @@
+{
+  "title": "Flourish Earthy Delight",
+  "description": "An earthy and fluffy one-pot dish featuring phyllo dough with a dairy-free-friendly twist, perfect for breakfast or lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "1 cup fresh, washed and dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat olive oil in a skillet over medium heat. Add garlic and sauté until fragrant, about 2 minutes.",
+    "Add tomato sauce and oregano, stir well for an additional minute.",
+    "Fold the phyllo dough sheet into thirds lengthwise to form a tube.",
+    "Place spinach leaves inside each folded end of the phyllo dough tube. Fold over tightly, pressing edges with your fingers.",
+    "Carefully transfer the filled tube onto a baking sheet lined with parchment paper. Bake for 15-20 minutes or until golden brown and crispy on top.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthly",
+    "fluffy",
+    "turkish",
+    "one-pot",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "flourish-earthy-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flourish-earthy-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:53:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "phyllo dough",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
