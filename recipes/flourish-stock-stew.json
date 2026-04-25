@@ -1,0 +1,88 @@
+{
+  "title": "Flourish Stock Stew",
+  "description": "A savory and fluffy American dish featuring beef stock cubes as the base with a touch of adventurous flavor without using eggs.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stock Cubes",
+      "amount": "2",
+      "notes": "Ensure you use fresh beef stock cubes for best results."
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1 medium",
+      "notes": "Using a medium onion gives the stew a good balance of flavor and texture."
+    },
+    {
+      "name": "Garlic Cloves, Mashed",
+      "amount": "2",
+      "notes": "Mashing garlic makes it easier to cook while still retaining its strong flavor."
+    },
+    {
+      "name": "Bell Peppers, Sliced",
+      "amount": "1 large each (red, yellow)",
+      "notes": "Adding a variety of colors gives the dish more visual appeal and depth of flavor."
+    },
+    {
+      "name": "Carrots, Chopped",
+      "amount": "3 medium",
+      "notes": "Chopped carrots provide a nice contrast in texture to the stew."
+    },
+    {
+      "name": "Celery, Stems Removed & Chopped",
+      "amount": "1 stalk",
+      "notes": "The celery provides a subtle yet essential taste that complements other ingredients."
+    },
+    {
+      "name": "Leaves of Fresh Thyme",
+      "amount": "A few sprigs",
+      "notes": "Fresh thyme adds herbal notes to the stew, enhancing its overall flavor profile."
+    },
+    {
+      "name": "Cold Water",
+      "amount": "2 liters (1 cup = 8 ounces)",
+      "notes": "Using cold water helps prevent any unwanted reactions during cooking and ensures a flavorful stock base."
+    }
+  ],
+  "instructions": [
+    "Place beef stock cubes in a large pot with cold water. Bring to a boil over medium heat, then reduce heat to low.",
+    "Add chopped onion and mashed garlic cloves to the boiling mixture and cook until softened, about 5 minutes.",
+    "Add sliced bell peppers, carrots, and chopped celery. Stir well and cover.",
+    "Simmer gently for at least 30 minutes, stirring occasionally, ensuring vegetables are fully tenderized.",
+    "Stir in fresh thyme leaves and continue simmering for another 15-20 minutes to infuse the flavors into the stock.",
+    "Remove from heat. Allow it to cool down slightly before blending into a smooth consistency if desired.",
+    "Serve hot as a side dish or over rice, noodles, or crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "stock stew",
+    "savory",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "flourish-stock-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flourish-stock-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:54:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "egg-free",
+    "region": null
+  }
+}
