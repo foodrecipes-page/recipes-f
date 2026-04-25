@@ -1,0 +1,81 @@
+{
+  "title": "Fluffy Lime Leaf Delight",
+  "description": "A show-off Moroccan dish featuring fermented lime leaves, blanched and served as a gluten-free-friendly snack with a touch of tangy freshness.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lime leaves",
+      "amount": "10-15",
+      "notes": "fresh, cleaned and de-stemmed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8",
+      "notes": "slightly crushed for flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "finely minced or grated, fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin for its freshness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning the leaves and other ingredients"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, for a spicy kick"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "lightly toasted for added texture"
+    }
+  ],
+  "instructions": [
+    "Blend lime leaves, garlic, ginger, olive oil, salt, and red pepper flakes (if using) in a food processor or blender until smooth.",
+    "Transfer the mixture to a serving dish and sprinkle with toasted sesame seeds.",
+    "Serve chilled as a refreshing snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "limes",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "fluffy-lime-leaf-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-lime-leaf-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:41:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "lime leaves",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
