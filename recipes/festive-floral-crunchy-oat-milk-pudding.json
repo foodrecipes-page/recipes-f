@@ -1,0 +1,82 @@
+{
+  "title": "Festive Floral Crunchy Oat Milk Pudding",
+  "description": "A festive and flavorful Syrian dish featuring a blend of oat milk, almond cure, and crunchy toppings that make it perfect for breakfast or as a dessert.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup unsweetened oat milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons almond cure or any other suitable flavoring agent like matcha powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups coconut flakes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh mint leaves, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup crushed roasted pistachios",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons shredded coconut for garnish",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix the oat milk and almond cure in a blender until smooth.",
+    "Fold in the coconut flakes, chopped mint leaves, and crushed pistachios into the blended mixture until well combined.",
+    "Pour the mixture into molds or small ramekins and refrigerate for at least an hour before serving.",
+    "Garnish each serving with shredded coconut for added texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "floral",
+    "crunchy",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "festive-floral-crunchy-oat-milk-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-floral-crunchy-oat-milk-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:26:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "oat milk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Oats",
+    "descriptor": "Floral Crunchy Festive",
+    "dishForm": "Pudding"
+  }
+}
