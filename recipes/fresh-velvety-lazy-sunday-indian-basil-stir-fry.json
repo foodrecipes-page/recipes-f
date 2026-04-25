@@ -1,0 +1,80 @@
+{
+  "title": "Fresh Velvety Lazy Sunday Indian Basil Stir-fry",
+  "description": "A fresh and velvety lazy Sunday dish inspired by Maharashtrian cuisine featuring basil and fermented ingredients for a unique flavor profile suitable for keto-friendly diets.",
+  "cuisine": "Indian (Maharashtrian)",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basil leaves",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp finely chopped"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "few sprigs"
+    },
+    {
+      "name": "rock salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fermented vegetables (optional)",
+      "amount": "a few pieces, for garnish"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the basil into small pieces.",
+    "Heat coconut milk in a pan over medium heat until it starts to simmer but not boiling.",
+    "Add finely chopped ginger and curry leaves to the heated coconut milk mixture. Stir well to combine.",
+    "Gradually add the chopped basil leaves, stirring continuously to prevent them from breaking down too much.",
+    "Season with rock salt according to your taste preference.",
+    "Serve hot as a side dish or garnished over keto-friendly crackers or naan bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "fresh",
+    "velvety",
+    "indian-maharashtrian",
+    "basil-stir-fry",
+    "fermented-ingredients"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "fresh-velvety-lazy-sunday-indian-basil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-velvety-lazy-sunday-indian-basil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:09:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "ferment",
+    "primaryIngredient": "basil",
+    "diet": "keto",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "basil",
+    "descriptor": "fresh velvety lazy sunday",
+    "dishForm": "Stir-fry"
+  }
+}
