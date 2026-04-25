@@ -1,0 +1,75 @@
+{
+  "title": "Fuzzy Prawn Boil",
+  "description": "A kid-friendly American dish featuring fresh king prawns in a silky broth that's both delicious and easy to make. This recipe is also suitable for those following a fodmap diet.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "low-fodmap"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Chicken bouillon cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "a handful for garnish"
+    }
+  ],
+  "instructions": [
+    "Place the king prawns in a large pot.",
+    "Add water and chicken bouillon cube to the pot.",
+    "Bring to a boil over medium heat, then reduce to a simmer.",
+    "Simmer gently for about 5 minutes, adding minced garlic during the last minute of cooking.",
+    "Season with salt to taste. Remove from heat immediately once done.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fuzzy-prawn-boil",
+    "kid-friendly-appetizer",
+    "american-recipe",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 19,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "fuzzy-prawn-boil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fuzzy-prawn-boil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:54:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "king prawns",
+    "diet": "fodmap",
+    "region": null
+  }
+}
