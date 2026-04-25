@@ -1,0 +1,83 @@
+{
+  "title": "FiveHerbQuickCurry",
+  "description": "A herbal, dense Algerian dish featuring Chinese five spice powder and cure, dairy-free-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese Five Spice Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add Chinese Five Spice Powder, Turmeric Powder, Cumin Seeds, Fennel Seeds, and Coriander Seeds. Toast for about 30 seconds.",
+    "Crush ginger and garlic finely with a mortar and pestle or use a food processor to make paste.",
+    "Stir in the paste into the seeds mixture, then add sliced onions and continue to cook until they are translucent.",
+    "Pour in hot water (about 2 cups) over the herbs, making sure everything is submerged. Let it simmer for about 5 minutes.",
+    "Reduce heat to low and let it simmer gently for another 10-15 minutes or until you get a dense consistency.",
+    "Turn off heat, cover with a lid and allow to sit for at least 5 more minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "five-herb",
+    "quick-fix",
+    "algerian",
+    "dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "fiveherbquickcurry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiveherbquickcurry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:59:05Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
