@@ -1,0 +1,92 @@
+{
+  "title": "Fermented Asparagus Wrap",
+  "description": "This vegan-friendly fermented wrap combines juicy asparagus with a tangy marinade for a refreshing meal-prep french dish.",
+  "cuisine": "vegan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus spears",
+      "amount": "1 bunch",
+      "notes": "Freshly cleaned and trimmed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Brandy or apple cider vinegar can be used as a substitute for those allergic to rice vinegar."
+    },
+    {
+      "name": "hemp seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water or lemon juice",
+      "amount": "4 tablespoons",
+      "notes": "For extra moisture and flavor."
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare asparagus by washing and trimming the spears.",
+    "Mix rice vinegar, lime juice, water or lemon juice, dijon mustard, olive oil, salt, and pepper in a bowl to create the marinade. Add hemp seeds for texture.",
+    "Place asparagus spears in the marinade, cover with plastic wrap, and refrigerate for at least 4 hours or overnight to ferment.",
+    "After marinating, pat dry the asparagus slightly before serving it cold with vegan cheese slices inside whole-grain wraps or flatbreads. Optionally add sliced avocado for extra creaminess."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-wrap",
+    "juicy-asparagus",
+    "vegan-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "fermented-asparagus-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-asparagus-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:08:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "asparagus",
+    "diet": "vegan",
+    "region": null
+  }
+}
