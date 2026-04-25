@@ -1,0 +1,79 @@
+{
+  "title": "Flourpot Pickle Delight",
+  "description": "A crowd-pleasing German dish featuring bitter, crunchy floury potatoes with a touch of pickle to enhance the flavor and texture.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 medium russet potatoes",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup apple cider vinegar",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup distilled water",
+      "amount": "cup"
+    },
+    {
+      "name": "3-4 tbsp pickling salt (kosher or sea)",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and slice them into thin rounds.",
+    "Mix the flour, lemon juice, salt, garlic, apple cider vinegar, water, and pickling salt in a large bowl. Add the potato slices to the mixture and toss gently until they are coated evenly.",
+    "Transfer the coated potatoes to a microwave-safe dish or a pot that can be sealed tightly with plastic wrap or a lid.",
+    "Microwave on high for 5-7 minutes, turning halfway through cooking time. Alternatively, you can use a pressure cooker set to low pressure for about 10 minutes.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flourpot",
+    "pickle",
+    "crunchy",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1.5,
+    "carbs": 9,
+    "fat": 0
+  },
+  "slug": "flourpot-pickle-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flourpot-pickle-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:39:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "floury potatoes",
+    "diet": "plant-based",
+    "region": null
+  }
+}
