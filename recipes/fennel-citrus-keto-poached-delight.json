@@ -1,0 +1,80 @@
+{
+  "title": "Fennel Citrus Keto Poached Delight",
+  "description": "A light and citrusy German dish featuring a poached fennel bulb with keto-friendly elements for weeknight meals.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water or low-sodium vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Slice the fennel bulb into thin rounds.",
+    "Combine the sliced fennel with water or vegetable broth in a pot. Add lemon juice, orange zest, salt, pepper, and garlic.",
+    "Bring to a boil over medium heat, then reduce heat to low and simmer for about 20 minutes until tender.",
+    "Garnish with fresh parsley if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fennel",
+    "citrus",
+    "keto",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 97,
+    "protein": 2.1,
+    "carbs": 16.3,
+    "fat": 0.8
+  },
+  "slug": "fennel-citrus-keto-poached-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fennel-citrus-keto-poached-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:09:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "fennel bulb",
+    "diet": "keto",
+    "region": null
+  }
+}
