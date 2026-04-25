@@ -1,0 +1,93 @@
+{
+  "title": "Floral Tender Vietnamese Eggs Stir-fry",
+  "description": "A kid-friendly floral and tender Vietnamese egg dish that is both paleo-friendly and suitable for those with dietary restrictions.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "6 eggs",
+      "amount": "2 per serving",
+      "notes": "Separate yolks from whites"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "",
+      "notes": "Juice and zest both halves"
+    },
+    {
+      "name": "1 tbsp fish sauce (or tamari for a vegan option)",
+      "amount": "",
+      "notes": "For paleo, use tamari as it is gluten-free"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "1/2 tsp crushed red pepper flakes (optional, for heat)"
+    },
+    {
+      "name": "1/4 cup shredded carrots (paleo-friendly option)",
+      "amount": "",
+      "notes": "For a lighter version use baby spinach or microgreens instead of cooked vegetables"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "a sprinkle",
+      "notes": "Toasted for extra flavor"
+    },
+    {
+      "name": "Fresh herbs like cilantro or Thai basil (paleo-friendly option)",
+      "amount": "",
+      "notes": "Chopped finely"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, beat the yolks separately from whites. Mix in lemon juice and zest into each yolk.",
+    "Beat egg whites until stiff peaks form. Fold them gently into yolk mixture to combine.",
+    "Add minced garlic and red pepper flakes (if using) to yolk mixture and mix well.",
+    "Heat a non-stick skillet over medium heat, add some oil and pour in the yolk mixture. Gently stir to avoid breaking the yolks too much.",
+    "When egg is partially set, sprinkle sesame seeds on top of each serving for added texture and flavor.",
+    "Top with fresh herbs or microgreens if using. Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "tender",
+    "kid-friendly",
+    "vietnamese",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "floral-tender-vietnamese-eggs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-vietnamese-eggs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:23:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "eggs",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Eggs",
+    "descriptor": "Floral Tender",
+    "dishForm": "Stir-fry"
+  }
+}
