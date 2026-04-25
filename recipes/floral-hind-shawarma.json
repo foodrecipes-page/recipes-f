@@ -1,0 +1,88 @@
+{
+  "title": "Floral Hind Shawarma",
+  "description": "A creamy floral dish featuring a hind shank baked in a dairy-free friendly way for a post-workout treat.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "1 lb (450g)",
+      "notes": "ensure it is from a fully cooked source"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups",
+      "notes": "substitute with almond or soy milk for dairy-free option"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "ensure it is vegan-friendly if using butter"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting and glazing purposes"
+    },
+    {
+      "name": "rose water extract or syrup",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste for floral flavoring"
+    },
+    {
+      "name": "unsalted cashews (optional)",
+      "amount": "8 oz (225g)",
+      "notes": "soaked and drained before use"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Dip hind shank into a mixture of flour, rose water extract, and unsweetened coconut milk. Let it sit for 10 minutes.",
+    "Drain excess liquid from cashews, if using. Place them in a blender with the remaining coconut milk. Blend until smooth and set aside.",
+    "Heat butter in a saucepan over medium heat. Add vanilla bean paste and stir gently to combine. Pour half of this mixture into a large bowl containing the soaked and drained cashews. Mix well to ensure they are evenly coated.",
+    "Place the hind shank on a baking sheet lined with parchment paper or aluminum foil. Drizzle it generously with remaining coconut milk, ensuring all surfaces are covered. Then brush it with the sauce made from butter and vanilla bean paste.",
+    "Bake for 1 hour, turning the hind shank halfway through the process to ensure even cooking. Check on temperature using an oven-safe thermometer. The internal temperature should reach at least 145°F (63°C).",
+    "Once done, let it rest for a couple of minutes before slicing and serving with cashew sauce on top.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hind shank",
+    "coconut milk",
+    "rose water",
+    "vanilla",
+    "cashews"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 70,
+    "carbs": 230,
+    "fat": 65
+  },
+  "slug": "floral-hind-shawarma",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-hind-shawarma",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:35:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "hind shank",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
