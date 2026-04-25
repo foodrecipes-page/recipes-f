@@ -1,0 +1,79 @@
+{
+  "title": "Fiery-Ricekrispie-Kebap",
+  "description": "A savory and silky Turkish dish featuring crispy Rice Krispies combined with fermented vegetables and raw-friendly elements for a show-off twist.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented vegetables (e.g., pickled cucumbers or radishes)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "3 pinches"
+    },
+    {
+      "name": "Fermented yogurt (for dressing)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Raw honey or maple syrup",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Rice Krispies and fermented vegetables.",
+    "Sprinkle sesame seeds over the mixture and stir to evenly distribute.",
+    "Mix in garlic powder until well combined.",
+    "Add red pepper flakes and mix again until flavors are distributed evenly.",
+    "Stir in fermented yogurt and raw honey or maple syrup until a sticky paste forms. The mixture will be somewhat damp but not overly wet.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Using your fingers, shape into kebabs of desired size, arranging them neatly on the baking sheet.",
+    "Bake at 160°C (320°F) for about 15 minutes or until golden brown and crispy.",
+    "Remove from oven and serve immediately as a raw-friendly snack.",
+    "Optional: Serve with lemon wedges to enhance flavor and add freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fiery-ricekrispie-kebap",
+    "savory-silky-show-off-turkish-dish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3.5,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "fiery-ricekrispie-kebap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-ricekrispie-kebap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:39:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "rice krispies",
+    "diet": "raw",
+    "region": null
+  }
+}
