@@ -1,0 +1,66 @@
+{
+  "title": "Fromage Fresco Fiesta",
+  "description": "A salty, crispy, crowd-pleasing Venezuelan dish featuring fromage frais, packed with protein and low in carbs, suitable for a quick lunch or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fromage Frais",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Croutons",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Mix the fromage frais with croutons, parsley, salt, and pepper.",
+    "Chop all ingredients finely for uniform texture.",
+    "Stir gently to combine well. Serve immediately as a light snack or lunch accompaniment."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fromage frais",
+    "croutons",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "fromage-fresco-fiesta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fromage-fresco-fiesta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:58:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fromage frais",
+    "diet": "jain",
+    "region": null
+  }
+}
