@@ -1,0 +1,79 @@
+{
+  "title": "Flor de Caña Stuffed Leaves",
+  "description": "A rich and crisp Argentinian dish featuring vine leaves that are marinated to perfection before being stuffed with a flavorful mixture. This egg-free-friendly recipe is simple yet delicious.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flor de Caña vine leaves",
+      "amount": "16"
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Ground beef or pork (vegan alternative)",
+      "amount": "400g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Tomato sauce or paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the vine leaves by washing them thoroughly to remove any dirt.",
+    "Chop the bell peppers, onions, and garlic. Sauté the chopped vegetables in a bit of olive oil until softened.",
+    "Add ground beef or pork (vegan alternative) and cook until browned. Stir in tomato sauce or paste and simmer for about 10 minutes.",
+    "Lay each vine leaf flat on a plate, place a spoonful of meat mixture down the center, and roll tightly to enclose the filling.",
+    "Heat oven to 350°F (175°C). Place stuffed leaves in a baking dish, seam side up, and bake for about 20-25 minutes or until leaves are tender and slightly crispy on top.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flor-de-cana",
+    "stuffed-leaves",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 38,
+    "carbs": 29,
+    "fat": 19
+  },
+  "slug": "flor-de-caña-stuffed-leaves",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flor-de-caña-stuffed-leaves",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:23:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "vine leaves",
+    "diet": "egg-free",
+    "region": null
+  }
+}
