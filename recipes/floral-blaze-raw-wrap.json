@@ -1,0 +1,104 @@
+{
+  "title": "Floral Blaze Raw Wrap",
+  "description": "A post-workout Algerian dish featuring a floral blend of red chilli and spices wrapped in raw-friendly ingredients.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 wrap",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp red chilli paste",
+      "amount": "2 tbsp",
+      "notes": "Can be mixed with a bit of water to make it easier to apply."
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "1/4 tsp",
+      "notes": "For the golden hue and flavor enhancement."
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch",
+      "notes": "For a slight heat and aromatic kick."
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 cucumber, julienned",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 carrot, julienned",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 bell pepper, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cherry tomatoes, halved",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup raw yogurt or goat cheese",
+      "amount": "1 cup",
+      "notes": "For a creamy base to the wrap."
+    }
+  ],
+  "instructions": [
+    "Apply red chilli paste and spices over cucumber, carrot, bell pepper, and cherry tomatoes.",
+    "Mix olive oil into red chilli mixture for better coating on veggies.",
+    "Lay julienned vegetables in circular pattern on wrap dough.",
+    "Top with raw yogurt or goat cheese evenly across the fillings.",
+    "Fold the wrap to enclose all ingredients tightly.",
+    "Let it rest at room temperature for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "g gooey",
+    "post-workout",
+    "algerian",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "floral-blaze-raw-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-blaze-raw-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:02:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "red chilli",
+    "diet": "raw",
+    "region": null
+  }
+}
