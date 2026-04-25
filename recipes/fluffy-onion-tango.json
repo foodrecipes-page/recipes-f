@@ -1,0 +1,76 @@
+{
+  "title": "Fluffy Onion Tango",
+  "description": "A tangy and fluffy Portuguese dish featuring onions as the star ingredient, perfect for a solo dinner with low-fat-friendly options.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the onions into thin slices.",
+    "In a small mixing bowl, combine soy sauce, vinegar, and sesame oil. Stir well until the flavors are thoroughly mixed.",
+    "Add salt and pepper to taste in the mixture.",
+    "Heat a non-stick pan over medium heat. Add a bit of sesame oil if desired for added flavor.",
+    "Place the sliced onions into the hot pan. Sauté the onions gently, turning occasionally to ensure they do not burn.",
+    "Pour the soy sauce and vinegar mixture over the onions in the pan, stirring well to coat the onions evenly.",
+    "Continue cooking until the onions are golden brown and slightly crispy on top. This should take about 10-15 minutes.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-onion-tango",
+    "tangy-portuguese-dish",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "fluffy-onion-tango",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-onion-tango",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:12:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "onions",
+    "diet": "low-fat",
+    "region": null
+  }
+}
