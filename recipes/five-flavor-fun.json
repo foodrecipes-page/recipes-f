@@ -1,0 +1,73 @@
+{
+  "title": "Five Flavor Fun果香五香",
+  "description": "这道甜美的果香五香适合孩子们尝试，主要使用五香粉、少量的调料和水果制成，既有趣又健康。",
+  "cuisine": "中国",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "苹果",
+      "amount": "1个中等大小"
+    },
+    {
+      "name": "香蕉",
+      "amount": "2根"
+    },
+    {
+      "name": "蜂蜜",
+      "amount": "适量"
+    },
+    {
+      "name": "五香粉",
+      "amount": "一小茶匙"
+    },
+    {
+      "name": "柠檬汁",
+      "amount": "数滴"
+    },
+    {
+      "name": "苹果醋",
+      "amount": "半茶匙"
+    }
+  ],
+  "instructions": [
+    "清洗并去皮苹果和香蕉。",
+    "将香蕉切成小块，用蜂蜜稍微腌制10分钟。",
+    "取一半的五香粉撒在香蕉上，然后均匀涂抹柠檬汁和苹果醋。",
+    "将果酱放入烤盘中，在350°F（约175°C）预热的烤箱中烘烤大约15-20分钟。",
+    "待冷却后即可食用。"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "五香粉",
+    "果酱",
+    "低脂食品",
+    "健康"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "five-flavor-fun",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/five-flavor-fun",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:21:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-fat",
+    "region": null
+  }
+}
