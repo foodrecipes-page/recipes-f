@@ -1,0 +1,69 @@
+{
+  "title": "Frozen Pea Snow",
+  "description": "A fluffy and light Chinese dish featuring frozen peas with a touch of smokiness, perfect for a diabetic-friendly snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frozen Peas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "6 cups",
+      "notes": "For thawing and boiling"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sherry or Dry Red Wine",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Thaw the frozen peas in water and then boil them for about 5 minutes until heated through.",
+    "Drain the peas, reserving some cooking liquid if needed.",
+    "In a small saucepan, mix together soy sauce, sherry, and pepper powder. Heat gently to allow flavors to meld.",
+    "Pour the prepared sauce over the hot boiled peas and toss well to coat them evenly.",
+    "Serve immediately as an appetizer or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "frozen-pea",
+    "smoky-chinese",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "frozen-pea-snow",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/frozen-pea-snow",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:55:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "frozen peas",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
