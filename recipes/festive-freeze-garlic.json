@@ -1,0 +1,66 @@
+{
+  "title": "Festive Freeze-Garlic",
+  "description": "A halal-friendly Uruguayan dish featuring a fermented and gooey mix of frozen seafood seasoned with garlic for a festive touch.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frozen mixed seafood",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves",
+      "notes": "Peel and crush finely"
+    },
+    {
+      "name": "Fresh herbs (cilantro, parsley)",
+      "amount": "handful each",
+      "notes": "Chopped fresh for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "For extra crunch and festive look"
+    }
+  ],
+  "instructions": [
+    "Place the mixed seafood in a bowl, sprinkle with crushed garlic, chopped herbs, and sesame seeds.",
+    "Gently toss until all ingredients are evenly distributed. Refrigerate for at least 24 hours to allow fermentation.",
+    "Freeze the mixture in an ice cube tray overnight or for several days.",
+    "When ready to serve, thaw cubes slightly before placing them on a grill over medium heat.",
+    "Flip and season with salt as desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "freeze-garlic",
+    "uruguayan",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 19,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "festive-freeze-garlic",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-freeze-garlic",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:42:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "halal",
+    "region": null
+  }
+}
