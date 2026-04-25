@@ -1,0 +1,89 @@
+{
+  "title": "Fermented Juicy Comforting Lemon Stir-fry",
+  "description": "This egg-free-friendly fermented and juicy Turkish dish features dry sherry for a unique flavor profile.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "1/4 cup dry sherry",
+      "amount": "liquid"
+    },
+    {
+      "name": "2 tablespoons fresh lemon juice",
+      "amount": "liquid"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "solid"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "solid"
+    },
+    {
+      "name": "1 tablespoon honey or maple syrup",
+      "amount": "solid"
+    },
+    {
+      "name": "3 tablespoons soy sauce (or tamari for gluten-free option)",
+      "amount": "liquid"
+    },
+    {
+      "name": "1 cup fermented vegetables (such as pickles or kimchi, drained and rinsed)",
+      "amount": "solid"
+    }
+  ],
+  "instructions": [
+    "Sterilize a glass jar by boiling it in hot water for 5 minutes.",
+    "Add the lemon zest and juice to the sterilized jar. Crush the lemon with your fingers to release more flavor.",
+    "Combine the dry sherry, fresh lemon juice, minced garlic, salt, honey/maple syrup, and soy sauce in a small bowl. Mix until smooth.",
+    "Pour the mixed ingredients into the jar with the zest and juice of the lemon. Seal the jar tightly and place it in a warm, dark spot for 24 hours. It should become bubbly.",
+    "After fermenting, remove the lid to release any pressure that might build up. Use tongs or a spoon to scrape away any froth on top.",
+    "Place a medium skillet over medium-high heat and add some oil. Once hot, swirl the pan to coat evenly.",
+    "Add the fermented vegetables into the pan and stir-fry for about 2-3 minutes until they start to wilt slightly.",
+    "Pour in the lemon mixture from the jar and let it cook down and reduce by half. The flavors will become intense and concentrated.",
+    "Serve hot with additional fermented vegetables or noodles as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "juicy",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "fermented-juicy-comforting-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-juicy-comforting-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:28:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "dry sherry",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lemon",
+    "descriptor": "Fermented Juicy Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
