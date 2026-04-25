@@ -1,0 +1,87 @@
+{
+  "title": "Fennel Whisk Delight",
+  "description": "A bitter, creamy Canadian dish featuring fennel bulb that is vegan-friendly and dairy-free.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 medium",
+      "notes": "about 200g"
+    },
+    {
+      "name": "milk or alternative milk",
+      "amount": "1 cup",
+      "notes": "such as almond, soy, or oat milk"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp",
+      "notes": "ground to create a vegan egg replacer"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup",
+      "notes": "optional for added richness"
+    },
+    {
+      "name": "agave syrup or maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "adjust sweetness to taste"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "for a cheesy flavor"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Gently steam or roast the fennel bulb until tender, about 20 minutes.",
+    "In a blender, combine steamed/fried fennel, milk (or alternative), flax seeds, coconut cream (if using), agave syrup, nutritional yeast, and cayenne pepper (optional).",
+    "Blend until smooth and creamy. Taste and adjust seasoning with salt as needed.",
+    "Pour into serving bowls or glasses and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fennel",
+    "vegan",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "fennel-whisk-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fennel-whisk-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:35:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "fennel bulb",
+    "diet": "jain",
+    "region": null
+  }
+}
