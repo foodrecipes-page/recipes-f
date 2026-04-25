@@ -1,0 +1,98 @@
+{
+  "title": "Fragrant Peruvian Onion Stir-fry",
+  "description": "A floral, crisp crowd-pleaser peruvian dish featuring scotch bonnet, caramelized onions and low-sodium-friendly spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chop into thin slices"
+    },
+    {
+      "name": "Scotch Bonnet Peppers",
+      "amount": "4-6",
+      "notes": "Finely chopped, seeds removed for less heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "Chopped into thin slices"
+    },
+    {
+      "name": "Coconut Oil or Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for flavor enhancement"
+    },
+    {
+      "name": "Low Sodium Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "To balance flavors and reduce sodium intake"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": "For depth of flavor"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add onions and scotch bonnet peppers, sauté until soft and slightly caramelized, about 5 minutes.",
+    "Toss in minced garlic and cook for an additional minute.",
+    "Stir in low sodium soy sauce, cumin powder, and lemon juice. Cook for a few more seconds to blend flavors.",
+    "Gently fold in red onions and continue cooking until they are translucent and tender, about 3-5 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "floral",
+    "crisp",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "fragrant-peruvian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-peruvian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:25:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Onion",
+    "descriptor": "Fragrant",
+    "dishForm": "Stir-fry"
+  }
+}
