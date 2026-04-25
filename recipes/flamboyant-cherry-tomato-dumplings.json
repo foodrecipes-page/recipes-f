@@ -1,0 +1,77 @@
+{
+  "title": "Flamboyant Cherry Tomato Dumplings",
+  "description": "A savory and flaky keto-friendly Russian dish featuring cherry tomatoes in a dumpling form that is sure to impress with its vibrant colors and flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tbsp"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix eggs and butter until creamy.",
+    "Gradually add flour, mixing until dough forms.",
+    "Divide the dough into equal parts, forming each part into a ball.",
+    "Place cherry tomatoes in one side of each dumpling ball; sprinkle cheese on top if desired.",
+    "Roll out each piece into thin circles, place a tomato on each circle and fold over to enclose the filling.",
+    "Place stuffed dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes until golden brown.",
+    "Serve warm as an appetizer or snack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dumplings",
+    "keto-friendly",
+    "sour cherry",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 26
+  },
+  "slug": "flamboyant-cherry-tomato-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flamboyant-cherry-tomato-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:12:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "keto",
+    "region": null
+  }
+}
