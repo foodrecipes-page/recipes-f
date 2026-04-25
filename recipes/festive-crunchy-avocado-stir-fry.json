@@ -1,0 +1,73 @@
+{
+  "title": "Festive Crunchy Avocado Stir-fry",
+  "description": "An earthy and festive Venezuelan dish featuring avocado cubes cooked in a flavorful vinaigrette dressing with a quick pressure-cooking method.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "2 ripe avocados",
+      "amount": "",
+      "notes": "Use Hass variety for firmer texture."
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Press avocados and remove pits. Dice into small cubes.",
+    "Heat a tablespoon of olive oil in a pressure cooker over medium heat.",
+    "Add diced avocado cubes and cook until they release their moisture, about 2 minutes.",
+    "Add red bell pepper and garlic; stir for another minute.",
+    "Stir in minced cilantro leaves; close lid and cook under high pressure for 5 minutes.",
+    "Quick-release the cooker and discard steam valve contents. Taste and adjust seasoning if needed.",
+    "Serve warm with a side of your favorite tortilla chips or as a dip with pita bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festival",
+    "vegan",
+    "quick",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 2.7,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "festive-crunchy-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-crunchy-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:47:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "avocado",
+    "descriptor": "crunchy festive",
+    "dishForm": "Stir-fry"
+  }
+}
