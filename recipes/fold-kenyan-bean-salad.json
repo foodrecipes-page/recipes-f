@@ -1,0 +1,76 @@
+{
+  "title": "Fold Kenyan Bean Salad",
+  "description": "An earthy, crumbly, energizing kenyan dish featuring dried white navy beans that's perfect for a breakfast or snack, gluten-free-friendly.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "medium (finely chopped)"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "2 tablespoons (chopped)"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 small (minced, seeds removed if spicy)"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut oil or vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the beans in water for at least 6 hours, then drain and rinse again.",
+    "Preheat your oven to 350°F (175°C).",
+    "Combine soaked beans with finely chopped onion, cilantro leaves, minced jalapeno, lime juice, salt, and coconut oil or vegetable oil in a mixing bowl.",
+    "Transfer the mixture into an oven-safe baking dish lined with parchment paper.",
+    "Bake for 30-45 minutes until the beans are tender and crispy on top, flipping the mixture halfway through cooking time to ensure even browning.",
+    "Serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "bean",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "fold-kenyan-bean-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fold-kenyan-bean-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:56:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
