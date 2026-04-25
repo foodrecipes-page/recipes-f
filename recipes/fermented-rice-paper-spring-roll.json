@@ -1,0 +1,87 @@
+{
+  "title": "Fermented Rice Paper Spring Roll",
+  "description": "This fermented rice paper spring roll is a comforting diabetic-friendly dish featuring chewy rice paper sheets and fresh vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Paper Sheets",
+      "amount": "2 packs"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "1 bunch",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium piece"
+    },
+    {
+      "name": "Pork Chops",
+      "amount": "4 pieces",
+      "notes": "Optional, for protein source"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare rice paper sheets by soaking them in water until soft. Rinse and set aside.",
+    "Slice the spring onions, cucumber, and pork chops into thin strips if using.",
+    "Mix fermented rice vinegar, lime juice, soy sauce, and garlic powder to create a dressing.",
+    "Lay out each rice paper sheet on a clean surface. Place a strip of vegetables or meat in one corner.",
+    "Fold both sides of the rice paper inward towards the center. Fold down the bottom edge over the filling, then roll up tightly from the top.",
+    "Serve immediately with more soy sauce and lime wedges for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-rice-paper",
+    "spring-roll",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "fermented-rice-paper-spring-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-rice-paper-spring-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:53:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
