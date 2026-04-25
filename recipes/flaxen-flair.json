@@ -1,0 +1,92 @@
+{
+  "title": "Flaxen Flair",
+  "description": "A floral and fluffy one-pot Tunisian dish featuring flaxseed, fermented for a unique taste profile that's both diabetic-friendly and suitable for those with special dietary needs.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaxseeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium (about 500g)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented Ingredients (e.g., Tamarind, Chilli, etc.)",
+      "amount": "1 teaspoon (optional)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth or Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Herbs (e.g., Coriander, Parsley)",
+      "amount": "A handful"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and garlic to the pot, sauté until translucent.",
+    "Stir in tomato paste, salt, pepper, and optionally, fermented ingredients (if using).",
+    "Chop squash into small cubes and add them to the pot with 1 cup of chicken or vegetable broth.",
+    "Cover and simmer for about 20 minutes until the squash is tender.",
+    "Blend half of the squash mixture in a blender or food processor until smooth, then mix it back into the pot.",
+    "Add flaxseeds to the pot and stir well. Cook for an additional 5-10 minutes until heated through.",
+    "Stir in fresh herbs just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaxen-flair",
+    "one-pot-dinner",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "flaxen-flair",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaxen-flair",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:20:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "flaxseed",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
