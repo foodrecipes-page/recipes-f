@@ -1,0 +1,78 @@
+{
+  "title": "Freshly Grilled Kebabish Lamb Crumble",
+  "description": "This fresh and fluffy Venezuelan dish features lamb shoulder in a unique blend of dumplings (dum) and plant-based-friendly elements.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500 grams",
+      "notes": "Bone-in for added flavor and tenderness."
+    },
+    {
+      "name": "Dum",
+      "amount": "100 grams",
+      "notes": "Use a store-bought or homemade version, preferably in small portions."
+    },
+    {
+      "name": "Plant-Based Crispy Seitan",
+      "amount": "50 grams",
+      "notes": "For added protein and texture."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (e.g., Cilantro, Parsley)",
+      "amount": "1 handful each",
+      "notes": "Chopped finely for flavor enhancement."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Season the lamb shoulder with salt and pepper on both sides.",
+    "Place the dum and seitan evenly spaced around the lamb shoulder on the grill.",
+    "Grill the lamb shoulder, turning occasionally for even cooking (about 30-45 minutes), until internal temperature reaches at least 145°F (63°C).",
+    "Once cooked, let it rest for a few minutes before slicing into kebabish style.",
+    "Serve with fresh herbs and a side of your favorite sauce or spread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-lamb",
+    "villancico-dish",
+    "plant-based-crumb"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 51,
+    "carbs": 67,
+    "fat": 24
+  },
+  "slug": "freshly-grilled-kebabish-lamb-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-kebabish-lamb-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:12:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kebabish",
+    "mainIngredient": "lamb",
+    "descriptor": "Freshly Grilled",
+    "dishForm": "Crumble"
+  }
+}
