@@ -1,0 +1,71 @@
+{
+  "title": "Tangy Fromage Delight",
+  "description": "A tangy, dense fromage frais dish that's perfect as a show-off polish snack, low in FODMAPs for those with digestive issues.",
+  "cuisine": "Polish",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fromage frais",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh herbs (e.g., parsley, dill)",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the fresh herbs finely.",
+    "Mince the garlic cloves and mix them with the chopped herbs.",
+    "Add olive oil, lemon juice, salt, and pepper into the herb-garlic mixture.",
+    "Gently fold in the fromage frais until well combined.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fromage_delight",
+    "tangy_snack",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "fromage-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fromage-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:00:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "fromage frais",
+    "diet": "fodmap",
+    "region": null
+  }
+}
