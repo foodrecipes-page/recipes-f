@@ -1,0 +1,84 @@
+{
+  "title": "Halal-friendly Fishito de Solo",
+  "description": "A halal-friendly solo dinner dish featuring fermented and crumbly fish seasoning, perfect for a quick meal.",
+  "cuisine": "mexican (norteño)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 lb"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Combine fish, salt, oregano, cumin, black pepper, and chili powder in a mixing bowl.",
+    "Add minced garlic and grated ginger to the mixture.",
+    "Mix well until all ingredients are evenly distributed on the fish.",
+    "Place the seasoned fish onto a non-stick or parchment-lined baking sheet.",
+    "Broil the fish at 375°F (190°C) for about 20 minutes, turning once halfway through cooking time.",
+    "Once done, remove from heat and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fishito-de-solo",
+    "fermented",
+    "crumbly",
+    "solo-dinner",
+    "mexican-norteño",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 19,
+    "carbs": 3,
+    "fat": 15
+  },
+  "slug": "fishito-de-solo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fishito-de-solo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:26:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "fish seasoning",
+    "diet": "halal",
+    "region": "norteño"
+  }
+}
