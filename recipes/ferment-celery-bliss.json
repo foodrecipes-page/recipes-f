@@ -1,0 +1,77 @@
+{
+  "title": "Ferment Celery Bliss",
+  "description": "A sweet and juicy vegan-friendly Greek dish featuring celery salt, fermented vegetables, and other natural flavors to energize your morning.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celery sticks",
+      "amount": "1 bunch",
+      "notes": "about 40 stalks"
+    },
+    {
+      "name": "fermented vegetables (such as kombucha or water kefir), crushed",
+      "amount": "2 tablespoons",
+      "notes": "or other fermented veggies like kimchi or sauerkraut"
+    },
+    {
+      "name": "clove of garlic, minced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey or maple syrup",
+      "amount": "1 teaspoon",
+      "notes": "to balance sweetness and acidity"
+    },
+    {
+      "name": "sea salt flakes",
+      "amount": "optional, to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash the celery thoroughly and snap off any tough bottom ends.",
+    "In a small bowl, combine crushed fermented vegetables, minced garlic, lime juice, honey or maple syrup, and sea salt if using. Mix well until smooth.",
+    "Slice the celery into bite-sized pieces and gently toss with the dressing mixture to coat evenly.",
+    "Serve immediately as a refreshing snack or spread on whole-grain crackers for an appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fermentcelerybliss",
+    "vegan-friendly",
+    "sweet-and-juicy-greek-dish"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 0.5
+  },
+  "slug": "ferment-celery-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ferment-celery-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:42:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "celery salt",
+    "diet": "vegan",
+    "region": null
+  }
+}
