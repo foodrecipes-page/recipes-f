@@ -1,0 +1,87 @@
+{
+  "title": "Fluffy Fold Corn Delight",
+  "description": "A festive Moroccan-inspired dish featuring garlic-flavored fluffy white corn mixed with plant-based ingredients for a flavorful and easy-to-make snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white corn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "sun-dried tomatoes, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 small"
+    },
+    {
+      "name": "salsa",
+      "amount": "a few tablespoons"
+    }
+  ],
+  "instructions": [
+    "Prepare the corn by boiling it in water until soft. Drain and set aside.",
+    "Mince the garlic cloves finely and sauté them in olive oil with a pinch of salt and pepper until fragrant.",
+    "Fold the minced garlic into the cooked corn, adding sun-dried tomatoes and pine nuts for texture and flavor.",
+    "Scoop avocado flesh into a bowl, mash lightly with a fork or potato masher. Mix in salsa to taste.",
+    "Place folded corn on top of mashed avocado, garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "garlicky",
+    "festive",
+    "moroccan",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fluffy-fold-corn-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fold-corn-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:57:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "dried white corn",
+    "diet": "plant-based",
+    "region": null
+  }
+}
