@@ -1,0 +1,94 @@
+{
+  "title": "Fermented Creamy Green Beans Stir-fry",
+  "description": "This sick-day dish features fermented green beans in a creamy sauce for a low-sodium-friendly treat that's perfect for comfort food fans.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Green Beans",
+      "amount": "1 cup",
+      "notes": "Use low-sodium variety if available."
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "6 ounces",
+      "notes": "Low-fat or plain, unsweetened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for a mild flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "1 tablespoon",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water or Low-Sodium Chicken Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 small bunch",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the chopped onion and minced garlic to the pan, cooking until soft and fragrant.",
+    "Stir in the fermented green beans with their liquid, and cook for about 2 minutes.",
+    "In another small bowl, mix cornstarch with a little water to form a slurry.",
+    "Slowly pour in the almond milk while continuously whisking to avoid lumps. Add low-sodium soy sauce and water or broth. Bring to a simmer and let it thicken slightly.",
+    "Garnish with chopped green onions before serving.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-green-beans",
+    "creamy-stir-fry",
+    "turkish-dish",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 3
+  },
+  "slug": "fermented-creamy-green-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-green-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:40:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "green beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Green Beans",
+    "descriptor": "Fermented Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
