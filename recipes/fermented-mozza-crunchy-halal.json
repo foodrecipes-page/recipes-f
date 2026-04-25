@@ -1,0 +1,76 @@
+{
+  "title": "Fermented Mozza Crunchy Halal",
+  "description": "This light Chinese dish features soft mozzarella balls marinated in a tangy sauce and crispy fried to perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together soy sauce, mirin, sugar and vegetable oil until sugar dissolves. Add mozzarella balls to the marinade; cover and refrigerate for at least 30 minutes.",
+    "Dredge each ball in cornstarch first, then Panko breadcrumbs.",
+    "Heat enough oil in a deep pan over medium-high heat to reach 375°F (190°C). Carefully place marinated mozzarella balls into the hot oil. Fry until golden brown and crispy on all sides, about 2-3 minutes per side.",
+    "Remove from the pan with a slotted spoon and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "mozzarella",
+    "crunchy",
+    "fermented",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 392,
+    "protein": 16.7,
+    "carbs": 5.7,
+    "fat": 22
+  },
+  "slug": "fermented-mozza-crunchy-halal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-mozza-crunchy-halal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:09:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "halal",
+    "region": null
+  }
+}
