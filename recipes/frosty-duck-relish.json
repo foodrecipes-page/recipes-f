@@ -1,0 +1,77 @@
+{
+  "title": "Frosty Duck Relish",
+  "description": "A festive Polish dish featuring a bitter, crumbly duck sauce that pairs well with crackers or bread for a quick snack.",
+  "cuisine": "Polish",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "duck liver pâté",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "3 oz",
+      "notes": "use vegan for jain-friendly option"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "walnuts, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds, toasted and coarsely ground",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt to taste",
+      "notes": "adjust for desired bitterness"
+    }
+  ],
+  "instructions": [
+    "Mix duck liver pâté with feta cheese in a bowl.",
+    "Add pomegranate molasses, lime juice, and chopped walnuts.",
+    "Fold in ground sesame seeds until well combined.",
+    "Season with salt to taste. Adjust the amount of salt based on preference for bitterness.",
+    "Serve immediately or chill before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "duck",
+    "polish",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "frosty-duck-relish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/frosty-duck-relish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:30:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "duck sauce",
+    "diet": "jain",
+    "region": null
+  }
+}
