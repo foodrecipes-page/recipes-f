@@ -1,0 +1,79 @@
+{
+  "title": "Festive Cranberry Fry",
+  "description": "A peppery and dense Egyptian dish featuring dried cranberries that can be enjoyed as a snack or side dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried cranberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a medium bowl, combine dried cranberries with olive oil, cumin seeds, minced garlic, salt, black pepper, and onion powder.",
+    "Mix well until the cranberries are evenly coated in the seasoning mixture.",
+    "Spread the seasoned cranberries on a baking sheet lined with parchment paper. Ensure they are spread out in an even layer to allow for even cooking.",
+    "Bake in the preheated oven for 15-20 minutes or until the edges start to brown slightly and the cranberries are crispy.",
+    "Once done, remove from the oven and let it cool on the baking sheet for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "egyptian",
+    "peppery",
+    "dense",
+    "dried cranberries"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "festive-cranberry-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-cranberry-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:05:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "dried cranberries",
+    "diet": "kosher",
+    "region": null
+  }
+}
