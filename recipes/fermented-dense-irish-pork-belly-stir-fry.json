@@ -1,0 +1,96 @@
+{
+  "title": "Fermented Dense Irish Pork Belly Stir-fry",
+  "description": "A keto-friendly and flavorful solo-dinner dish featuring fermented pork belly slices marinated for an enhanced flavor profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Fermented Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "3"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Chilies (optional)",
+      "amount": "3"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Slice the pork belly into bite-sized pieces and marinate them in a mixture of fermented soy sauce, lemon juice, white wine vinegar, cumin seeds, turmeric powder, bay leaves, cloves, fennel seeds (if using), and salt for at least 4 hours.",
+    "Preheat your oven to 350°F (175°C). Place the marinated pork belly slices on a baking sheet lined with parchment paper and bake for about 20 minutes or until they are crisp and golden brown. Remove from heat and let it rest for about 10 minutes.",
+    "While the pork is resting, prepare your stir-fry sauce by heating sesame oil in a wok over medium-high heat. Add red chilies (if using) and sauté for about 30 seconds. Add sliced ginger and green onions to the wok, stirring until fragrant.",
+    "Remove the marinated pork from the baking sheet and cut it into small pieces. Return the wok with stir-fry sauce back onto heat, add the pork belly slices, and continue cooking until evenly coated in the sauce. Adjust seasoning if needed.",
+    "Serve hot as a solo-dinner dish."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-pork-belly",
+    "keto-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "fermented-dense-irish-pork-belly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-irish-pork-belly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:28:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "pork belly slices",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork belly",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Stir-fry"
+  }
+}
