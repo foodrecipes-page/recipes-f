@@ -1,0 +1,92 @@
+{
+  "title": "Fermented Crispy Thai Fish Stir-fry",
+  "description": "A sick-day favorite featuring fermented fish sauce and a crispy texture for added depth of flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "200g",
+      "notes": "Use white fish like cod or tilapia for a mild flavor."
+    },
+    {
+      "name": "Fermented Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": "Ensure it's kosher-friendly as per instructions."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "For added flavor and aroma."
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "2",
+      "notes": "Fresh or dried, depending on availability."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "High smoke point for stir-frying."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish and added crunch."
+    },
+    {
+      "name": "Chili flakes (optional)",
+      "amount": "A few",
+      "notes": "Add a touch of heat if desired."
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over medium-high heat.",
+    "Season the fish fillets with salt and pepper. If using, stir-fry the chili flakes briefly before removing them from the pan.",
+    "In the same pan, lightly toast sesame seeds until golden brown.",
+    "Add oil to the hot pan and swirl it around. When the oil is shimmering but not smoking, add garlic cloves and sauté for about 30 seconds or until fragrant.",
+    "Fold in fermented fish sauce evenly over the heated ingredients and stir-fry for another minute.",
+    "Gently place the fish fillets into the pan along with any accumulated juices from marinating or cooking. Cook for about 2-3 minutes per side, flipping gently to ensure even heat distribution and a crispy exterior.",
+    "Add kaffir lime leaves and continue stirring well until the fish is cooked through and evenly coated in the sauce mixture.",
+    "Remove from heat, garnish with extra sesame seeds if desired, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "crispy",
+    "sick-day",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 16
+  },
+  "slug": "fermented-crispy-thai-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-thai-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:30:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
