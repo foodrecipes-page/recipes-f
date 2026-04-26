@@ -1,0 +1,83 @@
+{
+  "title": "Fermented Silky Tofu Stir-fry",
+  "description": "A cold-water fermented tofu dish that’s perfect for a sick day in Vietnamese cuisine, featuring low-sodium-friendly preparation.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 blocks of fermented tofu",
+      "amount": "1 block per person"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "White pepper powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onions (chopped)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Tumeric (powdered for color and flavor)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili flakes (optional, to taste)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a wok or large skillet, heat vegetable broth over medium-high heat.",
+    "Add fermented tofu blocks, cover with white pepper powder and chili flakes if using. Let them sit for about 5 minutes without stirring.",
+    "Deglaze the pan with low-sodium soy sauce, ensuring it coats all surfaces of the tofu evenly.",
+    "Stir-fry gently until the broth is mostly absorbed and the fermented tofu starts to turn golden brown around the edges (this process may take 10-20 minutes).",
+    "Toss in finely chopped green onions and a bit of tumeric for color, continuing to stir-fry for another minute.",
+    "Remove from heat and serve hot or at room temperature as a snack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-tofu",
+    "sick-day-dish",
+    "vietnamese-recipe"
+  ],
+  "nutrition": {
+    "calories": 63,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 0.5
+  },
+  "slug": "fermented-silky-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:34:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "cold water",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Fermented Silky",
+    "dishForm": "Stir-fry"
+  }
+}
