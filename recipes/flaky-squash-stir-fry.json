@@ -1,0 +1,76 @@
+{
+  "title": "Flaky Squash Stir-fry",
+  "description": "A creamy and garlicky squash dish perfect for a cozy date night, featuring dairy-free-friendly ingredients that are easy to prepare.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Date Syrup",
+      "amount": "1 tablespoon (optional)"
+    },
+    {
+      "name": "Melted Vegan Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Cut the Butternut Squash into cubes and toss with olive oil, garlic, tomato paste, water or vegetable stock, and date syrup if using.",
+    "Season with salt and pepper. Spread evenly on a baking sheet lined with parchment paper.",
+    "Roast in preheated oven for about 25-30 minutes until tender and slightly caramelized.",
+    "While squash roasts, whisk melted vegan butter into the roasted squash mixture until smooth.",
+    "Add fresh herbs (if using) to taste. Serve hot as a side dish or on its own.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: 'medium'",
+    "tags: ['flaky-squash', 'garlicky', 'date-night-middle-eastern', 'dairy-free-friendly']",
+    "nutrition: {"
+  ],
+  "slug": "flaky-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:24:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "squash",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "squash",
+    "descriptor": "Garlicky Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
