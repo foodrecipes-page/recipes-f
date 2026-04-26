@@ -1,0 +1,92 @@
+{
+  "title": "Flaky Chinese Sea Bass Crumble",
+  "description": "A flaky and flavorful brunch-mood dish featuring sea bass with toast and a high-protein-friendly crumble topping.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4-6 fillets (about 200g each)",
+      "notes": "fresh and firm"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "1 loaf",
+      "notes": "preferably stale or toasted"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/2 cup",
+      "notes": "light soy sauce for a lighter flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "3-4 cloves (or 1 tsp minced garlic)",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin or regular depending on taste preference"
+    },
+    {
+      "name": "Rice Crackers",
+      "amount": "30g - handful",
+      "notes": "toasted and broken into small pieces for crumble topping"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2-4, chopped finely",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Toast bread until golden brown and crisp. Remove from heat and let cool slightly.",
+    "Crush the cooled bread with a rolling pin or in a food processor into crumb-sized pieces, about 2 tablespoons at a time for each crumble layer.",
+    "In a mixing bowl, combine soy sauce, garlic powder, olive oil, and rice crackers to make a crumb mixture. Mix well until no big chunks remain.",
+    "Arrange sea bass fillets in an oven-safe dish with the crumb mixture spread evenly over them. Bake for 10 minutes per inch of thickness or until the fish is cooked through and flakes easily with a fork.",
+    "While the fish bakes, prepare the side: toast remaining bread pieces into smaller pieces. Spread on a plate and top with crumbled sea bass pieces to make it look appealing.",
+    "Serve hot as part of a brunch meal. Garnish with finely chopped green onions for an extra pop of color and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "chinese",
+    "sea bass",
+    "crumble",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "flaky-chinese-sea-bass-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-chinese-sea-bass-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:53:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "sea bass",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "sea bass",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
