@@ -1,0 +1,85 @@
+{
+  "title": "Fluffy Herbal Uruguayan Stir-fry",
+  "description": "A pescatarian-friendly date-night dish featuring a fluffy mix of herbs and red pepper paste in a stir-fry sauce that's perfect for reducing stress after a long week.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Pepper Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Herbs (e.g., cilantro, parsley, mint)",
+      "amount": "To taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add red pepper paste and cook for about 1 minute until fragrant.",
+    "Stir in minced garlic and onion, cooking until softened.",
+    "Pour in tomato paste and water, stirring continuously to prevent sticking.",
+    "Simmer for about 2 minutes. Add salt and pepper to taste.",
+    "Fold in herbs and adjust seasoning if necessary.",
+    "Serve hot over steamed vegetables or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "herbal",
+    "uruguayan",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "fluffy-herbal-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-herbal-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:23:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "red pepper paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Herbal",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
