@@ -1,0 +1,94 @@
+{
+  "title": "Flaky Italian Haddock Crumble",
+  "description": "A delicious and comforting sick-day dish featuring haddock that combines a floral flavor profile with flaky texture for an indulgent yet healthy option.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "12 oz",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "italian herbs",
+      "amount": "1/4 cup dried",
+      "notes": "such as basil and oregano"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups",
+      "notes": "full-fat for best texture"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp ground",
+      "notes": "for binding and added fiber"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tsp",
+      "notes": "natural, unsweetened for a healthier touch"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse haddock fillets and pat dry.",
+    "Sauté minced garlic in a bit of olive oil until fragrant, then add Italian herbs and cook for about 2 minutes.",
+    "Add haddock fillets and stir until coated with the herb mixture. Remove from heat and set aside.",
+    "In a large mixing bowl, combine heavy cream, flax seeds, cocoa powder, and butter. Mix thoroughly until smooth.",
+    "Gently fold in cooked haddock into the cream mixture. Ensure no large chunks of fish remain for even distribution of flavors and textures.",
+    "Transfer crumble mixture onto an oven-safe baking dish lined with parchment paper.",
+    "Bake at 350°F (175°C) for about 25 minutes or until golden brown on top and set in the middle. Check doneness by inserting a toothpick into the center; it should come out clean.",
+    "Let cool slightly before serving. Can be served warm as an appetizer or main course with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haddock",
+    "crumble",
+    "flaky",
+    "italian",
+    "sick-day",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 17
+  },
+  "slug": "flaky-italian-haddock-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-italian-haddock-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:25:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "haddock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
