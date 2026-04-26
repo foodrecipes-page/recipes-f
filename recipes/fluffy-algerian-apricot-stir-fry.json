@@ -1,0 +1,87 @@
+{
+  "title": "Fluffy Algerian Apricot Stir-fry",
+  "description": "This herbal and fluffy Algerian dish features apricots marinated with herbs before stir-frying for a quick weeknight meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricot",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "a small handful for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or a large non-stick pan over medium-high heat.",
+    "Drain the apricot can, reserving some of its liquid. Pat dry with paper towels to remove excess moisture.",
+    "In a bowl, mix together the drained apricots, thyme, oregano, minced garlic, red pepper flakes, salt, and black pepper. Add reserved apricot juice as needed for a smooth texture.",
+    "Divide the mixture into 4 equal parts and shape each part into small meatballs using your hands. Lightly dust with all-purpose flour to prevent sticking.",
+    "Add enough oil to coat the wok or pan. Place meatballs in the hot oil and fry until golden brown on all sides, about 5-7 minutes total.",
+    "Remove from heat and serve warm with a side of couscous or garlic bread for added texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "algerian",
+    "stir-fry",
+    "apricot",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 9,
+    "carbs": 37,
+    "fat": 10
+  },
+  "slug": "fluffy-algerian-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-algerian-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:47:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "apricot",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Apricot",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
