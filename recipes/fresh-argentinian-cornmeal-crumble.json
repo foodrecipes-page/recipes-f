@@ -1,0 +1,69 @@
+{
+  "title": "Fresh Argentinian Cornmeal Crumble",
+  "description": "A fresh and gooey Argentinean dish featuring fine yellow cornmeal, air-fried for a quick and energizing breakfast.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup yellow cornmeal",
+      "amount": "cup",
+      "notes": "Ensure it is fine-grained."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/2 cup dairy-free milk or water",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Mix cornmeal, salt, and milk or water in a bowl until well combined.",
+    "Stir in the lemon juice, making sure it's evenly distributed.",
+    "Pour the mixture into a greased air fryer basket.",
+    "Cook for 8-10 minutes or until golden brown on all sides.",
+    "Serve hot as a breakfast dish with a side of fresh fruit."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "cornmeal",
+    "air-fried",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "fresh-argentinian-cornmeal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-argentinian-cornmeal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:30:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Fresh",
+    "dishForm": "Crumble"
+  }
+}
