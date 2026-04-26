@@ -1,0 +1,83 @@
+{
+  "title": "Flaky Australian Almond Paste Crumble",
+  "description": "This herbal crumble is a crowd-pleaser featuring almond paste and blanched almonds in an easy-to-make recipe that's perfect for breakfast or dessert.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons unsalted butter, melted",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon baking powder",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/2 cup blanched almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons water",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine flour, sugar, melted butter, baking powder, and salt.",
+    "Gradually add water while stirring until dough comes together. Knead gently for about 2 minutes.",
+    "Roll out the dough on a floured surface to a thickness of about 1/4 inch.",
+    "Arrange blanched almonds evenly over the dough.",
+    "Cut into desired shapes using cookie cutters or any sharp-edged tool, and place crumbles onto an ungreased baking sheet.",
+    "Bake for 20-25 minutes or until golden brown. Serve warm with a dollop of whipped cream if desired.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "flaky",
+    "almond_paste",
+    "crumble",
+    "blanched_almonds"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "flaky-australian-almond-paste-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-australian-almond-paste-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:37:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "almond paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Almond Paste",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
