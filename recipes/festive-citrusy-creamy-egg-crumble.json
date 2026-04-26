@@ -1,0 +1,74 @@
+{
+  "title": "Festive Citrusy Creamy Egg Crumble",
+  "description": "A raw-friendly, festive egg crumble dish infused with the zest of fresh citrus, perfect for a light and healthy breakfast or snack.",
+  "cuisine": "peruvian",
+  "diet": [
+    "raw-friendly",
+    "egg-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "2"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "raw coconut flakes",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Beat the eggs in a small bowl.",
+    "Add lemon juice and orange zest to the beaten eggs, mixing well until combined.",
+    "Fold in raw coconut flakes and chia seeds.",
+    "Divide the mixture into bite-sized portions for serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 0,
+  "totalTimeMin": 2,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "citrusy",
+    "creamy",
+    "egg",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "festive-citrusy-creamy-egg-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-citrusy-creamy-egg-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:57:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "egg",
+    "descriptor": "Citrusy Creamy Festive",
+    "dishForm": "Crumble"
+  }
+}
