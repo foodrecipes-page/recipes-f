@@ -1,0 +1,82 @@
+{
+  "title": "Flaky Russian Potato Crumble",
+  "description": "A solo-dinner dish featuring fermented potato crumbles that are crispy and flaky, perfect for a light meal or snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 (medium-sized)",
+      "notes": "Fermented"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/4 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Butter or Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "For greasing and cooking"
+    },
+    {
+      "name": "Yogurt or Sour Milk",
+      "amount": "2 tablespoons",
+      "notes": "To ferment potatoes"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes, cut them into small cubes, and place in a large bowl.",
+    "In another container, combine yogurt or sour milk with salt. Pour this mixture over the cubed potatoes, ensuring all pieces are coated evenly.",
+    "Cover the container and refrigerate for at least 24 hours to ferment.",
+    "After fermentation, drain the liquid from the potatoes, then dry them on a clean kitchen towel or paper towels.",
+    "Preheat your air fryer to 375°F (190°C).",
+    "Dust the fermented potato cubes with flour and press gently into a flat shape. Place these in the preheated air fryer basket.",
+    "Spray the potato surfaces lightly with cooking spray or brush on butter/oil mixture evenly over the surface of the potatoes.",
+    "Cook for 15-20 minutes until golden brown and crispy, flipping halfway through cooking time.",
+    "Serve immediately as a snack or light meal. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "potato",
+    "crumble",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "flaky-russian-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-russian-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:47:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "boiling water",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Potato",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
