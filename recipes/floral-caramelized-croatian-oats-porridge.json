@@ -1,0 +1,94 @@
+{
+  "title": "Floral Caramelized Croatian Oats Porridge",
+  "description": "A dairy-free and vegan version of a traditional dish that features floral notes with a touch of caramelization for a lazy Sunday meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat Groats (Steel Cut or Rolled)",
+      "amount": "1/2 cup",
+      "notes": "Choose gluten-free oats if necessary."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "4 oz can",
+      "notes": "Optional for creaminess, ensure it's unsweetened to avoid excess sweetness."
+    },
+    {
+      "name": "Filtered Water or Coconut Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water (or Vegan Milk)",
+      "amount": "3/4 cup",
+      "notes": "Use as a substitute for coconut milk if unavailable, ensuring it's unsweetened."
+    },
+    {
+      "name": "Melted Coconut Oil or Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Bean Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For added floral and caramelization effects, use vanilla extract as a substitute."
+    },
+    {
+      "name": "Coconut Sugar or Other Sweetener of Choice (Optional)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a medium saucepan, combine the oat groats and water. Mix gently with a spoon; do not stir continuously as you want to keep some texture in the oats.",
+    "Once mixed, pour in coconut milk (or unsweetened plant-based milk), and add a pinch of salt for flavor enhancement.",
+    "Add the melted oil and vanilla bean powder. Gently mix them into the saucepan’s contents without stirring vigorously or they will clump together and become less appealing visually.",
+    "Transfer the mixture to an oven-safe dish with a glass lid, then place it in the preheated oven for about 45 minutes or until the center of the oat groats is fully cooked but slightly firm.",
+    "Remove from heat once done. Let it cool down before serving.",
+    "For added caramelization effects (optional), you can spoon out some of this cooked mixture into a shallow dish, drizzle with coconut sugar, and bake in the oven at 350°F for about 10 minutes until caramelized to your liking.",
+    "Serve the porridge warm. If desired, garnish it with fresh berries or a sprinkle of unsweetened shredded coconut."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "caramelized",
+    "lazy-sunday",
+    "croatian",
+    "oats",
+    "porridge"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "floral-caramelized-croatian-oats-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-caramelized-croatian-oats-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:20:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "porridge oats",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Oats",
+    "descriptor": "Floral Caramelized",
+    "dishForm": "Porridge"
+  }
+}
