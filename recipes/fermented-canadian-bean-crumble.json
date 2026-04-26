@@ -1,0 +1,79 @@
+{
+  "title": "Fermented Canadian Bean Crumble",
+  "description": "A comforting plant-based dish featuring crispy bean crumbles that have been infused with fermented flavors and a caramelized touch, perfect for a comforting snack or side dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup pinto beans",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons maple syrup or agave nectar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of one lemon"
+    },
+    {
+      "name": "Fresh dill, chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Soak pinto beans in water for at least 6 hours or overnight.",
+    "Drain and rinse the soaked beans. Preheat oven to 350°F (175°C).",
+    "Add olive oil, maple syrup, salt, and lemon juice into a mixing bowl, then add drained beans.",
+    "Mix all ingredients until the beans are evenly coated with the mixture. Spread them onto an oiled baking sheet in a single layer.",
+    "Bake for 30 minutes without disturbing.",
+    "Once done, reduce heat to 275°F (140°C) and bake another 30-60 minutes or until golden brown and crisp.",
+    "Serve warm with optional fresh dill garnish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-bean-crumble",
+    "comfort-food",
+    "caramelized-flavors",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 11,
+    "carbs": 42,
+    "fat": 5
+  },
+  "slug": "fermented-canadian-bean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-canadian-bean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:15:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "oil",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beans",
+    "descriptor": "Fermented",
+    "dishForm": "Crumble"
+  }
+}
