@@ -1,0 +1,84 @@
+{
+  "title": "Flaky Canadian Vegetable Crumble",
+  "description": "This cozy dish features a flaky crumble made from fermented vegetable stock and raw-friendly vegetables like kale, carrots, and celery.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 cup fresh, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk, finely chopped"
+    },
+    {
+      "name": "Veggie Stock",
+      "amount": "4 cups, cooled and strained"
+    },
+    {
+      "name": "Flaxseed Meal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine kale, carrots, celery, and cooled veggie stock in a mixing bowl.",
+    "Mix flaxseed meal, almond flour, salt, and pepper into the vegetable mixture until well combined.",
+    "Transfer mixture to a greased baking dish.",
+    "Bake for 25 minutes or until golden brown and crispy.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky-canadian-vegetable-crumble",
+    "fermented-vegetable-dish",
+    "raw-friendly-cooking",
+    "canadian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "flaky-canadian-vegetable-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-canadian-vegetable-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:08:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "vegetable stock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
