@@ -1,0 +1,79 @@
+{
+  "title": "Fluffy Indulgent Raw-friendly Dutch White Cabbage Stir-fry",
+  "description": "A fermented and fluffy raw-friendly dish featuring white cabbage whisked with a touch of indulgence for a delightful meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "raw-friendly",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 cup finely shredded"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, finely minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp (use fermented or tamari for vegan option)"
+    },
+    {
+      "name": "distilled water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1/2 tsp, for richness"
+    }
+  ],
+  "instructions": [
+    "Combine shredded white cabbage and finely minced ginger in a bowl.",
+    "Add sesame oil to the cabbage mixture and whisk well until it becomes fluffy and cohesive.",
+    "Gradually add soy sauce while continuing to whisk. If using fish sauce, add at the end after stirring thoroughly.",
+    "If desired, you can gently heat the mixture for about 30 seconds over low heat to meld the flavors better, ensuring not exceeding 145°F (63°C) as a safety measure.",
+    "Serve immediately or store in refrigerator up to 2 days. Enjoy your indulgent raw-friendly Dutch dish!"
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 0,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "indulgent",
+    "fluffy",
+    "dutch",
+    "white-cabbage-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "fluffy-indulgent-raw-friendly-dutch-white-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-indulgent-raw-friendly-dutch-white-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:08:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "white cabbage",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "white cabbage",
+    "descriptor": "fluffy indulgent raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
