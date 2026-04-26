@@ -1,0 +1,75 @@
+{
+  "title": "Fermented Dense Moroccan Duck Fat Stir-fry",
+  "description": "A brunch-mood moroccan dish featuring fermented duck fat in a simple sugar-free stir-fry recipe.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small, finely chopped (optional)"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "1-2, fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat the fermented duck fat in a pan over medium heat.",
+    "Add minced garlic and onion to the pan and cook until translucent.",
+    "Stir in tomato paste and bell pepper (if using) until the vegetables start to soften.",
+    "Fold in thyme sprigs, taste for salt if needed, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-duck-fat",
+    "moroccan-stir-fry",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "fermented-dense-moroccan-duck-fat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-moroccan-duck-fat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:29:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "duck fat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "duck fat",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Stir-fry"
+  }
+}
