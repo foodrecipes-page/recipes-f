@@ -1,0 +1,77 @@
+{
+  "title": "Fermented Light Korean Date Stir-fry",
+  "description": "This light and fermented dish features juicy dates with a tangy twist from lemon zest. Perfect for date nights or as a healthy snack option.",
+  "cuisine": "Korean",
+  "diet": [
+    "nut-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fresh dates",
+      "amount": "cup",
+      "notes": "ripe, pitted"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of ground Korean fermented mustard powder (kimchi paste)",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tablespoon honey or agave nectar (for sweetness, optional)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons toasted sesame oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your stovetop.",
+    "In a medium bowl, combine dates and lemon juice. Mix until the dates are mostly broken down into small pieces.",
+    "Add ground fermented mustard powder, honey or agave nectar (if using), and sesame oil to the bowl. Stir well.",
+    "Season with salt and taste-test for sweetness. Adjust seasoning if necessary by adding more honey or lemon juice.",
+    "Transfer the mixture onto a serving plate. Garnish with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "light",
+    "korean-date-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 3.7,
+    "carbs": 26.9,
+    "fat": 4.5
+  },
+  "slug": "fermented-light-korean-date-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-light-korean-date-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:53:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "lemon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "date",
+    "descriptor": "Fermented Light",
+    "dishForm": "Stir-fry"
+  }
+}
