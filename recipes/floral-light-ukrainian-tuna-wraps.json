@@ -1,0 +1,85 @@
+{
+  "title": "Floral Light Ukrainian Tuna Wraps",
+  "description": "A light and floral-flavored dish featuring tuna in a delicate marinade with tandoori spices for an energizing meal.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "1 can (400g)",
+      "notes": "Drained and flaked"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tandoori Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped Fresh Herbs (e.g., Parsley, Mint)",
+      "amount": "2-3 sprigs"
+    },
+    {
+      "name": "Grilled Bell Peppers",
+      "amount": "2 slices, diced",
+      "notes": "Fresh or canned if unavailable"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "Nut-free option"
+    }
+  ],
+  "instructions": [
+    "Combine tuna, balsamic vinegar, olive oil, lemon juice, and tandoori powder in a bowl. Mix well.",
+    "Stir in chopped herbs and diced peppers until evenly distributed.",
+    "Place crumbled feta cheese on the top of each wrap.",
+    "Serve with whole-grain bread or crackers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral-light",
+    "ukrainian-dish",
+    "tuna-wrap",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "floral-light-ukrainian-tuna-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-light-ukrainian-tuna-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:44:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "tuna",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Tuna",
+    "descriptor": "Floral Light",
+    "dishForm": "Wraps"
+  }
+}
