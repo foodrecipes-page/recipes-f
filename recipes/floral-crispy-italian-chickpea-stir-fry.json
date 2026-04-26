@@ -1,0 +1,96 @@
+{
+  "title": "Floral Crispy Italian Chickpea Stir-fry",
+  "description": "This indulgent floral Italian chickpea stir-fry features a blend of aromatic herbs and spices to create a uniquely delightful flavor profile that’s both crispy and comforting.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "250g chickpeas",
+      "amount": "1 cup",
+      "notes": "Soaked overnight or for at least 6 hours"
+    },
+    {
+      "name": "4 large garlic cloves",
+      "amount": "4",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 small red onion",
+      "amount": "1 medium-sized",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "20g unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "half a medium-sized"
+    },
+    {
+      "name": "2 teaspoons dried basil",
+      "notes": "Freshly chopped basil leaves can be used instead for extra freshness."
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "1/4 cup Italian seasoning blend (store bought or homemade)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (390°F).",
+    "Soak the chickpeas for at least 6 hours or overnight.",
+    "Drain and rinse the chickpeas. Pat them dry with a paper towel.",
+    "In a large bowl, combine the drained chickpeas, lemon juice, chopped garlic, onion slices, Italian seasoning blend, salt, pepper, and olive oil. Toss gently to coat all ingredients evenly.",
+    "Spread the chickpea mixture in a single layer on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes or until golden brown and crispy.",
+    "Once done, let it cool slightly before stirring in chopped basil leaves (or freshly chopped if available).",
+    "Serve hot as an indulgent side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crispy",
+    "indulgent",
+    "italian",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 17,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "floral-crispy-italian-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-italian-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:57:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "basil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Floral, Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
