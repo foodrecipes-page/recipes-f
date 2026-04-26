@@ -1,0 +1,84 @@
+{
+  "title": "Fermented Arabic Rice Stir-fry",
+  "description": "This dish combines the silky texture of fermented rice with aromatic spices and a quick stir-fry method for a light and vibrant meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Arabic Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 small"
+    },
+    {
+      "name": "Peppers (bell or green), optional",
+      "amount": "1-2"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "a sprinkle"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the Arabic Rice under cold water to remove excess starch. Rinse twice more, then soak in hot water for about 1 hour.",
+    "After soaking, drain and transfer rice into a pot with enough water (about 2 cups per cup of rice). Bring to a boil, reduce heat, cover, and simmer until the water is absorbed and the rice is tender.",
+    "While the rice simmers, chop garlic and onions finely. If using peppers or carrots, slice them thinly.",
+    "Heat olive oil in a wok over medium-high heat. Add garlic, onions, and optional peppers/carrots. Stir fry for about 2 minutes until vegetables start to soften.",
+    "Stir the cooked rice into the vegetable mixture and season with salt and pepper. Mix well to combine all ingredients evenly.",
+    "Add sesame seeds if desired for a nutty flavor. Cook for another minute to allow flavors to meld together.",
+    "Serve immediately as a side dish or as an appetizer."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-rice-stir-fry",
+    "halal-friendly",
+    "light-croatan-dish"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 10,
+    "carbs": 46,
+    "fat": 9
+  },
+  "slug": "fermented-croatian-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-croatian-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:37:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "arabic rice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rice",
+    "descriptor": "fermented",
+    "dishForm": "Stir-fry"
+  }
+}
