@@ -1,0 +1,75 @@
+{
+  "title": "Flaky Earthy Malaysian Yeast Extract Crumble",
+  "description": "This earthy and flaky dish features clotted cream in a pescatarian-friendly meal-prep option that combines the rich flavors of Malaysian cuisine with a unique twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups clotted cream",
+      "amount": "cup",
+      "notes": "Ensure it's unsalted and at room temperature"
+    },
+    {
+      "name": "10 grams yeast extract powder",
+      "amount": "gram",
+      "notes": "Make sure to have a fresh one for best results"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup flour",
+      "amount": "cup",
+      "notes": "All-purpose or gluten-free if preferred"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine clotted cream and yeast extract powder.",
+    "Add salt to taste. Mix well until the mixture becomes thick enough to be handled by your hands.",
+    "Gradually add flour while kneading with your hands to create a soft dough. Keep adding more flour as needed until it's not sticky but still holdable.",
+    "Roll out the dough into thin sheets using a rolling pin, keeping the edges slightly thicker for a crumble effect.",
+    "Preheat oven to 180°C (350°F). Grease a baking sheet and lay down your prepared sheets of dough. Bake for about 2-3 minutes or until they start to puff up slightly.",
+    "Remove from heat and let it cool before slicing into small pieces, making them easier to store in the fridge for future snacking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 3,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "earthly",
+    "flaky",
+    "meal-prep",
+    "malaysian",
+    "yeast-extract-crumbles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "flaky-earthy-malaysian-yeast-extract-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-earthy-malaysian-yeast-extract-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:27:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "clotted cream",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Yeast Extract",
+    "descriptor": "Flaky Earthy",
+    "dishForm": "Crumble"
+  }
+}
