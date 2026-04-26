@@ -1,0 +1,75 @@
+{
+  "title": "Fermented Saudi Fruit Stir-Fry",
+  "description": "A silky, light dish featuring fermented fruit in a caramel sauce, perfect for a diabetic-friendly meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup fresh mango",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "1/2 cup fresh pineapple",
+      "amount": "freshly cut"
+    },
+    {
+      "name": "1 tbsp coconut sugar (or to taste for sweetness)",
+      "amount": "as needed"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "one"
+    },
+    {
+      "name": "1/4 tsp ground cinnamon",
+      "amount": "to taste"
+    },
+    {
+      "name": "A handful of fresh mint leaves",
+      "amount": "freshly picked"
+    }
+  ],
+  "instructions": [
+    "Slice the mango and pineapple into thin strips.",
+    "In a small bowl, mix together coconut sugar, lime juice, ground cinnamon, and chopped mint leaves until well combined. Add more sugar or lemon for desired sweetness.",
+    "Heat a non-stick pan over medium heat. Once hot, add a spoonful of the sweet and spicy sauce to each mango and pineapple strip. Let cook until heated through but not too browned, about 2-3 minutes per side.",
+    "Remove from heat and serve warm as a snack or dessert."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-saudia",
+    "stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 72,
+    "protein": 0.8,
+    "carbs": 13.9,
+    "fat": 0.6
+  },
+  "slug": "fermented-saudia-fruit-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-saudia-fruit-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:45:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "caramel sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "fruit",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
