@@ -1,0 +1,64 @@
+{
+  "title": "Fluffy Herbal Raw Friendly Bread Crumble",
+  "description": "A cozy Argentinean dish featuring a blend of fresh herbs and raw-friendly bread crumbled into a soft, savory base.",
+  "cuisine": "Argentine",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole grain bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Fresh herbs (e.g., parsley, cilantro)",
+      "amount": "1/4 cup fresh"
+    },
+    {
+      "name": "Raw friendly vegan butter or oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Slice the bread into small pieces and place them in a microwave-safe bowl.",
+    "Microwave on high for about 30 seconds, then turn off the microwave. Let sit for a minute.",
+    "In a separate mixing bowl, combine sliced bread with fresh herbs and raw friendly vegan butter or oil.",
+    "Gently fold the mixture to incorporate all ingredients evenly."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 1,
+  "totalTimeMin": 1,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "herbal",
+    "argentinian",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 3
+  },
+  "slug": "fluffy-herbal-raw-friendly-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-herbal-raw-friendly-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:54:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "bread",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Bread",
+    "descriptor": "Herbal Fluffy Raw Friendly",
+    "dishForm": "Crumble"
+  }
+}
