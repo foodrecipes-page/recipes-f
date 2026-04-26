@@ -1,0 +1,83 @@
+{
+  "title": "Fluffy Lazy Sunday Thai Jerusalem Artichoke Stir-fry",
+  "description": "This earthy and fluffy Thai dish features roasted Jerusalem artichokes that are perfect for a lazy Sunday meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "Minced or minced into small pieces"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2-3",
+      "notes": "Chiffonade (thinly sliced)"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1-2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Score the skin of the Jerusalem artichokes with a few shallow cuts, then wrap them in aluminum foil.",
+    "Roast the Jerusalem artichokes for about 45-60 minutes or until they are tender and golden brown. Remove from oven.",
+    "While the artichokes are roasting, mince garlic and chop green onions into chiffonade.",
+    "In a wok or large skillet, heat some oil over medium-high heat. Add minced garlic and cook for about 30 seconds until fragrant but not burnt.",
+    "Add roasted Jerusalem artichokes to the wok along with chopped green onions, fresh cilantro, soy sauce, and fish sauce.",
+    "Stir everything together well and cook for an additional 2-3 minutes or until heated through. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "fluffy",
+    "jerusalem-artichoke-stir-fry",
+    "thai",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "fluffy-lazy-sunday-thai-jerusalem-artichoke-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-lazy-sunday-thai-jerusalem-artichoke-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:30:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Fluffy Lazy Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
