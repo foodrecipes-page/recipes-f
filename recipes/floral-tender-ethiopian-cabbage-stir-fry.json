@@ -1,0 +1,84 @@
+{
+  "title": "Floral Tender Ethiopian Cabbage Stir-fry",
+  "description": "This lazy-sunday dish features tender cabbage leaves infused with a floral flavor from Moroccan spices, perfect for those who want an easy yet delicious vegetarian meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Moroccan Harissa Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the cabbage into large pieces and blanch it in boiling water for about 5 minutes.",
+    "In a skillet, heat olive oil over medium-high heat. Add onions and garlic, sautéing until translucent.",
+    "Stir in Moroccan Harissa Paste, turmeric powder, and salt. Pour in the cooked cabbage and tomatoes, tossing to coat well.",
+    "Cook for another 5-7 minutes or until all ingredients are heated through and the sauce has thickened slightly.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "tender",
+    "lazy-sunday",
+    "ethiopian",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "floral-tender-ethiopian-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-ethiopian-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:59:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Floral Tender",
+    "dishForm": "Stir-fry"
+  }
+}
