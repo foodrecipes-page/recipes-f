@@ -1,0 +1,88 @@
+{
+  "title": "Flaky Argentinian Mustard Greens Stir-fry",
+  "description": "A show-off Argentinean dish featuring mustard powder in a floral and flaky flavor profile that is whole30-friendly and perfect for your dinner table.",
+  "cuisine": "Argentine",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard Greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2 small"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 lime"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Mustard Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Clean and chop mustard greens into bite-sized pieces.",
+    "Peel onions, garlic, and red peppers. Dice all vegetables.",
+    "In a pan over medium heat, add olive oil, then sauté onions until translucent.",
+    "Add garlic and red peppers to the pan, stir for about 2 minutes or until soft.",
+    "Fold in mustard greens and sprinkle with mustard powder. Stir well to combine.",
+    "Pour lime juice into the pan. Adjust seasoning with salt if needed.",
+    "Cook for another 5-7 minutes or until all vegetables are tender and nicely flavored.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "mustard-greens",
+    "flaky-floral",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "flaky-argentinian-mustard-greens-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-argentinian-mustard-greens-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:39:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "mustard powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Mustard Greens",
+    "descriptor": "Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
