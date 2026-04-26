@@ -1,0 +1,66 @@
+{
+  "title": "Fluffy Crumbled Feta Cheese",
+  "description": "This malaysian dish features fluffy crumbled feta cheese that has been caramelized for a high-protein-friendly snack or side.",
+  "cuisine": "malaysian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place feta cheese cubes on a baking sheet lined with parchment paper.",
+    "Melt unsalted butter in a small saucepan over medium heat. Once melted, remove from heat and pour evenly over the feta cheese.",
+    "Sprinkle pinch of salt over the feta cheese mixture.",
+    "Bake for 10 minutes or until edges are golden brown and caramelized.",
+    "Let cool slightly before crumbling with your fingers."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "feta cheese",
+    "caramelized",
+    "high-protein-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 93,
+    "protein": 9.3,
+    "carbs": 1,
+    "fat": 5
+  },
+  "slug": "fluffy-crumbled-feta-cheese",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-crumbled-feta-cheese",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:51:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Feta Cheese",
+    "descriptor": "Fluffy",
+    "dishForm": "Crumble"
+  }
+}
