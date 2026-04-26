@@ -1,0 +1,65 @@
+{
+  "title": "Floral Crumbly American Puff Pastry Crock",
+  "description": "An energizing pastry dish featuring floral notes from pomegranate and cucumber, with a crunchy texture that complements its flavors perfectly.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Halal-friendly Pickle (pomegranate or cucumber)",
+      "amount": "2 tablespoons",
+      "notes": "Choose one based on your preference for flavor."
+    },
+    {
+      "name": "Honey Glaze (optional, for a touch of sweetness)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place puff pastry sheet between two sheets of parchment paper on a baking tray.",
+    "Using a sharp knife or a pastry cutter, cut the puff pastry into bite-sized pieces, about 1 inch in diameter and 1/2 inch thick.",
+    "Arrange the cut-out pieces evenly over the center of the puff pastry-lined baking tray. Press gently to flatten slightly if needed.",
+    "Apply halal-friendly pickle on top of each pastry piece, ensuring they're well distributed but not overwhelming the flavor profile.",
+    "Bake for 15-20 minutes or until golden brown and crisp, watching closely in case of any uneven cooking.",
+    "While baking, mix honey with a bit of water to create a thin glaze. Drizzle over each piece just before serving if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "puff pastry",
+    "pickle",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "floral-crumbly-american-puff-pastry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crumbly-american-puff-pastry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:46:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "puff pastry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Puff Pastry",
+    "descriptor": "Floral Crumbly",
+    "dishForm": "Crumble"
+  }
+}
