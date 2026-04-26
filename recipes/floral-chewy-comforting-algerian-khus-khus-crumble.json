@@ -1,0 +1,92 @@
+{
+  "title": "Floral Chewy Comforting Algerian Khus Khus Crumble",
+  "description": "A floral, chewy, comforting dish from Algeria featuring khus khus (a type of poppy seed) that combines broiling with dairy-free ingredients for a delightful treat.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Khus Khus",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fruits (e.g. Raisins, Sultanas)",
+      "amount": "1/4 cup",
+      "notes": "For added sweetness and flavor."
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Sunflower Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Meal (or any gluten-free flour)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high.",
+    "In a large bowl, combine khus khus with coconut milk and fruits. Add cardamom powder and sugar; mix well.",
+    "Fold in sunflower oil gently until everything is moist but not overly liquidy.",
+    "In another medium-sized mixing bowl, add almond meal and almond extract. Mix evenly to ensure no lumps remain.",
+    "Gradually fold the flour mixture into the khus khus mixture while stirring continuously to combine both mixtures without overmixing.",
+    "Transfer the crumble mixture onto a baking sheet lined with parchment paper.",
+    "Broil on high for 5 minutes, or until golden brown and crisp around the edges. Be careful not to burn as it will only take a minute at most.",
+    "Remove from heat immediately after broiling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dessert",
+    "floral",
+    "chewy",
+    "comforting",
+    "khus-khus",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 43,
+    "fat": 12
+  },
+  "slug": "floral-chewy-comforting-algerian-khus-khus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-comforting-algerian-khus-khus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:03:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "khus khus",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Khus khus",
+    "descriptor": "Floral Chewy Comforting",
+    "dishForm": "Crumble"
+  }
+}
