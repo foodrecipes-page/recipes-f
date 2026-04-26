@@ -1,0 +1,66 @@
+{
+  "title": "Fermented Onion Malaysian Crumble",
+  "description": "A chewy and flavorful fermented onion crumble dish that pairs perfectly with brunch or snack time, suitable for those following a paleo diet.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the onion into small pieces.",
+    "Mix chopped onions with apple cider vinegar in a bowl.",
+    "Add coconut oil to the bowl and stir until evenly coated.",
+    "Place mixture on a baking sheet lined with parchment paper.",
+    "Bake at 200°C for 45 minutes, stirring occasionally.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-onion",
+    "chewy-malaysian",
+    "brunch-friendly",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "fermented-onion-malaysian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-onion-malaysian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:31:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "chopped onion",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Onion",
+    "descriptor": "Fermented",
+    "dishForm": "Chewy"
+  }
+}
