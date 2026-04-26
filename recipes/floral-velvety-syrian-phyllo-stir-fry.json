@@ -1,0 +1,88 @@
+{
+  "title": "Floral Velvety Syrian Phyllo Stir-fry",
+  "description": "A solo-dinner Syrian dish featuring floral-flavored phyllo dough mixed with dumplings and served in a velvety sauce for a low-sodium-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo Dough",
+      "amount": "1 sheet",
+      "notes": "Use a mix of flavored and plain phyllo for added flavor."
+    },
+    {
+      "name": "Ground Beef or Lamb",
+      "amount": "200g",
+      "notes": "Opt for lean meat to keep the dish low in fat."
+    },
+    {
+      "name": "Dumplings (Vegetable or Meat)",
+      "amount": "1 dozen",
+      "notes": "Use low-sodium dumplings if available."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons",
+      "notes": "Low sodium soy sauce recommended for health-conscious choices."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying and flavor enhancement."
+    },
+    {
+      "name": "Water or Chicken Stock",
+      "amount": "1 cup",
+      "notes": "Use low-sodium stock if available for dietary preference."
+    },
+    {
+      "name": "Fresh Herbs (optional)",
+      "amount": "To taste",
+      "notes": "Include fresh parsley, mint, or cilantro for additional flavoring."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Fold and lay out the phyllo sheets in a single layer on a baking sheet. Brush with oil and lightly sprinkle soy sauce over each sheet.",
+    "Arrange dumplings and ground meat evenly across the phyllo layers, ensuring no gaps between them for better binding.",
+    "Drizzle water or chicken stock over the top to ensure all ingredients are moistened, then cover loosely with aluminum foil and bake at 375°F for 10 minutes.",
+    "After baking, remove the foil and continue to bake uncovered until golden brown and crisp on top (approximately another 10-15 minutes).",
+    "Remove from oven, garnish with fresh herbs if desired, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral-velvety",
+    "syrian-dish",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "floral-velvety-syrian-phyllo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-syrian-phyllo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:23:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "phyllo dough",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Phyllo",
+    "descriptor": "Floral Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
