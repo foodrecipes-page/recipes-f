@@ -1,0 +1,85 @@
+{
+  "title": "Floral Chewy Low Sodium Korean Spaghetti Stir-fry",
+  "description": "A hangover-cure-friendly floral and chewy low-sodium Korean spaghetti dish, perfect for a quick lunch or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium",
+    "hangover-cure"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Watermelon radish, julienned",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tahini (sesame paste)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to boil and cook spaghetti according to package instructions.",
+    "Meanwhile, in a small bowl, mix low sodium soy sauce with gochujang until well combined.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add julienned watermelon radish, ginger, green onions, and the sauce mixture. Stir-fry for about 2 minutes.",
+    "Add cooked spaghetti to the stir-fry and toss together to coat evenly with sauce. Remove from heat immediately to avoid overcooking.",
+    "Stir in tahini until fully incorporated and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean-spaghetti",
+    "floral-chewy",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "floral-chewy-low-sodium-korean-spaghetti-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-low-sodium-korean-spaghetti-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:54:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "spaghetti",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Spaghetti",
+    "descriptor": "Floral Chewy Low Sodium",
+    "dishForm": "Stir-fry"
+  }
+}
