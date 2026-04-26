@@ -1,0 +1,91 @@
+{
+  "title": "Flaky Vietnamese Herb Falafel Crumble",
+  "description": "A light and savory Vietnamese-inspired dish featuring crispy falafel crumbles with a blend of aromatic herbs for a vegan-friendly breakfast or snack option.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan Falafel Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 handful, chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Milk or Water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend Vegan Falafel Mix with Garlic Powder, Salt, and Red Pepper Flakes in a food processor until crumbly.",
+    "Heat Vegetable Oil in a pan over medium heat. Add the falafel mixture, pressing into patties.",
+    "Cook for about 3-4 minutes on each side or until golden brown and crispy.",
+    "Transfer to a plate lined with paper towels. Sprinkle with chopped Mint Leaves and Cilantro. Drizzle with Coconut Milk or Water.",
+    "Garnish with Sesame Seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "herbal",
+    "light",
+    "vietnamese",
+    "falafel",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 2,
+    "fat": 3
+  },
+  "slug": "flaky-vietnamese-herb-falafel-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-vietnamese-herb-falafel-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:08:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "falafel",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "herb",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
