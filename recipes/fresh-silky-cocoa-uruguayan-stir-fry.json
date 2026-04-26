@@ -1,0 +1,76 @@
+{
+  "title": "Fresh Silky Cocoa Uruguayan Stir-fry",
+  "description": "A fresh and silky dish featuring cocoa powder in a monsoon-inspired recipe that is both Paleo-friendly and quick to prepare.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paleo Chicken Breast",
+      "amount": "100g"
+    },
+    {
+      "name": "Baby Carrots",
+      "amount": "25g"
+    },
+    {
+      "name": "Paleo-friendly Brown Rice",
+      "amount": "50g"
+    },
+    {
+      "name": "Avocado",
+      "amount": "50g"
+    },
+    {
+      "name": "Paleo-friendly Mayonnaise (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to a safe temperature for cooking under high pressure.",
+    "Slice the Paleo Chicken Breast into thin strips and lightly season them with salt and pepper. Press any excess moisture out of the Baby Carrots.",
+    "In a small bowl, mix together the Paleo-friendly Mayonnaise (if using) and a bit of water to create a dressing for your dish.",
+    "Place all ingredients in the pressure cooker: chicken, carrots, rice, avocado slices, and the mayonnaise mixture. Add enough water to cover everything.",
+    "Cook on high pressure according to your pressure cooker’s instructions for about 5 minutes, then let it naturally release steam for an additional minute or two.",
+    "Gently stir-fry over medium heat until the ingredients are heated through and the flavors meld together nicely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-silky",
+    "monsoon",
+    "uruguayan-dish",
+    "cocoa-powder",
+    "paleo-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "fresh-silky-cocoa-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-silky-cocoa-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:20:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cocoa powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cocoa",
+    "descriptor": "Fresh Silky",
+    "dishForm": "Stir-fry"
+  }
+}
