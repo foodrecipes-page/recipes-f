@@ -1,0 +1,114 @@
+{
+  "title": "Fresh Silky Kenyan Chicken Stir-fry",
+  "description": "This fresh and silky dish features chicken stock concentrate in a light and flavorful stir-fry that's perfect for date nights or any casual meal.",
+  "cuisine": "African (Kenyan)",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Stock Concentrate",
+      "amount": "1 packet",
+      "notes": "Low sodium, ready to use"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces (60g each)",
+      "notes": "Skinless and boneless"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "4-5 pcs",
+      "notes": "Freshly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp",
+      "notes": "For glazing purposes"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tsp",
+      "notes": "Fresh, for zingy flavor"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "4-5 sprigs",
+      "notes": "For aroma and depth"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "To sauté ingredients and deglaze pan"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season chicken pieces with salt and pepper. Heat oil in a pan over medium heat, add chicken and sauté until golden brown on both sides.",
+    "Remove chicken from the pan and set aside. In the same pan, sauté onions and garlic until translucent.",
+    "Add green peppers to the pan and stir for 2-3 minutes, allowing them to soften slightly.",
+    "Deglaze the pan with a bit of water or broth if needed, scraping any browned bits from the bottom.",
+    "Return chicken back into the pan. Stir in tomato paste until fully incorporated, then add green peppers and onions.",
+    "Bring everything to a simmer, reduce heat to low, add thyme sprigs, and let it cook for about 5 minutes.",
+    "Stir in chicken stock concentrate with a splash of lemon juice. Taste and adjust seasoning if necessary.",
+    "Cook until the sauce thickens slightly and flavors are well integrated into the dish. Adjust consistency with water or broth as needed.",
+    "Serve hot, garnished with fresh cilantro or lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "kenyan",
+    "chicken",
+    "green_peppers",
+    "onion",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "fresh-silky-kenyan-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-silky-kenyan-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:23:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Fresh Silky",
+    "dishForm": "Stir-fry"
+  }
+}
