@@ -1,0 +1,84 @@
+{
+  "title": "Fried Herbal Goat Meat Stir-fry",
+  "description": "A herbal and dense Greek-inspired dish featuring crispy fried goat meat with a touch of sweetness from honey, perfect for a romantic dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "nut-free",
+    "meat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goat Meat",
+      "amount": "200g",
+      "notes": "Grilled and sliced thinly"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 medium",
+      "notes": "Sliced into thin strips for color and flavor"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "8-10 stalks",
+      "notes": "Chopped finely for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add sliced goat meat to the skillet and fry until golden brown on both sides, about 5 minutes.",
+    "Stir in minced garlic and cook for an additional minute.",
+    "Drizzle honey evenly over the goat meat mixture and stir well to coat.",
+    "Add red pepper strips and green onions. Cook for another 2-3 minutes until greens wilt slightly.",
+    "Serve hot with a side of Greek yogurt or a simple salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-herb",
+    "goat-meat-stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 14
+  },
+  "slug": "fried-herbal-goat-meat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-herbal-goat-meat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:29:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "goat meat",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Goat Meat",
+    "descriptor": "Fried",
+    "dishForm": "Stir-fry"
+  }
+}
