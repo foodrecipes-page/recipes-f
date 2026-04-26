@@ -1,0 +1,77 @@
+{
+  "title": "Fresh Juicy Poached Basil Stir-fry",
+  "description": "A refreshing and vibrant brunch dish featuring poached basil with a touch of garlic for added flavor and texture.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "basil leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the basil leaves and chop them into small pieces.",
+    "Mince the garlic cloves finely.",
+    "In a saucepan, heat oil over medium heat. Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add chopped basil to the saucepan, reduce heat to low, and cover with a lid. Cook for about 1-2 minutes or until the leaves wilt slightly but are still bright green.",
+    "Gently stir in lemon juice and season with salt and pepper to taste.",
+    "Transfer the poached basil mixture into a serving bowl."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-juicy",
+    "stir-fry",
+    "poached-basil"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "fresh-juicy-poached-basil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-juicy-poached-basil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:55:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "basil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Basil",
+    "descriptor": "Fresh Juicy Poached",
+    "dishForm": "Stir-fry"
+  }
+}
