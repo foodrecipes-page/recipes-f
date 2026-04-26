@@ -1,0 +1,97 @@
+{
+  "title": "Fermented Creamy Solo-Dinner Polish Ackee Stir-fry",
+  "description": "A high-protein-friendly solo-dinner dish featuring ackee stir-fried with fermented cream and other high-protein ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "high-protein",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of fermented cashew cream",
+      "amount": "",
+      "notes": "ensure the source is safe and certified for consumption"
+    },
+    {
+      "name": "2 tablespoons of almond butter",
+      "amount": "",
+      "notes": "use natural, unsweetened variety"
+    },
+    {
+      "name": "1 medium tomato, chopped",
+      "amount": "",
+      "notes": "fresh or roasted can be used"
+    },
+    {
+      "name": "1 small cucumber, diced",
+      "amount": "",
+      "notes": "use fresh or frozen if needed"
+    },
+    {
+      "name": "4-5 pcs of ackee fruit, peeled and quartered",
+      "amount": "",
+      "notes": "ensure the source is from a safe region as ackee can be toxic in other places"
+    },
+    {
+      "name": "2 tablespoons of olive oil",
+      "amount": "",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "1 clove of garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "A pinch of sea salt and black pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the fermented cashew cream in a blender or food processor and blend until smooth.",
+    "In a wok or large frying pan, heat olive oil over medium-high heat. Add minced garlic and cook for about 30 seconds.",
+    "Add diced tomatoes and cucumber to the wok, tossing them around to coat with garlic oil.",
+    "Pour in the blended fermented cashew cream into the wok, stirring continuously until it coats all vegetables.",
+    "Fold in quartered ackee fruit. Cook for about 2-3 minutes, allowing the ackee to warm up and slightly cook.",
+    "Taste and adjust seasoning if needed with sea salt and black pepper.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-cream",
+    "stir-fry",
+    "paleo-friendly",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "fermented-creamy-solo-dinner-polish-ackee-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-solo-dinner-polish-ackee-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:00:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "ackee",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Ackee",
+    "descriptor": "Fermented Creamy Solo-Dinner",
+    "dishForm": "Stir-fry"
+  }
+}
