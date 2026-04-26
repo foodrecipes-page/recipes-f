@@ -1,0 +1,80 @@
+{
+  "title": "Fried Silky Italian Courgette Stir-fry",
+  "description": "A quick-fix, fresh, and silky Italian dish featuring courgettes that are stir-fried with a savory sauce for a nutritious meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb",
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium-sized",
+      "notes": "Washed and sliced into thin rounds"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "A few dashes",
+      "notes": "For extra flavor and texture"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "2-3 fresh, finely chopped",
+      "notes": "To garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a non-stick frying pan over medium-high heat.",
+    "Add the courgette slices to the pan and stir-fry for about 5 minutes or until they start to brown lightly on both sides.",
+    "Add the chopped garlic and red pepper flakes if using, stirring well. Continue to cook for another minute until fragrant.",
+    "Stir in finely chopped basil leaves, mix well, and remove from heat immediately.",
+    "Serve hot as a light lunch dish or side with any pasta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "courgette",
+    "stir-fry",
+    "italian",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 3.2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "fried-silky-italian-courgette-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-silky-italian-courgette-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:19:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "courgettes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Courgette",
+    "descriptor": "Fried",
+    "dishForm": "Stir-fry"
+  }
+}
