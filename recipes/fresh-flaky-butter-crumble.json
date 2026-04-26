@@ -1,0 +1,68 @@
+{
+  "title": "Fresh Flaky Butter Crumble",
+  "description": "A festive and fresh flaky dish featuring butter that's perfect for adding a mediterranean twist to any meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": "Use cold, freshly ground flour for best results."
+    },
+    {
+      "name": "3/4 cup unsalted butter",
+      "amount": "at room temperature",
+      "notes": "Ensure it's softened to a spreadable consistency."
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of sugar",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine flour and salt. Add softened butter and pinch of sugar using your fingers or a pastry blender until the mixture resembles coarse breadcrumbs.",
+    "Transfer the crumble onto an ungreased baking sheet and bake for about 12-15 minutes or until golden brown and crispy.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-flaky-butter-crumble",
+    "mediterranean-friendly-dessert"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 11
+  },
+  "slug": "fresh-flaky-butter-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-flaky-butter-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:17:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Butter",
+    "descriptor": "Fresh Flaky Festive",
+    "dishForm": "Crumble"
+  }
+}
