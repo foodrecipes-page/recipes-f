@@ -1,0 +1,108 @@
+{
+  "title": "Freshly Sauteed Moroccan Cabbage Stir-fry",
+  "description": "A fresh and crisp lazy-sunday moroccan dish featuring white cabbage, sautéed to perfection with aromatic spices without any nuts.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Cabbage",
+      "amount": "1 large",
+      "notes": "Shredded into thin strips"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Heated and reduced to add a touch of sweetness"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For its bright yellow color and aromatic notes"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "To enhance the natural flavors of the dish"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "A few twists",
+      "notes": "For a slight kick of heat, optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Lightly toasted for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "A few sprigs",
+      "notes": "For garnish, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Shred the cabbage into thin strips and set aside.",
+    "Toast the olive oil in a skillet over medium heat until fragrant, about 1 minute. Add garlic and onion and sauté for an additional 3-5 minutes until softened.",
+    "Add shredded cabbage to the skillet and sprinkle with cumin powder, coriander powder, turmeric powder, and red pepper flakes (if using). Stir well to coat the cabbage evenly.",
+    "Pour in the tomato sauce over the cabbage. Add salt to taste and stir again to combine all ingredients thoroughly.",
+    "Cover the skillet with a lid or aluminum foil for about 5 minutes to allow flavors to meld together.",
+    "Remove from heat and serve garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-moroccan-dish",
+    "lazy-sunday-meal",
+    "crisp-cabbage-stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "freshly-sauteed-moroccan-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-sauteed-moroccan-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:14:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "white cabbage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Freshly Sauteed",
+    "dishForm": "Stir-fry"
+  }
+}
