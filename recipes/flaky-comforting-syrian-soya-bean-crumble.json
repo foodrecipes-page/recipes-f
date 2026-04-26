@@ -1,0 +1,81 @@
+{
+  "title": "Flaky Comforting Syrian Soya Bean Crumble",
+  "description": "A floral and comforting dish featuring a flaky soya bean crumble made without eggs, perfect for a breakfast or snack option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "egg-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cooked soybeans",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons ground flaxseed",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup maple syrup or agave nectar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon (optional for extra tanginess)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine soybeans, flaxseed, maple syrup, and salt in a bowl.",
+    "If desired, add a little lemon juice to enhance flavors.",
+    "Mix well until the mixture is thick but still can be spread thinly.",
+    "Line a baking sheet with parchment paper.",
+    "Using fingers or a spoon, press the mixture into an even layer about 1/2 inch thick on the prepared pan.",
+    "Bake at 350°F (175°C) for approximately 25 minutes or until golden brown and crisp around the edges.",
+    "Allow to cool before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "comforting",
+    "soya bean",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 19,
+    "fat": 4
+  },
+  "slug": "flaky-comforting-syrian-soya-bean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-comforting-syrian-soya-bean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:39:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "soya bean",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Soya Bean",
+    "descriptor": "Flaky Comforting",
+    "dishForm": "Crumble"
+  }
+}
