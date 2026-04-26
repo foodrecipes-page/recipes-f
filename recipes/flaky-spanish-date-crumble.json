@@ -1,0 +1,76 @@
+{
+  "title": "Flaky Spanish Date Crumble",
+  "description": "This medjool date crumble dish is perfect for a cozy date night or anytime you're craving something sweet and flaky.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups Medjool dates",
+      "amount": "",
+      "notes": "pitted"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter, softened",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, combine dates, flour, sugar, and salt.",
+    "Add the softened butter to the date mixture and mix until well combined. The mixture will be crumbly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper or a silpat.",
+    "Bake for 20-25 minutes or until golden brown on top.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "spanish-date-crumble",
+    "medjool-dates",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "flaky-spanish-date-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-spanish-date-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:15:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "medjool dates",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "date",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
