@@ -1,0 +1,81 @@
+{
+  "title": "Fry Leek Turkish Stir-fry",
+  "description": "A tangy, tender, sick-day Turkish dish featuring leeks that is both delicious and suitable for those following a FODMAP diet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large leek",
+      "amount": "",
+      "notes": "Trimmed and sliced thinly"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for tartness"
+    },
+    {
+      "name": "Pinch red pepper flakes",
+      "amount": "",
+      "notes": "For heat and brightness"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Minced dill (optional)",
+      "amount": "",
+      "notes": "Adds a fresh, herbal flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick frying pan over medium heat.",
+    "Add leek and garlic; sauté until the leeks are translucent and slightly golden, about 5 minutes.",
+    "Toss in red pepper flakes for a burst of flavor. Stir in lemon juice just before serving to avoid discoloring.",
+    "Garnish with fresh dill if using, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fried-leek-turkish",
+    "tangy-stir-fry",
+    "sick-day-dish"
+  ],
+  "nutrition": {
+    "calories": 76,
+    "protein": 3,
+    "carbs": 9.4,
+    "fat": 5
+  },
+  "slug": "fry-leek-turkish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-leek-turkish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:55:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "leek",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Leek",
+    "descriptor": "Fry",
+    "dishForm": "Stir-fry"
+  }
+}
