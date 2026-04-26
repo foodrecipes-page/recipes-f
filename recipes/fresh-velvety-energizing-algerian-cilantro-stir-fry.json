@@ -1,0 +1,84 @@
+{
+  "title": "Fresh Velvety Energizing Algerian Cilantro Stir-fry",
+  "description": "A fresh and velvety Algerian dish featuring cilantro leaves with a tadka base for an energizing meal that is gluten-free-friendly.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cilantro",
+      "amount": "1 cup fresh cilantro leaves"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "3 tablespoons tomato paste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon garlic powder"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon red pepper flakes"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon turmeric powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch of salt"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons oil"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons water"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix cilantro leaves with tomato sauce, garlic powder, red pepper flakes, turmeric powder, and salt. Stir until well combined.",
+    "Heat vegetable oil in a pan over medium-high heat. Pour the mixture into the pan and stir continuously for about 2 minutes to prevent sticking.",
+    "Add water and continue stirring until the sauce thickens slightly, about 1 minute more. Adjust seasoning if needed.",
+    "Serve hot as a side dish or as a main course with your choice of gluten-free accompaniments."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "velvety",
+    "energizing",
+    "cilantro",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 7,
+    "carbs": 46,
+    "fat": 12
+  },
+  "slug": "fresh-velvety-energizing-algerian-cilantro-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-velvety-energizing-algerian-cilantro-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:08:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cilantro",
+    "descriptor": "fresh velvety energizing",
+    "dishForm": "Stir-fry"
+  }
+}
