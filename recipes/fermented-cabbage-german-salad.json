@@ -1,0 +1,69 @@
+{
+  "title": "Fermented Cabbage German Salad",
+  "description": "This sensational dish features raw vegetables fermented to a velvety texture and served with a tangy dressing for a show-off German take on salads.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Salt",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "Water",
+      "amount": "enough to cover cabbage"
+    },
+    {
+      "name": "Sauerkraut Juice (optional for dressing)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash the cabbage thoroughly and cut it into quarters.",
+    "Place each quarter in a zip-top bag with enough water to cover. Refrigerate for at least 18 hours, or until fully fermented.",
+    "Once fermented, squeeze out excess moisture from the cabbage quarters.",
+    "Slice the fermented cabbage finely and set aside.",
+    "In a bowl, whisk together vinegar, salt, sugar (optional), and sauerkraut juice to make the dressing.",
+    "Toss the sliced fermented cabbage with the dressing for a vibrant, tangy salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "velvety",
+    "german",
+    "raw",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 25,
+    "protein": 0.9,
+    "carbs": 7.3,
+    "fat": 0.1
+  },
+  "slug": "fermented-cabbage-german-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-cabbage-german-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:00:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "raw vegetables",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Fermented",
+    "dishForm": "Salad"
+  }
+}
