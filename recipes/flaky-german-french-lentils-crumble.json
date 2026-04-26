@@ -1,0 +1,93 @@
+{
+  "title": "Flaky German French Lentils Crumble",
+  "description": "An earthy and flaky weeknight dish featuring keto-friendly french lentils with a smoky twist.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups French Lentils",
+      "amount": "cup",
+      "notes": "Rinsed and sorted"
+    },
+    {
+      "name": "1 cup water or low-sodium vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon ground thyme",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Optional: Fresh herbs for garnish (parsley, dill)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a saucepan, combine lentils and water or broth. Bring to a boil, then reduce heat to low and simmer for about 20-25 minutes until tender.",
+    "While the lentils cook, heat olive oil in a skillet over medium heat. Add onion and garlic; sauté for 3-4 minutes until softened.",
+    "Stir in smoked paprika, thyme, salt, and pepper. Cook for an additional minute to toast spices slightly.",
+    "Drain lentils thoroughly and add them to the skillet with the onions and garlic. Combine lentils with onion mixture evenly.",
+    "Transfer lentil mixture to a 9x13 inch baking dish. Sprinkle evenly over grated Parmesan cheese (optional).",
+    "Bake in preheated oven for about 25-30 minutes or until golden brown on top and bubbly around the edges.",
+    "Serve warm with fresh herbs for garnish, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "keto-friendly",
+    "german",
+    "france"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "flaky-german-french-lentils-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-german-french-lentils-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:41:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "french lentils",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "French Lentils",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
