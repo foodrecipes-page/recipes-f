@@ -1,0 +1,88 @@
+{
+  "title": "Fluffy Midnight Craving Vietnamese Prosciutto Pilaf",
+  "description": "A low-carb-friendly and midnight-craving dish featuring a fluffy pilaf base with fermented prosciutto, providing a unique blend of flavors and textures.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "150g thinly sliced"
+    },
+    {
+      "name": "Fermented vegetables (e.g. Korean kimchi)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 green onions, finely chopped"
+    },
+    {
+      "name": "Pilaf rice blend (e.g. Basmati and Jasmine)",
+      "amount": "2 cups cooked and fluffed"
+    },
+    {
+      "name": "Rice wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add ginger and scallions, sauté for about 2 minutes until fragrant.",
+    "Add fermented vegetables to the pan, mix well with rice wine vinegar.",
+    "Gently fold in prosciutto slices, cooking until heated through but not crispy.",
+    "Stir in fluffed pilaf rice blend and season with salt and pepper according to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese-prosciutto-pilaf",
+    "fermented-vegetables",
+    "midnight-craving-dish",
+    "prosciutto",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "fluffy-midnight-craving-vietnamese-prosciutto-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-midnight-craving-vietnamese-prosciutto-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:38:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "prosciutto",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Prosciutto",
+    "descriptor": "Fluffy Midnight Craving",
+    "dishForm": "Pilaf"
+  }
+}
