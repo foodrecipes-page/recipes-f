@@ -1,0 +1,96 @@
+{
+  "title": "Flaky Greek Beef Stir-fry",
+  "description": "A herbal and flaky Greek dish featuring beef brisket in a diabetic-friendly stir-fry that pairs perfectly with brunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "1 lb",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped thinly"
+    },
+    {
+      "name": "Green Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped thinly"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Chopped into thin slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek Yogurt Sauce",
+      "amount": "1/4 cup",
+      "notes": "Low-fat or regular, based on preference"
+    },
+    {
+      "name": "Fresh Herbs (Dill, Mint, Oregano)",
+      "amount": "To taste",
+      "notes": "Chopped finely"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Season the beef brisket with salt and pepper. Place it on a baking sheet lined with parchment paper.",
+    "Bake for about 10-15 minutes or until nicely browned, then reduce heat to 275°F and continue cooking until fully tender (about 45-60 minutes). Let cool slightly before slicing thin.",
+    "In a large skillet over medium-high heat, add olive oil. Add sliced onions and cook for about 3 minutes until translucent.",
+    "Add red bell pepper, green bell pepper, zucchini slices, and the cooked beef brisket to the skillet. Stir-fry for about 5-7 minutes or until vegetables are crisp-tender.",
+    "Drizzle the Greek yogurt sauce over the stir-fried mixture. Mix well to combine.",
+    "Sprinkle fresh herbs on top of the dish before serving.",
+    "Serve hot as a side dish with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-beef-stir-fry",
+    "flaky-greek-dish",
+    "herbal-flavor",
+    "brunch-friendly",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "flaky-greek-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-greek-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:46:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef brisket",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Beef",
+    "descriptor": "Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
