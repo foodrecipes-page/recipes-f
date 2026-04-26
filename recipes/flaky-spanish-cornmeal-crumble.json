@@ -1,0 +1,78 @@
+{
+  "title": "Flaky Spanish Cornmeal Crumble",
+  "description": "A kid-friendly, plant-based dish featuring a flaky cornmeal topping with added depth from bitter herbs like thyme.",
+  "cuisine": "Spanish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pinch of salt"
+    },
+    {
+      "name": "bitter herbs (thyme, rosemary or similar)",
+      "amount": "2-3 sprigs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "few drops"
+    }
+  ],
+  "instructions": [
+    "Combine cornmeal and almond milk in a bowl. Add flax seeds and salt, mixing until well combined.",
+    "Grate bitter herbs finely and add them to the mixture. Stir in olive oil to help thicken slightly if needed.",
+    "Preheat oven to 350°F (180°C). Grease an 8x8 inch baking dish with a little bit of oil or cooking spray.",
+    "Pour cornmeal mixture into prepared pan and spread evenly. Bake for about 20-25 minutes until golden brown and set in the center.",
+    "Allow to cool slightly before serving. Serve warm as a crumble over oatmeal, yogurt, or fresh berries."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "crumble",
+    "spanish",
+    "cornmeal",
+    "kid-friendly",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "flaky-spanish-cornmeal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-spanish-cornmeal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:42:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "cornmeal",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "flaky",
+    "dishForm": "Crumble"
+  }
+}
