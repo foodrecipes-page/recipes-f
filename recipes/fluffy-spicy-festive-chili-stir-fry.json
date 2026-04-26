@@ -1,0 +1,88 @@
+{
+  "title": "Fluffy Spicy Festive Chili Stir-fry",
+  "description": "A festive Chinese dish featuring glace cherries and a spicy kick, perfect for adding some color to your dinner table with its festive flair.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glace Cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vegetable Broth or Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to high heat.",
+    "Add oil and garlic to the pot, sautéing for about 1 minute until fragrant.",
+    "Add chili flakes and ginger to the pot, cooking for another minute.",
+    "Pour in soy sauce and fish sauce, stir well to combine with spices.",
+    "Gradually pour in vegetable broth or water while continuously stirring to prevent sticking. Allow mixture to simmer for about 5 minutes.",
+    "Finally add glace cherries and cook for an additional 2-3 minutes until heated through and the liquids have slightly reduced.",
+    "Serve hot as a side dish or main course, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "spicy",
+    "festive",
+    "chili_stir-fry",
+    "gluten_free"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "fluffy-spicy-festive-chili-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spicy-festive-chili-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:39:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "glace cherry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chili",
+    "descriptor": "Fluffy Spicy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
