@@ -1,0 +1,78 @@
+{
+  "title": "Flaky Jamaican Cherries Crumble",
+  "description": "A light and flaky fermented crumble dish featuring tart cherries, infused with a tadka for added flavor and made in a low-calorie-friendly manner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup fresh or frozen cherries, pitted and chopped"
+    },
+    {
+      "name": "2 tablespoons cornstarch"
+    },
+    {
+      "name": "3/4 cup water"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon"
+    },
+    {
+      "name": "1/8 teaspoon salt"
+    },
+    {
+      "name": "6 tablespoons unsalted butter, cut into small pieces"
+    },
+    {
+      "name": "1/2 cup all-purpose flour"
+    },
+    {
+      "name": "1/3 cup granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a saucepan, mix cherries with cornstarch and water. Bring to a boil over medium heat until thickened.",
+    "While the cherry mixture is cooking, prepare the crumble topping by mixing flour and sugar together, then adding butter pieces and stirring until blended into crumbs.",
+    "Press half of the crumb mixture evenly on top of the cherry filling in a 9x13-inch baking dish. Pour the cherry mixture over the crumble layer.",
+    "Bake for about 25 minutes or until golden brown and bubbly. Cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "crumble",
+    "cherry",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "flaky-jamaican-cherries-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-jamaican-cherries-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:24:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "cherries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Cherries",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
