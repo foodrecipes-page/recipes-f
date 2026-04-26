@@ -1,0 +1,95 @@
+{
+  "title": "Floral Chewy Thai Eggplant Stir-fry",
+  "description": "A lazy Sunday dish featuring tender and chewy eggplants, flavored with aromatic herbs to create a floral presentation that is both visually striking and flavorful.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "3 medium Thai eggplants",
+      "amount": "each"
+    },
+    {
+      "name": "2 tbsp vegetable broth or water",
+      "notes": "For deglazing the pan"
+    },
+    {
+      "name": "1 tsp fish sauce (optional for a touch of umami)",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "notes": "Can use 1/2 an onion if large"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "notes": "Adjust quantity based on preference"
+    },
+    {
+      "name": "1 tsp fresh ginger, grated or finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp dried shrimp (optional for flavor enhancement)",
+      "notes": "Toasted and crumbled before use"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "notes": "For base cooking liquid"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "notes": "For adding zest and brightness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Halve the eggplants lengthwise, scoop out the seeds and chop into large cubes.",
+    "In a small saucepan, combine the vegetable broth or water with fish sauce if using. Bring to a simmer and reduce by half.",
+    "Toss the halved and chopped eggplant cubes in the reduced liquid mixture until evenly coated. Place on a baking sheet lined with parchment paper.",
+    "Roast for 20 minutes in the preheated oven, flipping once halfway through cooking. The eggplants should be tender and have a caramelized outer layer.",
+    "While the eggplants are roasting, heat a non-stick skillet over medium-high heat. Add the chopped onions and garlic, sauté until translucent.",
+    "If using dried shrimp, toast them in a dry pan for about 1 minute, then crumble them into small pieces and add to the skillet with the onion mixture. Cook for another 2 minutes until fragrant and well combined.",
+    "Pour the lime juice over the onions and shrimp mixture. Stir gently to combine, keeping everything slightly warm.",
+    "Return the roasted eggplant cubes to the skillet along with any accumulated juices from the baking sheet. Add the grated ginger.",
+    "Increase heat to high for 2 minutes until the mixture starts to thicken slightly. Reduce heat to medium-low and cook for an additional 5-7 minutes, stirring occasionally until the eggplants are tender and the sauce thickens enough to coat one side of a spatula evenly.",
+    "Serve hot with steamed rice or as a standalone dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "chewy",
+    "lazy-sunday",
+    "thai-eggplant-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 9.8,
+    "carbs": 50,
+    "fat": 4.6
+  },
+  "slug": "floral-chewy-thai-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-thai-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:50:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "eggplant",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Floral Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
