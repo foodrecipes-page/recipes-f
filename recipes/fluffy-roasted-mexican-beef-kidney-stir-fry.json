@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Roasted Mexican Beef Kidney Stir-fry",
+  "description": "This cozy and whole30-friendly meal features fluffy roasted beef kidneys seasoned with fermented spices for a unique and delicious twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "distilled white vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "a few sprigs, chopped"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Place beef kidneys on a baking sheet lined with parchment paper. Season with lime juice, soy sauce, white vinegar, cumin, coriander, turmeric, oregano, and cayenne pepper.",
+    "Bake for about 30 minutes or until the kidney is thoroughly cooked (internal temperature should reach at least 145°F/63°C).",
+    "Remove from oven, let it cool slightly. Once cooled, use a fork to fluff the kidneys.",
+    "Heat a stir-fry pan over medium heat. Add minced garlic and cook for about 2 minutes until fragrant but not browned.",
+    "Stir in fluffed beef kidneys, adding more lime juice if needed to prevent sticking. Mix well to combine with garlic.",
+    "Serve hot as desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-roasted-beef-kidney-stir-fry",
+    "fermented-spices",
+    "mexican-cookery"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "fluffy-roasted-mexican-beef-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-roasted-mexican-beef-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:01:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "beef kidney",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Fluffy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
