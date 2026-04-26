@@ -1,0 +1,76 @@
+{
+  "title": "Fermented Velvety Biryani Masala Stir-fry",
+  "description": "A quick-fix Croatian dish featuring fermented biryani masala, air-fried for a velvety texture and low fodmap-friendly option.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "no-salt",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Biryani Masala Powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Almond Slivers or Hazelnut Pieces (optional)",
+      "notes": "For added crunch and texture"
+    },
+    {
+      "name": "Fermented Paneer Cubes or Tofu Cubes",
+      "amount": "6-8 cubes",
+      "notes": "Use high-quality, low-sodium products if necessary"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat and add the fermented biryani masala powder.",
+    "Add extra virgin olive oil for flavoring. Stir continuously until it forms a velvety sauce.",
+    "Gradually fold in almond slivers or hazelnut pieces, if using, stirring well to distribute evenly across the surface of the mixture.",
+    "Once the mixture starts to clump and form a thicker consistency without sticking too much, add fermented paneer cubes or tofu cubes. Stir gently but thoroughly so all ingredients are coated with the masala sauce.",
+    "Cook for about 2-3 minutes until the cheese cubes start to melt slightly and become crisp on top.",
+    "Remove from heat immediately after serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "velvety",
+    "quick-fix",
+    "croatian",
+    "biryanimasala",
+    "air-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "fermented-velvety-biryani-masala-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-velvety-biryani-masala-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:03:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "biryani masala",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "biryani masala",
+    "descriptor": "fermented velvety quick-fix",
+    "dishForm": "Stir-fry"
+  }
+}
