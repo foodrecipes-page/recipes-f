@@ -1,0 +1,75 @@
+{
+  "title": "Fry Tangy Ethiopian Chilli Bean Paste",
+  "description": "A low-carb-friendly tangy and silky Ethiopian dish featuring a blend of chilli bean paste that is perfect for post-workout recovery.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "3 tablespoons chilli bean paste"
+    },
+    {
+      "name": "1 tablespoon olive oil"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "1/4 teaspoon salt"
+    },
+    {
+      "name": "Pinch of black pepper"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "1 bell pepper, diced"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the chilli bean paste with the olive oil and minced garlic.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Add the juice of one lemon and stir well until combined.",
+    "Fold in the diced bell pepper just before serving for added color and texture.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "silky",
+    "post-workout",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "fry-tangy-ethiopian-chilli-bean-paste",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-tangy-ethiopian-chilli-bean-paste",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:11:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chilli Bean Paste",
+    "descriptor": "Fry",
+    "dishForm": "Stir-fry"
+  }
+}
