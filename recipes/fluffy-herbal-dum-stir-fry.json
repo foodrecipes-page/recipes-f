@@ -1,0 +1,104 @@
+{
+  "title": "Fluffy Herbal Dum Stir-fry",
+  "description": "A cozy Egyptian dish featuring red pepper and dumplings in a flavorful herbal sauce, perfect for a quick lunch or dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 tbsp coconut oil",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small red pepper, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "20g shrimp, peeled and deveined (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken or beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp cumin powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "20g pork dumplings (gluten-free)",
+      "amount": "",
+      "notes": "Cooked and chilled"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add garlic and red pepper, sauté for about 2 minutes or until fragrant.",
+    "If using shrimp, add them now and cook until pink.",
+    "Stir in turmeric, cumin, and lemon juice. Simmer for another minute.",
+    "Garnish with cilantro.",
+    "Top each dumpling with a spoonful of the sauce.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 15",
+    "totalTimeMin: 25",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "fluffy",
+    "herbal",
+    "egyptian",
+    "dumplings",
+    "paleo-friendly"
+  ],
+  "slug": "fluffy-herbal-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-herbal-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:26:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "red pepper",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Dum",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
