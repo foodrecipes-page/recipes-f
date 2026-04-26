@@ -1,0 +1,71 @@
+{
+  "title": "Floral Fluffy Turkish Bacon Stir-fry",
+  "description": "A kid-friendly and raw-friendly dish featuring tender bacon lardons cooked to perfection in a floral-flavored sauce.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacon Lardons",
+      "amount": "10 slices"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Turkish Walnut Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the bacon lardons on a baking sheet. Sprinkle with Turkish Walnut Paste and bake for about 10 minutes until crispy.",
+    "Mince the garlic cloves and chop the onion into small pieces. Sauté the onions in some oil over medium heat until translucent, then add minced garlic and cook for another minute.",
+    "Add Chicken Broth to the sautéed mixture and bring it to a simmer. Once the sauce is hot, toss in the crispy bacon lardons and let them absorb the flavors for 2-3 minutes.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "fluffy",
+    "kid-friendly",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "floral-fluffy-turkish-bacon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-turkish-bacon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:30:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "bacon lardon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Floral Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
