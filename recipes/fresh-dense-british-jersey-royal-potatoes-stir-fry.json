@@ -1,0 +1,66 @@
+{
+  "title": "Fresh Dense British Jersey Royal Potatoes Stir-fry",
+  "description": "A one-pot dish featuring fresh and dense Jersey Royal potatoes, cooked in a tandoor-inspired method with minimal effort.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Slice the potatoes into thin rounds and place them in a baking dish.",
+    "Toss with olive oil, salt, pepper, and chopped garlic. Roast for about 15 minutes.",
+    "Drizzle more olive oil over the potatoes and return to oven until golden brown and crispy, about another 5-7 minutes.",
+    "While the potatoes are roasting, heat a non-stick skillet on medium-high heat.",
+    "Add chopped onion and cook until translucent and lightly caramelized.",
+    "Gently mix roasted potatoes with cooked onions. Add fresh herbs like parsley or chives for extra flavor if desired.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "stir-fry",
+    "potatoes",
+    "jersey-royal"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 37,
+    "fat": 5
+  },
+  "slug": "fresh-dense-british-jersey-royal-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-dense-british-jersey-royal-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:54:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Fresh Dense",
+    "dishForm": "Stir-fry"
+  }
+}
