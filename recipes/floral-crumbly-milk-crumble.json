@@ -1,0 +1,80 @@
+{
+  "title": "Floral Crumbly Milk Crumble",
+  "description": "A floral and crumbly treat for a lazy Sunday, inspired by traditional Norwegian dishes but crafted to be pescatarian-friendly and suitable for milk lovers.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Heavy Cream or Yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh Berries (optional)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Flavoring Mix (for potted flowers, optional)",
+      "notes": "Such as rose water, lavender, etc."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F.",
+    "In a large mixing bowl, soften the butter until creamy. Add powdered sugar and vanilla extract; blend well using an electric mixer on medium speed for about 1 minute.",
+    "Gradually add heavy cream or yogurt while continuing to mix until fully incorporated into the mixture. The crumble will be somewhat lumpy but should come together when pressed between your fingers.",
+    "Fold in optional fresh berries if desired, and gently incorporate flavoring mixes according to preference for added floral notes. Mix thoroughly until well combined.",
+    "Transfer the mixture onto a greased baking sheet or dish that fits inside your oven tray perfectly.",
+    "Bake in preheated oven for 30-45 minutes, or until edges of the crumble start to turn golden brown and sides slightly crispy but not burnt. The center will still be a bit soft due to its texture composition."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "norwegian",
+    "crumbly",
+    "milk",
+    "flower-inspired"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 3.5,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "floral-crumbly-milk-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crumbly-milk-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:53:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "milk",
+    "descriptor": "Floral Crumbly",
+    "dishForm": "Crumble"
+  }
+}
