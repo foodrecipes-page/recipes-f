@@ -1,0 +1,89 @@
+{
+  "title": "Floral Velvety Adventurous Moroccan Tomato Stir-fry",
+  "description": "A diabetic-friendly Moroccan tomato dish featuring floral flavors from pickle juice and a velvety texture with bhuna spices.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "1/4 cup",
+      "notes": "juice only"
+    },
+    {
+      "name": "bhuna spices",
+      "amount": "1 tsp",
+      "notes": "mixed finely with other spices for a blend"
+    },
+    {
+      "name": "diabetic-friendly tomato sauce",
+      "amount": "1/2 cup",
+      "notes": "reduced sugar, no added salt"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add chopped tomatoes and bhuna spices, sauté for about 5 minutes until soft and slightly caramelized.",
+    "Stir in pickled vegetable juice and tomato sauce. Reduce the heat to low-medium and simmer for another 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with cilantro leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "floral",
+    "velvety",
+    "adventurous",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "floral-velvety-adventurous-moroccan-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-adventurous-moroccan-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:09:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "pickle juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Floral Velvety Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
