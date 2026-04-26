@@ -1,0 +1,73 @@
+{
+  "title": "Fluffy Ethipian Fennel Stir-fry",
+  "description": "A kid-friendly fermented and fluffy Ethiopian dish featuring fennel seeds, high-protein-friendly for a nutritious meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented vegetables (e.g. Teff or Injera),",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fennel seeds, ground.",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomato paste.",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves, minced.",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive oil.",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add ground fennel seeds and garlic to the hot oil, stirring constantly for about 2 minutes until fragrant but not browned.",
+    "Add tomato paste and continue stirring for another minute.",
+    "Gradually add fermented vegetables while stirring continuously.",
+    "Continue to stir-fry for about 5-7 more minutes until vegetables are tender yet have a slight crunch when bitten.",
+    "Season with salt and pepper according to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-ethipian-fennel-stir-fry",
+    "fermented-kid-friendly-dish",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 26,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "fluffy-ethipian-fennel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-ethipian-fennel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:18:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "fennel seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Fennel",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
