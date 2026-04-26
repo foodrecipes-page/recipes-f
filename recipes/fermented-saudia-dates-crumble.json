@@ -1,0 +1,66 @@
+{
+  "title": "Fermented Saudia Dates Crumble",
+  "description": "A dense and sick-day-friendly Saudi Arabian dish featuring fermented saudia dates mixed with digestive biscuits, creating a nut-free crumble that’s perfect for those who need something comforting.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Digestive biscuits",
+      "amount": "1 cup crushed"
+    },
+    {
+      "name": "Fermented saudia dates (crushed)",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Almond meal (or all-purpose flour if almond-free)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a mixing bowl, combine crushed digestive biscuits and crushed fermented saudia dates.",
+    "Add almond meal to the mixture and mix well until evenly distributed.",
+    "Transfer the crumble mixture onto an ungreased baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown and crispy on top.",
+    "Remove from oven and allow it to cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "dense",
+    "sick-day",
+    "saudi-arabian",
+    "digestive-biscuits",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "fermented-saudia-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-saudia-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:30:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Dates",
+    "descriptor": "Fermented",
+    "dishForm": "Crumble"
+  }
+}
