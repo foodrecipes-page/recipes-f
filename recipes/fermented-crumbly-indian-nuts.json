@@ -1,0 +1,88 @@
+{
+  "title": "Fermented Crumbly Indian Nuts",
+  "description": "A show-off kerala dish featuring fermented crumbly nuts with a spicy chili sauce, suitable for nut-free diets.",
+  "cuisine": "Indian (Kerala)",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "50g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine soy sauce, vinegar, ginger paste, and salt in a bowl. Mix well.",
+    "Add coriander seeds to the mixture and roast them lightly in a pan until fragrant.",
+    "Gradually add sesame oil while continuously stirring with a wooden spoon until all ingredients are thoroughly mixed.",
+    "Once everything is evenly combined, let it cool slightly before spreading out into thin layers on parchment paper-lined baking trays.",
+    "Sprinkle red chili powder over the mixture and mix gently to distribute evenly. Cover loosely with plastic wrap and place in a warm spot or inside an oven set at 160°F for about 8 hours.",
+    "After fermentation, break up the mixture into crumbly pieces using your hands and transfer them onto a wire rack placed over parchment paper for further air-drying. Ensure they are thoroughly dried before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crumbly",
+    "indian",
+    "kerala",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 19,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "fermented-crumbly-indian-nuts",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crumbly-indian-nuts",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:11:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "chilli sauce",
+    "diet": "nut-free",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "nuts",
+    "descriptor": "Fermented",
+    "dishForm": "Crumble"
+  }
+}
