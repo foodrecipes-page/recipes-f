@@ -1,0 +1,85 @@
+{
+  "title": "Ferment Ciabatta Wrap",
+  "description": "A fresh and light Indian-inspired wrap featuring high-protein-friendly ciabatta bread, ideal for a festive snack or meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ciabatta Bread",
+      "amount": "1 slice",
+      "notes": "Fresh, light ciabatta bread"
+    },
+    {
+      "name": "Honey Mustard Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Sweet and tangy to complement the wrap"
+    },
+    {
+      "name": "Pickled Radish",
+      "amount": "1 tablespoon",
+      "notes": "For a pop of color and crunch"
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "3 slices",
+      "notes": "Fresh, crisp cucumber for hydration"
+    },
+    {
+      "name": "Tzatziki Sauce (for dipping)",
+      "amount": "2 tablespoons",
+      "notes": "Yogurt-based sauce to add flavor"
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "1 handful",
+      "notes": "Greens to wrap around ingredients"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 450°F (230°C).",
+    "Toast the ciabatta slice until golden brown and slightly crisp.",
+    "In a small bowl, mix honey mustard sauce with pickled radish for a unique flavor combination.",
+    "Arrange lettuce leaves in a circle on a plate. Place toasted ciabatta on top of the lettuce leaves.",
+    "Add cucumber slices on top of the ciabatta.",
+    "Drizzle tzatziki sauce over the wrap and sprinkle with the honey mustard-radish mixture.",
+    "Serve immediately as a high-protein-friendly snack or meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ferment-ciabatta-wrap",
+    "high-protein-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "ferment-ciabatta-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ferment-ciabatta-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:42:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "ciabatta",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Ciabatta",
+    "descriptor": "Ferment",
+    "dishForm": "Wrap"
+  }
+}
