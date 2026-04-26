@@ -1,0 +1,75 @@
+{
+  "title": "Fermented Crispy Yeast Crumble",
+  "description": "A festive Ukrainian dish featuring fermented yeast crumble with a touch of dill for added flavor and texture, suitable for dairy-free diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yeast (active dry)",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Cold water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dill, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rye flour and yeast.",
+    "Gradually add cold water while mixing with your hands until the dough comes together.",
+    "Transfer the dough to an oiled surface and knead for about 5 minutes until smooth.",
+    "Place the dough in a lightly greased container and cover it. Let it rise at room temperature for approximately 2 hours or until doubled in size.",
+    "Preheat oven to 375°F (190°C). Divide risen dough into small balls, shape them into crumbles, then flatten slightly using your fingers.",
+    "Sprinkle chopped dill and salt over the flattened yeast crumbles.",
+    "Bake for about 20-25 minutes or until golden brown. Do not open oven during baking process as it might cause the crumble to collapse.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crispy",
+    "yolkless"
+  ],
+  "nutrition": {
+    "calories": 173,
+    "protein": 2.9,
+    "carbs": 28,
+    "fat": 4.6
+  },
+  "slug": "fermented-crispy-yeast-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-yeast-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:25:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "dill",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Yeast",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Crumble"
+  }
+}
