@@ -1,0 +1,82 @@
+{
+  "title": "Fermented Silky Flour Stir-fry",
+  "description": "A decadent and indulgent low-carb Filipino dish featuring fermented flour mixed with a tantalizing blend of aromatic spices for a silky texture.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented rice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground pork or chicken",
+      "amount": "100 grams"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spices (coriander seeds, mustard seeds)",
+      "notes": "1/4 teaspoon each"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add ground pork or chicken and cook until browned, breaking it into small pieces as you stir-fry.",
+    "In a separate bowl, mix soy sauce, ginger paste, rice vinegar, and both kinds of seeds from tadka spices.",
+    "Pour the mixture over the cooked meat and stir well to coat evenly.",
+    "Cook for about 2-3 minutes until the flour absorbs and becomes creamy.",
+    "Garnish with fresh herbs or cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-flour-stir-fry",
+    "indulgent-filipino-dish",
+    "tadka-spice-mix",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "fermented-silky-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:48:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "flour",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "flour",
+    "descriptor": "fermented",
+    "dishForm": "Stir-fry"
+  }
+}
