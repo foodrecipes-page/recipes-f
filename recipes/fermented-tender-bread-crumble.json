@@ -1,0 +1,87 @@
+{
+  "title": "Fermented-Tender Bread Crumble",
+  "description": "This Ukrainian dish features stale bread that has been marinated in a savory vegetable and herb mixture, then baked to perfection for a post-workout snack or meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stale bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 small onion"
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1 small bell pepper, red or green"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "A few fresh basil leaves"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 garlic cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Herbs (dill, parsley)",
+      "amount": "1 tablespoon dried dill and 1 tablespoon chopped parsley"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Slice the stale bread into thin crumbles.",
+    "In a large bowl, mix together onions, bell peppers, garlic cloves, olive oil, dried dill, chopped parsley, salt, and basil leaves.",
+    "Spread the marinated mixture on top of the bread slices.",
+    "Bake for 15 minutes or until golden brown.",
+    "Serve warm as a snack or meal accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "tender",
+    "post-workout",
+    "ukrainian",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "fermented-tender-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:36:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "stale bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "Fermented-Tender",
+    "dishForm": "Crumble"
+  }
+}
