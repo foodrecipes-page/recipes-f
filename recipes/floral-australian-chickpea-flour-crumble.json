@@ -1,0 +1,87 @@
+{
+  "title": "Floral Australian Chickpea Flour Crumble",
+  "description": "A kid-friendly floral-flavored dish featuring chickpea flour and other simple pantry staples for a crispy, flavorful snack or light meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil or vegan margarine",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 tablespoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Mix chickpea flour, sugar, almond meal, vanilla extract, and baking powder in a mixing bowl.",
+    "Add coconut oil or vegan margarine bit by bit while stirring until well combined. The mixture should be crumbly but holds together when pressed with fingers.",
+    "Stir in apple cider vinegar to enhance the floral flavor and texture of the crumble. Taste and adjust seasoning if necessary.",
+    "Line a baking tray with parchment paper. Drop spoonfuls of the flour mix onto the lined tray and press into small, even-sized crumbles. Flatten slightly for better appearance and easier eating.",
+    "Bake in preheated oven for about 15-20 minutes or until lightly golden brown. Remove from oven when done to avoid burning.",
+    "Let cool on a wire rack before serving with your choice of yogurt, fruit compote, or as a simple snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "floral-australian-chickpea-flour-crumble",
+    "kid-friendly",
+    "australian-dish",
+    "jain-friendly",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "floral-australian-chickpea-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-australian-chickpea-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:58:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "chickpea flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chickpea Flour",
+    "descriptor": "Floral",
+    "dishForm": "Crumble"
+  }
+}
