@@ -1,0 +1,78 @@
+{
+  "title": "Fresh Croatian Beef Crumble",
+  "description": "A low-carb-friendly, fresh and chewy dish featuring minced beef that is air-fried to perfection for a romantic Croatian-inspired meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "A few tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 170°C (340°F).",
+    "In a mixing bowl, combine ground beef with olive oil, garlic powder, salt, and pepper. Mix well.",
+    "Sprinkle the mixture with flour until it forms clumps of crumbles. Try not to over-flour as this could lead to an oily dish.",
+    "Place the beef crumbles evenly on the air fryer basket, making sure they are not overlapping too much for even cooking.",
+    "Air-fry for 12-15 minutes or until golden brown and crispy. Check if done by inserting a toothpick into the middle of a crumble - it should come out clean.",
+    "Allow to cool slightly before serving as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-beef-crumble",
+    "air-fried-dish",
+    "romantic-cuisine"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "fresh-croatian-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-croatian-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:52:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "minced beef",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Beef",
+    "descriptor": "Fresh",
+    "dishForm": "Stir-fry"
+  }
+}
