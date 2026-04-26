@@ -1,0 +1,78 @@
+{
+  "title": "Flaky Romantic Ukrainian Garlic Stir-fry",
+  "description": "A garlicky and fluffy Ukrainian dish featuring bouquet garni, perfect for a romantic dinner or cozy night in.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Bouquet Garni (bay leaf, parsley stems, thyme sprigs)",
+      "amount": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the bouquet garni by placing bay leaf, parsley stems, and thyme sprigs in a cheesecloth or fine mesh bag.",
+    "Heat olive oil in a large pan over medium heat. Add garlic cloves and sauté until golden brown, about 3 minutes.",
+    "Add chicken broth to the pan with the garlic. Bring to a boil, then reduce heat to low and let simmer for about 10 minutes or until most of the liquid is absorbed.",
+    "Fold in the bouquet garni, reducing heat if necessary to prevent burning. Cook for an additional 5-7 minutes, stirring occasionally.",
+    "Remove the bouquet garni, season with salt, and fold in grated Parmesan cheese. Serve hot over a bed of fluffy white rice.",
+    "Garnish with fresh herbs like dill or parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-flaky-romantic-ukrainian-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "flaky-romantic-ukrainian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-romantic-ukrainian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:12:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "bouquet garni",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Flaky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
