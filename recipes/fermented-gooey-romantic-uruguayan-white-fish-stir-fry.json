@@ -1,0 +1,92 @@
+{
+  "title": "Fermented Gooey Romantic Uruguayan White Fish Stir-fry",
+  "description": "This unique dish features a blend of fermented white fish blended with gooey textures and served as a romantic stir-fry that is both authentic and nutritious.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fermented",
+    "goosey",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "100g"
+    },
+    {
+      "name": "ginger",
+      "amount": "2tbsp",
+      "notes": "minced finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3tbsp"
+    },
+    {
+      "name": "fermented black beans",
+      "amount": "1tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tbs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced finely"
+    },
+    {
+      "name": "scallions",
+      "amount": "2, chopped finely"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Blanch the white fish fillets in boiling water for about 5 minutes.",
+    "In a wok or large frying pan, heat sesame oil over medium-high heat.",
+    "Add minced ginger and garlic to the pan and sauté until fragrant, about 2 minutes.",
+    "Add soy sauce and fermented black beans to the pan, stir well for another minute.",
+    "Fold in the blanched white fish fillets gently with a spatula.",
+    "Drizzle rice vinegar over the fish and flip occasionally till fully heated through, about 3-5 minutes.",
+    "Serve hot garnished with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "goey",
+    "romantic",
+    "uruguayan",
+    "white fish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "fermented-gooey-romantic-uruguayan-white-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-romantic-uruguayan-white-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:51:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "white fish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "White Fish",
+    "descriptor": "Fermented Gooey Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
