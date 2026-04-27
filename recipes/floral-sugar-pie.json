@@ -1,0 +1,67 @@
+{
+  "title": "Floral Sugar Pie",
+  "description": "A floral, fluffy dessert featuring ground sugar as the main ingredient for an American dish that is also diabetic-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground sugar",
+      "amount": "3 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a saucepan, combine the ground sugar and water. Stir gently until all the sugar has dissolved.",
+    "Bring the mixture to a simmer over medium heat. Do not allow it to boil; maintain a gentle simmer for about 2 minutes.",
+    "Remove from heat and stir in the vanilla extract. Allow the mixture to cool slightly before pouring into a greased pie dish.",
+    "Place the pie dish in a larger pan filled with hot water (to create a steamer effect). Ensure that the bottom of the pie dish is completely covered by the water.",
+    "Cover the pan with a lid or aluminum foil and place it in your preheated oven. Bake for 20-25 minutes, or until the filling is golden brown on top and set to the touch.",
+    "Remove from heat and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "sweet",
+    "american",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 0
+  },
+  "slug": "floral-sugar-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-sugar-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:14:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "ground sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Sugar",
+    "descriptor": "Floral",
+    "dishForm": "Pie"
+  }
+}
