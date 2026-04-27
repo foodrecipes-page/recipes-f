@@ -1,0 +1,97 @@
+{
+  "title": "Fresh Crumbly Vietnamese Pork Crumble",
+  "description": "This energizing dish features tender pork shoulder steaks in a fresh and crumbly texture ideal for breakfast.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb (450g)",
+      "notes": "boneless and sliced crosswise into thin pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece, grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Season pork with salt and pepper. In a large skillet, heat sesame oil over medium-high heat.",
+    "Add garlic, ginger, and fish sauce to the skillet; sauté for about 1 minute until fragrant.",
+    "Fold in pork shoulder pieces and cook until golden brown on all sides (about 5-7 minutes).",
+    "Drizzle with lemon juice and lime juice. Reduce heat to low-medium and simmer gently for approximately 20-30 minutes or until tender, adding more fish sauce as needed.",
+    "Transfer pork to a serving dish and sprinkle sesame seeds over top before serving.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "crumbly",
+    "vietnamese",
+    "pork",
+    "crumble",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 271,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "fresh-crumbly-vietnamese-pork-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crumbly-vietnamese-pork-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:50:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Fresh Crumbly",
+    "dishForm": "Crumble"
+  }
+}
