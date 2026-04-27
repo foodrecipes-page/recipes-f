@@ -1,0 +1,86 @@
+{
+  "title": "Freshly Grilled Filipino Snapper Stir-fry",
+  "description": "A fresh and energizing dish featuring grilled snapper fish with a creamy base made of fresh vegetables and aromatic spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fish Fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Spring Onions (Scallions)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Thai Chili Peppers",
+      "amount": "3 small"
+    },
+    {
+      "name": "Baby Carrots",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Bell Peppers, Green and Red",
+      "amount": "2 pcs each"
+    }
+  ],
+  "instructions": [
+    "Clean the snapper fillets thoroughly under running water.",
+    "Gently season the fish with salt, pepper, and a dash of soy sauce.",
+    "Finely chop the garlic cloves and finely slice the spring onions (scallions).",
+    "Peel and thinly slice the Thai chili peppers, leaving some seeds for added heat.",
+    "Wash and dice the baby carrots into bite-sized pieces. Core and dice the bell peppers.",
+    "In a wok or large skillet, heat up 2 tablespoons of sesame oil until it's hot but not smoking.",
+    "Add the sliced spring onions (scallions) to the pan first for color and aroma, followed by the diced garlic cloves.",
+    "Once the onions and garlic start to turn golden brown, add the Thai chili peppers. Stir-fry for about 1 minute.",
+    "Push aside the chopped vegetables from the wok and set them aside in a bowl.",
+    "Add more oil if necessary, then return the snapper fillets to the pan. Cook on each side until golden and slightly crispy, approximately 3-4 minutes per side.",
+    "Return the cooked vegetables back into the wok, along with any accumulated juices from the snapper.",
+    "Stir-fry for another minute until everything is combined well and the vegetables are heated through.",
+    "Serve hot as a main dish or side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "creamy",
+    "energizing",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 26,
+    "carbs": 19,
+    "fat": 15
+  },
+  "slug": "freshly-grilled-filipino-snapper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-filipino-snapper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:43:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "snapper fish",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "snapper",
+    "descriptor": "Freshly Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
