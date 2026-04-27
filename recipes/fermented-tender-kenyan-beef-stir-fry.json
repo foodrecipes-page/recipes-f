@@ -1,0 +1,99 @@
+{
+  "title": "Fermented Tender Kenyan Beef Stir-fry",
+  "description": "This low-fat-friendly Kenyan dish features tender minced beef mixed with fermented vegetables and pickled elements for a unique twist on traditional dishes.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minced Beef",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Fermented Vegetables (e.g. Kachumbari), finely chopped",
+      "amount": "150 grams"
+    },
+    {
+      "name": "Pickled Vegetables (e.g. Paprika Pickle or Okra Pickle), finely chopped",
+      "amount": "75 grams"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Sugarcane Syrup or Stevia (to taste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pepper, to taste",
+      "amount": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Capsicum (Red Pepper), finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Heat a tablespoon of olive oil in a wok or large skillet over medium heat.",
+    "Add minced garlic and onion, cooking until translucent. Do not burn them.",
+    "Fold in the finely chopped fermented vegetables and pickled vegetables into the mixture.",
+    "Next, mix in the tomato paste, low-sodium soy sauce, and sugar syrup (or stevia), stirring well to ensure all ingredients are evenly coated.",
+    "Add pepper according to your taste preference. Mix everything together thoroughly, ensuring no lumps remain.",
+    "Gently fold in finely chopped Capsicum (Red Pepper) into the stir-fry mixture.",
+    "Cook for about 5 minutes until it starts to thicken and the vegetables start to soften.",
+    "Reduce heat to low and let it simmer for another 2-3 minutes, allowing flavors to meld together.",
+    "Turn off the heat immediately after removing from the heat. Serve hot with your favorite side dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-beef-stir-fry",
+    "low-fat-friendly",
+    "date-night-kenyan-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "fermented-tender-kenyan-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-kenyan-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:17:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "minced beef",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Beef",
+    "descriptor": "Fermented Tender",
+    "dishForm": "Stir-fry"
+  }
+}
