@@ -1,0 +1,72 @@
+{
+  "title": "Floral Flaky Comforting Peruvian Toor Dal Crumble",
+  "description": "A comforting and floral-flavored crumble featuring toor dal mixed with almond meal and topped with a simple sugar and lemon mixture.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond meal",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix together toor dal, almond meal, sugar, lemon juice, coconut oil, and vanilla extract.",
+    "Transfer the mixture into an ungreased baking dish. Smooth out the top with a spatula.",
+    "Bake in preheated oven for 25 minutes or until golden brown on top.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral-flaky-peruvian-toor-dal-crumble"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "floral-flaky-comforting-peruvian-toor-dal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-flaky-comforting-peruvian-toor-dal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:06:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "toor dal",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "toor dal",
+    "descriptor": "Floral Flaky Comforting",
+    "dishForm": "Crumble"
+  }
+}
