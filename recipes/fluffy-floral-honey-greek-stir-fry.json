@@ -1,0 +1,89 @@
+{
+  "title": "Fluffy Floral Honey Greek Stir-fry",
+  "description": "This floral and fluffy date-night greek dish is gluten-free-friendly and features a caramelized honey marinade.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Leah's Garlic Spread",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mediterranean Blend Salad Dressing",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sun-Dried Dates",
+      "amount": "6 medium"
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "2 tbsp fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the honey, Leah's Garlic Spread, and Mediterranean Blend Salad Dressing. Add in sliced almonds and fresh mint leaves.",
+    "Chop sun-dried dates into small pieces and place them in a large mixing bowl.",
+    "Add the mixed marinade to the date mixture and stir until all of the dates are coated evenly with the honey and spread.",
+    "Place the yogurt in a blender or food processor. Add in 1/4 cup of the marinade, and blend until smooth.",
+    "Pour the blended yogurt over the marinated dates and toss gently to coat everything well.",
+    "Heat olive oil in a non-stick skillet over medium heat. Once hot, pour the yogurt mixture into the pan and stir occasionally until it thickens and turns golden brown, about 5-7 minutes.",
+    "Serve warm as a side dish or on top of other dishes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "fluffy",
+    "date-night",
+    "greek",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "fluffy-floral-honey-greek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-floral-honey-greek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:46:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "caramel",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "floral honey",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
