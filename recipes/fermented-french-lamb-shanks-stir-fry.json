@@ -1,0 +1,93 @@
+{
+  "title": "Fermented French Lamb Shanks Stir-fry",
+  "description": "A silky and fermented vegan-friendly dish featuring lamb shanks, perfectly suitable for meal-prep.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shanks",
+      "amount": "4 pieces",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce (tamari or gluten-free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Leeks",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Fermented vegetables (optional)",
+      "amount": "handful, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Sprinkle baking soda over the lamb shanks. Place in a baking dish.",
+    "Mix soy sauce and olive oil together, then pour over the lamb shanks, ensuring they are coated evenly.",
+    "Bake for about an hour until the lamb is well done (internal temperature of 145°F/63°C).",
+    "While lamb is baking, sauté leeks, onion, and bell pepper in olive oil until softened.",
+    "Stir-fry minced fermented vegetables if using. Add to the sautéed veggies and mix thoroughly.",
+    "Remove lamb shanks from oven, let them rest for a few minutes, then slice into bite-sized pieces.",
+    "Gently reheat sliced lamb on medium heat with the stir-fried veg mixture for about 5 minutes, allowing flavors to blend together.",
+    "Serve hot over rice or noodles as desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "lamb-shanks",
+    "stir-fry",
+    "dutch-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 605,
+    "protein": 41,
+    "carbs": 23,
+    "fat": 27
+  },
+  "slug": "fermented-french-lamb-shanks-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-french-lamb-shanks-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:55:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "lamb shanks",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "lamb shanks",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
