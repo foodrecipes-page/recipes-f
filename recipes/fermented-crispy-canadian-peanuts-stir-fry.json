@@ -1,0 +1,80 @@
+{
+  "title": "Fermented Crispy Canadian Peanuts Stir-fry",
+  "description": "A nostalgic dish featuring crispy fermented Canadian peanuts simmered with a touch of sweetness and savory seasoning for an irresistible snack or appetizer.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kosher Salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fermented Peanuts",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fermented Black Beans",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, mix kosher salt and vegetable oil until evenly distributed. Add fermented peanuts and toss to coat.",
+    "Spread the peanut mixture on a baking sheet lined with parchment paper. Bake for about 20-25 minutes or until crunchy and golden brown.",
+    "While the peanuts are baking, in a small mixing bowl, combine coconut sugar, sesame seeds, and fermented black beans. Mix well.",
+    "Once the peanuts are done, spread them out again on the same baking sheet and sprinkle the mixture evenly over the peanut surface.",
+    "Let it sit for another 10-15 minutes until fully coated.",
+    "Garnish with sliced scallions before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-peanuts",
+    "canadian-recipe",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 1023,
+    "protein": 24,
+    "carbs": 65,
+    "fat": 49
+  },
+  "slug": "fermented-crispy-canadian-peanuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-canadian-peanuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:45:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "peanuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
