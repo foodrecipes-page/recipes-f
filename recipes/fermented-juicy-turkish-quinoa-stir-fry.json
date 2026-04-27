@@ -1,0 +1,78 @@
+{
+  "title": "Fermented Juicy Turkish Quinoa Stir-fry",
+  "description": "A diabetic-friendly one-pot dish featuring quinoa, vegetables, and a fermented dressing for added flavor and moisture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed vegetables (e.g., bell peppers, onions)",
+      "amount": "1 medium each"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented dressing (like fermented lemon juice or vinegar-based), for drizzling",
+      "notes": "Use a safe temperature for fermentation and ensure it is properly diluted with water to avoid any issues with spores."
+    },
+    {
+      "name": "Salt and pepper, to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in cold water. Cook according to package instructions until tender but still a little firm.",
+    "Sauté mixed vegetables, minced garlic, and tomato paste in olive oil over medium heat until softened.",
+    "Stir in cooked quinoa and season with salt and pepper. Mix well.",
+    "Drizzle the fermented dressing over the mixture while stirring gently to coat evenly.",
+    "Cook for another 5-10 minutes or until vegetables are crisp-tender and everything is heated through.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-juicy-turkish-quinoa-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "fermented-juicy-turkish-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-juicy-turkish-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:59:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "quinoa",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "quinoa",
+    "descriptor": "fermented juicy",
+    "dishForm": "Stir-fry"
+  }
+}
