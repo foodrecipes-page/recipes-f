@@ -1,0 +1,77 @@
+{
+  "title": "Fresh Flaky Carrot Stir-Fry",
+  "description": "A healthy and satisfying solo-dinner Cantonese dish featuring fresh carrots cooked in a flavorful sauce with minimal additions.",
+  "cuisine": "Cantonese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 medium-sized carrots",
+      "amount": "each",
+      "notes": "peeled and sliced into thin rounds"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "fresh, minced",
+      "notes": null
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "freshly squeezed",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "unsalted",
+      "notes": null
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to season",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Wash and peel the carrots, then slice them into thin rounds.",
+    "In a bowl, mix the minced garlic with lime juice and soy sauce. Add salt to taste.",
+    "Heat a pan over medium-high heat. When hot, add a bit of oil, followed by the sliced carrots.",
+    "Sauté until the carrots start to soften but still have some crunch, about 5 minutes.",
+    "Pour in the prepared garlic-lime-soy mixture and stir everything together evenly.",
+    "Cook for another 2-3 minutes until most of the liquid is absorbed, creating a nice glaze on top of the vegetables.",
+    "Serve hot as a side dish or main course. Can be paired with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-flaky-carrot-stir-fry",
+    "carrots-only-dish",
+    "lunch-side-dish"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 1
+  },
+  "slug": "fresh-flaky-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-flaky-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:16:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "carrots",
+    "diet": "egg-free",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "carrot",
+    "descriptor": "Fresh Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
