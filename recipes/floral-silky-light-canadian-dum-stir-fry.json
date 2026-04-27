@@ -1,0 +1,89 @@
+{
+  "title": "Floral Silky Light Canadian Dum Stir-fry",
+  "description": "A delicate floral and silky Canadian dum dish enhanced with blue food coloring for a visually striking presentation. Kosher-friendly.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian dums",
+      "amount": "10 pcs",
+      "notes": "ensure they are kosher if required"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Water or low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "White pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Blue food coloring",
+      "amount": "few drops"
+    },
+    {
+      "name": "Salt (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add finely chopped onions and minced garlic, cook for about 2 minutes until soft and fragrant.",
+    "Pour in water or broth, bring to boil. Add Canadian dums, soy sauce, white pepper, and a few drops of blue food coloring.",
+    "Simmer gently for around 5-7 minutes until dumplings are tender but still firm when lightly poked.",
+    "Adjust seasoning with salt if needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "silky",
+    "light",
+    "canadian",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "floral-silky-light-canadian-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-silky-light-canadian-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:49:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "blue food colouring",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "dum",
+    "descriptor": "Floral Silky Light",
+    "dishForm": "Stir-fry"
+  }
+}
