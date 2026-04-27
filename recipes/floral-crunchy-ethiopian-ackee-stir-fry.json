@@ -1,0 +1,90 @@
+{
+  "title": "Floral Crunchy Ethiopian Ackee Stir-fry",
+  "description": "This egg-free-friendly Floral Crunchy Ethiopian Ackee Stir-fry is a monsoon dish featuring ackee with a touch of floral aromatics and crunchy textures for a refreshing start to your day.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups fresh Ethiopian ackee, cleaned and sliced",
+      "amount": "",
+      "notes": "Avoid undercooked or spoiled ackee as it can be toxic."
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "A few sprigs of fresh rosemary leaves (optional)",
+      "amount": "",
+      "notes": "For a floral note and extra flavor."
+    },
+    {
+      "name": "Pinch of ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh lemon juice (optional, for serving)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the chopped onion and minced garlic, sauté until soft and translucent. Stir occasionally to prevent burning.",
+    "If using rosemary, add it now along with ground cumin, stir well.",
+    "Toss the sliced ackee into the pan, sprinkle salt, and mix evenly.",
+    "Cook for about 5-7 minutes or until the ackee is heated through and crisp on the outside.",
+    "Serve hot with a squeeze of fresh lemon juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crunchy",
+    "monsoon",
+    "ethiopian",
+    "dish",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "floral-crunchy-ethiopian-ackee-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-ethiopian-ackee-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:33:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "ackee",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Ackee",
+    "descriptor": "Floral Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
