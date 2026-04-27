@@ -1,0 +1,123 @@
+{
+  "title": "Flaky Romantic British Lamb Leg Crumble",
+  "description": "A floral and flaky romantic dish featuring a tender lamb leg in a creamy crumble topping made with vegan-friendly bhuna sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 (3-4 kg) bone-in lamb leg",
+      "amount": "1 piece",
+      "notes": "Ensure it's at room temperature."
+    },
+    {
+      "name": "2 tbsp vegan butter",
+      "amount": "2 tbsp",
+      "notes": "Organic and unsalted if available."
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "Stir well before using to prevent lumps."
+    },
+    {
+      "name": "1/3 cup grated vegan cheddar cheese",
+      "amount": "1/3 cup",
+      "notes": "Optional for added richness."
+    },
+    {
+      "name": "1 tbsp golden syrup",
+      "amount": "1 tbsp",
+      "notes": "For a touch of sweetness."
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp",
+      "notes": "Fresh thyme can be used instead, finely chopped."
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "amount": "Pinch each",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "For the bhuna sauce:",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1/2 cup",
+      "notes": "To dilute the spices and enhance flavors."
+    },
+    {
+      "name": "1 tbsp garam masala powder",
+      "amount": "1 tbsp",
+      "notes": "For a warm, aromatic kick."
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "1/4 tsp",
+      "notes": "To add color and flavor."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For depth of flavor."
+    },
+    {
+      "name": "3 medium onions, finely chopped",
+      "amount": "3 med.",
+      "notes": "For sweetness and texture."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F). Season the lamb leg with salt and pepper on all sides.",
+    "In a small saucepan, warm the water and add garam masala powder, turmeric powder, garlic, and onions. Simmer for about 2 minutes until fragrant.",
+    "Transfer the mixture to a blender jar, add golden syrup, thyme, and remaining ingredients (excluding vegan butter). Blend until smooth and set aside.",
+    "Place the lamb leg in a roasting dish, pour over the bhuna sauce, ensuring it coats all surfaces. Cover with foil.",
+    "Heat the vegan butter in a pan on medium heat. Once melted, spoon generous portions over the lamb to create a flaky layer as you cook.",
+    "Roast in preheated oven for about 1 hour and 20 minutes, or until an internal temperature of 75°C (165°F) is reached. Remove from oven, let rest covered with aluminum foil before serving.",
+    "To serve: Drizzle each slice generously with remaining sauce and top with crumble topping made by combining flour, vegan cheese (if using), and golden syrup. Bake for another 20 minutes until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "romantic",
+    "british",
+    "lamb leg",
+    "crumble",
+    "vegan-friendly",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 54
+  },
+  "slug": "flaky-romantic-british-lamb-leg-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-romantic-british-lamb-leg-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:37:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "lamb leg",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Lamb Leg",
+    "descriptor": "Flaky Romantic",
+    "dishForm": "Crumble"
+  }
+}
