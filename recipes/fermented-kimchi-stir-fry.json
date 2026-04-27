@@ -1,0 +1,84 @@
+{
+  "title": "Fermented Kimchi Stir-fry with Peach Juice",
+  "description": "A velvety and nutritious post-workout dish featuring fermented kimchi and peach juice as a low-fat-friendly option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fat",
+    "post-workout"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peaches",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Low-sodium Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Blend ripe peaches with soy sauce, cornstarch, and water until smooth.",
+    "Sauté garlic powder and paprika in a pan over medium heat.",
+    "Add fermented kimchi to the pan, then pour peach mixture over it.",
+    "Stir gently for about 3 minutes or until combined and heated through.",
+    "Season with salt and serve warm as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-kimchi",
+    "peach-juice-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 3.6,
+    "carbs": 15.7,
+    "fat": 0.9
+  },
+  "slug": "fermented-kimchi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-kimchi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:34:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "peach juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Kimchi",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
