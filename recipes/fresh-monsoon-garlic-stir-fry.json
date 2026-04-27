@@ -1,0 +1,71 @@
+{
+  "title": "Fresh Monsoon Garlic Stir-fry",
+  "description": "A quick and easy dish featuring fresh garlic powder to mimic the taste of monsoons in a tender, flavorful stir-fry that's perfect for any meal.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 cloves of garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 cup of mixed vegetables (e.g., bell peppers, onions)",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tablespoons of soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon of sesame oil",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Add mixed vegetables and stir-fry for 2-3 minutes or until vegetables are tender-crisp.",
+    "Pour in soy sauce and lime juice. Stir well to combine.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "stir-fry",
+    "monsoon",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "fresh-monsoon-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-monsoon-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:04:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "garlic powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "Garlic",
+    "descriptor": "Fresh",
+    "dishForm": "Stir-fry"
+  }
+}
