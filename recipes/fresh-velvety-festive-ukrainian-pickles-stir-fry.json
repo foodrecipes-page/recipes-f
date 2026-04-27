@@ -1,0 +1,91 @@
+{
+  "title": "Fresh Velvety Festive Ukrainian Pickles Stir-fry",
+  "description": "A fresh and velvety festive Ukrainian dish featuring pickles, bay leaf, and other Mediterranean-friendly ingredients in a flavorful stir-fry.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pickled Beets",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Fresh Bay Leaves",
+      "amount": "2 pieces",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Mediterranean Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "1",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 spears",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2 stalks",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Watermelon Radish",
+      "amount": "1/4 medium",
+      "notes": "Finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a wok or large skillet, heat the olive oil over medium-high heat.",
+    "Add the finely chopped garlic and sauté for about 30 seconds until fragrant.",
+    "Next, add the finely chopped beets, leeks, red bell pepper, watermelon radish, and bay leaves. Stir fry everything together until they are heated through and the vegetables have softened slightly.",
+    "Season with salt to taste and serve hot as a side dish or garnish over other dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "ukrainian",
+    "stir-fry",
+    "velvety",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "fresh-velvety-festive-ukrainian-pickles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-velvety-festive-ukrainian-pickles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:55:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "bay leaf",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pickles",
+    "descriptor": "Fresh Velvety Festive",
+    "dishForm": "Stir-fry"
+  }
+}
