@@ -1,0 +1,78 @@
+{
+  "title": "Fermented Gooey Nostalgic Spanish Leek Stir-fry",
+  "description": "A low-carb friendly fermented and gooey dish featuring poached leeks with a touch of nostalgia.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix lime juice and red pepper flakes. Set aside.",
+    "Heat oil in a wok or large frying pan over medium heat.",
+    "Add sliced leeks to the hot oil. Cook for about 5 minutes until they become translucent.",
+    "Drizzle the prepared lime-lime-flavored mixture over the leeks.",
+    "Mix unsweetened coconut milk into the stir-fry evenly, stirring well with a spatula.",
+    "Cook until the liquid has thickened and absorbed by the leeks, about 3 more minutes.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "gooey",
+    "spanish",
+    "leek",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "fermented-gooey-nostalgic-spanish-leek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-nostalgic-spanish-leek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:49:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "leek",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Leek",
+    "descriptor": "Fermented Gooey Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
