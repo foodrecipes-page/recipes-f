@@ -1,0 +1,72 @@
+{
+  "title": "Festive Croatian Pecorino Croissant",
+  "description": "A rich and flaky dish featuring pecorino cheese that is perfect for a festive occasion, suitable for whole30 diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Croissant",
+      "amount": "2",
+      "notes": "Freshly baked or store-bought"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated, use reduced sodium if available"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin for flavoring"
+    },
+    {
+      "name": "Herbs (Optional)",
+      "amount": "pinch",
+      "notes": "Thyme or Rosemary"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F.",
+    "Spread a thin layer of olive oil on the bottom of the croissant and sprinkle with pecorino cheese. If using herbs, gently toss them in the cheese as well.",
+    "Carefully place the croissant in the preheated air fryer without overcrowding. Cook for 10-12 minutes or until the cheese is bubbly and golden brown.",
+    "Remove from heat and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive-croatian",
+    "whole30-friendly",
+    "rich-flaky",
+    "pecorino-cheese"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "festive-croatian-pecorino-croissant",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-croatian-pecorino-croissant",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:08:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "pecorino",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pecorino",
+    "descriptor": "Festive",
+    "dishForm": "Croissant"
+  }
+}
