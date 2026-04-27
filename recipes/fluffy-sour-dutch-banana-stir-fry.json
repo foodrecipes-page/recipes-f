@@ -1,0 +1,79 @@
+{
+  "title": "Fluffy Sour Dutch Banana Stir-fry",
+  "description": "A festive dish featuring fluffy bananas cooked with a sour and high-protein-friendly sauce for a savory breakfast or snack option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein",
+    "sour"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "2 medium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey or agave syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp (optional, for extra protein)"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the bananas into thin strips.",
+    "In a small bowl, mix together soy sauce, vinegar, honey or agave syrup, and ground turmeric until well combined. Heat oil in a skillet over medium heat.",
+    "Add banana slices to the skillet and stir-fry for about 5 minutes or until golden brown and slightly crispy on all sides.",
+    "If using peanut butter, add it to the pan with the sauce mixture and mix thoroughly to combine. Cook for another minute.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "sour",
+    "dutch",
+    "banana",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 9,
+    "carbs": 13,
+    "fat": 4
+  },
+  "slug": "fluffy-sour-dutch-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-sour-dutch-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:45:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "banana",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "banana",
+    "descriptor": "sour fluffy festive",
+    "dishForm": "Stir-fry"
+  }
+}
