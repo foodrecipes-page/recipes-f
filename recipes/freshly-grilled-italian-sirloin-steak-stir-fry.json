@@ -1,0 +1,67 @@
+{
+  "title": "Freshly Grilled Italian Sirloin Steak Stir-fry",
+  "description": "A healthy and quick meal that combines the flavors of Italy with fresh sirloin steak in a light stir-fry sauce for a diabetic-friendly breakfast or lunch.",
+  "cuisine": "Italian (Roman)",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "10 oz"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "zucchini, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over high heat. Season the sirloin steak with salt and pepper on both sides.",
+    "Heat 2 tablespoons of olive oil in the heated pan until it shimmers.",
+    "Add the seasoned sirloin steak to the pan and cook for about 3-4 minutes per side, or until browned but not overcooked. Remove from heat and set aside.",
+    "Return the wok to high heat with another tablespoon of oil if necessary. Add sliced bell peppers and diced zucchini into the pan. Stir-fry them for about 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "stir-fry",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 26,
+    "carbs": 19,
+    "fat": 8
+  },
+  "slug": "freshly-grilled-italian-sirloin-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-italian-sirloin-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:15:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "sirloin steak",
+    "diet": "diabetic-friendly",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Sirloin Steak",
+    "descriptor": "Freshly Grilled",
+    "dishForm": "Stir-fry"
+  }
+}
