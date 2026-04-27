@@ -1,0 +1,93 @@
+{
+  "title": "Fluffy Spicy Greek Eggplant Stir-fry",
+  "description": "This sour and fluffy eggplant dish features Shaoxing wine and a tadka for a unique and crowd-pleasing flavor that's perfect as an appetizer or side dish.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 eggplant",
+      "amount": "1 medium-sized",
+      "notes": "Washed and peeled"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "1-2 pieces",
+      "notes": "Crushed"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Shaoxing wine",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "1 lemon's juice",
+      "notes": ""
+    },
+    {
+      "name": "A few pinches salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Few coriander leaves (for garnish)",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Cut the eggplant into cubes, drizzle with olive oil and a pinch of salt. Roast for about 20 minutes until golden brown.",
+    "While the eggplant is roasting, prepare the sauce by crushing garlic cloves and mixing them with soy sauce, Shaoxing wine, lemon juice, and a few pinches of salt in a small bowl.",
+    "Once the eggplant is cooked, let it cool slightly. Slice it into thin rounds and place on a plate.",
+    "Heat 2 tablespoons of olive oil in a pan over medium heat. Add sliced garlic and cook for about 30 seconds until fragrant.",
+    "Pour the sauce mixture into the pan with the garlic. Stir well to combine and let it simmer for about 1-2 minutes until slightly thickened.",
+    "Add roasted eggplant slices to the pan, tossing them in the sauce to coat evenly. Let cook for an additional minute allowing the flavors to meld together.",
+    "Garnish with coriander leaves if using. Serve hot or warm as a side dish with steamed rice or bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-spicy-greek-eggplant-stir-fry",
+    "sour-flavor",
+    "shaoxing-wine",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 17,
+    "fat": 10
+  },
+  "slug": "fluffy-spicy-greek-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spicy-greek-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:51:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "eggplant",
+    "descriptor": "Fluffy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
