@@ -1,0 +1,104 @@
+{
+  "title": "Floral Tender Moroccan Rice Stir-fry",
+  "description": "A floral and tender vegetarian-friendly moroccan rice dish perfect for a solo dinner featuring fragrant herbs and spices to add depth of flavor without the use of meat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup",
+      "notes": "preferably fragrant"
+    },
+    {
+      "name": "2 cups water or low-sodium vegetable broth",
+      "amount": "cup each",
+      "notes": null
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "pieces",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp cinnamon powder",
+      "amount": "tsp",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup finely chopped fresh cilantro (coriander)",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp vegetable oil",
+      "amount": "tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for at least 30 minutes.",
+    "Drain the soaked rice and transfer it to a pot with added water or vegetable broth, cover, and bring to a boil. Reduce heat to low, cover, and simmer until all the liquid is absorbed (about 20-25 minutes).",
+    "Meanwhile, in a wok or large skillet, heat oil over medium heat. Add chopped onion and sauté until translucent.",
+    "Add minced garlic and cook for about 30 seconds, then add ground cumin, coriander, and cinnamon powder. Stir well to combine all spices.",
+    "Stir in the drained rice from pot into wok, sprinkle with salt, and toss to coat thoroughly.",
+    "Fold in finely chopped cilantro just before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-rice-stir-fry",
+    "floral-tender",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 54,
+    "fat": 7
+  },
+  "slug": "floral-tender-moroccan-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-moroccan-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:27:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Rice",
+    "descriptor": "Floral Tender",
+    "dishForm": "Stir-fry"
+  }
+}
