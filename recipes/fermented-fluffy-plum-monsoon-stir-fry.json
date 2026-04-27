@@ -1,0 +1,91 @@
+{
+  "title": "Fermented Fluffy Plum Monsoon Stir-fry",
+  "description": "A flavorful and aromatic dish featuring fermented plum sauce as the star ingredient, served over fluffy dumplings in a monsoon-inspired blend of spices.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plum Sauce",
+      "amount": "200ml",
+      "notes": "Use fermented plum sauce for authentic flavor"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "15",
+      "notes": "Preferably fresh or frozen dumplings, egg-free if needed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "For extra depth of flavor"
+    },
+    {
+      "name": "Chili Flake",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2",
+      "notes": "Minced for added crunch and aroma"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying dumplings and sautéing shallots"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste, for seasoning the sauce"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/8 tsp",
+      "notes": "For flavor enhancement"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or frying pan over medium-high heat.",
+    "Add minced shallots and sauté for about 2 minutes until fragrant and lightly golden.",
+    "Stir in plum sauce, salt, pepper, and chili flakes. Mix well.",
+    "Gently fold in dumplings using tongs to ensure they don't break.",
+    "Sauté the dumplings until they are heated through and slightly crispy on the outside.",
+    "Serve hot with additional green onions for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented plum",
+    "fluffy dumplings",
+    "monsoon flavor"
+  ],
+  "nutrition": {
+    "calories": 567,
+    "protein": 18,
+    "carbs": 39,
+    "fat": 20
+  },
+  "slug": "fermented-fluffy-plum-monsoon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-fluffy-plum-monsoon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:59:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "plum sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Plum",
+    "descriptor": "Fluffy Fermented Monsoon",
+    "dishForm": "Stir-fry"
+  }
+}
