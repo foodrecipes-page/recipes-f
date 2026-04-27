@@ -1,0 +1,90 @@
+{
+  "title": "Fluffy Garlic Mexican Stir-fry",
+  "description": "A light rum-flavored, whole30-friendly dish featuring fluffy garlic and traditional Yucatecan flavors for a post-workout meal.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": [
+    "whole30",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "pitted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "minced for a milder flavor, or 2 minced + 2 smashed whole for stronger garlic taste"
+    },
+    {
+      "name": "Light Rum",
+      "amount": "1/4 cup",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add minced garlic or smashed whole garlic cloves and cook until fragrant, about 1 minute.",
+    "Add onion and sauté for another minute until softened.",
+    "Add chicken pieces to the skillet. Cook for 5-7 minutes on each side, browning nicely.",
+    "If using light rum, add it now and stir to coat the chicken evenly. Reduce heat to low and let simmer for about 2 minutes or until the flavors meld together.",
+    "Remove from heat and allow the dish to rest for a few minutes before serving with sliced avocado on top and fresh cilantro leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "mexican",
+    "fluffy",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 27
+  },
+  "slug": "fluffy-garlic-mexican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-garlic-mexican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:39:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "light rum",
+    "diet": "whole30",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Garlic",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
