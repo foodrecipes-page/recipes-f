@@ -1,0 +1,81 @@
+{
+  "title": "Fermented Crunchy Raw Friendly Cashew Crumble",
+  "description": "This raw-friendly Brazilian dish features a fermented crunchy cashew crumble, infused with dark rum for an indulgent yet raw-friendly twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "raw",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dark Rum",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Cacao Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Sugar or Raw Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Alaea Clay (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Soak the cashews in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked cashews, then blend them with dark rum until smooth.",
+    "Strain the mixture through a cheesecloth to remove any lumps, then add apple cider vinegar, cacao powder, coconut sugar, and sea salt. Mix well.",
+    "If desired, stir in alaea clay for an additional mineral boost.",
+    "Transfer the mixture into a large bowl or container that can be sealed tightly. Let it sit at room temperature, covered, for about 48 hours to ferment."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crunchy",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 11,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "fermented-crunchy-raw-friendly-cashew-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-raw-friendly-cashew-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:58:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "dark rum",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cashew",
+    "descriptor": "Fermented Crunchy Raw Friendly",
+    "dishForm": "Crumble"
+  }
+}
