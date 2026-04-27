@@ -1,0 +1,72 @@
+{
+  "title": "Fermented Turkish Potato Crumble",
+  "description": "This fermented potato crumble is a delightful brunch dish featuring crisp new potatoes with a touch of tanginess and is perfect for those looking to enjoy a diabetic-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 medium new potatoes",
+      "amount": "each",
+      "notes": "peeled and quartered"
+    },
+    {
+      "name": "1 cup unsweetened kefir (non-dairy milk alternative)",
+      "amount": "cup",
+      "notes": "ensure it's low-fat or sugar-free"
+    },
+    {
+      "name": "2 tablespoons finely chopped fresh dill",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice",
+      "notes": "lemon juice from a whole lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Place the quartered potatoes on a baking sheet lined with parchment paper.",
+    "Mix the unsweetened kefir, dill, and lemon juice in a bowl. Pour this mixture over the potatoes evenly.",
+    "Bake for about 45 minutes or until the potatoes are crispy and golden brown.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crispy",
+    "turkish-dish"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 2
+  },
+  "slug": "fermented-turkish-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-turkish-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:27:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "new potatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "potato",
+    "descriptor": "Fermented",
+    "dishForm": "Crumble"
+  }
+}
