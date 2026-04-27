@@ -1,0 +1,76 @@
+{
+  "title": "Fresh Crisp Portuguese Chicken Stir-fry",
+  "description": "A fresh and crisp take on a traditional Portuguese dish featuring panang curry paste, with sous-vide techniques for added tenderness.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous-vide chicken breasts",
+      "amount": "2 pcs",
+      "notes": "medium-rare cooked"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 pc",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 pcs",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/4 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "a few sprigs",
+      "notes": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat and add a drizzle of vegetable oil.",
+    "Add the sous-vide chicken breasts to the pan and sear on both sides for about 1 minute each side, until golden brown and slightly crispy.",
+    "Remove chicken from the pan with a slotted spoon and set aside. Add sliced red bell peppers to the same pan, tossing gently to coat in oil and cook for another 2 minutes or until they start to soften but still retain their shape.",
+    "Return chicken to the wok along with shredded carrots, green onions, and fresh cilantro. Toss everything together until well combined and heated through.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "crisp",
+    "panang curry paste",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "fresh-crisp-portuguese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crisp-portuguese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:22:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "panang curry paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Fresh Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
