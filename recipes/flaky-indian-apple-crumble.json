@@ -1,0 +1,94 @@
+{
+  "title": "Flaky Indian Apple Crumble",
+  "description": "This floral and flaky Indian (Punjabi) dish combines apple cider vinegar for a unique flavor twist, caramelized apples, and a low-sodium-friendly crumb topping.",
+  "cuisine": "Indian (Punjabi)",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 lbs",
+      "notes": "Grate into small pieces"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup",
+      "notes": "Replace with regular apple juice for a lighter version"
+    },
+    {
+      "name": "sugar",
+      "amount": "3/4 cup",
+      "notes": "Use 2% less sugar to be low-sodium-friendly"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "pitted prunes or raisins",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix grated apples with apple cider vinegar, sugar, and cinnamon. Mix well.",
+    "Add flour, baking powder, salt, and melted butter into the apple mixture. Mix until crumbly but still holds together.",
+    "Spread the apple mixture evenly onto a lined baking sheet or in a pie dish. Sprinkle pitted prunes on top of the crust.",
+    "Bake for 30-40 minutes or until golden brown and the filling is set. Let it cool slightly before serving with vanilla ice cream."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "indian",
+    "punjabi",
+    "applecrumble",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 1,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "flaky-indian-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-indian-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:42:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "low-sodium",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Apple",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
