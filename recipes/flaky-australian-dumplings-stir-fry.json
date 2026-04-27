@@ -1,0 +1,87 @@
+{
+  "title": "Flaky Australian Dumplings Stir-fry",
+  "description": "A fresh and dense one-pot meal featuring white wine vinegar for a low-fat-friendly twist on the classic Australian dish.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen dumplings",
+      "amount": "1 bag"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves ( minced)",
+      "amount": "3"
+    },
+    {
+      "name": "Fresh ginger (grated)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce (light)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add minced garlic and grated ginger to the pan, stirring for about 1 minute until fragrant.",
+    "Pour in chicken broth and white wine vinegar, bringing the mixture to a boil.",
+    "Reduce heat to low and stir in soy sauce and salt. Simmer for about 5 minutes or until thickened slightly.",
+    "Fold in frozen dumplings gently using tongs. Let them cook for an additional 2-3 minutes or until fully heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-dumplings",
+    "flaky-australian-dumplings-stir-fry",
+    "low-fat-friendly",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 19
+  },
+  "slug": "flaky-australian-dumplings-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-australian-dumplings-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:44:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
