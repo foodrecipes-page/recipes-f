@@ -1,0 +1,102 @@
+{
+  "title": "Floral Spanish Goose Fat Stir-Fry",
+  "description": "A light and crispy pescatarian-friendly dish featuring floral aromas from a unique blend of gooses' fats with an array of aromatic vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small red onion, thinly sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fresh parsley leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fresh dill sprigs",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fresh mint leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon sea salt flakes",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "Goose fat",
+      "amount": "2 tablespoons",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "Pancetta or bacon, crumbled (optional)",
+      "amount": "a few slices"
+    }
+  ],
+  "instructions": [
+    "Preheat a heavy-bottomed pan over medium-high heat. Add olive oil and sprinkle sea salt on the top of the pan.",
+    "Once the salt has melted into the oil, add minced garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Add sliced red onions to the pan and reduce the heat to medium. Cook, stirring occasionally, until the onions are translucent and soft, around 5 minutes.",
+    "Toss in broccoli florets and continue cooking for another minute or two until they start to soften slightly.",
+    "Fold in fresh parsley, dill sprigs, mint leaves, and optional crumbled pancetta/bacon. Stir gently to combine all ingredients evenly.",
+    "Pour the goose fat into the pan slowly from a small bowl using a spoon. The hot oil will spread out as the fat melts.",
+    "Once you hear the first sizzle (about 10 seconds), quickly but carefully pour the mixture back and forth between the pan and another container, until all the goose fat is incorporated.",
+    "Add freshly ground black pepper to taste. Stir gently again.",
+    "Cook for about an additional minute or two until everything is heated through and well combined.",
+    "Serve hot with a side of crusty bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goose-fat-stir-fry",
+    "pescatarian-friendly",
+    "light-floral-dish"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "floral-spanish-goose-fat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-spanish-goose-fat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:08:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "goose fat",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "goose fat",
+    "descriptor": "Floral",
+    "dishForm": "Stir-fry"
+  }
+}
