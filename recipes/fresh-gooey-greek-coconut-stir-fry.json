@@ -1,0 +1,70 @@
+{
+  "title": "Fresh Gooey Greek Coconut Stir-fry",
+  "description": "A quick and easy breakfast dish featuring shredded coconut mixed with greek yogurt for a gooey texture, perfect for those who love a touch of sweetness in their morning meals.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shredded coconut",
+      "amount": "2 cups"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup or honey",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "canned pineapple chunks (optional)",
+      "amount": "1 can"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded coconut, greek yogurt, almond milk, maple syrup or honey, and red pepper flakes. Stir until the mixture is evenly coated.",
+    "Add in canned pineapple chunks (optional) for extra sweetness and flavor.",
+    "Fold in fresh mint leaves to garnish.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 3",
+    "totalTimeMin: 8",
+    "servings: 4",
+    "difficulty: 'easy'",
+    "tags: ['quick-fix', 'greek', 'coconut', 'stir-fry']",
+    "nutrition: {"
+  ],
+  "slug": "fresh-gooey-greek-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-gooey-greek-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:38:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "shredded coconut",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "coconut",
+    "descriptor": "Fresh Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
