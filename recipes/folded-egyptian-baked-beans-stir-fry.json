@@ -1,0 +1,65 @@
+{
+  "title": "Folded Egyptian Baked Beans Stir-fry",
+  "description": "A fresh, dense dish featuring baked beans, designed to be a hangover-cure and fully kosher-friendly.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup baked black-eyed peas",
+      "amount": "",
+      "notes": "Soak overnight"
+    },
+    {
+      "name": "1/2 cup tahini",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Warm the baked black-eyed peas gently in a pan over low heat.",
+    "Add tahini, minced garlic, and lemon juice to the peas. Stir until well combined and heated through.",
+    "Serve warm as an easy-to-digest snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "folded-egyptian-baked-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/folded-egyptian-baked-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:00:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "baked beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Baked Beans",
+    "descriptor": "Folded",
+    "dishForm": "Stir-fry"
+  }
+}
