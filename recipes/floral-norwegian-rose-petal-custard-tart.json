@@ -1,0 +1,96 @@
+{
+  "title": "Floral Norwegian Rose Petal Custard Tart",
+  "description": "A floral and romantic dish featuring custard powder, caramelized rose petals, and a chewy texture suitable for dessert or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": "For the crust"
+    },
+    {
+      "name": "3/4 cup granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter, softened",
+      "amount": ""
+    },
+    {
+      "name": "6 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "5 tablespoons cornstarch or corn flour",
+      "amount": ""
+    },
+    {
+      "name": "1 1/4 cups milk (room temperature)",
+      "amount": ""
+    },
+    {
+      "name": "3/4 cup granulated sugar, for caramelizing rose petals",
+      "amount": ""
+    },
+    {
+      "name": "20 fresh rose petals",
+      "amount": "",
+      "notes": "For garnish"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix flour and sugar in a bowl. Add softened butter, mix until crumbly.",
+    "Press into the bottom of an unbaked tart shell (pre-made or homemade), filling the crust evenly.",
+    "Bake at 350°F (175°C) for about 10 minutes or until edges are golden brown and crust is set.",
+    "In a saucepan, mix eggs with cornstarch. Slowly add milk while stirring continuously until thickened; whisk in vanilla extract.",
+    "Pour custard mixture into the baked tart shell, making sure to distribute evenly across the top of the crust.",
+    "Bake at 350°F (175°C) for about 20 minutes or until custard is set and golden brown on top. Cool completely before refrigerating.",
+    "To caramelize rose petals: In a small saucepan, heat sugar over medium heat to melt; remove from heat as soon as it starts bubbling heavily.",
+    "Gently press the rose petals into the hot sugar syrup in a bowl until fully coated and slightly caramelized. Set aside to cool while custard cools.",
+    "Serve the tart chilled with a sprinkle of caramelized rose petals on top."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "rose-petal",
+    "custard-tart",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "floral-norwegian-rose-petal-custard-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-norwegian-rose-petal-custard-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:32:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "custard powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rose petal",
+    "descriptor": "Floral",
+    "dishForm": "Tart"
+  }
+}
