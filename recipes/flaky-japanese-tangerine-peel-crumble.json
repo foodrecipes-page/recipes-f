@@ -1,0 +1,76 @@
+{
+  "title": "Flaky Japanese Tangerine Peel Crumble",
+  "description": "A tangy, flaky Japanese dish featuring ketchup as a key ingredient for a low-sodium-friendly hangover cure.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tangerine peel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ketchup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Melt the unsalted butter in a small pan over medium heat.",
+    "Add tangerine peel, ketchup, rice vinegar, and soy sauce to the melted butter. Stir well until combined.",
+    "Pour the mixture onto a lightly greased baking sheet.",
+    "Bake at 375°F for about 20-25 minutes or until golden brown.",
+    "Let it cool before cutting into small pieces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "tangy",
+    "japanese",
+    "hangover-cure",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 5.7,
+    "carbs": 18.9,
+    "fat": 14.8
+  },
+  "slug": "flaky-japanese-tangerine-peel-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-japanese-tangerine-peel-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:09:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "ketchup",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tangerine Peel",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
