@@ -1,0 +1,77 @@
+{
+  "title": "Fermented Crunchy Macaroni Stir-fry",
+  "description": "This sick-day Indian dish features fermented macaroni mixed with a savory temper and spices for a unique flavor profile that's sure to invigorate even the most lethargic.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "1 cup",
+      "notes": "Cooked and drained"
+    },
+    {
+      "name": "Fermented vegetables (e.g., amchoor or dahi),"
+    },
+    {
+      "name": "Tempering oil (usually vegetable or peanut oil),"
+    },
+    {
+      "name": "Garlic cloves,"
+    },
+    {
+      "name": "Cumin seeds,"
+    },
+    {
+      "name": "Curry leaves,"
+    },
+    {
+      "name": "Turmeric powder,"
+    },
+    {
+      "name": "Red chili powder,"
+    },
+    {
+      "name": "Salt to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a pan and temper the cumin seeds, garlic, curry leaves, turmeric powder, and red chili powder.",
+    "Add salt and mix well. Then add cooked macaroni and mix thoroughly with all tempering ingredients.",
+    "Serve hot as a snack or meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-macaroni-stir-fry",
+    "sick-day-dish",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "fermented-crunchy-macaroni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-macaroni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:04:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "macaroni",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Macaroni",
+    "descriptor": "fermented",
+    "dishForm": "Stir-fry"
+  }
+}
