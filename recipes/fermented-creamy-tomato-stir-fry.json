@@ -1,0 +1,83 @@
+{
+  "title": "Fermented Creamy Tomato Stir-fry",
+  "description": "An energizing Portuguese dish featuring fermented cream and roasted tomatoes for a diabetic-friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "fermented cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Cut the tomatoes into quarters and place them on a baking sheet.",
+    "Dice the onions and slice the garlic cloves thinly.",
+    "Place the onions, garlic, and tomatoes in a mixing bowl with a pinch of salt. Mix well.",
+    "Drizzle the olive oil over the tomato mixture and mix again until evenly coated.",
+    "Spread the seasoned mixture onto the lined baking sheet and roast for 20-25 minutes or until golden brown and crispy.",
+    "While the veggies are roasting, in a separate pan, heat up a bit of olive oil over medium-high heat.",
+    "Add roasted onions and garlic to the hot pan and cook for about 2 minutes, stirring occasionally.",
+    "Stir in fermented cream into the onions and garlic mixture. Reduce heat to low and let simmer until thickened.",
+    "Serve warm with crusty bread or on its own as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "creamy",
+    "energizing",
+    "portuguese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "fermented-creamy-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:24:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Tomato",
+    "descriptor": "Creamy Fermented Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
