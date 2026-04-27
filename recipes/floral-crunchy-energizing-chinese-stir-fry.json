@@ -1,0 +1,86 @@
+{
+  "title": "Floral Crunchy Energizing Chinese Stir-fry",
+  "description": "A low-calorie-friendly stir-fry featuring kale and other crunchy vegetables to provide a burst of energy at any meal time.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 medium, finely sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and garlic, sauté for about 30 seconds until fragrant.",
+    "Stir in kale and bell pepper. Cook until wilted but still crisp, approximately 2-3 minutes.",
+    "Pour in soy sauce, reduce to a simmer, add salt, and stir well to coat the vegetables evenly with the marinade.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crunchy",
+    "energizing",
+    "kale",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 2
+  },
+  "slug": "floral-crunchy-energizing-chinese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-energizing-chinese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:02:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "kale",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Kale",
+    "descriptor": "Floral Crunchy Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
