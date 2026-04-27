@@ -1,0 +1,90 @@
+{
+  "title": "Freshly Fluffy Low-Fat Freshly Fluffy Low-Fat Hummus Salad",
+  "description": "This low-fat hummus salad is perfect for a solo dinner and features fresh vegetables to make it a Norwegian dish with a twist.",
+  "cuisine": "norwegian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups canned chickpeas (drained and rinsed)",
+      "amount": "",
+      "notes": "Use low-sodium or no salt added varieties."
+    },
+    {
+      "name": "1/4 cup tahini",
+      "amount": "",
+      "notes": "Organic if possible."
+    },
+    {
+      "name": "3 tablespoons lemon juice (freshly squeezed)",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced (or 1 tablespoon roasted garlic paste)",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil (for drizzle)",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "Start with a pinch and adjust as needed."
+    },
+    {
+      "name": "Mixed green lettuce leaves, for serving",
+      "amount": "",
+      "notes": "Romaine or any other leafy greens can be used."
+    }
+  ],
+  "instructions": [
+    "Mix the chickpeas in a large bowl to break them up into smaller pieces.",
+    "In a separate small bowl, whisk together tahini, lemon juice, garlic, and salt. Gradually add olive oil while continuing to whisk until smooth and well combined.",
+    "Pour the hummus mixture over the chickpeas and mix gently to combine all ingredients evenly.",
+    "Gently fold in mixed green lettuce leaves to the salad.",
+    "Drizzle with a bit of extra virgin olive oil for a finishing touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hummus",
+    "salad",
+    "low-fat",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "freshly-fluffy-low-fat-freshly-fluffy-low-fat-hummus-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fluffy-low-fat-freshly-fluffy-low-fat-hummus-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:12:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "hummus",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Hummus",
+    "descriptor": "Freshly Fluffy Low-Fat",
+    "dishForm": "Salad"
+  }
+}
