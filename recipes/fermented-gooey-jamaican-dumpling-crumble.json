@@ -1,0 +1,82 @@
+{
+  "title": "Fermented Gooey Jamaican Dumpling Crumble",
+  "description": "A crowd-pleasing fermented and gooey Jamaican dish featuring ghee and dumplings that is low-carb-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups grated Gruyère cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup ghee",
+      "amount": "cup"
+    },
+    {
+      "name": "3 large eggs",
+      "amount": "each"
+    },
+    {
+      "name": "1 can (8 oz) coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "2 cups mashed bananas",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine cheese, ghee, eggs, coconut milk, mashed bananas, and vanilla in a bowl. Add salt.",
+    "Pour the mixture into an oiled 9x9 inch baking dish.",
+    "Bake for 45 minutes or until puffed up and golden brown on top.",
+    "Cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "fermented",
+    "gooey",
+    "dumpling",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 639,
+    "protein": 21,
+    "carbs": 25,
+    "fat": 40
+  },
+  "slug": "fermented-gooey-jamaican-dumpling-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-jamaican-dumpling-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:46:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "ghee",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Dumpling",
+    "descriptor": "Fermented Gooey",
+    "dishForm": "Crumble"
+  }
+}
