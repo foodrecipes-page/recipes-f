@@ -1,0 +1,94 @@
+{
+  "title": "Fresh Velvety Algerian Oats Stir-fry",
+  "description": "A fresh and velvety Algerian dish featuring ground oats, perfect for a high-protein-friendly weeknight meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quick-cooking oats",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": null
+    },
+    {
+      "name": "1 bell pepper, finely diced (any color)",
+      "amount": null
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves, roughly chopped",
+      "amount": null
+    },
+    {
+      "name": "2 tablespoons tahini",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Optional: 2 green onions, chopped (for garnish)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Boil the oats in a small amount of water for about 5 minutes until tender. Drain any excess water.",
+    "In a skillet, heat olive oil over medium-high heat. Add minced garlic and onion, cooking for about 2-3 minutes until fragrant.",
+    "Add finely diced bell pepper to the skillet, cook for another minute or two until softened slightly.",
+    "Return the boiled oats to the skillet. Stir in tahini, lemon juice, salt, and pepper. Mix well.",
+    "Garnish with chopped green onions if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "vegan",
+    "stir-fry",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "fresh-velvety-algerian-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-velvety-algerian-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:27:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "ground oats",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "oats",
+    "descriptor": "Fresh Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
