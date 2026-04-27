@@ -1,0 +1,86 @@
+{
+  "title": "Fermented Crunchy Cozy Nut-Free Semi-Skimmed Milk Stir-fry",
+  "description": "This dish is a unique fusion of Jamaican flavors with semi-skimmed milk, blended with crunchy textures and fermented elements for a cozy and satisfying meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sliced bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh ginger root",
+      "amount": "2 inches"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "frozen corn kernels",
+      "amount": "3/4 cup frozen, thawed"
+    },
+    {
+      "name": "coconut milk (reduced fat)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fermented tofu",
+      "amount": "6 oz"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1 handful"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add ginger root and sliced bell peppers, sauté for about 5 minutes until tender but not mushy.",
+    "Stir in frozen corn kernels and coconut milk, cooking for an additional 2-3 minutes.",
+    "Fold in fermented tofu, chives, and fresh cilantro leaves. Cook for another minute.",
+    "Serve hot as a side dish or main course with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crunchy",
+    "cozy",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 10,
+    "carbs": 59,
+    "fat": 21
+  },
+  "slug": "fermented-crunchy-cozy-nut-free-semi-skimmed-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-cozy-nut-free-semi-skimmed-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:46:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Nut-Free Semi-Skimmed Milk",
+    "descriptor": "Fermented Crunchy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
