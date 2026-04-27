@@ -1,0 +1,71 @@
+{
+  "title": "Fermented Bean Dutch Stir-fry",
+  "description": "A chewy and fermented dish featuring dark soy sauce and broiled elements for a diabetic-friendly Dutch meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fermented black beans",
+      "amount": "cup",
+      "notes": "Ensure to use quality, not necessarily fresh"
+    },
+    {
+      "name": "2 tbsp dark soy sauce",
+      "amount": "tbsp",
+      "notes": "Regular or low sodium versions can be used"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "clove"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Add fermented black beans and dark soy sauce to a baking dish.",
+    "Drizzle juice from the lime over the mixture and toss gently with tongs or spatula.",
+    "Place in preheated oven for 10 minutes until lightly browned on top.",
+    "Remove from oven, sprinkle minced garlic evenly across surface of bean mixture before returning to oven for another 5 minutes.",
+    "Gently stir ingredients together after removing from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-bean-dutch-stir-fry",
+    "chewy-dutch-dish",
+    "diabetic-friendly-dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 3
+  },
+  "slug": "fermented-bean-dutch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-bean-dutch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:52:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beans",
+    "descriptor": "fermented",
+    "dishForm": "Stir-fry"
+  }
+}
