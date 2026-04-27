@@ -1,0 +1,77 @@
+{
+  "title": "Fermented Spanish Tomato Stir-fry",
+  "description": "This fermented dish combines the tangy flavor of Spanish tomatoes with a spicy kick from garam masala to create a high-protein-friendly hangover-cure treat, perfect for breakfast.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish tomatoes",
+      "amount": "1 cup fresh or fermented"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "turkey or chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the fermented Spanish tomatoes in water for about 10 minutes to soften them.",
+    "Heat olive oil in a pan over medium heat. Add minced garlic and onions; sauté until translucent, approximately 3-5 minutes.",
+    "Stir in garam masala and continue cooking for another minute, stirring constantly to avoid burning the spices.",
+    "Add the soaked fermented Spanish tomatoes into the pan. Cook for about 2-3 more minutes, allowing them to release their juices.",
+    "Pour in turkey or chicken broth. Stir well to combine all ingredients thoroughly.",
+    "Simmer gently on low heat until thickened slightly, about 5-7 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-tomato",
+    "hangover-cure",
+    "garam-masala"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "fermented-spanish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-spanish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:54:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "garam masala",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
