@@ -1,0 +1,93 @@
+{
+  "title": "Floral Gooey Jamaican Lamb Kidney Stir-fry",
+  "description": "A lazy Sunday dish featuring a low-calorie-friendly floral and gooey Jamaican lamb kidney stir-fry with aromatic spices to enhance the flavors.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Kidney",
+      "amount": "100g",
+      "notes": "Fresh lamb kidneys"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3 pieces",
+      "notes": "Minced"
+    },
+    {
+      "name": "Jamaican Jerk Spice Blend",
+      "amount": "A few pinches",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tbsp",
+      "notes": "Fresh or dried, finely chopped"
+    },
+    {
+      "name": "Lemon Slices",
+      "amount": "2 slices",
+      "notes": "Optional garnish for presentation"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Clean the lamb kidneys thoroughly and pat them dry with paper towels.",
+    "Slice a medium onion into thin strips, finely chop 3 garlic cloves, finely chop fresh or dried thyme leaves, and slice two lemon for garnish if desired.",
+    "Season each kidney lightly with Jamaican Jerk Spice Blend on both sides. Place the seasoned kidneys in an oven-safe dish.",
+    "Roast the kidneys in the preheated oven for about 15 minutes until they are tender when pierced with a fork.",
+    "While the kidneys are roasting, heat olive oil in a skillet over medium-high heat.",
+    "Add finely chopped onions and minced garlic to the hot skillet. Sauté until onions become translucent.",
+    "Remove the roasted lamb kidneys from the oven and place them back into the skillet along with sliced thyme leaves.",
+    "Drizzle remaining olive oil over the kidney slices, stir gently, and cook for another 2-3 minutes until they are fully cooked through and slightly crispy on the outside if desired.",
+    "Serve immediately with lemon slices, garnished with extra thyme leaves if you like a burst of freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-kidney-stir-fry",
+    "lazy-sunday-dinner",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "floral-gooey-jamaican-lamb-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-gooey-jamaican-lamb-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:25:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "lamb kidney",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "floral gooey",
+    "dishForm": "Stir-fry"
+  }
+}
