@@ -1,0 +1,92 @@
+{
+  "title": "Floral Ethiopian Flour Crumble",
+  "description": "A chewy and nostalgic dish featuring a blend of gluten-free flour mixed with toasted spices for a floral flavor profile, perfect as a breakfast or snack option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free flour blend",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon ground cardamom",
+      "amount": "teaspoon",
+      "notes": "for a floral aroma and flavor"
+    },
+    {
+      "name": "1/4 teaspoon ground ginger",
+      "amount": "teaspoon",
+      "notes": "to enhance the nutty taste and spice up the dish"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": "balances the flavors"
+    },
+    {
+      "name": "2 tablespoons butter, softened",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup honey or maple syrup",
+      "amount": "cup",
+      "notes": "for added sweetness and moisture"
+    },
+    {
+      "name": "3 cups almond milk or any non-dairy milk of choice",
+      "amount": "cups"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, combine the flour blend, cardamom, ginger, and salt.",
+    "Gradually add in softened butter, stirring until well combined. The mixture should be crumbly when done.",
+    "Add honey or maple syrup followed by the almond milk, stir to incorporate evenly. Squeeze in lemon juice just before adding it for best flavor retention.",
+    "Transfer dough into a greased muffin tin or small ramekins lined with baking paper. Ensure each crumble is evenly spaced.",
+    "Bake for 20-25 minutes until golden brown and crispy on the outside.",
+    "Let cool slightly, then serve warm for an extra flavor boost."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "nostalgic",
+    "ethiopian",
+    "chewy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 12
+  },
+  "slug": "floral-ethiopian-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-ethiopian-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:04:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "flour",
+    "descriptor": "Floral",
+    "dishForm": "Crumble"
+  }
+}
