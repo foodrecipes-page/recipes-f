@@ -1,0 +1,101 @@
+{
+  "title": "Fermented Light Crowd-Pleaser Egg Yolk Stir-fry",
+  "description": "A light and crowd-pleasing egg yolk stir-fry that is fermented to add a unique flavor profile and served as a vegetarian-friendly meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup tofu",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons fermented black beans",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 3 limes",
+      "amount": "juice"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red bell pepper, julienned",
+      "amount": "piece"
+    },
+    {
+      "name": "1 green bell pepper, julienned",
+      "amount": "piece"
+    },
+    {
+      "name": "1 carrot, grated",
+      "amount": "carrot"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 tablespoons rice vinegar",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 eggs, beaten",
+      "amount": "set"
+    },
+    {
+      "name": "1 cup egg yolks",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown on both sides. Remove from pan and set aside.",
+    "In the same pan, add fermented black beans, minced garlic, lime juice, and soy sauce. Stir to combine.",
+    "Add the bell peppers and carrot. Cook for about 2 minutes or until slightly softened.",
+    "Pour in the beaten eggs and stir-fry quickly until cooked through but not fully set.",
+    "Fold in the egg yolks gently to incorporate with the other ingredients. Taste and adjust seasoning if needed.",
+    "Serve hot as a snack alongside steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "light",
+    "crowd-pleaser",
+    "polish",
+    "egg-yolk",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "fermented-light-crowd-pleaser-egg-yolk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-light-crowd-pleaser-egg-yolk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:39:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "egg yolks",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "egg yolk",
+    "descriptor": "Fermented Light Crowd-Pleaser",
+    "dishForm": "Stir-fry"
+  }
+}
