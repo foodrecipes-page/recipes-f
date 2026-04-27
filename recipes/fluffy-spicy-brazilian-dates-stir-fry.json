@@ -1,0 +1,83 @@
+{
+  "title": "Fluffy Spicy Brazilian Dates Stir-fry",
+  "description": "A savory and fluffy date-night dish featuring kabze spice and a touch of sweetness from cured dates that are perfect for those who follow a low FODMAP diet.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup (sliced)",
+      "notes": "cured dates"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kabze spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 (minced)"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 tbsp (grated)"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "2 tsp (finely chopped)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add minced garlic and grated ginger, sauté for about 1 minute until fragrant.",
+    "Fold in kabze spice blend, salt, and finely chopped thyme leaves. Stir well to combine.",
+    "Gently add sliced dates into the pan, reduce heat to low, cover with a lid, and let simmer for approximately 5 minutes or until dates are soft.",
+    "Remove from heat and serve hot as a snack accompaniment.",
+    "Optional: You can garnish with fresh thyme leaves for additional flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "savory",
+    "brazilian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 4
+  },
+  "slug": "fluffy-spicy-brazilian-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spicy-brazilian-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:32:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "kabse spice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Dates",
+    "descriptor": "Fluffy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
