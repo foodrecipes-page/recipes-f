@@ -1,0 +1,87 @@
+{
+  "title": "Fermented Crisp Australian Chinese Long Beans Stir-fry",
+  "description": "This kid-friendly Australian dish features fermented and crisp Chinese long beans in a savory stir-fry, perfect for pescatarian families.",
+  "cuisine": "Australian-Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Long Beans",
+      "amount": "250g",
+      "notes": "Fermented and crisp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "White Pepper Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Spring Onion",
+      "amount": "a few pieces",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add minced garlic and fry until fragrant, about 1 minute.",
+    "Include fermented Chinese long beans, chili paste, soy sauce, salt, and pepper powder. Stir-fry for another 2-3 minutes until the ingredients are well combined and have slightly curled due to moisture evaporation.",
+    "Remove from heat and serve garnished with chopped spring onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-dish",
+    "stir-fry",
+    "kid-friendly",
+    "chinese-long-beans"
+  ],
+  "nutrition": {
+    "calories": 107,
+    "protein": 2.8,
+    "carbs": 16.4,
+    "fat": 3
+  },
+  "slug": "fermented-crisp-australian-chinese-long-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-australian-chinese-long-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:07:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "chinese long beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Fermented Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
