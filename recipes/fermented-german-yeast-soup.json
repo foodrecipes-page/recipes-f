@@ -1,0 +1,67 @@
+{
+  "title": "Fermented German Yeast Soup",
+  "description": "A creamy and indulgent dish featuring a touch of sweetness from icing sugar, perfect for diabetic-friendly recipes.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Boiling water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Icing sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yeast (crumbled)",
+      "amount": "3 grams"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, mix the boiling water and yeast. Let sit for 5 minutes until fully dissolved.",
+    "Stir in the icing sugar, ensuring it is completely dissolved into the liquid mixture.",
+    "Gradually pour in the heavy cream while stirring continuously to avoid lumps forming.",
+    "Let the soup simmer over low heat for another 10 minutes or until thickened. Stir frequently to ensure uniformity."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-german-soup",
+    "creamy-indulgent-dish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "fermented-german-yeast-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-german-yeast-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:33:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "icing sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Yeast",
+    "descriptor": "Fermented",
+    "dishForm": "Soup"
+  }
+}
