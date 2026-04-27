@@ -1,0 +1,79 @@
+{
+  "title": "Floral Crunchy Saudia Orange Crumble",
+  "description": "A raw-friendly floral and crunchy dessert featuring orange slices baked to perfection, a perfect addition to any breakfast or snack time.",
+  "cuisine": "Saudia Arabian",
+  "diet": [
+    "vegan",
+    "raw"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh oranges",
+      "amount": "2 medium"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup or agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime zest",
+      "amount": "a few thin slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Wash the oranges thoroughly and slice them into rounds.",
+    "Place sliced oranges in an even layer on a baking sheet lined with parchment paper.",
+    "Mix coconut flakes, almond meal, chia seeds, and maple syrup or agave nectar. Sprinkle this mixture evenly over the orange slices.",
+    "Bake for 10 minutes, then remove from oven to cool slightly before serving.",
+    "Garnish with a few thin lime zest slices for additional floral aroma."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crunchy",
+    "saudia",
+    "orange"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 1.5,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "floral-crunchy-saudia-orange-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-saudia-orange-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:47:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "oranges",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "orange",
+    "descriptor": "Floral Crunchy",
+    "dishForm": "Crumble"
+  }
+}
