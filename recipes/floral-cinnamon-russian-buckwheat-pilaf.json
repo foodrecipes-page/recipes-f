@@ -1,0 +1,87 @@
+{
+  "title": "Floral Cinnamon Russian Buckwheat Pilaf",
+  "description": "A floral and comforting Russian dish featuring crisp elements like dried mint paired with the comfort of buckwheat pilaf in a dairy-free friendly version.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup buckwheat",
+      "amount": "cup",
+      "notes": "Rinse and rinse again before cooking"
+    },
+    {
+      "name": "3 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium onion"
+    },
+    {
+      "name": "1 garlic clove, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "2 teaspoons ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon dried mint",
+      "amount": "pinch"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Rinse buckwheat thoroughly and rinse again. Combine with water in a pot, bring to boil then reduce heat and simmer for about 15 minutes or until tender.",
+    "In a pan, heat olive oil over medium heat. Add onion and garlic, sauté for 3-4 minutes until fragrant and translucent.",
+    "Stir in cinnamon and mint; cook for another minute. Add the cooked buckwheat to the pan with its cooking water. Mix well and let simmer for about 5 more minutes until all liquid is absorbed.",
+    "Season with salt if needed and serve hot.",
+    "Optional garnish: a few fresh mint leaves or slices of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "cinnamon",
+    "buckwheat",
+    "russian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "floral-cinnamon-russian-buckwheat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-cinnamon-russian-buckwheat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:48:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "dried mint",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Floral Cinnamon",
+    "dishForm": "Pilaf"
+  }
+}
