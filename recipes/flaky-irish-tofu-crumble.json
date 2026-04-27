@@ -1,0 +1,74 @@
+{
+  "title": "Flaky Irish Tofu Crumble",
+  "description": "This herbal and comforting dish combines marinated tofu with a bhuna-like sauce, offering a delightful pescatarian-friendly option for breakfast or a light meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Marinated Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Potato Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Herbs (thyme, parsley)",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix tofu with herbs and seasonings. Place in a greased baking dish.",
+    "In a separate pan, heat oil over medium-high heat. Add potato flour and stir until combined into a paste-like consistency.",
+    "Pour the flour mixture evenly over the tofu layers. Bake for 25 minutes or until golden brown on top.",
+    "Serve hot as a crumble or alongside toast for an Irish breakfast experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "herbal",
+    "comforting",
+    "irish",
+    "tacchi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "flaky-irish-tofu-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-irish-tofu-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:56:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "marinated tofu",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
