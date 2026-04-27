@@ -1,0 +1,84 @@
+{
+  "title": "Fermented Crisp Turkish Beer Crumble",
+  "description": "A raw-friendly festive dish featuring beer-infused tandoor crumbles that are crispy on the outside and chewy inside.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beer (low ABV)",
+      "amount": "1 cup",
+      "notes": "Ensure it's alcohol-free"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Raw Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Thyme Leaves (fresh)",
+      "amount": "3-4 leaves"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Oregano, Dried (optional)",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix beer with olive oil and set aside for fermentation.",
+    "In a food processor or blender, combine all ingredients except the last two. Blend until well combined but retain some texture for a crumble effect.",
+    "Transfer mixture to an oven-safe dish. Bake at 180°C (350°F) for 20 minutes, flip and bake another 10-15 minutes or until golden brown and crisp on top.",
+    "Sprinkle with dried oregano if using before serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crisp",
+    "festive",
+    "turkish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "fermented-crisp-turkish-beer-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-turkish-beer-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:01:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "beer",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Beer",
+    "descriptor": "Fermented",
+    "dishForm": "Crisp"
+  }
+}
