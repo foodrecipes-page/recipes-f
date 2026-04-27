@@ -1,0 +1,81 @@
+{
+  "title": "Freshly Fermented Middle Eastern Lemon Stir-fry",
+  "description": "A light and refreshing dish perfect for a sick-day meal, featuring warm water fermentation with no added sugars.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "medium",
+      "notes": "Use the zest and juice"
+    },
+    {
+      "name": "1 cup rice vinegar",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup warm water",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "4 green onions, finely chopped",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/4 cup fresh mint leaves",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the lemon zest and juice. Finely chop the garlic cloves.",
+    "In a small bowl, mix together rice vinegar and warm water. Add salt to taste. Stir well until dissolved.",
+    "Add lemon zest, juice, chopped garlic, and green onions to the mixture. Mix thoroughly.",
+    "Fold in mint leaves gently to prevent them from breaking apart too much.",
+    "Stir-fry for a few seconds on medium heat until the mix is heated through without boiling."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lemon",
+    "stir-fry",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 13,
+    "fat": 1
+  },
+  "slug": "freshly-fermented-middle-eastern-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fermented-middle-eastern-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:02:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "warm water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lemon",
+    "descriptor": "Freshly Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
