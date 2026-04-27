@@ -1,0 +1,87 @@
+{
+  "title": "Fresh Fluffy Borlotti Beans Stir-fry",
+  "description": "A fresh and fluffy Ukrainian dish featuring borlotti beans, perfect for a romantic date night. This pescatarian-friendly meal is slow-cooked to perfection.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Borlotti beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fresh herbs (parsley, dill)",
+      "amount": "2 Tablespoons each"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the borlotti beans in water overnight.",
+    "Soak onions in cold water for 15 minutes. Peel them after soaking.",
+    "Drain and rinse the soaked beans, set aside. Drain and chop onions into fine strips.",
+    "Heat olive oil in a wok or large skillet over medium heat. Add chopped onions and sauté until they become translucent.",
+    "Add garlic cloves and stir for about 30 seconds, being careful not to burn them.",
+    "Stir in the drained beans and cook for about 5 minutes, allowing the flavors to meld together.",
+    "Drizzle soy sauce evenly over the mixture. Add salt and pepper to taste. Stir well.",
+    "Toss in fresh herbs for a final garnish if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "borlotti-beans",
+    "stir-fry",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "fresh-fluffy-fresh-borlotti-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-fresh-borlotti-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:42:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "borlotti beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Borlotti Beans",
+    "descriptor": "Fluffy Fresh",
+    "dishForm": "Stir-fry"
+  }
+}
