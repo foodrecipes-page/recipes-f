@@ -1,0 +1,79 @@
+{
+  "title": "Fried Rye Wrap",
+  "description": "A fermented, dense, crowd-pleasing Ukrainian dish featuring bread rolls air-fried for a healthy and delicious snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread Rolls",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat vegetable oil in a deep fryer or large pot to 375°F (190°C).",
+    "Mix all-purpose flour, baking powder, and salt together.",
+    "Add water to the flour mixture until it forms a dough. Knead briefly.",
+    "Roll out the dough into thin circles. Place each circle on a floured surface.",
+    "Cut each circle into 4 wedges. Flatten each wedge slightly to create uniform shapes.",
+    "Dip rye bread rolls into a small amount of flour, then place them between two flat pieces of aluminum foil. Fry in hot oil for about 2 minutes until golden brown and crispy on both sides.",
+    "Remove from heat immediately after frying and transfer to a paper towel-lined plate to drain excess oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "fried-wrap",
+    "ukrainian-snack",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "fried-rye-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-rye-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:55:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "bread rolls",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Rye",
+    "descriptor": "Fried",
+    "dishForm": "Wrap"
+  }
+}
