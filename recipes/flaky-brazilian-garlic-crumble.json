@@ -1,0 +1,82 @@
+{
+  "title": "Flaky Brazilian Garlic Crumble",
+  "description": "A keto-friendly, broiled dish that combines the savory and aromatic flavors of pistachio paste with fresh garlic for a date-night treat.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachio Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar-Free Dijon Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine the Pistachio Paste, Garlic Powder, Almond Butter, and Sugar-Free Dijon Mustard.",
+    "Gradually add in Coconut Flour and Almond Milk, stirring until fully combined without lumps.",
+    "Once well blended, transfer the mixture to an oven-safe dish. Let it rest for 10 minutes to set slightly.",
+    "Broil the mixture under preheated heat for about 5-7 minutes or until golden brown around the edges.",
+    "Serve hot with crusty bread or as a dip for raw veggies."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "flaky",
+    "brazilian",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 9,
+    "carbs": 14,
+    "fat": 10
+  },
+  "slug": "flaky-brazilian-garlic-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-brazilian-garlic-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:13:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "pistachio paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
