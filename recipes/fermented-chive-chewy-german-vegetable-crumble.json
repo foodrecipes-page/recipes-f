@@ -1,0 +1,76 @@
+{
+  "title": "Fermented Chive Chewy German Vegetable Crumble",
+  "description": "A kid-friendly, vegan-friendly fermented dish featuring chopped chives as the main ingredient to create a chewy texture that’s perfect for children.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chopped chives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "3 tablespoons, at room temperature"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons, for fermenting"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons, for coating the mixture before baking"
+    }
+  ],
+  "instructions": [
+    "Mix chopped chives with active dry yeast and water in a bowl. Let it rest at room temperature for about 45 minutes to allow fermentation.",
+    "Once done fermenting, mix in maple syrup until thoroughly combined. The mixture should be thickened and bubbly.",
+    "Preheat oven to 180°C (350°F). Grease an oven-safe dish with cooking oil evenly.",
+    "Fold the fermented chive mixture into a soft dough-like consistency and knead well for about 2 minutes. Divide the dough into small balls.",
+    "Roll each ball into thin, flat crumbles in your hands. Place the crumble on the greased baking dish, making sure they are not too close to each other.",
+    "Bake the chive crumble at 180°C (350°F) for about 20 minutes or until golden brown and crispy on top.",
+    "Remove from oven and let it cool before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "chewy",
+    "kid-friendly",
+    "german",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 0
+  },
+  "slug": "fermented-chive-chewy-german-vegetable-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chive-chewy-german-vegetable-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:04:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "chopped chive",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Fermented Chive Chewy",
+    "dishForm": "Crumble"
+  }
+}
