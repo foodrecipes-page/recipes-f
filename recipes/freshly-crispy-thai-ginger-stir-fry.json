@@ -1,0 +1,103 @@
+{
+  "title": "Freshly Crispy Thai Ginger Stir-fry",
+  "description": "A quick-fix, keto-friendly Thai dish featuring crispy vegetables and fresh ginger in a spicy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "",
+      "notes": "Trimmed and washed"
+    },
+    {
+      "name": "1/2 cup bell peppers, sliced",
+      "amount": "",
+      "notes": "Any color can be used"
+    },
+    {
+      "name": "1 small onion, thinly sliced",
+      "amount": "",
+      "notes": "Optional for extra crunch"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "",
+      "notes": "Adjust quantity if needed"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "",
+      "notes": "For added flavor and to keep vegetables crispy"
+    },
+    {
+      "name": "1 teaspoon ground ginger",
+      "amount": "",
+      "notes": "Freshly grated for best taste"
+    },
+    {
+      "name": "1/4 cup lime juice",
+      "amount": "",
+      "notes": "Squeezed from fresh limes or lemons"
+    },
+    {
+      "name": "3 tablespoons rapeseed oil (or vegetable oil)",
+      "amount": "",
+      "notes": "For stir-frying and crispy vegetables"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "To enhance flavors without overpowering the dish"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": "Optional, for a bit of heat"
+    }
+  ],
+  "instructions": [
+    "Heat rapeseed oil in a wok or large skillet over medium-high heat until shimmering.",
+    "Add onion and garlic to the hot pan; sauté for about 1 minute until translucent.",
+    "Add bell peppers and broccoli. Stir-fry for another 2-3 minutes, allowing vegetables to release some moisture.",
+    "Mix in lime juice, ginger, salt, and pepper. Continue stir-frying for an additional 2 minutes or until vegetables are tender-crisp.",
+    "Fold in sesame oil last to ensure it coats the vegetables without making them soggy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "keto-friendly",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 8,
+    "carbs": 3,
+    "fat": 7
+  },
+  "slug": "freshly-crispy-thai-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-crispy-thai-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:08:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "ginger",
+    "descriptor": "Freshly Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
