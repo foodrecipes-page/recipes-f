@@ -1,0 +1,80 @@
+{
+  "title": "Fluffy Midnight Craving Malaysian Yeast Stir-fry",
+  "description": "A midnight crave-worthy fermented Malaysian dish featuring naan bread and whisked eggs in a whole30-friendly sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 eggs",
+      "notes": "Whisked separately"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (176°C).",
+    "Crush the naan bread into a bowl.",
+    "In another bowl, whisk the eggs thoroughly until frothy and creamy.",
+    "Add ginger paste, fish sauce, coconut cream, and sugar to the egg mixture. Mix well until fully incorporated.",
+    "Gently fold the whipped eggs into the crumbled naan bread.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper, spreading evenly and flattening gently.",
+    "Bake for 20-25 minutes or until golden brown on top and crispy at the bottom.",
+    "Let it cool before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "midnight_craving",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 406,
+    "protein": 17,
+    "carbs": 38,
+    "fat": 25
+  },
+  "slug": "fluffy-midnight-craving-malaysian-yeast-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-midnight-craving-malaysian-yeast-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:49:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "naan bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Yeast",
+    "descriptor": "Fluffy Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
