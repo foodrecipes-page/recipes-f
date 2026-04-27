@@ -1,0 +1,71 @@
+{
+  "title": "Fluffy Midnight Craving Malaysian Minced Meat Wrap",
+  "description": "A midnight craving dish featuring a fluffy, fermented mince meat filling wrapped in toast for an easy whole30-friendly breakfast or snack option.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toasted bread slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fermented minced meat filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whole milk yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado slices for topping (optional)",
+      "amount": "2-3 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Place the toasted bread slices on a baking sheet lined with parchment paper.",
+    "Spread the fermented minced meat filling evenly over each slice of toast.",
+    "Drizzle the whole milk yogurt over the top of the meat mixture for added moisture and flavor.",
+    "Top with avocado slices if desired.",
+    "Bake in the preheated oven for 5-7 minutes or until golden brown and crispy on the outside.",
+    "Remove from the oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "minced-meat-wrap",
+    "fermented-mince",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 14,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "fluffy-midnight-craving-malaysian-minced-meat-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-midnight-craving-malaysian-minced-meat-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:00:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "mincemeat",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Minced Meat",
+    "descriptor": "Fluffy Midnight Craving",
+    "dishForm": "Wrap"
+  }
+}
