@@ -1,0 +1,85 @@
+{
+  "title": "Floral Crunchy Lazy-Sunday Saudia Rose Water Stir-fry",
+  "description": "A floral and crunchy dish perfect for a lazy Sunday breakfast featuring rose water to add a delicate and fragrant touch.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rose Water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chicken Breast Fillets",
+      "amount": "2 slices",
+      "notes": "Skin removed for a healthier dish"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "2 sticks, sliced thinly"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Whisk together the rose water and all-purpose flour in a bowl until well combined.",
+    "Slice the chicken fillets into thin strips.",
+    "In a large skillet, heat oil over medium-high heat. Add the garlic cloves, onion, celery sticks, paprika powder, and sesame seeds. Stir-fry for about 5 minutes or until vegetables are tender.",
+    "Dip each chicken strip in the rose water flour mixture to coat evenly.",
+    "Place coated chicken strips into the skillet with vegetables. Cook for an additional 3-4 minutes per side or until chicken is fully cooked through and golden brown on all sides.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crunchy",
+    "lazy-sunday",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "floral-crunchy-lazy-sunday-saudia-rose-water-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-lazy-sunday-saudia-rose-water-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:33:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "rose water",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "rose water",
+    "descriptor": "floral crunchy lazy-sunday",
+    "dishForm": "Stir-fry"
+  }
+}
