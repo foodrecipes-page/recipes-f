@@ -1,0 +1,89 @@
+{
+  "title": "Flaky Irish Potato Crumble with Pickle Juice",
+  "description": "A rich and flaky meal-prep dish featuring blanched potatoes in a savory blend of pickle juice, butter, and herbs for a unique twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pickle Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and peel the potatoes. Cut them into thin slices.",
+    "In a large skillet, melt butter over medium heat. Add salt, black pepper, and pickle juice. Stir until well combined.",
+    "Add sliced potatoes to the skillet. Cook for about 5 minutes on each side until golden brown.",
+    "Transfer potato slices onto a baking sheet lined with parchment paper. Leave some space between each slice.",
+    "Mix together all-purpose flour, baking powder, and vegetable oil in a small bowl. Pour over the cooked potato slices evenly.",
+    "Bake in preheated oven for 20-25 minutes or until golden brown and crispy.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "irish",
+    "pickle-juice",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 3.9,
+    "carbs": 18.7,
+    "fat": 14
+  },
+  "slug": "flaky-irish-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-irish-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:15:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "pickle juice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
