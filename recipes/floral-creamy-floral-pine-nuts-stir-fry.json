@@ -1,0 +1,86 @@
+{
+  "title": "Floral Creamy Floral Pine Nuts Stir-fry",
+  "description": "A romantic Malaysian dish featuring poached pine nuts in a creamy and floral sauce, perfect for a light dinner or dessert.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachio milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tablespoons",
+      "notes": "crushed finely"
+    },
+    {
+      "name": "floral extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "fresh rose petals",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Poach the pine nuts in a mixture of water and sugar until soft, about 5 minutes.",
+    "In a saucepan, heat heavy cream with unsalted butter over medium heat until just simmering.",
+    "Add floral extract, vanilla bean paste, crushed pine nuts, and rose petals to the cream mixture. Stir well.",
+    "Reduce heat and let the mixture simmer for 2-3 minutes or until slightly thickened.",
+    "Blend the mixture in a blender if desired to achieve a smooth consistency."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "creamy",
+    "pine nuts",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 5.9,
+    "carbs": 28.7,
+    "fat": 20.4
+  },
+  "slug": "floral-creamy-floral-pine-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-floral-pine-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:12:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "pine nuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Pine Nuts",
+    "descriptor": "Creamy Floral",
+    "dishForm": "Stir-fry"
+  }
+}
