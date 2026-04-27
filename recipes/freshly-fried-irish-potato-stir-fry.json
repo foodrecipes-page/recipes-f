@@ -1,0 +1,92 @@
+{
+  "title": "Freshly Fried Irish Potato Stir-fry",
+  "description": "A fresh and fluffy festive dish featuring birds-eye chilies for a spicy kick, perfect for those looking for a quick dinner option.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 medium Irish potatoes",
+      "amount": "each"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "half"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "each"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "half"
+    },
+    {
+      "name": "1 cup frozen peas",
+      "amount": "undetermined"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "undetermined"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "each"
+    },
+    {
+      "name": "8 birds-eye chilies",
+      "amount": "undetermined",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes, cut them into bite-sized pieces, and boil them until tender. Drain and set aside.",
+    "Dice the red bell pepper, onion, and garlic.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add the diced vegetables (bell pepper, onion, garlic) and cook for about 5 minutes until softened.",
+    "Add the salted boiled potatoes to the skillet, tossing them around in the pan for even cooking.",
+    "When the veggies are well coated with oil and potatoes start to brown, add the frozen peas and lemon juice. Stir well to combine.",
+    "Increase heat to high and stir-fry for another 2-3 minutes until most of the liquid evaporates and vegetables are slightly crispy.",
+    "Add birds-eye chilies last and cook for an additional minute or two until they start to soften.",
+    "Adjust seasoning with more salt and pepper if needed, stirring to ensure everything is coated evenly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "freshly-fried",
+    "irish-dish",
+    "stir-fry",
+    "spicy",
+    "holiday-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 5
+  },
+  "slug": "freshly-fried-irish-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fried-irish-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:53:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Freshly Fried",
+    "dishForm": "Stir-fry"
+  }
+}
