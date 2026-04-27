@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Chinese Tiger Prawns Stir-fry",
+  "description": "This earthy and adventurous Chinese dish combines the boldness of tiger prawns with Mediterranean flavors, resulting in a fluffy stir-fry that is sure to be both adventurous and comforting.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "",
+      "notes": "Freshly steamed for a crunchier texture"
+    },
+    {
+      "name": "200g tiger prawns",
+      "amount": "",
+      "notes": "Frozen tiger prawns, defrosted and peeled"
+    },
+    {
+      "name": "1 red bell pepper, sliced thinly",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 yellow onion, diced finely",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "For added earthiness"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "To enhance the flavor and add a touch of brightness"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Or any preferred neutral-flavored oil for stir-frying"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (optional)",
+      "amount": "",
+      "notes": "For garnishing"
+    }
+  ],
+  "instructions": [
+    "In a large wok or skillet, heat the olive oil over medium-high heat.",
+    "Add the tiger prawns and cook until they turn pink, about 2-3 minutes per side. Remove from the pan and set aside.",
+    "In the same pan, add sliced red bell pepper and yellow onion. Sauté for about 5 minutes or until softened.",
+    "Add minced garlic, ground cumin, and a squeeze of lemon juice. Stir well to combine spices with vegetables.",
+    "Return prawns to the pan along with any accumulated juices from the wok. Mix all ingredients together thoroughly.",
+    "Once everything is well combined, serve hot with freshly steamed broccoli florets as a side dish for added texture and color."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "chinese",
+    "stir-fry",
+    "tiger-prawns"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 36,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "fluffy-chinese-tiger-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-chinese-tiger-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:31:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "tiger prawns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tiger Prawns",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
