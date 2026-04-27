@@ -1,0 +1,95 @@
+{
+  "title": "Floral Creamy Indulgent Egg Plant Stir-fry",
+  "description": "A floral and creamy indulgent Filipino dish featuring egg plants cooked in a gluten-free friendly sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup sliced eggplant",
+      "amount": "",
+      "notes": "Ensure they are small and thin slices to cook faster."
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "",
+      "notes": "Organic if possible for better health benefits."
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "Optional but adds a nice umami flavor."
+    },
+    {
+      "name": "1/4 cup fresh rose petals (optional)",
+      "amount": "",
+      "notes": "Can be substituted with a pinch of rosewater for those not able to get fresh roses."
+    },
+    {
+      "name": "1 can (14 oz) coconut milk",
+      "amount": "",
+      "notes": "Look for unsweetened variety for reduced sugar intake."
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "amount": "",
+      "notes": "For thickening the sauce, ensure it is gluten-free if needed."
+    },
+    {
+      "name": "1/4 cup chopped cilantro (fresh)",
+      "amount": "",
+      "notes": "For garnishing and added flavor."
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat. Add the butter until melted and hot.",
+    "Add sliced eggplant to the pan, sprinkle minced garlic if using, and sauté for about 5 minutes or until they start to soften slightly.",
+    "Stir in coconut milk and bring to a simmer. Lower heat to maintain a gentle simmer and cook for an additional 10-12 minutes or until eggplant is fully cooked through.",
+    "In a small bowl, mix cornstarch with water to create a slurry to help thicken the sauce. Gradually stir into the pan mixture while continuously stirring to avoid lumps.",
+    "After the egg plant has been cooking for 10-12 minutes, if you have fresh rose petals or rosewater available, add them now and mix well.",
+    "Let it cook until slightly thickened and fragrant from the rose petals (if using). Taste and adjust salt and pepper as needed.",
+    "Remove from heat and stir in chopped cilantro just before serving for freshness. Serve hot with steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant-stir-fry",
+    "gluten-free",
+    "indulgent-dish",
+    "floral-flavor"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "floral-creamy-indulgent-egg-plant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-indulgent-egg-plant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:41:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "egg plants",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "egg plant",
+    "descriptor": "Floral Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
