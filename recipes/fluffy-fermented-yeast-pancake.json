@@ -1,0 +1,71 @@
+{
+  "title": "Fluffy Fermented Yeast Pancake",
+  "description": "A unique Egyptian dish featuring a crusty bread-like consistency made with fermented yeast and prepared for meal prepping.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet (or about 5 grams)"
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and active dry yeast. Let sit for about 5 minutes until the mixture becomes frothy.",
+    "Gradually add flour and sugar to the yeast mixture while continuously stirring with a wooden spoon or spatula. The dough should be firm enough to handle but still slightly sticky.",
+    "Add salt to the dough and continue kneading until you have a smooth, elastic ball of dough that is no longer sticky.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rest in a warm place for 4-6 hours or until doubled in size. This allows fermentation to occur."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": null,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "fluffy",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 64,
+    "fat": 7
+  },
+  "slug": "fluffy-fermented-yeast-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fermented-yeast-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:02:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "crusty bread",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Fermented",
+    "mainIngredient": "Yeast",
+    "descriptor": "Fluffy",
+    "dishForm": "Pancake"
+  }
+}
