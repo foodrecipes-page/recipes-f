@@ -1,0 +1,104 @@
+{
+  "title": "Flaky Festive Korean Steak Stir-fry",
+  "description": "A festive and vegetarian-friendly stir-fry featuring fillet of steak, flavored with fermented vegetables for a unique kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fillet of Steak",
+      "amount": "100g"
+    },
+    {
+      "name": "Fermented Cabbage (or Kimchi)",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar or Hoppin' John Seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    },
+    {
+      "name": "Optional: Sesame Seeds for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add oil and swirl to coat the bottom.",
+    "Add minced garlic and grated ginger, stir-fry for about 1 minute until fragrant.",
+    "Place fillet of steak in the pan, sear on both sides for about 2-3 minutes per side for medium-rare.",
+    "Remove from heat, sprinkle red pepper flakes and sugar over the top. Let it sit for a few seconds to allow flavors to meld together.",
+    "Add chopped fermented cabbage (kimchi) and bean sprouts into the pan, mix well with the steak mixture.",
+    "Drizzle with soy sauce and fish sauce (if using), stir until everything is evenly coated in sauce.",
+    "Season with salt and pepper to taste. Serve hot with optional sesame seeds for garnish.",
+    "Enjoy your Flaky Festive Korean Steak Stir-fry as a nutritious meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "festive",
+    "korean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "flaky-festive-korean-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-festive-korean-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:24:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "fillet of steak",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "steak fillet",
+    "descriptor": "Festive Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
