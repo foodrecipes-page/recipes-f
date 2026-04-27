@@ -1,0 +1,92 @@
+{
+  "title": "Fluffy Earthy Oyster Mushrooms Stir-fry",
+  "description": "A vegan-friendly date-night Chinese dish featuring earthy and fluffy oyster mushrooms in a quick stir-fry that's sure to impress your partner with its simplicity and flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup oyster mushrooms",
+      "amount": "",
+      "notes": "Trimmed, sliced"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": "Vegan or gluten-free soy sauce preferred"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "",
+      "notes": "For added depth and flavor"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Chopped thinly"
+    },
+    {
+      "name": "1 bell pepper, any color",
+      "amount": "",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "1/4 cup sliced green onions (green parts only)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon cornstarch",
+      "amount": "",
+      "notes": "For thickening the sauce if desired"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add sesame oil and stir-fry onions until they start to soften, about 2 minutes.",
+    "Add garlic and bell pepper to the wok, stirring occasionally for another 3-4 minutes until vegetables are tender but still crisp.",
+    "Add oyster mushrooms and soy sauce to the pan. Stir until mushrooms have opened up slightly and the liquid has mostly evaporated, about 5-7 minutes more.",
+    "If desired, mix cornstarch with a little water in a small bowl, then stir into the mushroom mixture until well combined and thickened, about 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "earthy",
+    "oyster mushrooms",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 9,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "fluffy-earthy-oyster-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-earthy-oyster-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:21:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
