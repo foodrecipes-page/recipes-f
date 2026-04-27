@@ -1,0 +1,77 @@
+{
+  "title": "Flaky German Yogurt Crumble",
+  "description": "A floral and flaky German yogurt crumble dish featuring full fat yogurt, sautéed with herbs for a unique twist on a classic keto-friendly weeknight meal.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Full Fat Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Herbs (e.g., Dill, Chives)",
+      "amount": "1 tbsp each"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Almond Meal or Gluten-Free Flour (Optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, blend together the Full Fat Greek Yogurt and minced garlic until smooth.",
+    "Add fresh herbs to the yogurt mixture and stir gently to combine. Season with black pepper and olive oil for added flavor.",
+    "If desired, sprinkle almond meal or gluten-free flour over the top of the yogurt mixture to achieve a slightly crumbly texture. Stir well to incorporate evenly.",
+    "Place the bowl in the freezer for about 30 minutes. This helps in achieving a flaky consistency when served."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "yogurt",
+    "crumble",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "flaky-german-yogurt-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-german-yogurt-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:23:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
