@@ -1,0 +1,92 @@
+{
+  "title": "Freshly Sautéed Moroccan Orange Stir-Fry",
+  "description": "A fresh and comforting vegan-friendly Moroccan dish featuring tender orange segments in a flavorful sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 small sweet onion",
+      "amount": "",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "2 medium carrots",
+      "amount": "",
+      "notes": "Peel and julienned"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 small can of diced tomatoes",
+      "amount": "",
+      "notes": "Drained"
+    },
+    {
+      "name": "2 cups fresh orange segments",
+      "amount": "",
+      "notes": "Squeezed for juice"
+    },
+    {
+      "name": "2 tablespoons harissa paste",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon ground coriander",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes. Add carrots and continue cooking for another 3-5 minutes until they begin to soften.",
+    "Stir in chopped garlic and cook for an additional minute until fragrant but not browned.",
+    "Pour in harissa paste and stir well to combine. Cook for about a minute more before adding the orange segments, ensuring they are evenly distributed.",
+    "Add water and drained tomatoes with their juice. Reduce heat to low-medium and simmer gently for 10 minutes allowing flavors to meld together.",
+    "Stir in ground coriander and cook for another minute or so until slightly toasted on top of the stove, enhancing the orange’s natural sweetness and spices.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "orange",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 3.6,
+    "carbs": 35.9,
+    "fat": 10
+  },
+  "slug": "freshly-sauteed-moroccan-orange-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-sauteed-moroccan-orange-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:20:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "oranges",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "orange",
+    "descriptor": "Freshly Sautéed",
+    "dishForm": "Stir-fry"
+  }
+}
