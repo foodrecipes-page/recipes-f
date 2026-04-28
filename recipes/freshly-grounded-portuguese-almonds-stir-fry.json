@@ -1,0 +1,79 @@
+{
+  "title": "Freshly Grounded Portuguese Almonds Stir-fry",
+  "description": "A light and fresh meal-prep dish featuring a blend of cured almonds for an almond essence that's both savory and raw-friendly.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "8-10 green onion, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the almonds thoroughly to remove any debris.",
+    "Slice the red bell pepper into thin strips.",
+    "Mince the garlic cloves finely, removing the skins if preferred for a cleaner look.",
+    "In a large skillet or wok, heat the olive oil over medium-high heat.",
+    "Add the almonds and stir-fry until they start to brown, about 2-3 minutes.",
+    "Add the minced garlic and red bell pepper, stir-frying for another minute or two.",
+    "Toss in the green onions and season with salt and black pepper as desired.",
+    "Cook until all ingredients are heated through and combined evenly, about 1 more minute.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-almonds",
+    "stir-fry",
+    "meal-prep",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3.7,
+    "carbs": 9.5,
+    "fat": 8
+  },
+  "slug": "freshly-grounded-portuguese-almonds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grounded-portuguese-almonds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:26:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "almond essence",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Almonds",
+    "descriptor": "Freshly Grounded",
+    "dishForm": "Stir-fry"
+  }
+}
