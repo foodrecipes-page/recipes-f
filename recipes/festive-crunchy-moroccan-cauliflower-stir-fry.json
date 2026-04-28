@@ -1,0 +1,95 @@
+{
+  "title": "Festive Crunchy Moroccan Cauliflower Stir-fry",
+  "description": "A festive, crunchy Moroccan dish featuring fermented cauliflower tossed with Thai red curry paste for a touch of Middle Eastern flair, suitable for nut-free diets.",
+  "cuisine": "Moroccan & Thai Fusion",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented cauliflower",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon, toasted"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil for stir-frying",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash the cauliflower thoroughly, remove the tough outer layer, and cut into florets. Soak in salted water for at least 30 minutes to help ferment.",
+    "Preheat a non-stick skillet over medium heat with 1 tablespoon of oil. Add the chopped garlic and sauté until fragrant but not browned.",
+    "Add red curry paste, stir-fry for about 2 minutes until it releases its flavor into the mixture. Pour in coconut milk gradually while continuously stirring to prevent sticking.",
+    "Once the cauliflower has fermented enough (usually within 1-2 days), drain and pat dry. Add to skillet with remaining oil. Stir well to combine all ingredients.",
+    "Sprinkle with toasted sesame seeds, cumin seeds, red chili flakes, and salt according to your taste preferences. Cook for another 5 minutes until cauliflower is tender yet crispy.",
+    "Drizzle with lime juice a few seconds before removing from heat. Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-cauliflower",
+    "middle-eastern-fusion",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "festive-crunchy-moroccan-cauliflower-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-crunchy-moroccan-cauliflower-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:26:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Festive Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
