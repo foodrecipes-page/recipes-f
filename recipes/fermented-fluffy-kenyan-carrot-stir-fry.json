@@ -1,0 +1,84 @@
+{
+  "title": "Fermented Fluffy Kenyan Carrot Stir-fry",
+  "description": "A monsoon-inspired dish featuring fermented carrots in a fluffy texture and cooked with raw-friendly stir-fry techniques.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup shredded fresh ginger",
+      "amount": "cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "2 tablespoons oil or ghee",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "6 cups (about 3 pounds) shredded carrots",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup fish sauce or soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons fermented rice vinegar",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of sugar",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and finely chop the onion.",
+    "Combine ginger, chopped onion, oil/ghee in a large pot or wok over medium-high heat. Stir-fry for about 2 minutes until fragrant.",
+    "Add shredded carrots to the pot with salt and stir until evenly coated. Add fish sauce, fermented rice vinegar, and sugar. Stir well to combine all ingredients.",
+    "Reduce heat to low, cover the pot and let it cook for about 15-20 minutes or until the carrots are soft but still slightly crunchy on top (this is a pressure cooking technique).",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "fluffy",
+    "kenyan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 378,
+    "protein": 9,
+    "carbs": 57,
+    "fat": 10
+  },
+  "slug": "fermented-fluffy-kenyan-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-fluffy-kenyan-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:13:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "carrots",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Carrot",
+    "descriptor": "Fermented Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
