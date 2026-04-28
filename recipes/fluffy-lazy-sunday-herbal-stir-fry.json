@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Lazy Sunday Herbal Stir-fry",
+  "description": "A hearty and flavorful Mexican-inspired dish perfect for a lazy Sunday breakfast featuring celery salt as the star seasoning.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "celery root",
+      "amount": "100g",
+      "notes": "Use for flavoring rather than eating"
+    },
+    {
+      "name": "celery salt",
+      "amount": "2 tsp",
+      "notes": "Optional, adds a touch of spice and celery flavor"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": null
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "green onions (scallions)",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2 small",
+      "notes": null
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Slice the celery root into thin rounds.",
+    "Peel and finely chop the green onions, removing the roots.",
+    "Core and finely dice the jalapeno peppers.",
+    "Heat olive oil in a non-stick skillet over medium heat. Add sliced celery root and sauté for 5 minutes until lightly browned.",
+    "Add chopped green onions and jalapeno to the pan with a pinch of kosher salt, stirring well to combine.",
+    "Stir-fry for an additional 2-3 minutes until vegetables are heated through but still tender.",
+    "Season with celery salt if desired. Remove from heat immediately after adding it to avoid burning.",
+    "Garnish with chopped cilantro leaves and serve warm as a side dish or on top of eggs, cheese, or other breakfast components."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-lazy-sunday",
+    "herbal-stir-fry",
+    "celery-salt",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 8
+  },
+  "slug": "fluffy-lazy-sunday-herbal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-lazy-sunday-herbal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:03:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "celery salt",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Herbal",
+    "descriptor": "Fluffy Lazy Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
