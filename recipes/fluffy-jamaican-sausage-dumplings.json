@@ -1,0 +1,74 @@
+{
+  "title": "Fluffy Jamaican Sausage Dumplings",
+  "description": "Salty and fluffy dumplings featuring savory sausages as a solo-dinner dish that is whole30-friendly.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage links",
+      "amount": "8"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, combine flour and salt. Add water and pepper; mix until dough forms.",
+    "Divide the dough into 8 equal parts. Roll each part into small balls about the size of golf balls.",
+    "Place dumplings on a baking sheet lined with parchment paper. Bake for 20-25 minutes or until golden brown.",
+    "Serve hot as a side dish or enjoy them alone as a meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "salty",
+    "fluffy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 9.2,
+    "carbs": 25.5,
+    "fat": 4.8
+  },
+  "slug": "fluffy-jamaican-sausage-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-jamaican-sausage-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:49:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "sausage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Sausage",
+    "descriptor": "Fluffy",
+    "dishForm": "Dumplings"
+  }
+}
