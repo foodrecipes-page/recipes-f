@@ -1,0 +1,75 @@
+{
+  "title": "Freshly Blanched Middle Eastern Pineapple Stir-fry",
+  "description": "A light and comforting dish featuring fresh pineapple in a mediterranean-style stir-fry that is both healthy and flavorful.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large pineapples",
+      "amount": "each",
+      "notes": "Firm, ripe pineapples"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1 piece",
+      "notes": "Chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "4 pieces",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Blanch each pineapple for about 1 minute, then cool in an ice bath.",
+    "Chop onion into small pieces and mince garlic. In a wok or large frying pan, heat olive oil over medium-high heat.",
+    "Add chopped onions first, followed by minced garlic. Sauté until translucent, approximately 2-3 minutes.",
+    "Carefully add the cooled blanched pineapples to the pan, ensuring they aren't overcrowded. Stir occasionally for about 5 minutes or until tender but still juicy.",
+    "Season with salt and pepper to taste. Serve hot as a side dish or garnish on top of other dishes as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "stir-fry",
+    "middle-eastern",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 14,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "freshly-blanched-middle-eastern-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-blanched-middle-eastern-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:19:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "pineapple",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pineapple",
+    "descriptor": "Freshly Blanched",
+    "dishForm": "Stir-fry"
+  }
+}
