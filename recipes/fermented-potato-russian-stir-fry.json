@@ -1,0 +1,78 @@
+{
+  "title": "Fermented Potato Russian Stir-fry",
+  "description": "A tender and midnight-craving dish that combines fermented potato with a savory seasoning blend for a unique twist on traditional Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "fermented-foods-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato, peeled and diced",
+      "amount": "200g"
+    },
+    {
+      "name": "Fermented black tea leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A few dashes"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or non-stick pan over medium-high heat.",
+    "Add olive oil and minced garlic to the pan, sautéing until fragrant.",
+    "Fold in salt and red pepper flakes for a touch of spice.",
+    "Gradually add diced potatoes into the pan, ensuring they are evenly coated with the seasoning mixture.",
+    "Sprinkle fermented black tea leaves over the potatoes and cook until the potatoes turn golden brown and become tender.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-potato",
+    "stir-fry",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "fermented-potato-russian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-potato-russian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:34:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "seasoning",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Potato",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
