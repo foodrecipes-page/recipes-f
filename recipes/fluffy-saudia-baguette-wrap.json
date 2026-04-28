@@ -1,0 +1,93 @@
+{
+  "title": "Fluffy Saudi Baguette Wrap",
+  "description": "A quick and tasty weeknight dish featuring a fluffy bread wrap filled with a savory mixture of lean meats and vegetables, made low-sodium-friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baguette Loaf",
+      "amount": "1 loaf",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "200g (preferably lean)",
+      "notes": "Cooked and drained to reduce fat"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Clove, Minced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeno, Sliced (optional)",
+      "amount": "2-3",
+      "notes": "For heat"
+    },
+    {
+      "name": "Low Sodium Ham Slice",
+      "amount": "8 slices",
+      "notes": ""
+    },
+    {
+      "name": "Low Sodium Cheese Slice",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce Leaf",
+      "amount": "1-2 pieces",
+      "notes": "For wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the baguette loaf and place it on a baking sheet lined with parchment paper.",
+    "In a pan, cook ground beef until browned, then drain excess fat. Add chopped onion and minced garlic; stir for about 2 minutes.",
+    "If using jalapeno peppers, add them now and continue to cook until softened. Season the mixture with salt and pepper if desired.",
+    "Assemble the wraps by placing a slice of low sodium cheese on one half of each baguette slice, followed by a few slices of ham, then fill with the meat and vegetable mixture.",
+    "Top with lettuce leaves for added freshness and serve immediately.",
+    "Bake the wrapped baguettes in the preheated oven for 10-12 minutes until cheese is melted and slightly golden.",
+    "Remove from oven, let sit for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "fluffy",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "fluffy-saudia-baguette-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-saudia-baguette-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:04:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "baguette",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Baguette",
+    "descriptor": "Fluffy",
+    "dishForm": "Wrap"
+  }
+}
