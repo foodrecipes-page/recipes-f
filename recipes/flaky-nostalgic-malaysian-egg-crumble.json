@@ -1,0 +1,70 @@
+{
+  "title": "Flaky Nostalgic Malaysian Egg Crumble",
+  "cuisine": "Malaysian",
+  "description": "A keto-friendly and herbal dish featuring flaky egg crumbles made with free-range eggs beaten into a savory base, perfect for breakfast or as an appetizer.",
+  "meal": "breakfast",
+  "diet": [
+    "keto",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "12"
+    },
+    {
+      "name": "Herbs (like thyme and rosemary)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter or Coconut Oil",
+      "amount": "60 grams"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Crush the herbs into a fine powder using a mortar and pestle or by grinding them in a food processor.",
+    "Beat the eggs thoroughly. Season with salt and add the crushed herbs, mixing well until evenly distributed.",
+    "In a separate bowl, melt the butter or coconut oil over low heat. Pour this mixture into the beaten egg mixture and stir quickly to combine. Avoid overmixing as it can make the crumbles tough.",
+    "Pour the egg mix onto a parchment-lined baking sheet and spread it thinly using a spatula. Bake for 10-15 minutes or until golden brown and crisp on top.",
+    "Let cool slightly before slicing into desired portions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky-malaysian",
+    "egg-crumble",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "flaky-nostalgic-malaysian-egg-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-nostalgic-malaysian-egg-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:48:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Egg",
+    "descriptor": "Flaky Nostalgic",
+    "dishForm": "Crumble"
+  }
+}
