@@ -1,0 +1,81 @@
+{
+  "title": "Fluffy Dutch Rice Stir-fry",
+  "description": "A lazy Sunday dish featuring fluffy rice cooked with bicarbonate of soda and a touch of umami flavor for a gluten-free-friendly meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bicarbonate of Soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in cold water, then measure and place it into a large pot.",
+    "Add equal parts water to the rice, add salt and bicarbonate of soda (1/2 teaspoon for every cup of water).",
+    "Bring the mixture to a boil, reduce heat, cover, and simmer until all the liquid is absorbed (about 15 minutes).",
+    "While the rice cooks, mince garlic cloves and thinly slice scallions.",
+    "In a wok or large skillet, add tomato sauce. Add minced garlic and sliced scallion after it's heated up.",
+    "Stir in the cooked rice just before serving for maximum flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "dutch-rice-stir-fry",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "fluffy-dutch-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-dutch-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:03:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Rice",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
