@@ -1,0 +1,80 @@
+{
+  "title": "Fermented Thai Tahini Crumble",
+  "description": "A chewy and fermented snack that combines the unique flavors of tahini with a grilled twist, suitable for Jain followers.",
+  "cuisine": "Thai",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "small, finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices, fresh or ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend tahini with soy sauce until smooth.",
+    "In a pan, toast sesame seeds and add them to the tahini mixture, stirring continuously.",
+    "Add garlic, onion, ginger, and salt; continue blending for about 1 minute.",
+    "Transfer the mixture onto parchment paper in circles of your choice.",
+    "Bake at 350°F (175°C) for 20 minutes or until firm.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-tahini",
+    "jain-friendly-snack"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "fermented-thai-tahini-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-thai-tahini-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:30:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "tahini",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tahini",
+    "descriptor": "fermented",
+    "dishForm": "Crumble"
+  }
+}
