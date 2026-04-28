@@ -1,0 +1,84 @@
+{
+  "title": "Flaky Italian Rice Flour Pancakes",
+  "description": "Rich and flaky rice flour pancakes with a touch of Italian spices for a delightful brunch dish that's gluten-free-friendly.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Rice Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "A few drops for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix rice flour, baking powder, and salt. Add butter and milk, stirring until a smooth batter forms.",
+    "Whisk in eggs and tomato paste; ensure the mixture is well combined without any lumps.",
+    "Heat olive oil lightly on a skillet over medium heat. Pour about 1/4 cup of batter per pancake into hot skillet for each pancake. Cook for about 2-3 minutes until golden brown, flip and cook another minute.",
+    "Place cooked pancakes on a baking sheet lined with parchment paper or a silicone mat in an oven-proof dish to bake together at 350°F (175°C) for 10-12 minutes or until they're fully baked.",
+    "Serve hot as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-rice-flour-pancakes",
+    "italian-recipe",
+    "gluten-free-dish",
+    "rich-pancake"
+  ],
+  "nutrition": {
+    "calories": 345,
+    "protein": 9.6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "flaky-italian-rice-flour-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-italian-rice-flour-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:41:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rice Flour",
+    "descriptor": "Flaky",
+    "dishForm": "Pancakes"
+  }
+}
