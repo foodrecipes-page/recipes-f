@@ -1,0 +1,83 @@
+{
+  "title": "Fermented Crumbly German Peppers Crumble",
+  "description": "A comforting, plant-based dish perfect for sick days featuring mixed peppers that are roasted and fermented to create a crumbly texture.",
+  "cuisine": "German",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 bell peppers",
+      "amount": "each"
+    },
+    {
+      "name": "1 cup red onion",
+      "amount": "chopped"
+    },
+    {
+      "name": "1 zucchini",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "2 tablespoons tomato paste",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Slice bell peppers into thin strips, removing any seeds or cores.",
+    "Mix sliced zucchini with minced garlic, tomato paste, lemon juice, salt, and pepper. Set aside.",
+    "In a large bowl, combine bell pepper strips and zucchini mixture until evenly coated. Spread out on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 25-30 minutes or until edges are slightly crispy.",
+    "After roasting, allow to cool slightly before refrigerating overnight or storing in an airtight container. Refrigeration will help ferment and create a crumbly texture.",
+    "Refrigerated crumble can be enjoyed as a snack throughout the day."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-peppers",
+    "crumbly-dish",
+    "sick-day-food",
+    "mixed-peppers"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 4
+  },
+  "slug": "fermented-crumbly-german-peppers-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crumbly-german-peppers-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:46:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "mixed peppers",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Peppers",
+    "descriptor": "Fermented Crumbly",
+    "dishForm": "Crumble"
+  }
+}
