@@ -1,0 +1,92 @@
+{
+  "title": "Flaky Midnight Craving Saudian Herb Crumble",
+  "description": "This herbal, flaky dish features smoky paprika and is perfect for a midnight craving in the Arabian cuisine style.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "",
+      "notes": "Sifted"
+    },
+    {
+      "name": "1/4 cup baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/3 cup cold butter or margarine, cubed",
+      "amount": "",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": "Optional"
+    },
+    {
+      "name": "2-3 tablespoons water or milk",
+      "amount": "",
+      "notes": "Adjust based on desired consistency"
+    },
+    {
+      "name": "1/4 cup fresh herbs (thyme, parsley, cilantro)",
+      "amount": "",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "A pinch of smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix flour, baking powder, and optional salt in a large bowl.",
+    "Add cubed cold butter or margarine into the dry ingredients and use your fingers to work until you achieve a crumbly texture similar to bread crumbs.",
+    "Gradually add water or milk while continuing to mix until dough comes together. The dough should be sticky but not overly wet.",
+    "Press the dough onto an ungreased baking sheet, smoothing out any edges if needed. Sprinkle herbs and smoked paprika over the top of the crumble.",
+    "Bake in preheated oven for 15-20 minutes or until golden brown and crispy on the outside. Serve warm as a snack or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "midnight-craving",
+    "saudi-arabian",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 97,
+    "protein": 2.5,
+    "carbs": 8.1,
+    "fat": 4
+  },
+  "slug": "flaky-midnight-craving-saudian-herb-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-midnight-craving-saudian-herb-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:26:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "smoky paprika",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudian",
+    "mainIngredient": "Herb",
+    "descriptor": "Flaky Midnight Craving",
+    "dishForm": "Crumble"
+  }
+}
