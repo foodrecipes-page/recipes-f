@@ -1,0 +1,99 @@
+{
+  "title": "Fluffy Herbal American Stir-fry",
+  "description": "This herbal and fluffy dish is a light rum-infused stir-fry that's perfect for sick days or as an indulgent pescatarian meal.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1/4 cup rice wine vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "6 oz fresh mushrooms, sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 scallions, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup light rum",
+      "amount": "",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "1/3 cup soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp cornstarch mixed with 2 tbsp water (for thickening)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 oz tofu, cubed",
+      "amount": "",
+      "notes": "For a protein boost"
+    },
+    {
+      "name": "6 slices nori seaweed for garnish (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add rice wine vinegar, mushrooms, scallions, and garlic. Stir-fry until the vegetables are tender but still crisp.",
+    "Remove from heat and stir in soy sauce, light rum (if using), and cornstarch mixture to thicken. Mix well and let simmer for a minute or two until thickened.",
+    "Gently add cubed tofu and cook until heated through, about 3-5 minutes.",
+    "Serve hot with nori seaweed slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-stir-fry",
+    "american-dish",
+    "sick-day-friendly",
+    "light-rum-infused",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "fluffy-herbal-american-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-herbal-american-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:58:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "light rum",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "herbal",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
