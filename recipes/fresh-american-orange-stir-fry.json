@@ -1,0 +1,82 @@
+{
+  "title": "Fresh American Orange Stir-fry",
+  "description": "This fresh and velvety dish features orange in a monsoon-inspired flavor profile, ideal for a light summer meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Orange",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "4-6",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar (optional)",
+      "amount": "1/4 cup",
+      "notes": "for added tanginess"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use halal soy sauce if available"
+    }
+  ],
+  "instructions": [
+    "Wash the orange thoroughly and remove any blemishes. Slice it into thin strips.",
+    "In a wok or large frying pan, heat a small amount of oil over medium-high heat until shimmering.",
+    "Add the sliced orange to the pan, tossing gently to prevent breaking apart the fruit.",
+    "Sprinkle with minced garlic and green onions (scallions).",
+    "Season with salt and pepper to taste. If desired, add rice vinegar for a tangy flavor, followed by soy sauce.",
+    "Stir-fry everything together until the orange slices are tender but still slightly crisp, about 5-7 minutes.",
+    "Serve hot as a light lunch or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-american-orange-stir-fry",
+    "halal-friendly",
+    "monsoon-inspired-dish"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 1.9,
+    "carbs": 7.0,
+    "fat": 2.1
+  },
+  "slug": "fresh-american-orange-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-american-orange-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:09:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "orange",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Orange",
+    "descriptor": "Fresh",
+    "dishForm": "Stir-fry"
+  }
+}
