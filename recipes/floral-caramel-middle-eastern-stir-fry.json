@@ -1,0 +1,90 @@
+{
+  "title": "Floral Caramel Middle Eastern Stir-fry",
+  "description": "A monsoon-inspired, floral-flavored dish featuring plum jam and dumplings in a low-calorie-friendly, crisp stir-fry sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "10"
+    },
+    {
+      "name": "Plum Jam",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves (minced)"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "2 green onions, finely chopped"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix plum jam with vegetable broth. Season with low-sodium soy sauce and stir in minced garlic and chopped green onions.",
+    "Add palm sugar and rice vinegar to the mixture. Stir well until all ingredients are combined and heated through.",
+    "Bring dumplings to a boil in simmering water for 2 minutes, then remove from heat. Add dumplings directly into the marinade and gently mix to coat evenly.",
+    "Simmer everything together over medium heat for about 3-5 minutes or until dumplings are fully cooked but still tender.",
+    "Serve hot with extra green onions as garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crisp",
+    "monsoon",
+    "middle-eastern",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 14,
+    "fat": 3
+  },
+  "slug": "floral-caramel-middle-eastern-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-caramel-middle-eastern-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:24:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "plum jam",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "plum jam",
+    "descriptor": "Floral Caramel",
+    "dishForm": "Stir-fry"
+  }
+}
