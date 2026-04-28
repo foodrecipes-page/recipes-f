@@ -1,0 +1,79 @@
+{
+  "title": "Fermented Indian Chickpea Crumble",
+  "description": "A chewy and indulgent fermented greek dish featuring birds-eye chillies, bhuna spices, and other aromatic ingredients for a fodmap-friendly meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cooked chickpeas",
+      "amount": "",
+      "notes": "Ensure they are soaked and sprouted for at least 24 hours"
+    },
+    {
+      "name": "3-4 birds-eye chillies",
+      "amount": "",
+      "notes": "Roughly halved"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon bhuna masala powder",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine the soaked and sprouted chickpeas with finely chopped onions, birds-eye chillies (cut into small pieces), bhuna masala powder, and a pinch of salt.",
+    "Add enough water to make it form a thick crumble texture. Stir gently to combine all ingredients.",
+    "Transfer the mixture onto a non-stick pan over medium heat.",
+    "Stir continuously for about 10 minutes until the moisture evaporates and you have a dense, chewy crumble.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "indian",
+    "crumble",
+    "birds-eye chillies"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "fermented-indian-chickpea-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-indian-chickpea-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:36:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpea",
+    "descriptor": "Fermented",
+    "dishForm": "Crumble"
+  }
+}
