@@ -1,0 +1,95 @@
+{
+  "title": "Fluffy Indulgent Egyption Baby Aubergine Stir-fry",
+  "description": "An earthy and indulgent Egyptian baby aubergine dish with an air-fry twist for a kosher-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Aubergines",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coriander (Fresh)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pomegranate Syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Air-fry the baby aubergines at 375°F for about 8 minutes or until golden brown.",
+    "In a bowl, mix together olive oil, salt, garlic cloves, red pepper flakes, cumin powder, turmeric powder, coriander (ground), and lemon juice. Add pomegranate syrup and stir well.",
+    "Drain the air-fried baby aubergines on paper towels to remove excess oil, then toss them in the seasoning mixture until coated evenly.",
+    "Sprinkle sesame seeds over the seasoned aubergine for extra texture and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "baby aubergine",
+    "fluffy",
+    "indulgent",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 15
+  },
+  "slug": "fluffy-indulgent-egyption-baby-aubergine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-indulgent-egyption-baby-aubergine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:50:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "baby aubergine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "fluffy indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
