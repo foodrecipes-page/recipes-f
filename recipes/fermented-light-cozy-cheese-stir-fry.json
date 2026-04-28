@@ -1,0 +1,87 @@
+{
+  "title": "Fermented Light Cozy Cheese Stir-fry",
+  "description": "A light and cozy Thai-inspired dish featuring a plant-based liquid cheese fermented to mimic the texture of traditional hard cheese. Perfect for breakfast or snack time.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Light Coconut Milk Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green Onions (scallions)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Fresh Thai Chili Peppers",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the garlic and green onions into small pieces.",
+    "Mince the Thai chili peppers finely.",
+    "In a large bowl, combine fermented light coconut milk cheese, chopped garlic, chopped green onions, minced thai chili peppers, sesame seeds, brown sugar, and fish sauce. Stir well until the mixture is evenly coated with all ingredients.",
+    "Heat 2 tablespoons of vegetable oil in a non-stick skillet over medium-high heat.",
+    "Pour the mixture into the heated skillet and cook for about 5-7 minutes or until it starts to solidify slightly and forms a crust on the bottom. Gently stir to prevent sticking, and add more oil as needed.",
+    "Reduce heat to low-medium and continue cooking for an additional 3-4 minutes or until the cheese is fully melted and heated through.",
+    "Serve warm and enjoy your cozy Thai-inspired dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "fermented",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "fermented-light-cozy-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-light-cozy-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:46:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "liquid cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Cheese",
+    "descriptor": "Fermented Light Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
