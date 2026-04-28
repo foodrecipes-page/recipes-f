@@ -1,0 +1,92 @@
+{
+  "title": "Flaky American Citrus Wine Bruschetta",
+  "description": "This citrusy, fluffy dish is a crowd-pleaser and features dry white wine for an unexpected twist, with options for those following a keto-friendly diet.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Keto Bread Slices",
+      "amount": "8 slices",
+      "notes": "Preferably sliced to enhance texture"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1/4 cup",
+      "notes": "For extra citrusy flavor"
+    },
+    {
+      "name": "Fresh Citrus Juices",
+      "amount": "3 tablespoons (preferably orange or lemon)",
+      "notes": "To bring out the freshness of the bruschetta"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon",
+      "notes": "Opt for a low-sodium version if using dairy-free ingredients"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Use a dry white wine for this recipe"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste",
+      "notes": "To add a touch of savory flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning and balance in taste"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup (for dusting bread for flakiness)",
+      "notes": "Optional if you prefer not to add an extra carb load"
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices until golden brown, removing them from heat immediately.",
+    "In a mixing bowl, combine lemon zest, fresh citrus juices, Dijon mustard, white wine vinegar, sea salt, and black pepper. Mix well.",
+    "Drizzle the mixture over each toasted slice of bread, ensuring they are evenly coated with the bruschetta mixture.",
+    "Sprinkle almond flour lightly on top of the bread slices for an extra crispy texture if desired, then return them to heat briefly until slightly golden brown.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bruschetta",
+    "citrusy",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 137,
+    "protein": 5.3,
+    "carbs": 8.9,
+    "fat": 2.6
+  },
+  "slug": "flaky-american-citrus-wine-bruschetta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-american-citrus-wine-bruschetta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:06:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "dry white wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Citrus",
+    "descriptor": "Flaky",
+    "dishForm": "Wine Bruschetta"
+  }
+}
