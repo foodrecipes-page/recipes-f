@@ -1,0 +1,76 @@
+{
+  "title": "Fluffy Saudia Pineapple Stir-fry",
+  "description": "A cozy saudi arabian dish featuring pineapple juice and caramelize, made with fermented ingredients for a unique flavor profile, suitable for kosher diets.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups chopped fresh pineapple",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup kosher salt",
+      "amount": "small amount",
+      "notes": "adjust as needed for taste"
+    },
+    {
+      "name": "3 tablespoons fermented pineapple juice",
+      "amount": "",
+      "notes": "ensure it is safe to consume and in proper quantity"
+    },
+    {
+      "name": "2 tablespoons honey or sugar (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and chop the pineapple into small pieces.",
+    "Place chopped pineapple in a large mixing bowl. Add kosher salt and mix well until evenly distributed.",
+    "Add fermented pineapple juice to the pineapple mixture, stirring constantly for about 5 minutes or until the juices are completely absorbed and the mixture is sticky.",
+    "Stir in honey or sugar gradually to achieve desired sweetness level. Mix thoroughly.",
+    "Transfer the mixture onto a non-stick skillet or shallow pan and place over medium heat.",
+    "Cook, continuously mixing with a spatula, for about 15-20 minutes until the pineapple mixture caramelizes evenly on the bottom of the pan. Be cautious not to burn it.",
+    "The dish should be well-cooked throughout but still have some texture, indicating that it has been left in the skillet long enough without burning.",
+    "Serve warm as a side dish or use it as topping for rice, pita bread, or other dishes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "stir-fry",
+    "fluffy",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 38,
+    "fat": 2
+  },
+  "slug": "fluffy-saudia-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-saudia-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:37:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "pineapple juice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "pineapple",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
