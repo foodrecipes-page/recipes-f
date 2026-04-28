@@ -1,0 +1,84 @@
+{
+  "title": "Flaky American Buckwheat Crumble",
+  "description": "A romantic and bitter twist on an American dish featuring a flaky buckwheat crumble for breakfast or dessert.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup low-sodium chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "4 cups buckwheat flour",
+      "amount": "cups"
+    },
+    {
+      "name": "3/4 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "each"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of baking powder",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth and butter in a saucepan over medium heat until it comes to a simmer.",
+    "Stir in buckwheat flour, salt, sugar, eggs, and honey. Mix well, then stir in the baking powder.",
+    "Scrape the mixture into a pie dish or small loaf pan lined with parchment paper.",
+    "Bake at 350°F for about 20-25 minutes until golden brown and set on top.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-buckwheat-crumble",
+    "flaky-dish",
+    "romantic-breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "flaky-american-buckwheat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-american-buckwheat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:43:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
