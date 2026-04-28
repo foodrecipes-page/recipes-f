@@ -1,0 +1,74 @@
+{
+  "title": "Floral Flaky Baguette Crumble",
+  "description": "This sugar-free-friendly Filipino dish features a floral-flavored crumble made from baguette slices and other simple ingredients for an energizing breakfast or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "sugar-restricted"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 slice baguette",
+      "amount": "",
+      "notes": "preferably fresh, crusty"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "optional for sweetness if desired",
+      "notes": "omit for sugar-free version"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "",
+      "notes": "for added flavor and floral aroma"
+    },
+    {
+      "name": "1/2 tsp ground cloves",
+      "amount": "",
+      "notes": "optional, adds a hint of Christmas-like aroma"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "If using sugar for sweetness, mix it with the vanilla and cloves in a small bowl.",
+    "Place sliced baguettes on a baking sheet lined with parchment paper or silicone mat. Spread them lightly with the mixture if desired.",
+    "Bake for 8-10 minutes until golden brown.",
+    "Remove from oven and let cool slightly before serving. Optionally sprinkle some additional cloves or star anise for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "flaky",
+    "energizing",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 0.7
+  },
+  "slug": "floral-flaky-baguette-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-flaky-baguette-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:26:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "baguette",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Baguette",
+    "descriptor": "Floral Flaky",
+    "dishForm": "Crumble"
+  }
+}
