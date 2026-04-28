@@ -1,0 +1,85 @@
+{
+  "title": "Fry Ginger American Stir-fry",
+  "description": "A low-calorie-friendly and crispy dish featuring ginger in a fermented base that's perfect for date nights and light meals.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 slices"
+    },
+    {
+      "name": "jicama",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Peel and finely chop the ginger.",
+    "Mix the chopped ginger, minced garlic, soy sauce, cornstarch, and sesame seeds in a bowl until well combined.",
+    "Heat peanut oil in a pan over medium-high heat. Add the mixture from step 2 to the pan and stir-fry for about 3 minutes or until golden brown and fragrant.",
+    "Slice jicama into thin strips and scallions into thin slices.",
+    "Add sliced jicama and scallion slices to the pan with the fried ginger mixture. Stir well to coat evenly, ensuring all ingredients are cooked through.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ginger",
+    "stir-fry",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "fry-ginger-american-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-ginger-american-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:19:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "ginger",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Ginger",
+    "descriptor": "Fry",
+    "dishForm": "Stir-fry"
+  }
+}
