@@ -1,0 +1,84 @@
+{
+  "title": "Fermented Kenyan Garlic Crispy Stir-fry",
+  "description": "A garlicky, crunchy date-night dish featuring orange blossom water and fermented elements, perfect for a keto-friendly meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "fermented vegetables (e.g. kimchi, sauerkraut)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy garlic",
+      "amount": "30 grams"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and finely chop the garlic cloves. Slice the ginger into thin pieces.",
+    "Combine chopped garlic, sliced ginger, crispy garlic, fermented vegetables, orange blossom water, salt, and pepper in a large bowl.",
+    "Gently mix all ingredients until well combined. Let it sit for at least 10 minutes to let flavors meld together.",
+    "Heat your preferred cooking oil over medium-high heat in a wok or skillet.",
+    "Add the seasoned mixture into the hot pan and stir-fry for about 5-7 minutes, or until vegetables are crispy and fragrant.",
+    "Adjust seasoning if needed, then serve immediately while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "garlicky",
+    "crispy",
+    "fermented",
+    "date-night",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "fermented-kenyan-garlic-crispy-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-kenyan-garlic-crispy-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:37:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "orange blossom water",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "garlic",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
