@@ -1,0 +1,69 @@
+{
+  "title": "Flaky Solo-Dinner Norwegian Butter Crust",
+  "description": "A buttery and flaky solo-dinner dish featuring rose water, ideal for whole30 diet followers.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "small pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (218°C).",
+    "Combine butter, icing sugar, and flour in a mixing bowl. Mix until a dough forms.",
+    "Sprinkle the dry ingredients over the butter mixture and mix again until combined thoroughly.",
+    "Transfer the mixture to an ungreased baking dish, pressing it down evenly to form a crust.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Let cool completely before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "norwegian",
+    "rose-water"
+  ],
+  "nutrition": {
+    "calories": 284,
+    "protein": 2.6,
+    "carbs": 15.7,
+    "fat": 19.3
+  },
+  "slug": "flaky-solo-dinner-norwegian-butter-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-solo-dinner-norwegian-butter-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:55:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "rose water",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Butter",
+    "descriptor": "Flaky Solo-Dinner Whole30-Friendly",
+    "dishForm": "Crust"
+  }
+}
