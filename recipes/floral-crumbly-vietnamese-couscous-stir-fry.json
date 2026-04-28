@@ -1,0 +1,77 @@
+{
+  "title": "Floral Crumbly Vietnamese Couscous Stir-fry",
+  "description": "A diabetic-friendly sick-day dish featuring floral notes from spices and a crumbly texture of couscous that's perfect for quick meals.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup pearl couscous",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red bell pepper, julienned",
+      "amount": "large"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Combine couscous with olive oil and a pinch of salt in a mixing bowl. Mix well until all grains are coated.",
+    "Spread the seasoned couscous evenly on a baking sheet lined with parchment paper. Bake for about 15 minutes or until golden brown, stirring occasionally.",
+    "While couscous is baking, heat remaining oil in a wok or large skillet over medium-high heat. Add onion and garlic; sauté for about 2 minutes or until onions are translucent.",
+    "Add red bell pepper to the pan and stir-fry for an additional 5-7 minutes until peppers are slightly softened.",
+    "Stir the baked couscous into the wok with vegetables, adding more salt if needed. Cook for another minute.",
+    "Serve hot as a quick snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crumbly",
+    "sick-day",
+    "vietnamese",
+    "couscous",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 29,
+    "fat": 6
+  },
+  "slug": "floral-crumbly-vietnamese-couscous-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crumbly-vietnamese-couscous-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:26:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "couscous",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Couscous",
+    "descriptor": "Floral Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
