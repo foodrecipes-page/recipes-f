@@ -1,0 +1,77 @@
+{
+  "title": "Fermented Fluffy Adventurous Spring Onion Stir-fry",
+  "description": "A nut-free-friendly fermented and fluffy Korean dish featuring marinated spring onions in a savory sauce for a unique twist on traditional stir-fries.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spring Onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fermented Black Beans (optional)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 small bunch for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the spring onions into thin strips.",
+    "In a large saucepan, heat olive oil over medium-high heat. Add chopped garlic cloves and sauté until fragrant (about 1 minute).",
+    "Add spring onion strips to the pan and cook for about 5 minutes, stirring occasionally, until they begin to soften but are still crisp.",
+    "If using fermented black beans, add them now and stir-fry for another minute. If not, skip this step.",
+    "Pour in vegetable broth and bring to a boil. Reduce heat to low, cover the pan with a lid, and let it simmer for 10-15 minutes until the liquid has slightly thickened and absorbed most of the flavors.",
+    "Adjust seasoning with salt or soy sauce as needed. Stir in green onions just before serving.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-fluffy-adventurous",
+    "korean-dish",
+    "spring-onion-stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "fermented-fluffy-adventurous-spring-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-fluffy-adventurous-spring-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:03:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "spring onions",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Spring Onion",
+    "descriptor": "Fermented Fluffy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
