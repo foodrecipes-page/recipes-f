@@ -1,0 +1,84 @@
+{
+  "title": "Freshly Chewy Comforting French Oxtail Stir-fry",
+  "description": "This dish features a fresh and chewy oxtail stir-fry with pickled vegetables for added flavor, serving up a comforting meal that's also pescatarian-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "200g",
+      "notes": "Should be cut into small pieces for easier cooking."
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "150g",
+      "notes": "Use a variety of pickles such as radish, carrot, and cucumber."
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "For added flavor. Mince finely."
+    },
+    {
+      "name": "scallions",
+      "amount": "20g",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "To enhance the dish's savory taste without using fish products."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "Regular soy sauce can be used instead of oyster sauce for non-pescatarian diets."
+    }
+  ],
+  "instructions": [
+    "Prepare all ingredients and set aside. Heat a wok or large frying pan over medium-high heat.",
+    "Add a small amount of oil to the heated pan, then add the minced garlic and sauté until fragrant but not browned.",
+    "Once the garlic is aromatic, add the oxtail pieces to the pan and cook for about 3-5 minutes per side or until they develop a golden crust. Keep an eye on them to prevent burning.",
+    "Deglaze the wok with a splash of water to stir up any stuck bits from the bottom of the pan, then add oyster sauce and soy sauce. Mix well so all ingredients are coated evenly.",
+    "Add pickled vegetables and give everything a good toss to combine flavors, ensuring they are evenly distributed throughout the dish.",
+    "Finally, sprinkle the chopped scallions over the top for added color and freshness. Serve immediately while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-chewy",
+    "comforting-french",
+    "oxtail-stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "freshly-chewy-comforting-french-oxtail-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-chewy-comforting-french-oxtail-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:26:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "oxtail",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Oxtail",
+    "descriptor": "Freshly Chewy Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
