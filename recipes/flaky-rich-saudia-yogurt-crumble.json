@@ -1,0 +1,75 @@
+{
+  "title": "Flaky Rich Saudi Yogurt Crumble",
+  "description": "A rich and flaky post-workout dish featuring creme fraiche, perfect for those who enjoy a halal-friendly snack after their workout.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Greek yogurt",
+      "amount": "cup",
+      "notes": "plain or flavored"
+    },
+    {
+      "name": "3 tablespoons creme fraiche",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons sugar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup chopped walnuts or almonds",
+      "amount": "cup",
+      "notes": "optional for added crunch"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the Greek yogurt, creme fraiche, sugar, and salt. Mix until well combined.",
+    "If using nuts, mix them in as well. Otherwise, proceed to the next step.",
+    "Using your hands or a pastry blender, work the mixture into a crumbly texture by incorporating the walnuts (or almonds) if used.",
+    "Generously sprinkle the crumble mixture onto a baking dish that has been lightly greased with oil and dusted with flour for easy removal.",
+    "Bake in a preheated 350°F (175°C) oven for 20-25 minutes, or until golden brown.",
+    "Remove from oven and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yogurt",
+    "crumble",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 3
+  },
+  "slug": "flaky-rich-saudia-yogurt-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-rich-saudia-yogurt-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:40:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "creme fraiche",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Flaky Rich",
+    "dishForm": "Crumble"
+  }
+}
