@@ -1,0 +1,95 @@
+{
+  "title": "Fermented Tendy Brazilian Rice Stick Noodles Stir-fry",
+  "description": "A low-calorie-friendly weeknight dish featuring fermented rice stick noodles stir-fried with vegetables and spices for a nutritious meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented rice stick noodles",
+      "amount": "1 cup",
+      "notes": "Ensure the noodles are already fermented"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "Red and green mixed for color contrast"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium if available"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "3 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added flavor and color"
+    }
+  ],
+  "instructions": [
+    "Wash the fermented rice stick noodles thoroughly to remove any residue.",
+    "Prepare bell peppers by slicing them into thin strips and finely chop onions. Peel and mince garlic cloves.",
+    "In a large skillet or wok, heat peanut oil over medium-high heat. Add minced garlic and ginger, sautéing for about 1 minute until fragrant.",
+    "Add chopped onions to the skillet and stir-fry for another minute until they start to soften slightly.",
+    "Fold in sliced bell peppers and continue cooking for an additional 2 minutes allowing them to release their moisture.",
+    "Reserve some of the reserved liquid from the fermented rice stick noodles. Add the noodles into the skillet, pour in soy sauce and any reserved noodle liquid to prevent sticking. Stir-fry for about 5-7 minutes until the noodles are heated through.",
+    "If using, stir in tomato paste and mix well with the noodles and vegetables. Adjust seasoning if needed based on preference or taste.",
+    "Serve hot as a side dish or main course, garnished with extra chopped garlic and scallions (if available) for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-rice-stick-noodles",
+    "stir-fry",
+    "low-calorie-friendly-brazilian-dish"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "fermented-tendy-brazilian-rice-stick-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tendy-brazilian-rice-stick-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:06:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Rice Stick Noodles",
+    "descriptor": "Fermented Tender",
+    "dishForm": "Stir-fry"
+  }
+}
