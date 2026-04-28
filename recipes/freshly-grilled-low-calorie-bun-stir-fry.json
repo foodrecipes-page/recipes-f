@@ -1,0 +1,77 @@
+{
+  "title": "Freshly Grilled Low-Calorie Bun Stir-fry",
+  "description": "This festive Croatian dish features tender buns grilled to perfection in a low-calorie-friendly way, perfect for a light lunch or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat buns",
+      "amount": "6"
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, zucchini, onions)",
+      "amount": "1 cup each"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olives",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Slice the buns into halves for easy handling and stacking on the grill.",
+    "Mince the garlic cloves and finely chop the mixed vegetables.",
+    "In a bowl, mix chopped vegetables with minced garlic. Drizzle with olive oil lightly.",
+    "Brush some olive oil onto each side of the whole wheat bun slices to prevent sticking.",
+    "Place the breaded buns on the preheated grill, placing vegetable mixture between each layer for added flavor and texture.",
+    "Grill until golden brown on both sides and vegetables are tender. This should take about 5-7 minutes per batch.",
+    "While grilling, sprinkle sunflower seeds over one side of the grilled bun to add a crunchy texture without altering the low-calorie profile."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-grilled-bun-stir-fry",
+    "mixed-vegetable-stir-fry",
+    "low-calorie-diet",
+    "grill-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "freshly-grilled-low-calorie-bun-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-low-calorie-bun-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:22:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "buns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Bun",
+    "descriptor": "Freshly Grilled Low-Calorie",
+    "dishForm": "Stir-fry"
+  }
+}
