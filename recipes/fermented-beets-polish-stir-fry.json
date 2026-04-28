@@ -1,0 +1,77 @@
+{
+  "title": "Fermented Beets Polish Stir-fry",
+  "description": "A cozy and chewy Polish dish featuring fermented beets combined with a mix of vegetables in a paleo-friendly stir-fry.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 tablespoons, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "paleo-friendly soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over high heat.",
+    "Add finely chopped beets and onions to the heated wok. Sauté for about 5 minutes until they start to soften but not browned.",
+    "Stir in minced garlic, diced bell peppers, and zucchini. Continue cooking for another 2-3 minutes until vegetables are just tender.",
+    "Reduce heat to medium-high and add paleo-friendly soy sauce to the mixture. Stir well to coat all ingredients evenly with the liquid.",
+    "Continue cooking for an additional 1-2 minutes until slightly thickened and glossy, making sure not to burn the beets or vegetables.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-beets",
+    "paleo-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "fermented-beets-polish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-beets-polish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:30:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Beets",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
