@@ -1,0 +1,63 @@
+{
+  "title": "Fry Irish Basmati Rice",
+  "description": "A fresh and crisp post-workout dish featuring basmati rice that's been lightly fried to enhance its texture and flavor, suitable for those following a fodmap-friendly diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice under cold water until the water runs clear.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the rinsed basmati rice and cook, stirring frequently, for about 3 minutes or until lightly golden brown on all sides.",
+    "Season with salt to taste.",
+    "Transfer to a serving dish and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "basmati-rice",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "fry-irish-basmati-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-irish-basmati-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:29:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "basmati rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Basmati Rice",
+    "descriptor": "Fry",
+    "dishForm": "Stir-fry"
+  }
+}
