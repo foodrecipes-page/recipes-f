@@ -1,0 +1,72 @@
+{
+  "title": "Fresh Monsoon Strawberries Salad",
+  "description": "A fresh and crisp monsoon dutch dish featuring strawberries that are roasted to enhance their natural sweetness.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "a few sprigs",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Wash the strawberries thoroughly and slice them into halves.",
+    "Preheat your oven to 180°C (350°F).",
+    "In a bowl, mix sliced strawberries with rice vinegar and olive oil. Toss until the strawberries are evenly coated.",
+    "Transfer the mixture onto an oven-safe plate or baking dish lined with parchment paper.",
+    "Roast in preheated oven for about 10-12 minutes or until the strawberries start to caramelize slightly, stirring halfway through cooking time.",
+    "Remove from heat and let it cool down a bit before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-strawberries",
+    "monsoon-dutch",
+    "roasted-fruit",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "fresh-monsoon-strawberries-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-monsoon-strawberries-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:22:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "strawberries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "Strawberries",
+    "descriptor": "Fresh",
+    "dishForm": "Salad"
+  }
+}
