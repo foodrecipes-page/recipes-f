@@ -1,0 +1,90 @@
+{
+  "title": "Fluffy Syrian Herb Stir-fry",
+  "description": "A kid-friendly and paleo-friendly Syrian herb stir-fry featuring sweet red peppers, almonds, and other herbs for a savory and nutritious meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "2"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1-2"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of coconut oil in a pan over medium heat.",
+    "Add sweet red peppers, sliced into strips, and cook until they start to soften. Stir occasionally for about 5 minutes.",
+    "Add minced garlic and sauté for another minute until fragrant.",
+    "Stir in ground flaxseed, turmeric, and thyme. Cook for an additional 2-3 minutes or until the mixture forms a slightly thick consistency.",
+    "Add almonds to the pan, stirring them gently with the peppers and green onions. Season with salt and pepper according to taste.",
+    "Reduce heat to low, allow it to simmer for about 5 minutes more to meld all flavors together.",
+    "Serve warm over rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "paleo-friendly",
+    "syrian-herb"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "fluffy-syrian-herb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-syrian-herb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:43:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Herb",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
