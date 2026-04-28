@@ -1,0 +1,78 @@
+{
+  "title": "Floral Greek Cucumber Salad",
+  "description": "This kid-friendly greek dish features floral cucumber with a touch of smoke and is suitable for fodmap-friendly diets.",
+  "cuisine": "Greek",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Cucumbers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a few twists"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "a handful"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Chop cucumbers into small pieces.",
+    "In a mixing bowl, combine olive oil and red pepper flakes. Mix well until the oil is slightly frothy.",
+    "Add chopped dill to the mixture and mix again.",
+    "Cut the cucumber into desired sizes and add them to the dressing in the mixing bowl.",
+    "Stir in Greek yogurt and lemon juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "greek",
+    "kid-friendly",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "floral-greek-cucumber-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-greek-cucumber-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:44:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "cucumber",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Cucumber",
+    "descriptor": "Floral",
+    "dishForm": "Salad"
+  }
+}
