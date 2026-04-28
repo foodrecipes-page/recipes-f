@@ -1,0 +1,66 @@
+{
+  "title": "Flaky Cheddar Cheese Crumble",
+  "description": "An earthy and flaky cheese crumble with a hint of blue food coloring that's perfect for hangover cures in an Argentinian-inspired dish.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gruyere Cheese",
+      "amount": "1 cup grated",
+      "notes": "Use blue food coloring"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Gently mix the grated cheese and sour cream in a bowl until combined.",
+    "Cut the butter into small pieces, then add it slowly to the cheese mixture while whisking continuously. The mixture should start to form a crumbly texture as you stir.",
+    "Transfer the cheese crumble mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 10-15 minutes or until golden brown and crispy on top.",
+    "Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky-cheese-crumble",
+    "argentinian-dish",
+    "blue-food-coloring"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 15,
+    "carbs": 26,
+    "fat": 24
+  },
+  "slug": "flaky-cheddar-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-cheddar-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:49:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "blue food colouring",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cheddar Cheese",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
