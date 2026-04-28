@@ -1,0 +1,105 @@
+{
+  "title": "Fluffy Tangy Argentinian Custard Powder Stir-fry",
+  "description": "This tangy and fluffy dish features custard powder in a gluten-free-friendly Argentinean stir-fry made with sous-vide technique for an extra layer of flavor.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-vide bag",
+      "amount": "1",
+      "notes": "Ensure it's sous-vide safe"
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 tbsp",
+      "notes": "Use gluten-free custard powder if available"
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Regular soy sauce or tamari for a vegan option"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": "For added tanginess and flavor"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1 tsp",
+      "notes": "For extra heat"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 82°C.",
+    "In a small bowl, mix custard powder with gluten-free flour until no lumps remain. Set aside.",
+    "Place the mixture into the sous-vaid bag and vacuum seal it. Cook for 30 minutes at 82°C.",
+    "While cooking, in a wok or skillet, heat peanut oil over medium-high heat. Add finely chopped onion and minced garlic, sautéing until onions are translucent.",
+    "Add red pepper flakes to the wok if using, stirring well to combine with the onions and garlic. Cook for an additional minute.",
+    "Stir in cooked custard powder mixture into the wok and add soy sauce (or tamari) and ketchup. Stir well to incorporate all ingredients thoroughly.",
+    "Season with salt and pepper to taste. Serve hot as a side dish or over rice.",
+    "Enjoy your tangy and fluffy Argentinean custard powder stir-fry!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean-stir-fry",
+    "custard-powder",
+    "sous-vide",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "fluffy-tangy-argentinian-custard-powder-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-tangy-argentinian-custard-powder-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:02:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "custard powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "custard powder",
+    "descriptor": "tangy fluffy show-off",
+    "dishForm": "Stir-fry"
+  }
+}
