@@ -1,0 +1,102 @@
+{
+  "title": "Fluffy Light Chinese Citrus Stir-fry",
+  "description": "A citrusy and fluffy plant-based dish marinated in balsamic vinegar for added flavor, served as a light lunch or snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "any color can be used, green is best for this dish"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Chopped Green Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thick Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and cut vegetables into small pieces.",
+    "Mix balsamic vinegar, soy sauce, water, olive oil, sugar, and salt in a bowl. Add minced garlic and mix well.",
+    "Submerge the vegetables in the marinade for at least 30 minutes before stir-frying to enhance flavor.",
+    "Heat a wok or large frying pan over medium-high heat with 1 tablespoon of oil. Add remaining 2 tablespoons of oil once it's hot.",
+    "Add marinated vegetables and cook until they turn bright green and crispy, stirring occasionally for about 5-7 minutes.",
+    "Squeeze the juice from half of a lemon to season the dish before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "fluffy",
+    "light",
+    "chinese",
+    "stir-fry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "fluffy-light-chinese-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-light-chinese-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:40:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "citrus",
+    "descriptor": "Fluffy Light",
+    "dishForm": "Stir-fry"
+  }
+}
