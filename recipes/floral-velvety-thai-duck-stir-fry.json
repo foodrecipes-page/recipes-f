@@ -1,0 +1,101 @@
+{
+  "title": "Floral Velvety Thai Duck Stir-fry",
+  "description": "This post-workout dish combines tender duck legs with a floral-infused sauce, perfect for vegetarians and vegans due to the use of tofu.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Duck Leg",
+      "amount": "2 pieces (about 500g each)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Scallion",
+      "amount": "8-10 per piece, finely chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "5 leaves, roughly torn"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon (or to taste)"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "4-6, finely chopped"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place duck legs in a pot and cover with water. Bring to a boil then simmer for about 1 hour until fully cooked (internal temperature reaches 74°C).",
+    "Drain, let cool slightly, and slice the duck into thin strips.",
+    "Heat sesame oil in a pan and add garlic, scallion whites, and chili peppers. Cook until fragrant.",
+    "Remove half of the sliced tofu from the block; sauté with remaining 3 tablespoons of oil to get golden brown crust on all sides.",
+    "Add duck legs back into the pan along with all other ingredients except coconut milk. Stir well to combine.",
+    "Stir in coconut milk and continue cooking until sauce thickens slightly, about 5-7 minutes.",
+    "Serve hot as a main dish or side with steamed vegetables for a full meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "dinner",
+    "floral",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 638,
+    "protein": 29.1,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "floral-velvety-thai-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-thai-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:29:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "duck legs",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "duck",
+    "descriptor": "Floral Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
