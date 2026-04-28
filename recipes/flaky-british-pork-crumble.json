@@ -1,0 +1,91 @@
+{
+  "title": "Flaky British Pork Crumble",
+  "description": "An earthy and flaky meal-prep British dish featuring chili powder, sautéed vegetables, and high-protein-friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Loin",
+      "amount": "1 lb (450g)",
+      "notes": "Cut into cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "Quartered"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "For added flavor and spice"
+    },
+    {
+      "name": "Pork Crumble Mix",
+      "amount": "2 cups (mix of oats, breadcrumbs, crushed nuts)",
+      "notes": "Prepared before hand"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onions and garlic to the skillet; sauté until translucent.",
+    "Add diced carrots and potatoes. Cover with a lid and cook for about 10 minutes.",
+    "Increase heat to high, add pork cubes, reduce liquid from vegetables, and continue cooking until browned on all sides.",
+    "Stir in red pepper flakes to taste.",
+    "Transfer cooked pork mixture onto plates.",
+    "Layer crumble mix over top of the cooked pork. Cook for an additional 5-10 minutes or until crispy.",
+    "Serve hot with mashed potatoes or steamed green vegetables as a side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-pork-crumble",
+    "flaky-dessert",
+    "meal-prep-recipe"
+  ],
+  "nutrition": {
+    "calories": 608,
+    "protein": 35,
+    "carbs": 47,
+    "fat": 29
+  },
+  "slug": "flaky-british-pork-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-british-pork-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:23:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "chili powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
