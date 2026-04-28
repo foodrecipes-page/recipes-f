@@ -1,0 +1,78 @@
+{
+  "title": "Floral, Fluffy Croatian Custard Powder Croissant",
+  "description": "A quick-fix breakfast dish featuring a creamy custard powder filling and flaky croissants, perfect for raw-friendly snacking.",
+  "cuisine": "Croatian",
+  "diet": [
+    "raw-friendly",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour Croissant Dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Custard Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Soy Milk or Coconut Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Raw Honey (optional)",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, mix custard powder with vanilla extract and soy milk. Stir until smooth.",
+    "Pour the custard mixture over one sheet of croissant dough.",
+    "If using raw honey, gently swirl it into the custard filling for added sweetness.",
+    "Place another sheet of croissant dough on top of the custard-filled dough.",
+    "Use a sharp knife to cut through layers carefully and then fold sections into each other to create patterns. Press lightly with fingers to seal seams.",
+    "Bake in preheated oven for 12-15 minutes or until golden brown.",
+    "Cool slightly before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral-fluffy",
+    "croatian",
+    "custard-powder",
+    "quick-fix",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "floral-fluffy-croatian-custard-powder-croissant",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-croatian-custard-powder-croissant",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:44:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "custard powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "custard powder",
+    "descriptor": "Floral, Fluffy",
+    "dishForm": "Croissant"
+  }
+}
