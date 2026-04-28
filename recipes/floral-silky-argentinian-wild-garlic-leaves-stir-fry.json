@@ -1,0 +1,81 @@
+{
+  "title": "Floral Silky Argentinian Wild Garlic Leaves Stir-fry",
+  "description": "A floral and silky brunch-friendly dish featuring wild garlic leaves, seasoned with a touch of curing for added depth and flavor. Suitable for egg-free diets.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Wild Garlic Leaves",
+      "amount": "1 cup fresh or 2 tbsp dried"
+    },
+    {
+      "name": "Cured Ham Slices",
+      "amount": "6 slices, about 1 oz each"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 small, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley Leaves",
+      "amount": "1/4 cup for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°F (93°C). Rinse the wild garlic leaves and pat them dry with a clean kitchen towel.",
+    "Slice the cured ham thinly. Place the sliced ham in a baking dish and bake it for about 15 minutes until it's warm and slightly crispy, but not burnt.",
+    "In a wok or large skillet, heat olive oil over medium-high heat. Add finely chopped onion and minced garlic, sautéing for about 2-3 minutes until the onion turns translucent and fragrant.",
+    "Add the wild garlic leaves to the skillet, tossing them in with the onions and garlic for about 1-2 more minutes. Season with salt if needed.",
+    "Garnish with fresh parsley leaves before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "wild-garlic-leaves",
+    "floral-silky",
+    "cured-ham"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "floral-silky-argentinian-wild-garlic-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-silky-argentinian-wild-garlic-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:02:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Wild Garlic Leaves",
+    "descriptor": "Floral Silky",
+    "dishForm": "Stir-fry"
+  }
+}
