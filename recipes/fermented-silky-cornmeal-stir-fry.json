@@ -1,0 +1,87 @@
+{
+  "title": "Fermented Silky Cornmeal Stir-fry",
+  "description": "This one-pot Irish dish features fermented white cornmeal mixed with vegetables in a savory broth for a creamy and comforting vegetarian meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented white cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3-4"
+    },
+    {
+      "name": "peeled carrots, julienned",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peeled potatoes, diced small",
+      "amount": "1 cup"
+    },
+    {
+      "name": "broth or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil or olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat sesame oil over medium heat. Add onion and garlic; sauté until translucent.",
+    "Add diced carrots and potatoes, cook for about 5 minutes. Stir in cornmeal and broth, bring to a boil. Reduce heat to low and simmer for about 20-30 minutes or until thickened.",
+    "Adjust seasoning with salt and pepper. Add broccoli florets towards the end of cooking time if you prefer them slightly crisp.",
+    "Serve hot as is or with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented cornmeal",
+    "irish dish",
+    "one-pot meal"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 10,
+    "carbs": 56,
+    "fat": 4
+  },
+  "slug": "fermented-silky-cornmeal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-cornmeal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:00:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "white cornmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cornmeal",
+    "descriptor": "Fermented Silky",
+    "dishForm": "Stir-fry"
+  }
+}
