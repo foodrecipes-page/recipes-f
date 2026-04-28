@@ -1,0 +1,79 @@
+{
+  "title": "Fluffy Yoghurt Pancake",
+  "description": "This earthy and fluffy whole30-friendly Fluffy Yoghurt Pancake is a light Australian dish that features melted butter for added richness.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup plain Greek yogurt",
+      "amount": "cup",
+      "notes": "ensure it's unsweetened"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup melted butter",
+      "amount": "cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tablespoon baking powder",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "2 cups whole milk",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a large bowl, combine the Greek yogurt, eggs, melted butter, salt, and baking powder. Mix well until smooth.",
+    "Gradually add the milk to the mixture, stirring continuously to avoid lumps. Keep mixing until the batter is thick but pourable.",
+    "Once your skillet is hot, reduce heat to medium-low and grease lightly with a bit of olive oil.",
+    "Pour 1/4 cup of batter into the skillet for each pancake. Cook for about 2-3 minutes on each side or until golden brown.",
+    "Serve immediately with optional toppings such as fresh berries or a drizzle of honey."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-yoghurt-pancake",
+    "whole30-friendly",
+    "australian-dish"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 15,
+    "carbs": 29,
+    "fat": 10
+  },
+  "slug": "fluffy-yoghurt-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-yoghurt-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:29:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "melted butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Yoghurt",
+    "descriptor": "Fluffy",
+    "dishForm": "Pancake"
+  }
+}
