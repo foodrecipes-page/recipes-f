@@ -1,0 +1,86 @@
+{
+  "title": "Fermented Crispy Dutch Pistachio Stir-fry",
+  "description": "A vegan-friendly and romantic Dutch dish featuring a unique combination of fermented tofu, crispy pistachios, and aromatic vegetables in a savory sauce, perfect for any meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented tofu",
+      "amount": "100g"
+    },
+    {
+      "name": "pistachios",
+      "amount": "50g"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "leek or green onion",
+      "amount": "1 stalk finely chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sauce mix (soy sauce, vinegar, sugar, cornstarch)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat. Add sliced ginger and chopped onion; sauté for about 1 minute.",
+    "Add minced garlic and leek or green onion. Stir-fry for another minute until fragrant and slightly golden.",
+    "Add crushed fermented tofu to the wok, tossing quickly to coat with oil and spices. Cook for about 2 minutes, stirring frequently.",
+    "Stir in chopped pistachios and continue cooking until they start to turn golden brown (around 5-7 more minutes).",
+    "Pour sauce mix over the stir-fry mixture in a blender or by hand, blending until smooth. Return mixture back into the wok and cook for an additional minute.",
+    "Serve hot with steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented tofu",
+    "pistachio",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "fermented-crispy-dutch-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-dutch-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:02:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "pistachio",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pistachio",
+    "descriptor": "fermented",
+    "dishForm": "Stir-fry"
+  }
+}
