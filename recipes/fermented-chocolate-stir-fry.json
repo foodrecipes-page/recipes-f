@@ -1,0 +1,85 @@
+{
+  "title": "Sous-Vide Fermented Dark Chocolate Stir-Fry",
+  "description": "A show-off Argentinean dish featuring fermented dark chocolate served as a tender stir-fry. Pescatarian-friendly and suitable for vegans and vegetarians.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "pescatarian",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "200g",
+      "notes": "Use a high-quality dark chocolate for best results."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fermentation Culture",
+      "amount": "1 packet (if using liquid form)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Place the dark chocolate in a sous-vide bag and seal it. Cook at 62°C for 8 hours.",
+    "In a small bowl, mix rice vinegar, salt, soy sauce, lime juice, and fermentation culture together until well combined.",
+    "Drain the cooked dark chocolate thoroughly to remove any excess liquid.",
+    "Heat olive oil in a wok or large pan over medium-high heat. Add drained dark chocolate and stir-fry for 2 minutes.",
+    "Pour in the vinegar mixture and continue stirring until the chocolate is fully melted and evenly coated, about another minute.",
+    "Remove from heat and serve immediately while still hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "chocolate",
+    "stir-fry",
+    "argentinean"
+  ],
+  "nutrition": {
+    "calories": 651,
+    "protein": 9.8,
+    "carbs": 72.4,
+    "fat": 34.3
+  },
+  "slug": "fermented-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:57:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "dark chocolate",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
