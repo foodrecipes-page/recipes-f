@@ -1,0 +1,97 @@
+{
+  "title": "Fermented Silky Raw-friendly Irish Whole Wheat Stir-fry",
+  "description": "A one-pot dish that combines fermented vegetables with whole wheat and a tandoor-inspired flavor profile for a raw-friendly meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Fermented vegetables (e.g. kimchi or sauerkraut)",
+      "amount": "100g"
+    },
+    {
+      "name": "Wheat gluten (Seitan)",
+      "amount": "100g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegetable oil for stir-frying",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Green onions (scallions) sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "50g"
+    },
+    {
+      "name": "Shredded celery stalks",
+      "amount": "50g"
+    },
+    {
+      "name": "Water for soaking wheat gluten",
+      "amount": "200ml"
+    },
+    {
+      "name": "Seasoning mix (salt, black pepper)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak wheat gluten in water for about 30 minutes.",
+    "Preheat your stove to medium-high heat. Season the wheat gluten with salt and pepper before stir-frying it until golden brown and crispy on a non-stick pan, then set aside.",
+    "Clean all vegetables and chop them finely: garlic, ginger, carrots, celery, green onions.",
+    "Add vegetable oil into a wok or large skillet, heat up to medium-high. Add fermented vegetables for about 2-3 minutes until fragrant.",
+    "Add wheat gluten, garlic, ginger, sliced green onions, chopped vegetables, and seasoning mix. Stir-fry everything together for another 5 minutes until all ingredients are heated through and fully combined.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-vegetables",
+    "whole-wheat",
+    "raw-friendly",
+    "tandoor-inspired",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "fermented-silky-raw-friendly-irish-whole-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-raw-friendly-irish-whole-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:33:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "whole wheat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "whole wheat",
+    "descriptor": "Fermented Silky Raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
