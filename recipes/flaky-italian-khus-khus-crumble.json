@@ -1,0 +1,83 @@
+{
+  "title": "Flaky Italian Khus Khus Crumble",
+  "description": "A fresh and flaky Italian dish featuring khus khus (a type of poppy seed), perfect for a sick-day treat or as an appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "30g fresh khus khus",
+      "amount": "grams"
+    },
+    {
+      "name": "1/2 cup grated Parmesan cheese",
+      "amount": "cup",
+      "notes": "freshly grated for best flavor and texture"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of",
+      "notes": null
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "salt",
+      "notes": "about 1/4 teaspoon"
+    },
+    {
+      "name": "3 tbsp all-purpose flour",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/2 tsp baking powder",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the khus khus and Parmesan cheese.",
+    "Add lemon juice and salt to taste. Stir well until everything is evenly distributed.",
+    "Gradually stir in flour and baking powder while continuing to mix until no visible lumps remain.",
+    "Slowly drizzle in water while continuously stirring with a wooden spoon or spatula, ensuring the mixture comes together into a crumb-like consistency.",
+    "Preheat oven to 180°C (350°F)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "khus-khus",
+    "crumble",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "flaky-italian-khus-khus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-italian-khus-khus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:35:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "khus khus",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "khus khus",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
