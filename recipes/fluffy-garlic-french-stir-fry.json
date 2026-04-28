@@ -1,0 +1,88 @@
+{
+  "title": "Fluffy Garlic French Stir-fry",
+  "description": "A savory and aromatic monsoon-inspired French dish infused with the boldness of garlic and the freshness of makrut lime leaves, served as a keto-friendly snack.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 small onion",
+      "amount": "finely chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "200g chicken breast fillet",
+      "amount": "",
+      "notes": "boneless, skin-on"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "1 small eggplant",
+      "amount": "halved and thinly sliced"
+    },
+    {
+      "name": "20g butter or olive oil",
+      "amount": "",
+      "notes": "for broiling, optional"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil.",
+    "Season the chicken fillet with salt and pepper on both sides. Place it in a baking dish.",
+    "In a skillet, combine the chopped onion and minced garlic over medium heat until fragrant and translucent.",
+    "Add the sliced bell pepper and eggplant to the skillet along with any residual liquid from the chicken. Cook for about 5 minutes, stirring occasionally.",
+    "Transfer the vegetable mixture onto the baking dish containing the seasoned chicken fillet. Drizzle with butter or olive oil if desired.",
+    "Broil in preheated oven until the vegetables are tender and slightly charred on top (about 10-12 minutes).",
+    "Remove from heat, season to taste with salt and pepper, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "garlicky",
+    "monsoon",
+    "french",
+    "makrut-lime",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fluffy-garlic-french-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-garlic-french-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:53:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Garlic",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
