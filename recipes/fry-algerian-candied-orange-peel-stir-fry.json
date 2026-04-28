@@ -1,0 +1,73 @@
+{
+  "title": "Fry Algerian Candied Orange Peel Stir-fry",
+  "description": "A floral, crispy brunch-mood dish featuring candied orange peel, prepared in a jain-friendly manner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "orange peel",
+      "amount": "3 slices, soaked in water for 2 hours and partially dried"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few pieces, finely chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat. Add almonds and fennel seeds to the pan.",
+    "Once they start to toast, add sliced onions and ginger, stir fry for about 5 minutes until the onions turn translucent.",
+    "Add orange slices (candied) to the pan. Stir well and cook for an additional 2-3 minutes or until the citrus flavors are infused into the dish.",
+    "Remove from heat and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "floral-flavors",
+    "stir-fry",
+    "candied-oranges"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "fry-algerian-candied-orange-peel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-algerian-candied-orange-peel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:20:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "candied peel",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Candied Orange Peel",
+    "descriptor": "Fry",
+    "dishForm": "Stir-fry"
+  }
+}
