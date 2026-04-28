@@ -1,0 +1,108 @@
+{
+  "title": "Fluffy Adventurous Citrus Mexican Stir-fry",
+  "description": "A citrusy and adventurous take on a classic Mexican dish featuring bold flavors and a hint of sweetness from brown sugar combined with spicy kick from fermented products in a halal-friendly stir-fry, perfect for breakfast or lunch.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200g",
+      "notes": "Skinless and boneless"
+    },
+    {
+      "name": "Halal-friendly fermented tofu cubes",
+      "amount": "150g",
+      "notes": "Ensure to check halal status of ingredients as required by the user's dietary preferences"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Sliced thinly for quicker cooking and better texture in stir-fry"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Crushed finely to release more flavor"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2 medium",
+      "notes": "Sliced thinly, ensure halal status if unsure"
+    },
+    {
+      "name": "Zest of 2 oranges",
+      "amount": "not specified",
+      "notes": "For a bright and zesty citrus flavor"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "3 tablespoons",
+      "notes": "Can be adjusted for sweetness preference"
+    },
+    {
+      "name": "Rice vinegar (optional)",
+      "amount": "1 tablespoon",
+      "notes": "Optional, can add tanginess to the dish"
+    },
+    {
+      "name": "Fish sauce (optionally for a salty kick)",
+      "amount": "1 teaspoon",
+      "notes": "Adjust according to taste and halal status"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Sesame seeds (optional, for garnish)",
+      "amount": "a small handful",
+      "notes": "To add a crunchy texture"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat. Add olive oil and heat until shimmering.",
+    "Add halal-friendly fermented tofu cubes to the hot pan and cook for about 2 minutes, shaking the pan occasionally until they start to brown slightly. Remove from the pan once cooked but still warm.",
+    "Reduce heat to medium and add sliced yellow onions to the pan with salt (if you have it) and cook until translucent, about 5-7 minutes. Stir in crushed garlic cloves and cook for an additional minute or so.",
+    "Add halal-friendly fermented tofu cubes back into the pan along with finely sliced jalapeno peppers. Cook for a few more minutes until vegetables are tender-crisp and tofu is well-coated.",
+    "Stir in zested oranges, brown sugar, rice vinegar (if using), fish sauce (if using). If desired, add sesame seeds as garnish at the end of cooking to enhance texture and flavor.",
+    "Serve hot with additional lime wedges or cilantro for a refreshing touch. Enjoy your adventure into Mexican cuisine!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "adventurous",
+    "citrusy",
+    "mexican",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "fluffy-adventurous-citrus-mexican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-adventurous-citrus-mexican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:17:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "brown sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Citrus",
+    "descriptor": "Fluffy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
