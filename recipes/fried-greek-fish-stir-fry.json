@@ -1,0 +1,82 @@
+{
+  "title": "Fried Greek Fish Stir-Fry",
+  "description": "A fresh and silky date-night dish featuring a deliciously crisp fried fish base with the addition of dijon mustard for a unique twist in a pescatarian-friendly recipe.",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Mix all-purpose flour with paprika and seasonings. Coat fish fillets thoroughly in the seasoned flour.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic and cook until fragrant, about 1 minute.",
+    "Add fish to the skillet and fry on both sides for approximately 5 minutes each side or until golden brown.",
+    "Remove from heat and let rest for 2-3 minutes before serving with a drizzle of dijon mustard on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-greek-fish-stir-fry",
+    "date-night-dinner",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 27,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "fried-greek-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-greek-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:54:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "dijon mustard",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Fish",
+    "descriptor": "Fried",
+    "dishForm": "Stir-fry"
+  }
+}
