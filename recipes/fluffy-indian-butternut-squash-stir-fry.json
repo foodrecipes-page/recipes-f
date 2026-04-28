@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Indian Butternut Squash Stir-fry",
+  "description": "A light and herbal dish infused with spices from Kerala cuisine, this diabetic-friendly stir fry features tender butternut squash cooked to perfection.",
+  "cuisine": "Indian (Kerala)",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium-sized",
+      "notes": "Rinse and peel"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "3 tbsp",
+      "notes": "Any low-sodium brand"
+    },
+    {
+      "name": "Coriander Leaves",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C). Cut the butternut squash into small cubes.",
+    "In a bowl, mix the chopped onion and garlic with a bit of salt. Cook until translucent, about 3-5 minutes on medium heat.",
+    "Add tomato puree to the onions and cook for another minute, stirring frequently to avoid burning.",
+    "Transfer the cooked onion mixture to a baking dish, then add butternut squash cubes. Drizzle with olive oil lightly, season with turmeric powder and garam masala.",
+    "Bake in preheated oven for about 15-20 minutes or until the vegetables are tender.",
+    "Stir in chopped coriander leaves towards the end of cooking time to preserve their bright green color. Adjust seasoning if needed.",
+    "Serve hot as a side dish with rotis, chapati or brown rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "herbal",
+    "indian-kerala"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 5
+  },
+  "slug": "fluffy-indian-butternut-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-indian-butternut-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:36:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "butternut squash",
+    "diet": "diabetic-friendly",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
