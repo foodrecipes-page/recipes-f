@@ -1,0 +1,90 @@
+{
+  "title": "Festive Garlic Greek Stir-fry",
+  "description": "A creamy and garlicky festive Greek dish featuring speculaas spice mix, perfect for a halal-friendly meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8, minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "haloumi cheese",
+      "amount": "100g, cubed"
+    },
+    {
+      "name": "pecorino romano cheese",
+      "amount": "2 tbsp, grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a few sprigs, chopped"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "30g, roughly chopped"
+    },
+    {
+      "name": "cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Heat olive oil in a pan over medium heat. Add minced garlic and cook until fragrant.",
+    "Add sliced zucchini and haloumi cheese cubes, cooking for about 5 minutes or until cheese is melted and zucchini is tender.",
+    "Pour in the cream and speculaas spice mix, stirring to combine. Simmer for a minute.",
+    "Transfer vegetables to an oven-proof dish, pour remaining sauce over top, sprinkle with pecorino romano cheese, and garnish with chopped fresh parsley and pecan nuts.",
+    "Bake for 10-15 minutes until cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive-greek-stir-fry",
+    "halal-friendly",
+    "greek-recipe",
+    "festive-dish"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 27,
+    "carbs": 46,
+    "fat": 18
+  },
+  "slug": "festive-garlic-greek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-garlic-greek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:09:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Garlic",
+    "descriptor": "Festive",
+    "dishForm": "Stir-fry"
+  }
+}
