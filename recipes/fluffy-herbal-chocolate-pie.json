@@ -1,0 +1,95 @@
+{
+  "title": "Fluffy Herbal Chocolate Pie",
+  "description": "A festive British dessert featuring dark chocolate chips and herbal flavors, suitable for egg-free diets.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond milk",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons unsweetened cocoa powder",
+      "amount": "tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey or maple syrup",
+      "amount": "tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "3 cups chopped dark chocolate chips",
+      "amount": "cups",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "2 teaspoons fresh thyme leaves",
+      "amount": "teaspoons",
+      "notes": "freshly picked, optional for added flavor"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves",
+      "amount": "teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9-inch pie dish with melted butter.",
+    "In a saucepan, heat almond milk and cocoa powder over medium heat. Stir until smooth. Add honey or maple syrup and bring to a simmer; stir until combined.",
+    "Remove from heat and let it cool slightly. Fold in the melted chocolate chips gently. Gently fold in thyme leaves and ground cloves (if using). Mix well to combine.",
+    "Pour mixture into prepared pie dish. Sprinkle with salt evenly over top of filling.",
+    "Bake for 25-30 minutes, or until crust is golden brown and center appears set but still soft when touched gently with a toothpick.",
+    "Allow to cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-chocolate-pie",
+    "herbal-dessert",
+    "egg-free-friendly",
+    "british-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 12
+  },
+  "slug": "fluffy-herbal-chocolate-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-herbal-chocolate-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:52:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Chocolate Chips",
+    "descriptor": "Fluffy",
+    "dishForm": "Pie"
+  }
+}
