@@ -1,0 +1,83 @@
+{
+  "title": "Fermented Crumbly Chinese Vegetables Crumble",
+  "description": "This dish features raw vegetables fermented for added texture and flavor, perfect as a snack or side. It's simple to prepare with minimal cooking time.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 small carrots"
+    },
+    {
+      "name": "Beetroot",
+      "amount": "2 medium beetroots"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6-8 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water or brine solution (for fermentation)",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Wash all vegetables thoroughly.",
+    "Chop cabbage into small pieces.",
+    "Peel and grate carrots and beetroots.",
+    "Slice onion thinly and finely chop garlic.",
+    "Combine chopped vegetables in a mixing bowl.",
+    "Add salt and optional brine solution, mix well.",
+    "Layer the vegetable mixture in a shallow dish or container.",
+    "Cover with plastic wrap and let ferment at room temperature for 1-3 days.",
+    "Broil the fermented mixture under preheated broiler for 2-5 minutes per batch until desired crispness is achieved."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 48,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-vegetables",
+    "crumbly-chinese-dish",
+    "raw-ingredients",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 2
+  },
+  "slug": "fermented-crumbly-chinese-vegetables-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crumbly-chinese-vegetables-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:52:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "raw vegetables",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Fermented Crumbly",
+    "dishForm": "Crumble"
+  }
+}
