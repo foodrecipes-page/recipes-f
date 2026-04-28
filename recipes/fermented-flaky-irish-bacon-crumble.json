@@ -1,0 +1,72 @@
+{
+  "title": "Fermented Flaky Irish Bacon Crumble",
+  "description": "A quick and flavorful weeknight meal featuring fermented bacon, flaky texture, and jain-friendly ingredients for a satisfying breakfast dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fermented Irish bacon",
+      "amount": "200g"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crush the fermented Irish bacon into a fine crumb.",
+    "Combine the bread crumbs, fermented bacon, and sesame seeds in a mixing bowl. Mix well until evenly combined.",
+    "Sprinkle a bit of salt over the mixture for flavoring.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown and crispy.",
+    "Remove from oven, let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "flaky",
+    "irish",
+    "buckwheat"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "fermented-flaky-irish-bacon-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-flaky-irish-bacon-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:39:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "bacon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Fermented Flaky",
+    "dishForm": "Crumble"
+  }
+}
