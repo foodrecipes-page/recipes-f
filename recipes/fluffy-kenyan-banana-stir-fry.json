@@ -1,0 +1,89 @@
+{
+  "title": "Fluffy Kenyan Banana Stir-fry",
+  "description": "An earthy and fluffy lazy-sunday dish featuring diabetic-friendly ingredients like banana, whipping cream, and a touch of coconut milk for added flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Banana",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Whipping Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar-Free Cocoa Powder (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the bananas into thin rounds.",
+    "In a mixing bowl, combine banana slices with coconut milk and vanilla extract. Mix well.",
+    "Sprinkle with almond flour and sugar-free cocoa powder if using, then toss gently to coat evenly.",
+    "Add whipping cream to the mixture and mix thoroughly until smooth.",
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Once hot, add the banana slices and cook for about 5 minutes on each side or until golden brown and caramelized slightly.",
+    "Transfer cooked banana slices onto a serving plate. Drizzle with additional whipping cream to serve.",
+    "Serve immediately as dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "kenyan",
+    "stir-fry",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "fluffy-kenyan-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-kenyan-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:02:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "whipping cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Banana",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
