@@ -1,0 +1,176 @@
+{
+  "title": "Fermented Crisp Portuguese Freekeh Stir-fry",
+  "description": "This nostalgic dish features fermented freekeh, a unique twist on the traditional Portuguese freekeh salad. It's perfect for adding to your dinner menu with its crispy texture and savory flavor.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fermented freekeh",
+      "amount": "cup",
+      "notes": "Ensure it's properly aged to achieve the desired fermentation taste."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "piece(s)"
+    },
+    {
+      "name": "1 lemon, juiced and zest added",
+      "amount": "whole"
+    },
+    {
+      "name": "200g cherry tomatoes, halved",
+      "amount": "unit(s)"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup feta cheese, crumbled",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Mix the fermented freekeh with olive oil in a bowl.",
+    "Spread evenly on a baking sheet lined with parchment paper. Bake for 15 minutes until crispy and golden brown.",
+    "In a large pan, heat up the olive oil over medium heat. Add onions and garlic, sautéing for about 3-4 minutes until they soften.",
+    "Stir in the freekeh that has just come out of the oven and continue cooking for another minute.",
+    "Add cherry tomatoes to the pan with some salt and pepper. Cook for an additional 2 minutes.",
+    "Fold in parsley and feta cheese, allowing everything to heat through together for about a minute more.",
+    "Serve hot as a side dish or over rice.",
+    "prepTimeMin: 30",
+    "cookTimeMin: 15",
+    "totalTimeMin: 45",
+    "servings: 4",
+    "difficulty: 'medium'",
+    "tags: ['fermented', 'crisp', 'portuguese', 'stir-fry', 'nachos-like']",
+    "nutrition: {",
+    "calories: 360",
+    "protein: 21g",
+    "carbs: 34g",
+    "fat: 14g"
+  ],
+  "totalTimeMin: 45": [
+    [
+      5,
+      {
+        "name": "Fermented Crisp Portuguese Freekeh Stir-fry",
+        "description": "A unique twist on the traditional Portuguese freekeh salad featuring fermented freekeh, crispy and flavorful.",
+        "cuisine": "Portuguese",
+        "diet": null,
+        "meal": "dinner",
+        "ingredients": [
+          {
+            "name": "fermented freekeh",
+            "amount": "cup"
+          },
+          {
+            "name": "olive oil",
+            "amount": "tablespoon"
+          },
+          {
+            "name": "onion",
+            "amount": "medium"
+          },
+          {
+            "name": "garlic cloves",
+            "amount": "cloves"
+          },
+          {
+            "name": "lemon juice and zest",
+            "amount": "juice of 1 lemon"
+          },
+          {
+            "name": "cherry tomatoes",
+            "amount": "units"
+          },
+          {
+            "name": "fresh parsley",
+            "amount": "cup"
+          },
+          {
+            "name": "feta cheese",
+            "amount": "cup"
+          },
+          {
+            "name": "salt and pepper",
+            "amount": null
+          }
+        ],
+        "instructions": [
+          {
+            "step": "Preheat your oven to 200°C (392°F).",
+            "notes": "Ensure the fermented freekeh is properly aged for a good fermentation taste."
+          },
+          {
+            "step": "Mix the fermented freekeh with olive oil in a bowl.",
+            "notes": "Spread evenly on a baking sheet lined with parchment paper. Bake for 15 minutes until crispy and golden brown."
+          },
+          {
+            "step": "In a large pan, heat up the olive oil over medium heat. Add onions and garlic, sautéing for about 3-4 minutes until they soften.",
+            "notes": ""
+          },
+          {
+            "step": "Stir in the freekeh that has just come out of the oven and continue cooking for another minute."
+          },
+          {
+            "step": "Add cherry tomatoes to the pan with some salt and pepper. Cook for an additional 2 minutes."
+          },
+          {
+            "step": "Fold in parsley and feta cheese, allowing everything to heat through together for about a minute more.",
+            "notes": ""
+          }
+        ],
+        "prepTimeMin": 30,
+        "cookTimeMin": 15,
+        "totalTimeMin": 45,
+        "servings": 4,
+        "difficulty": "medium",
+        "tags": [
+          "fermented",
+          "crisp",
+          "portuguese",
+          "stir-fry"
+        ],
+        "nutrition": {
+          "calories": 360,
+          "protein": 21,
+          "carbs": 34,
+          "fat": 14
+        }
+      }
+    ]
+  ],
+  "slug": "fermented-crisp-portuguese-freekeh-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-portuguese-freekeh-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:54:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "freekeh",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Freekeh",
+    "descriptor": "Fermented Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
