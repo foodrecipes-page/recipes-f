@@ -1,0 +1,90 @@
+{
+  "title": "Fermented Crisp American Pickles Stir-fry",
+  "description": "A Mediterranean-friendly solo-dinner dish featuring crisp fermented pickles sautéed with a medley of herbs and vegetables for a unique flavor profile.",
+  "cuisine": "American, Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented pickles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 tbsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "Peel and minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 small",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add chopped onions and garlic, sauté until translucent, about 3 minutes.",
+    "Add sliced zucchini and red bell pepper to the pan. Sauté for about 5 minutes or until vegetables start to soften slightly.",
+    "Stir in the fermented pickles, adding a few spoonfuls of water if needed to prevent sticking. Simmer for an additional 2-3 minutes.",
+    "Fold in chopped green bell peppers and tomato, adjusting seasoning with salt and pepper as desired. Cook for another minute or two until all vegetables are warm and lightly cooked.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mediterranean-friendly",
+    "fermented-pickles",
+    "american-dish"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 9.5,
+    "carbs": 61,
+    "fat": 14
+  },
+  "slug": "fermented-crisp-american-pickles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-american-pickles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:21:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "pickles",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pickles",
+    "descriptor": "Fermented Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
