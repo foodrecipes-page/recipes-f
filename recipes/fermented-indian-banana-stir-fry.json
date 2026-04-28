@@ -1,0 +1,72 @@
+{
+  "title": "Fermented Indian Banana Stir-fry",
+  "description": "A tender and diabetic-friendly solo-dinner dish featuring fermented bananas mixed with a whisper of spices for an authentic Bengali touch.",
+  "cuisine": "Indian (Bengali)",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, fresh or powdered"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the bananas. Slice them into thin rounds.",
+    "In a small bowl, blend the ripe banana slices with ginger until smooth. Add cumin seeds and mustard seeds; mix well.",
+    "Heat oil in a non-stick pan over medium heat. Pour the blended mixture into the pan. Stir continuously for 1-2 minutes or until the bananas start to break down.",
+    "Remove from heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "tender",
+    "bengali",
+    "banana"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 7
+  },
+  "slug": "fermented-indian-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-indian-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:01:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "bananas",
+    "diet": "diabetic-friendly",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "banana",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
