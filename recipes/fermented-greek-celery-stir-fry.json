@@ -1,0 +1,76 @@
+{
+  "title": "Fermented Greek Celery Stir-fry",
+  "description": "A crisp and fermented solo-dinner greek dish featuring roasted celery salt, perfect for raw-friendly meals.",
+  "cuisine": "Greek",
+  "diet": [
+    "solo",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery stalks",
+      "amount": "1 medium bunch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "a small piece, finely chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons, toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Chop the celery stalks into small pieces. Slice the garlic and ginger.",
+    "Mix all ingredients together in a large bowl, ensuring every piece of celery is well coated with the mixture.",
+    "Spread the celery evenly on a baking sheet lined with parchment paper.",
+    "Roast the celery for 25-30 minutes or until golden brown and crispy. Stir occasionally to ensure even browning.",
+    "After roasting, mix in sesame seeds and minced garlic-ginger for extra flavor.",
+    "Serve immediately as a side dish or as a solo-dinner meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-greek",
+    "crisp-dish",
+    "celery-salt",
+    "roasted-celery"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "fermented-greek-celery-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-greek-celery-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:33:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "celery salt",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "celery",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
