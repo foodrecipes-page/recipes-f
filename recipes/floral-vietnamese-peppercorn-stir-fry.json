@@ -1,0 +1,75 @@
+{
+  "title": "Floral Vietnamese Peppercorn Stir-fry",
+  "description": "A quick-fix low-carb-friendly floral and crispy Vietnamese dish featuring peppercorns, whisked for a delightful aroma.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1-2 tablespoons",
+      "notes": "Use black peppercorns for a classic Vietnamese flavor."
+    },
+    {
+      "name": "Chili flakes or Thai bird chilies",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fish sauce (optional, for flavoring)",
+      "amount": "a few drops",
+      "notes": "To enhance the dish's umami and aroma."
+    }
+  ],
+  "instructions": [
+    "Whisk garlic cloves, fresh ginger, fish sauce (if using), chili flakes, and peppercorns together in a mixing bowl.",
+    "Heat a non-stick pan over medium-high heat. Once hot, add the whisked mixture to the pan.",
+    "Stir quickly until fragrant, about 30 seconds, ensuring the peppers become crispy on their edges.",
+    "Remove from heat immediately and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 1,
+  "totalTimeMin": 6,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crispy",
+    "quick-fix",
+    "vietnamese-peppercorn-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 2,
+    "fat": 4
+  },
+  "slug": "floral-vietnamese-peppercorn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-vietnamese-peppercorn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:23:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "peppercorns",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Peppercorns",
+    "descriptor": "Floral",
+    "dishForm": "Stir-fry"
+  }
+}
