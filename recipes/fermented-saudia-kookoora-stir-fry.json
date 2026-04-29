@@ -1,0 +1,70 @@
+{
+  "title": "Fermented Saudi Kookoora Stir-Fry",
+  "description": "A lazy-sunday dish featuring salt cod in a fermented sauce with a crisp texture and egg-free-friendly options.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Salt Cod",
+      "amount": "50 grams",
+      "notes": "Fermented salt cod, already prepared"
+    },
+    {
+      "name": "Sauce Base",
+      "amount": "2 tablespoons",
+      "notes": "A blend of fermented spices and vegetables for flavoring"
+    },
+    {
+      "name": "Vegetables",
+      "amount": "10 grams",
+      "notes": "Fermented green beans, already prepared (use sparingly)"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 teaspoons",
+      "notes": "For frying or stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat.",
+    "Add oil to the wok and swirl it around for even coverage.",
+    "Place the salt cod in the wok and cook until golden brown, about 2-3 minutes on each side.",
+    "Add the sauce base and vegetables to the wok. Stir-fry for an additional minute or until the vegetables start to soften slightly.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-sauce",
+    "lazy-weekend-dish",
+    "salt-cod"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "fermented-saudia-kookoora-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-saudia-kookoora-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:35:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "salt cod",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "kookoora",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
