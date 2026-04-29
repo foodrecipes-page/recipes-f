@@ -1,0 +1,97 @@
+{
+  "title": "Festive Crunchy Dutch Chocolate Crumble",
+  "description": "A sweet and festive chocolate dish featuring grand marnier, ideal for dessert or a special treat.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsweetened Dutch cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "4 (about 30 grams each)"
+    },
+    {
+      "name": "raw cashews, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "raw pumpkin seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar-free maple syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Combine Dutch cocoa powder and vanilla extract in a mixing bowl.",
+    "Add dates, cashews, pecans, almond extract, coconut flakes, pumpkin seeds, maple syrup, cayenne pepper, and softened butter. Mix well until the mixture is moist but holds together when pressed.",
+    "Press mixture into an 8x8 inch baking dish lined with parchment paper for easy removal.",
+    "Bake in preheated oven for 20 minutes or until firm on top.",
+    "Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "dutch-chocolate",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "festive-crunchy-dutch-chocolate-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-crunchy-dutch-chocolate-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:07:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "grand marnier",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Festive Crunchy",
+    "dishForm": "Crumble"
+  }
+}
