@@ -1,0 +1,90 @@
+{
+  "title": "Fluffy Fermented Ukrainian Sun-dried Tomatoes Stir-fry",
+  "description": "This low-calorie-friendly stir-fry features fluffy fermented sun-dried tomatoes in a romantic Ukrainian dish, ideal for adding to any meal of the day.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented sun-dried tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, sliced thinly"
+    },
+    {
+      "name": "scallions (green onions)",
+      "amount": "2 pieces",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or skillet over medium-high heat.",
+    "Add sesame oil, and once hot, add garlic cloves. Stir-fry for about 30 seconds until fragrant.",
+    "Add fermented sun-dried tomatoes, oyster sauce, soy sauce, and rice vinegar to the pan. Mix well until the sauce is evenly distributed among the ingredients.",
+    "Toss in sliced bell peppers and finely chopped scallions, ensuring everything is coated with the sauce mixture.",
+    "Stir-fry for another 2-3 minutes until all vegetables are tender yet slightly crispy.",
+    "Serve hot as a side dish or main course depending on your preference."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "fermented",
+    "tomatoes",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "fluffy-fermented-ukrainian-sun-dried-tomatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fermented-ukrainian-sun-dried-tomatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:45:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sun-dried tomatoes",
+    "descriptor": "fluffy fermented low-calorie-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
