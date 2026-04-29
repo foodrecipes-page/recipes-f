@@ -1,0 +1,85 @@
+{
+  "title": "Fermented Gooey Tamarind Ball Pilaf",
+  "description": "This halal-friendly meal prep dish features fermented tamarind balls and a gooey temper to create a unique Australian flavor profile suitable for breakfast or snack time.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tamarind Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Fermented Tamarind Balls",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Temper Mix",
+      "amount": "2 tablespoons oil, 1/4 teaspoon salt"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fresh Tamarind Juice",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat water in a saucepan. Add tamarind paste and simmer for 20 minutes, stirring occasionally.",
+    "Add fermented tamarind balls into the simmering tamarind juice mixture and let it cool slightly.",
+    "In a separate pan, heat oil over medium-high heat. Stir in tomato puree until bubbly.",
+    "Add rice to the tempered mix and stir well, then add fresh tamarind juice and allow it to cook for 10 minutes.",
+    "Combine rice with fermented tamarind balls and serve hot as a meal prep dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "gooey",
+    "tamarind",
+    "meal-prep",
+    "australian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 17,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "fermented-gooey-tamarind-ball-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-tamarind-ball-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:43:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "tamarind ball",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Fermented Gooey",
+    "dishForm": "Ball"
+  }
+}
