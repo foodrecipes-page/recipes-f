@@ -1,0 +1,88 @@
+{
+  "title": "Fermented Mexican Oyster Stir-Fry",
+  "description": "This adventurous and chewy dish features fermented oysters in a low-fat-friendly, savory sauce and mixed with vegetables for a unique twist on traditional norteño cuisine.",
+  "cuisine": "Mexican (Norteño)",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "10 ounces",
+      "notes": "fermented"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "seeded and chopped finely"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped thinly"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece",
+      "notes": "grated finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium, optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "fresh squeezed"
+    }
+  ],
+  "instructions": [
+    "Place oysters in a colander and rinse under cold water. Pat dry with paper towels.",
+    "Heat oil in a large skillet over medium-high heat. Add bell peppers, onions, garlic, ginger, and soy sauce if using. Stir-fry for about 5 minutes until vegetables are softened but not mushy.",
+    "Toss in the fermented oysters and continue to stir-fry for another 3-4 minutes or until all ingredients are heated through and oysters become crispy on the outside.",
+    "Squeeze lime juice over the stir-fry mixture. Adjust seasoning with salt if needed, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-oysters",
+    "stir-fry",
+    "low-fat-friendly",
+    "adventurous-cuisine"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "fermented-mexican-oyster-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-mexican-oyster-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:48:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "oysters",
+    "diet": "low-fat",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Oysters",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
