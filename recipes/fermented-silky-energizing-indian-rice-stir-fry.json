@@ -1,0 +1,106 @@
+{
+  "title": "Fermented Silky Energizing Indian Rice Stir-fry",
+  "description": "A silky and energizing dish infused with rum, featuring a blend of aromatic spices and nut-free-friendly ingredients for an easy-to-make breakfast option.",
+  "cuisine": "Indian",
+  "diet": [
+    "nut-free",
+    "alcohol-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 oz",
+      "notes": "Optional, for protein source"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "a small handful"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "a small handful"
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "5-6 leaves"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Boil water in a pot and add rice, allowing it to soak for at least an hour.",
+    "Heat oil in a pan and sauté onions, ginger, garlic, cumin seeds, and fennel seeds until fragrant.",
+    "Add tomatoes, season with salt, pepper, and tamarind paste. Cook until the tomatoes soften.",
+    "Drain rice and add to the tomato mixture along with Rice Vinegar, stir well to combine.",
+    "In a separate pan, heat oil and sauté chicken if using for 5 minutes or until cooked through. Add to the rice and tomato mixture, mix well.",
+    "Serve hot over rice or as a side dish with eggs.",
+    "Optional: For a touch of sweetness and tang, add rum before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "silky",
+    "energizing",
+    "indian",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 31,
+    "carbs": 54,
+    "fat": 6
+  },
+  "slug": "fermented-silky-energizing-indian-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-energizing-indian-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:56:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "rum",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice",
+    "descriptor": "Fermented Silky Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
