@@ -1,0 +1,79 @@
+{
+  "title": "Floral Dense Saudia Strawberries Stir-fry",
+  "description": "A floral and dense one-pot dish featuring strawberries simmered with aromatic spices for a sugar-free Arabian delight.",
+  "cuisine": "Saudia",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Strawberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar-Free Ketchup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "A few sprigs (for garnish)"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Wash strawberries and remove any leaves or stems.",
+    "In a small bowl, mix rice vinegar, sugar-free ketchup, cinnamon powder, salt, and water to create the sauce. Stir well until all ingredients are dissolved.",
+    "Heat up a pan over medium heat. Add olive oil if desired (optional).",
+    "Add strawberries into the pan, tossing them gently with the sauce mixture for about 5 minutes or until they start to soften and slightly brown on the edges.",
+    "Remove from heat once they reach your preferred level of doneness and seasoning. Garnish with fresh mint leaves before serving.",
+    "Serve immediately as a dessert or as an accompaniment to any meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "dense",
+    "stir-fry",
+    "strawberries",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 1
+  },
+  "slug": "floral-dense-saudia-strawberries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-dense-saudia-strawberries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:36:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "strawberries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "strawberries",
+    "descriptor": "Floral Dense",
+    "dishForm": "Stir-fry"
+  }
+}
