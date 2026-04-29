@@ -1,0 +1,71 @@
+{
+  "title": "Flaky Fermented Brazilian Cauim Crumble",
+  "description": "A quick and easy dish perfect for weeknights, this fermented crumble features canola oil and is kosher-friendly.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pumpkin puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "agave nectar syrup",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small mixing bowl, combine canola oil, flaxseed meal, and salt. Mix well until no lumps remain.",
+    "Add pumpkin puree and agave nectar syrup to the dry ingredients in the mixing bowl. Stir together until a smooth crumble forms.",
+    "Transfer the crumble mixture onto an oiled baking sheet. Bake for 12-15 minutes or until golden brown.",
+    "Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "fermented",
+    "brazilian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "flaky-fermented-brazilian-cauim-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fermented-brazilian-cauim-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:02:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "canola oil",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cauim",
+    "descriptor": "Flaky Fermented",
+    "dishForm": "Crumble"
+  }
+}
