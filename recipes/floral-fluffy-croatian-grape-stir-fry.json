@@ -1,0 +1,85 @@
+{
+  "title": "Floral Fluffy Croatian Grape Stir-fry",
+  "description": "A floral and fluffy dish featuring grape juice as the star ingredient, perfect for a post-workout meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken breast (optional)",
+      "amount": "200g",
+      "notes": "For a meat option, cook separately before mixing in."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Minced finely for flavor enhancement."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 small",
+      "notes": "Chopped finely to add freshness and crunch."
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pepper flakes (dash-friendly)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Prepare the grape juice by chilling it, then pour over ingredients in a wok or large skillet.",
+    "Heat sesame oil in a preheated pan with garlic and scallions until fragrant.",
+    "Add chicken breast (if using) and cook until fully cooked. Remove from heat.",
+    "In the same pan, add fresh thyme leaves and pepper flakes. Stir-fry for 1-2 minutes.",
+    "Mix grape juice mixture into the pan with the stir-fried ingredients, adjusting seasoning as needed.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "grape",
+    "stir-fry",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "floral-fluffy-croatian-grape-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-croatian-grape-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:14:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "grape juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Grape",
+    "descriptor": "Floral Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
