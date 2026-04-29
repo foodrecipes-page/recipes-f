@@ -1,0 +1,92 @@
+{
+  "title": "Fermented Gooey Adventurous Chinese Apple Stir-fry",
+  "description": "This vegan-friendly stir-fry combines the unique flavors of fermented foods with sweet and tangy apples, creating an adventurous yet comforting meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 small apple",
+      "amount": "medium",
+      "notes": "preferably a variety with high sugar content like Fuji or Honeycrisp"
+    },
+    {
+      "name": "1/2 cup fermented black beans",
+      "amount": "heaping",
+      "notes": "ensure they are thoroughly washed and soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "1 tablespoon soy sauce (tamari)",
+      "amount": "standard measuring spoon",
+      "notes": "adjust to taste, as tamari is saltier than traditional soy sauce"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "large",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Juice of 1 lime (optional)",
+      "amount": "juice of one",
+      "notes": "to balance the sweet and savory flavors"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "standard measuring spoon",
+      "notes": "ensure it is vegan-friendly if using animal-derived products"
+    },
+    {
+      "name": "1 cup shredded daikon radish (optional)",
+      "amount": "standard measuring cup",
+      "notes": "can add crunch and umami flavor to the dish"
+    }
+  ],
+  "instructions": [
+    "Wash all ingredients thoroughly. If using lime, ensure it is freshly squeezed.",
+    "Chop apples into bite-sized pieces. Soak fermented black beans in water for at least 30 minutes.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add garlic and daikon (if using), stirring for about 2 minutes until fragrant.",
+    "Add the apple pieces to the pan, cooking for another 2-3 minutes until they start to soften slightly.",
+    "Drain the fermented black beans, add them to the wok, along with any soaking water if available. Stir-fry for an additional 1 minute.",
+    "Pour in soy sauce (or tamari), and lime juice (if using). Mix well and continue to stir-fry until the apple pieces are heated through and slightly caramelized.",
+    "Remove from heat and serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gooey",
+    "adventurous",
+    "chinese",
+    "stir-fry",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "fermented-gooey-adventurous-chinese-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-adventurous-chinese-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:14:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "apples",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "apple",
+    "descriptor": "Fermented Gooey Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
