@@ -1,0 +1,71 @@
+{
+  "title": "Fresh Korean Strawberry Stir-fry",
+  "description": "A fresh and silky lazy-sunday korean dish featuring a fruity mix in a quick stir-fry that's also paleo-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Palm-sized handful of sliced almonds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice from half a lime",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Place the strawberries in a baking dish and sprinkle with sliced almonds, sea salt, and a drizzle of lime juice.",
+    "Bake for about 15 minutes or until slightly caramelized and fragrant. Keep an eye on them so they don't burn.",
+    "Once done, remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "strawberry",
+    "korean",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 179,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "fresh-korean-strawberry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-korean-strawberry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:47:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "fruit mix",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "strawberry",
+    "descriptor": "fresh",
+    "dishForm": "Stir-fry"
+  }
+}
