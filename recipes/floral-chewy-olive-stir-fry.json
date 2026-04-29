@@ -1,0 +1,86 @@
+{
+  "title": "Floral Chewy Olive Stir-fry",
+  "description": "A floral and chewy Egyptian dish perfect for a date night, featuring olives as the main ingredient. Pescatarian-friendly.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sun-dried Tomatoes, chopped (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Leaves, soaked and chopped (for flavoring)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Dates, pitted and chopped",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Feta Cheese, crumbled (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Herbs like Thyme or Rosemary",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped onion and minced garlic, sauté until translucent.",
+    "If using sun-dried tomatoes, add them now to the mixture.",
+    "Fold in soaked and chopped olive leaves for additional flavoring.",
+    "Stir in pitted and chopped dates, crumbled feta cheese (if using), and fresh herbs like thyme or rosemary.",
+    "Simmer gently for about 10 minutes until the ingredients are well combined and flavors meld together.",
+    "Serve warm as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "chewy",
+    "egyptian",
+    "stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 13
+  },
+  "slug": "floral-chewy-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:49:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "olives",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "olives",
+    "descriptor": "Floral Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
