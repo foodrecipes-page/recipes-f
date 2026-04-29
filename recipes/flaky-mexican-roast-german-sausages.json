@@ -1,0 +1,95 @@
+{
+  "title": "Flaky Mexican Roast German Sausages",
+  "description": "A crowd-pleasing mexican dish featuring low-fat-friendly roast german sausages that are seasoned with herbs for a deliciously flaky texture and a tangy kick.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-fat",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "8 oz",
+      "notes": "Low-fat variety"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For searing and brushing the sausages"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "Minced for seasoning"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oregano leaves",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Tangy yogurt sauce",
+      "amount": "For serving",
+      "notes": "Optional, for extra tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Heat the olive oil in a small pan over medium heat. Add minced garlic and sauté until fragrant.",
+    "Place German sausages on a baking sheet lined with parchment paper, drizzle them with extra virgin olive oil, sprinkle with salt, pepper, oregano, red pepper flakes, and minced garlic.",
+    "Roast the sausages in the oven for 15 minutes or until they reach an internal temperature of 145°F (63°C).",
+    "Remove from heat and let them cool slightly. Serve warm with a side of tangy yogurt sauce if desired.",
+    "To make the tangy yogurt sauce, mix together low-fat plain yogurt, chopped parsley, lemon juice, and salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "herbal",
+    "mexican",
+    "german-sausages"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "flaky-mexican-roast-german-sausages",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-mexican-roast-german-sausages",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:21:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "german sausages",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "German Sausages",
+    "descriptor": "Flaky",
+    "dishForm": "Roast"
+  }
+}
