@@ -1,0 +1,84 @@
+{
+  "title": "Floral, Fluffy Poached Pistachio Crust",
+  "description": "This floral and fluffy dessert features a keto-friendly poached pistachio crust made from ready-to-roll shortcrust pastry dough.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pistachio Crust Dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "30 ml (2 tbsp)"
+    },
+    {
+      "name": "Vanilla Bean Extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "15 g (1 Tbsp, lightly packed)"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "60 g (about 3/4 cup, chopped finely"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "3 ml (2 tsp)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 175°C (350°F).",
+    "Place the sheet of Pistachio Crust Dough on a lightly floured surface.",
+    "Cut out a circle slightly larger than your desired crust size and set aside.",
+    "In a small saucepan, combine Heavy Cream, Vanilla Bean Extract, Sugar, chopped Pistachios, and Rose Water over medium heat. Stir until the sugar dissolves.",
+    "Bring to a gentle simmer then remove from heat immediately. Pour into prepared dough circle evenly distributing the mixture.",
+    "Using tongs or a spatula, gently transfer the filled crust onto an oven-safe dish lined with parchment paper (if using).",
+    "Bake for 15 minutes until golden brown and set.",
+    "Remove from oven and allow to cool before removing from crust."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "adventurous",
+    "ukrainian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3.5,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "floral-fluffy-poached-pistachio-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-poached-pistachio-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:13:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pistachios",
+    "descriptor": "Floral, Fluffy",
+    "dishForm": "Poached"
+  }
+}
