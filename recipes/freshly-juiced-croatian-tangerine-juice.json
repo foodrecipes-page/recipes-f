@@ -1,0 +1,62 @@
+{
+  "title": "Freshly Juiced Croatian Tangerine Juice",
+  "description": "A fresh and refreshing drink perfect for cold days, featuring tender tangerines and canned tomatoes to add a savory twist.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "drink",
+  "ingredients": [
+    {
+      "name": "Freshly squeezed tangerine juice",
+      "amount": "1 cup fresh orange juice"
+    },
+    {
+      "name": "Canned tomatoes (whole or diced)",
+      "amount": "2 tablespoons",
+      "notes": "Drained if canned whole"
+    }
+  ],
+  "instructions": [
+    "Squeeze the freshly harvested tangerines to obtain about 1 cup of juice.",
+    "Prepare 2 tablespoons of drained canned tomatoes or 4-6 whole canned tomatoes, depending on preference and availability.",
+    "Place the canned tomatoes in a small saucepan over medium heat. Gently warm until hot but not boiling.",
+    "Deglaze the pan with a tablespoon of fresh orange juice from the squeezed tangerines to create a simple syrup-like base for the juice.",
+    "Pour the warmed tomato mixture into a blender or use the back of a spoon to slowly blend in the deglazed juice and remaining fresh orange juice.",
+    "Blend until smooth, adding more warm liquid if necessary to achieve your desired consistency. You may need to add additional fresh orange juice based on the tomatoes' water content.",
+    "Strain any large chunks or seeds out with a fine mesh strainer into a glass pitcher for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "juice",
+    "tomatoes",
+    "canned"
+  ],
+  "nutrition": {
+    "calories": 43,
+    "protein": 0.7,
+    "carbs": 10.5,
+    "fat": 0
+  },
+  "slug": "freshly-juiced-croatian-tangerine-juice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-juiced-croatian-tangerine-juice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:03:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tangerine",
+    "descriptor": "Freshly Juiced",
+    "dishForm": "Juice"
+  }
+}
