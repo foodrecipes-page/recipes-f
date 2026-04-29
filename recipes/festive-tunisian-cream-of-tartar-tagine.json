@@ -1,0 +1,83 @@
+{
+  "title": "Festive Tunisian Cream of Tartar Tagine",
+  "description": "A festive and sweet dish featuring cream of tartar in a low-fat-friendly version of the traditional tagine, perfect for dessert or as a festive treat.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cream of tartar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, mix together cream of tartar and baking powder.",
+    "Add heavy cream to the mixture in the saucepan. Heat over medium heat until it starts to boil, stirring occasionally.",
+    "Reduce heat to low and simmer for about 5 minutes or until slightly thickened.",
+    "Stir in sugar, almond extract, and vanilla extract. Remove from heat and let sit for a few minutes to cool down.",
+    "In another saucepan, bring water to a boil with tapioca pearls added, stirring gently to avoid breaking the pearls.",
+    "Let the pearls cook for about 10-15 minutes until they are cooked but not soft.",
+    "Fold the cream mixture into the cooled pearl mixture. Serve immediately or refrigerate if serving later."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "tunisian",
+    "cream_of_tartar",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "festive-tunisian-cream-of-tartar-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-tunisian-cream-of-tartar-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:38:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "cream of tartar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cream of tartar",
+    "descriptor": "Festive",
+    "dishForm": "Tagine"
+  }
+}
