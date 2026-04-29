@@ -1,0 +1,97 @@
+{
+  "title": "Festive Tangy Soy Tofu Stir-fry",
+  "description": "A dense and festive Korean dish featuring shaoxing wine and fermented ingredients, this tangy stir-fry is dairy-free and perfect for a savory snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Extra Firm Tofu",
+      "amount": "1 block (about 500g)",
+      "notes": "Press to remove excess water"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Regular soy sauce is fine, but tamari may be used for a gluten-free option"
+    },
+    {
+      "name": "Shaoxing Wine",
+      "amount": "1 tablespoon",
+      "notes": "Reduces bitterness and adds depth of flavor"
+    },
+    {
+      "name": "Fermented Black Beans",
+      "amount": "2 tablespoons",
+      "notes": "Use 30% less than standard measurements as they are concentrated"
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "1 small bunch",
+      "notes": "Green parts only for color and flavor"
+    },
+    {
+      "name": "Fresh Ginger, finely minced",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Garlic Sauce or Paste (optional)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Soy Milk or Coconut Milk",
+      "amount": "30ml",
+      "notes": "For a creamy texture, optional but recommended"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess water and cut into small cubes.",
+    "Heat oil in a wok or large frying pan. Add sliced scallions and ginger for aroma.",
+    "Add fermented black beans and fry until fragrant and slightly darker.",
+    "Drain any excess soy milk, if used, from the tofu cubes. Toss with soy sauce and shaoxing wine. If using chili garlic sauce, add now and stir-fry gently.",
+    "Fold in cooked black bean mixture, and mix well to combine all ingredients evenly.",
+    "If desired, let the dish cook for an additional minute or two until heated through.",
+    "Serve hot as a snack or light meal with steamed vegetables on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-korean",
+    "tangy-stir-fry",
+    "soy-milk-friendly",
+    "fermented-black-beans",
+    "no-dairy",
+    "shaoxing-wine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "festive-tangy-soy-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-tangy-soy-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:54:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Festive Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
