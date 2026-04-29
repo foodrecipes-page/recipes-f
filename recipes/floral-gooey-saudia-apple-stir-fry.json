@@ -1,0 +1,79 @@
+{
+  "title": "Floral Gooey Saudia Apple Stir-fry",
+  "description": "A floral and gooey low-carb-friendly Saudi Arabian dish featuring Braeburn apples baked to perfection.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 (medium-sized)"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sugar substitute (like erythritol or stevia)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Wash and slice the Braeburn apples into thin rounds. Arrange them in a baking dish.",
+    "Mix together coconut oil, cinnamon powder, all-purpose flour, vanilla extract, and sugar substitute until well combined.",
+    "Pour the mixture evenly over the sliced apples.",
+    "Bake for 15 minutes or until the topping is golden brown and the apples are tender but not mushy.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "gooey",
+    "saudia-arabian",
+    "apple-stir-fry",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "floral-gooey-saudia-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-gooey-saudia-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:01:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "braeburn apples",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "apple",
+    "descriptor": "Floral Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
