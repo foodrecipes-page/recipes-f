@@ -1,0 +1,98 @@
+{
+  "title": "Flaky Smoky Lamb Mince Wraps",
+  "description": "This smoky and flaky lamb mince wrap is a low-calorie-friendly brunch dish that blends Ukrainian flavors with savory ingredients for an easy-to-make meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "150g"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced onion",
+      "amount": "30g"
+    },
+    {
+      "name": "egg white",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "5g"
+    },
+    {
+      "name": "vegetable wraps",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix ground lamb, salt, pepper, garlic powder, and smoked paprika in a bowl. Set aside.",
+    "In a small pan, heat olive oil over medium heat. Add minced onion and sauté for about 2 minutes until soft and translucent.",
+    "Add the ground lamb mixture to the onion and gently cook for another minute. Remove from heat and let it cool slightly.",
+    "Beat egg white in a separate bowl until frothy. Gradually fold the cooled meat mixture into the beaten egg white, adding flour as needed to prevent sticking.",
+    "Shape the filling into 4 small balls using your hands or spoon. Place each ball on a vegetable wrap and wrap tightly by rolling from one end to another.",
+    "Place wraps in a greased baking dish. Brush with olive oil if desired. Bake for about 8-10 minutes until golden brown and slightly crispy around the edges.",
+    "Serve hot as a breakfast or snack option."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "smoky",
+    "ukrainian",
+    "brunch",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "carbs": 3,
+    "fat": 6
+  },
+  "slug": "flaky-smoky-lamb-mince-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-smoky-lamb-mince-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:59:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "lamb mince",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lamb mince",
+    "descriptor": "Smoky Flaky",
+    "dishForm": "Wraps"
+  }
+}
