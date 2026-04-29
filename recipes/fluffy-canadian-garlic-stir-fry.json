@@ -1,0 +1,73 @@
+{
+  "title": "Fluffy Canadian Garlic Stir-fry",
+  "description": "A comforting date-night dish featuring a delicate blend of garlic and herbs, seasoned perfectly for a fluffy texture and suitable as a low-carb option.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "30g, soaked and drained"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/4 red, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Place chicken breast in a bowl, season with salt, pepper, and a pinch of dried dill. Let sit for 5 minutes to marinate slightly.",
+    "Heat a non-stick skillet over medium-high heat. Add water chestnuts and bell peppers; sauté until softened, about 2-3 minutes.",
+    "Add finely chopped onion to the skillet and cook until translucent, approximately 1 minute. Stir in garlic slices, cooking until fragrant but not burnt, around 1 minute more.",
+    "Combine marinated chicken with onion mixture. Cook for 5 minutes on each side or until fully cooked through. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "garlic",
+    "stir-fry",
+    "fluffy",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "fluffy-canadian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-canadian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:48:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "seasoning",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
