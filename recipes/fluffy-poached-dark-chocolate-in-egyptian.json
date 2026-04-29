@@ -1,0 +1,78 @@
+{
+  "title": "Fluffy Poached Dark Chocolate in Egyptian Style",
+  "description": "This quick-fix dessert features dark chocolate poached in a flavorful mixture of spices and liquids for an earthy, fluffy texture, perfect for any time of day.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "120g dark chocolate",
+      "amount": "8 bars (45g each)",
+      "notes": "For a more intense flavor, use 6 bars (105g total)"
+    },
+    {
+      "name": "3 cups almond milk or any other nut-free milk",
+      "amount": "3 cups",
+      "notes": "Substitute with dairy-free creamer if preferred"
+    },
+    {
+      "name": "2 tablespoons honey syrup",
+      "amount": "2 tbsp",
+      "notes": "Can be made by mixing 1 tablespoon of honey with 1 tablespoon of hot water"
+    },
+    {
+      "name": "4 cinnamon sticks",
+      "amount": "4",
+      "notes": "Freshly grated ginger or a pinch of ground cardamom can also be added for extra flavor"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "To help with thickening the mixture when poaching chocolate"
+    }
+  ],
+  "instructions": [
+    "Combine almond milk, honey syrup, cinnamon sticks, and a pinch of salt in a saucepan. Heat over medium heat until it just starts to simmer but not boiling.",
+    "Add all-purpose flour gradually while stirring continuously until no lumps are left. The mixture will thicken slightly.",
+    "Remove from heat and let it cool for about 5 minutes.",
+    "Gently break the dark chocolate into pieces, avoiding large chunks that might sink to the bottom of the pot. Place them in the cooled milk mixture and stir gently with a spoon or spatula until well combined.",
+    "Place the saucepan on medium-low heat and continue to simmer gently for about 5-7 minutes without stirring. The chocolate should float on top.",
+    "Using a slotted spoon, carefully transfer the poached dark chocolate pieces into small serving dishes or glasses.",
+    "Serve immediately with a dollop of whipped cream (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-flavor",
+    "dark-chocolate-poaching",
+    "nut-free-dessert",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 27
+  },
+  "slug": "fluffy-poached-dark-chocolate-in-egyptian",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-poached-dark-chocolate-in-egyptian",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:54:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "dark chocolate",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dark chocolate",
+    "descriptor": "fluffy",
+    "dishForm": "Poached"
+  }
+}
