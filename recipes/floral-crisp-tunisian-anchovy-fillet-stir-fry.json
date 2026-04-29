@@ -1,0 +1,92 @@
+{
+  "title": "Floral Crisp Tunisian Anchovy Fillet Stir-fry",
+  "description": "A show-off dish featuring crispy anchovy fillets caramelized in a floral sauce with herbs and spices for a kosher-friendly meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aubergine (eggplant)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Anchovy Fillets",
+      "amount": "8-10 fillets"
+    },
+    {
+      "name": "Herbes de Provence",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice aubergine and bell pepper into thin strips. Season both with salt.",
+    "Arrange on baking sheet lined with parchment paper, drizzle lightly with olive oil and sprinkle herbes de Provence over.",
+    "Bake for 15-20 minutes or until tender and slightly browned.",
+    "Meanwhile, prepare anchovy fillets by rubbing them gently with minced garlic cloves and a pinch of salt. Toss in a bit of olive oil to prevent sticking.",
+    "Heat a large skillet over medium-high heat. Add a few tablespoons of olive oil, then place anchovy fillets skin side down and cook for about 3-4 minutes or until golden brown.",
+    "Remove from heat, add red wine vinegar to the pan, stir well to combine with garlic and cooking juices.",
+    "Add sliced vegetables to the same skillet. Stir-fry them together gently for another 5-7 minutes until they're just tender but still crisp.",
+    "Combine caramelized anchovy sauce with vegetables, garnish with fresh herbs if desired, serve hot as a main course."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "crisp",
+    "tunisian",
+    "anchovy",
+    "stir-fry",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "floral-crisp-tunisian-anchovy-fillet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-tunisian-anchovy-fillet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:45:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "anchovy fillet",
+    "descriptor": "floral crisp",
+    "dishForm": "Stir-fry"
+  }
+}
