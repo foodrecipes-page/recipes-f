@@ -1,0 +1,82 @@
+{
+  "title": "Fluffy Jam Peanut Stir-fry",
+  "description": "A savory and fluffy Vietnamese dish featuring jam, roasted peanuts, and a mix of vegetables for a kid-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jambalaya sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "2 tablespoons",
+      "notes": "roasted"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Green peas",
+      "amount": "1/4 cup, frozen or fresh"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or frying pan over medium-high heat. Add peanuts and sauté until golden brown.",
+    "Add onions, carrots, and garlic to the pan; cook for about 5 minutes until vegetables are tender.",
+    "Stir in jambalaya sauce, chicken broth, and soy sauce. Bring to a boil then reduce heat to low.",
+    "Gradually stir in frozen peas, continuing to stir constantly until the mixture thickens slightly.",
+    "Garnish with additional peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-jam-peanut-stir-fry",
+    "savory-kid-friendly-vietnamese-dish"
+  ],
+  "nutrition": {
+    "calories": 201,
+    "protein": 7.9,
+    "carbs": 35.6,
+    "fat": 8.4
+  },
+  "slug": "fluffy-jam-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-jam-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:40:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "jam",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "peanut",
+    "descriptor": "Fluffy Jam",
+    "dishForm": "Stir-fry"
+  }
+}
