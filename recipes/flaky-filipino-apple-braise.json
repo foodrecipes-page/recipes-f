@@ -1,0 +1,78 @@
+{
+  "title": "Flaky Filipino Apple Braise",
+  "description": "This floral and flaky dish is an energizing Filipino breakfast option featuring applesauce, cooked in a low-fat-friendly manner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat",
+    "healthy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsweetened applesauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "freshly grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened applesauce concentrate (optional)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Combine unsweetened applesauce, apple cider vinegar, coconut oil, cinnamon, and grated ginger in a mixing bowl. Stir well until all ingredients are evenly distributed.",
+    "If desired, add the optional unsweetened applesauce concentrate for an extra tangy flavor.",
+    "Pour the mixture into a baking dish. Bake for 20-25 minutes or until heated through and slightly bubbly on top.",
+    "Remove from oven and let cool for about 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "filipino",
+    "apple",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 37,
+    "fat": 6
+  },
+  "slug": "flaky-filipino-apple-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-filipino-apple-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:30:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "applesauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Apple",
+    "descriptor": "Flaky",
+    "dishForm": "Braise"
+  }
+}
