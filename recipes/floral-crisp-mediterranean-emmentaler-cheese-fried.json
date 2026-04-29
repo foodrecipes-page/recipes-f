@@ -1,0 +1,75 @@
+{
+  "title": "Floral Crisp Mediterranean Emmentaler Cheese Fried",
+  "description": "A crispy and flavorful hangover-cure dish featuring emmental cheese fried in a Mediterranean style, perfect for quick snacking or as an appetizer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Emmentaler Cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Meal (or Almond Flour for Nut-Free Option)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Herbs (like Dill or Chives, finely chopped)",
+      "notes": "Optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix grated Emmentaler cheese with almond meal and garlic powder. Add herbs if using.",
+    "Heat olive oil in a non-stick frying pan over medium heat.",
+    "Form small balls of the mixture and fry until golden brown, about 2-3 minutes per side.",
+    "Transfer to a paper towel-lined plate to drain excess grease.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "floral",
+    "emmental",
+    "fried",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "floral-crisp-mediterranean-emmentaler-cheese-fried",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-mediterranean-emmentaler-cheese-fried",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:26:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Emmentaler Cheese",
+    "descriptor": "Floral Crisp",
+    "dishForm": "Fried"
+  }
+}
