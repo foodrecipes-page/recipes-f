@@ -1,0 +1,92 @@
+{
+  "title": "Fermented Indian Rice Stick Noodles Stir-fry",
+  "description": "A dense and crowd-pleasing Indian dish featuring fermented rice stick noodles as the star ingredient, combined with Mediterranean-friendly flavors for a perfect accompaniment to any meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Indian Rice Stick Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "4-6"
+    },
+    {
+      "name": "Tomato Slices",
+      "amount": "200g"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add cumin seeds and let them sizzle for about 30 seconds.",
+    "Add finely chopped onions and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for another minute.",
+    "Toss in red chili peppers and continue to stir-fry until they start to soften, approximately 2-3 minutes.",
+    "Increase heat to medium and add tomato slices. Cook until tomatoes are soft and released their juices.",
+    "Season with coriander powder and garam masala. Stir well to combine.",
+    "Transfer the mixture onto a serving dish.",
+    "Divide evenly among plates or bowls and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-rice-stick-noodles",
+    "mediterranean-friendly",
+    "crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "fermented-indian-rice-stick-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-indian-rice-stick-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:28:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice Stick Noodles",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
