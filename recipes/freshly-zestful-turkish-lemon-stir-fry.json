@@ -1,0 +1,94 @@
+{
+  "title": "Freshly Zestful Turkish Lemon Stir-fry",
+  "description": "A fresh and tender solo-dinner turkish dish featuring star anise, prepared with Mediterranean-friendly ingredients.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "1",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "cup",
+      "notes": "halved"
+    },
+    {
+      "name": "1/2 red bell pepper",
+      "amount": "piece",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "1/2 yellow bell pepper",
+      "amount": "piece",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": null
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": null
+    },
+    {
+      "name": "1 teaspoon star anise",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and dry all ingredients. In a small bowl, mix lemon juice, minced garlic, salt, black pepper, and star anise.",
+    "Heat olive oil in a large skillet over medium heat. Add cherry tomatoes and bell peppers to the pan.",
+    "Stir-fry for about 5 minutes until the vegetables start to soften. Then add the lemon mixture and parsley, stir well until everything is heated through.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "freshly-zestful-turkish-lemon-stir-fry",
+    "solo-dinner",
+    "turkish-dish",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "freshly-zestful-turkish-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-zestful-turkish-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:36:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "star anise",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lemon",
+    "descriptor": "Freshly Zestful",
+    "dishForm": "Stir-fry"
+  }
+}
