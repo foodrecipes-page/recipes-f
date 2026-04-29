@@ -1,0 +1,94 @@
+{
+  "title": "Fried Algerian Vine Leaves Stir-fry",
+  "description": "This tangy and creamy dish features fried vine leaves with a mix of vegetables for an adventurous vegetarian-friendly meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "1 cup fresh, cleaned and roughly chopped",
+      "notes": "ensure they are thoroughly washed to remove any bitterness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "use white or yellow onions for better flavor"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6, minced",
+      "notes": "adjust based on preference and taste sensitivity"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup",
+      "notes": "for the tangy element"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp fresh or 1 tsp bottled",
+      "notes": "to balance the saltiness and add a citrus twist"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "adjust to taste, considering already salty vine leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying and sautéing"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small, finely chopped",
+      "notes": "adds a bit of color and crunch to the dish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic; sauté until translucent, about 5 minutes.",
+    "Stir in tomato paste, lemon juice, salt, and continue cooking for another minute to meld flavors.",
+    "Fold in the vine leaves and bell pepper. Cover the pan and cook for about 10 minutes or until the leaves are tender but still have some bite.",
+    "Garnish with fresh herbs if available (optional).",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-dish",
+    "vegetable-stir-fry",
+    "vine-leaves-recipe",
+    "creamy-and-tangy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 12
+  },
+  "slug": "fried-algerian-vine-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-algerian-vine-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:18:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "vine leaves",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Vine leaves",
+    "descriptor": "Fried",
+    "dishForm": "Stir-fry"
+  }
+}
