@@ -1,0 +1,79 @@
+{
+  "title": "Floral Light Japanese Gelatin Crumble",
+  "description": "A paleo-friendly dessert featuring floral-flavored gelatin that showcases a light and airy texture achieved through air-frying.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unflavored Japanese Gelatin",
+      "amount": "2 packets"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pomegranate Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Dissolve the gelatin in 1 cup of water and let it cool.",
+    "Add pomegranate syrup into the cooled gelatin mixture and stir well until fully combined.",
+    "Fold in almond meal gradually until you get a crumbly texture.",
+    "Gently fold in coconut flakes for additional texture and flavor.",
+    "Transfer the mixture onto an air fryer-safe baking sheet lined with parchment paper.",
+    "Sprinkle more almond meal on top to create visible ridges, if desired.",
+    "Air fry for about 5-7 minutes or until golden brown. Keep a close eye as it can go from caramelized and crisp to burnt quickly.",
+    "Let the dessert cool down before serving to ensure best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "light",
+    "japanese",
+    "dessert",
+    "paleo-friendly",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "floral-light-japanese-gelatin-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-light-japanese-gelatin-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:35:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "air-fry",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "gelatin",
+    "descriptor": "Floral Light",
+    "dishForm": "Crumble"
+  }
+}
