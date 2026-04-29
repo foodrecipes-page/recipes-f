@@ -1,0 +1,91 @@
+{
+  "title": "Fermented Flaky Middle Eastern Turkey Neck Crockpot Crumble",
+  "description": "This dish is perfect for a cozy date night featuring fermented flaky texture from smoked turkey necks with a tadka seasoning blend. Suitable for jain followers.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 pound smoked turkey neck",
+      "amount": "1 lb"
+    },
+    {
+      "name": "2 tablespoons ghee (clarified butter)",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh cilantro",
+      "amount": "1/4 C"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh mint leaves",
+      "amount": "1/4 C"
+    },
+    {
+      "name": "1 tablespoon ground cumin seeds",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "1 teaspoon ground coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "1 piece"
+    },
+    {
+      "name": "1/2 teaspoon turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your crockpot (or stovetop) to low heat.",
+    "In a small bowl, mix together cumin seeds, coriander seeds, minced garlic, turmeric powder, and salt. Add ghee and mix well until the spices are evenly coated with oil.",
+    "Place turkey necks in the crockpot (or on stovetop), pour the seasoned ghee mixture over them, then cover with a lid and cook for 6-8 hours or until the meat is falling off the bone. Stir occasionally during cooking.",
+    "Once cooked, remove the turkey necks from the crockpot or pot, place them in a plate, and let it cool slightly before scraping the inside of the crockpot (or container) to get all the flavorful paste left behind. Discard any bones or debris.",
+    "In a mixing bowl, combine cooled turkey neck meat with cilantro and mint leaves. Mix thoroughly until everything is well combined.",
+    "Garnish with additional fresh herbs like parsley if desired for a vibrant look."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 600,
+  "totalTimeMin": 604,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "flaky",
+    "middle-eastern",
+    "date-night",
+    "smoked-turkey-neck",
+    "tadka",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 13
+  },
+  "slug": "fermented-flaky-middle-eastern-turkey-neck-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-flaky-middle-eastern-turkey-neck-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:24:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Turkey Neck",
+    "descriptor": "Fermented Flaky",
+    "dishForm": "Crumble"
+  }
+}
