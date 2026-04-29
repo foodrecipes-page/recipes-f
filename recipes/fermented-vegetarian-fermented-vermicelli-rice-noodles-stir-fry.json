@@ -1,0 +1,74 @@
+{
+  "title": "Fermented Vegetarian Fermented Vermicelli Rice Noodles Stir-fry",
+  "description": "A post-workout Venezuelan dish featuring roasted and raw-friendly fermented vermicelli rice noodles with a blend of vegetables and spices for an enjoyable and nutritious meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Vermicelli Rice Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Blend (bell peppers, carrots, onions, mushrooms)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Pepper",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse and soak the fermented vermicelli rice noodles in water for at least 30 minutes.",
+    "Dry them on a clean kitchen towel, then chop them into bite-sized pieces.",
+    "In a large skillet, heat some oil over medium-high heat. Add the chopped vermicelli, followed by sliced garlic and chili pepper.",
+    "Sauté until the vermicelli is lightly toasted and fragrant, about 5 minutes.",
+    "Add in the vegetable blend and stir-fry for another 3-4 minutes until they are slightly softened but still crunchy.",
+    "Season with salt to taste. Serve hot.",
+    "Enjoy your post-workout Venezuelan dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-vegetarian",
+    "vegan-friendly",
+    "post-workout",
+    "vermicielli-rice-noodles",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "fermented-vegetarian-fermented-vermicelli-rice-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-vegetarian-fermented-vermicelli-rice-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:35:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "roast",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Vermicelli Rice Noodles",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
