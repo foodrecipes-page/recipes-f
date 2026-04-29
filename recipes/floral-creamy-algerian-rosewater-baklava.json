@@ -1,0 +1,75 @@
+{
+  "title": "Floral Creamy Algerian Rosewater Baklava",
+  "description": "A kid-friendly, dairy-free dessert featuring a floral and creamy filling with the aroma of rosewater and infused with bay leaves for an added depth of flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons sugar",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "notes": "For added warmth and depth"
+    },
+    {
+      "name": "1 tablespoon dried currants",
+      "amount": ""
+    },
+    {
+      "name": "6 bay leaves, coarsely chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix almond flour and sugar in a bowl until well combined.",
+    "Stir in cinnamon and currants. Fold in crushed bay leaves.",
+    "Line a baking sheet with parchment paper for easy removal.",
+    "Spread the mixture evenly on the prepared sheet to form a thin layer.",
+    "Place it in preheated oven for 5 minutes, or until golden brown.",
+    "Remove from heat and cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-dessert",
+    "kids-friendly",
+    "flower-infused",
+    "butter-free"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 1
+  },
+  "slug": "floral-creamy-algerian-rosewater-baklava",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-algerian-rosewater-baklava",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:37:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "bay leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Rosewater",
+    "descriptor": "Floral Creamy",
+    "dishForm": "Baklava"
+  }
+}
