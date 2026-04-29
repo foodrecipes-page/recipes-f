@@ -1,0 +1,88 @@
+{
+  "title": "Fragrant Portuguese Potatoe Buns",
+  "description": "Floral and silky potatoe buns with a touch of dairy-free milk for the perfect brunch dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium potatoes"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup all-purpose flour"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet active dry yeast"
+    },
+    {
+      "name": "milk",
+      "amount": "6 oz almond milk (dairy-free)"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons baking powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon salt"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "flavoring extracts",
+      "amount": "3-4 drops almond extract"
+    }
+  ],
+  "instructions": [
+    "Peel and boil the potatoes until they are soft, then mash them with a fork.",
+    "In a large bowl, combine mashed potatoes, flour, yeast, milk, baking powder, salt, vegetable oil, and extracts. Mix well to form a dough.",
+    "Let the mixture rest for 10 minutes before kneading thoroughly by hand or using a stand mixer until smooth and elastic.",
+    "Preheat your oven to 350°F (175°C). Divide the dough into balls of about 4-ounce each, then shape them gently into buns.",
+    "Place the buns on a greased baking sheet. Cover with a damp cloth and let rise for about 30 minutes until doubled in size.",
+    "Bake at 350°F (175°C) for about 20-25 minutes or until golden brown.",
+    "Serve warm as a delightful breakfast treat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-cooking",
+    "potato-dishes",
+    "flour-baking",
+    "almond-milk",
+    "yeast-leavened"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "fragrant-portuguese-potatoe-buns",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-portuguese-potatoe-buns",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:40:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "potatoe buns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "potatoe",
+    "descriptor": "Fragrant",
+    "dishForm": "Buns"
+  }
+}
