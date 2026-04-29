@@ -1,0 +1,83 @@
+{
+  "title": "Fried Fermented Gooey Mexican Eggplant",
+  "description": "This solo dinner dish features fried fermented eggplant, a unique twist on traditional recipes with its gooey texture and nut-free-friendly profile.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium-sized fresh eggplants",
+      "amount": "1 each",
+      "notes": "preferably slightly fermented"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1 whole",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3 cloves, minced or crushed finely",
+      "notes": "use more for stronger flavor"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "all juice",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "exact quantity",
+      "notes": "ensure the temperature is not too high to prevent burning"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste",
+      "notes": "commonly used seasoning in Mexican cuisine"
+    }
+  ],
+  "instructions": [
+    "Slice the eggplants into rounds or cubes.",
+    "Cut out a small circle from the center of each slice to allow for easy flipping without sticking too much.",
+    "Season both sides with salt and pepper, then sprinkle finely chopped onion over the eggplant slices.",
+    "Place olive oil in a non-stick skillet over medium heat. When hot, add the prepared eggplants to the skillet.",
+    "Cook for about 3-4 minutes on each side or until golden brown and crispy. Flip carefully using spatulas with handles as they are easy to handle and reduce sticking.",
+    "Add minced garlic into the skillet, stirring well to combine with the eggplant slices, then squeeze lime juice over them.",
+    "Serve hot while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fried-eggplant",
+    "guajillo",
+    "fermented-gooey-mexican-dish",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 4.5,
+    "fat": 3
+  },
+  "slug": "fried-mexican-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-mexican-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:27:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "eggplant",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Fried",
+    "dishForm": "Stir-fry"
+  }
+}
