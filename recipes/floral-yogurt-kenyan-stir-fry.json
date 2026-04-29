@@ -1,0 +1,86 @@
+{
+  "title": "Floral Yogurt Kenyan Stir-fry",
+  "description": "This floral, fluffy dish combines Greek yogurt with a mix of vegetables for a cozy and comforting meal that is nut-free-friendly.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "100g"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "50g"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "60g"
+    },
+    {
+      "name": "Leek",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "25g"
+    },
+    {
+      "name": "Fresh rosemary sprigs",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Boil the broccoli, red bell pepper, and cherry tomatoes for about 3 minutes.",
+    "In a pan, heat olive oil over medium-high heat. Add leeks, diced, and sauté until translucent.",
+    "Stir in the Greek yogurt with mint leaves, rosemary sprigs, and a pinch of salt and black pepper. Cook for an additional minute.",
+    "Fold in the boiled vegetables into the yogurt mixture and mix well.",
+    "Serve hot as a side dish or main meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "fluffy",
+    "cozy",
+    "kenyan",
+    "yogurt",
+    "stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 29,
+    "fat": 17
+  },
+  "slug": "floral-yogurt-kenyan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-yogurt-kenyan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:01:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "greek yogurt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Floral",
+    "dishForm": "Stir-fry"
+  }
+}
