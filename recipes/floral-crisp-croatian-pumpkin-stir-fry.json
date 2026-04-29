@@ -1,0 +1,85 @@
+{
+  "title": "Floral Crisp Croatian Pumpkin Stir-fry",
+  "description": "A floral and crisp post-workout Croatian dish featuring pumpkin as the main ingredient, combined with other aromatic herbs for a healthy twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 large pumpkin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "rosemary sprig",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the pumpkin into thin rounds and remove seeds.",
+    "Cut onion into slices, finely chop garlic cloves, and tear rosemary sprigs.",
+    "Drizzle olive oil over pumpkin slices, sprinkle with salt and pepper, and place in a baking dish. Bake for 25 minutes or until golden brown.",
+    "In a skillet, sauté chopped onions and minced garlic until translucent.",
+    "Add thyme leaves to the skillet, stir-fry for another minute until fragrant.",
+    "Gently mix the baked pumpkin slices into the skillet with onion-garlic-thyme mixture. Add salt and pepper to taste, cook for 2-3 more minutes.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "croatian",
+    "stir-fry",
+    "pumpkin"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "floral-crisp-croatian-pumpkin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-croatian-pumpkin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:05:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "pumpkin",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Floral Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
