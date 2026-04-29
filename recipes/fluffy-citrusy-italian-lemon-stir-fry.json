@@ -1,0 +1,85 @@
+{
+  "title": "Fluffy Citrusy Italian Lemon Stir-fry",
+  "description": "A citrusy and fluffy sick-day Italian dish featuring a mix of spices and demerara sugar for added sweetness without the use of regular sugar, perfect for soothing the soul.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "medium"
+    },
+    {
+      "name": "2 tbsp demerara sugar",
+      "amount": "small handful"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1/4 tsp cumin seed",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 tsp smoked paprika",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/8 tsp ground ginger",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "standard measuring spoon"
+    },
+    {
+      "name": "3 medium bell peppers, diced (red, yellow, green, orange)",
+      "amount": "medium handful"
+    }
+  ],
+  "instructions": [
+    "Wash and finely chop the lemon. Mince the garlic cloves.",
+    "In a small bowl, combine the lemon juice, demerara sugar, minced garlic, cumin seed, smoked paprika, ground ginger, and olive oil. Mix well until the sugar is dissolved.",
+    "Add the bell peppers to the mixing bowl with the spice mixture. Toss gently to ensure all vegetables are coated evenly.",
+    "Heat a non-stick skillet over medium heat and add 2 tablespoons of olive oil. Once hot, pour in the mixed vegetable-lemon sauce from the bowl.",
+    "Stir-fry for about 5 minutes or until bell peppers become tender but still slightly crisp, tossing occasionally to prevent sticking.",
+    "Remove from heat and serve immediately as a sweet and tangy side dish to accompany any meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy-italian-stir-fry",
+    "sugar-free-dish",
+    "quick-side-dish"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 3
+  },
+  "slug": "fluffy-citrusy-italian-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-citrusy-italian-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:39:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "demerara sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lemon",
+    "descriptor": "Fluffy Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
