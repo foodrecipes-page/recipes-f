@@ -1,0 +1,95 @@
+{
+  "title": "Ferment Tender White Sauerkraut Stir-fry",
+  "description": "A herbal and tender Filipino date-night dish featuring white sauerkraut that is kosher-friendly.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white sauerkraut",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 pieces",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 teaspoons",
+      "notes": "grated finely"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add sesame oil and sauté garlic and ginger until fragrant (about 1 minute).",
+    "Add chicken pieces to the pan and cook for about 5 minutes on each side, until golden brown and cooked through.",
+    "Remove chicken from the pan and set aside. In the same pan, add sauerkraut, green onions, soy sauce, fish sauce, rice vinegar, salt, and a pinch of pepper.",
+    "Stir-fry for about 3 minutes until sauerkraut is tender but still slightly crisp, adding chicken back into the mixture if you like it extra flavorful.",
+    "Serve hot with steamed basmati rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ferment-tender",
+    "white-sauerkraut",
+    "herbal-date-night",
+    "filipino-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 346,
+    "protein": 27,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "ferment-tender-white-sauerkraut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ferment-tender-white-sauerkraut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:47:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Herbs",
+    "descriptor": "Tender Ferment White Sauerkraut",
+    "dishForm": "Stir-fry"
+  }
+}
