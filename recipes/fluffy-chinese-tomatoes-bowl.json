@@ -1,0 +1,88 @@
+{
+  "title": "Fluffy Chinese Tomatoes Bowl",
+  "description": "A fresh, fluffy bowl of diced tomatoes poached in a light sauce for a lazy Sunday Chinese meal that's Jain-friendly.",
+  "cuisine": "chinese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "light"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 inch",
+      "notes": "julienned"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      ": ": ", "
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Dice 1 cup tomatoes into small cubes.",
+    "In a small saucepan, combine 1 tbsp light soy sauce, 1/2 inch ginger (julienned), and 1 tsp rice vinegar.",
+    "Cook over medium heat for 3-5 minutes until tomatoes start to soften.",
+    "Stir in 1 small scallions (sliced thin) and 1 tsp honey (optional) for flavor.",
+    "Remove from heat and serve warm over a bed of cooked rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "tomato",
+    "jain",
+    "quick",
+    "lunch",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0
+  },
+  "slug": "fluffy-chinese-tomatoes-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-chinese-tomatoes-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:41:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "fluffy",
+    "dishForm": "Bowl"
+  }
+}
