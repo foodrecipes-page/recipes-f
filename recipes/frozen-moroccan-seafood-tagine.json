@@ -1,0 +1,72 @@
+{
+  "title": "Frozen Moroccan Seafood Tagine",
+  "description": "A rich, dense tagine featuring frozen seafood mix and sous-vide cooking technique, made plant-based friendly with minimal animal products.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix (shrimp, scallops, squid)",
+      "amount": "150g",
+      "notes": "thawed completely"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "5 threads",
+      "notes": "soaked in 1 tbsp warm water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "In a sous-vide bag, combine thawed seafood mix with 1 tbsp olive oil, 1 diced onion, 5 saffron threads (soaked in warm water), and 1 tsp smoked paprika.",
+    "Sous-vide at 65°C for 25 minutes to ensure tender seafood.",
+    "In a pan, sauté 2 tbsp tahini with 1 tbsp water until smooth.",
+    "Combine sous-vide mixture with tahini sauce, garnish with parsley, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "seafood",
+    "sous-vide",
+    "plant-based",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "frozen-moroccan-seafood-tagine",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/frozen-moroccan-seafood-tagine",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:58:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "seafood",
+    "descriptor": "Frozen",
+    "dishForm": "Tagine"
+  }
+}
