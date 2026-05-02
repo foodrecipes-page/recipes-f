@@ -1,0 +1,92 @@
+{
+  "title": "Flaky French Cherry Tomato Pasta",
+  "description": "A spicy, flaky, cozy French dish featuring cherry tomatoes, temper, and mediterranean-friendly ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      ": ": "- "
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "dry"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "for spice"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan",
+      "amount": "20g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and sauté for 1 minute until fragrant.",
+    "Add cherry tomatoes and red pepper flakes; cook for 5 minutes until tomatoes soften.",
+    "Stir in fresh thyme and basil; cook for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with grated parmesan for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "cherrytomatoes",
+    "spicy",
+    "flaky",
+    "cozy",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "flaky-french-cherry-tomato-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-french-cherry-tomato-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:00:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "flaky",
+    "dishForm": "Pasta"
+  }
+}
