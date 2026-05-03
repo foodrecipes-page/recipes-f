@@ -1,0 +1,109 @@
+{
+  "title": "Fluffy Citrus Spanish Cauliflower Paella",
+  "description": "A keto-friendly, citrusy paella where cauliflower takes the place of rice, fluffy thanks to a creamy mayo blend and a touch of saffron, delivering indulgent flavor with a Spanish twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower florets",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ground paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/4 tsp (soaked in 1 tbsp hot water)"
+    },
+    {
+      "name": "Chicken broth, low sodium",
+      "amount": "500ml"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "60g"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "3/4 tsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the saffron threads in 1 tbsp hot water for 5 minutes to release flavor.",
+    "Heat olive oil in a large skillet or paella pan over medium-high heat. Add cauliflower florets and sauté ~4 minutes until lightly browned. Transfer to a plate.",
+    "In the same pan, add diced onion and cook 2 minutes until translucent. Add minced garlic and cook 30 seconds.",
+    "Stir in ground paprika, cooking just until fragrant (~20 seconds).",
+    "Add the saffron infusion and stir to combine.",
+    "Pour in the chicken broth and bring to a gentle simmer. Let it reduce slightly for about 5 minutes.",
+    "Return the cauliflower to the pan, stirring to coat with the broth and spices.",
+    "Reduce heat to low, cover, and simmer for 10 minutes until cauliflower is tender and the liquid has mostly absorbed.",
+    "While the cauliflower cooks, whisk mayonnaise with lemon juice, lemon zest, salt, and pepper until smooth.",
+    "When the cauliflower is cooked, fluff it gently with a fork, then stir in the mayo mixture until the dish becomes creamy and fluffy.",
+    "Taste and adjust seasoning if needed. Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "citrus",
+    "indulgent",
+    "fluffy",
+    "spicy",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 72
+  },
+  "slug": "fluffy-citrus-spanish-cauliflower-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-citrus-spanish-cauliflower-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:35:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "mayonnaise",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Fluffy Citrus",
+    "dishForm": "Paella"
+  }
+}

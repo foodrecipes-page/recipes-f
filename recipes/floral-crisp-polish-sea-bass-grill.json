@@ -1,0 +1,98 @@
+{
+  "title": "Floral Crisp Polish Sea Bass Grill",
+  "description": "A bright, low‑calorie Polish‑inspired grilled sea bass with a floral herb vinaigrette, quick to prepare and packed with protein.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "2 (6 oz each)",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried lavender",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together olive oil, lemon juice, minced garlic, dill, lavender, sea salt, and black pepper to make the vinaigrette.",
+    "Place the sea bass fillets in a shallow dish and pour half of the vinaigrette over them, turning to coat. Cover and let marinate for 5–10 minutes in the refrigerator.",
+    "Preheat a grill or grill pan to medium‑high heat and lightly oil the grates to prevent sticking.",
+    "Remove fillets from the marinating liquid and grill each side for 3–4 minutes, or until the flesh is opaque and reaches an internal temperature of 145 °F (63 °C).",
+    "Transfer the fillets to a serving platter, allow them to rest for 2 minutes, and drizzle the remaining vinaigrette over the top.",
+    "Garnish with chopped fresh parsley and serve immediately with a side of lightly dressed greens or a citrusy cucumber salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "quick-fix",
+    "grilled",
+    "seafood",
+    "floral",
+    "polish",
+    "low-carb",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 20,
+    "carbs": 3,
+    "fat": 14
+  },
+  "slug": "floral-crisp-polish-sea-bass-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-polish-sea-bass-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:35:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sea bass",
+    "descriptor": "Floral Crisp",
+    "dishForm": "Grill"
+  }
+}
