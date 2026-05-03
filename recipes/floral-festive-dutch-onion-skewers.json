@@ -1,0 +1,104 @@
+{
+  "title": "Floral Festive Dutch Onion Skewers",
+  "description": "Crispy, lightly charred onion cubes marinated in a fragrant Dutch-inspired herb blend, garnished with edible flowers for a burst of color and a low‑carb twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red onion",
+      "amount": "1 large (about 200g), cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra‑virgin for best flavor"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Dried lavender buds",
+      "amount": "1 tsp",
+      "notes": "optional, for floral aroma"
+    },
+    {
+      "name": "Edible flowers (e.g., calendula petals)",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium‑high heat (about 200°C / 400°F).",
+    "Thread each onion cube onto metal or soaked wooden skewers (about 6–8 per skewer).",
+    "In a small bowl whisk together olive oil, lemon juice, dried thyme, smoked paprika, garlic powder, salt, pepper, and dried lavender (if using).",
+    "Place the skewer bundle in a shallow dish and pour the herb mixture over, turning to coat all sides; let marinate for 15 minutes.",
+    "Remove the skewers from the marination dish, letting excess drip off, and place them on the preheated grill.",
+    "Cook for 3–4 minutes per side, until the onions are lightly charred and tender; total grilling time ~8 minutes.",
+    "Transfer the skewers to a serving platter and drizzle any remaining sauce from the grill pan over them.",
+    "Sprinkle the edible flowers on top, serve warm, and enjoy the floral sparkle of Dutch tradition."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "dutch",
+    "onion",
+    "skewers",
+    "festive",
+    "floral",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 27
+  },
+  "slug": "floral-festive-dutch-onion-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-festive-dutch-onion-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:09:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "onion",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Onion",
+    "descriptor": "Floral Festive",
+    "dishForm": "Skewers"
+  }
+}
