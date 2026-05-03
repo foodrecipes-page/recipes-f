@@ -1,0 +1,123 @@
+{
+  "title": "Fluffy Spicy Peruvian Potatoes Bowl",
+  "description": "A comforting bowl that marries fluffy, sous‑vide potatoes with vibrant Peruvian spice, topped with creamy avocado, crunchy peanuts, and a citrusy finish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 lb (450 g)",
+      "notes": "cut in half"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for seasoning the potatoes"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ají amarillo paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "to serve"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide bath to 203°F (95°C).",
+    "Wash and halve the baby potatoes; season them with salt, pepper, 2 tbsp of olive oil, lime juice, minced garlic, ají amarillo paste, cumin, and coriander.",
+    "Place the seasoned potatoes in a vacuum‑sealed bag and cook sous‑vide for 45 minutes.",
+    "While the potatoes cook, toast 1/4 cup of peanuts in a dry pan until golden, then crush them.",
+    "Remove the potatoes from the bag, pat them dry, and heat 1 tbsp of extra virgin olive oil in a skillet over medium‑high heat.",
+    "Sear the potatoes for 2–3 minutes, turning until all sides are crisp and golden.",
+    "Transfer the crispy potatoes to a bowl; top with diced avocado, sliced red onion, chopped cilantro, and crushed peanuts.",
+    "Drizzle with a little extra virgin olive oil, squeeze fresh lime wedges over the bowl, and season with additional salt or pepper if needed.",
+    "Serve immediately for a warm, flavorful experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "gluten-free",
+    "sous-vide",
+    "potato",
+    "spicy",
+    "fluffy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 20
+  },
+  "slug": "fluffy-spicy-peruvian-potatoes-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spicy-peruvian-potatoes-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:43:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Fluffy Spicy",
+    "dishForm": "Bowl"
+  }
+}
