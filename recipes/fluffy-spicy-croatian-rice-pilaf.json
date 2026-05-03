@@ -1,0 +1,109 @@
+{
+  "title": "Fluffy Spicy Croatian Rice Pilaf",
+  "description": "A vibrant, one‑pot rice dish packed with fresh thyme, a splash of deglazed broth, and a gentle kick of spice—perfect for a quick vegetarian dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "long‑grain white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "½ cup"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in garlic, smoked paprika, and red pepper flakes; cook for 1 minute until fragrant.",
+    "Deglaze the pan with a splash of vegetable broth, scraping up any browned bits.",
+    "Add the rice, stirring to coat it in the aromatic mixture.",
+    "Pour in the remaining vegetable broth and water; bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 12 minutes.",
+    "Stir in the frozen peas, fresh thyme, and lemon zest; replace the lid and continue cooking for another 5 minutes until the rice is fluffy and liquid is absorbed.",
+    "Remove from heat, fluff the rice with a fork, and season with salt and pepper to taste.",
+    "Serve hot, optionally garnished with a drizzle of extra olive oil or a sprinkle of chopped fresh thyme."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "spicy",
+    "one-pot",
+    "rice",
+    "fluffy",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "fluffy-spicy-croatian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spicy-croatian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:10:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "fresh thyme",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rice",
+    "descriptor": "Fluffy Spicy",
+    "dishForm": "Pilaf"
+  }
+}
