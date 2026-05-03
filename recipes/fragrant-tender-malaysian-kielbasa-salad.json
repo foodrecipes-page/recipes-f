@@ -1,0 +1,115 @@
+{
+  "title": "Fragrant Tender Malaysian Kielbasa Salad",
+  "description": "A floral, monsoon-inspired salad that pairs tender sliced kielbasa with fresh mango, cucumber and aromatic herbs, finished with a bright lime‑tamarind dressing.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "200 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "3 cups"
+    },
+    {
+      "name": "cucumber",
+      "amount": "½ cup",
+      "notes": "diced"
+    },
+    {
+      "name": "ripe mango",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "¼ cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Slice the kielbasa into thin strips and set aside.",
+    "In a large bowl, combine the mixed greens, diced cucumber, mango, and almonds.",
+    "Whisk together the lime juice, fish sauce, tamarind paste, olive oil, and chili flakes to create the dressing.",
+    "Pour the dressing over the salad and toss gently to coat.",
+    "Add the sliced kielbasa and sprinkle with fresh mint, cilantro, and toasted sesame seeds.",
+    "Gently mix everything together so the flavors meld.",
+    "Serve immediately on a chilled plate, garnishing with extra herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asian-dish",
+    "kielbasa",
+    "salad",
+    "floral",
+    "monsoon",
+    "mediterranean-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fragrant-tender-malaysian-kielbasa-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-tender-malaysian-kielbasa-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:24:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "kielbasa",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Fragrant Tender",
+    "dishForm": "Salad"
+  }
+}
