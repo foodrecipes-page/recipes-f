@@ -1,0 +1,120 @@
+{
+  "title": "Fragrant Korean Rice Bowl",
+  "description": "A mustardy, cumin-infused, post-workout Korean rice bowl with a mirepoix base, temple-friendly vegetarian flair.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium heat until shimmering.",
+    "Add cumin seeds and mustard seeds, stir until they start to pop for 30 seconds.",
+    "Toss in diced carrot, celery, and onion, sauté until softened, about 5 minutes.",
+    "Add minced garlic and stir until fragrant, about 30 seconds.",
+    "Gently fold in cubed tofu, cook until lightly browned on all sides, about 4 minutes.",
+    "Drizzle soy sauce and rice vinegar over the mixture, stir to coat evenly.",
+    "Reduce heat to low, cover, and simmer for 3 minutes to meld flavors.",
+    "Meanwhile, warm the cooked rice in a separate bowl or microwave.",
+    "Spoon the sautéed vegetables and tofu over the warm rice.",
+    "Garnish with sliced green onions and a sprinkle of sesame seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pot",
+    "post-workout",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 28,
+    "carbs": 95,
+    "fat": 24
+  },
+  "slug": "fragrant-korean-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-korean-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:41:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cumin seeds",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice",
+    "descriptor": "Fragrant",
+    "dishForm": "Bowl"
+  }
+}
