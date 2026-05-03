@@ -1,0 +1,114 @@
+{
+  "title": "Fresh Silky Uruguayan Midnight-Craving Empanadas",
+  "description": "A delicious and crispy Uruguayan empanada recipe with a silky filling, perfect for a midnight craving. Made with a diabetic-friendly dough and a variety of ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a low-carb flour for a diabetic-friendly option"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "whisk",
+      "amount": "1",
+      "notes": "for beating eggs"
+    },
+    {
+      "name": "fresh parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together flour and salt.",
+    "Add cubed butter and use a pastry blender or your fingertips to work it into the flour until the mixture resembles coarse crumbs.",
+    "Beat eggs in a separate bowl and add to the flour mixture. Stir until dough forms.",
+    "Wrap dough in plastic wrap and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of caramelized onions, diced ham, and feta cheese in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together with a fork to seal.",
+    "Use a brush to apply a beaten egg to the top of each empanada.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "midnight-craving",
+    "diabetic-friendly",
+    "low-carb",
+    "snack",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fresh-silky-uruguayan-midnight-craving-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-silky-uruguayan-midnight-craving-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:51:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "salt",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Midnight-Craving",
+    "descriptor": "Fresh Silky",
+    "dishForm": "Empanadas"
+  }
+}

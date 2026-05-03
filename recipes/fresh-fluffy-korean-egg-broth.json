@@ -1,0 +1,120 @@
+{
+  "title": "Fresh Fluffy Korean Egg Broth",
+  "description": "A light, airy egg broth that soothes sick days - sweet-free, pressure-cooked, and packed with gentle flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "base for broth"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups",
+      "notes": "adds depth, optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "to finish"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "4 large",
+      "notes": "free-range preferred"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "100 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "1 sheet",
+      "notes": "optional, for umami"
+    }
+  ],
+  "instructions": [
+    "In a pressure‑cooker, combine water, chicken broth (if using), salt, pepper, sesame oil, garlic, ginger, and seaweed. Stir to dissolve salt.",
+    "Seal the cooker and set to high pressure for 5 minutes. This infuses the broth with gentle flavors.",
+    "Quickly release pressure, open the lid, and add the cubed tofu and chopped bok choy. Close the lid and bring back to high pressure, cooking for 2 minutes.",
+    "While the vegetables are cooking, gently whisk the eggs in a bowl until the yolks and whites are fully blended.",
+    "After the 2-minute cooking, release pressure again and carefully pour the whisked eggs into the hot broth in a slow, steady stream, swirling to form thin ribbons.",
+    "Restore the lid, set to low pressure for 1 minute to finish cooking the eggs without curdling.",
+    "Quickly release pressure, open the lid, and adjust seasoning with additional salt or pepper if needed.",
+    "Serve the broth hot, garnished with fresh green onion slices and a drizzle of sesame oil.",
+    "If desired, add a splash of soy sauce for extra umami, keeping it low in sodium.",
+    "Enjoy the comforting, fluffy broth within 15 minutes of serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "egg-broth",
+    "sick-day",
+    "sugar-free",
+    "pressure-cook",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "fresh-fluffy-korean-egg-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-korean-egg-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:51:54Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "eggs",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Egg",
+    "descriptor": "Fresh Fluffy",
+    "dishForm": "Broth"
+  }
+}

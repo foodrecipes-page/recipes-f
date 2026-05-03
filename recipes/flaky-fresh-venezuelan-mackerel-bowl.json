@@ -1,0 +1,118 @@
+{
+  "title": "Flaky Fresh Venezuelan Mackerel Bowl",
+  "description": "A light, protein‑rich bowl featuring sous‑vide mackerel, quinoa, mango‑cilantro salsa, and avocado, perfect for a post‑workout meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "2 fillets (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Quick‑cooking quinoa",
+      "amount": "1/2 cup (dry)",
+      "notes": ""
+    },
+    {
+      "name": "Low‑sodium fish stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mango‑cilantro‑onion salsa",
+      "amount": "1 cup",
+      "notes": "diced mango, 1/4 cup chopped cilantro, 1/4 cup finely chopped red onion"
+    },
+    {
+      "name": "Lime",
+      "amount": "juice of 1",
+      "notes": ""
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Canned black beans",
+      "amount": "1/4 cup",
+      "notes": "low sodium, rinsed and drained"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous‑vide water bath to 125°F (52°C).",
+    "Season each mackerel fillet with ground cumin, smoked paprika, and sea salt.",
+    "Place the seasoned fillets in a vacuum‑sealed bag or a zip‑lock bag, removing as much air as possible.",
+    "Submerge the bag in the preheated water bath and cook for 45 minutes to achieve flaky texture.",
+    "While the fish cooks, rinse the quinoa under cold water.",
+    "Simmer quinoa in fish stock over medium heat until liquid is absorbed (about 10–12 minutes), then fluff with a fork.",
+    "When the sous‑vide time is complete, remove the bag, pat the fillets dry, and heat a non‑stick skillet over medium‑high heat.",
+    "Add 1 teaspoon of olive oil to the skillet and sear the fillets for 30–45 seconds per side until golden brown.",
+    "Slice the seared mackerel into strips and place them atop a bed of cooked quinoa.",
+    "Top with mango‑cilantro‑onion salsa, black beans, sliced avocado, and drizzle with lime juice.",
+    "Garnish with fresh cilantro if desired and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 48,
+  "totalTimeMin": 68,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "sous-vide",
+    "mackerel",
+    "bowl",
+    "post-workout",
+    "vegan-friendly",
+    "quinoa",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 35,
+    "carbs": 38,
+    "fat": 28
+  },
+  "slug": "flaky-fresh-venezuelan-mackerel-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fresh-venezuelan-mackerel-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:51:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "mackerel",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "mackerel",
+    "descriptor": "Flaky Fresh",
+    "dishForm": "Bowl"
+  }
+}
