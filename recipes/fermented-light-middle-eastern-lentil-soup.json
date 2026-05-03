@@ -1,0 +1,102 @@
+{
+  "title": "Fermented Light Middle Eastern Lentil Soup",
+  "description": "A light, fermented lentil soup infused with aromatic spices and a tangy yogurt finish, perfect for a monsoon-inspired Middle Eastern meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fermented yogurt",
+      "amount": "½ cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water.",
+    "Add lentils, water, onion, garlic, tomato paste, cumin, and salt to the pressure cooker and stir.",
+    "Seal and cook on high pressure for 10 minutes.",
+    "Quick‑release the pressure and stir the soup.",
+    "Add fermented yogurt, lemon juice, olive oil, and parsley, mixing gently.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with a sprinkle of fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "lentil-soup",
+    "vegetarian",
+    "pressure-cook",
+    "light",
+    "monsoon",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 676,
+    "protein": 26,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "fermented-light-middle-eastern-lentil-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-light-middle-eastern-lentil-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:53:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "minced garlic",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Fermented Light",
+    "dishForm": "Soup"
+  }
+}
