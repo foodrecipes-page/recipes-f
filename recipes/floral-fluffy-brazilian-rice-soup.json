@@ -1,0 +1,111 @@
+{
+  "title": "Floral Fluffy Brazilian Rice Soup",
+  "description": "A fragrant, light rice soup infused with subtle floral notes of hibiscus and rose water, simmered with apple cider for a hint of sweetness and a gentle, airy texture—perfect for a solo dinner that honors Brazilian warmth without the heaviness.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "Rinse until water runs clear"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "4 cups",
+      "notes": "Use room temperature"
+    },
+    {
+      "name": "Apple cider",
+      "amount": "1/2 cup",
+      "notes": "Unsweetened"
+    },
+    {
+      "name": "Dried hibiscus tea",
+      "amount": "2 teaspoons",
+      "notes": "Steep in 1 cup water, then strain"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 teaspoon",
+      "notes": "Add at the end to preserve flavor"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": "From 1 lime"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Finely minced"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice under cold water until the water runs clear, then set aside.",
+    "In a medium pot, heat a splash of olive oil and sauté the minced garlic until fragrant, about 30 seconds.",
+    "Add the rice to the pot and stir to coat, cooking for 1 minute to toast lightly.",
+    "Pour in the low‑sodium vegetable broth and apple cider, and bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, or until the rice is tender.",
+    "Meanwhile, steep the hibiscus tea in 1 cup hot water for 5 minutes, then strain out the petals.",
+    "Once the rice is cooked, stir in the hibiscus tea infusion, fresh lime juice, and a pinch of salt and pepper.",
+    "Simmer uncovered for another 5 minutes, allowing the flavors to meld and the soup to become slightly thicker.",
+    "Remove from heat, add the rose water, and stir gently.",
+    "Serve hot, garnished with chopped cilantro, and enjoy your airy, floral Brazilian rice soup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "rice-soup",
+    "brazilian",
+    "low-calorie",
+    "solo-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 6
+  },
+  "slug": "floral-fluffy-brazilian-rice-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-brazilian-rice-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:23:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "cider",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Rice",
+    "descriptor": "Floral Fluffy",
+    "dishForm": "Soup"
+  }
+}
