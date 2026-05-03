@@ -1,0 +1,107 @@
+{
+  "title": "Floral Crispy Indian Vegetable Spring-Rolls",
+  "description": "A nostalgic, floral twist on classic Indian egg rolls, packed with crisp veggies, fragrant herbs, and a sweet mango pickle dip.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegan egg roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "2 cups, thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large, julienned"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "edible rose petals",
+      "amount": "2 tablespoons, dried or fresh"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "1–2 cups"
+    },
+    {
+      "name": "mango pickle",
+      "amount": "1 cup, for dipping"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine sliced cabbage, carrot, bell pepper, cilantro, and rose petals.",
+    "Season the mixture with cumin, coriander, turmeric, and salt; toss until evenly coated.",
+    "Heat 1–2 cups of oil in a deep pan to 180 °C (350 °F). While the oil warms, lay an egg roll wrapper on a clean surface with one corner pointing toward you.",
+    "Place about 2–3 tablespoons of the vegetable mixture near the corner that will fold over, pressing a small amount of mango pickle into the center for flavor.",
+    "Fold the corner over the filling, then fold in the side edges, rolling tightly to seal the edge with a light dusting of flour or a dab of water.",
+    "Repeat with remaining wrappers and filling until all are rolled.",
+    "Carefully lower each roll into the hot oil and fry until golden brown, about 2–3 minutes, turning once.",
+    "Remove with a slotted spoon and drain on paper towels.",
+    "Serve the rolls warm with extra mango pickle or a simple vegan yogurt dip if desired (omit for strict vegan)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "crispy",
+    "indian",
+    "plant-based",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "floral-crispy-indian-vegetable-spring-rolls",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-indian-vegetable-spring-rolls",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:04:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "egg rolls",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Spring-Rolls"
+  }
+}
