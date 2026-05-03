@@ -1,0 +1,90 @@
+{
+  "title": "Fermented Crispy German Cherry Flatbread",
+  "description": "A low‑carb, flaky flatbread made with a fermented almond‑coconut dough, topped with marinated cherries and fresh rosemary for a decadent German‑style snack.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "70 g",
+      "notes": "low‑carb, adds crispness"
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Warm water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Low‑carb sourdough starter",
+      "amount": "30 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cherries (pitted)",
+      "amount": "80 g"
+    },
+    {
+      "name": "Cherry jam (no added sugar)",
+      "amount": "0.5 tbsp"
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "adds brightness to cherry marinade"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Combine almond flour, coconut flour, xanthan gum, and salt in a bowl. Stir well.",
+    "In a separate bowl, mix warm water, sourdough starter, and olive oil until smooth. Pour the wet mixture into the dry ingredients and knead until a soft, elastic dough forms.",
+    "Cover the dough and leave it to ferment at room temperature for 12 hours, or until it doubles in size and shows bubbles.",
+    "Preheat the oven to 220 °C (428 °F). On a parchment‑lined sheet, roll out the dough into a 30 cm square, about 5 mm thick.",
+    "While the dough rests, whisk together cherries, cherry jam, apple cider vinegar, and a pinch of pepper. Spread the cherry mixture evenly over the dough.",
+    "Sprinkle chopped rosemary over the cherries. Drizzle a little olive oil for extra crispness.",
+    "Bake for 12–15 minutes, or until edges are golden and the surface is blistered. Let cool for a few minutes before cutting into squares.",
+    "Serve warm or at room temperature as a flavorful, low‑carb snack."
+  ],
+  "slug": "fermented-crispy-german-cherry-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-german-cherry-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:46:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "cherry",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cherry",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Flatbread"
+  }
+}
