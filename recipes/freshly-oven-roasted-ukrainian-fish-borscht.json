@@ -1,0 +1,111 @@
+{
+  "title": "Freshly Oven-Roasted Ukrainian Fish Borscht",
+  "description": "A hearty, comforting fish borscht from Ukraine, featuring freshly roasted fish, a variety of vegetables, and a hint of lemon.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb Halibut fillets",
+      "amount": "2",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "2 medium Beets",
+      "amount": "2",
+      "notes": "2-3 inches in diameter"
+    },
+    {
+      "name": "2 medium Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 large Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 cloves Garlic",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 cups Fish Stock",
+      "amount": "",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "1 cup Water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 Lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the halibut fillets with salt and pepper.",
+    "Sear the halibut in a hot skillet with olive oil until golden brown on both sides.",
+    "Transfer the skillet to the preheated oven and roast the fish for 8-10 minutes, or until cooked through.",
+    "While the fish is cooking, chop the beets, carrots, and onion.",
+    "In a large pot, combine the fish stock, water, chopped vegetables, and minced garlic.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10-12 minutes, or until the vegetables are tender.",
+    "Add the roasted fish to the pot and stir in lemon juice.",
+    "Season with salt and pepper to taste.",
+    "Serve the fish borscht hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "comfort-food",
+    "fish",
+    "one-pan",
+    "pescatarian",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "freshly-oven-roasted-ukrainian-fish-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-oven-roasted-ukrainian-fish-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:02:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lemons",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "Freshly Oven-Roasted",
+    "dishForm": "Borscht"
+  }
+}
