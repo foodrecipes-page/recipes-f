@@ -1,0 +1,85 @@
+{
+  "title": "Fermented, Creamy Uruguayan Beef Tagliata Pasta",
+  "description": "A crowd-pleasing dairy-free pasta dish featuring fermented beef cutlets in a creamy sauce over al dente pasta.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) penne or similar short pasta"
+    },
+    {
+      "name": "2 small beef cutlets (about 6-8 oz/170-230g each, aged for at least 2 weeks)"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "1/4 cup (59ml) red wine vinegar"
+    },
+    {
+      "name": "1/4 cup (60ml) nutritional yeast"
+    },
+    {
+      "name": "1/4 cup (60ml) unsweetened almond milk or other non-dairy milk"
+    },
+    {
+      "name": "2 tablespoons (30g) vegan butter or margarine"
+    },
+    {
+      "name": "Salt and black pepper, to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped for garnish (optional)"
+    },
+    {
+      "name": "Pasta cooking water (for pasta coating), optional"
+    }
+  ],
+  "instructions": [
+    "Blanch the beef cutlets in boiling salted water until cooked through. Pat dry with paper towels.",
+    "In a saucepan, combine garlic, red wine vinegar, nutritional yeast, almond milk, and vegan butter. Stir to dissolve the nutritional yeast, then bring to a simmer over medium heat.",
+    "Add the blanched beef cutlets into the sauce and cook for about 2 minutes on each side or until heated through. Remove from heat.",
+    "Cook pasta in plenty of boiling salted water until al dente. Drain well and return to pot with a ladleful of pasta cooking water, if using.",
+    "Pour the creamy sauce over the cooked pasta, tossing gently so it adheres. Serve warm garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef_tagliata",
+    "pasta",
+    "creamy",
+    "fermented_beef",
+    "vegan_dish"
+  ],
+  "nutrition": {
+    "calories": 501,
+    "protein": 24,
+    "carbs": 39,
+    "fat": 18
+  },
+  "slug": "fermented-creamy-uruguayan-beef-tagliata-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-uruguayan-beef-tagliata-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:16:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "beef cutlet",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Fermented, Creamy",
+    "dishForm": "Pasta"
+  }
+}
