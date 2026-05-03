@@ -1,0 +1,86 @@
+{
+  "title": "Fresh Creamy Dutch Tofu Soup",
+  "description": "A silky one‑pot Dutch‑style soup that blends silken tofu, rich soy milk, and aromatic spices into a fresh, creamy delight.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "Unsweetened soy milk",
+      "amount": "1.5 cups (355 ml)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Celery stalk, diced",
+      "amount": "1"
+    },
+    {
+      "name": "Turmeric, ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curry powder, ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt, kosher",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a Dutch oven over medium heat and sauté onion, garlic, carrot, and celery until softened, about 5 minutes.",
+    "Add turmeric, curry powder, salt, and pepper; stir for 1 minute to toast the spices.",
+    "Pour in soy milk and bring to a gentle simmer, stirring occasionally to prevent sticking.",
+    "Gently fold in the silken tofu cubes, then simmer uncovered for 10 minutes, letting the flavors meld.",
+    "Turn off the heat and stir in fresh lemon juice for brightness.",
+    "Taste and adjust seasoning if needed; serve hot with a sprinkle of toasted sesame seeds if desired."
+  ],
+  "slug": "fresh-creamy-dutch-tofu-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-creamy-dutch-tofu-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:57:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "soya milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tofu",
+    "descriptor": "Fresh Creamy",
+    "dishForm": "Soup"
+  }
+}
