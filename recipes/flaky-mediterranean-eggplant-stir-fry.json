@@ -1,0 +1,100 @@
+{
+  "title": "Flaky Mediterranean Eggplant Stir-fry",
+  "description": "A crisp, mustard-infused eggplant dish brimming with shio-koji umami and Mediterranean flair. Perfect for a quick paleo dinner that delivers bold flavors and satisfying texture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium (300g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Shio‑koji",
+      "amount": "1 tbsp (15g)"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves (15g)"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1/2 tsp (2g)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp chopped (5g)"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp (1g)"
+    },
+    {
+      "name": "Toasted pine nuts",
+      "amount": "1 tbsp (5g)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Slice the eggplant into 1/2-inch thick sticks and pat them dry.",
+    "Whisk shio‑koji, mustard, garlic, chili flakes, lemon juice, salt, and pepper until smooth.",
+    "Toss the eggplant sticks in the sauce until well coated.",
+    "Add olive oil to the skillet and heat until shimmering.",
+    "Add the eggplant in a single layer, cooking 3-4 minutes per side until golden and crisp.",
+    "Remove from heat, drizzle any leftover sauce over the fried eggplant, and sprinkle with parsley and toasted pine nuts.",
+    "Serve hot over sautéed spinach or a bed of roasted cauliflower."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "mediterranean",
+    "mustardy",
+    "paleo",
+    "quick",
+    "shio-koji",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "flaky-mediterranean-eggplant-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-mediterranean-eggplant-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:39:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "shio-koji",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
