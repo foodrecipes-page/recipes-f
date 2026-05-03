@@ -1,0 +1,112 @@
+{
+  "title": "Fresh Velvety Indian Lamb Dal",
+  "description": "A comforting, slow-cooked Indian dish featuring tender lamb and a hint of sweetness from frozen mixed berries.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound boneless lamb shoulder or neck, cut into 2-inch pieces",
+      "amount": "",
+      "notes": "Look for lamb with a good balance of fat and lean meat."
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "",
+      "notes": "Use a sweet onion, such as Vidalia or Maui."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "You can adjust the amount of garlic to your taste."
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "",
+      "notes": "Make sure to peel the ginger before grating."
+    },
+    {
+      "name": "1 cup frozen mixed berries",
+      "amount": "",
+      "notes": "Choose a mix of sweet and tart berries for a balanced flavor."
+    },
+    {
+      "name": "2 cups water",
+      "amount": "",
+      "notes": "You can also use lamb or beef broth for added flavor."
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "Use fresh cumin seeds for a more aromatic flavor."
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "",
+      "notes": "You can adjust the amount of coriander to your taste."
+    },
+    {
+      "name": "1/2 teaspoon turmeric powder",
+      "amount": "",
+      "notes": "Use a high-quality turmeric powder for maximum flavor."
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper (optional)",
+      "amount": "",
+      "notes": "Adjust the amount of cayenne pepper to your desired level of heat."
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the onion to the pot.",
+    "Cook the onion until it is lightly browned and caramelized, about 8-10 minutes.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the ginger and cook for another minute.",
+    "Add the mixed berries, water, cumin, coriander, turmeric, and cayenne pepper (if using) to the pot.",
+    "Stir to combine, then add the browned lamb back to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the dal hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "dal",
+    "indian",
+    "comfort-food",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "fresh-velvety-indian-lamb-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-velvety-indian-lamb-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:21:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "fresh velvety",
+    "dishForm": "Dal"
+  }
+}
