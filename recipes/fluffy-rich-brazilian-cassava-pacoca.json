@@ -1,0 +1,107 @@
+{
+  "title": "Rich Brazilian Cassava Paçoça",
+  "description": "A rich, fluffy and show-off Brazilian dessert featuring double cream and cassava flour. This vegetarian-friendly treat is perfect for special occasions.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cassava flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality extract for best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh cassava tuber (optional)",
+      "amount": "",
+      "notes": "for authentic flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer basket and boil the water in a large pot.",
+    "Sift the cassava flour into a large mixing bowl and add the granulated sugar.",
+    "In a separate bowl, cream the unsalted butter and eggs together until light and fluffy.",
+    "Add the double cream to the butter and egg mixture and mix until well combined.",
+    "Add the sifted cassava flour mixture to the wet ingredients and mix until a smooth dough forms.",
+    "Knead the dough for about 5 minutes until it becomes elastic and shiny.",
+    "Wrap the dough in a clean cloth and let it rest for 30 minutes.",
+    "Steam the dough in the preheated steamer basket for 30-40 minutes, or until it is cooked through and fluffy.",
+    "Remove the steamed dough from the cloth and let it cool for a few minutes.",
+    "Dust the cooled dough with confectioners' sugar and serve.",
+    "Optional: if using fresh cassava tuber, peel and grate it and mix it into the dough before steaming.",
+    "Optional: drizzle with melted butter and sprinkle with cinnamon powder before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cassava",
+    "brazilian",
+    "paçoça",
+    "veggie",
+    "dairy",
+    "dessert",
+    "steamed",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "fluffy-rich-brazilian-cassava-pacoca",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-rich-brazilian-cassava-pacoca",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:21:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "double cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cassava",
+    "descriptor": "fluffy rich",
+    "dishForm": "paçoca"
+  }
+}

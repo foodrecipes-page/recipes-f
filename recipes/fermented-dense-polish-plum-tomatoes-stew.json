@@ -1,0 +1,87 @@
+{
+  "title": "Fermented Dense Polish Plum Tomatoes Stew",
+  "description": "A hearty, fermented tomato stew packed with deep umami flavors, made from plum tomatoes and simmered to a velvety consistency.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "1 kg",
+      "notes": "cut into halves"
+    },
+    {
+      "name": "salt",
+      "amount": "20 g",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml",
+      "notes": "for fermentation and simmer"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried marjoram",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "200 ml",
+      "notes": "optional, replace water"
+    }
+  ],
+  "instructions": [
+    "Wash and cut plum tomatoes into halves, place them in a shallow bowl, sprinkle 20 g salt over the tomatoes and pour 200 ml water to create a light brine. Cover the bowl with a clean cloth and let the tomatoes ferment at room temperature for 24 hours.",
+    "After 24 hours, rinse the tomatoes under cold running water to remove excess salt, then drain them thoroughly.",
+    "Heat 2 tbsp olive oil in a medium‑sized pot over medium heat. Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another 30 seconds until fragrant.",
+    "Place the fermented tomatoes in the pot, add marjoram, smoked paprika, and black pepper. Stir to combine.",
+    "Pour in 200 ml vegetable stock (or water if you prefer a lighter stew) and bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover, and simmer for 30 minutes, stirring occasionally, until the stew thickens to a dense, velvety consistency.",
+    "Taste and adjust seasoning if needed. Ladle the stew into bowls and serve hot, optionally garnished with fresh herbs or a drizzle of olive oil."
+  ],
+  "slug": "fermented-dense-polish-plum-tomatoes-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-polish-plum-tomatoes-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:22:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Stew"
+  }
+}

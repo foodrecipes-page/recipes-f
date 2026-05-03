@@ -1,0 +1,132 @@
+{
+  "title": "Floral Dense Algerian Fish Fillet Tagine",
+  "description": "A vibrant, aromatic, and nutrient-rich tagine that celebrates the beauty of North African cuisine. This pescatarian dish combines the delicate flavors of fish with the warmth of steaming spices and herbs.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets (4)",
+      "amount": "1 pound (450g)",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Ghee (2 tablespoons)",
+      "amount": "30ml",
+      "notes": "For greasing the tagine"
+    },
+    {
+      "name": "Coconut Oil (2 tablespoons)",
+      "amount": "30ml",
+      "notes": "For browning the onions"
+    },
+    {
+      "name": "Onions (2 medium)",
+      "amount": "1 cup (115g)",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves (9g)",
+      "notes": "Mince"
+    },
+    {
+      "name": "Fresh Ginger (1-inch piece)",
+      "amount": "1-inch (6g)",
+      "notes": "Grate"
+    },
+    {
+      "name": "Cumin Seeds (1 teaspoon)",
+      "amount": "5g",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Coriander Seeds (1 teaspoon)",
+      "amount": "5g",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Turmeric (1 teaspoon)",
+      "amount": "5g",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon (1/2 teaspoon)",
+      "amount": "2g",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika (1/2 teaspoon)",
+      "amount": "2g",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Fresh Parsley (fresh leaves)",
+      "amount": "handful (12g)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Chives (fresh leaves)",
+      "amount": "handful (12g)",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon Juice (2 tablespoons)",
+      "amount": "30ml",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the spice blend by mixing cumin seeds, coriander seeds, turmeric, cinnamon, and paprika in a small bowl.",
+    "Heat ghee in the bottom of a tagine over medium heat. Add coconut oil and sauté the sliced onions until golden brown.",
+    "Add the minced garlic and grated ginger to the onions and cook for another minute.",
+    "Add the toasted spice blend to the onions and stir for 1 minute.",
+    "Add the fish fillets to the spice mixture and cook for 2-3 minutes on each side.",
+    "Transfer the tagine to the preheated oven and steam the fish for 8-10 minutes.",
+    "Remove the tagine from the oven and sprinkle parsley and chives over the fish.",
+    "Squeeze lemon juice over the top of the fish and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "dense",
+    "energizing",
+    "algerian",
+    "fish",
+    "steaming",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "slug": "floral-dense-algerian-fish-fillet-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-dense-algerian-fish-fillet-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:22:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "fish fillet",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fish Fillet",
+    "descriptor": "Floral Dense",
+    "dishForm": "Tagine"
+  }
+}
