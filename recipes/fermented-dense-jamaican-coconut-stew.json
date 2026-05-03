@@ -1,0 +1,87 @@
+{
+  "title": "Fermented Dense Jamaican Coconut Stew",
+  "description": "A thick, savory, fermented coconut stew that’s perfect for a hangover cure, packed with sweet potatoes, plantains, and a hearty dose of desiccated coconut.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Desiccated coconut",
+      "amount": "70g"
+    },
+    {
+      "name": "Fermented coconut water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "Diced sweet potato",
+      "amount": "200g"
+    },
+    {
+      "name": "Diced plantain",
+      "amount": "150g"
+    },
+    {
+      "name": "Dried okra",
+      "amount": "20g"
+    },
+    {
+      "name": "Onion, garlic, ginger mix",
+      "amount": "30g"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak the desiccated coconut in the fermented coconut water for at least 4 hours or overnight; drain well before use.",
+    "Heat a splash of oil in a large pot and sauté the onion‑garlic‑ginger mix, the Scotch bonnet pepper, and dried thyme until fragrant, about 5 minutes.",
+    "Add the diced sweet potato and plantain, cooking for an additional 3 minutes while stirring.",
+    "Pour in the coconut milk, vegetable stock, fermented soy sauce, and the soaked coconut; bring the mixture to a gentle boil.",
+    "Reduce the heat, cover, and simmer for 25 minutes until the sweet potato and plantain are tender and the stew has thickened.",
+    "Stir in lime juice, season with salt and black pepper to taste, and remove from heat.",
+    "Serve hot, spooning the dense stew into bowls; garnish with chopped cilantro if desired."
+  ],
+  "slug": "fermented-dense-jamaican-coconut-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-jamaican-coconut-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:26:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Stew"
+  }
+}
