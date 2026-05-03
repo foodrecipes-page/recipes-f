@@ -1,0 +1,115 @@
+{
+  "title": "Flaky Romantic Ukrainian Prunes Pie",
+  "description": "Savory, flaky pastry filled with caramelized prunes and aromatic herbs, perfect for a romantic Ukrainian-inspired dessert that’s also diabetic-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "cold water",
+      "amount": "60ml"
+    },
+    {
+      "name": "prunes",
+      "amount": "300g",
+      "notes": "pitted"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dry oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (392°F).",
+    "In a large bowl, whisk together flour and salt. Add cubed butter and, using fingertips, rub into flour until the mixture resembles coarse crumbs.",
+    "Gradually add cold water, stirring until dough comes together. Shape into a disk, wrap in plastic, and chill for 20 minutes.",
+    "On a lightly floured surface, roll out the dough to fit a 23cm (9in) pie tin. Transfer to the tin and trim edges.",
+    "Heat olive oil in a skillet over medium heat. Add onion and garlic, sauté until softened, about 3 minutes.",
+    "Add prunes to the skillet, cooking until they release juices and begin to caramelize, 5-7 minutes. Stir in dill, oregano, and lemon zest.",
+    "Season with pepper and a pinch more salt if desired. Spread the prune mixture evenly over the pastry base.",
+    "Roll out a second dough disc and place over the filling. Trim and crimp the edges to seal. Cut small slits in the top to allow steam to escape.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the filling is bubbly.",
+    "Allow the pie to rest for 10 minutes before slicing. Serve warm or at room temperature.",
+    "Optional: Add a dollop of low-sugar yogurt or a sprinkle of fresh herbs as a finishing touch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-culinary",
+    "prune-pie",
+    "flaky-pastry",
+    "diabetic-friendly",
+    "savory-pie"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 53,
+    "fat": 15
+  },
+  "slug": "flaky-romantic-ukrainian-prunes-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-romantic-ukrainian-prunes-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:50:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "prunes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "prunes",
+    "descriptor": "Flaky Romantic",
+    "dishForm": "Pie"
+  }
+}
