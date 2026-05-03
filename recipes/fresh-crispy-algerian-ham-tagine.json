@@ -1,0 +1,113 @@
+{
+  "title": "Fresh Crispy Algerian Ham Tagine",
+  "description": "A date-night dish that combines the freshness of Mediterranean flavors with the crunch of a crispy crust, all wrapped up in an Algerian-inspired ham tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "pork-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ham Steaks",
+      "amount": "4",
+      "notes": "About 1 inch thick and 6 ounces each"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Chopped Olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can"
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut the dough into 4 equal-sized squares.",
+    "Place a ham steak in the center of each square, leaving a 1/2 inch border around it.",
+    "Drizzle the lemon juice over the ham, then sprinkle with cilantro, salt, and pepper.",
+    "Fold the dough over the ham, pressing the edges to seal.",
+    "Brush the tops with olive oil, then sprinkle with garlic, onions, olives, artichoke hearts, and Algerian spice blend.",
+    "Place the tagines on a baking sheet lined with parchment paper, leaving about 1 inch of space between each one.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and crispy.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "mediterranean",
+    "date-night",
+    "ham",
+    "tagine",
+    "crispy",
+    "pastry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "fresh-crispy-algerian-ham-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crispy-algerian-ham-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:32:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "ham",
+    "descriptor": "Fresh Crispy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Fresh Flaky Thai Yellow Masarepa Bowl",
+  "description": "A light, steam‑cooked bowl featuring yellow masa harina tortillas topped with a zesty lime‑fish sauce dressing, fresh shredded veggies, and pickled radish—perfectly FODMAP‑friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow corn masa harina",
+      "amount": "150g"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Warm water",
+      "amount": "250ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Fresh lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mixed shredded vegetables (carrots & cucumber)",
+      "amount": "100g"
+    },
+    {
+      "name": "Pickled daikon radish",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Whisk masa harina, turmeric powder, and salt in a bowl until well combined.",
+    "Add warm water and coconut milk, stirring until a smooth dough forms.",
+    "Cover the dough and let it rest for 15 minutes.",
+    "Divide the dough into 8 equal portions and flatten each into a thin disc using a rolling pin or a flat lid.",
+    "Steam the masa discs in a steamer basket over boiling water for 5 minutes until cooked through.",
+    "While the masa is steaming, whisk together lime zest, lime juice, fish sauce, and chili flakes to make a quick dressing.",
+    "Toss the shredded vegetables with the dressing until evenly coated.",
+    "When the masa is ready, cut each disc into bite‑sized squares.",
+    "Arrange the masa squares in the bottom of a bowl, then top with the dressed vegetables and pickled radish.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "slug": "fresh-flaky-thai-yellow-masarepa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-flaky-thai-yellow-masarepa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:33:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "yellow masarepa",
+    "descriptor": "Fresh Flaky",
+    "dishForm": "Bowl"
+  }
+}
