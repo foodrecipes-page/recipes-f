@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Chewy Argentinian Tomatoes Stir-fry",
+  "description": "A quick, Whole30-friendly stir-fry that melds fermented grape tomatoes with fresh spinach, garlic, and a hint of smoked paprika for a tangy, chewy bite.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented grape tomatoes",
+      "amount": "300g"
+    },
+    {
+      "name": "fresh grape tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add sliced onion and minced garlic; sauté until onion is translucent, about 3 minutes.",
+    "Toss in the fresh grape tomatoes and stir-fry for 2 minutes, letting them soften slightly.",
+    "Add the fermented grape tomatoes, smoked paprika, cumin, sea salt, and pepper; cook for 3 minutes, stirring constantly.",
+    "Stir in the fresh spinach, letting it wilt for 2 minutes.",
+    "Drizzle lime juice, sprinkle chopped oregano, and stir to combine.",
+    "Taste and adjust seasoning if necessary.",
+    "Serve immediately, optionally with a side of cauliflower rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "whole30",
+    "fermented",
+    "stew",
+    "stir-fry",
+    "argentinian",
+    "chewy",
+    "quick",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "fermented-chewy-argentinian-tomatoes-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-argentinian-tomatoes-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:20:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Fermented Chewy",
+    "dishForm": "Stir-fry"
+  }
+}

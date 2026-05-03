@@ -1,0 +1,98 @@
+{
+  "title": "Floral, Velvety Venezulan Oats Pilaf",
+  "description": "A sweet and comforting brunch dish inspired by the flavors of Venezuela, featuring a floral and velvety porridge oats pilaf made with roasted plantains, aromatic spices, and a touch of honey.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": "Steel-cut or old-fashioned oats can be used for a slightly chewier texture."
+    },
+    {
+      "name": "Roasted Plantains",
+      "amount": "2 medium",
+      "notes": "See notes for roasting instructions."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat coconut milk adds richness and creaminess."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste for sweetness level."
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Unsweetened Almond Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and slice the plantains into 1-inch rounds. Place the plantain slices on a baking sheet lined with parchment paper and drizzle with a tablespoon of oil.",
+    "Roast the plantains in the preheated oven for 20-25 minutes, flipping halfway, until tender and caramelized.",
+    "In a large saucepan, combine the oats, coconut milk, honey, cinnamon, ginger, and salt. Stir to combine.",
+    "Add the roasted plantains and unsweetened almond milk to the saucepan. Heat over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the oats have absorbed most of the liquid and the mixture has thickened.",
+    "Reduce heat to low and stir in 1 tablespoon of honey. Cook for an additional 2-3 minutes, until the mixture has reached the desired consistency.",
+    "Serve the pilaf warm, garnished with additional honey and plantain slices if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "breakfast",
+    "brunch",
+    "oats",
+    "plantains",
+    "coconut milk",
+    "honey",
+    "cinnamon",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "8g",
+    "carbs": "70g",
+    "fat": "24g"
+  },
+  "slug": "floral-velvety-venezulan-porridge-oats-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-venezulan-porridge-oats-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:20:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "porridge oats",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "porridge oats",
+    "descriptor": "floral, velvety",
+    "dishForm": "Pilaf"
+  }
+}

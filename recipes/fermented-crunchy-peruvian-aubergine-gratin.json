@@ -1,0 +1,104 @@
+{
+  "title": "Fermented Crunchy Peruvian Aubergine Gratin",
+  "description": "A creative dinner recipe that combines the flavors of Peru with the tanginess of fermentation. This dish features roasted aubergine, crunchy fermented corn kernels, and a tangy salsa.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large aubergines",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 cup fermented corn kernels",
+      "amount": "",
+      "notes": "see note"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "for roasting"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon Peruvian aji amarillo pepper paste",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 cup grated queso fresco",
+      "amount": "",
+      "notes": "or substitute with feta cheese"
+    },
+    {
+      "name": "1 tablespoon chopped fresh cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the aubergines in half lengthwise and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the aubergines and season with salt and pepper.",
+    "Roast the aubergines in the oven for 30-40 minutes, or until they are tender and lightly caramelized.",
+    "While the aubergines are roasting, heat a skillet over medium heat.",
+    "Add the garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add the aji amarillo pepper paste, if using, and cook for an additional minute.",
+    "Remove the aubergines from the oven and let them cool slightly.",
+    "Scoop the flesh of the aubergines out of the skin and place it in a blender or food processor.",
+    "Add the fermented corn kernels, queso fresco, and cilantro to the blender.",
+    "Blend the mixture until it is smooth and creamy.",
+    "Transfer the mixture to a baking dish and top it with additional grated queso fresco, if desired.",
+    "Bake the gratin in the oven for an additional 10-15 minutes, or until the top is lightly browned and the mixture is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "fermented",
+    "aubergine",
+    "gratin",
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fermented-crunchy-peruvian-aubergine-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-peruvian-aubergine-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:19:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "aubergine",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "aubergine",
+    "descriptor": "fermented crunchy",
+    "dishForm": "Gratin"
+  }
+}
