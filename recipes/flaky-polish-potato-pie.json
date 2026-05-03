@@ -1,0 +1,84 @@
+{
+  "title": "Flaky Polish Potato Pie",
+  "description": "A savory, flaky pastry filled with creamy potato and pico de gallo sauce, perfect for a comforting dinner. Rests to ensure flakiness without overcooking.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free?"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "washed, peeled, thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "cold, cubed"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "pico de gallo",
+      "amount": "1/2 cup",
+      "notes": "fresh, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix butter and flour until crumbly.",
+    "Add water and knead until dough forms a ball.",
+    "Roll dough thin and place potatoes on top.",
+    "Layer pico de gallo over potatoes.",
+    "Press edges to seal and cut 1-inch slits for steam.",
+    "Bake for 25 minutes until golden and flaky.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "potato",
+    "pico-de-gallo",
+    "savory",
+    "flaky",
+    "potato-pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "flaky-polish-potato-pie",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-polish-potato-pie",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:04:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potato",
+    "descriptor": "Flaky",
+    "dishForm": "Pie"
+  }
+}
