@@ -1,0 +1,111 @@
+{
+  "title": "Fermented Indian Shrimp Curry",
+  "description": "A weeknight-friendly, plant-based-friendly shrimp curry with a velvety texture achieved through fermentation. Perfectly balanced with tangy spices and a light reduction.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented shrimp paste",
+      "amount": "2 tbsp",
+      "notes": "fermented shrimp paste (e.g., shrimp paste fermented for 24 hours in salt water)"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat coconut milk for richness"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "for color and flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "fresh ginger, finely grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "fresh shrimp, peeled and deveined"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a medium pot over medium heat.",
+    "Add ginger and garlic; sauté for 1 minute until fragrant.",
+    "Stir in fermented shrimp paste, red chili flakes, and turmeric; cook for 30 seconds.",
+    "Add shrimp, coconut milk, and coconut sugar; cook uncovered for 5 minutes.",
+    "Season with salt to taste; reduce sauce by half through gentle simmering.",
+    "Serve over rice or naan for a complete meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "indian",
+    "shrimp",
+    "curry",
+    "vegan",
+    "gluten-free",
+    "weeknight",
+    "velvety",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 22,
+    "fat": 18
+  },
+  "slug": "fermented-indian-shrimp-curry",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-indian-shrimp-curry",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:21:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "shrimp",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Fermented",
+    "dishForm": "Curry"
+  }
+}
