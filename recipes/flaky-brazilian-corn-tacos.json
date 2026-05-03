@@ -1,0 +1,81 @@
+{
+  "title": "Flaky Brazilian Corn Tacos",
+  "description": "A kid-friendly Brazilian dish featuring earthy corn and flaky spices, made with steam to keep it simple and jain-friendly.",
+  "cuisine": "brazilian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup fresh",
+      "notes": "preferably sweet corn"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1 teaspoon",
+      "notes": "mild variety for kids"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      ": ": "",
+      "notes": "for steam"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "optional for flakiness"
+    },
+    {
+      "name": "lime",
+      "amount": "1/2 lime",
+      "notes": "for freshness"
+    }
+  ],
+  "instructions": [
+    "Steam corn in water for 10 minutes until tender",
+    "Mix chilli powder with butter and sprinkle over corn",
+    "Add lime juice and mix well",
+    "Serve warm in corn tortillas"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "corn",
+    "tacos",
+    "jain-friendly",
+    "kid-friendly",
+    "chilli",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 8
+  },
+  "slug": "flaky-brazilian-corn-tacos",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-brazilian-corn-tacos",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:06:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "chilli powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "corn",
+    "descriptor": "flaky",
+    "dishForm": "Tacos"
+  }
+}
