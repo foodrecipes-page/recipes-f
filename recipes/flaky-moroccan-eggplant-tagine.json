@@ -1,0 +1,131 @@
+{
+  "title": "Flaky Moroccan Eggplant Tagine",
+  "description": "A comforting, low-sodium Moroccan tagine featuring tender eggplant braised in a fragrant tomato and spice sauce, finished with fresh herbs and a touch of honey.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplants",
+      "amount": "2 medium (about 1000 g)",
+      "notes": "sliced into ½‑inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "¼ tsp, optional"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can (400 g)"
+    },
+    {
+      "name": "vegetable broth, low‑sodium",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "honey",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 Tbsp, chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 Tbsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste (use minimal or omit)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190 °C (375 °F).",
+    "Heat 1 Tbsp olive oil in a large oven‑proof skillet over medium‑high heat. Add the eggplant rounds, cooking until lightly browned on both sides, about 3 minutes per side. Transfer to a plate and set aside. In the same skillet, add the remaining 1 Tbsp olive oil.",
+    "Sauté the chopped onion in the oil until translucent, about 4 minutes. Add the minced garlic and cook for 1 minute until fragrant.",
+    "Stir in the cumin, coriander, cinnamon, ginger, and cayenne pepper, cooking for 30 seconds to toast the spices.",
+    "Add the canned tomatoes with their juice, vegetable broth, honey, and smoked paprika, stirring to combine. Bring the mixture to a gentle simmer.",
+    "Return the browned eggplant slices to the skillet, nestling them into the sauce. Cover with a lid or foil and transfer to the preheated oven.",
+    "Bake for 25 minutes, or until the eggplant is tender and the sauce has thickened slightly.",
+    "Remove the skillet from the oven and stir in the fresh lemon juice. Taste and adjust seasoning—add a pinch of salt only if needed to enhance flavor.",
+    "Sprinkle the chopped parsley and cilantro over the tagine just before serving.",
+    "Serve hot, accompanied by couscous, flatbread, or a side of steamed greens for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "eggplant",
+    "stew",
+    "low-sodium",
+    "vegetarian",
+    "comfort-food",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 57,
+    "fat": 27
+  },
+  "slug": "flaky-moroccan-eggplant-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-moroccan-eggplant-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:19:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "egg plants",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "eggplant",
+    "descriptor": "Flaky",
+    "dishForm": "Tagine"
+  }
+}

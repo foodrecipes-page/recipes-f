@@ -1,0 +1,114 @@
+{
+  "title": "Fresh Polish Kidney Beans Soup",
+  "description": "A light, comforting soup featuring tender kidney beans, fresh vegetables, and aromatic herbs for a low‑calorie Polish twist.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked kidney beans",
+      "amount": "400 g"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium (100 g)"
+    },
+    {
+      "name": "celery stalk, diced",
+      "amount": "2 stalks (80 g)"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small (75 g)",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp (30 g)",
+      "notes": "helps thicken"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp (10 g)",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp (10 g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "for acidity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat and sauté the diced onion, carrot, and celery until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute until fragrant, stirring constantly to avoid burning.",
+    "Stir in the tomato paste and cook for 2 minutes to develop its flavor.",
+    "Pour in the vegetable broth and bring the mixture to a gentle boil.",
+    "Add the cooked kidney beans, chopped dill, and parsley. Reduce heat to maintain a steady simmer and let the soup cook for 20 minutes to meld the flavors.",
+    "Season with salt and pepper to taste, then stir in the fresh lemon juice for a bright finish.",
+    "Remove the pot from heat and let the soup sit for 5 minutes before serving to allow the herbs to infuse.",
+    "Serve hot, garnished with a sprinkle of extra fresh dill or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fresh",
+    "kidney-beans",
+    "polish-soup",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "fresh-polish-kidney-beans-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-polish-kidney-beans-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:19:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "kidney beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Fresh",
+    "dishForm": "Soup"
+  }
+}
