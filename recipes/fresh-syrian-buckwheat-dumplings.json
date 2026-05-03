@@ -1,0 +1,91 @@
+{
+  "title": "Fresh Syrian Buckwheat Dumplings",
+  "description": "A traditional Syrian dish made with buckwheat flour, these dumplings are soft, chewy, and perfect for kids. They can be served as a snack or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "freshly milled if possible"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together buckwheat flour, all-purpose flour, and salt.",
+    "Gradually add warm water, stirring with a fork until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the dumplings to the skillet, cooking for 2-3 minutes on each side, until lightly browned.",
+    "Serve the dumplings with chopped parsley, lemon juice, and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "syrian-cuisine",
+    "buckwheat-recipes",
+    "kid-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fresh-syrian-buckwheat-dumplings",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-syrian-buckwheat-dumplings",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:28:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "fresh chewy",
+    "dishForm": "Dumplings"
+  }
+}
