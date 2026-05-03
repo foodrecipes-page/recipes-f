@@ -1,0 +1,117 @@
+{
+  "title": "Kabak Mucverli Pilav",
+  "description": "A flavorful Turkish sweetcorn pilaf, made with fresh corn, herbs, and spices. Perfect as a side dish or light lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh corn kernels",
+      "amount": "2 cups",
+      "notes": "About 4 ears of corn"
+    },
+    {
+      "name": "Medium onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For steaming"
+    },
+    {
+      "name": "Unsalted chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "White rice",
+      "amount": "1 cup",
+      "notes": "Medium-grain"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine-mesh strainer and soak in water for 30 minutes.",
+    "Drain the rice and set aside.",
+    "In a large saucepan, heat the oil over medium-high heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the soaked rice, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of the chicken broth, cover, and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 5 minutes.",
+    "While the rice cooks, steam the corn kernels in a separate saucepan using a steamer basket until tender.",
+    "Fluff the cooked rice with a fork and stir in the chopped herbs.",
+    "Add the steamed corn kernels to the rice mixture and stir to combine.",
+    "Return the saucepan to the stovetop and add the remaining 2 cups of chicken broth.",
+    "Cover and cook for an additional 5-7 minutes, or until the liquid has been absorbed and the pilaf is fluffy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "sweetcorn",
+    "pilaf",
+    "rice",
+    "vegetarian",
+    "jain-friendly",
+    "herbs",
+    "spices",
+    "steaming",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "8g",
+    "carbs": "70g",
+    "fat": "6g"
+  },
+  "slug": "fresh-turkish-sweetcorn-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-turkish-sweetcorn-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:08:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "sweetcorn",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "fresh",
+    "dishForm": "Pilaf"
+  }
+}
