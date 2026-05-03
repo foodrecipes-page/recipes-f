@@ -1,0 +1,102 @@
+{
+  "title": "Festive Gooey Spanish Black Pudding Paella",
+  "description": "A rich and savory Spanish dish featuring black pudding, perfect for festive occasions. This paella is simmered to perfection with a gooey, floral twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish black pudding",
+      "amount": "1 pound, sliced",
+      "notes": "also known as morcilla"
+    },
+    {
+      "name": "uncooked Calasparra rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced black pudding and cook until browned, about 3-4 minutes.",
+    "Add the smoked paprika and saffron threads, stirring to combine.",
+    "Add the uncooked rice, stirring to coat the rice in the oil and mix with the spices.",
+    "Add the chicken broth and lemon juice, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the chopped rosemary and cook for an additional 2-3 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-cuisine",
+    "paella",
+    "black-pudding",
+    "festive",
+    "gooey",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "festive-gooey-spanish-black-pudding-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-gooey-spanish-black-pudding-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:53:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "black pudding",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "black pudding",
+    "descriptor": "festive gooey",
+    "dishForm": "Paella"
+  }
+}
