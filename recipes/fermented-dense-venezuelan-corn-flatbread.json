@@ -1,0 +1,101 @@
+{
+  "title": "Fermented Dense Venezuelan Corn Flatbread",
+  "description": "A hearty, fermented corn flatbread with a tangy hint of Dijon mustard, perfect for a cozy date night and easy to fry.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal (fine)",
+      "amount": "2 cups",
+      "notes": "about 240g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "about 60g"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": "about 360ml, 40-45°C"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 tsp",
+      "notes": "about 6g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "about 5g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": "about 30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "about 30ml, plus extra for frying"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "about 30g, used for frying"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve yeast in 1/4 cup of warm water and let sit for 5 minutes until foamy.",
+    "In a large mixing bowl, combine cornmeal, flour, and salt.",
+    "Add the yeast mixture, remaining warm water, Dijon mustard, and olive oil to the dry ingredients.",
+    "Mix until a sticky dough forms; cover with a damp cloth and let ferment at room temperature for 1 hour, until it expands slightly.",
+    "Preheat a non‑stick skillet over medium heat and add a splash of olive oil.",
+    "Divide the dough into 4 equal portions and shape each into a flat, round disk about 1/2 inch thick.",
+    "Place one disk in the skillet, cooking 2–3 minutes per side until golden brown and a firm crust forms; transfer to a plate and cover loosely with foil to keep warm.",
+    "Repeat with the remaining dough, adding more oil as needed.",
+    "Serve the flatbread warm, optionally with a drizzle of melted butter or a side of salsa for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "corn",
+    "flatbread",
+    "venezuelan",
+    "date-night",
+    "dijon-mustard",
+    "fried",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 16,
+    "carbs": 108,
+    "fat": 10
+  },
+  "slug": "fermented-dense-venezuelan-corn-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-venezuelan-corn-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:24:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "dijon mustard",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Flatbread"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Fluffy Tangy Malaysian Chinese Broccoli Toast",
+  "description": "A light, airy toast topped with sautéed Chinese broccoli, a savory-sour sauce, and a touch of honey for sweetness – a crowd‑pleasing low‑calorie snack or breakfast.",
+  "cuisine": "Malaysian Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole‑wheat bread",
+      "amount": "2 slices",
+      "notes": "for toast"
+    },
+    {
+      "name": "Chinese broccoli (choy sum)",
+      "amount": "150 g",
+      "notes": "trimmed and cut into bite‑size pieces"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten lightly"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "adds a touch of sweetness"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for shallow frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "½ tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non‑stick skillet over medium heat and lightly coat with a few drops of sesame oil.",
+    "Place the whole‑wheat slices in the skillet; toast each side for 1–2 minutes until golden and slightly crisp. Remove and set aside.",
+    "In the same skillet, add a splash more sesame oil if needed, then sauté minced garlic, grated ginger, and chili flakes for 30 seconds until fragrant.",
+    "Add the Chinese broccoli pieces, season with a pinch of salt, and stir‑fry for 3–4 minutes until tender yet still bright green.",
+    "Whisk together soy sauce, rice vinegar, and honey; pour the mixture over the broccoli and stir to coat. Cook for another 1–2 minutes until the sauce thickens slightly.",
+    "Beat the egg in a small bowl and pour it over the broccoli. Gently stir to scramble the egg into the vegetables, cooking until the egg is set but still fluffy.",
+    "Top each toasted slice with an even portion of the broccoli‑egg mixture, sprinkle with a few chili flakes if desired, and serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "tangy",
+    "fluffy",
+    "breakfast",
+    "snack",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 15,
+    "carbs": 36,
+    "fat": 12
+  },
+  "slug": "fluffy-tangy-malaysian-chinese-broccoli-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-tangy-malaysian-chinese-broccoli-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:24:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "ChineseBroccoli",
+    "descriptor": "Fluffy Tangy",
+    "dishForm": "Toast"
+  }
+}
