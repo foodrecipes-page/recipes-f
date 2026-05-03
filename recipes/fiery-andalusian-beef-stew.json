@@ -1,0 +1,111 @@
+{
+  "title": "Fiery Andalusian Beef Stew",
+  "description": "A nutty, light one-pot Spanish stew with seared beef fillet and a subtle flame from sherry vinegar.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "beef broth low-sodium",
+      "amount": "250ml"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pine nuts toasted",
+      "amount": "50g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium-high heat.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic and smoked paprika, cooking for 30 seconds until fragrant.",
+    "Add beef fillet pieces, searing each side until brown.",
+    "Spoon in tomato paste and stir to coat the beef.",
+    "Pour in beef broth and sherry vinegar, bring to a gentle simmer.",
+    "Add cumin, cinnamon, salt and pepper, then cover and let cook for 45 minutes.",
+    "While the stew is simmering, toast pine nuts in a dry skillet until golden.",
+    "Once the stew has thickened slightly, stir in the toasted pine nuts.",
+    "Continue cooking uncovered for another 10 minutes to meld flavors.",
+    "Remove the pot from heat and let the stew rest for 5 minutes before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "beef",
+    "low-carb",
+    "low-glycemic",
+    "nutty",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 25
+  },
+  "slug": "fiery-andalusian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-andalusian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:59:01Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "beef fillet",
+    "diet": "low-glycemic",
+    "region": "andalusian",
+    "cuisineAdjective": "Andalusian",
+    "mainIngredient": "beef",
+    "descriptor": "Fiery",
+    "dishForm": "Stew"
+  }
+}
