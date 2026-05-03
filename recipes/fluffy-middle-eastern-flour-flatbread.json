@@ -1,0 +1,99 @@
+{
+  "title": "Fluffy Middle Eastern Flour Flatbread",
+  "description": "A fresh, fluffy plant‑based flatbread elevated with aromatic Sichuan pepper, perfect for a quick sick‑day meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All‑purpose flour",
+      "amount": "2 cups (250 g)"
+    },
+    {
+      "name": "Warm water",
+      "amount": "¾ cup (180 ml)"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp (3 g)"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp (45 ml)"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp (2 g)",
+      "notes": "lightly crushed"
+    },
+    {
+      "name": "Shredded plant‑based cheese (optional)",
+      "amount": "¼ cup (30 g)",
+      "notes": "for topping"
+    },
+    {
+      "name": "Fresh dill, chopped (optional)",
+      "amount": "1 tbsp (5 g)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220 °C (425 °F) and line a baking sheet with parchment paper.",
+    "Whisk the flour, salt, and sugar in a large bowl. In a separate container, dissolve yeast in warm water, then let sit for 5 min until foamy.",
+    "Add the yeast mixture and olive oil to the dry ingredients. Mix until a shaggy dough forms.",
+    "Turn dough onto a lightly floured surface and knead for about 6 min until smooth and elastic.",
+    "Return dough to the bowl, cover with a damp towel, and let rise in a warm spot for 45 min or until doubled in size.",
+    "Punch down the dough, divide it into 6 equal portions, and roll each into a circle about ¼‑inch thick.",
+    "Place the flatbreads on the prepared sheet, brush the tops with a little olive oil, and sprinkle crushed Sichuan peppercorns evenly over each.",
+    "If using, sprinkle shredded plant‑based cheese on top of each flatbread.",
+    "Bake for 12–15 min until golden and puffed. Remove from oven and let cool for a few minutes before serving.",
+    "Optional: garnish with chopped dill before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "plant-based",
+    "flour-flatbread",
+    "sichuan-pepper",
+    "quick-and-easy",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "fluffy-middle-eastern-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-middle-eastern-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:53:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Flour",
+    "descriptor": "Fluffy",
+    "dishForm": "Flatbread"
+  }
+}
