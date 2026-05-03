@@ -1,0 +1,104 @@
+{
+  "title": "Fluffy Russian Pancakes",
+  "description": "Traditional Russian treat featuring pillowy pancakes topped with a sweet and savory maple syrup miso glaze, perfect for a festive breakfast",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use high-protein flour for extra fluff"
+    },
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "large egg replacers",
+      "amount": "4",
+      "notes": "flax or chia eggs, mixed as directed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "may reduce to 3/4 cup for less sweetness"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "used in place of buttermilk"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "used in glaze, may adjust to taste"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup",
+      "notes": "used in glaze, may adjust to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted, used in glaze"
+    },
+    {
+      "name": "large salt",
+      "amount": "1 tsp",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together egg replacers, yogurt, and melted butter.",
+    "Add the grated potatoes to the wet ingredients and mix until combined.",
+    "Pour the wet ingredients into the dry ingredients and mix until just combined.",
+    "Let the batter rest for 10 minutes to allow the flour to absorb liquid.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles form on the surface and edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "While the pancakes are cooking, whisk together miso paste and maple syrup in a small bowl.",
+    "Once the pancakes are done, brush with the miso-maple glaze and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "festive",
+    "fluffy",
+    "glaze",
+    "high-fiber",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "fluffy-russian-pancakes-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-russian-pancakes-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:37:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "maple syrup",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pancakes",
+    "descriptor": "fluffy",
+    "dishForm": "Pancakes"
+  }
+}

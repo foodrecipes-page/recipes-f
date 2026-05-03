@@ -1,0 +1,96 @@
+{
+  "title": "Fluffy French Chicken Casserole",
+  "description": "A cozy, aerated French-inspired chicken dish with a spicy hotsauce kick, paleo-friendly and packed with fresh herbs.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "800g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "lemon zest and juice",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "hotsauce (e.g., sriracha)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Season chicken with salt, pepper, paprika and a pinch of cumin."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "fluffy",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fluffy-french-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-french-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:37:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "hotsauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Fluffy",
+    "dishForm": "Casserole"
+  }
+}
