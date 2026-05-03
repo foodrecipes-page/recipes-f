@@ -1,0 +1,117 @@
+{
+  "title": "Fermented Dense Egyptian Flour Dumplings",
+  "description": "A hearty, egg‑free dumpling casserole that marries a sourdough‑infused whole‑wheat dough with a spiced tomato sauce, echoing the rustic flavors of Egypt.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten‑free",
+    "dairy‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "active sourdough starter",
+      "amount": "100 g"
+    },
+    {
+      "name": "water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour and salt in a large bowl. Add the sourdough starter and water, then knead until a smooth, elastic dough forms.",
+    "Cover the dough and let it rest at room temperature for 1 hour so the natural leavening develops.",
+    "After resting, shape the dough into 2‑cm spheres, stacking them on parchment paper to prevent sticking.",
+    "Bring a large pot of salted water to a rolling boil. Gently drop the dumplings and cook for 6–8 minutes, or until they rise and are firm yet chewy.",
+    "Drain the dumplings and set aside. In the same pot, heat a little oil and sauté onion and garlic until translucent.",
+    "Stir in tomato paste, cumin, coriander, cayenne, sugar, and lemon juice. Cook, stirring, for 3 minutes until fragrant.",
+    "Return the cooked dumplings to the sauce, mixing gently. Simmer for an additional 2 minutes to let the flavors meld.",
+    "Serve the dumplings hot, garnished with fresh parsley and a squeeze of lemon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "fermented",
+    "dumpling",
+    "egg-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 5,
+    "carbs": 41,
+    "fat": 30
+  },
+  "slug": "fermented-dense-egyptian-flour-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-egyptian-flour-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:27:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Flour",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Dumplings"
+  }
+}
