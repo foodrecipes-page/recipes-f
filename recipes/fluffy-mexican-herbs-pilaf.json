@@ -1,0 +1,97 @@
+{
+  "title": "Fluffy Mexican Herbs Pilaf",
+  "description": "This herbal and fluffy dish featuring cumin seeds can be a delicious hangover-cure, served as a hearty side or main course. It's perfect for breakfast or lunch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "",
+      "notes": "lightly salted"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can black beans, drained and rinsed",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 green bell pepper, diced",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons cumin seeds",
+      "amount": "",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Soak quinoa in water for at least an hour, then drain. Rinse well.",
+    "In a large pot, sauté onions and garlic until soft.",
+    "Add bell peppers, black beans, cumin seeds, and lemon juice. Stir well.",
+    "Pour in the quinoa, broth, salt, and pepper. Bring to a boil.",
+    "Reduce heat, cover, and simmer for about 20 minutes or until water is absorbed and quinoa is fluffy.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "herbal",
+    "fluffy",
+    "hangover-cure",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 8
+  },
+  "slug": "fluffy-mexican-herbs-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-mexican-herbs-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:33:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "cumin seeds",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Herbs",
+    "descriptor": "Fluffy",
+    "dishForm": "Pilaf"
+  }
+}
