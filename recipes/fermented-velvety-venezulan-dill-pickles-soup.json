@@ -1,0 +1,98 @@
+{
+  "title": "Fermented Velvety Venezulan Dill Pickle Soup",
+  "description": "A quick-fix, comforting Venezuelan dish that combines the tanginess of fermented pickles with the creaminess of a velvety broth. Serve as a snack or side.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dill pickle juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill weed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Cook diced onion and chopped garlic until softened, about 5 minutes.",
+    "Add dill pickle juice, diced tomatoes, vegetable broth, and salt to the pot.",
+    "Bring mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Use an immersion blender to puree soup until smooth.",
+    "Stir in heavy cream and cook for an additional 2-3 minutes.",
+    "Season with black pepper to taste.",
+    "Serve hot, garnished with fresh dill weed if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "velvety",
+    "quick-fix",
+    "venezulan",
+    "dill-pickle",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "fermented-velvety-venezulan-dill-pickles-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-velvety-venezulan-dill-pickles-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:12:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "dill pickles",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "dill pickles",
+    "descriptor": "fermented velvety",
+    "dishForm": "Soup"
+  }
+}
