@@ -1,0 +1,99 @@
+{
+  "title": "Fresh Crispy Ethiopian Pineapple Skewers",
+  "description": "A quick-fix Ethiopian dish featuring fresh pineapple chunks marinated in a blend of traditional Ethiopian spices and then grilled to perfection. This nut-free-friendly recipe is perfect for a snack or dessert.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together berbere spice mix, lemon juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the pineapple chunks to the bowl and toss to coat with the marinade.",
+    "Let the pineapple marinate for at least 15 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated pineapple chunks onto the bamboo skewers.",
+    "Grill the pineapple skewers for 2-3 minutes per side, or until they are caramelized and slightly charred.",
+    "Serve the pineapple skewers hot, garnished with fresh herbs if desired.",
+    "Repeat with the remaining pineapple and skewers.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "pineapple",
+    "skewers",
+    "grilled",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "fresh-crispy-ethiopian-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crispy-ethiopian-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:03:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Fresh Crispy",
+    "dishForm": "Skewers"
+  }
+}
