@@ -1,0 +1,121 @@
+{
+  "title": "Fermented Tender Slovakian Oxtail Stew",
+  "description": "A cozy, fermented stew with tender oxtail, caramelized vegetables, and a splash of traditional Slovakian kvass.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 kg",
+      "notes": "cut into 4-5 pieces"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "kvass (fermented rye drink)",
+      "amount": "200 ml",
+      "notes": "used as base liquid"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced carrots and cook, stirring, for 3 minutes.",
+    "Stir in the chopped tomatoes, tomato paste, and smoked paprika; cook for 2 minutes.",
+    "Add the oxtail pieces, coating them in the vegetable mixture.",
+    "Pour in the kvass and vegetable broth; bring to a gentle boil.",
+    "Reduce heat, add bay leaves, caraway seeds, salt and pepper, then cover and simmer on low heat for 3 hours, or until the oxtail is fall‑apart tender.",
+    "Check occasionally, adding a bit of water if the liquid reduces too much.",
+    "Remove the bay leaves, taste and adjust seasoning.",
+    "Serve hot, optionally garnished with fresh parsley or a dollop of sour cream."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 180,
+  "totalTimeMin": 215,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "oxtail",
+    "fermented",
+    "stew",
+    "comfort-food",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 33,
+    "carbs": 33,
+    "fat": 17
+  },
+  "slug": "fermented-tender-slovakian-oxtail-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-slovakian-oxtail-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:43:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "oxtail",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "oxtail",
+    "descriptor": "Fermented Tender",
+    "dishForm": "Stew"
+  }
+}
