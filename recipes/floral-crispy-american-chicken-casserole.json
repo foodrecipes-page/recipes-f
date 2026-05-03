@@ -1,0 +1,107 @@
+{
+  "title": "Floral Crispy American Chicken Casserole",
+  "description": "A light, floral-infused American casserole that marries a crisp chicken crust with a sweet and savory braise, finished with a glossy swirl of white chocolate and edible flower accents.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone‑less skinless chicken breasts",
+      "amount": "4 (about 800 g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "½ cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "sugar‑free, non‑dairy white chocolate chips",
+      "amount": "¼ cup",
+      "notes": "use Whole30‑friendly brand"
+    },
+    {
+      "name": "edible flower petals",
+      "amount": "to garnish",
+      "notes": "e.g., nasturtium or violets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 °F (190 °C). Season the chicken breasts with salt, pepper, smoked paprika, and garlic powder.",
+    "Heat the olive oil in a large oven‑proof skillet over medium‑high heat. Sear the chicken for 2–3 minutes on each side until golden brown. Remove and set aside.",
+    "In the same skillet, add the diced onions and carrots; sauté for about 5 minutes until softened.",
+    "Stir in the tomato paste and cook for 1 minute, then pour in the chicken broth and bring to a gentle simmer.",
+    "Return the chicken to the skillet, add fresh thyme leaves and lemon juice. Cover and transfer the skillet to the preheated oven; bake for 25 minutes.",
+    "Remove the skillet and transfer the chicken breasts to a baking dish. Sprinkle the sugar‑free white chocolate chips evenly over the chicken.",
+    "Broil the casserole on high for 2–3 minutes or until the chocolate has melted and formed a glossy crisp crust.",
+    "Remove from the oven, garnish with edible flower petals, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "crispy",
+    "american",
+    "baked",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 648,
+    "protein": 63,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "floral-crispy-american-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-american-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:30:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Casserole"
+  }
+}

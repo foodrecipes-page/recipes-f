@@ -1,0 +1,111 @@
+{
+  "title": "Floral Crumbly American Pear Cobbler",
+  "description": "A warm, comforting American dessert featuring a mixture of sweet and tart flavors, crumbly topping, and a hint of floral notes, perfect for a cozy evening or special occasion.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup pears, peeled and sliced (Bartlett or Anjou)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup currants",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "",
+      "notes": "or sugar-free alternative"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cold unsalted butter, cut into small pieces",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup granulated sugar-free sweetener (e.g., Swerve or Erythritol)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup confectioners' sugar-free sweetener (e.g., Swerve or Erythritol)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp ground cinnamon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together sliced pears, currants, honey, lemon juice, and vanilla extract.",
+    "Roll out the chilled flour-butter mixture to form a 1/4-inch thick sheet, about 12 inches square.",
+    "Transfer the dough to a 9x9-inch baking dish and trim the edges to fit.",
+    "Pour the pear mixture into the baking dish and spread evenly.",
+    "In a small bowl, mix together granulated and confectioners' sugar-free sweetener, cinnamon, and a pinch of salt.",
+    "Crumble the sugar-free sweetener mixture evenly over the pear mixture.",
+    "Bake for 40-45 minutes or until the crust is golden brown and the fruit is tender.",
+    "Remove from oven and let cool for 10-15 minutes before serving. Drizzle with a hint of honey or sugar-free sweetener, if desired.",
+    "Deglaze the pan with a small amount of water or sugar-free sweetener to release any caramelized sugars and serve warm.",
+    "Serve warm with a scoop of vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pear",
+    "cobbler",
+    "flower",
+    "currants",
+    "sugar-free",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "floral-crumbly-american-pear-cobbler",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crumbly-american-pear-cobbler",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:30:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "currants",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pear",
+    "descriptor": "floral crumbly",
+    "dishForm": "Cobbler"
+  }
+}
