@@ -1,0 +1,110 @@
+{
+  "title": "Fresh Creamy Slovakian Cabbage Soup",
+  "description": "A nostalgic, creamy soup that balances the earthy sweetness of cabbage with a bright note of white wine vinegar, enhanced by sous‑vide precision for tender texture and low‑sodium simplicity.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 medium head (≈2 cups shredded)",
+      "notes": "shred finely for quick cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "optional, 1/8 tsp (use sparingly)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the sous‑vide circulator to 190 °F (88 °C).",
+    "2. In a large mixing bowl, toss the shredded cabbage, diced onion, carrot, celery, and minced garlic with the olive oil, dried dill, bay leaf, and black pepper.",
+    "3. Place the seasoned vegetables into a large vacuum‑seal bag, add the low‑sodium broth, and seal the bag using a vacuum sealer or the displacement method.",
+    "4. Submerge the bag in the preheated water bath and cook for 1 hour to gently soften the cabbage while preserving its bright flavor.",
+    "5. After the sous‑vide step, remove the bag and transfer the contents to a large pot. Cook over medium heat, stirring occasionally, until the liquid reduces slightly (about 5 minutes).",
+    "6. Stir in the heavy cream and continue to simmer until the soup is heated through and slightly thickened (another 5 minutes).",
+    "7. Remove the bay leaf and whisk in the white wine vinegar, adjusting the acidity to taste.",
+    "8. If desired, add a pinch of salt for additional depth, keeping in mind the low‑sodium focus.",
+    "9. Taste and adjust seasoning with more pepper or vinegar if needed.",
+    "10. Ladle the soup into bowls, garnish with a sprig of fresh dill or a swirl of cream, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "cabbage-soup",
+    "creamy-soup",
+    "low-sodium",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "fresh-creamy-slovakian-cabbage-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-creamy-slovakian-cabbage-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:37:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Fresh Creamy",
+    "dishForm": "Soup"
+  }
+}
