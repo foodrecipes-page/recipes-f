@@ -1,0 +1,81 @@
+{
+  "title": "Fried Tomato Croatian Stew",
+  "description": "A diabetic-friendly and energizing twist on the classic tomato stew featuring a crispy fried tomato topping that is both gooey and fermented.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop the tomatoes into small cubes.",
+    "Slice the onion and mince the garlic.",
+    "Saute the chopped onions in olive oil until translucent, then add minced garlic. Cook for another minute.",
+    "Add tomato cubes, salt, pepper, and enough water to cover the mixture by 1 inch (2.5 cm). Bring to a boil over medium-high heat.",
+    "Reduce heat to low-medium, partially cover, and simmer gently for about 20-30 minutes or until the liquid is absorbed and tomatoes are soft.",
+    "While the stew simmers, prepare the fried tomato topping: Place chopped tomatoes in a skillet with olive oil. Sauté over medium-high heat, tossing occasionally, until they start to brown and soften.",
+    "Once the stew is ready, stir in some of the cooked tomatoes from the skillet for an extra burst of flavor. Adjust seasoning as needed.",
+    "Serve hot on its own or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fried-tomato-croatian-stew",
+    "fermented-tomato-dish",
+    "diabetic-friendly",
+    "energizing-croatian-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "fried-tomato-croatian-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-tomato-croatian-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:50:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tomato",
+    "descriptor": "Fried",
+    "dishForm": "Stew"
+  }
+}
