@@ -1,0 +1,109 @@
+{
+  "title": "Floral Chewy Slovak Leek Soup",
+  "description": "A comforting, Mediterranean-friendly Slovak leek soup that bursts with floral aroma and chewy pearl barley, perfect for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leek",
+      "amount": "2 medium, cleaned and sliced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Pearl barley",
+      "amount": "1/2 cup, rinsed"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add onion, celery, and leeks; sauté until softened, about 5 minutes.",
+    "Stir in minced garlic, dried oregano, and thyme; cook another minute until fragrant.",
+    "Add bay leaf, pearl barley, and diced tomatoes; stir to combine.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 35 minutes, or until barley is tender.",
+    "Season with salt and pepper to taste; add optional rose water now if desired.",
+    "Remove pot from heat and let the soup sit, covered, for 5 minutes to mellow flavors.",
+    "Ladle soup into bowls, ensuring each receives a good portion of barley and leeks.",
+    "Garnish with freshly chopped parsley and a drizzle of extra-virgin olive oil if desired.",
+    "Serve hot, accompanied by crusty bread for a complete Slovakian meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "leek-soup",
+    "floral",
+    "chewy",
+    "weeknight",
+    "mediterranean-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "floral-chewy-slovak-leek-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-slovak-leek-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:21:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "leek",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovak",
+    "mainIngredient": "Leek",
+    "descriptor": "Floral Chewy",
+    "dishForm": "Soup"
+  }
+}
