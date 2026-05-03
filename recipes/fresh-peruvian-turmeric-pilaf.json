@@ -1,0 +1,107 @@
+{
+  "title": "Fresh Peruvian Turmeric Pilaf",
+  "description": "A fresh and velvety peruvian dish featuring turmeric, with a hint of spice that satisfies midnight cravings.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups quinoa",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "piece",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced thinly"
+    },
+    {
+      "name": "2 cups fresh parsley leaves",
+      "amount": "handful",
+      "notes": "chiffonade"
+    },
+    {
+      "name": "1 cup cilantro leaves",
+      "amount": "handful",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "1 medium carrot",
+      "amount": "piece",
+      "notes": "julienned"
+    },
+    {
+      "name": "1/2 cup raw avocado slices",
+      "amount": "tablespoon",
+      "notes": "crushed lightly"
+    },
+    {
+      "name": "3 tablespoons lemon juice",
+      "amount": "tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tablespoon",
+      "notes": "heated to room temp"
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and drain. Preheat oil in a skillet over medium heat.",
+    "Add onion and garlic to the skillet; cook for about 3 minutes until translucent.",
+    "Stir in cumin, salt, and pepper. Mix well.",
+    "Gradually add quinoa and stir continuously to coat with oil mixture. Cook for about 1 minute on each side.",
+    "Fold in carrot and parsley leaves. Cook for another 2-3 minutes.",
+    "Add cilantro, lemon juice, and avocado slices. Toss gently to combine all ingredients evenly. Let sit for a few minutes before serving.",
+    "Serve immediately as a raw-friendly snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "fresh-turmeric",
+    "raw-friendly",
+    "snack",
+    "meal-accompaniment"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "fresh-peruvian-turmeric-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-peruvian-turmeric-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:33:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "turmeric",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "turmeric",
+    "descriptor": "fresh",
+    "dishForm": "Pilaf"
+  }
+}
