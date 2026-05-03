@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Floral Malaysian Tuna Salad",
+  "description": "A light, fragrant salad that blends gekelonged tuna with fresh herbs, creamy coconut yogurt, and crisp vegetables, all tossed in a tangy sriracha dressing – keto-friendly and kid-approved.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna steak",
+      "amount": "200g",
+      "notes": "fresh fillet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": "red variety"
+    },
+    {
+      "name": "mint & cilantro",
+      "amount": "2 tbsp",
+      "notes": "fresh, chopped together"
+    },
+    {
+      "name": "coconut yogurt (full‑fat, unsweetened)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sriracha mayo",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "hard‑boiled egg",
+      "amount": "1",
+      "notes": "optional, sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide water bath to 145°F (63°C).",
+    "Season the tuna steak evenly with salt, black pepper, and garlic powder.",
+    "Place the seasoned tuna in a vacuum‑sealed bag or a resealable zipper bag, adding a drizzle of olive oil.",
+    "Cook the tuna sous‑vide for 45 minutes, then immediately transfer the bag to an ice bath for 5 minutes to stop the cooking process.",
+    "After cooling, flake the tuna with a fork and set aside.",
+    "While the tuna is cooling, slice the avocado and hard‑boiled egg, and shred the cabbage. Mix the chopped mint and cilantro together.",
+    "In a small bowl, whisk together the coconut yogurt, lime juice, and sriracha mayo until smooth; season with a pinch of salt if desired.",
+    "In a large bowl, combine the flaked tuna, shredded cabbage, herb mixture, avocado slices, and egg slices. Gently fold in the dressing until everything is lightly coated.",
+    "Chill the salad in the refrigerator for 10 minutes to allow the flavors to meld.",
+    "Serve the fluffy tuna salad on a bed of fresh greens or with low‑carb crackers for a kid‑friendly meal."
+  ],
+  "slug": "fluffy-floral-malaysian-tuna-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-floral-malaysian-tuna-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:04:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "tuna",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tuna",
+    "descriptor": "Fluffy Floral",
+    "dishForm": "Salad"
+  }
+}
