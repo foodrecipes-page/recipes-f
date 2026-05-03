@@ -1,0 +1,129 @@
+{
+  "title": "Fermented Juicy Algerian Lamb Tagine",
+  "description": "A slow-cooked stew originating from Algeria, made with lamb, fermented vegetables, and a hint of clear honey, perfect for a cozy sick-day meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless lamb shoulder, cut into 2-inch pieces",
+      "amount": "2 lbs",
+      "notes": "You can use lamb shanks instead for a more tender meat."
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "1 large",
+      "notes": "Use a sweet onion variety like Vidalia."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2-3",
+      "notes": "Adjust to your desired garlic intensity."
+    },
+    {
+      "name": "1 cup chopped carrots",
+      "amount": "1 cup",
+      "notes": "You can use a food processor to speed up the chopping process."
+    },
+    {
+      "name": "1 cup chopped zucchini",
+      "amount": "1 cup",
+      "notes": "Use a variety with a tender skin, like Courgette."
+    },
+    {
+      "name": "1 cup chopped red bell pepper",
+      "amount": "1 cup",
+      "notes": "You can use a sweet bell pepper variety."
+    },
+    {
+      "name": "1 cup fermented mixed vegetables (cucumbers, beets, cabbage)",
+      "amount": "1 cup",
+      "notes": "Use a store-bought or homemade fermented mix."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, extra-virgin olive oil."
+    },
+    {
+      "name": "1 tablespoon clear honey",
+      "amount": "1 tbsp",
+      "notes": "Adjust to your desired level of sweetness."
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 tsp",
+      "notes": "Use fresh cumin for the best flavor."
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "1 tsp",
+      "notes": "Use fresh coriander for the best flavor."
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "Use a high-quality, fresh cinnamon stick for the best flavor."
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "Adjust to your desired level of spiciness."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until it's softened and lightly browned, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook, stirring occasionally, until it's browned on all sides, about 5 minutes.",
+    "Add the carrots, zucchini, red bell pepper, and fermented vegetables to the pot. Stir to combine.",
+    "Add the cumin, coriander, cinnamon, and cayenne pepper to the pot. Stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake for 2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Stir in the clear honey and cook for an additional 10-15 minutes, or until the sauce has thickened slightly.",
+    "Serve the tagine hot, garnished with fresh herbs like parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "fermented",
+    "vegan-options",
+    "gluten-free",
+    "dairy-free",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fermented-juicy-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-juicy-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:34:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "clear honey",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Fermented Juicy",
+    "dishForm": "Tagine"
+  }
+}
