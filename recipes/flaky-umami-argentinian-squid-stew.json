@@ -1,0 +1,114 @@
+{
+  "title": "Flaky Umami Argentinian Squid Stew",
+  "description": "A cozy, gluten‑free Argentinian squid stew bursting with umami, featuring tender, flaky squid bathed in a rich tomato and wine sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid (cleaned, body and tentacles)",
+      "amount": "800 g",
+      "notes": "cut into 2–3 cm pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Clam juice or fish stock",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a rolling boil and blanch the prepared squid for 30 seconds, then drain and set aside.",
+    "Heat the olive oil in a heavy‑bottomed pot over medium heat; add garlic and shallot, sauté until translucent, about 2 minutes.",
+    "Pour in the tomato puree and cook, stirring, for 3 minutes until it thickens slightly.",
+    "Deglaze with the white wine, scraping up any browned bits, and reduce by half, about 5 minutes.",
+    "Add the clam juice or fish stock and bring to a gentle simmer; let it reduce for 10 minutes to concentrate the flavors.",
+    "Return the blanched squid to the pot, add smoked paprika and cumin, and simmer gently until the squid is just opaque, 2–3 minutes.",
+    "Season with salt and pepper to taste; remove from heat.",
+    "Stir in chopped parsley for freshness and a pop of color.",
+    "Serve hot with lemon wedges on the side for squeezing over the stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "seafood",
+    "gluten-free",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flaky-umami-argentinian-squid-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-umami-argentinian-squid-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:28:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "squid",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "squid",
+    "descriptor": "Flaky Umami",
+    "dishForm": "Stew"
+  }
+}
