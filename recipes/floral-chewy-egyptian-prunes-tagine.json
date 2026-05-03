@@ -1,0 +1,109 @@
+{
+  "title": "Floral Chewy Egyptian Prunes Tagine",
+  "description": "A fragrant, slow‑cooked tagine featuring sweet prunes, aromatic spices, and a splash of rose water, simmered with tender chickpeas and sweet potatoes for a satisfying egg‑free dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "200g"
+    },
+    {
+      "name": "sweet potatoes, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "pitted prunes",
+      "amount": "150g"
+    },
+    {
+      "name": "red onion, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy‑bottomed pot over medium heat.",
+    "Add onion and garlic, sauté until softened, about 3 minutes.",
+    "Stir in cumin and cinnamon, cook until fragrant, 1 minute.",
+    "Add diced sweet potatoes, prunes, and chickpeas; coat with spices.",
+    "Pour in vegetable broth and a splash of rose water; bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let cook for 30–35 minutes, stirring occasionally, until potatoes are tender and sauce thickens.",
+    "Season with salt and pepper to taste.",
+    "Taste and adjust aromatics – a drizzle of lemon juice or extra rose water can brighten the dish.",
+    "Serve hot, garnished with fresh herbs or toasted almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "tagine",
+    "prunes",
+    "floral",
+    "vegan",
+    "egg-free",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 17,
+    "carbs": 168,
+    "fat": 31
+  },
+  "slug": "floral-chewy-egyptian-prunes-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-egyptian-prunes-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:45:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "prunes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Prunes",
+    "descriptor": "Floral Chewy",
+    "dishForm": "Tagine"
+  }
+}
