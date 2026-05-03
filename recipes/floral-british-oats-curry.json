@@ -1,0 +1,115 @@
+{
+  "title": "Floral British Oats Curry",
+  "description": "A fragrant, plant‑based curry that blends the comforting texture of oats with aromatic bay leaf and a splash of coconut milk, perfect for a rainy British monsoon evening.",
+  "cuisine": "British‑Indian",
+  "diet": [
+    "vegan",
+    "gluten‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "gluten‑free, steel cut or rolled works well"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rolled oats under cold water and set aside.",
+    "Heat coconut oil in a large saucepan over medium heat; add the onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cooking for another 1‑2 minutes until fragrant.",
+    "Stir in the ground cumin and coriander, letting them toast lightly for 30 seconds.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
+    "Add the bay leaf and the rinsed oats, then reduce heat to low and cover; let it simmer for 15 minutes, stirring occasionally, until the oats absorb most of the liquid and reach a creamy consistency.",
+    "Remove the saucepan from the heat and stir in the coconut milk, lemon juice, salt, and pepper, adjusting seasoning as needed.",
+    "Let the curry rest for 5 minutes so the flavors meld together.",
+    "Serve hot, optionally garnished with fresh herbs or a squeeze of lime.",
+    "Enjoy the floral warmth of this British‑style oat curry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "oats",
+    "vegan",
+    "british",
+    "curry",
+    "monsoon",
+    "plant‑based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "floral-british-oats-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-british-oats-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:30:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "bay leaf",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "oats",
+    "descriptor": "Floral",
+    "dishForm": "Curry"
+  }
+}

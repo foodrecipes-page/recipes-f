@@ -1,0 +1,112 @@
+{
+  "title": "Fluffy Bitter Moroccan Chickpeas Tagine",
+  "description": "A light, airy chickpea tagine infused with the sharp bite of mustard seeds and fenugreek, perfect for a dairy‑free, energizing dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas (canned, drained)",
+      "amount": "400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mixed aromatics (onion, garlic, ginger)",
+      "amount": "1 medium onion diced, 3 cloves minced, 1 inch grated ginger"
+    },
+    {
+      "name": "Spices (smoked paprika, ground cumin, ground turmeric)",
+      "amount": "1 tsp smoked paprika, 1 tsp ground cumin, 1 tsp ground turmeric"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tbsp, soaked in 2 tbsp warm water 10 min then drained",
+      "notes": "Soak to reduce bitterness"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "2 tbsp (fresh or dried)"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups (2 cups broth + 1 cup batter)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh herbs (cilantro & parsley)",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the mustard seeds: place in a bowl with 2 tbsp warm water, let stand 10 minutes, then drain and set aside.",
+    "Heat olive oil in a heavy‑bottom pot or tagine over medium heat.",
+    "Add the mixed aromatics (onion, garlic, ginger) and sauté until the onion becomes translucent and fragrant, about 4 minutes.",
+    "Stir in the spices (smoked paprika, cumin, turmeric) and toast for 1 minute to release their oils.",
+    "Add the drained chickpeas, 2 cups of water, and lemon juice to the pot; bring to a gentle boil.",
+    "Reduce the heat to low and simmer, uncovered, for 10 minutes to meld the flavors.",
+    "While the chickpeas simmer, whisk the chickpea flour with 1 cup of water until smooth to form a thin batter.",
+    "Pour the batter into the pot, stirring constantly until the chickpeas are lightly coated and the mixture thickens slightly; this creates a fluffy, airy coating.",
+    "Simmer for another 5 minutes, then stir in the fenugreek leaves and fresh herbs; season with salt and pepper to taste.",
+    "Serve the tagine hot, optionally accompanied by a side of couscous or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tagine",
+    "chickpeas",
+    "mustard-seeds",
+    "dairy-free",
+    "fluffy",
+    "bitter",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 38,
+    "carbs": 96,
+    "fat": 28
+  },
+  "slug": "fluffy-bitter-moroccan-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-bitter-moroccan-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:30:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "mustard seeds",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Fluffy Bitter",
+    "dishForm": "Tagine"
+  }
+}
