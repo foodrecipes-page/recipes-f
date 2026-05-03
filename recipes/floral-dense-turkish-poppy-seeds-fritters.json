@@ -1,0 +1,97 @@
+{
+  "title": "Floral Dense Turkish Poppy Seed Fritters",
+  "description": "A fragrant, cake-like fritter bursting with ground poppy seeds and subtle rosewater, served hot with a dusting of powdered sugar.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for the batter"
+    },
+    {
+      "name": "ground poppy seeds",
+      "amount": "1/4 cup",
+      "notes": "finely ground for a smooth texture"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "sweetens the batter"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "for leavening"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "balances sweetness"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup (40°C)",
+      "notes": "yeast activation"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "binds the batter"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": "optional floral note"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tbsp",
+      "notes": "for dusting after frying"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine flour, ground poppy seeds, sugar, yeast, and salt.",
+    "Create a small well in the center and pour in warm water and olive oil; stir until a dough forms.",
+    "Cover the bowl with plastic wrap and let the dough rise in a warm spot for 45 minutes, or until it doubles in size.",
+    "While the dough rises, whisk the egg and set aside.",
+    "Once risen, punch down the dough and transfer it to a lightly floured surface; knead for 2 minutes until smooth.",
+    "Use a tablespoon to scoop small portions of dough and place them on a parchment-lined tray; cover again and let rest for 10 minutes to allow the batter to thicken slightly.",
+    "Heat melted butter in a nonstick skillet over medium heat; once hot, drop one batter portion at a time into the skillet.",
+    "Fry each fritter for 3-4 minutes per side, or until golden brown and puffed; do not overcrowd the pan.",
+    "Remove fritters with a slotted spoon and lay them on paper towels to drain excess butter.",
+    "Set aside a few warm fritters for serving; dust the rest lightly with powdered sugar before plating.",
+    "Serve immediately with a drizzle of rose water or a dollop of whipped cream for an extra show‑off touch."
+  ],
+  "slug": "floral-dense-turkish-poppy-seeds-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-dense-turkish-poppy-seeds-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:39:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Floral Dense",
+    "dishForm": "Fritters"
+  }
+}
