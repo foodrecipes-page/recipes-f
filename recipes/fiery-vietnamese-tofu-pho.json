@@ -1,0 +1,112 @@
+{
+  "title": "Fiery Vietnamese Tofu Pho",
+  "description": "A smoky, pillowy bowl of tofu pho fortified with coconut milk and a fiery kick, perfect for festive temple gatherings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "raw"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "vegetarian fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1"
+    },
+    {
+      "name": "toasted white pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "neutral oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat until shimmering.",
+    "Add minced garlic and sliced ginger, sauté until fragrant, about 1 minute.",
+    "Stir in smoked paprika and toasted white pepper, cook for 30 seconds to release aromas.",
+    "Pour in vegetable stock and bring to a gentle boil.",
+    "Add vegetarian fish sauce and chili paste, whisk until dissolved.",
+    "Reduce heat and let the broth simmer for 10 minutes to meld flavors.",
+    "While the broth simmers, soak rice noodles in warm water for 5 minutes, then drain.",
+    "Fold in coconut milk, stir until fully incorporated and the broth is silky.",
+    "Add cubed tofu and simmer for another 5 minutes until tofu is heated through.",
+    "Ladle the hot broth and noodles into bowls, garnish with fresh herbs, lime wedges, bean sprouts, and a drizzle of chili paste if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "coconut",
+    "festive",
+    "fiery",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 11
+  },
+  "slug": "fiery-vietnamese-tofu-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-vietnamese-tofu-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:27:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "emulsify",
+    "primaryIngredient": "coconut milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Fiery",
+    "dishForm": "Pho"
+  }
+}
