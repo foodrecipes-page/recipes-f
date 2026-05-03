@@ -1,0 +1,105 @@
+{
+  "title": "Flaky Tangy Uruguayan Parsley Flatbread",
+  "description": "A comforting, crisp flatbread infused with fresh parsley and a bright lemony tang, perfect for a light lunch or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "plain, sifted"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "about 40°C"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "plus extra for greasing"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "from one medium lemon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fine sea salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tsp",
+      "notes": "plant‑based"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, sugar, and baking soda.",
+    "Create a well in the center and pour in the warm water and 2 tbsp of olive oil.",
+    "Mix until a shaggy dough forms, then knead on a lightly floured surface for about 5 minutes until smooth and elastic.",
+    "Place the dough in an oiled bowl, cover with a damp cloth, and let it rise for 20 minutes at room temperature.",
+    "Preheat a cast‑iron skillet or non‑stick pan over medium heat; lightly oil the surface.",
+    "Divide the dough into four equal portions and roll each into a thin oval, about 10‑inch wide.",
+    "Brush each flatbread with a little olive oil, then sprinkle the chopped parsley, lemon zest, and a pinch of salt evenly over the surface.",
+    "Cook each flatbread for 2–3 minutes per side, or until golden and flaky, turning once; while still hot, drizzle a thin layer of lemon juice over the top of each.",
+    "Serve warm, optionally garnished with extra parsley leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "flatbread",
+    "jain-friendly",
+    "vegetarian",
+    "flaky",
+    "tangy",
+    "parsley"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "flaky-tangy-uruguayan-parsley-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-tangy-uruguayan-parsley-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:11:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Parsley",
+    "descriptor": "Flaky Tangy",
+    "dishForm": "Flatbread"
+  }
+}
