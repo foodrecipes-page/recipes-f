@@ -1,0 +1,103 @@
+{
+  "title": "Floral Dense Canadian Onion Frittata",
+  "description": "A Jain-friendly, dense, and flavorful Canadian-inspired frittata featuring yellow onions, perfect for a brunch mood. This dish combines the sweetness of caramelized onions with the freshness of floral notes.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rose petals",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "lavender buds",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Canadian cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, vegan alternative optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the sliced onions and cook, stirring occasionally, until they are caramelized and golden brown, about 20-25 minutes.",
+    "In a small bowl, mix together the dried rose petals and lavender buds.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the shredded cheese to the egg mixture and stir to combine.",
+    "Add the cooked onions, rose petal mixture, and chopped parsley to the egg mixture. Stir gently to combine.",
+    "Pour the egg mixture into a greased 9-inch (23cm) skillet or frittata pan.",
+    "Cook the frittata over medium heat, without stirring, until the edges start to set, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the frittata is cooked through and golden brown on top.",
+    "Remove the skillet from the oven and let it cool for a few minutes. Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "brunch",
+    "frittata",
+    "onion",
+    "floral",
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "floral-dense-canadian-onion-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-dense-canadian-onion-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:17:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "yellow onion",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "onion",
+    "descriptor": "floral dense",
+    "dishForm": "Frittata"
+  }
+}
