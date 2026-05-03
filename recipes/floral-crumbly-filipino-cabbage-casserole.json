@@ -1,0 +1,110 @@
+{
+  "title": "Floral Crumbly Filipino Cabbage Casserole",
+  "description": "A comforting one‑pot Filipino casserole that marries the floral aroma of star anise and cinnamon with crumbly, golden breadcrumbs atop tender shredded cabbage.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 medium head (≈1.5 kg)",
+      "notes": "shredded"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 tsp",
+      "notes": "floral note"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fish sauce (patis)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "½ cup"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "½ cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 °C (350 °F) and lightly butter a 2‑quart baking dish.",
+    "Melt butter in a large skillet over medium heat; sauté onion, garlic, star anise, and cinnamon until fragrant, about 3 min. Remove star anise.",
+    "Add shredded cabbage and cook, stirring, until just wilted, about 5 min.",
+    "Stir in fish sauce, brown sugar, and coconut milk; cook for 2 min until combined.",
+    "Transfer cabbage mixture to the prepared baking dish, spreading evenly.",
+    "In a small bowl mix breadcrumbs, Parmesan, and a pinch of salt; sprinkle over the cabbage.",
+    "Bake uncovered for 20–25 min, or until the topping is golden and the cabbage tender.",
+    "Let rest 5 min, garnish with fresh basil if desired, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "one-pot",
+    "cabbage",
+    "floral",
+    "crumbly",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 4,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "floral-crumbly-filipino-cabbage-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crumbly-filipino-cabbage-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:47:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "white cabbage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cabbage",
+    "descriptor": "Floral Crumbly",
+    "dishForm": "Casserole"
+  }
+}
