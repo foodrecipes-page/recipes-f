@@ -1,0 +1,102 @@
+{
+  "title": "Fragrant Filipino Pork Skewers",
+  "description": "A sweet and savory Filipino dish featuring tender pork skewers in a rich barbeque sauce, served with a side of steamed vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1 cup",
+      "notes": "used for marinating"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "used for basting"
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1/4 cup",
+      "notes": "used for glazing"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "In a large bowl, whisk together pineapple juice, coconut milk, barbeque sauce, brown sugar, fish sauce, and black pepper.",
+    "Add the garlic and cilantro to the bowl and mix well.",
+    "Add the pork shoulder to the bowl and marinate for at least 30 minutes.",
+    "Thread the pork onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and slightly charred.",
+    "Baste the skewers with the remaining marinade during the last 2 minutes of grilling.",
+    "Serve the skewers hot with steamed vegetables and your choice of sides.",
+    "Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "filipino",
+    "grilled",
+    "low-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fragrant-filipino-pork-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-filipino-pork-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:42:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Pork",
+    "descriptor": "Fragrant",
+    "dishForm": "Skewers"
+  }
+}
