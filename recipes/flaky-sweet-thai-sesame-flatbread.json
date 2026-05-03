@@ -1,0 +1,97 @@
+{
+  "title": "Flaky Sweet Thai Sesame Flatbread",
+  "description": "A light, tangy flatbread with a sweet crunch of sesame and sugar, perfect for kids and the whole family.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all‑purpose flour",
+      "amount": "2 cups",
+      "notes": "plus extra for dusting"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "spread evenly"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tablespoon",
+      "notes": "for lift"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "adds richness"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "helps keep dough tender"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "to sprinkle on top"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, sugar, baking powder and salt.",
+    "Create a well in the center and pour in warm milk, melted butter and yogurt; stir until a sticky dough forms.",
+    "Transfer the dough onto a floured surface and knead gently for 1–2 minutes until it just comes together.",
+    "Divide the dough into 8 equal portions and roll each into a thin oval, about 1/4 inch thick.",
+    "Heat a lightly oiled cast‑iron skillet or griddle over medium heat; cook each flatbread for 2–3 minutes per side or until golden and slightly crisp.",
+    "Remove from heat, sprinkle both sides with sesame seeds, then slice into bite‑size pieces.",
+    "Serve warm as a sweet snack or dessert.",
+    "Enjoy the crunchy, sweet, and tangy flavors that kids will love!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dessert",
+    "quick",
+    "kid-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 282,
+    "protein": 4.8,
+    "carbs": 22,
+    "fat": 5.6
+  },
+  "slug": "flaky-sweet-thai-sesame-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-sweet-thai-sesame-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:26:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "granulated sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Sesame",
+    "descriptor": "Flaky Sweet",
+    "dishForm": "Flatbread"
+  }
+}
