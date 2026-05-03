@@ -1,0 +1,107 @@
+{
+  "title": "Floral Crunchy Brazilian Shrimp Dumplings",
+  "description": "A comforting, light shrimp filling infused with hibiscus and lime, pan-seared in low-carb wonton wrappers for a soothing sick-day meal.",
+  "cuisine": "Brazilian-Fusion",
+  "diet": [
+    "Keto-Friendly",
+    "High-Protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 lb",
+      "notes": "peeled, deveined, and finely chopped"
+    },
+    {
+      "name": "Keto Wonton Wrappers",
+      "amount": "20 sheets",
+      "notes": "made from almond flour or thin radish slices"
+    },
+    {
+      "name": "Dried Hibiscus Flowers",
+      "amount": "1 tbsp",
+      "notes": "ground into a fine powder for floral notes"
+    },
+    {
+      "name": "Hearts of Palm",
+      "amount": "1/2 cup",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Dendê Oil",
+      "amount": "1 tbsp",
+      "notes": "traditional Brazilian red palm oil for sautéing"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tbsp",
+      "notes": "full fat for moisture"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Lime Zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Edible Pansies",
+      "amount": "5-6 flowers",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the chopped shrimp, diced hearts of palm, hibiscus powder, lime zest, and coconut milk.",
+    "Mix in the cilantro and a pinch of salt until the filling is well incorporated.",
+    "Place a small teaspoon of the shrimp mixture in the center of each keto-friendly wrapper.",
+    "Moisten the edges of the wrapper with water and fold into a triangle, pressing firmly to seal.",
+    "Heat the dendê oil in a large non-stick skillet over medium-high heat.",
+    "Place the dumplings in the pan and sear for 2-3 minutes until the bottoms are golden and crunchy.",
+    "Add two tablespoons of water to the pan and immediately cover with a lid to steam for 2 minutes.",
+    "Remove the lid and continue cooking until the remaining water evaporates and the bottoms crisp up again.",
+    "Ensure the internal temperature of the shrimp has reached 145°F (63°C).",
+    "Plate the dumplings and garnish with fresh edible flowers for a floral aroma."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "shrimp",
+    "keto",
+    "low-carb",
+    "floral",
+    "comfort-food",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "floral-crunchy-brazilian-shrimp-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-brazilian-shrimp-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T21:08:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "wonton skin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Floral Crunchy",
+    "dishForm": "Dumplings"
+  }
+}
