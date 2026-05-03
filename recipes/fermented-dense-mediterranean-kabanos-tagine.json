@@ -1,0 +1,119 @@
+{
+  "title": "Fermented Dense Mediterranean Kabanos Tagine",
+  "description": "A hearty, high-protein feast featuring fermented kabanos sausages, chickpeas, and aromatic spices. This slow-cooked tagine is perfect for a festive dinner gathering.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos sausages",
+      "amount": "1 pound",
+      "notes": "fermented, casing removed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup dried, soaked overnight",
+      "notes": "canned is fine if soaked not possible"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large clay tagine or Dutch oven, heat oil over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add garlic, cumin, paprika, cayenne pepper, salt, and black pepper; cook, stirring constantly, for 1 minute.",
+    "Add chickpeas, lemon juice, and kabanos sausages; stir to combine.",
+    "Bring mixture to a simmer, then reduce heat to low and cook, covered, for 25 minutes.",
+    "Stir in chopped parsley; continue cooking, covered, for an additional 5-10 minutes.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "slow-cooked",
+    "high-protein",
+    "mediterranean",
+    "tagine",
+    "sausage",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 42.3,
+    "carbs": 44.1,
+    "fat": 24.5
+  },
+  "slug": "fermented-dense-mediterranean-kabanos-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-mediterranean-kabanos-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:50:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "kabanos",
+    "descriptor": "fermented dense",
+    "dishForm": "Tagine"
+  }
+}

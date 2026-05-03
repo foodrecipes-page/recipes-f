@@ -1,0 +1,115 @@
+{
+  "title": "Floral Velvety Australian Fruit Toast",
+  "description": "A post-workout Australian dish featuring a mix of exotic fruits, topped with a velvety mascarpone cream and a hint of rose petals, served on toasted sourdough bread.",
+  "cuisine": "australian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sourdough bread",
+      "amount": "1 baguette (250g)",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "120g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "raw, Australian honey"
+    },
+    {
+      "name": "Rose petal jam",
+      "amount": "1 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup (150g)",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Fresh kiwi",
+      "amount": "1 cup (150g)",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "1 cup (120g)",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup (120g)",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Slice the sourdough bread into 1-inch thick slices and toast until lightly browned.",
+    "In a medium-sized bowl, mix together the mascarpone cheese, honey, and rose petal jam until well combined.",
+    "Arrange the toasted bread slices on a serving plate or individual plates.",
+    "Top each bread slice with a dollop of the mascarpone mixture.",
+    "Arrange the sliced strawberries, kiwi, blueberries, and raspberries on top of the mascarpone cream.",
+    "Drizzle the lemon juice over the fruit.",
+    "Dust the confectioners' sugar over the top of the fruit.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "floral",
+    "fruit-topped",
+    "mascarpone",
+    "post-workout",
+    "rose-petal",
+    "sourdough",
+    "velvety",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "floral-velvety-australian-fruit-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-australian-fruit-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:50:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "fruit mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "fruits",
+    "descriptor": "floral velvety",
+    "dishForm": "toast"
+  }
+}

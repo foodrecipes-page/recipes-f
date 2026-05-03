@@ -1,0 +1,103 @@
+{
+  "title": "Fermented Dense Korean Pork Bao",
+  "description": "Indulge in the rich flavors of fermented Korean pork, nestled within a soft, fluffy bao. Perfect for a date-night dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bokkeumbap Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented Korean Chili Paste (gochujang)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla Sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "500g"
+    },
+    {
+      "name": "Pork Marinade (see notes)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Neutral Oil (e.g., canola or grapeseed)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soft Bao Buns",
+      "amount": "4-6 buns"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine pork belly, pork marinade, Korean chili flakes, fermented Korean chili paste, brown sugar, and vanilla sugar in a large bowl. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C). Remove the pork from the marinade and place on a wire rack set over a rimmed baking sheet. Bake for 20-25 minutes or until caramelized.",
+    "Heat neutral oil in a large skillet over medium-high heat. Add the pork and cook until crispy on both sides.",
+    "In a large bowl, whisk together Bokkeumbap rice and 1 cup of water. Cook according to package instructions.",
+    "Warm the soft bao buns according to package instructions.",
+    "To assemble the buns, place a portion of the cooked rice on the bottom half of the bun, followed by a piece of the crispy pork, and finish with the top half of the bun.",
+    "Garnish with green onions and toasted sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "korean",
+    "date-night",
+    "baos",
+    "fermented",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "32g",
+    "carbs": "44g",
+    "fat": "34g"
+  },
+  "slug": "fermented-dense-korean-pork-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-korean-pork-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:49:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "fermented dense",
+    "dishForm": "Bao"
+  }
+}
