@@ -1,0 +1,112 @@
+{
+  "title": "Floral Crispy Indian Manchego Salad",
+  "description": "A fragrant, low‑calorie salad that marries the nutty sharpness of Manchego with roasted chickpeas, crisp greens, and a splash of rose water for a floral finish.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Manchego cheese, diced",
+      "amount": "100 g"
+    },
+    {
+      "name": "Cooked chickpeas",
+      "amount": "200 g",
+      "notes": "roasted for crunch"
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "150 g"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "100 g"
+    },
+    {
+      "name": "Cucumber, diced",
+      "amount": "80 g"
+    },
+    {
+      "name": "Pine nuts, toasted",
+      "amount": "20 g",
+      "notes": "toasted until fragrant"
+    },
+    {
+      "name": "Edible rose petals",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Pat dry the chickpeas and toss them with 1 tsp olive oil, 1/2 tsp cumin, 1/4 tsp salt, and a pinch of pepper.",
+    "Spread the chickpeas on a baking sheet and roast for 20 minutes, turning halfway through, until golden and crunchy.",
+    "While the chickpeas roast, chop the salad greens, cherry tomatoes, cucumber, and toast the pine nuts in a dry skillet over medium heat for 2 minutes until fragrant.",
+    "Whisk together lemon juice, rose water, 1 tbsp olive oil, salt, and cumin to make the dressing.",
+    "In a large bowl, combine the greens, tomatoes, cucumber, roasted chickpeas, and toasted pine nuts.",
+    "Drizzle the dressing over the salad, toss gently to coat.",
+    "Fold in the diced Manchego cheese.",
+    "Top the salad with edible rose petals for a floral flourish.",
+    "Serve immediately, optionally garnishing with a few extra rose petals."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "crisp",
+    "indian",
+    "low-calorie",
+    "salad",
+    "manchego",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 488,
+    "protein": 24,
+    "carbs": 33,
+    "fat": 31
+  },
+  "slug": "floral-crispy-indian-manchego-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-indian-manchego-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:25:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "manchego",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Manchego",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Salad"
+  }
+}
