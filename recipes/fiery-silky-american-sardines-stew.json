@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Silky American Sardines Stew",
+  "description": "A bold, one‑pot stew that blends the smoky depth of sardines with silky coconut milk and a fiery kick, delivering a high‑protein, comforting meal in minutes.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned sardines in olive oil",
+      "amount": "4 (5 oz) cans"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1, diced"
+    },
+    {
+      "name": "tomato sauce (low sodium)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "full‑fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili paste (sriracha or harissa)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy‑bottomed pot over medium heat.",
+    "Add the diced onion, minced garlic, and bell pepper; sauté until the vegetables soften, about 5 minutes.",
+    "Stir in the cumin and smoked paprika, cooking until fragrant, 30 seconds.",
+    "Pour in the tomato sauce, coconut milk, and fresh lime juice; bring to a gentle simmer.",
+    "Carefully fold in the sardines, breaking them into pieces while they warm through, 3 minutes.",
+    "Add the rinsed quinoa and 2 cups of water or low‑sodium broth; stir to combine.",
+    "Reduce heat to low, cover, and simmer until the quinoa is tender and the stew thickens, about 15 minutes.",
+    "Taste and season with salt if needed.",
+    "Serve hot, optionally garnished with chopped fresh herbs, and enjoy the silky, fiery flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "one-pot",
+    "high-protein",
+    "seafood",
+    "american",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 355,
+    "protein": 23,
+    "carbs": 17,
+    "fat": 14
+  },
+  "slug": "fiery-silky-american-sardines-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-silky-american-sardines-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:27:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "sardines",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sardines",
+    "descriptor": "Fiery Silky",
+    "dishForm": "Stew"
+  }
+}
