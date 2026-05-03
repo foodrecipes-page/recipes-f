@@ -1,0 +1,102 @@
+{
+  "title": "Floral Crispy Turkish Lamb Kebabs",
+  "description": "A Turkish-inspired dish featuring crispy lamb kebabs with a floral twist, made with Dutch stroop and bhuna spices, perfect for a meal-prep dinner. This egg-free-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tbsp",
+      "notes": "or substitute with honey"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "rose petals",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together Dutch stroop, bhuna spice mix, rose petals, lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and mix until they are evenly coated with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until the lamb is cooked through and crispy on the outside.",
+    "While the lamb is cooking, prepare a side of roasted vegetables or a salad to serve with the kebabs.",
+    "Once the lamb is done, remove it from the oven and let it rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh rose petals and a side of your choice.",
+    "Store any leftovers in an airtight container in the fridge for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebabs",
+    "floral",
+    "crispy",
+    "meal-prep",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "floral-crispy-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:13:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "dutch stroop",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "floral crispy",
+    "dishForm": "Kebabs"
+  }
+}
