@@ -1,0 +1,59 @@
+{
+  "title": "Flaky Brazilian Cheese Curds Toast",
+  "description": "A quick, savory Brazilian dish featuring flaky cheese curds on toasted bread, perfect for a Mediterranean-friendly snack or light meal.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toasted bread",
+      "amount": "2 slices",
+      "notes": "Use sturdy bread like sourdough or whole grain"
+    },
+    {
+      "name": "brazilian cheese curds",
+      "amount": "100g",
+      "notes": "Fresh or pre-made cheese curds from Brazilian cheese"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "Extra virgin olive oil for flavor"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Toast 2 slices of bread in a pan until golden and crispy",
+    "In a small bowl, mix 100g Brazilian cheese curds with 1 tsp olive oil",
+    "Spread the cheese curds mixture evenly over the toasted bread",
+    "Top with chopped parsley and serve immediately"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  ": 5,  // total time is prep + cook = 2 + 3 = 5 min, but need to fix the JSON structure to avoid syntax error here... wait, I see the error: in the JSON, the field ": ", should be ",
+  "slug": "flaky-brazilian-cheese-curds-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-brazilian-cheese-curds-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:52:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "cheese curds",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "flaky",
+    "dishForm": "Toast"
+  }
+}
