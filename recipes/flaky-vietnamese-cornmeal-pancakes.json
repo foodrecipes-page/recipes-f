@@ -1,0 +1,94 @@
+{
+  "title": "Flaky Vietnamese Cornmeal Pancakes",
+  "description": "Fermented, flaky egg‑free pancakes made with white cornmeal, rice flour, and a touch of coconut milk—perfect for a hangover cure or a light breakfast.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten‑free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1/4 cup (30g)",
+      "notes": "adds structure for flakiness"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp (5g)",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup (180ml)",
+      "notes": "38‑42°C"
+    },
+    {
+      "name": "cold water",
+      "amount": "1/4 cup (60ml)",
+      "notes": "helps control fermentation"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together cornmeal, rice flour, salt, sugar, and yeast.",
+    "Add the warm water, cold water, and coconut milk, stirring until a thick batter forms.",
+    "Cover the bowl with a damp cloth and let the batter ferment at room temperature for 30–45 minutes until it becomes bubbly and slightly sour.",
+    "Heat a non‑stick skillet over medium heat and lightly brush with oil.",
+    "Pour a small ladleful of batter onto the skillet, spreading it into a thin circle; the batter should be spread quickly to keep it thin.",
+    "Cook 2–3 minutes until the edges lift and the bottom is golden.",
+    "Fold the pancake in half, then fold the halves in a criss‑cross pattern to create a flaky, layered texture.",
+    "Flip the folded pancake and cook another 2 minutes until the other side is golden.",
+    "Transfer to a plate and serve warm; optionally garnish with chopped cilantro or scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "flaky",
+    "cornmeal",
+    "hangover-cure",
+    "egg-free",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 33,
+    "fat": 8
+  },
+  "slug": "flaky-vietnamese-cornmeal-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-vietnamese-cornmeal-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:06:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "white cornmeal",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Flaky",
+    "dishForm": "Pancakes"
+  }
+}
