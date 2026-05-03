@@ -1,0 +1,104 @@
+{
+  "title": "Fluffy Middle Eastern Padron Pepper Skewers",
+  "description": "Tender padron peppers cooked sous‑vide then seared, served with a light tahini‑lemon sauce and fragrant spices for a midnight‑craving, sugar‑free Middle Eastern dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1, zest 1, juice 2 tablespoons"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Za'atar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Thread the padron peppers onto 8‑inch bamboo skewers, brushing each with olive oil and sprinkling with salt.",
+    "Pack the skewers into a vacuum‑seal bag, seal, and sous‑vide at 68 °C (154 °F) for 45 minutes.",
+    "After the sous‑vide, remove the skewers, pat dry, and sear on a preheated grill or grill pan for 2 minutes per side until a slight char forms.",
+    "While the peppers grill, whisk together tahini, lemon juice, minced garlic, water, sumac, and za'atar until smooth.",
+    "Serve the hot skewers drizzled with the tahini sauce, garnished with chopped mint and parsley, and a sprinkle of extra sumac if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "middle-eastern",
+    "padron-peppers",
+    "fluffy",
+    "sugar-free",
+    "vegan",
+    "gluten-free",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "fluffy-middle-eastern-padron-peppers-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-middle-eastern-padron-peppers-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:52:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "padron peppers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Fluffy",
+    "dishForm": "Skewers"
+  }
+}
