@@ -1,0 +1,117 @@
+{
+  "title": "Floral Tender Kenyan Olives Salad",
+  "description": "A fragrant, post-workout salad that blends blanched black olives with fresh herbs, almond crunch and edible flowers for a floral twist.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "200g",
+      "notes": "Kalamata, pitted"
+    },
+    {
+      "name": "fresh spinach leaves",
+      "amount": "200g",
+      "notes": "washed, dried"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1 tbsp",
+      "notes": "dried roses or violets, optional"
+    }
+  ],
+  "instructions": [
+    "1. Bring a small pot of salted water to a boil. Add the black olives and blanch for 1 minute.",
+    "2. Drain the olives and immediately transfer them to a bowl of ice water to stop cooking. Let them cool for 2 minutes, then drain again and pat dry.",
+    "3. In a large bowl, combine the blanched olives, spinach, sliced onion, mint, basil, and edible flowers.",
+    "4. Whisk together lemon zest, lemon juice, olive oil, honey, salt, and pepper to make a dressing.",
+    "5. Pour the dressing over the salad and toss gently until everything is evenly coated.",
+    "6. Sprinkle toasted sliced almonds on top for crunch.",
+    "7. Serve immediately, or chill for 10 minutes to meld flavors.",
+    "8. Optional: add a light sprinkle of grated Parmesan or feta for extra protein.",
+    "9. Enjoy as a refreshing, protein‑rich post‑workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "post-workout",
+    "black-olives",
+    "blanch",
+    "raw-friendly",
+    "kenyan",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 19,
+    "carbs": 26,
+    "fat": 62
+  },
+  "slug": "floral-tender-kenyan-olives-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-kenyan-olives-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:43:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "black olives",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "olives",
+    "descriptor": "Floral Tender",
+    "dishForm": "Salad"
+  }
+}

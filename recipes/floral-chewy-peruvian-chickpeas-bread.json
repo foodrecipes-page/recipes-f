@@ -1,0 +1,114 @@
+{
+  "title": "Floral Chewy Peruvian Chickpea Bread",
+  "description": "A light and fluffy Peruvian-inspired bread filled with the delicate flavors of chickpeas and floral herbs.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg substitute (flaxseed or aquafaba)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yeast and warm water. Let it sit for 5 minutes until foamy.",
+    "Add sugar and melted butter. Mix well.",
+    "Add the egg substitute and mix until the mixture is smooth.",
+    "Add the flour, chickpeas, oregano, rosemary, and salt. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper.",
+    "Brush the top of the loaf with melted butter.",
+    "Bake for 35-40 minutes until the bread is golden brown.",
+    "Remove from the oven and let it cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chickpea",
+    "floral",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "floral-chewy-peruvian-chickpeas-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-peruvian-chickpeas-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:43:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "chickpeas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "floral chewy",
+    "dishForm": "Bread"
+  }
+}
