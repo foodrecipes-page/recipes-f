@@ -1,0 +1,83 @@
+{
+  "title": "Fermented Crunchy Portuguese Peach Pilaf",
+  "description": "This low-carb-friendly meal-prep dish features fermented peaches blended with a crunchy texture to create a delightful and nutritious breakfast or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fermented Peaches Puree",
+      "amount": "300ml (about 5-6 peaches) jar, drained"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Flax Seeds",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Whisk almond flour and coconut oil until creamy.",
+    "Add baking powder and salt to the whisked mixture.",
+    "Mix in fermented peach puree until everything is well combined. The consistency should be slightly thicker than a regular batter but still pourable.",
+    "Sprinkle flax seeds on top of the batter before cooking for added texture.",
+    "Heat up a non-stick skillet over medium heat and pour in the mixture, spreading it out evenly to form a thin layer.",
+    "Bake at 350°F (180°C) for about 20-25 minutes or until golden brown on top.",
+    "Remove from heat and let cool slightly before serving with almond milk if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-peach-pilaf",
+    "low-carb-portuguese",
+    "crunchy-peach-mixture"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "fermented-crunchy-portuguese-peach-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-portuguese-peach-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:23:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "peaches",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peaches",
+    "descriptor": "Fermented Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

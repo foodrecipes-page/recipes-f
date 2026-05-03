@@ -1,0 +1,105 @@
+{
+  "title": "Fermented Portuguese Lamb Casserole",
+  "description": "A hearty, fermented, and crumbly casserole featuring lamb, fajita seasoning, and a dairy-free friendly twist on traditional Portuguese cuisine. This cozy dish is perfect for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "non-dairy cheese shreds",
+      "amount": "1 cup",
+      "notes": "such as soy cheese or vegan mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat. Add the lamb and cook until browned, about 5 minutes.",
+    "Add the fajita seasoning, onions, and garlic to the pot. Cook, stirring occasionally, until the onions are translucent, about 5 minutes.",
+    "Add the port wine and vegetable broth to the pot, scraping up any browned bits from the bottom. Bring to a boil, then cover and transfer to the preheated oven.",
+    "Braise the lamb mixture for 2 1/2 hours, or until the meat is tender and falls apart easily.",
+    "While the lamb is braising, prepare the sauerkraut and potatoes. In a large bowl, combine the chopped sauerkraut and sliced potatoes.",
+    "After the lamb has finished braising, stir in the sauerkraut and potato mixture. Season with salt and pepper to taste.",
+    "Transfer the lamb and sauerkraut mixture to a 9x13 inch baking dish. Top with non-dairy cheese shreds.",
+    "Bake in the preheated oven for an additional 20-25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-cuisine",
+    "lamb-recipes",
+    "fermented-foods",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 26
+  },
+  "slug": "fermented-portuguese-lamb-casserole",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-portuguese-lamb-casserole",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "crumbly fermented",
+    "dishForm": "Casserole"
+  }
+}

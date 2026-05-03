@@ -1,0 +1,101 @@
+{
+  "title": "Floral Velvety Kenyan Ricotta Skillet",
+  "description": "A one-pot, low-sodium Kenyan dish featuring ricotta, air-fried to perfection with floral notes. This velvety skillet combines the richness of ricotta with the brightness of Kenyan spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 1/2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "jasmine tea-infused milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Kenyan berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "air-fryer friendly oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced yellow onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "In a bowl, whisk together ricotta cheese, jasmine tea-infused milk, Kenyan berbere spice, and salt-free seasoning blend.",
+    "In the air fryer basket, add the diced red bell pepper and yellow onion. Air-fry for 5 minutes.",
+    "Add the minced garlic to the air fryer basket and air-fry for an additional 1 minute.",
+    "In a large skillet, add the air-fryer friendly oil over medium heat.",
+    "Pour the ricotta mixture into the skillet and stir to combine with the air-fried vegetables.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally, until the mixture is velvety and heated through.",
+    "Stir in chopped fresh cilantro and lemon juice.",
+    "Serve the floral velvety Kenyan ricotta skillet hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "low-sodium",
+    "vegetarian",
+    "air-fryer",
+    "ricotta",
+    "breakfast-skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "floral-velvety-kenyan-ricotta-skillet",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-kenyan-ricotta-skillet",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "ricotta",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "ricotta",
+    "descriptor": "floral velvety",
+    "dishForm": "Skillet"
+  }
+}
