@@ -1,0 +1,111 @@
+{
+  "title": "Fermented Light Aussie Wonton Dumplings",
+  "description": "A light, fermented dumpling dish using gluten‑free wonton skins, packed with fresh cucumber, carrot, and micro‑greens, finished in a pressure cooker for a quick solo dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten‑free wonton skins",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Kimchi (fermented cabbage)",
+      "amount": "1 cup",
+      "notes": "chopped for flavor"
+    },
+    {
+      "name": "Fresh cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 small",
+      "notes": "grated"
+    },
+    {
+      "name": "Micro‑greens or spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tamari (gluten‑free soy sauce)",
+      "amount": "2 tbsp",
+      "notes": "for umami"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the wonton skins under cold water and pat dry; set aside.",
+    "In a bowl, combine kimchi, cucumber, carrot, micro‑greens, tamari, rice vinegar, sesame oil, lime juice, salt, and pepper. Mix well to form the filling.",
+    "Place a teaspoon of filling in the center of each wonton skin, leaving a 1‑inch border.",
+    "Fold the skins into triangular shapes and seal the edges by pinching and pressing firmly; repeat until all skins are filled.",
+    "Place the dumplings in a single layer in the pressure cooker’s steamer basket or on a heat‑proof rack.",
+    "Add 1 cup of water to the pressure cooker, secure the lid, and cook on high pressure for 5 minutes.",
+    "Quick‑release the pressure, remove the dumplings, and serve immediately with a squeeze of lime or a drizzle of soy sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "fermented",
+    "gluten-free",
+    "pressure-cook",
+    "solo",
+    "wonton",
+    "dumpling",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "fermented-light-aussie-wonton-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-light-aussie-wonton-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:07:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "wonton skin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Aussie",
+    "mainIngredient": "Wonton",
+    "descriptor": "Fermented Light",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Flaky Uruguayan Lentil Empanadas",
+  "description": "A fermented, flaky empanada featuring a savory lentil filling seasoned with Italian herbs, perfect for a cozy solo dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole-wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooked lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated cheese (half parmesan, half mozzarella)",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, salt, and yeast.",
+    "Add warm water and mix to form a rough dough; knead for 5–7 minutes until smooth.",
+    "Stir in the olive oil until fully incorporated, then cover the dough and let it rise at room temperature for 1 hour, or until doubled in size.",
+    "While the dough is rising, heat 1 tablespoon of olive oil in a skillet over medium heat and sauté onion and garlic until translucent.",
+    "Add lentils, Italian seasoning, smoked paprika, and tomato paste; cook for 2 minutes, then remove from heat.",
+    "Stir in the grated cheese and season with freshly ground black pepper to taste, letting the mixture cool slightly.",
+    "Preheat the oven to 200 °C (392 °F). Punch down the dough, divide it into 8 equal portions, and roll each into a 10 cm circle.",
+    "Place a spoonful of filling on the center of each circle, fold over to create a half‑moon shape, and crimp the edges to seal.",
+    "Arrange the empanadas on a parchment‑lined baking sheet, brush the tops with beaten egg or a little olive oil, and bake for 20–25 minutes until golden and flaky.",
+    "Serve the empanadas warm, ideally with a fresh green salad or a simple vinaigrette."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian-friendly",
+    "flaky",
+    "lentil",
+    "empanadas",
+    "uruguayan",
+    "quick-meal",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "flaky-uruguayan-lentil-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-uruguayan-lentil-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:07:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "italian seasoning",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lentils",
+    "descriptor": "Flaky",
+    "dishForm": "Empanadas"
+  }
+}
