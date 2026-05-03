@@ -1,0 +1,110 @@
+{
+  "title": "Floral Creamy Arab Chicken Soup",
+  "description": "A soothing, fragrant chicken soup with subtle rose essence, creamy coconut milk, and aromatic herbs, perfect for a sick day or comforting Middle Eastern palate.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 lb",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "1 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "unsweetened, canned"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tbsp",
+      "notes": "freshly added"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the water and chicken bouillon powder, stirring until fully dissolved.",
+    "Add the chicken pieces to the broth, bring to a gentle simmer, and cook for 15 minutes until the chicken is cooked through.",
+    "Stir in the coconut milk, rose water, cardamom, cumin, salt, and pepper; simmer for an additional 5 minutes to meld the flavors.",
+    "Adjust the seasoning with lemon juice, adding more if a brighter acidity is desired.",
+    "Serve hot, garnished with freshly chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "creamy",
+    "sick-day",
+    "middle-eastern",
+    "paleo-friendly",
+    "chicken-soup"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "floral-creamy-arab-chicken-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-arab-chicken-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:59:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Arab",
+    "mainIngredient": "Chicken",
+    "descriptor": "Floral Creamy",
+    "dishForm": "Soup"
+  }
+}
