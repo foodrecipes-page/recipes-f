@@ -1,0 +1,100 @@
+{
+  "title": "Floral Velvety Ukrainian Brussels Sprouts Borscht",
+  "description": "A paleo-friendly twist on the classic Ukrainian beet-based borscht, this recipe incorporates Brussels sprouts for a delightful and nutritious twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "1 pound, trimmed and halved"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium, peeled and grated"
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Cabbage",
+      "amount": "1 small, shredded"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Ghee or Avocado Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, heat the ghee or avocado oil over medium heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Brussels sprouts, carrots, beets, red cabbage, and chicken broth. Close the lid and cook for 10 minutes at high pressure.",
+    "Quick-release the pressure, then let the pressure return to normal.",
+    "Stir in the red wine vinegar, chopped dill, and chopped parsley. Season with salt and pepper to taste.",
+    "Serve the borscht hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "brussels-sprouts",
+    "paleo",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "floral-velvety-ukrainian-brussels-sprouts-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-ukrainian-brussels-sprouts-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:39:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Brussels sprouts",
+    "descriptor": "floral velvety",
+    "dishForm": "Borscht"
+  }
+}

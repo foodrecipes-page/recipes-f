@@ -1,0 +1,115 @@
+{
+  "title": "Fresh Croatian Trout Salad",
+  "description": "A light, umami‑rich salad featuring grilled trout, fresh greens, and a spicy chilli‑asparagus sauce, perfect for a date night.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh trout fillets",
+      "amount": "200g each",
+      "notes": "skinless, boneless"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "2 cups",
+      "notes": "arugula, spinach, radicchio"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tablespoon",
+      "notes": "rinsed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "homemade chilli sauce",
+      "amount": "1 tablespoon",
+      "notes": "blend 1 chili, 1 tbsp olive oil, 1 tsp honey, 1 tsp vinegar, pinch salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150 °C (300 °F). Brush trout fillets with 1 tbsp olive oil, season with salt, pepper, and smoked paprika, and bake for 12–14 minutes or until internal temperature reaches 60 °C. Let rest 5 minutes.",
+    "While trout cooks, toss salad greens, cherry tomatoes, cucumber, red onion, capers, lemon juice, remaining olive oil, dill, and soy sauce in a large bowl until evenly coated.",
+    "Whisk chilli sauce with a splash of water to thin if needed.",
+    "Flake the slightly cooled trout into the salad bowl and drizzle with the chilli sauce.",
+    "Gently fold the fish into the greens, ensuring an even distribution.",
+    "Season with additional salt, pepper, or dill to taste.",
+    "Serve immediately, optionally with a wedge of lemon for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "light",
+    "umami",
+    "date-night",
+    "croatian",
+    "diabetic-friendly",
+    "salad",
+    "chilli-sauce"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "fresh-croatian-trout-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-croatian-trout-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:39:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "chilli sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "trout",
+    "descriptor": "Fresh",
+    "dishForm": "Salad"
+  }
+}
