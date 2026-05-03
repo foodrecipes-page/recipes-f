@@ -1,0 +1,75 @@
+{
+  "title": "Fluffy Tunisian Almond Dumplings",
+  "description": "Nutty, fluffy, kid‑friendly Tunisian dumplings infused with Thai green curry paste, cooked sous‑vide for a tender interior and finished in a quick sauté for a golden crust—low‑carb and easy to scale.",
+  "cuisine": "tunisian-thai fusion",
+  "diet": [
+    "low-carb",
+    "gluten‑free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Cold water",
+      "amount": "80 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat sous‑vide bath to 85 °C (185 °F).",
+    "Whisk the eggs with coconut oil until creamy.",
+    "Stir in Thai green curry paste and lemon zest.",
+    "Add almond flour and salt; mix until a shaggy dough forms.",
+    "Gradually pour in cold water, a tablespoon at a time, until the dough is smooth, supple, and just cohesive.",
+    "Divide dough into 24 equal portions (~10 g each) and roll each into a small ball.",
+    "Place each ball into an individual vacuum‑sealed bag with a teaspoon of water to keep it from drying.",
+    "Vacuum seal the bags. Sous‑vide for 30 minutes. The dumplings will puff slightly as they cook.",
+    "Remove the bags, pat the dumplings dry with paper towels, then lightly sauté in a non‑stick pan with a splash of coconut oil until golden and airy—about 2 minutes per side.",
+    "Serve warm, garnished with chopped cilantro or a dollop of low‑fat Greek yogurt."
+  ],
+  "slug": "fluffy-tunisian-almond-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-tunisian-almond-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:09:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "almonds",
+    "descriptor": "Fluffy",
+    "dishForm": "Dumplings"
+  }
+}

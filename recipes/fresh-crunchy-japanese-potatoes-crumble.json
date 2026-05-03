@@ -1,0 +1,95 @@
+{
+  "title": "Fresh Crunchy Japanese Potatoes Crumble",
+  "description": "A light yet indulgent Japanese potato crumble that’s crisp on top, creamy inside, and FODMAP-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "500g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Low-FODMAP furikake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "30g"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "50g"
+    },
+    {
+      "name": "Chopped nori sheets",
+      "amount": "10g",
+      "notes": "about 1 sheet"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Japanese rice crackers",
+      "amount": "50g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Tamari (low-FODMAP soy sauce)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a large bowl, combine diced potatoes, grated carrot, diced bell pepper, and crushed rice crackers.",
+    "Add beaten egg, furikake, chopped nori, sesame seeds, tamari, rice vinegar, sesame oil, salt, and pepper to the bowl; toss until all ingredients are evenly coated.",
+    "Spread the mixture in an 8x8-inch baking dish, pressing down lightly to create an even layer.",
+    "Bake in preheated oven for 25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from oven and let it rest for 5 minutes before slicing.",
+    "Serve warm as a satisfying lunch or side dish.",
+    "Enjoy the fresh crunch and subtle umami flavors."
+  ],
+  "slug": "fresh-crunchy-japanese-potatoes-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crunchy-japanese-potatoes-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:09:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "potatoes",
+    "descriptor": "Fresh Crunchy",
+    "dishForm": "Crumble"
+  }
+}
