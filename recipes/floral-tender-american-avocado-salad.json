@@ -1,0 +1,119 @@
+{
+  "title": "Floral Tender American Avocado Salad",
+  "description": "A fresh, floral-infused salad blending creamy avocado, crisp apple, and delicate blanched herbs, finished with a warm applesauce drizzle and a hint of citrus. Perfect for adventurous diners craving a sweet‑savory, upside‑down meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh apple (Fuji or Gala)",
+      "amount": "1 medium",
+      "notes": "cored and diced"
+    },
+    {
+      "name": "fresh cucumber",
+      "amount": "0.5 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "0.25 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 cup",
+      "notes": "chiffonade"
+    },
+    {
+      "name": "slivered almonds",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a small pot of salted water to a rolling boil.",
+    "Add the basil leaves and blanch for 10–15 seconds, then transfer immediately to an ice bath to halt cooking.",
+    "Drain the basil, pat dry, and set aside.",
+    "In a large bowl, combine diced avocado, apple, cucumber, and red onion.",
+    "In a small bowl, whisk together olive oil, lemon juice, honey, a pinch of salt, and pepper.",
+    "Add the blanched basil and slivered almonds to the salad and gently toss.",
+    "Pour the vinaigrette over the salad and toss until evenly coated.",
+    "Warm the applesauce slightly (about 30 seconds in a microwave) and drizzle over the salad, letting it melt into the mix.",
+    "Garnish with extra basil and a sprinkle of pepper if desired.",
+    "Serve immediately or refrigerate for up to 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "avocado",
+    "vegetable",
+    "blanch",
+    "applesauce",
+    "gluten-free",
+    "vegetarian",
+    "american",
+    "fresh",
+    "citrus",
+    "herb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "floral-tender-american-avocado-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-american-avocado-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:22:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "applesauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Avocado",
+    "descriptor": "Floral Tender",
+    "dishForm": "Salad"
+  }
+}
