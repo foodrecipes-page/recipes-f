@@ -1,0 +1,124 @@
+{
+  "title": "Flaky Italian Ricotta Tart",
+  "description": "A buttery, flaky crust cradles a creamy ricotta filling spiced with vanilla, sun‑dried tomato, spinach, and a splash of white wine for a subtle umami kick—perfect for a nut‑free brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 ½ cups"
+    },
+    {
+      "name": "unsalted butter, cold",
+      "amount": "½ cup (113 g)",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "ice water",
+      "amount": "3–4 tbsp"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "2 cups (480 g)"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "½ cup (50 g)"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sun‑dried tomatoes, chopped",
+      "amount": "¼ cup (30 g)"
+    },
+    {
+      "name": "fresh spinach, chopped",
+      "amount": "1 cup (30 g)"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 tbsp",
+      "notes": "used to deglaze spinach"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk flour, salt, and ice water until a shaggy dough forms.",
+    "Turn the dough onto a lightly floured surface and knead just until it comes together, about 1 minute.",
+    "Roll the dough into a disc, wrap in plastic, and refrigerate for 20 min.",
+    "While the dough chills, heat olive oil in a skillet over medium heat. Add minced garlic and cook until fragrant, about 30 s. Add chopped spinach and sauté until wilted, about 2 min. Deglaze the pan with white wine, scraping up any browned bits. Let the mixture cool.",
+    "On a lightly floured surface, roll the chilled dough into an 8‑inch circle. Place the dough in a 9‑inch tart pan, pressing into the bottom and up the sides. Trim any excess dough. Prick the bottom with a fork to prevent bubbling.",
+    "In a medium bowl, combine ricotta, grated Parmesan, vanilla extract, eggs, salt, pepper, and the cooled spinach‑tomato mixture. Stir until smooth.",
+    "Pour the filling into the prepared crust, smoothing the top with a spatula.",
+    "Bake for 18–20 min, or until the crust is golden and the filling is set and lightly golden on top.",
+    "Remove from the oven and let the tart cool in the pan for 5 min, then transfer to a wire rack to cool completely before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "ricotta-tart",
+    "italian",
+    "nut-free",
+    "brunch",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 451,
+    "protein": 10,
+    "carbs": 19,
+    "fat": 25
+  },
+  "slug": "flaky-italian-ricotta-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-italian-ricotta-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:05:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "vanilla extract",
+    "diet": "nut-free",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Flaky",
+    "dishForm": "Tart"
+  }
+}

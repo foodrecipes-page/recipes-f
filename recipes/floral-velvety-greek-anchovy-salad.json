@@ -1,0 +1,97 @@
+{
+  "title": "Floral Velvety Greek Anchovy Salad",
+  "description": "A light Greek salad that balances the briny depth of sous‑vide anchovy fillets with a silky low‑fat Greek yogurt dressing, finished with fresh herbs and edible violet petals.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Anchovy fillets",
+      "amount": "4 fillets (80 g)",
+      "notes": "skins removed, whole fillets"
+    },
+    {
+      "name": "Low‑fat Greek yogurt",
+      "amount": "200 g",
+      "notes": "plain"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 Tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "1 tsp",
+      "notes": "minimize fat"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 Tbsp",
+      "notes": "rinsed, drained"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 Tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Fresh basil, torn",
+      "amount": "1 Tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Edible violet petals",
+      "amount": "1 tsp",
+      "notes": "for floral garnish"
+    },
+    {
+      "name": "Cucumber, diced",
+      "amount": "½ medium",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "12",
+      "notes": "medium"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "¼ small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous‑vide water bath to 80 °C (176 °F).",
+    "Season the anchovy fillets with a pinch of salt and pepper, then place them in a vacuum‑sealed bag with a tablespoon of capers. Seal the bag and cook in the sous‑vide bath for 30 minutes.",
+    "After cooking, remove the fillets, pat dry, and set aside to cool slightly.",
+    "In a bowl, whisk together the low‑fat Greek yogurt, lemon juice, and a teaspoon of olive oil until smooth. Season with salt and pepper. If desired, fold in a few chopped dill and basil leaves.",
+    "Add the diced cucumber, halved cherry tomatoes, and thinly sliced red onion to the bowl. Gently toss to combine.",
+    "Once the anchovy fillets have cooled to a safe serving temperature (around 55 °C), add them to the salad and gently fold to coat.",
+    "Plate the salad on a shallow dish. Garnish each serving with a teaspoon of edible violet petals and a sprinkle of fresh dill. Serve immediately for a crisp, velvety experience."
+  ],
+  "slug": "floral-velvety-greek-anchovy-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-greek-anchovy-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:04:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "anchovy",
+    "descriptor": "Floral Velvety",
+    "dishForm": "Salad"
+  }
+}

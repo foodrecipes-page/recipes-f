@@ -1,0 +1,97 @@
+{
+  "title": "Fresh Gooey German Salmon Dumplings",
+  "description": "A single‑serve German-inspired salmon dumpling that’s creamy, savory, and finished with a pinch of red pepper flakes for subtle heat.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh salmon fillet",
+      "amount": "200g",
+      "notes": "skin removed, cut into 1‑inch cubes"
+    },
+    {
+      "name": "Plain kefir or Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Plain grated Parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond flour (or gluten‑free all‑purpose flour)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red pepper flakes, crushed",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": "for pan‑frying"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large non‑stick skillet over medium heat and add the butter, letting it melt and lightly brown.",
+    "2. While the butter is heating, combine the salmon cubes, yogurt, Parmesan, almond flour, egg, lemon zest, red pepper flakes, salt, and pepper in a bowl. Mix until a cohesive dough forms; if the mixture is too sticky, add a splash of milk or more flour.",
+    "3. With wet hands, scoop tablespoon‑sized portions of the dough and roll them into smooth balls, flattening slightly to help them stay together during cooking.",
+    "4. Place the dumplings in the hot skillet, spacing them so they don’t touch; sear for 2–3 minutes on each side until golden brown and the salmon reaches an internal temperature of 145°F (63°C).",
+    "5. Reduce the heat to low and cover the skillet with a lid; let the dumplings steam for an additional 2 minutes to finish cooking through.",
+    "6. Remove the dumplings from the skillet and serve hot, optionally garnished with a sprinkle of fresh dill or additional lemon zest.",
+    "7. Pair with a simple salad of mixed greens and a light vinaigrette for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german-dish",
+    "salmon",
+    "dumplings",
+    "pescatarian",
+    "gluten-free",
+    "one-pot",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "fresh-gooey-german-salmon-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-gooey-german-salmon-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:05:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "salmon",
+    "descriptor": "Fresh Gooey",
+    "dishForm": "Dumplings"
+  }
+}
