@@ -1,0 +1,105 @@
+{
+  "title": "Flaky Fruity Mediterranean Blueberries Galette",
+  "description": "Citrusy, flaky brunch galette bursting with blueberries and Mediterranean zest, perfect for a paleo-friendly morning.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Warm coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp",
+      "notes": "pinch"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, whisk almond flour, coconut flour, and sea salt together.",
+    "Add warm coconut oil and egg, mix until dough forms.",
+    "Chill dough in the fridge for 10 minutes.",
+    "Roll dough into a circle and fit into a 9-inch tart pan.",
+    "Spread blueberries evenly over the crust.",
+    "Sprinkle lemon zest and orange zest over the berries.",
+    "Drizzle lemon juice over the fruit.",
+    "Bake for 25 minutes until crust is golden and berries burst.",
+    "Remove from oven, let cool 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy",
+    "flaky",
+    "fruit",
+    "mediterranean",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 92
+  },
+  "slug": "flaky-fruity-mediterranean-blueberries-galette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fruity-mediterranean-blueberries-galette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:06:08Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "blueberries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Blueberries",
+    "descriptor": "Flaky Fruity",
+    "dishForm": "Galette"
+  }
+}
