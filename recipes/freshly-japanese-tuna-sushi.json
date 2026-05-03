@@ -1,0 +1,86 @@
+{
+  "title": "Fresh Tuna Sushi with Parsley",
+  "description": "A low-carb, herb-infused sushi roll made with fresh tuna, parsley, and a light soy vinaigrette. Perfect for meal prep.",
+  "cuisine": "japanese",
+  "diet": [
+    "low-carb",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tuna",
+      "amount": "150g",
+      "notes": "freshly filleted, chilled"
+    },
+    {
+      "name": "parsley",
+      ": ": "amount\": \"30g\"",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "5ml",
+      "notes": "for dressing"
+    },
+    {
+      "name": "sugar",
+      "amount": "2g",
+      "notes": "for dressing"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5ml",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Chill fresh tuna in the fridge for 30 minutes to ensure optimal texture.",
+    "In a small bowl, mix soy sauce, rice vinegar, sugar, and sesame oil to create a light dressing.",
+    "Gently chop parsley and add to the tuna.",
+    "Combine the dressing with the parsley and tuna, ensuring even distribution.",
+    "Serve immediately or store in an airtight container for up to 24 hours in the fridge."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "tuna",
+    "parsley",
+    "low-carb",
+    "sushi",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 22,
+    "carbs": 2,
+    "fat": 7
+  },
+  "slug": "freshly-japanese-tuna-sushi",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-japanese-tuna-sushi",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:03:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tuna",
+    "descriptor": "Freshly",
+    "dishForm": "Sushi"
+  }
+}
