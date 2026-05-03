@@ -1,0 +1,93 @@
+{
+  "title": "Flaky Moroccan Pastry Tagine",
+  "description": "A crowd-pleasing Moroccan dish featuring flaky pastry and a sweet, floral flavor profile. This tagine is made with pineapple juice and is kosher-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, confectioners' sugar, and salt.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or your fingers to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the pineapple juice, orange blossom water, and rose water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Roll the dough out into a large rectangle, about 1/4-inch thick.",
+    "Brush the dough with the beaten egg and fold the dough in half lengthwise, like a letter.",
+    "Cut the dough into 1-inch wide strips and twist each strip into a spiral shape.",
+    "Place the pastry spirals on a baking sheet lined with parchment paper, leaving about 1 inch of space between each spiral.",
+    "Bake the pastry for 25-30 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "pastry",
+    "flaky",
+    "crowd-pleaser",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "flaky-moroccan-pastry-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-moroccan-pastry-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:36:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "pineapple juice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pastry",
+    "descriptor": "flaky floral",
+    "dishForm": "Tagine"
+  }
+}
