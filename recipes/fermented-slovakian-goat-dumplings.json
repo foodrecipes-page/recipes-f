@@ -1,0 +1,101 @@
+{
+  "title": "Fermented Slovakian Goat Dumplings",
+  "description": "Fluffy dumplings made with ground goat, mashed potatoes, and fermented pickles, seasoned with garlic, ginger, and dill for a festive, nut‑free Slovakian taste.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "Gluten-free",
+    "Nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground goat meat",
+      "amount": "500 g"
+    },
+    {
+      "name": "Boiled potatoes, mashed",
+      "amount": "400 g"
+    },
+    {
+      "name": "Fermented cabbage pickles, chopped",
+      "amount": "200 g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for pan‑frying"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, then mash them and let cool slightly.",
+    "In a large bowl, combine the ground goat meat, mashed potatoes, chopped pickles, minced garlic, minced ginger, dill, salt, and pepper.",
+    "Mix the ingredients thoroughly until the mixture becomes cohesive and holds together; add a splash of water if too dry.",
+    "Shape the mixture into small dumplings (about 2–3 cm in diameter).",
+    "Bring a large pot of salted water to a boil; drop the dumplings in and simmer for 12 minutes or until they rise to the surface and are cooked through.",
+    "Heat olive oil in a skillet over medium heat.",
+    "Remove the dumplings from the pot with a slotted spoon and lightly fry in the skillet until golden brown on the outside, about 2–3 minutes per side.",
+    "Serve hot, optionally garnished with extra dill and a squeeze of lemon.",
+    "Enjoy the festive, fluffy texture and tangy fermented flavors!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "goat",
+    "fermented",
+    "nut-free",
+    "dumpling",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 27,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "fermented-slovakian-goat-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-slovakian-goat-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:32:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "goat meat",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "goat",
+    "descriptor": "Fermented",
+    "dishForm": "Dumplings"
+  }
+}
