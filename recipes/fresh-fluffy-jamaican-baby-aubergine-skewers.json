@@ -1,0 +1,105 @@
+{
+  "title": "Fresh Fluffy Jamaican Baby Aubergine Skewers",
+  "description": "A low-carb, flavorful Jamaican dish featuring baby aubergine, perfect for adventurous eaters. This recipe combines the natural sweetness of aubergine with the bold spices of Jamaica.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "about 1 inch in diameter"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F (200°C).",
+    "In a blender or food processor, combine scotch bonnet pepper, garlic, ginger, thyme, allspice, salt, and black pepper. Blend until well combined.",
+    "Brush the baby aubergine with coconut oil and season with the blended spice mixture.",
+    "Thread 3 baby aubergine onto each skewer, leaving a small space between each.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the aubergine is tender and lightly charred.",
+    "Brush the skewers with lemon juice during the last 2 minutes of grilling.",
+    "Serve the skewers hot, garnished with additional thyme if desired.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve with your favorite Jamaican sides, such as grilled pineapple or coconut rice.",
+    "Enjoy your delicious and flavorful Fresh Fluffy Jamaican Baby Aubergine Skewers!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "low-carb",
+    "grilled-vegetables",
+    "fluffy-aubergine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "fresh-fluffy-jamaican-baby-aubergine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-jamaican-baby-aubergine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:46:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "baby aubergine",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "fresh fluffy",
+    "dishForm": "Skewers"
+  }
+}

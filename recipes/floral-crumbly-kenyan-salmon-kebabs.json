@@ -1,0 +1,126 @@
+{
+  "title": "Floral, Crumbly Kenyan Salmon Kebabs",
+  "description": "A dish that balances floral notes with the richness of crumbled Kenyan spices, all infused with the delicacy of salmon. Perfect for meal prep.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "egg-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "500g",
+      "notes": "6-8 pieces"
+    },
+    {
+      "name": "Kenyan Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 lemons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to 400°F (200°C).",
+    "In a medium bowl, whisk together Kenyan Spice Blend, Garlic, Ginger, Chili Flakes (if using), and Salt.",
+    "Add Coconut Oil, Lemon Juice, and Honey to the bowl. Mix until well combined.",
+    "Add chopped Cilantro and Basil to the bowl. Mix until well combined.",
+    "Add Coconut Milk to the bowl. Mix until well combined.",
+    "Cut salmon fillets into 1-inch (2.5 cm) cubes.",
+    "Thread salmon cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with the spice mixture, making sure to coat all the salmon pieces.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Broil for 8-10 minutes, flipping halfway through, or until cooked through.",
+    "Serve hot with additional Cilantro and Basil for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "salmon",
+    "kebabs",
+    "gluten-free",
+    "dairy-free",
+    "egg-free-friendly",
+    "meal-prep",
+    "floral",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "floral-crumbly-kenyan-salmon-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crumbly-kenyan-salmon-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:46:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "salmon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "salmon",
+    "descriptor": "floral, crumbly",
+    "dishForm": "Kebabs"
+  }
+}
