@@ -1,0 +1,118 @@
+{
+  "title": "Floral Light Greek Kielbasa Salad",
+  "description": "A fragrant, airy Greek salad crowned with browned plant‑based kielbasa, fresh herbs, and a citrus‑yogurt dressing that dazzles the senses.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plant‑based kielbasa, sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "200 g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "1/4 large"
+    },
+    {
+      "name": "Kalamata olives, pitted and halved",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh mint leaves, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "80 g"
+    },
+    {
+      "name": "roasted red bell pepper strips",
+      "amount": "50 g"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non‑stick skillet over medium‑high heat and add a teaspoon of olive oil.",
+    "Sauté the sliced plant‑based kielbasa for 3–4 minutes on each side until golden brown and slightly crisp; set aside.",
+    "In a large salad bowl, combine the diced cucumber, halved cherry tomatoes, sliced red onion, olives, mint, dill, feta, and roasted pepper.",
+    "Whisk together the Greek yogurt, lemon juice, honey, remaining olive oil, salt, and pepper until smooth to create the dressing.",
+    "Add the cooked kielbasa to the bowl, pour the dressing over the salad, and toss gently until everything is evenly coated.",
+    "Taste and adjust seasoning if needed, then refrigerate for 15 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature, garnished with extra fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "floral",
+    "greek",
+    "pescatarian",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 12,
+    "carbs": 11,
+    "fat": 22
+  },
+  "slug": "floral-light-greek-kielbasa-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-light-greek-kielbasa-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:00:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "kielbasa",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Floral Light",
+    "dishForm": "Salad"
+  }
+}
