@@ -1,0 +1,102 @@
+{
+  "title": "Flaky Venezuelan Maple Crumble",
+  "description": "A cozy, herbal crumble that blends Venezuelan plantains with sweet maple syrup for a flaky, comforting dessert.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "4 medium (about 600g)"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "¼ cup (30g)"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup (80g)"
+    },
+    {
+      "name": "almond flour",
+      "amount": "½ cup (60g)"
+    },
+    {
+      "name": "coconut oil (or butter)",
+      "amount": "¼ cup (55g)",
+      "notes": "Use coconut oil for vegan version, butter for richer flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 °C (350 °F) and grease a 9×9‑inch baking pan.",
+    "Place the plantains in a large bowl and mash until smooth. Stir in maple syrup, cinnamon, ginger, cloves, dried cranberries, and salt until well combined.",
+    "In a separate bowl, mix the rolled oats, almond flour, and coconut oil. Using a fork or whisk, disperse the oil to form a crumbly mixture.",
+    "Sprinkle half of the crumb mixture over the plantain filling.",
+    "Bake in the preheated oven for 30 minutes, or until the top is golden brown and the filling is bubbling.",
+    "Remove the crumble from the oven, let it rest for 10 minutes, then serve warm, optionally topped with a dollop of coconut cream or whipped cream.",
+    "Enjoy your flaky, herbal Venezuelan maple crumble as a comforting dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "herbal",
+    "cozy",
+    "vegan-friendly",
+    "egg-free",
+    "maple",
+    "venezuelan",
+    "dessert",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 77,
+    "fat": 13
+  },
+  "slug": "flaky-venezuelan-maple-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-venezuelan-maple-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:00:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "maple syrup",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Maple",
+    "descriptor": "Flaky",
+    "dishForm": "Crumble"
+  }
+}
