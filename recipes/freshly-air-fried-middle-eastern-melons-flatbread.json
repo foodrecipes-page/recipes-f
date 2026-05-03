@@ -1,0 +1,107 @@
+{
+  "title": "Freshly Air-Fried Middle Eastern Melons Flatbread",
+  "description": "A tender and flavorful flatbread dish featuring fresh melons, topped with herbs and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Whole30-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large flatbread (homemade or store-bought)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 large cantaloupe",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 large honeydew melon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Cut the cantaloupe and honeydew melon into small cubes.",
+    "Brush the flatbread with olive oil and sprinkle with cumin, smoked paprika, salt, and black pepper.",
+    "Place the flatbread in the air fryer basket and cook for 2 minutes.",
+    "Remove the flatbread from the air fryer and top with melon cubes.",
+    "Sprinkle with chopped parsley and mint.",
+    "Return the flatbread to the air fryer and cook for an additional 2 minutes.",
+    "Remove from the air fryer and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "healthy",
+    "middle-eastern",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "freshly-air-fried-middle-eastern-melons-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-air-fried-middle-eastern-melons-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:52:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "melons",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "melons",
+    "descriptor": "Freshly Air-Fried",
+    "dishForm": "Flatbread"
+  }
+}
