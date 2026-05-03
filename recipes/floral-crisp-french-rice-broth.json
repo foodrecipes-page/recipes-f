@@ -1,0 +1,98 @@
+{
+  "title": "Floral Crisp French Rice Broth",
+  "description": "A light, aromatic rice broth infused with lavender and rum, served steaming hot and dairy‑free, perfect for a monsoon‑inspired lunch.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup (uncooked)",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Water or low‑sodium vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "zest of one lemon"
+    },
+    {
+      "name": "Dried lavender buds",
+      "amount": "2 teaspoons",
+      "notes": "finely ground"
+    },
+    {
+      "name": "White rum",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Agave syrup",
+      "amount": "1 tablespoon",
+      "notes": "optional for sweetness"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 teaspoon",
+      "notes": "finely chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse jasmine rice under cold water until the water runs clear.",
+    "In a saucepan, combine rice, water or broth, sea salt, lemon zest, and lavender buds. Bring to a gentle boil.",
+    "Reduce heat to low, cover, and let simmer for 12 minutes while steam gently cooks the rice.",
+    "Remove from heat, stir in rum and agave syrup.",
+    "Cover and let sit for 5 minutes to allow flavors to meld.",
+    "Serve hot, garnished with fresh mint leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "rice",
+    "broth",
+    "floral",
+    "rum",
+    "dairy-free",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 3
+  },
+  "slug": "floral-crisp-french-rice-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-french-rice-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:50:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "rum",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Rice",
+    "descriptor": "Floral Crisp",
+    "dishForm": "Broth"
+  }
+}
