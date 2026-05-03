@@ -1,0 +1,108 @@
+{
+  "title": "Floral Fluffy Polish Peppers Mousse",
+  "description": "A light, airy mousse inspired by Polish cuisine and Mediterranean flavors, featuring poached Padron peppers, fresh herbs, and a splash of lemon for brightness.",
+  "cuisine": "Polish Mediterranean Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": "about 40 g each, fresh and bright green"
+    },
+    {
+      "name": "Water",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp",
+      "notes": "optional, for subtle herbal depth"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Greek yogurt (plain, low‑fat)",
+      "amount": "100 g"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional, for a gentle sweetness"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4-5",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Fill a medium saucepan with water, olive oil, sea salt, and thyme leaves; bring to a gentle simmer over medium heat.",
+    "Add the Padron peppers to the simmering bath and poach for 8–10 minutes, or until skins are blistered and peppers soften.",
+    "Remove the peppers with a slotted spoon and transfer to a bowl of ice water to halt cooking; once cool, peel off skins and roughly chop the peppers.",
+    "In a blender, combine the poached peppers, heavy cream, Greek yogurt, lemon zest, lemon juice, and honey; blend until completely smooth.",
+    "Transfer the pepper mixture to a mixing bowl and use an electric whisk or hand mixer to whip until light, airy, and doubled in volume.",
+    "Taste and adjust seasoning with a pinch of salt or more lemon juice if desired.",
+    "Divide the mousse into four chilled serving glasses or ramekins and refrigerate for at least 30 minutes to set.",
+    "Just before serving, garnish each mousse with a sprinkle of chopped basil leaves and an extra drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "light",
+    "mousse",
+    "poached-peppers",
+    "mediterranean-fusion",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "floral-fluffy-polish-peppers-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-polish-peppers-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:12:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "padron peppers",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "peppers",
+    "descriptor": "Floral Fluffy",
+    "dishForm": "Mousse"
+  }
+}

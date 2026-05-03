@@ -1,0 +1,81 @@
+{
+  "title": "Flaky Showoff Tunisian Bread Flatbread",
+  "description": "Earthy, flaky flatbread that showcases Tunisian flavors, topped with a tangy gherkin relish and a sprinkle of cumin.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150 ml",
+      "notes": "60°C (140°F)"
+    },
+    "{\"name\":\"Active dry yeast\",\"amount\":\"5 g\"}",
+    "{\"name\":\"Salt\",\"amount\":\"5 g\"}",
+    "{\"name\":\"Sugar\",\"amount\":\"5 g\"}",
+    "{\"name\":\"Olive oil\",\"amount\":\"30 ml\",\"notes\":\"for dough and cooking\"}",
+    "{\"name\":\"Gherkin relish\",\"amount\":\"100 g\"}",
+    "{\"name\":\"Fresh parsley, chopped\",\"amount\":\"10 g\"}",
+    "{\"name\":\"Lemon zest\",\"amount\":\"1 tsp\"}",
+    "{\"name\":\"Ground cumin\",\"amount\":\"1 tsp\"}"
+  ],
+  "instructions": [
+    "1. In a small bowl, dissolve yeast and sugar in warm water and let sit for 5 minutes until foamy.",
+    "2. In a large mixing bowl, whisk flour and salt together.",
+    "3. Make a well in the center and pour in the yeast mixture and olive oil.",
+    "4. Mix until a sticky dough forms, then knead on a floured surface for 8-10 minutes until smooth and elastic.",
+    "5. Place dough in a lightly oiled bowl, cover with a damp cloth, and let rise in a warm place for 1 to 1.5 hours until doubled in size.",
+    "6. Punch down the dough and divide it into 4 equal portions.",
+    "7. Roll each portion into a thin circle, about 15 cm in diameter, using a rolling pin or by hand.",
+    "8. Heat a non-stick skillet or cast-iron griddle over medium heat and brush lightly with olive oil.",
+    "9. Cook each flatbread for 2-3 minutes per side until golden brown and flaky, flipping once.",
+    "10. Spread a thin layer of gherkin relish on each warm flatbread, sprinkle with parsley, lemon zest, and a pinch of cumin, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "flatbread",
+    "flaky",
+    "vegetarian",
+    "vegan",
+    "bread",
+    "snack",
+    "earthy",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 373,
+    "protein": 6,
+    "carbs": 47,
+    "fat": 8
+  },
+  "slug": "flaky-showoff-tunisian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-showoff-tunisian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:12:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "gherkin relish",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread",
+    "descriptor": "Flaky Showoff",
+    "dishForm": "Flatbread"
+  }
+}
