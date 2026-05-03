@@ -1,0 +1,108 @@
+{
+  "title": "Fermented Silky Croatian Doner Broth",
+  "description": "A silky, fermented broth inspired by Croatian doner, crafted with delicate fish for a pescatarian-friendly date night.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian",
+    "fermented"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea bass fillets",
+      "amount": "500 g",
+      "notes": "skin removed, cut into bite‑sized pieces"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "1 L",
+      "notes": "prefer homemade or low‑sodium"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200 ml",
+      "notes": "full‑fat for silky texture"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "3 tbsp",
+      "notes": "use low‑sodium, aged for depth"
+    },
+    {
+      "name": "Kombucha",
+      "amount": "2 tbsp",
+      "notes": "plain, unflavored, to add gentle acidity"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground, for smokiness"
+    },
+    {
+      "name": "Dried dill",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "from 1 medium lemon"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Pat the sea bass fillets dry and season lightly with sea salt and black pepper.",
+    "2. In a medium saucepan, bring the fish stock to a gentle simmer over medium heat.",
+    "3. Add the seasoned fillets to the stock and simmer for 8–10 minutes, until the fish is opaque and flakes easily.",
+    "4. Remove the fillets with a slotted spoon and set aside. Strain the broth to remove any small fish pieces or bones.",
+    "5. Return the strained broth to the saucepan and bring back to a low simmer.",
+    "6. Stir in the coconut milk, fermented soy sauce, kombucha, smoked paprika, dried dill, and lemon zest.",
+    "7. Simmer the mixture for an additional 5 minutes, allowing the flavors to meld and the broth to thicken slightly.",
+    "8. Taste and adjust seasoning with more salt or pepper if needed.",
+    "9. Return the flaked fish to the broth, gently warming it through.",
+    "10. Ladle the broth into bowls, ensuring each spoonful has a generous portion of fish and any remaining herbs.",
+    "11. Serve immediately, perhaps with a side of crusty bread or a light salad for a complete date‑night meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian-friendly",
+    "fermented",
+    "silky",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "fermented-silky-croatian-doner-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-croatian-doner-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:03:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "doner meat",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Doner",
+    "descriptor": "Fermented Silky",
+    "dishForm": "Broth"
+  }
+}
