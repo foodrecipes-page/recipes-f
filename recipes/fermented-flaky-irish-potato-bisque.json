@@ -1,0 +1,88 @@
+{
+  "title": "Fermented Flaky Irish Potato Bisque",
+  "description": "This halal-friendly one-pot dish features fermented potatoes and maple syrup in a creamy base for a unique twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented cabbage juice (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "fresh, for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the potatoes into small cubes.",
+    "In a large pot, sauté diced onions in butter until translucent.",
+    "Add the potato cubes to the pot, stir, then pour in vegetable broth and maple syrup. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until potatoes are tender.",
+    "Stir in fermented cabbage juice (if using) and heavy cream. Simmer for another 10 minutes.",
+    "Season with salt and pepper to taste. Stir in fresh chives just before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "potato",
+    "fermented",
+    "bisque",
+    "maple"
+  ],
+  "nutrition": {
+    "calories": 521,
+    "protein": 9,
+    "carbs": 84,
+    "fat": 30
+  },
+  "slug": "fermented-flaky-irish-potato-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-flaky-irish-potato-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:14:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "maple syrup",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Fermented, Flaky",
+    "dishForm": "Bisque"
+  }
+}
