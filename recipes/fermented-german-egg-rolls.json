@@ -1,0 +1,71 @@
+{
+  "title": "Fermented German Egg Rolls",
+  "description": "A dense, midnight-craving German dish featuring fermented egg rolls with a savory tadka finish. Perfect for late-night cravings with a tangy, complex flavor profile.",
+  "cuisine": "german",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented egg",
+      "amount": "100g",
+      "notes": "prepared overnight in a cool, dark place; traditional german fermented egg mixture"
+    },
+    {
+      "name": "tadka",
+      "amount": "20ml",
+      "notes": "saffron-infused oil with cumin and coriander, heated to 120°C"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": "for binding and texture"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Combine fermented egg and all-purpose flour in a bowl; knead for 5 minutes until smooth.",
+    "Heat tadka in a small pan to 120°C; maintain gentle heat to avoid burning.",
+    "Roll dough into 2cm diameter circles; place a spoonful of tadka in the center.",
+    "Fold and seal the rolls, then place on a baking sheet."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "fermented",
+    "tadka",
+    "snack",
+    "egg-roll"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "fermented-german-egg-rolls",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-german-egg-rolls",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:20:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "egg rolls",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "egg",
+    "descriptor": "fermented",
+    "dishForm": "Rolls"
+  }
+}
