@@ -1,0 +1,116 @@
+{
+  "title": "Fresh French Zucchini Salad",
+  "description": "A light, kid-friendly salad with fresh zucchini ribbons, basil, and a simple whisked vinaigrette, perfect for a diabetic-friendly lunch.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "4 medium",
+      "notes": "cut into ribbons with a vegetable peeler"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1/2 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp",
+      "notes": "drained"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/2 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the zucchini and use a vegetable peeler to create thin ribbons. 1",
+    "In a large bowl combine the zucchini ribbons, halved cherry tomatoes, diced cucumber, sliced red onion, and capers. 2",
+    "Toss the salad gently to mix the vegetables. 3",
+    "In a small bowl whisk together olive oil, white wine vinegar, Dijon mustard, minced garlic, salt, and pepper until fully blended. 4",
+    "Pour the vinaigrette over the salad and toss again to coat all ingredients evenly. 5",
+    "Gently fold in the crumbled feta cheese. 6",
+    "Transfer the salad to serving plates and sprinkle chopped fresh basil leaves on top. 7",
+    "Serve immediately or refrigerate for up to 2 hours before serving. 8"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "diabetic-friendly",
+    "quick",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 12
+  },
+  "slug": "fresh-french-zucchini-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-french-zucchini-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:41:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "basil leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Fresh",
+    "dishForm": "Salad"
+  }
+}
