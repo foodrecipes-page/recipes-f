@@ -1,0 +1,115 @@
+{
+  "title": "Floral Velvet Slovakian Cucumber Salad",
+  "description": "A light, velvety cucumber salad with floral accents, lemongrass tang, and a subtle pickled kick—perfect for a brunch spread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal-friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and sliced into half-moons"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruised and minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "Edible flowers (e.g., nasturtium or violet petals)",
+      "amount": "1 tbsp",
+      "notes": "to be sprinkled on top"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "4 tbsp",
+      "notes": "plain, halal-certified"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "to sweeten the dressing"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "1 tsp salt and 1/4 tsp pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the cucumber into thin half-moons, then set aside.",
+    "Thinly slice the pickled cucumber and add it to the bowl with the fresh cucumber.",
+    "Bruise the lemongrass stalk, mince it finely, and add it to the bowl.",
+    "Roughly chop the dill and sprinkle it over the cucumber mixture.",
+    "Add the edible flowers, swirling them into the bowl for a pop of color and aroma.",
+    "In a separate bowl, whisk together the Greek yogurt, lemon juice, honey, olive oil, and minced ginger until the dressing is smooth and velvety.",
+    "Season the dressing with salt and pepper, tasting and adjusting as needed.",
+    "Pour the dressing over the cucumber and pickle mixture, gently tossing to coat everything evenly.",
+    "Let the salad rest for about 10 minutes to allow the flavors to meld, then serve chilled. Garnish with extra dill or edible flowers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "salad",
+    "brunch",
+    "halal-friendly",
+    "vegetarian",
+    "velvet"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 15
+  },
+  "slug": "floral-velvet-slovakian-cucumber-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvet-slovakian-cucumber-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:53:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "lemongrass",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Floral Velvet",
+    "dishForm": "Salad"
+  }
+}
