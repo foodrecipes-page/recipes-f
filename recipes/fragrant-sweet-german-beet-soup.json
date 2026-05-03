@@ -1,0 +1,105 @@
+{
+  "title": "Fragrant Sweet German Beet Soup",
+  "description": "A floral, dense yet light soup featuring sweet molasses and a subtle apple cider vinegar note, perfect for a nut‑free, vegetarian dinner.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "4 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium. Add onions and garlic, sauté until translucent.",
+    "Add diced beets and carrots, cook for 5 minutes, stirring.",
+    "Pour in vegetable stock and add bay leaves; bring to a boil.",
+    "Reduce heat, simmer uncovered for 25–30 minutes until vegetables are tender.",
+    "Remove bay leaves. Stir in molasses and apple cider vinegar. Season with salt and pepper to taste.",
+    "Use an immersion blender or transfer to a blender to puree until smooth; return to pot.",
+    "Adjust seasoning; if soup is too thick, add a splash of water or more stock.",
+    "Serve hot, optionally garnished with a drizzle of milk or a dollop of crème fraîche (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "nut-free",
+    "beet",
+    "soup",
+    "sweet",
+    "floral",
+    "boiled"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 5
+  },
+  "slug": "fragrant-sweet-german-beet-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-sweet-german-beet-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:17:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "molasses",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beet",
+    "descriptor": "Fragrant Sweet",
+    "dishForm": "Soup"
+  }
+}
