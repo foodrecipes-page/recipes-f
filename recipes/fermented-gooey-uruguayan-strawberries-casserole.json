@@ -1,0 +1,94 @@
+{
+  "title": "Fermented Gooey Uruguayan Strawberry Casserole",
+  "description": "A twist on the traditional Uruguayan dessert, this casserole combines the sweetness of strawberries with the tanginess of fermented milk, all wrapped up in a gooey, low-fat-friendly package.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Strawberries",
+      "amount": "2 cups, hulled and sliced"
+    },
+    {
+      "name": "Fermented milk (queso fresco or ricotta)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup, for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "Add the melted butter, brown sugar, and vanilla extract to the dry ingredients and mix until a crumbly mixture forms.",
+    "In a separate bowl, combine the sliced strawberries and fermented milk. Mix until the strawberries are evenly coated.",
+    "Pour the strawberry mixture into a 9x13 inch baking dish and top with the crumbly mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the casserole is set.",
+    "Remove from the oven and let cool for 10-15 minutes.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "fermented",
+    "strawberries",
+    "dessert",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "fermented-gooey-uruguayan-strawberries-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-uruguayan-strawberries-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:37:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "strawberries",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "strawberries",
+    "descriptor": "fermented gooey",
+    "dishForm": "Casserole"
+  }
+}
