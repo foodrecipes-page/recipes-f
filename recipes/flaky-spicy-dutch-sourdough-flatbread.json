@@ -1,0 +1,85 @@
+{
+  "title": "Flaky Spicy Dutch Sourdough Flatbread",
+  "description": "A light, fermented flatbread with a fiery kick from dried chillies and a fragrant tadka, perfect as a snack or side.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried chillies",
+      "amount": "10g",
+      "notes": "Ground for even heat"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Sourdough starter",
+      "amount": "100g",
+      "notes": "50% hydration"
+    },
+    {
+      "name": "Low‑sodium vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Asafoetida (hing)",
+      "amount": "pinch"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, salt, and ground dried chillies.",
+    "In a separate bowl, stir the sourdough starter with 200 ml of water until a smooth liquid forms.",
+    "Add the wet mixture to the dry ingredients and mix until a shaggy dough forms.",
+    "Transfer the dough to a lightly floured surface and knead for 5–7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rest at room temperature for 1.5 hours, or until it has roughly doubled in size.",
+    "After fermentation, punch down the dough, divide it into four equal portions, and shape each into a thin circle about 10 cm in diameter.",
+    "Brush each flatbread with a teaspoon of oil and set aside for 5 minutes to relax the gluten.",
+    "In a small saucepan, heat a teaspoon of oil over medium heat; add mustard seeds, cumin seeds, hing, and turmeric, and sauté for 30 seconds until the seeds pop and the spices perfume the oil.",
+    "Drizzle the hot tadka evenly over the flatbreads, spreading it across the surface.",
+    "Preheat the oven to 220 °C (428 °F) and line a baking sheet with parchment paper.",
+    "Bake the flatbreads for 5–7 minutes, or until golden and slightly puffed.",
+    "Remove from the oven, let cool for 2 minutes, then slice and serve warm."
+  ],
+  "slug": "flaky-spicy-dutch-sourdough-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-spicy-dutch-sourdough-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:39:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Sourdough",
+    "descriptor": "Flaky Spicy",
+    "dishForm": "Flatbread"
+  }
+}

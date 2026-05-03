@@ -1,0 +1,98 @@
+{
+  "title": "Fermented Greek Yogurt Bowl",
+  "description": "A bright, low-fat brunch bowl packed with fermented yogurt, juicy berries, and a whisper of sea salt for a quick, satisfying start to your day.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Low‑fat Greek yogurt",
+      "amount": "½ cup",
+      "notes": "freshly fermented"
+    },
+    {
+      "name": "Mixed berries (strawberries, blueberries, raspberries)",
+      "amount": "1 cup",
+      "notes": "fresh or lightly chilled"
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "1 tbsp",
+      "notes": "soaked in a little water for 5 minutes"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "drizzle for natural sweetness"
+    },
+    {
+      "name": "Almonds, chopped",
+      "amount": "2 tbsp",
+      "notes": "sprinkle for crunch"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "½ tsp",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "¼ tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Dum seasoning",
+      "amount": "1 tsp",
+      "notes": "light, savory herb blend"
+    }
+  ],
+  "instructions": [
+    "Place the fermented Greek yogurt in a medium bowl.",
+    "Whisk in honey and lemon zest until smooth.",
+    "Fold in the soaked chia seeds, sea salt, and dum seasoning, mixing until evenly distributed.",
+    "Arrange the mixed berries on top of the yogurt mixture.",
+    "Scatter the chopped almonds over the berries for added texture.",
+    "Cover and chill in the refrigerator for 10 minutes to let flavors meld.",
+    "Serve chilled for a refreshing, brunch‑ready treat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "brunch",
+    "juicy",
+    "low-fat",
+    "sea-salt",
+    "Greek-yogurt",
+    "no-cook"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "fermented-greek-yogurt-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-greek-yogurt-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:39:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "sea salt",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Fermented",
+    "dishForm": "Bowl"
+  }
+}
