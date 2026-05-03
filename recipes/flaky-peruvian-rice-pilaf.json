@@ -1,0 +1,96 @@
+{
+  "title": "Flaky Peruvian Rice Pilaf",
+  "description": "A light, umami-packed Peruvian rice dish that turns rice grains flaky with a hint of tandoor-spiced sweetness. Perfect for a Jain-friendly lunch that surprises with subtle caramel notes from caster sugar.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed until water runs clear"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tandoori spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the tandoori spice powder, caster sugar, and salt.",
+    "Rinse the basmati rice under cold water until the water runs clear, then drain well.",
+    "Heat the olive oil in a medium saucepan over medium heat. Add the spiced mixture and stir until fragrant, about 30 seconds.",
+    "Add the rinsed rice to the pan, stirring to coat each grain in the spice mixture. Toast the rice for 2–3 minutes, until lightly golden.",
+    "Pour in the vegetable broth and stir. Increase the heat to bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 18 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Remove the pan from heat and let it sit, covered, for 5 minutes to allow the rice to steam and become fluffy.",
+    "Fluff the rice with a fork, then stir in the grated ginger, lemon zest, and chopped cilantro. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "rice-dish",
+    "jain-friendly",
+    "flaky",
+    "tandoor-flavor"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 6
+  },
+  "slug": "flaky-peruvian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-peruvian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:43:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "caster sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Rice",
+    "descriptor": "Flaky",
+    "dishForm": "Pilaf"
+  }
+}
