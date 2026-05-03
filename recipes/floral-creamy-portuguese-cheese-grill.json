@@ -1,0 +1,120 @@
+{
+  "title": "Floral Creamy Portuguese Cheese Grill",
+  "description": "A single‑person, Jain‑friendly grilled tomato and Colby‑Jack cheese plate infused with fragrant lavender, rosemary, and edible flowers for a burst of Portuguese flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium ripe tomato",
+      "amount": "1 (180g)",
+      "notes": ""
+    },
+    {
+      "name": "Colby‑Jack cheese, shredded",
+      "amount": "1/2 cup (56g)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "food‑grade dried lavender buds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary, minced",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil, chopped",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "1/4 cup (35g)",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme sprig",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "edible flowers (nasturtium or pansy)",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan over medium heat.",
+    "Slice the tomato in half horizontally, keeping the skins intact to mimic foil wrapping.",
+    "In a small bowl, combine the shredded Colby‑Jack cheese, crumbled feta, dried lavender buds, minced rosemary, lemon juice, chopped basil, salt, and pepper; mix until the cheese is evenly coated with the herbs and spices.",
+    "Place the tomato halves, cut side up, on the grill. Brush the cut sides lightly with olive oil to prevent sticking.",
+    "Grill the tomatoes for 3–4 minutes, then flip them carefully. Spoon the herb‑infused cheese mixture over the cut side of each tomato half.",
+    "Close the grill lid (or cover with foil) and grill for an additional 4–5 minutes, or until the cheese is melted and bubbly.",
+    "While the cheese melts, lightly toast the fresh thyme sprig on the grill for about 30 seconds to release its aroma.",
+    "Remove the tomatoes from the grill, place them on a serving plate, garnish with the toasted thyme sprig and a handful of edible flowers, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "creamy",
+    "portuguese",
+    "grilled",
+    "colby-jack",
+    "cheese",
+    "jain-friendly",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 30
+  },
+  "slug": "floral-creamy-portuguese-cheese-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-portuguese-cheese-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:10:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Cheese",
+    "descriptor": "Floral Creamy",
+    "dishForm": "Grill"
+  }
+}

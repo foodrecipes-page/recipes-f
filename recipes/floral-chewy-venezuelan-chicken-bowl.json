@@ -1,0 +1,113 @@
+{
+  "title": "Floral Chewy Venezuelan Chicken Bowl",
+  "description": "A fragrant, coconut‑infused chicken bowl with a chewy texture and a burst of floral lime‑citrus notes, perfect for a date night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "nut-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "4",
+      "notes": "about 200 g each"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": "240 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced mango",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt, pepper, cumin, smoked paprika, and ground coriander.",
+    "Vacuum‑seal the seasoned chicken in a bag with the lime juice and coconut milk.",
+    "Sous‑vide the sealed chicken at 65 °C (149 °F) for 90 minutes to achieve a tender, chewy texture.",
+    "Remove the chicken from the bag, pat dry, and sear in a hot skillet with olive oil for 1–2 minutes on each side to develop a caramelized crust.",
+    "Slice the chicken into bite‑sized strips.",
+    "Warm the cooked rice and arrange it in a bowl.",
+    "Top the rice with the sliced chicken, diced mango, and diced red bell pepper.",
+    "Garnish with fresh cilantro and a squeeze of lime if desired.",
+    "Serve immediately for a fresh, floral experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "chewy",
+    "nut-free",
+    "coconut-milk",
+    "sous-vide",
+    "latin-american",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 42,
+    "carbs": 26,
+    "fat": 27
+  },
+  "slug": "floral-chewy-venezuelan-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-chewy-venezuelan-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:11:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Floral Chewy",
+    "dishForm": "Bowl"
+  }
+}
