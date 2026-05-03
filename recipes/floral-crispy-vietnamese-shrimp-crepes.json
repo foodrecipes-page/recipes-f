@@ -1,0 +1,99 @@
+{
+  "title": "Floral Crispy Vietnamese Shrimp Crepes",
+  "description": "Crispy, floral crepes filled with sautéed shrimp and a tangy passata sauce, a crowd-pleasing Vietnamese appetizer that’s dairy‑free and bursting with flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "400g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "flour blend",
+      "amount": "1 cup all-purpose flour, 1/2 cup rice flour, 1/4 cup tapioca starch blended",
+      "notes": "creates crisp batter"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp (25g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking crepes"
+    },
+    {
+      "name": "passata",
+      "amount": "3 tbsp (45ml)",
+      "notes": "tomato passata base"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp (15ml)",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp (5ml)",
+      "notes": "depth of umami"
+    },
+    {
+      "name": "jasmine tea infusion",
+      "amount": "1 tsp (5ml)",
+      "notes": "brewed and cooled for floral note"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp (5ml)",
+      "notes": "adds floral aroma"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 tsp (5g)",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk the flour blend, sugar, salt, and warm water in a bowl until smooth; let the batter rest for 10 minutes.",
+    "Heat a non‑stick skillet over medium heat and drizzle with a little vegetable oil.",
+    "Pour a tablespoon of batter into the skillet and swirl to form a thin, round crepe; cook until the edges lift, about 1‑2 minutes.",
+    "Repeat with the remaining batter, stacking the cooked crepes on a plate.",
+    "In a separate pan, quickly sauté the shrimp in a splash of oil until pink and cooked through, then set aside.",
+    "In a small saucepan, combine passata, lime juice, fish sauce, jasmine tea infusion, and rose water; heat until simmering, then add chopped basil and stir until fragrant.",
+    "Fold the cooked shrimp into the sauce, allowing it to warm through for 1 minute.",
+    "Serve each crepe drizzled with the floral passata shrimp sauce, garnished with extra basil.",
+    "Warm the skillet lightly before adding each crepe to keep them crisp.",
+    "Offer lime wedges on the side for an extra burst of citrus.",
+    ""
+  ],
+  "slug": "floral-crispy-vietnamese-shrimp-crepes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-vietnamese-shrimp-crepes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:48:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "passata",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Crepes"
+  }
+}
