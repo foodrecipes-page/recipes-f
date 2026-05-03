@@ -1,0 +1,86 @@
+{
+  "title": "Fermented Saudi Pappardelle",
+  "description": "A nostalgic Saudi Arabian dish featuring slow-cooked pappardelle pasta with fermented flavors, perfect for a hearty dinner.",
+  "cuisine": "saudi arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "200g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "fermented saffron water",
+      "amount": "50ml",
+      "notes": "made from 10 threads saffron + 200ml water, steeped for 1 hour"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use sea salt for best flavor"
+    }
+  ],
+  "instructions": [
+    "In a pot, combine pappardelle pasta with fermented saffron water, cumin, and paprika. Bring to a gentle simmer.",
+    "Add garlic and olive oil, then salt to taste. Cook for 12-15 minutes until pasta is tender.",
+    "Remove from heat and let rest for 5 minutes to allow flavors to meld.",
+    "Serve hot with a side of lemon wedges for acidity."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "fermented",
+    "pasta",
+    "dinner",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "fermented-saudi-fermented-pappard-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-saudi-fermented-pappard-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:20:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "slow-cook",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Fermented",
+    "dishForm": "Pasta"
+  }
+}
