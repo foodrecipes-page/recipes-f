@@ -1,0 +1,115 @@
+{
+  "title": "Argentinian Beef Stir-Fry",
+  "description": "A halal-friendly, post-workout stir-fry dish from Argentina, made with tender beef, colorful vegetables and a hint of Worcestershire sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet or wok over medium-high heat.",
+    "Add the beef to the skillet and cook for 3-4 minutes, or until browned.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook for 2-3 minutes, or until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced red bell pepper and zucchini to the skillet and cook for 2-3 minutes, or until tender.",
+    "Add the Worcestershire sauce, red chili flakes, salt and black pepper to the skillet and stir to combine.",
+    "Return the beef to the skillet and stir to combine with the vegetables and sauce.",
+    "Cook for an additional 1-2 minutes, or until the beef is cooked to your liking.",
+    "Serve the beef stir-fry hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "arginentinian",
+    "stir-fry",
+    "halal",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "fresh-fluffy-argentinian-beef-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-argentinian-beef-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:41:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "fresh fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
