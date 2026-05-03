@@ -1,0 +1,115 @@
+{
+  "title": "Fluffy Turkish Cheese Flatbread with Blackcurrant Jam",
+  "description": "A light, airy flatbread studded with crumbled feta and dill, topped with sweet blackcurrant jam for a surprising umami twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150 ml",
+      "notes": "warm, not hot"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-sodium salt",
+      "amount": "3 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "120 ml",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "60 g"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Blackcurrant jam",
+      "amount": "60 g",
+      "notes": "store‑bought low‑sugar"
+    },
+    {
+      "name": "Softened butter",
+      "amount": "20 g",
+      "notes": "for tempering"
+    }
+  ],
+  "instructions": [
+    "Dissolve yeast and sugar in warm water; let sit for 5–10 minutes until foamy.",
+    "In a large bowl, combine flour, low‑sodium salt, olive oil, milk, yogurt, and the activated yeast mixture; knead until a smooth, elastic dough forms.",
+    "Cover the dough, let it rise in a warm place for 60 minutes or until doubled in size.",
+    "Add the softened butter, crumbled feta, and dill to the dough; knead until the butter is fully incorporated and the dough remains fluffy.",
+    "Divide the dough into four equal portions; roll each into a 15 cm diameter disc.",
+    "Preheat the oven to 220 °C (428 °F) with a baking stone or sheet inside.",
+    "Place the discs on parchment paper, brush lightly with olive oil, and bake for 12–15 minutes until puffed and golden.",
+    "Remove from oven, spread 15 g of blackcurrant jam on one side of each flatbread, drizzle with a splash of olive oil, and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "cheese",
+    "blackcurrant",
+    "low-sodium",
+    "vegetarian",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "fluffy-turkish-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-turkish-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:03:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cheese",
+    "descriptor": "Fluffy",
+    "dishForm": "Flatbread"
+  }
+}
