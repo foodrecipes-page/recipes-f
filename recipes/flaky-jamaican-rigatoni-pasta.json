@@ -1,0 +1,106 @@
+{
+  "title": "Flaky Jamaican Rigatoni Pasta",
+  "description": "A slow-cooked, paleo-friendly Jamaican dish featuring flaky rigatoni, infused with floral and monsoon-inspired flavors. This recipe combines the richness of coconut milk with the warmth of Caribbean spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add jerk seasoning, curry powder, and thyme. Cook for 1 minute, stirring constantly.",
+    "Add chopped scotch bonnet peppers and cook for 2 minutes.",
+    "Add rigatoni to the skillet, stirring to combine with the spice mixture.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook, covered, for 20-25 minutes or until the rigatoni is al dente.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "paleo-friendly",
+    "gluten-free",
+    "slow-cooked",
+    "floral",
+    "monsoon-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flaky-jamaican-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-jamaican-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:04:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "slow-cook",
+    "primaryIngredient": "rigatoni",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rigatoni",
+    "descriptor": "flaky slow cook",
+    "dishForm": "Pasta"
+  }
+}
