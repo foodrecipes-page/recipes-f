@@ -1,0 +1,123 @@
+{
+  "title": "Fermented Crunchy Slovakian Tomatoes Salad",
+  "description": "A quick paleo-friendly salad featuring baby plum tomatoes, fermented red peppers, and a broiled tomato glaze, finished with a tangy kombu broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby plum tomatoes",
+      "amount": "500 g",
+      "notes": "halved"
+    },
+    {
+      "name": "Fermented red pepper strips",
+      "amount": "150 g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "200 g",
+      "notes": "washed"
+    },
+    {
+      "name": "Roasted sunflower seeds",
+      "amount": "50 g",
+      "notes": "shelled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "15 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "30 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Kombu brine",
+      "amount": "250 ml",
+      "notes": "prepared by dissolving 1 tsp salt in water and steeping kelp flakes for 10 min"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "2 tbsp",
+      "notes": "to flavor"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for broiling"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "pinch",
+      "notes": "optional heat"
+    }
+  ],
+  "instructions": [
+    "Prepare kombu brine: dissolve 1 tsp salt in 250 ml water, add kelp flakes, and let steep 10 min; strain.",
+    "Toss halved baby plum tomatoes in the kombu brine; cover and refrigerate for 12 h to ferment lightly.",
+    "While tomatoes ferment, warm coconut aminos, lemon juice, minced garlic, and a pinch of red pepper flakes in a small saucepan until just hot; set aside.",
+    "After fermentation, remove tomatoes from brine and pat dry.",
+    "Preheat oven broiler. Drizzle tomatoes with extra‑virgin olive oil; broil for 3–4 min until edges caramelize, turning once.",
+    "In a large bowl, combine baby spinach, fermented red pepper strips, sliced olives, chopped parsley, and roasted sunflower seeds.",
+    "Add broiled tomatoes to the bowl and gently toss.",
+    "Drizzle with the warmed coconut aminos/garlic sauce; sprinkle crushed red pepper flakes if desired; toss again until evenly coated.",
+    "Serve immediately on a plate; garnish with a few kelp flakes and a squeeze of lemon.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 736,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "slovakian",
+    "tomato-salad",
+    "broiled",
+    "fermented",
+    "quick",
+    "plant-based",
+    "no-dairy",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "fermented-crunchy-slovakian-tomatoes-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-slovakian-tomatoes-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:59:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Fermented Crunchy",
+    "dishForm": "Salad"
+  }
+}

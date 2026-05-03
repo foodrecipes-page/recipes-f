@@ -1,0 +1,117 @@
+{
+  "title": "Fiery Indian Rice Biryani",
+  "description": "A vibrant, spicy vegan biryani made with fragrant jasmine rice and a medley of vegetables, perfect for a single-serving feast.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1½ cups (280g)",
+      "notes": "washed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups",
+      "notes": "for blanching"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "½ cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "toasting"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "½ tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": "adjust heat"
+    }
+  ],
+  "instructions": [
+    "Wash the jasmine rice until the water runs clear and soak for 15 minutes. Drain and set aside.",
+    "In a saucepan, bring 3 cups of water to a boil. Add the soaked rice, reduce heat, cover, and cook for 6 minutes. Remove from heat and keep covered for 10 minutes to steam; fluff with a fork.",
+    "Heat 1 tbsp of oil in a skillet over medium heat. Add cumin seeds and let them sizzle for 30 seconds before adding sliced onions. Cook until onions are translucent, about 4 minutes.",
+    "Add diced carrots and frozen peas, sautéing for 3 minutes. Stir in diced tomatoes, garam masala, coriander powder, turmeric, and chili powder. Cook for another 2 minutes, allowing the spices to bloom.",
+    "Pour the cooked rice into the skillet, gently folding it into the vegetable mixture. Season with salt to taste and stir gently to combine all flavors.",
+    "Transfer the rice mixture to a heatproof bowl, cover with foil, and let it steam for 5 minutes to meld the flavors.",
+    "Serve hot, optionally garnished with chopped fresh cilantro for added freshness.",
+    "Enjoy your fiery, fluffy vegan biryani!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spicy",
+    "rice",
+    "entree",
+    "jasmine-rice"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 7,
+    "carbs": 72,
+    "fat": 14
+  },
+  "slug": "fiery-indian-rice-biryani",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-indian-rice-biryani",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:59:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "jasmine rice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice",
+    "descriptor": "Fiery",
+    "dishForm": "Biryani"
+  }
+}
