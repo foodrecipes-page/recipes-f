@@ -1,0 +1,87 @@
+{
+  "title": "Fluffy Cozy Ethiopian Date Crumble",
+  "description": "A fragrant, egg‑free crumble that nests buttery Medjool dates in a fragrant spice mix, topped with a nutty almond‑oat crumble for a cozy, Ethiopian‑inspired dessert.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Medjool dates, pitted and chopped",
+      "amount": "200 g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "Water",
+      "amount": "60 ml"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "45 g",
+      "notes": "Use 1 tbsp for the dates mixture, the rest for the crumble topping"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "30 g",
+      "notes": "Use 2 tbsp for the dates mixture, the rest for the crumble topping"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "4 tbsp (30 g)",
+      "notes": "Add to both the dates mixture and the crumble topping"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Hazelnuts, chopped",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 °C (350 °F).",
+    "In a small saucepan, combine chopped dates, brown sugar, water, 1 Tbsp almond flour, 2 Tbsp rolled oats, cinnamon, cardamom, 2 Tbsp melted coconut oil, and vanilla extract. Cook over medium heat, stirring until the mixture thickens and becomes sticky, about 5–7 minutes.",
+    "Transfer the warm mixture to a small baking dish and smooth the top with a spatula.",
+    "In a separate bowl, mix the remaining almond flour, rolled oats, brown sugar, cinnamon, ground ginger, chopped hazelnuts, and 2 Tbsp melted coconut oil until crumbly.",
+    "Evenly sprinkle the crumble topping over the dates layer in the dish.",
+    "Bake for 20–25 minutes, or until the topping is golden brown and the mixture is bubbling around the edges.",
+    "Remove from oven and let cool for 5 minutes before serving warm. Optionally top each serving with a spoonful of coconut yogurt for extra creaminess."
+  ],
+  "slug": "fluffy-cozy-ethiopian-date-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-cozy-ethiopian-date-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:51:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "medjool dates",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "dates",
+    "descriptor": "Fluffy Cozy",
+    "dishForm": "Crumble"
+  }
+}
