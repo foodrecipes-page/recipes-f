@@ -1,0 +1,113 @@
+{
+  "title": "Floral Light Italian Kidney Bean Soup",
+  "description": "A fragrant, dairy‑free Italian-inspired soup bursting with herbs, kidney beans, and tomato, perfect for a quick kid‑friendly lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium (about 150 g)"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2 (about 6 g)"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 cup (about 120 g)"
+    },
+    {
+      "name": "celery stalk, diced",
+      "amount": "1 cup (about 120 g)"
+    },
+    {
+      "name": "red kidney beans, cooked or canned, drained",
+      "amount": "2 cups (about 360 g)"
+    },
+    {
+      "name": "diced tomatoes, canned",
+      "amount": "1 cup (240 g)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (960 ml)",
+      "notes": "use low‑sodium"
+    },
+    {
+      "name": "fresh basil, chopped",
+      "amount": "1/4 cup (6 g)"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp (10 g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "optional, for brightness"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in the minced garlic, diced carrot, and celery; cook for another 3 minutes.",
+    "Add the kidney beans, diced tomatoes, and vegetable broth; bring to a gentle boil.",
+    "Reduce heat to a simmer, cover, and let cook for 15 minutes to meld flavors.",
+    "Season with salt and black pepper to taste.",
+    "Just before serving, stir in fresh basil and parsley; adjust seasoning if needed.",
+    "Serve hot, optionally garnished with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "dairy-free",
+    "vegan",
+    "quick",
+    "soups"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 28,
+    "carbs": 95,
+    "fat": 15
+  },
+  "slug": "floral-light-italian-kidney-beans-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-light-italian-kidney-beans-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:07:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "kidney beans",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Floral Light",
+    "dishForm": "Soup"
+  }
+}
