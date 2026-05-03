@@ -1,0 +1,80 @@
+{
+  "title": "Fresh Crumbly Japanese Bulgur Pilaf",
+  "description": "A fresh and crumbly Japanese-style pilaf made with paleo-friendly bulgur wheat and other ingredients for a nutritious dish suitable for monsoon season.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Paleo Bulgur Wheat",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons Olive Oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 medium Onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves Garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (6 oz) Black Beans, rinsed and drained",
+      "amount": "can"
+    },
+    {
+      "name": "2 cups Water or Almond Milk",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add onions and garlic to the pan and sauté until soft, about 3 minutes.",
+    "Add Bulgur Wheat to the pan, stir well to coat with oil and cook for an additional 2 minutes.",
+    "Gradually add water or almond milk while stirring continuously. Bring mixture to a boil then reduce heat and simmer until liquid is absorbed, about 5-7 minutes.",
+    "Stir in black beans and cook for another minute. Remove from heat and let cool slightly before serving.",
+    "Serve immediately as a snack with desired toppings like fresh herbs or vegan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "crumbly",
+    "monsoon",
+    "japanese",
+    "paleo-friendly",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 9.4,
+    "carbs": 20.8,
+    "fat": 5.3
+  },
+  "slug": "fresh-crumbly-japanese-bulgur-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crumbly-japanese-bulgur-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:01:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "Fresh",
+    "dishForm": "Pilaf"
+  }
+}
