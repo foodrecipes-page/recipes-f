@@ -1,0 +1,94 @@
+{
+  "title": "Fermented Creamy Thai Shrimp Soup",
+  "description": "A creamy, fermented Thai-inspired shrimp soup that balances rich coconut milk with tangy fermented fish sauce, finished with fresh herbs for a kid-friendly, comforting bowl.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200 g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "fermented fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/2 cup",
+      "notes": "leaves"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": "leaves"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "bell pepper, carrot, cucumber, julienned"
+    }
+  ],
+  "instructions": [
+    "Bring water, coconut milk, ginger, garlic, and shallot to a gentle simmer in a medium pot.",
+    "Stir in fermented fish sauce, soy sauce, lime juice, and a teaspoon of sugar, letting the flavors meld for 2 minutes.",
+    "Add the shrimp and cook for 2-3 minutes, or until pink and opaque; if using tofu, add it here and cook 3-4 minutes.",
+    "Add the mixed vegetables and simmer for another 1-2 minutes until just tender.",
+    "Turn off the heat and stir in fresh basil and cilantro, allowing them to wilt slightly.",
+    "Taste and adjust seasoning with more lime juice or fish sauce if desired.",
+    "Serve hot over cooked rice or with rice noodles if preferred."
+  ],
+  "slug": "fermented-creamy-thai-shrimp-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-thai-shrimp-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:16:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "shrimp",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Fermented Creamy",
+    "dishForm": "Soup"
+  }
+}
