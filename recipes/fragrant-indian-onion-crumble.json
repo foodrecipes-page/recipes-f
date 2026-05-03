@@ -1,0 +1,91 @@
+{
+  "title": "Fragrant Indian Onion Crumble",
+  "description": "A caramelized onion crumble infused with fragrant spices, lemon zest, and dried rose petals, perfect as a creamy, nostalgic topping for dosa or roti.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "medium onions",
+      "amount": "5, diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried mango powder (amchur)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "hing (asafoetida)",
+      "amount": "pinch"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "simple sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add cumin and fennel seeds and toast until fragrant, about 30 seconds.",
+    "Add the diced onions and sauté, stirring frequently, until they begin to soften and turn translucent.",
+    "Cook the onions, stirring occasionally, until they are deep caramelized and golden brown, about 15 minutes.",
+    "Add turmeric, black pepper, dried mango powder, chili flakes, hing, and dried rose petals. Stir to combine and cook for another 2 minutes to bloom the spices.",
+    "Reduce heat to low, then stir in lemon zest and chopped cilantro. Let the mixture cool to room temperature; it will naturally separate into a crumbly texture as it cools.",
+    "Transfer the crumbly mixture to an airtight container and refrigerate. Use as a topping for dosas, rotis, or sprinkle over salads for an aromatic crunch."
+  ],
+  "slug": "fragrant-indian-onion-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-indian-onion-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:34:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "onion",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "onion",
+    "descriptor": "Fragrant",
+    "dishForm": "Crumble"
+  }
+}
