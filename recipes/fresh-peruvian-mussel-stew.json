@@ -1,0 +1,103 @@
+{
+  "title": "Fresh Peruvian Mussel Stew",
+  "description": "A bright, citrusy stew featuring fresh mussels, cilantro, and a dash of lime, slow-cooked to silky perfection. Low-sodium and perfect for a solo dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh mussels",
+      "amount": "1 kg",
+      "notes": "scrub and bleach, discard any broken shells"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Citrus juice (lime or sour orange)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse mussels under cold water, scrub shells, discard any that are cracked or open before cooking.",
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion, sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and diced bell pepper; cook 2 minutes until fragrant.",
+    "Add diced tomato and cook, stirring, until tomatoes soften, 4 minutes.",
+    "Pour in low-sodium vegetable broth and citrus juice; bring to a gentle simmer.",
+    "Return cleaned mussels to the pot; cover and cook for 5 minutes, or until mussels open, discarding any that remain closed.",
+    "Stir in chopped cilantro, season with freshly ground black pepper, adjust seasoning as needed.",
+    "Remove from heat, let stew rest 2 minutes for flavors to meld.",
+    "Ladle into bowls, garnish with extra cilantro if desired, serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "stew",
+    "peruvian",
+    "low-sodium",
+    "quick",
+    "solo-dinner",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "fresh-peruvian-mussel-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-peruvian-mussel-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:16:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "mussels",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "mussels",
+    "descriptor": "Fresh",
+    "dishForm": "Stew"
+  }
+}
