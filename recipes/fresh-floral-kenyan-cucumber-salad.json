@@ -1,0 +1,109 @@
+{
+  "title": "Fresh Floral Kenyan Cucumber Salad",
+  "description": "A light, kid-friendly salad bursting with fresh cucumber, pickled crunch, and a floral touch, made with simple low‑FODMAP ingredients for a quick Kenyan-inspired lunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "low-fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumbers",
+      "amount": "4 medium (about 600g) sliced",
+      "notes": "peeled if desired"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup loosely packed",
+      "notes": "chopped"
+    },
+    {
+      "name": "Edible flowers (dried calendula or violets)",
+      "amount": "2 tablespoons",
+      "notes": "used as garnish"
+    },
+    {
+      "name": "Pickled cucumber slices",
+      "amount": "½ cup",
+      "notes": "low-sodium, jarred"
+    },
+    {
+      "name": "Vegetable oil (sunflower or canola)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": "optional, sweetens lightly"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "¼ teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Optional: chia seeds",
+      "amount": "1 tablespoon",
+      "notes": "for extra texture"
+    }
+  ],
+  "instructions": [
+    "Wash the cucumbers thoroughly and slice them into thin rounds or half‑moons, discarding the skin if you prefer.",
+    "Place the sliced cucumbers in a large mixing bowl and sprinkle with the chopped mint leaves.",
+    "Add the dried edible flowers and the pickled cucumber slices to the bowl.",
+    "In a small bowl, whisk together the vegetable oil, lemon juice, honey (if using), salt, and pepper until the dressing is emulsified.",
+    "Pour the dressing over the cucumber mixture, tossing gently to coat all ingredients evenly.",
+    "If desired, sprinkle chia seeds on top for a slight crunch and stir lightly.",
+    "Taste and adjust seasoning, adding more salt or lemon juice if needed.",
+    "Transfer the salad to a serving dish or individual bowls, ensuring each child gets a generous portion.",
+    "Serve immediately, or cover and refrigerate for up to 2 hours to let flavors meld.",
+    "Encourage kids to pick up the salad with small spoons or forks and enjoy the fresh, floral crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "low-fodmap",
+    "kid-friendly",
+    "salad",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 33
+  },
+  "slug": "fresh-floral-kenyan-cucumber-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-floral-kenyan-cucumber-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:35:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "vegetable oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cucumber",
+    "descriptor": "Fresh Floral",
+    "dishForm": "Salad"
+  }
+}
