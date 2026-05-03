@@ -1,6 +1,6 @@
 {
   "title": "Fresh Italian Ricotta Salad",
-  "description": "A chilled, comforting Italian salad that blends creamy ricotta with crisp veggies, pickles, and a buttery lemon dressing—diabetic-friendly and refreshingly fresh.",
+  "description": "A chilled, comforting Italian salad that blends creamy ricotta with crisp veggies, pickles, and a buttery lemon dressing-diabetic-friendly and refreshingly fresh.",
   "cuisine": "Italian",
   "diet": [
     "diabetic-friendly"
@@ -10,7 +10,7 @@
     {
       "name": "Ricotta cheese",
       "amount": "2 cups",
-      "notes": "full‑fat for creaminess"
+      "notes": "full\u2011fat for creaminess"
     },
     {
       "name": "Shredded mozzarella",
@@ -67,7 +67,7 @@
     "In a large bowl combine ricotta, mozzarella, cucumber, tomatoes, pickles, basil, and oregano.",
     "Whisk together olive oil, softened butter, lemon juice, salt, and pepper to form a smooth dressing.",
     "Pour the dressing over the salad ingredients and gently toss until everything is evenly coated.",
-    "Taste and adjust seasoning if needed—add a pinch more salt or pepper.",
+    "Taste and adjust seasoning if needed\u2014add a pinch more salt or pepper.",
     "Transfer the salad to the refrigerator and chill for at least 15 minutes to meld the flavors.",
     "Serve cold, optionally garnished with a few extra basil leaves or a light drizzle of olive oil.",
     "Enjoy as a light lunch or a refreshing side dish."
@@ -89,5 +89,20 @@
     "mainIngredient": "Ricotta",
     "descriptor": "Fresh",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "lunch"
+  ]
 }
