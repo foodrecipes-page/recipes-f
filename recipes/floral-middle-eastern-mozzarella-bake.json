@@ -1,0 +1,107 @@
+{
+  "title": "Floral Middle Eastern Mozzarella Bake",
+  "description": "A light, fragrant plant‑based bake featuring floral rose water, sweet date syrup, and creamy vegan mozzarella, perfect for a date night.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plant‑based mozzarella",
+      "amount": "200g, sliced",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "200g, chopped",
+      "notes": "washed"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Cooked chickpeas",
+      "amount": "1 cup (165g), drained"
+    },
+    {
+      "name": "Couscous",
+      "amount": "50g, dry",
+      "notes": "quick‑cook"
+    },
+    {
+      "name": "Date syrup",
+      "amount": "2 tbsp (30g)",
+      "notes": "sweetener"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp",
+      "notes": "floral aroma"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp",
+      "notes": "freshness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "In a saucepan, bring 1 cup water to boil, add couscous, cover, and let steam 5 minutes; fluff with a fork.",
+    "In a large bowl, combine spinach, bell pepper, chickpeas, and couscous.",
+    "Add date syrup, rose water, lemon zest, garlic, olive oil, and salt to taste; toss to coat.",
+    "Spread the mixture evenly in an 8×8‑inch baking dish.",
+    "Arrange sliced vegan mozzarella on top.",
+    "Bake for 20 minutes until mozzarella is melted and edges are lightly golden.",
+    "Remove from oven and let rest 5 minutes.",
+    "Sprinkle extra lemon zest and fresh herbs if desired.",
+    "Serve warm, accompanied by fresh flatbread or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "plant-based",
+    "bake",
+    "middle-eastern",
+    "floral",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 6
+  },
+  "slug": "floral-middle-eastern-mozzarella-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-middle-eastern-mozzarella-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:40:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "mozzarella",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Floral",
+    "dishForm": "Bake"
+  }
+}
