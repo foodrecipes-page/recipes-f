@@ -1,0 +1,115 @@
+{
+  "title": "Fermented Creamy Japanese Tomato Toast",
+  "description": "A unique and flavorful vegetarian dish featuring fermented tomato juice, creamy sauce, and crispy toast, inspired by Japanese cuisine. Perfect for a special occasion or a fancy brunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "tomato juice",
+      "amount": "2 cups",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 sheet",
+      "notes": "dried kelp for fermentation"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for creamy sauce"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for toasting bread"
+    },
+    {
+      "name": "Japanese milk bread",
+      "amount": "4 slices",
+      "notes": "or other white bread"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine tomato juice, sake, mirin, and kombu. Let it ferment at room temperature (about 70°F to 75°F) for 24 to 48 hours, or until the mixture has developed a rich, umami flavor.",
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the Japanese milk bread into 1-inch thick slices and toast until lightly browned.",
+    "In a medium saucepan, combine the fermented tomato juice mixture and heavy cream. Bring to a simmer over medium heat and cook until the sauce has thickened slightly, about 5 to 7 minutes.",
+    "Remove the sauce from the heat and season with salt and black pepper to taste.",
+    "Butter the toasted bread slices and top each slice with a spoonful of the creamy tomato sauce.",
+    "Garnish with chopped shiso leaves and sesame seeds.",
+    "Serve immediately and enjoy!",
+    "Optional: let the toast cool completely and refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "fermented",
+    "tomato",
+    "cream",
+    "toast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "fermented-creamy-japanese-tomato-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-japanese-tomato-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:26:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "tomato juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tomato",
+    "descriptor": "fermented creamy",
+    "dishForm": "Toast"
+  }
+}
