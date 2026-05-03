@@ -1,0 +1,78 @@
+{
+  "title": "Fermented Apple Cider Yogurt Pancake",
+  "description": "A buttery, creamy quick-fix American dish featuring apple cider vinegar and yogurt as a low-calorie-friendly breakfast option.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened plain yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons, melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together apple cider vinegar and yogurt. Add flaxseed meal and flour, mixing until no lumps remain.",
+    "Beat in baking powder and melted butter. Mix in eggs one at a time until smooth.",
+    "Heat a non-stick skillet over medium heat. Pour batter onto hot pan for each pancake, about 1/4 cup per pancake. Cook until bubbles form on surface, then flip to cook the other side. Serve with fresh fruit or honey."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-apple-cider-yogurt-pancake",
+    "buttery-mousse-style-pancake",
+    "apple-cider-vinegar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "fermented-apple-cider-yogurt-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-apple-cider-yogurt-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:30:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Apple Cider Fermented",
+    "dishForm": "Pancake"
+  }
+}
