@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C). Grease an 8x8 inch baking dish with cooking spray or butter.",
+    "Preheat your oven to 350\u00b0F (175\u00b0C). Grease an 8x8 inch baking dish with cooking spray or butter.",
     "In a large mixing bowl, cream together the Cream Cheese and Heavy Cream until well combined. Add Granulated Sugar and mix on medium speed for about 2 minutes, scraping down the sides as needed.",
     "Add in Egg and stir to combine fully. Gradually add in All-Purpose Flour, Baking Powder, and Salt, stirring with a wooden spoon or spatula until just combined.",
     "Transfer the mixture into your prepared baking dish and bake for 30-35 minutes or until golden brown and firm when touched in the center.",
@@ -55,9 +55,9 @@
   ],
   "nutrition": {
     "calories": 357,
-    "protein": 8.9,
-    "carbs": 24.1,
-    "fat": 20.5
+    "protein": 9,
+    "carbs": 24,
+    "fat": 20
   },
   "slug": "flaky-russian-cream-cheese-crumble",
   "source": "ollama-qwen2.5:3b",

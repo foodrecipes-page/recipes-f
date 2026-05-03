@@ -5,7 +5,7 @@
   "diet": [
     "sugar-free-friendly"
   ],
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "2 large eggs",
@@ -38,7 +38,7 @@
   "instructions": [
     "Whisk the eggs in a bowl, season with salt and pepper.",
     "Heat olive oil in a non-stick skillet over medium-high heat.",
-    "Add finely chopped onion to the skillet and sauté until translucent, about 3 minutes.",
+    "Add finely chopped onion to the skillet and saut\u00e9 until translucent, about 3 minutes.",
     "Stir-fry minced garlic for another minute.",
     "Pour whisked eggs into the skillet. Use a spatula to stir-fry the eggs until golden brown and crispy.",
     "Fold in chopped parsley, remove from heat immediately.",
@@ -57,8 +57,8 @@
   ],
   "nutrition": {
     "calories": 92,
-    "protein": 3.8,
-    "carbs": 6.1,
+    "protein": 4,
+    "carbs": 6,
     "fat": 7
   },
   "slug": "fresh-crispy-egg-stir-fry",

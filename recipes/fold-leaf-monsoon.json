@@ -43,7 +43,7 @@
   ],
   "instructions": [
     "Heat oil in a wok over medium-high heat.",
-    "Add minced garlic and sliced chili pepper, sauté for 30 seconds.",
+    "Add minced garlic and sliced chili pepper, saut\u00e9 for 30 seconds.",
     "Stir in soy sauce and tamarind paste. Bring to a simmer.",
     "Reduce heat to low and add coconut milk. Simmer until the mixture thickens slightly.",
     "Fold baby lettuce leaves into the sauce, tossing gently to coat each leaf.",
@@ -62,9 +62,9 @@
   ],
   "nutrition": {
     "calories": 167,
-    "protein": 2.9,
-    "carbs": 8.4,
-    "fat": 5.8
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6
   },
   "slug": "fold-leaf-monsoon",
   "source": "ollama-qwen2.5:3b",

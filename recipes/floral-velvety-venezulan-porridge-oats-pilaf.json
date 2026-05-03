@@ -5,7 +5,7 @@
   "diet": [
     "vegetarian"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Rolled Oats",
@@ -45,7 +45,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
+    "Preheat the oven to 400\u00b0F (200\u00b0C).",
     "Peel and slice the plantains into 1-inch rounds. Place the plantain slices on a baking sheet lined with parchment paper and drizzle with a tablespoon of oil.",
     "Roast the plantains in the preheated oven for 20-25 minutes, flipping halfway, until tender and caramelized.",
     "In a large saucepan, combine the oats, coconut milk, honey, cinnamon, ginger, and salt. Stir to combine.",
@@ -66,16 +66,16 @@
     "brunch",
     "oats",
     "plantains",
-    "coconut milk",
+    "coconut-milk",
     "honey",
     "cinnamon",
     "ginger"
   ],
   "nutrition": {
     "calories": 420,
-    "protein": "8g",
-    "carbs": "70g",
-    "fat": "24g"
+    "protein": 8,
+    "carbs": 70,
+    "fat": 24
   },
   "slug": "floral-velvety-venezulan-porridge-oats-pilaf",
   "source": "groq-llama-3.1-8b-instant",

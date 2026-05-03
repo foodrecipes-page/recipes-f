@@ -70,7 +70,7 @@
   ],
   "instructions": [
     "Heat a large skillet over medium heat and add a splash of oil.",
-    "Add minced garlic, grated ginger, and sliced shallot, sautéing until fragrant, about 1 minute.",
+    "Add minced garlic, grated ginger, and sliced shallot, saut\u00e9ing until fragrant, about 1 minute.",
     "Stir in red curry paste, cooking for another 30 seconds until the aroma releases.",
     "Pour in the coconut milk and stir to combine, letting the mixture come to a gentle simmer.",
     "Add the peeled king prawns and cook for 3-4 minutes until they turn pink and opaque.",
@@ -95,5 +95,20 @@
     "mainIngredient": "king prawns",
     "descriptor": "Fresh Dense",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ]
 }

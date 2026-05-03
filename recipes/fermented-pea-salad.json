@@ -28,7 +28,7 @@
     "Place the frozen peas in a large bowl.",
     "Add apple cider vinegar and water to the peas, stirring gently with a spoon until all the peas are coated evenly.",
     "Sprinkle salt over the mixture, mixing well. The salt will help preserve the fermentation process by drawing out excess moisture from the peas.",
-    "Cover the bowl with plastic wrap or a lid, leaving an edge for air circulation, and place it in a warm area at room temperature (around 70-85°F) for about 24 hours to allow natural fermentation to occur. Check on the mixture daily, stirring gently each time, to ensure even distribution of salt and vinegar.",
+    "Cover the bowl with plastic wrap or a lid, leaving an edge for air circulation, and place it in a warm area at room temperature (around 70-85\u00b0F) for about 24 hours to allow natural fermentation to occur. Check on the mixture daily, stirring gently each time, to ensure even distribution of salt and vinegar.",
     "After 24 hours or when fully fermented (you can taste to check), refrigerate the pea salad to slow down further bacterial growth. Use within a day for best flavor."
   ],
   "prepTimeMin": 15,
@@ -45,7 +45,7 @@
     "calories": 85,
     "protein": 2,
     "carbs": 14,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "fermented-pea-salad",
   "source": "ollama-qwen2.5:3b",

@@ -1,6 +1,6 @@
 {
   "title": "Fresh Crunchy Japanese Potatoes Crumble",
-  "description": "A light yet indulgent Japanese potato crumble that’s crisp on top, creamy inside, and FODMAP-friendly.",
+  "description": "A light yet indulgent Japanese potato crumble thats crisp on top, creamy inside, and FODMAP-friendly.",
   "cuisine": "Japanese",
   "diet": [
     "vegetarian"
@@ -65,7 +65,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
     "In a large bowl, combine diced potatoes, grated carrot, diced bell pepper, and crushed rice crackers.",
     "Add beaten egg, furikake, chopped nori, sesame seeds, tamari, rice vinegar, sesame oil, salt, and pepper to the bowl; toss until all ingredients are evenly coated.",
     "Spread the mixture in an 8x8-inch baking dish, pressing down lightly to create an even layer.",
@@ -91,5 +91,20 @@
     "mainIngredient": "potatoes",
     "descriptor": "Fresh Crunchy",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "lunch"
+  ]
 }

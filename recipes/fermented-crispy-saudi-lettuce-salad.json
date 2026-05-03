@@ -70,8 +70,8 @@
     }
   ],
   "instructions": [
-    "Preheat the tandoor or oven to 200°C (392°F).",
-    "Place the dry chickpeas on a baking sheet, drizzle with a tablespoon of olive oil, and season with cumin, sumac, and a pinch of salt. Roast in the tandoor for 10–12 minutes until golden and crisp, stirring once. Remove and let cool slightly.",
+    "Preheat the tandoor or oven to 200\u00b0C (392\u00b0F).",
+    "Place the dry chickpeas on a baking sheet, drizzle with a tablespoon of olive oil, and season with cumin, sumac, and a pinch of salt. Roast in the tandoor for 10\u201312 minutes until golden and crisp, stirring once. Remove and let cool slightly.",
     "In a large bowl, combine the torn romaine lettuce, diced cucumber, shredded carrot, and thinly sliced red onion. Toss gently to mix.",
     "In a separate bowl, whisk together fermented labneh, fresh lemon juice, a tablespoon of olive oil, sumac, cumin, black pepper, and salt until smooth and creamy.",
     "Drizzle the dressing over the salad mixture and toss until all ingredients are evenly coated.",
@@ -96,5 +96,20 @@
     "mainIngredient": "lettuce",
     "descriptor": "Fermented Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "lunch"
+  ]
 }

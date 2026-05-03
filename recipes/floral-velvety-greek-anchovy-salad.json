@@ -1,6 +1,6 @@
 {
   "title": "Floral Velvety Greek Anchovy Salad",
-  "description": "A light Greek salad that balances the briny depth of sous‑vide anchovy fillets with a silky low‑fat Greek yogurt dressing, finished with fresh herbs and edible violet petals.",
+  "description": "A light Greek salad that balances the briny depth of sousvide anchovy fillets with a silky lowfat Greek yogurt dressing, finished with fresh herbs and edible violet petals.",
   "cuisine": "Greek",
   "diet": [
     "low-fat"
@@ -9,47 +9,47 @@
   "ingredients": [
     {
       "name": "Anchovy fillets",
-      "amount": "4 fillets (80 g)",
+      "amount": "4 fillets (80\u202fg)",
       "notes": "skins removed, whole fillets"
     },
     {
-      "name": "Low‑fat Greek yogurt",
-      "amount": "200 g",
+      "name": "Low\u2011fat Greek yogurt",
+      "amount": "200\u202fg",
       "notes": "plain"
     },
     {
       "name": "Fresh lemon juice",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "freshly squeezed"
     },
     {
-      "name": "Extra‑virgin olive oil",
-      "amount": "1 tsp",
+      "name": "Extra\u2011virgin olive oil",
+      "amount": "1\u202ftsp",
       "notes": "minimize fat"
     },
     {
       "name": "Capers",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "rinsed, drained"
     },
     {
       "name": "Fresh dill, chopped",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "fresh"
     },
     {
       "name": "Fresh basil, torn",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "fresh"
     },
     {
       "name": "Edible violet petals",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "for floral garnish"
     },
     {
       "name": "Cucumber, diced",
-      "amount": "½ medium",
+      "amount": "\u00bd medium",
       "notes": "rinsed"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "Red onion, thinly sliced",
-      "amount": "¼ small",
+      "amount": "\u00bc small",
       "notes": "thinly sliced"
     },
     {
@@ -68,12 +68,12 @@
     }
   ],
   "instructions": [
-    "Preheat a sous‑vide water bath to 80 °C (176 °F).",
-    "Season the anchovy fillets with a pinch of salt and pepper, then place them in a vacuum‑sealed bag with a tablespoon of capers. Seal the bag and cook in the sous‑vide bath for 30 minutes.",
+    "Preheat a sous\u2011vide water bath to 80\u202f\u00b0C (176\u202f\u00b0F).",
+    "Season the anchovy fillets with a pinch of salt and pepper, then place them in a vacuum\u2011sealed bag with a tablespoon of capers. Seal the bag and cook in the sous\u2011vide bath for 30\u202fminutes.",
     "After cooking, remove the fillets, pat dry, and set aside to cool slightly.",
-    "In a bowl, whisk together the low‑fat Greek yogurt, lemon juice, and a teaspoon of olive oil until smooth. Season with salt and pepper. If desired, fold in a few chopped dill and basil leaves.",
+    "In a bowl, whisk together the low\u2011fat Greek yogurt, lemon juice, and a teaspoon of olive oil until smooth. Season with salt and pepper. If desired, fold in a few chopped dill and basil leaves.",
     "Add the diced cucumber, halved cherry tomatoes, and thinly sliced red onion to the bowl. Gently toss to combine.",
-    "Once the anchovy fillets have cooled to a safe serving temperature (around 55 °C), add them to the salad and gently fold to coat.",
+    "Once the anchovy fillets have cooled to a safe serving temperature (around 55\u202f\u00b0C), add them to the salad and gently fold to coat.",
     "Plate the salad on a shallow dish. Garnish each serving with a teaspoon of edible violet petals and a sprinkle of fresh dill. Serve immediately for a crisp, velvety experience."
   ],
   "slug": "floral-velvety-greek-anchovy-salad",
@@ -93,5 +93,20 @@
     "mainIngredient": "anchovy",
     "descriptor": "Floral Velvety",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "lunch"
+  ]
 }

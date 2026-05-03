@@ -1,11 +1,11 @@
 {
   "title": "Floral Crispy Vietnamese Shrimp Crepes",
-  "description": "Crispy, floral crepes filled with sautéed shrimp and a tangy passata sauce, a crowd-pleasing Vietnamese appetizer that’s dairy‑free and bursting with flavor.",
+  "description": "Crispy, floral crepes filled with sauteed shrimp and a tangy passata sauce, a crowd-pleasing Vietnamese appetizer thats dairyfree and bursting with flavor.",
   "cuisine": "Vietnamese",
   "diet": [
     "dairy-free"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "large shrimp",
@@ -67,10 +67,10 @@
   ],
   "instructions": [
     "Whisk the flour blend, sugar, salt, and warm water in a bowl until smooth; let the batter rest for 10 minutes.",
-    "Heat a non‑stick skillet over medium heat and drizzle with a little vegetable oil.",
-    "Pour a tablespoon of batter into the skillet and swirl to form a thin, round crepe; cook until the edges lift, about 1‑2 minutes.",
+    "Heat a non\u2011stick skillet over medium heat and drizzle with a little vegetable oil.",
+    "Pour a tablespoon of batter into the skillet and swirl to form a thin, round crepe; cook until the edges lift, about 1\u20112 minutes.",
     "Repeat with the remaining batter, stacking the cooked crepes on a plate.",
-    "In a separate pan, quickly sauté the shrimp in a splash of oil until pink and cooked through, then set aside.",
+    "In a separate pan, quickly saut\u00e9 the shrimp in a splash of oil until pink and cooked through, then set aside.",
     "In a small saucepan, combine passata, lime juice, fish sauce, jasmine tea infusion, and rose water; heat until simmering, then add chopped basil and stir until fragrant.",
     "Fold the cooked shrimp into the sauce, allowing it to warm through for 1 minute.",
     "Serve each crepe drizzled with the floral passata shrimp sauce, garnished with extra basil.",
@@ -95,5 +95,20 @@
     "mainIngredient": "shrimp",
     "descriptor": "Floral Crispy",
     "dishForm": "Crepes"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "snack"
+  ]
 }

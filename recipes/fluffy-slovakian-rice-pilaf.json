@@ -35,7 +35,7 @@
   "instructions": [
     "Rinse 150g short-grain rice under cold water until water runs clear.",
     "In a sous-vide pouch, combine rice with 15ml white vinegar, 10g dill, and 5g parsley.",
-    "Seal pouch and cook at 65°C (149°F) for 25 minutes for optimal texture.",
+    "Seal pouch and cook at 65\u00b0C (149\u00b0F) for 25 minutes for optimal texture.",
     "Remove pouch, let rest for 5 minutes, then fluff with a fork before serving."
   ],
   "prepTimeMin": 2,
@@ -56,7 +56,7 @@
     "calories": 180,
     "protein": 3,
     "carbs": 28,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "fluffy-slovakian-rice-pilaf",
   "source": "ollama-qwen3:4b",

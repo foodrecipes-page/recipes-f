@@ -55,14 +55,14 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (200°C).",
+    "Preheat your oven to 400\u00b0F (200\u00b0C).",
     "In a bowl, combine ground cardamom and olive oil. Mix well until evenly coated.",
     "Place chicken pieces in the marinade and marinate for at least 30 minutes or overnight in the fridge.",
-    "Heat a bit of olive oil in a pan over medium heat. Add onions and garlic, sautéing until they are translucent and fragrant.",
+    "Heat a bit of olive oil in a pan over medium heat. Add onions and garlic, saut\u00e9ing until they are translucent and fragrant.",
     "Add bell peppers and jalapenos to the pan. Cook for another 5-7 minutes, stirring occasionally.",
     "Drain the chicken from its marinade, letting any excess liquid drip off. Place on a baking sheet lined with parchment paper.",
     "Bake in the preheated oven for about 18-20 minutes or until the chicken is fully cooked and golden brown.",
-    "While the chicken is baking, chop tomatoes into small pieces. Sauté them gently with olive oil for 3-5 minutes, adding salt to taste.",
+    "While the chicken is baking, chop tomatoes into small pieces. Saut\u00e9 them gently with olive oil for 3-5 minutes, adding salt to taste.",
     "Remove chicken from oven and let it cool slightly. Slice the avocado and add it to the stir-fry along with red onions.",
     "Pour reserved marinade on top of the stir-fry mixture. Add lime juice and remaining olives, tossing gently until everything is well combined.",
     "prepTimeMin: 20",
@@ -96,5 +96,16 @@
     "mainIngredient": "cardamom",
     "descriptor": "Floral Light",
     "dishForm": "Stir-fry"
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
   }
 }

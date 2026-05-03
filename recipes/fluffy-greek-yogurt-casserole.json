@@ -1,6 +1,6 @@
 {
   "title": "Fluffy Greek Yogurt Casserole",
-  "description": "A tangy, fluffy breakfast casserole with a lightly caramelized honey‑olive oil topping that’s both energizing and low‑calorie.",
+  "description": "A tangy, fluffy breakfast casserole with a lightly caramelized honeyolive oil topping thats both energizing and lowcalorie.",
   "cuisine": "Greek",
   "diet": [
     "vegetarian"
@@ -64,12 +64,12 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 325°F (165°C).",
+    "Preheat the oven to 325\u00b0F (165\u00b0C).",
     "In a large bowl, whisk together the yogurt, eggs, honey, vanilla, baking soda, and salt until smooth.",
     "Fold in the chopped walnuts and applesauce, if using.",
     "Grease a 9x9 inch baking dish with a light spray of olive oil and pour the batter in, spreading evenly.",
-    "Bake for 35–40 minutes, or until the top is set and a toothpick comes out clean.",
-    "While the casserole bakes, combine 1 tablespoon honey, 1 tablespoon olive oil, and 1 tablespoon water in a small saucepan over medium heat. Stir until the mixture thickens and turns a light amber color, about 3–5 minutes. Remove from heat.",
+    "Bake for 35\u201340 minutes, or until the top is set and a toothpick comes out clean.",
+    "While the casserole bakes, combine 1 tablespoon honey, 1 tablespoon olive oil, and 1 tablespoon water in a small saucepan over medium heat. Stir until the mixture thickens and turns a light amber color, about 3\u20135 minutes. Remove from heat.",
     "Remove the casserole from the oven, drizzle the caramel sauce over the top, and let it set for a few minutes before serving."
   ],
   "slug": "fluffy-greek-yogurt-casserole",
@@ -89,5 +89,20 @@
     "mainIngredient": "Yogurt",
     "descriptor": "Fluffy",
     "dishForm": "Casserole"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "breakfast"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Fresh Tender Irish Chicken Stew",
-  "description": "A low‑calorie, skinless chicken stew with fresh vegetables, finished with toasted rye bread for a festive Irish twist.",
+  "description": "A lowcalorie, skinless chicken stew with fresh vegetables, finished with toasted rye bread for a festive Irish twist.",
   "cuisine": "Irish",
   "diet": [
     "low-calorie"
@@ -10,10 +10,10 @@
     {
       "name": "skinless chicken breast",
       "amount": "1 lb (454 g)",
-      "notes": "cut into 2‑inch cubes"
+      "notes": "cut into 2\u2011inch cubes"
     },
     {
-      "name": "low‑sodium chicken broth",
+      "name": "low\u2011sodium chicken broth",
       "amount": "2 cups (480 ml)"
     },
     {
@@ -50,11 +50,11 @@
     },
     {
       "name": "salt",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "black pepper",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "rye bread",
@@ -63,12 +63,12 @@
   ],
   "instructions": [
     "Heat the olive oil in a large Dutch oven over medium heat.",
-    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Add the diced onion and saut\u00e9 until translucent, about 3 minutes.",
     "Stir in the minced garlic and cook for 30 seconds until fragrant.",
     "Add the chicken cubes and brown lightly on all sides, about 4 minutes.",
     "Pour in the chicken broth and add carrots, celery, thyme, rosemary, and bay leaf.",
     "Season with salt and pepper, then bring the mixture to a gentle boil.",
-    "Reduce heat to low, cover, and simmer for 25 minutes, or until the chicken is cooked through and the vegetables are tender (internal temp 165°F).",
+    "Reduce heat to low, cover, and simmer for 25 minutes, or until the chicken is cooked through and the vegetables are tender (internal temp 165\u00b0F).",
     "Remove the bay leaf and check seasoning, adding more salt or pepper if needed.",
     "Serve the stew hot, accompanied by toasted rye bread slices on the side.",
     "Enjoy a warm, festive Irish dinner that stays low in calories but high in flavor."
@@ -90,5 +90,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Fresh Tender",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ]
 }

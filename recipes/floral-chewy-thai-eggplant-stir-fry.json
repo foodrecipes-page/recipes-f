@@ -45,12 +45,12 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C).",
+    "Preheat your oven to 400\u00b0F (205\u00b0C).",
     "Halve the eggplants lengthwise, scoop out the seeds and chop into large cubes.",
     "In a small saucepan, combine the vegetable broth or water with fish sauce if using. Bring to a simmer and reduce by half.",
     "Toss the halved and chopped eggplant cubes in the reduced liquid mixture until evenly coated. Place on a baking sheet lined with parchment paper.",
     "Roast for 20 minutes in the preheated oven, flipping once halfway through cooking. The eggplants should be tender and have a caramelized outer layer.",
-    "While the eggplants are roasting, heat a non-stick skillet over medium-high heat. Add the chopped onions and garlic, sauté until translucent.",
+    "While the eggplants are roasting, heat a non-stick skillet over medium-high heat. Add the chopped onions and garlic, saut\u00e9 until translucent.",
     "If using dried shrimp, toast them in a dry pan for about 1 minute, then crumble them into small pieces and add to the skillet with the onion mixture. Cook for another 2 minutes until fragrant and well combined.",
     "Pour the lime juice over the onions and shrimp mixture. Stir gently to combine, keeping everything slightly warm.",
     "Return the roasted eggplant cubes to the skillet along with any accumulated juices from the baking sheet. Add the grated ginger.",
@@ -70,9 +70,9 @@
   ],
   "nutrition": {
     "calories": 321,
-    "protein": 9.8,
+    "protein": 10,
     "carbs": 50,
-    "fat": 4.6
+    "fat": 5
   },
   "slug": "floral-chewy-thai-eggplant-stir-fry",
   "source": "ollama-qwen2.5:3b",

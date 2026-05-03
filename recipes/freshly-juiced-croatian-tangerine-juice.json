@@ -3,7 +3,7 @@
   "description": "A fresh and refreshing drink perfect for cold days, featuring tender tangerines and canned tomatoes to add a savory twist.",
   "cuisine": "Croatian",
   "diet": null,
-  "meal": "drink",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Freshly squeezed tangerine juice",
@@ -37,8 +37,8 @@
   ],
   "nutrition": {
     "calories": 43,
-    "protein": 0.7,
-    "carbs": 10.5,
+    "protein": 1,
+    "carbs": 10,
     "fat": 0
   },
   "slug": "freshly-juiced-croatian-tangerine-juice",

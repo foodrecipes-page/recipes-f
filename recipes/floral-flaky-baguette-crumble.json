@@ -30,7 +30,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "If using sugar for sweetness, mix it with the vanilla and cloves in a small bowl.",
     "Place sliced baguettes on a baking sheet lined with parchment paper or silicone mat. Spread them lightly with the mixture if desired.",
     "Bake for 8-10 minutes until golden brown.",
@@ -51,7 +51,7 @@
     "calories": 50,
     "protein": 1,
     "carbs": 8,
-    "fat": 0.7
+    "fat": 1
   },
   "slug": "floral-flaky-baguette-crumble",
   "source": "ollama-qwen2.5:3b",

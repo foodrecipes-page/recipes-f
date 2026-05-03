@@ -66,7 +66,7 @@
     {
       "name": "olive oil",
       "amount": "1 tablespoon",
-      "notes": "to sauté"
+      "notes": "to saut\u00e9"
     },
     {
       "name": "salt",
@@ -79,7 +79,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the minced garlic, grated ginger, and chopped onion; sauté until fragrant and translucent, about 3 minutes.",
+    "Add the minced garlic, grated ginger, and chopped onion; saut\u00e9 until fragrant and translucent, about 3 minutes.",
     "Stir in the julienned carrot and cook for another 2 minutes.",
     "Add the fermented soybean paste and mix well to combine flavors.",
     "Pour in the vegetable broth and bring the mixture to a gentle boil.",
@@ -106,5 +106,20 @@
     "mainIngredient": "Pak Choi",
     "descriptor": "Fermented Light",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "lunch"
+  ]
 }

@@ -34,7 +34,7 @@
     },
     {
       "name": "warm water",
-      "amount": "1 cup (40°C)",
+      "amount": "1 cup (40\u00b0C)",
       "notes": "yeast activation"
     },
     {
@@ -74,7 +74,7 @@
     "Fry each fritter for 3-4 minutes per side, or until golden brown and puffed; do not overcrowd the pan.",
     "Remove fritters with a slotted spoon and lay them on paper towels to drain excess butter.",
     "Set aside a few warm fritters for serving; dust the rest lightly with powdered sugar before plating.",
-    "Serve immediately with a drizzle of rose water or a dollop of whipped cream for an extra show‑off touch."
+    "Serve immediately with a drizzle of rose water or a dollop of whipped cream for an extra show\u2011off touch."
   ],
   "slug": "floral-dense-turkish-poppy-seeds-fritters",
   "source": "ocloud-gpt-oss:20b",
@@ -93,5 +93,20 @@
     "mainIngredient": "poppy seeds",
     "descriptor": "Floral Dense",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "turkish",
+    "snack"
+  ]
 }

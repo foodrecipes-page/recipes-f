@@ -5,7 +5,7 @@
   "diet": [
     "dairy-free"
   ],
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Butternut Squash",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Water or Vegetable Stock",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "Date Syrup",
@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (205°C).",
+    "Preheat oven to 400\u00b0F (205\u00b0C).",
     "Cut the Butternut Squash into cubes and toss with olive oil, garlic, tomato paste, water or vegetable stock, and date syrup if using.",
     "Season with salt and pepper. Spread evenly on a baking sheet lined with parchment paper.",
     "Roast in preheated oven for about 25-30 minutes until tender and slightly caramelized.",
@@ -72,5 +72,20 @@
     "mainIngredient": "squash",
     "descriptor": "Garlicky Flaky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "middle-eastern",
+    "dinner"
+  ]
 }

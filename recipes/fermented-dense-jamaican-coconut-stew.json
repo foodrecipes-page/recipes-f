@@ -1,6 +1,6 @@
 {
   "title": "Fermented Dense Jamaican Coconut Stew",
-  "description": "A thick, savory, fermented coconut stew that’s perfect for a hangover cure, packed with sweet potatoes, plantains, and a hearty dose of desiccated coconut.",
+  "description": "A thick, savory, fermented coconut stew thats perfect for a hangover cure, packed with sweet potatoes, plantains, and a hearty dose of desiccated coconut.",
   "cuisine": "Jamaican",
   "diet": [
     "vegetarian",
@@ -59,7 +59,7 @@
   ],
   "instructions": [
     "Soak the desiccated coconut in the fermented coconut water for at least 4 hours or overnight; drain well before use.",
-    "Heat a splash of oil in a large pot and sauté the onion‑garlic‑ginger mix, the Scotch bonnet pepper, and dried thyme until fragrant, about 5 minutes.",
+    "Heat a splash of oil in a large pot and saut\u00e9 the onion\u2011garlic\u2011ginger mix, the Scotch bonnet pepper, and dried thyme until fragrant, about 5 minutes.",
     "Add the diced sweet potato and plantain, cooking for an additional 3 minutes while stirring.",
     "Pour in the coconut milk, vegetable stock, fermented soy sauce, and the soaked coconut; bring the mixture to a gentle boil.",
     "Reduce the heat, cover, and simmer for 25 minutes until the sweet potato and plantain are tender and the stew has thickened.",
@@ -83,5 +83,20 @@
     "mainIngredient": "coconut",
     "descriptor": "Fermented Dense",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "dinner"
+  ]
 }

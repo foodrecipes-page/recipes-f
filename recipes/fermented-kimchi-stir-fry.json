@@ -43,7 +43,7 @@
   ],
   "instructions": [
     "Blend ripe peaches with soy sauce, cornstarch, and water until smooth.",
-    "Sauté garlic powder and paprika in a pan over medium heat.",
+    "Saut\u00e9 garlic powder and paprika in a pan over medium heat.",
     "Add fermented kimchi to the pan, then pour peach mixture over it.",
     "Stir gently for about 3 minutes or until combined and heated through.",
     "Season with salt and serve warm as a snack."
@@ -59,9 +59,9 @@
   ],
   "nutrition": {
     "calories": 98,
-    "protein": 3.6,
-    "carbs": 15.7,
-    "fat": 0.9
+    "protein": 4,
+    "carbs": 16,
+    "fat": 1
   },
   "slug": "fermented-kimchi-stir-fry",
   "source": "ollama-qwen2.5:3b",

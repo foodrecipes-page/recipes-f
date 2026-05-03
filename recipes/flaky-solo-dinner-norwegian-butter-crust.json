@@ -25,7 +25,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (218°C).",
+    "Preheat your oven to 425\u00b0F (218\u00b0C).",
     "Combine butter, icing sugar, and flour in a mixing bowl. Mix until a dough forms.",
     "Sprinkle the dry ingredients over the butter mixture and mix again until combined thoroughly.",
     "Transfer the mixture to an ungreased baking dish, pressing it down evenly to form a crust.",
@@ -44,9 +44,9 @@
   ],
   "nutrition": {
     "calories": 284,
-    "protein": 2.6,
-    "carbs": 15.7,
-    "fat": 19.3
+    "protein": 3,
+    "carbs": 16,
+    "fat": 19
   },
   "slug": "flaky-solo-dinner-norwegian-butter-crust",
   "source": "ollama-qwen2.5:3b",

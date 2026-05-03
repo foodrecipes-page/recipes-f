@@ -42,13 +42,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (220°C).",
+    "Preheat your oven to 425\u00b0F (220\u00b0C).",
     "Toss chicken thighs with salt, ground white pepper, and a drizzle of olive oil. Roast for about 20-25 minutes or until fully cooked.",
     "While the chicken is roasting, heat 1 tablespoon of unsalted butter in a large skillet over medium-high heat.",
-    "Add sliced red bell pepper and sauté for about 3 minutes until slightly softened.",
+    "Add sliced red bell pepper and saut\u00e9 for about 3 minutes until slightly softened.",
     "Add broccoli florets and cook for another minute to soften slightly.",
     "Remove the chicken from the oven and let it rest. Meanwhile, remove any excess fat from the pan and add remaining 2 tablespoons of unsalted butter.",
-    "Sauté minced garlic in the hot skillet for about 1-2 minutes until fragrant but not browned.",
+    "Saut\u00e9 minced garlic in the hot skillet for about 1-2 minutes until fragrant but not browned.",
     "Pour in cream of mushroom soup and stir well to combine with the buttery mixture. Cook for another minute or until slightly thickened.",
     "Add roasted chicken pieces back into the skillet, allowing them to warm through.",
     "Garnish with extra minced garlic if desired. Serve immediately.",
@@ -71,5 +71,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Freshly Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "filipino",
+    "dinner"
+  ]
 }

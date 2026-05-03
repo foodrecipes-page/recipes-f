@@ -1,6 +1,6 @@
 {
   "title": "Flaky American Corn Fritters",
-  "description": "Crispy, lime‑bright fritters made from sweet corn, chickpea flour, and cornmeal, air‑fried for a quick solo dinner that's jain friendly.",
+  "description": "Crispy, limebright fritters made from sweet corn, chickpea flour, and cornmeal, airfried for a quick solo dinner that's jain friendly.",
   "cuisine": "American",
   "diet": [
     "vegan",
@@ -55,10 +55,10 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 200°C (400°F).",
+    "Preheat your air fryer to 200\u00b0C (400\u00b0F).",
     "In a large bowl whisk together chickpea flour, cornmeal, baking powder, cumin, salt, pepper, and lime zest until well combined.",
     "Add the corn kernels to the dry mix and stir to coat.",
-    "Pour in lime juice, water, and mix until a thick, loose batter forms—add a little more water if it feels too dry.",
+    "Pour in lime juice, water, and mix until a thick, loose batter forms\u2014add a little more water if it feels too dry.",
     "Lightly spray the air fryer basket with oil spray. Spoon about 2 tablespoons of batter for each fritter, arranging them in a single layer.",
     "Air fry for 10 minutes, flipping halfway through, until the fritters are golden and crisp.",
     "Remove from the air fryer and let them cool for a minute before serving.",
@@ -81,5 +81,20 @@
     "mainIngredient": "Corn",
     "descriptor": "Flaky",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "american",
+    "dinner"
+  ]
 }

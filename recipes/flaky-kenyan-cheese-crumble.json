@@ -26,7 +26,7 @@
     }
   ],
   "instructions": [
-    "Preheat your tandoor or oven to 275°F (135°C).",
+    "Preheat your tandoor or oven to 275\u00b0F (135\u00b0C).",
     "In a bowl, mix together the shredded cheese, salt, pepper, and minced garlic.",
     "Gently shape the cheese into small patties, about 1-inch in diameter.",
     "Place the cheese slices on a lined baking sheet. Bake for 20 minutes or until golden brown and crispy.",
@@ -45,9 +45,9 @@
   ],
   "nutrition": {
     "calories": 137,
-    "protein": 8.4,
-    "carbs": 10.2,
-    "fat": 5.9
+    "protein": 8,
+    "carbs": 10,
+    "fat": 6
   },
   "slug": "flaky-kenyan-cheese-crumble",
   "source": "ollama-qwen2.5:3b",

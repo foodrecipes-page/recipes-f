@@ -33,7 +33,7 @@
     "Gradually add cold water while mixing with your hands until the dough comes together.",
     "Transfer the dough to an oiled surface and knead for about 5 minutes until smooth.",
     "Place the dough in a lightly greased container and cover it. Let it rise at room temperature for approximately 2 hours or until doubled in size.",
-    "Preheat oven to 375°F (190°C). Divide risen dough into small balls, shape them into crumbles, then flatten slightly using your fingers.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Divide risen dough into small balls, shape them into crumbles, then flatten slightly using your fingers.",
     "Sprinkle chopped dill and salt over the flattened yeast crumbles.",
     "Bake for about 20-25 minutes or until golden brown. Do not open oven during baking process as it might cause the crumble to collapse.",
     "Let cool before serving."
@@ -50,9 +50,9 @@
   ],
   "nutrition": {
     "calories": 173,
-    "protein": 2.9,
+    "protein": 3,
     "carbs": 28,
-    "fat": 4.6
+    "fat": 5
   },
   "slug": "fermented-crispy-yeast-crumble",
   "source": "ollama-qwen2.5:3b",

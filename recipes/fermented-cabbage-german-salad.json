@@ -3,7 +3,7 @@
   "description": "This sensational dish features raw vegetables fermented to a velvety texture and served with a tangy dressing for a show-off German take on salads.",
   "cuisine": "German",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Cabbage",
@@ -44,9 +44,9 @@
   ],
   "nutrition": {
     "calories": 25,
-    "protein": 0.9,
-    "carbs": 7.3,
-    "fat": 0.1
+    "protein": 1,
+    "carbs": 7,
+    "fat": 0
   },
   "slug": "fermented-cabbage-german-salad",
   "source": "ollama-qwen2.5:3b",

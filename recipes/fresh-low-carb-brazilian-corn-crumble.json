@@ -1,6 +1,6 @@
 {
   "title": "Fresh Low Carb Brazilian Corn Crumble",
-  "description": "A breezy, keto-friendly twist on a classic Brazilian corn casserole, using fresh low‑carb ingredients and a creamy, caramelized topping.",
+  "description": "A breezy, keto-friendly twist on a classic Brazilian corn casserole, using fresh lowcarb ingredients and a creamy, caramelized topping.",
   "cuisine": "Brazilian",
   "diet": [
     "keto",
@@ -14,7 +14,7 @@
       "notes": "from 1 medium ear"
     },
     {
-      "name": "Full‑fat coconut milk",
+      "name": "Full\u2011fat coconut milk",
       "amount": "1/2 cup",
       "notes": "canned, unsweetened"
     },
@@ -59,7 +59,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "In a small pot, gently heat coconut milk until warm, then remove from heat.",
     "In a bowl, beat the egg and add erythritol, salt, lemon zest, and mint leaves.",
     "Stir in the softened cream cheese until fully blended.",
@@ -68,7 +68,7 @@
     "Transfer the mixture to a lightly greased 8-inch square baking dish and spread evenly.",
     "Sprinkle the reserved corn and chopped almonds on top.",
     "Dot the surface with small pieces of butter.",
-    "Bake for 20–22 minutes, or until the top is golden and the filling is set.",
+    "Bake for 20\u201322 minutes, or until the top is golden and the filling is set.",
     "Let cool for 5 minutes before slicing and serving."
   ],
   "slug": "fresh-low-carb-brazilian-corn-crumble",
@@ -88,5 +88,20 @@
     "mainIngredient": "Corn",
     "descriptor": "Fresh Low Carb",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "dessert"
+  ]
 }

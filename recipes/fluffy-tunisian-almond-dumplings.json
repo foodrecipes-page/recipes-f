@@ -1,10 +1,10 @@
 {
   "title": "Fluffy Tunisian Almond Dumplings",
-  "description": "Nutty, fluffy, kid‑friendly Tunisian dumplings infused with Thai green curry paste, cooked sous‑vide for a tender interior and finished in a quick sauté for a golden crust—low‑carb and easy to scale.",
+  "description": "Nutty, fluffy, kidfriendly Tunisian dumplings infused with Thai green curry paste, cooked sousvide for a tender interior and finished in a quick saute for a golden crust-lowcarb and easy to scale.",
   "cuisine": "tunisian-thai fusion",
   "diet": [
     "low-carb",
-    "gluten‑free",
+    "gluten\u2011free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -43,16 +43,16 @@
     }
   ],
   "instructions": [
-    "Preheat sous‑vide bath to 85 °C (185 °F).",
+    "Preheat sous\u2011vide bath to 85\u202f\u00b0C (185\u202f\u00b0F).",
     "Whisk the eggs with coconut oil until creamy.",
     "Stir in Thai green curry paste and lemon zest.",
     "Add almond flour and salt; mix until a shaggy dough forms.",
     "Gradually pour in cold water, a tablespoon at a time, until the dough is smooth, supple, and just cohesive.",
-    "Divide dough into 24 equal portions (~10 g each) and roll each into a small ball.",
-    "Place each ball into an individual vacuum‑sealed bag with a teaspoon of water to keep it from drying.",
-    "Vacuum seal the bags. Sous‑vide for 30 minutes. The dumplings will puff slightly as they cook.",
-    "Remove the bags, pat the dumplings dry with paper towels, then lightly sauté in a non‑stick pan with a splash of coconut oil until golden and airy—about 2 minutes per side.",
-    "Serve warm, garnished with chopped cilantro or a dollop of low‑fat Greek yogurt."
+    "Divide dough into 24 equal portions (~10\u202fg each) and roll each into a small ball.",
+    "Place each ball into an individual vacuum\u2011sealed bag with a teaspoon of water to keep it from drying.",
+    "Vacuum seal the bags. Sous\u2011vide for 30\u202fminutes. The dumplings will puff slightly as they cook.",
+    "Remove the bags, pat the dumplings dry with paper towels, then lightly saut\u00e9 in a non\u2011stick pan with a splash of coconut oil until golden and airy\u2014about 2\u202fminutes per side.",
+    "Serve warm, garnished with chopped cilantro or a dollop of low\u2011fat Greek yogurt."
   ],
   "slug": "fluffy-tunisian-almond-dumplings",
   "source": "ocloud-gpt-oss:20b",
@@ -71,5 +71,20 @@
     "mainIngredient": "almonds",
     "descriptor": "Fluffy",
     "dishForm": "Dumplings"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian-thai-fusion",
+    "lunch"
+  ]
 }

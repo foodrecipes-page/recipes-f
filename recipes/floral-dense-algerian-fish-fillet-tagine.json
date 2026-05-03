@@ -81,9 +81,9 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
     "Prepare the spice blend by mixing cumin seeds, coriander seeds, turmeric, cinnamon, and paprika in a small bowl.",
-    "Heat ghee in the bottom of a tagine over medium heat. Add coconut oil and sauté the sliced onions until golden brown.",
+    "Heat ghee in the bottom of a tagine over medium heat. Add coconut oil and saut\u00e9 the sliced onions until golden brown.",
     "Add the minced garlic and grated ginger to the onions and cook for another minute.",
     "Add the toasted spice blend to the onions and stir for 1 minute.",
     "Add the fish fillets to the spice mixture and cook for 2-3 minutes on each side.",
@@ -107,9 +107,9 @@
   ],
   "nutrition": {
     "calories": 360,
-    "protein": "35g",
-    "carbs": "20g",
-    "fat": "15g"
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
   },
   "slug": "floral-dense-algerian-fish-fillet-tagine",
   "source": "groq-llama-3.1-8b-instant",

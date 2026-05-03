@@ -64,7 +64,7 @@
   "instructions": [
     "Heat the oil in a large skillet over medium heat.",
     "Add cumin and fennel seeds and toast until fragrant, about 30 seconds.",
-    "Add the diced onions and sauté, stirring frequently, until they begin to soften and turn translucent.",
+    "Add the diced onions and saut\u00e9, stirring frequently, until they begin to soften and turn translucent.",
     "Cook the onions, stirring occasionally, until they are deep caramelized and golden brown, about 15 minutes.",
     "Add turmeric, black pepper, dried mango powder, chili flakes, hing, and dried rose petals. Stir to combine and cook for another 2 minutes to bloom the spices.",
     "Reduce heat to low, then stir in lemon zest and chopped cilantro. Let the mixture cool to room temperature; it will naturally separate into a crumbly texture as it cools.",
@@ -87,5 +87,20 @@
     "mainIngredient": "onion",
     "descriptor": "Fragrant",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "snack"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Flaky Floral Indian Coconut Soup",
-  "description": "A fragrant, silky soup blending coconut milk, red lentils, and rose petals, finished with flaky toasted coconut for a subtle crunch—ideal for a cozy date night.",
+  "description": "A fragrant, silky soup blending coconut milk, red lentils, and rose petals, finished with flaky toasted coconut for a subtle crunch-ideal for a cozy date night.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian"
@@ -18,7 +18,7 @@
     },
     {
       "name": "red lentils",
-      "amount": "½ cup",
+      "amount": "\u00bd cup",
       "notes": "rinsed"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "toasted coconut flakes",
-      "amount": "¼ cup",
+      "amount": "\u00bc cup",
       "notes": "flaky texture"
     },
     {
@@ -58,9 +58,9 @@
     }
   ],
   "instructions": [
-    "In the pressure cooker, sauté garlic and ginger on sauté mode until fragrant, about 2 minutes.",
+    "In the pressure cooker, saut\u00e9 garlic and ginger on saut\u00e9 mode until fragrant, about 2 minutes.",
     "Add cherry tomatoes, red lentils, and vegetable stock; stir to combine.",
-    "Season with salt, pepper, turmeric (½ tsp), cumin powder (1 tsp), garam masala (1 tsp), and chili flakes (½ tsp).",
+    "Season with salt, pepper, turmeric (\u00bd tsp), cumin powder (1 tsp), garam masala (1 tsp), and chili flakes (\u00bd tsp).",
     "Close the lid, set the pressure cooker to high pressure for 5 minutes, then allow a natural release for 10 minutes.",
     "Turn off the cooker and stir in coconut milk, lemon juice, and cilantro; adjust seasoning if needed.",
     "Serve hot, garnished with toasted coconut flakes and a scattering of edible rose petals for a floral finish.",
@@ -83,5 +83,20 @@
     "mainIngredient": "Coconut",
     "descriptor": "Flaky Floral",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "dinner"
+  ]
 }

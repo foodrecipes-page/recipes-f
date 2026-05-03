@@ -44,10 +44,10 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 200°C (392°F).",
+    "Preheat your oven to 200\u00b0C (392\u00b0F).",
     "Mix the fermented freekeh with olive oil in a bowl.",
     "Spread evenly on a baking sheet lined with parchment paper. Bake for 15 minutes until crispy and golden brown.",
-    "In a large pan, heat up the olive oil over medium heat. Add onions and garlic, sautéing for about 3-4 minutes until they soften.",
+    "In a large pan, heat up the olive oil over medium heat. Add onions and garlic, saut\u00e9ing for about 3-4 minutes until they soften.",
     "Stir in the freekeh that has just come out of the oven and continue cooking for another minute.",
     "Add cherry tomatoes to the pan with some salt and pepper. Cook for an additional 2 minutes.",
     "Fold in parsley and feta cheese, allowing everything to heat through together for about a minute more.",
@@ -113,7 +113,7 @@
         ],
         "instructions": [
           {
-            "step": "Preheat your oven to 200°C (392°F).",
+            "step": "Preheat your oven to 200\u00b0C (392\u00b0F).",
             "notes": "Ensure the fermented freekeh is properly aged for a good fermentation taste."
           },
           {
@@ -121,7 +121,7 @@
             "notes": "Spread evenly on a baking sheet lined with parchment paper. Bake for 15 minutes until crispy and golden brown."
           },
           {
-            "step": "In a large pan, heat up the olive oil over medium heat. Add onions and garlic, sautéing for about 3-4 minutes until they soften.",
+            "step": "In a large pan, heat up the olive oil over medium heat. Add onions and garlic, saut\u00e9ing for about 3-4 minutes until they soften.",
             "notes": ""
           },
           {
@@ -172,5 +172,20 @@
     "mainIngredient": "Freekeh",
     "descriptor": "Fermented Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ]
 }

@@ -8,7 +8,7 @@
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "all‑purpose flour",
+      "name": "all\u2011purpose flour",
       "amount": "2 cups",
       "notes": "plus extra for dusting"
     },
@@ -51,10 +51,10 @@
   "instructions": [
     "In a large bowl whisk together flour, sugar, baking powder and salt.",
     "Create a well in the center and pour in warm milk, melted butter and yogurt; stir until a sticky dough forms.",
-    "Transfer the dough onto a floured surface and knead gently for 1–2 minutes until it just comes together.",
+    "Transfer the dough onto a floured surface and knead gently for 1\u20132 minutes until it just comes together.",
     "Divide the dough into 8 equal portions and roll each into a thin oval, about 1/4 inch thick.",
-    "Heat a lightly oiled cast‑iron skillet or griddle over medium heat; cook each flatbread for 2–3 minutes per side or until golden and slightly crisp.",
-    "Remove from heat, sprinkle both sides with sesame seeds, then slice into bite‑size pieces.",
+    "Heat a lightly oiled cast\u2011iron skillet or griddle over medium heat; cook each flatbread for 2\u20133 minutes per side or until golden and slightly crisp.",
+    "Remove from heat, sprinkle both sides with sesame seeds, then slice into bite\u2011size pieces.",
     "Serve warm as a sweet snack or dessert.",
     "Enjoy the crunchy, sweet, and tangy flavors that kids will love!"
   ],
@@ -72,9 +72,9 @@
   ],
   "nutrition": {
     "calories": 282,
-    "protein": 4.8,
+    "protein": 5,
     "carbs": 22,
-    "fat": 5.6
+    "fat": 6
   },
   "slug": "flaky-sweet-thai-sesame-flatbread",
   "source": "ocloud-gpt-oss:20b",

@@ -1,6 +1,6 @@
 {
   "title": "Fermented Silky Peruvian Beets Stew",
-  "description": "A creamy, fermented beet stew inspired by Peruvian flavors, slow‑cooked to silky perfection. This vegan dish balances tangy beet juice with aromatic spices for a crowd‑pleaser.",
+  "description": "A creamy, fermented beet stew inspired by Peruvian flavors, slowcooked to silky perfection. This vegan dish balances tangy beet juice with aromatic spices for a crowdpleaser.",
   "cuisine": "Peruvian",
   "diet": [
     "vegan"
@@ -40,12 +40,12 @@
     {
       "name": "vegetable broth",
       "amount": "2 cups (480ml)",
-      "notes": "low‑sodium"
+      "notes": "low\u2011sodium"
     },
     {
       "name": "tamari or soy sauce",
       "amount": "1 tbsp (15ml)",
-      "notes": "use tamari for gluten‑free"
+      "notes": "use tamari for gluten\u2011free"
     },
     {
       "name": "smoked paprika",
@@ -70,11 +70,11 @@
   ],
   "instructions": [
     "Wash and peel the beets, carrot, and onion. Dice the onion, mince the garlic, and grate the ginger.",
-    "Heat the olive oil in a large pot over medium heat. Add the onion, garlic, and ginger and sauté for 3–4 minutes until softened and fragrant.",
+    "Heat the olive oil in a large pot over medium heat. Add the onion, garlic, and ginger and saut\u00e9 for 3\u20134 minutes until softened and fragrant.",
     "Add the cubed beets and sliced carrot to the pot. Stir and cook for about 5 minutes to lightly caramelize the vegetables.",
     "Stir in the smoked paprika, tamari, and fermented beet juice, mixing well so the spices coat the vegetables.",
-    "Pour in the vegetable broth, bring the mixture to a gentle simmer, cover, and reduce the heat to low. Slow‑cook for 45 minutes, stirring occasionally, until the beets are tender.",
-    "If the beets need more time, continue simmering an additional 10–15 minutes. Do not over‑cook; the beets should remain slightly firm for texture.",
+    "Pour in the vegetable broth, bring the mixture to a gentle simmer, cover, and reduce the heat to low. Slow\u2011cook for 45 minutes, stirring occasionally, until the beets are tender.",
+    "If the beets need more time, continue simmering an additional 10\u201315 minutes. Do not over\u2011cook; the beets should remain slightly firm for texture.",
     "Remove the pot from heat and stir in the nutritional yeast until fully incorporated. Let the stew rest for 10 minutes, allowing the flavors to meld.",
     "Just before serving, sprinkle chopped cilantro over the top for a fresh, herbal finish.",
     "Serve the stew hot, accompanied by crusty bread or a side of quinoa if desired."
@@ -96,5 +96,20 @@
     "mainIngredient": "Beets",
     "descriptor": "Fermented Silky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "dinner"
+  ]
 }

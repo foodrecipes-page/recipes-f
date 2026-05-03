@@ -1,6 +1,6 @@
 {
   "title": "Fresh Crispy Chettinad Sprouts Salad",
-  "description": "A monsoon‑inspired, air‑fried sprout salad packed with fiery Chettinad flavors, fresh herbs and a zesty ginger paste dressing.",
+  "description": "A monsooninspired, airfried sprout salad packed with fiery Chettinad flavors, fresh herbs and a zesty ginger paste dressing.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
@@ -16,7 +16,7 @@
     {
       "name": "Red bell pepper",
       "amount": "1/2 medium",
-      "notes": "diced into bite‑sized pieces"
+      "notes": "diced into bite\u2011sized pieces"
     },
     {
       "name": "Yellow onion",
@@ -46,7 +46,7 @@
     {
       "name": "Ginger paste",
       "amount": "1 tsp",
-      "notes": "homemade or store‑bought"
+      "notes": "homemade or store\u2011bought"
     },
     {
       "name": "Red chili powder",
@@ -71,13 +71,13 @@
     {
       "name": "Mustard seeds",
       "amount": "1/2 tsp",
-      "notes": "to be tossed in the air‑fry"
+      "notes": "to be tossed in the air\u2011fry"
     }
   ],
   "instructions": [
-    "Preheat the air fryer to 200 °C (400 °F).",
-    "Lightly toss the sliced onion and bell pepper with 1 tbsp oil, cumin seeds, mustard seeds, salt and pepper. Air‑fry for 5–6 minutes until crisp, stirring halfway. Set aside to cool slightly.",
-    "In a large bowl, combine the raw sprouts, cooled air‑fried veggies, roasted coconut flakes, mint and cilantro.",
+    "Preheat the air fryer to 200\u202f\u00b0C (400\u202f\u00b0F).",
+    "Lightly toss the sliced onion and bell pepper with 1 tbsp oil, cumin seeds, mustard seeds, salt and pepper. Air\u2011fry for 5\u20136\u202fminutes until crisp, stirring halfway. Set aside to cool slightly.",
+    "In a large bowl, combine the raw sprouts, cooled air\u2011fried veggies, roasted coconut flakes, mint and cilantro.",
     "Whisk together lemon juice, ginger paste, red chili powder and a dash of salt to make the dressing. Pour over the salad and toss gently to coat.",
     "Sprinkle the toasted coconut flakes and a sprinkling of extra black pepper on top. Serve immediately for maximum crunch."
   ],
@@ -98,5 +98,20 @@
     "mainIngredient": "sprouts",
     "descriptor": "Fresh Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "lunch"
+  ]
 }

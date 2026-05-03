@@ -5,7 +5,7 @@
   "diet": [
     "diabetic-friendly"
   ],
-  "meal": "main-course",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Ham",
@@ -33,10 +33,10 @@
     }
   ],
   "instructions": [
-    "Sous-vide the ham at a temperature of 135°F for about 2 hours.",
+    "Sous-vide the ham at a temperature of 135\u00b0F for about 2 hours.",
     "Remove the cooked ham from the bag and let it cool slightly.",
     "Chop fresh herbs like thyme and rosemary finely.",
-    "In a pan, heat olive oil over medium-high heat. Add chopped herbs and sauté until fragrant, around 1-2 minutes.",
+    "In a pan, heat olive oil over medium-high heat. Add chopped herbs and saut\u00e9 until fragrant, around 1-2 minutes.",
     "Add soy sauce, garlic powder, ham, and diabetic-friendly flavored condiments to the pan. Stir-fry for an additional minute or two until well combined.",
     "Serve hot as a main course."
   ],

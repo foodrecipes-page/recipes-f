@@ -3,7 +3,7 @@
   "description": "Rich and flaky rice flour pancakes with a touch of Italian spices for a delightful brunch dish that's gluten-free-friendly.",
   "cuisine": "Italian",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Rice Flour",
@@ -15,11 +15,11 @@
     },
     {
       "name": "Salt",
-      "amount": "½ teaspoon"
+      "amount": "\u00bd teaspoon"
     },
     {
       "name": "Butter",
-      "amount": "¼ cup"
+      "amount": "\u00bc cup"
     },
     {
       "name": "Milk",
@@ -39,11 +39,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a large bowl, mix rice flour, baking powder, and salt. Add butter and milk, stirring until a smooth batter forms.",
     "Whisk in eggs and tomato paste; ensure the mixture is well combined without any lumps.",
     "Heat olive oil lightly on a skillet over medium heat. Pour about 1/4 cup of batter per pancake into hot skillet for each pancake. Cook for about 2-3 minutes until golden brown, flip and cook another minute.",
-    "Place cooked pancakes on a baking sheet lined with parchment paper or a silicone mat in an oven-proof dish to bake together at 350°F (175°C) for 10-12 minutes or until they're fully baked.",
+    "Place cooked pancakes on a baking sheet lined with parchment paper or a silicone mat in an oven-proof dish to bake together at 350\u00b0F (175\u00b0C) for 10-12 minutes or until they're fully baked.",
     "Serve hot as desired."
   ],
   "prepTimeMin": 20,
@@ -59,7 +59,7 @@
   ],
   "nutrition": {
     "calories": 345,
-    "protein": 9.6,
+    "protein": 10,
     "carbs": 40,
     "fat": 12
   },

@@ -1,7 +1,7 @@
 {
   "title": "Halal-friendly Fishito de Solo",
   "description": "A halal-friendly solo dinner dish featuring fermented and crumbly fish seasoning, perfect for a quick meal.",
-  "cuisine": "mexican (norteño)",
+  "cuisine": "mexican (norteno)",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
@@ -45,7 +45,7 @@
     "Add minced garlic and grated ginger to the mixture.",
     "Mix well until all ingredients are evenly distributed on the fish.",
     "Place the seasoned fish onto a non-stick or parchment-lined baking sheet.",
-    "Broil the fish at 375°F (190°C) for about 20 minutes, turning once halfway through cooking time.",
+    "Broil the fish at 375\u00b0F (190\u00b0C) for about 20 minutes, turning once halfway through cooking time.",
     "Once done, remove from heat and allow to cool slightly before serving."
   ],
   "prepTimeMin": 15,
@@ -58,7 +58,7 @@
     "fermented",
     "crumbly",
     "solo-dinner",
-    "mexican-norteño",
+    "mexican-norteno",
     "halal-friendly"
   ],
   "nutrition": {
@@ -79,6 +79,6 @@
     "technique": "broil",
     "primaryIngredient": "fish seasoning",
     "diet": "halal",
-    "region": "norteño"
+    "region": "norte\u00f1o"
   }
 }

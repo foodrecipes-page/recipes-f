@@ -8,8 +8,8 @@
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "Low‑fat Greek yogurt",
-      "amount": "½ cup",
+      "name": "Low\u2011fat Greek yogurt",
+      "amount": "\u00bd cup",
       "notes": "freshly fermented"
     },
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "Fresh lemon zest",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "adds brightness"
     },
     {
       "name": "Sea salt",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": "to taste"
     },
     {
@@ -55,7 +55,7 @@
     "Arrange the mixed berries on top of the yogurt mixture.",
     "Scatter the chopped almonds over the berries for added texture.",
     "Cover and chill in the refrigerator for 10 minutes to let flavors meld.",
-    "Serve chilled for a refreshing, brunch‑ready treat."
+    "Serve chilled for a refreshing, brunch\u2011ready treat."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
@@ -68,7 +68,7 @@
     "juicy",
     "low-fat",
     "sea-salt",
-    "Greek-yogurt",
+    "greek-yogurt",
     "no-cook"
   ],
   "nutrition": {

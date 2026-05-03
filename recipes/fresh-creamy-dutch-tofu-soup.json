@@ -1,6 +1,6 @@
 {
   "title": "Fresh Creamy Dutch Tofu Soup",
-  "description": "A silky one‑pot Dutch‑style soup that blends silken tofu, rich soy milk, and aromatic spices into a fresh, creamy delight.",
+  "description": "A silky onepot Dutchstyle soup that blends silken tofu, rich soy milk, and aromatic spices into a fresh, creamy delight.",
   "cuisine": "Dutch",
   "diet": [
     "vegetarian",
@@ -46,11 +46,11 @@
     },
     {
       "name": "Salt, kosher",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Black pepper",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "Lemon juice",
@@ -58,7 +58,7 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a Dutch oven over medium heat and sauté onion, garlic, carrot, and celery until softened, about 5 minutes.",
+    "Heat olive oil in a Dutch oven over medium heat and saut\u00e9 onion, garlic, carrot, and celery until softened, about 5 minutes.",
     "Add turmeric, curry powder, salt, and pepper; stir for 1 minute to toast the spices.",
     "Pour in soy milk and bring to a gentle simmer, stirring occasionally to prevent sticking.",
     "Gently fold in the silken tofu cubes, then simmer uncovered for 10 minutes, letting the flavors meld.",
@@ -82,5 +82,20 @@
     "mainIngredient": "tofu",
     "descriptor": "Fresh Creamy",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "dutch",
+    "dinner"
+  ]
 }

@@ -34,7 +34,7 @@
     "Melt the unsalted butter in a small pan over medium heat.",
     "Add tangerine peel, ketchup, rice vinegar, and soy sauce to the melted butter. Stir well until combined.",
     "Pour the mixture onto a lightly greased baking sheet.",
-    "Bake at 375°F for about 20-25 minutes or until golden brown.",
+    "Bake at 375\u00b0F for about 20-25 minutes or until golden brown.",
     "Let it cool before cutting into small pieces."
   ],
   "prepTimeMin": 10,
@@ -51,9 +51,9 @@
   ],
   "nutrition": {
     "calories": 236,
-    "protein": 5.7,
-    "carbs": 18.9,
-    "fat": 14.8
+    "protein": 6,
+    "carbs": 19,
+    "fat": 15
   },
   "slug": "flaky-japanese-tangerine-peel-crumble",
   "source": "ollama-qwen2.5:3b",

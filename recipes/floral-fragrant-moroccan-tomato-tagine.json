@@ -10,7 +10,7 @@
     {
       "name": "olive oil",
       "amount": "2 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "medium onion",
@@ -81,7 +81,7 @@
   "instructions": [
     "Heat olive oil in a tagine or deep skillet over medium heat.",
     "Add diced onion and cook until translucent, about 3 minutes.",
-    "Stir in minced garlic, dried rose petals, cumin, coriander, smoked paprika, and turmeric; sauté for 1 minute until fragrant.",
+    "Stir in minced garlic, dried rose petals, cumin, coriander, smoked paprika, and turmeric; saut\u00e9 for 1 minute until fragrant.",
     "Add crushed tomatoes and vegetable broth, season with salt and pepper, and bring to a gentle simmer.",
     "Reduce heat to low, cover, and cook for 15 minutes, allowing flavors to meld.",
     "Stir in chopped parsley and a splash of orange blossom water; simmer uncovered for another 5 minutes.",
@@ -105,5 +105,20 @@
     "mainIngredient": "Tomato",
     "descriptor": "Floral Fragrant",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "moroccan",
+    "dinner"
+  ]
 }

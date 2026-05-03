@@ -1,6 +1,6 @@
 {
   "title": "Fresh Flaky Thai Yellow Masarepa Bowl",
-  "description": "A light, steam‑cooked bowl featuring yellow masa harina tortillas topped with a zesty lime‑fish sauce dressing, fresh shredded veggies, and pickled radish—perfectly FODMAP‑friendly.",
+  "description": "A light, steamcooked bowl featuring yellow masa harina tortillas topped with a zesty limefish sauce dressing, fresh shredded veggies, and pickled radish-perfectly FODMAPfriendly.",
   "cuisine": "Thai",
   "diet": [
     "vegetarian"
@@ -65,7 +65,7 @@
     "Steam the masa discs in a steamer basket over boiling water for 5 minutes until cooked through.",
     "While the masa is steaming, whisk together lime zest, lime juice, fish sauce, and chili flakes to make a quick dressing.",
     "Toss the shredded vegetables with the dressing until evenly coated.",
-    "When the masa is ready, cut each disc into bite‑sized squares.",
+    "When the masa is ready, cut each disc into bite\u2011sized squares.",
     "Arrange the masa squares in the bottom of a bowl, then top with the dressed vegetables and pickled radish.",
     "Garnish with chopped cilantro and serve immediately."
   ],
@@ -86,5 +86,20 @@
     "mainIngredient": "yellow masarepa",
     "descriptor": "Fresh Flaky",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "lunch"
+  ]
 }

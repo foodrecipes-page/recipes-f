@@ -21,10 +21,10 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 65°C.",
+    "Preheat your sous-vide machine to 65\u00b0C.",
     "Chop the pecorino cheese into small cubes and mix with a bit of sugar-free sweetener (if using) and salt.",
     "Place the cheese mixture in a sous-vive bag and seal it tightly. Vacuum sealing is optional but recommended for even cooking.",
-    "Cook the sealed sous-vide bag for 1 hour at 65°C.",
+    "Cook the sealed sous-vide bag for 1 hour at 65\u00b0C.",
     "Let cool down to room temperature, then use your fingers or a fork to break up the cheese into a crumbly consistency.",
     "Store in an airtight container and refrigerate until ready to serve."
   ],
@@ -42,9 +42,9 @@
   ],
   "nutrition": {
     "calories": 285,
-    "protein": 9.46,
-    "carbs": 10.37,
-    "fat": 15.8
+    "protein": 9,
+    "carbs": 10,
+    "fat": 16
   },
   "slug": "fermented-pecorino-crumble",
   "source": "ollama-qwen2.5:3b",

@@ -1,55 +1,50 @@
 {
-  "title": "Five Flavor Fun果香五香",
-  "description": "这道甜美的果香五香适合孩子们尝试，主要使用五香粉、少量的调料和水果制成，既有趣又健康。",
-  "cuisine": "中国",
+  "title": "Five Flavor Fun",
+  "description": ",,",
+  "cuisine": "",
   "diet": [
     "low-fat-friendly"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "苹果",
-      "amount": "1个中等大小"
+      "name": "\u82f9\u679c",
+      "amount": "1\u4e2a\u4e2d\u7b49\u5927\u5c0f"
     },
     {
-      "name": "香蕉",
-      "amount": "2根"
+      "name": "\u9999\u8549",
+      "amount": "2\u6839"
     },
     {
-      "name": "蜂蜜",
-      "amount": "适量"
+      "name": "\u8702\u871c",
+      "amount": "\u9002\u91cf"
     },
     {
-      "name": "五香粉",
-      "amount": "一小茶匙"
+      "name": "\u4e94\u9999\u7c89",
+      "amount": "\u4e00\u5c0f\u8336\u5319"
     },
     {
-      "name": "柠檬汁",
-      "amount": "数滴"
+      "name": "\u67e0\u6aac\u6c41",
+      "amount": "\u6570\u6ef4"
     },
     {
-      "name": "苹果醋",
-      "amount": "半茶匙"
+      "name": "\u82f9\u679c\u918b",
+      "amount": "\u534a\u8336\u5319"
     }
   ],
   "instructions": [
-    "清洗并去皮苹果和香蕉。",
-    "将香蕉切成小块，用蜂蜜稍微腌制10分钟。",
-    "取一半的五香粉撒在香蕉上，然后均匀涂抹柠檬汁和苹果醋。",
-    "将果酱放入烤盘中，在350°F（约175°C）预热的烤箱中烘烤大约15-20分钟。",
-    "待冷却后即可食用。"
+    "\u6e05\u6d17\u5e76\u53bb\u76ae\u82f9\u679c\u548c\u9999\u8549\u3002",
+    "\u5c06\u9999\u8549\u5207\u6210\u5c0f\u5757\uff0c\u7528\u8702\u871c\u7a0d\u5fae\u814c\u523610\u5206\u949f\u3002",
+    "\u53d6\u4e00\u534a\u7684\u4e94\u9999\u7c89\u6492\u5728\u9999\u8549\u4e0a\uff0c\u7136\u540e\u5747\u5300\u6d82\u62b9\u67e0\u6aac\u6c41\u548c\u82f9\u679c\u918b\u3002",
+    "\u5c06\u679c\u9171\u653e\u5165\u70e4\u76d8\u4e2d\uff0c\u5728350\u00b0F\uff08\u7ea6175\u00b0C\uff09\u9884\u70ed\u7684\u70e4\u7bb1\u4e2d\u70d8\u70e4\u5927\u7ea615-20\u5206\u949f\u3002",
+    "\u5f85\u51b7\u5374\u540e\u5373\u53ef\u98df\u7528\u3002"
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
   "totalTimeMin": 30,
   "servings": 4,
   "difficulty": "easy",
-  "tags": [
-    "五香粉",
-    "果酱",
-    "低脂食品",
-    "健康"
-  ],
+  "tags": [],
   "nutrition": {
     "calories": 80,
     "protein": 2,

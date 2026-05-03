@@ -1,6 +1,6 @@
 {
   "title": "Fresh Broiled Vietnamese Tomatoes Salad",
-  "description": "A light, quick salad featuring charred vine tomatoes tossed in a zesty lime‑fish sauce dressing and topped with toasted sesame seeds.",
+  "description": "A light, quick salad featuring charred vine tomatoes tossed in a zesty limefish sauce dressing and topped with toasted sesame seeds.",
   "cuisine": "Vietnamese",
   "diet": [
     "paleo",
@@ -10,7 +10,7 @@
   "ingredients": [
     {
       "name": "vine tomatoes",
-      "amount": "1 lb (≈ 200 g)",
+      "amount": "1 lb (\u2248 200 g)",
       "notes": "halved"
     },
     {
@@ -53,8 +53,8 @@
   ],
   "instructions": [
     "Preheat the broiler to high and place a broiler pan or baking sheet in the oven.",
-    "Halve the vine tomatoes and drizzle them with 1 tablespoon of olive oil, season with salt and pepper, and arrange cut‑side down on the pan.",
-    "Broil the tomatoes for 4–5 minutes, or until the cut surfaces are lightly charred and the skins blister.",
+    "Halve the vine tomatoes and drizzle them with 1 tablespoon of olive oil, season with salt and pepper, and arrange cut\u2011side down on the pan.",
+    "Broil the tomatoes for 4\u20135 minutes, or until the cut surfaces are lightly charred and the skins blister.",
     "Remove the pan from the oven and let the tomatoes cool slightly.",
     "In a small bowl whisk together lime juice, fish sauce, minced garlic, and chili flakes.",
     "Transfer the broiled tomatoes to a serving bowl and pour the dressing over them, gently tossing to coat.",
@@ -78,5 +78,20 @@
     "mainIngredient": "Tomatoes",
     "descriptor": "Fresh Broiled",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "lunch"
+  ]
 }

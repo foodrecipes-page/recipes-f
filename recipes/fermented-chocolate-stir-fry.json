@@ -40,7 +40,7 @@
     }
   ],
   "instructions": [
-    "Place the dark chocolate in a sous-vide bag and seal it. Cook at 62°C for 8 hours.",
+    "Place the dark chocolate in a sous-vide bag and seal it. Cook at 62\u00b0C for 8 hours.",
     "In a small bowl, mix rice vinegar, salt, soy sauce, lime juice, and fermentation culture together until well combined.",
     "Drain the cooked dark chocolate thoroughly to remove any excess liquid.",
     "Heat olive oil in a wok or large pan over medium-high heat. Add drained dark chocolate and stir-fry for 2 minutes.",
@@ -60,9 +60,9 @@
   ],
   "nutrition": {
     "calories": 651,
-    "protein": 9.8,
-    "carbs": 72.4,
-    "fat": 34.3
+    "protein": 10,
+    "carbs": 72,
+    "fat": 34
   },
   "slug": "fermented-chocolate-stir-fry",
   "source": "ollama-qwen2.5:3b",

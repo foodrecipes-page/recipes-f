@@ -65,7 +65,7 @@
   ],
   "instructions": [
     "Heat coconut oil in a pan over medium heat.",
-    "Add garlic and red pepper, sauté for about 2 minutes or until fragrant.",
+    "Add garlic and red pepper, saut\u00e9 for about 2 minutes or until fragrant.",
     "If using shrimp, add them now and cook until pink.",
     "Stir in turmeric, cumin, and lemon juice. Simmer for another minute.",
     "Garnish with cilantro.",
@@ -100,5 +100,16 @@
     "mainIngredient": "Dum",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
   }
 }

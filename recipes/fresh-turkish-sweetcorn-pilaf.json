@@ -63,7 +63,7 @@
     "Rinse the rice in a fine-mesh strainer and soak in water for 30 minutes.",
     "Drain the rice and set aside.",
     "In a large saucepan, heat the oil over medium-high heat.",
-    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the onion and garlic and saut\u00e9 until the onion is translucent.",
     "Add the soaked rice, salt, and black pepper, and stir to combine.",
     "Add 2 cups of the chicken broth, cover, and bring to a boil.",
     "Reduce the heat to medium-low and simmer for 5 minutes.",
@@ -76,7 +76,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 20,
   "totalTimeMin": 40,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "turkish",
@@ -92,9 +92,9 @@
   ],
   "nutrition": {
     "calories": 420,
-    "protein": "8g",
-    "carbs": "70g",
-    "fat": "6g"
+    "protein": 8,
+    "carbs": 70,
+    "fat": 6
   },
   "slug": "fresh-turkish-sweetcorn-pilaf",
   "source": "groq-llama-3.1-8b-instant",

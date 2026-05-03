@@ -40,7 +40,7 @@
     }
   ],
   "instructions": [
-    "Preheat a wok or frying pan over medium-high heat. Add peanuts and sauté until golden brown.",
+    "Preheat a wok or frying pan over medium-high heat. Add peanuts and saut\u00e9 until golden brown.",
     "Add onions, carrots, and garlic to the pan; cook for about 5 minutes until vegetables are tender.",
     "Stir in jambalaya sauce, chicken broth, and soy sauce. Bring to a boil then reduce heat to low.",
     "Gradually stir in frozen peas, continuing to stir constantly until the mixture thickens slightly.",
@@ -57,9 +57,9 @@
   ],
   "nutrition": {
     "calories": 201,
-    "protein": 7.9,
-    "carbs": 35.6,
-    "fat": 8.4
+    "protein": 8,
+    "carbs": 36,
+    "fat": 8
   },
   "slug": "fluffy-jam-peanut-stir-fry",
   "source": "ollama-qwen2.5:3b",

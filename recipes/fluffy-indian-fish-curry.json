@@ -1,6 +1,6 @@
 {
   "title": "Fluffy Indian Fish Curry",
-  "description": "A savory one‑pot curry that keeps fish light and fluffy, accented with toasted coconut flakes and a gentle steam finish.",
+  "description": "A savory onepot curry that keeps fish light and fluffy, accented with toasted coconut flakes and a gentle steam finish.",
   "cuisine": "Indian",
   "diet": [
     "pescatarian"
@@ -41,11 +41,11 @@
     },
     {
       "name": "Cumin seeds",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Garam masala",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Salt",
@@ -58,13 +58,13 @@
   ],
   "instructions": [
     "Pat the fish fillets dry and season with salt. Set aside.",
-    "Heat 1 tablespoon of oil in a heavy‑bottomed pot over medium heat and add cumin seeds; let them splutter.",
-    "Add the diced onion and sauté until translucent, about 3–4 minutes.",
+    "Heat 1 tablespoon of oil in a heavy\u2011bottomed pot over medium heat and add cumin seeds; let them splutter.",
+    "Add the diced onion and saut\u00e9 until translucent, about 3\u20134 minutes.",
     "Stir in minced garlic and grated ginger; cook for 1 minute until fragrant.",
     "Add the tomato puree and cook until the mixture thickens and oil separates, about 5 minutes.",
     "Stir in the ground coriander powder and garam masala; cook for 30 seconds.",
     "Pour in the coconut milk, bring to a gentle simmer, then add the seasoned fish fillets.",
-    "Cover the pot and let the fish steam in the simmering liquid for 8–10 minutes until opaque.",
+    "Cover the pot and let the fish steam in the simmering liquid for 8\u201310 minutes until opaque.",
     "While the fish cooks, toast the coconut flakes in a dry skillet over medium heat until lightly golden; set aside.",
     "Once the fish is done, adjust seasoning with salt and a splash of lemon juice, then gently fold in the toasted coconut flakes for a fluffy texture.",
     "Gently lift the fish with a slotted spoon and let it rest for a minute before serving."
@@ -86,5 +86,20 @@
     "mainIngredient": "fish",
     "descriptor": "Fluffy",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "dinner"
+  ]
 }

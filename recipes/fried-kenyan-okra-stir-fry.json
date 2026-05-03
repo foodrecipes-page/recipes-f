@@ -3,7 +3,7 @@
   "description": "A tender and fermented okra dish that is a crowd-pleaser in Kenya, featuring sunflower oil for a unique twist on the traditional recipe.",
   "cuisine": "Kenyan",
   "diet": null,
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Okra",
@@ -45,8 +45,8 @@
   ],
   "nutrition": {
     "calories": 52,
-    "protein": 0.6,
-    "carbs": 7.9,
+    "protein": 1,
+    "carbs": 8,
     "fat": 3
   },
   "slug": "fried-kenyan-okra-stir-fry",

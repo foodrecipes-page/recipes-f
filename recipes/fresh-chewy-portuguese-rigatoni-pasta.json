@@ -1,6 +1,6 @@
 {
   "title": "Fresh Chewy Portuguese Rigatoni Pasta",
-  "description": "A plant‑based, one‑pot Portuguese rigatoni dish with a peppery temper and a chewy bite, perfect for a quick dinner.",
+  "description": "A plantbased, onepot Portuguese rigatoni dish with a peppery temper and a chewy bite, perfect for a quick dinner.",
   "cuisine": "Portuguese",
   "diet": [
     "vegan"
@@ -14,7 +14,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "extra‑virgin preferred"
+      "notes": "extra\u2011virgin preferred"
     },
     {
       "name": "onion, finely chopped",
@@ -46,11 +46,11 @@
     },
     {
       "name": "ground cumin",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "cayenne pepper",
-      "amount": "½ tsp (optional)",
+      "amount": "\u00bd tsp (optional)",
       "notes": "adjust to taste"
     },
     {
@@ -62,7 +62,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "tamari (gluten‑free soy sauce)",
+      "name": "tamari (gluten\u2011free soy sauce)",
       "amount": "1 tbsp"
     },
     {
@@ -81,15 +81,15 @@
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large pot over medium heat. Add the chopped onion, minced garlic, diced carrot, and diced red bell pepper; sauté for 5 minutes until softened.",
+    "Heat the olive oil in a large pot over medium heat. Add the chopped onion, minced garlic, diced carrot, and diced red bell pepper; saut\u00e9 for 5 minutes until softened.",
     "Stir in smoked paprika, ground cumin, cayenne pepper (if using), and tomato paste; cook for 1 minute to bloom the spices.",
     "Add the cooked chickpeas, halved cherry tomatoes, vegetable broth, tamari, salt, and pepper; bring the mixture to a gentle simmer.",
-    "Add the dry rigatoni, reduce the heat to low, cover, and simmer for 12–15 minutes, stirring occasionally, until the pasta is al dente and the liquid has mostly been absorbed.",
+    "Add the dry rigatoni, reduce the heat to low, cover, and simmer for 12\u201315 minutes, stirring occasionally, until the pasta is al dente and the liquid has mostly been absorbed.",
     "If the sauce thickens too much, add a splash more broth or water to reach your desired consistency.",
     "Taste the sauce and adjust seasoning with additional salt, pepper, or tamari if needed.",
     "Remove the pot from heat, stir in nutritional yeast if using, and let the pasta rest for a minute to finish absorbing flavors.",
     "Garnish with chopped fresh parsley and serve hot straight from the pot.",
-    "Enjoy this fresh, chewy rigatoni as a comforting, plant‑based dinner."
+    "Enjoy this fresh, chewy rigatoni as a comforting, plant\u2011based dinner."
   ],
   "slug": "fresh-chewy-portuguese-rigatoni-pasta",
   "source": "ocloud-gpt-oss:20b",
@@ -108,5 +108,20 @@
     "mainIngredient": "rigatoni",
     "descriptor": "Fresh Chewy",
     "dishForm": "Pasta"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ]
 }
