@@ -1,0 +1,115 @@
+{
+  "title": "Fermented Gooey Ukrainian Beef Stew",
+  "description": "A midnight-craving Ukrainian stew that marries hearty beef with fermented flavors, mustard-infused deglaze, and a silky, paleo-friendly sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fermented mustard sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fermented cabbage juice (or beet kvass)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "paleo-friendly"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a Dutch oven over medium-high heat. Add the beef cubes and sear until browned on all sides, then remove and set aside.",
+    "Reduce heat to medium, add the remaining tablespoon of olive oil, and sauté the onions until translucent about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Sprinkle in the mustard seeds and ground mustard powder, stirring to toast them lightly for 30 seconds.",
+    "Pour in the fermented mustard sauce and deglaze the pan, scraping up all browned bits from the bottom.",
+    "Return the seared beef to the pot, add the fermented cabbage juice, tomato paste, bay leaf, and beef broth. Stir to combine.",
+    "Bring the mixture to a gentle simmer, cover, and let cook for 60 minutes, then uncover and continue simmering for an additional 30 minutes, or until the beef is tender and the sauce has thickened.",
+    "Season with salt and pepper to taste, and adjust thickness with a splash of water if needed.",
+    "Transfer the stew to serving bowls, sprinkle with fresh dill, and serve hot with a side of paleo-friendly bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "paleo-friendly",
+    "beef",
+    "stew",
+    "mustard",
+    "late-night",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 612,
+    "protein": 36,
+    "carbs": 9,
+    "fat": 44
+  },
+  "slug": "fermented-gooey-ukrainian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-ukrainian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:22:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "mustard",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beef",
+    "descriptor": "Fermented Gooey",
+    "dishForm": "Stew"
+  }
+}
