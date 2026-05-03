@@ -1,0 +1,105 @@
+{
+  "title": "Fluffy Fermented Ethiopian Sirloin Stew",
+  "description": "A rich, slow‑cooked stew featuring tender sirloin, fermented tomato paste, and a fluffy yogurt finish, perfect for a lazy Sunday.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin steak",
+      "amount": "800g",
+      "notes": "trimmed and cubed"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, medium",
+      "amount": "1 (200g)",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fermented tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh tomatoes, diced",
+      "amount": "2 medium (300g)"
+    },
+    {
+      "name": "Low‑fat plain yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "All‑purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the cubed sirloin with salt and pepper.",
+    "Heat olive oil in a Dutch oven over medium‑high heat; sear the steak cubes until browned on all sides, then remove and set aside.",
+    "Add diced onion to the same pot and sauté until translucent.",
+    "Stir in minced garlic, grated ginger, and berbere spice; cook for 1 minute until fragrant.",
+    "Add fermented tomato paste and diced tomatoes; cook for 2 minutes.",
+    "Sprinkle flour over the mixture, stir to coat, and cook 1 minute to remove raw flour taste.",
+    "Add vegetable stock, bring to a simmer, return the seared steak cubes, cover, and slow cook at low heat (60–70 °C) for 60 minutes until the meat is tender.",
+    "Remove the pot from heat, whisk in low‑fat yogurt to create a fluffy, airy consistency; stir until integrated, season with lemon juice, garnish with chopped cilantro, and serve hot."
+  ],
+  "slug": "fluffy-fermented-ethiopian-sirloin-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fermented-ethiopian-sirloin-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:23:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "cure",
+    "primaryIngredient": "sirloin steak",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sirloin",
+    "descriptor": "Fluffy Fermented",
+    "dishForm": "Stew"
+  }
+}
