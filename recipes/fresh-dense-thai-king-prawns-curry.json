@@ -1,0 +1,99 @@
+{
+  "title": "Fresh Dense Thai King Prawn Curry",
+  "description": "A nourishing Thai curry that combines succulent king prawns with a creamy coconut base, perfect for a quick high-protein meal when feeling under the weather.",
+  "cuisine": "Thai",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "200 g",
+      "notes": "freshly peeled and deveined"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust for heat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "use low-sodium if preferred"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "10 stems",
+      "notes": "torn"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "torn"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "brown or white"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "for garnish",
+      "notes": "torn"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add a splash of oil.",
+    "Add minced garlic, grated ginger, and sliced shallot, sautéing until fragrant, about 1 minute.",
+    "Stir in red curry paste, cooking for another 30 seconds until the aroma releases.",
+    "Pour in the coconut milk and stir to combine, letting the mixture come to a gentle simmer.",
+    "Add the peeled king prawns and cook for 3-4 minutes until they turn pink and opaque.",
+    "Season with fish sauce, lime juice, and sugar, adjusting to taste for balance of saltiness and sweetness.",
+    "Fold in torn kaffir lime leaves and torn Thai basil leaves, cooking for an additional minute.",
+    "Remove from heat, garnish with fresh coriander, and serve immediately with steamed rice if desired."
+  ],
+  "slug": "fresh-dense-thai-king-prawns-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-dense-thai-king-prawns-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:40:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "king prawns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "king prawns",
+    "descriptor": "Fresh Dense",
+    "dishForm": "Curry"
+  }
+}
