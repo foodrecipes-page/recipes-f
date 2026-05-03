@@ -1,0 +1,79 @@
+{
+  "title": "Fluffy Venezuelan Graham Crumble",
+  "description": "A spicy, low-carb dessert featuring graham cracker crumbs, a hint of cayenne, and fluffy eggs for a sick-day treat that's both flavorful and easy to make.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-carb",
+    "spicy",
+    "vegan? (no, contains eggs)"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup",
+      "notes": "use regular or gluten-free if needed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "for heat"
+    },
+    {
+      ": ": ", ",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix graham cracker crumbs, melted butter, and cayenne pepper until combined.",
+    "Whisk eggs in a separate bowl until frothy.",
+    "Fold eggs into the crumble mixture gently.",
+    "Pour mixture into a greased 8-inch pie dish.",
+    "Bake for 20 minutes or until set.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "lowcarb",
+    "spicy",
+    "dessert",
+    "fluffy",
+    "sickday"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "fluffy-venezuelan-graham-crumble",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-venezuelan-graham-crumble",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:09:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "graham",
+    "descriptor": "Fluffy",
+    "dishForm": "Crumble"
+  }
+}
