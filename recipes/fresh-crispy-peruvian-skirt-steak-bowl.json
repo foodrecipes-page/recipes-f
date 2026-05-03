@@ -1,0 +1,119 @@
+{
+  "title": "Fresh Crispy Peruvian Skirt Steak Bowl",
+  "description": "A bright, brunch‑ready bowl featuring marinated skirt steak, roasted sweet potatoes, quinoa, and fresh avocado, all tossed with a zesty aji‑lime dressing.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 lb (450 g)",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup (185 g)",
+      "notes": "rinsed"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium (200 g)",
+      "notes": "cut into ½‑inch cubes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium (150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium (200 g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "½ cup (60 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30 mL)",
+      "notes": "divided"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "2 tbsp (30 g)",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "lime",
+      "amount": "1 (fresh juice)",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp (5 g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (204°C). Toss the sweet‑potato cubes with 1 tbsp olive oil, salt, pepper, cumin, and smoked paprika; spread on a baking sheet and roast 20‑25 minutes until crisp, turning once.",
+    "While the potatoes roast, season the skirt steak generously with salt, pepper, a pinch of cumin, paprika, and 1 tbsp aji amarillo paste. Let it rest for 5 minutes.",
+    "Heat 1 tbsp olive oil in a skillet over medium‑high heat. Sear the steak 3‑4 minutes per side for medium‑rare (internal 135°F/57°C), then transfer to a cutting board.",
+    "Rest the steak 5 minutes, then slice thinly against the grain.",
+    "Rinse the quinoa under cold water. Combine with 2 cups water, bring to a boil, reduce to a simmer, cover, and cook 15 minutes. Fluff with a fork.",
+    "In a large bowl, combine the cooked quinoa, roasted sweet potato, sliced steak, diced onion, chopped cilantro, and avocado slices.",
+    "Drizzle with the remaining 1 tbsp olive oil and fresh lime juice; gently toss to coat.",
+    "Optional: sprinkle roasted peanuts for added crunch.",
+    "Serve immediately, garnishing with extra cilantro and a lime wedge."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "skirt-steak",
+    "bowl",
+    "breakfast",
+    "egg-free",
+    "crispy",
+    "roasted",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 65,
+    "carbs": 51,
+    "fat": 51
+  },
+  "slug": "fresh-crispy-peruvian-skirt-steak-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crispy-peruvian-skirt-steak-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:39:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "skirty steak",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "skirt steak",
+    "descriptor": "Fresh Crispy",
+    "dishForm": "Bowl"
+  }
+}
