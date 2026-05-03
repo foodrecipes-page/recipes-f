@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Crisp Jamaican Saltfish Salad",
+  "description": "A tangy, fermented cabbage and saltfish salad bursting with Jamaican flavors and a hint of black cardamom.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "saltfish (dried cod)",
+      "amount": "250 g"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "300 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "200 g",
+      "notes": "boiled and diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coriander (cilantro)",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "warm water",
+      "amount": "½ cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine the saltfish with 1 tsp salt, ½ tsp pepper, a pinch of crushed black cardamom pods, and ½ cup warm water. Let it soak for 15 minutes to rehydrate.",
+    "In a separate large bowl, whisk together 2 tbsp olive oil, juice of 1 lime, 1 tsp chopped thyme, and a pinch of black cardamom.",
+    "Add the sliced red cabbage, diced boiled sweet potato, sliced red onion, and chopped coriander to the dressing. Toss until evenly coated.",
+    "Transfer the mixture to a clean jar or airtight container. Add the soaked saltfish on top, mashing it slightly to mix with the flavors.",
+    "Seal the container and leave it at room temperature for 1–2 hours to allow the cabbage to ferment slightly, developing a tangy flavor.",
+    "After fermentation, refrigerate the salad for at least 30 minutes before serving to chill and let the flavors meld.",
+    "Serve chilled as a crisp, refreshing lunch, garnished with a few extra coriander leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fast-food",
+    "fermented",
+    "saltfish",
+    "cabbage-dish",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 16,
+    "carbs": 22,
+    "fat": 7
+  },
+  "slug": "fermented-crisp-jamaican-saltfish-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-jamaican-saltfish-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:48:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "saltfish",
+    "descriptor": "fermented crisp",
+    "dishForm": "Salad"
+  }
+}
