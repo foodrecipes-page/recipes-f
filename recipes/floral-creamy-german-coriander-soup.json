@@ -1,0 +1,104 @@
+{
+  "title": "Floral Creamy German Coriander Soup",
+  "description": "A fragrant, creamy German soup that blends aromatic coriander with a subtle floral note, perfect for a solo dinner.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp (14g)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (14g)"
+    },
+    {
+      "name": "small onion",
+      "amount": "1, diced (100g)"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "1 tbsp chopped (3g)"
+    },
+    {
+      "name": "low‑fat cream (halal certified)",
+      "amount": "240ml (240g)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups (480ml)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp (5ml)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp (4g)"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat olive oil over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in butter and let it melt, then add ground coriander, cumin, and smoked paprika. Cook for 1 minute until fragrant.",
+    "Pour in vegetable broth and bring to a gentle simmer. Reduce heat, cover, and let simmer for 10 minutes to allow flavors to meld.",
+    "Add low‑fat cream and fresh coriander leaves. Simmer gently for 5 minutes, stirring occasionally.",
+    "Season with salt, pepper, lemon juice, and sugar to taste. Use a hand blender to puree the soup until silky smooth.",
+    "Return to heat, warm through, adjust seasoning if needed, and serve hot, garnished with a few extra coriander leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "creamy",
+    "halal-friendly",
+    "german",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 35
+  },
+  "slug": "floral-creamy-german-coriander-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-german-coriander-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:31:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "coriander",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Coriander",
+    "descriptor": "Floral Creamy",
+    "dishForm": "Soup"
+  }
+}

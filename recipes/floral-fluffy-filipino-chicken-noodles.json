@@ -1,0 +1,98 @@
+{
+  "title": "Floral Fluffy Filipino Chicken Noodles",
+  "description": "A halal-friendly, energizing Filipino dish featuring steamed chicken, fluffy noodles, and the salty taste of Parmigiano-Reggiano, infused with floral notes of pandan and lemongrass.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "preferably rice or egg noodles"
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, steam the chicken breast with pandan leaves and lemongrass until cooked through.",
+    "In a separate pot, boil the noodles according to package instructions until fluffy and slightly tender.",
+    "In a pan, heat the coconut oil over medium heat and sauté the steamed chicken until lightly browned.",
+    "Add the grated Parmigiano-Reggiano to the pan and stir until melted and well combined with the chicken.",
+    "Combine the cooked noodles, chicken mixture, and chicken broth in a large serving bowl.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with additional pandan leaves and lemongrass stalks, if desired.",
+    "Serve hot and enjoy.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the dish by steaming or microwaving until hot and fluffy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "halal-friendly",
+    "steamed-chicken",
+    "fluffy-noodles",
+    "parmigiano-reggiano"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "floral-fluffy-filipino-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-filipino-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:32:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "floral fluffy",
+    "dishForm": "Noodles"
+  }
+}
