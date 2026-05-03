@@ -1,0 +1,113 @@
+{
+  "title": "Fermented Crispy Croatian Tofu Fritters",
+  "description": "A cozy, low‑carb Croatian-inspired dish featuring poached tofu in soy milk, mixed with fermented soy sauce and herbs, then fried to a crisp golden finish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cut into 1.5 cm cubes"
+    },
+    {
+      "name": "Unsweetened soy milk",
+      "amount": "200 ml",
+      "notes": "for poaching"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "60 g",
+      "notes": "low‑carb alternative to wheat flour"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "leavening agent"
+    },
+    {
+      "name": "Fermented soy sauce (shoyu)",
+      "amount": "2 tbsp",
+      "notes": "adds umami"
+    },
+    {
+      "name": "Fresh garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 small onion"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes to remove excess moisture, then cut into 1.5 cm cubes.",
+    "In a small saucepan, heat the soy milk with a pinch of black pepper until it just reaches a gentle simmer; do not boil.",
+    "Add the tofu cubes to the soy milk and poach for 5 minutes, turning gently to coat all sides.",
+    "Remove the tofu, drain, and let it sit at room temperature for 5 minutes; then crumble it loosely with a fork.",
+    "In a large bowl, combine the crumbled tofu, almond flour, baking powder, smoked paprika, minced garlic, chopped onion, and parsley.",
+    "Pour in the fermented soy sauce and stir until the mixture is moist and holds together when pressed between fingers.",
+    "Heat the olive oil in a non‑stick skillet over medium‑high heat; when the oil shimmers, spoon tablespoonfuls of the tofu mixture into the pan.",
+    "Flatten each spoonful into a patty with the back of a spoon and cook for 3–4 minutes per side, until golden and crispy.",
+    "Transfer cooked fritters to a paper towel‑lined plate to drain excess oil.",
+    "Serve hot, optionally with a side of tartar sauce made from Greek yogurt and lemon juice for a creamy contrast.",
+    ""
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "vegan",
+    "quick",
+    "croatian",
+    "tofu",
+    "crispy",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "fermented-crispy-croatian-tofu-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-croatian-tofu-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:53:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "soya milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Fritters"
+  }
+}
