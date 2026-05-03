@@ -1,0 +1,115 @@
+{
+  "title": "Fragrant Egyptian Eggplant Stew",
+  "description": "A fragrant, herb‑laden eggplant stew that captures the romantic flavors of Egypt, simmered slowly with tomatoes, garlic, and a touch of cumin for a light, Mediterranean‑friendly dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium (about 800g)",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup packed, chopped (15 g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "optional, for brightness"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large heavy‑bottom pot over medium‑high heat.",
+    "Add the eggplant cubes and brown them on all sides, about 5 minutes.",
+    "Stir in the diced onion and cook until translucent, 3–4 minutes.",
+    "Add the minced garlic and sauté for 30 seconds until fragrant.",
+    "Stir in the tomato paste and cook for 1 minute to caramelize the flavors.",
+    "Pour in the tomato sauce and broth, stir well, and bring the mixture to a gentle boil.",
+    "Reduce the heat, add cumin, salt, and pepper, then cover and let the stew simmer for 25–30 minutes, until the eggplant is tender.",
+    "Stir in the chopped parsley and, if using, the lemon juice; adjust seasoning with extra salt or pepper.",
+    "Serve the stew hot over a bed of fluffy rice, couscous, or with warm flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "eggplant",
+    "stew",
+    "light",
+    "herbal",
+    "braise",
+    "romantic",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 10
+  },
+  "slug": "fragrant-egyptian-eggplant-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-egyptian-eggplant-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:52:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "eggplant",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Fragrant",
+    "dishForm": "Stew"
+  }
+}
