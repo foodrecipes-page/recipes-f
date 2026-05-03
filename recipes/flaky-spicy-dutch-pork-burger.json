@@ -1,0 +1,116 @@
+{
+  "title": "Flaky Spicy Dutch Pork Burger",
+  "description": "A midnight-craving Dutch-inspired pork burger with flaky, spicy layers, pineapple chunks, and high-protein fusion.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein",
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork (80% lean, 20% fat)",
+      "amount": "500g"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "50g",
+      "notes": "to create flaky texture"
+    },
+    {
+      "name": "Pineapple chunks (fresh, thawed)",
+      "amount": "100g",
+      "notes": "squeeze excess water"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion, finely diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "binds and carries heat"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "adds acidity"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground pork, panko breadcrumbs, pineapple chunks, onion, garlic powder, red chili flakes, salt, and pepper.",
+    "Add the egg, soy sauce, and lime juice; mix until fully blended, but avoid overworking the meat.",
+    "Shape the mixture into patties, about 1.5 cm thick; cover and refrigerate for 20 minutes to set.",
+    "Heat 1 tbsp olive oil in a skillet over medium-high heat; add patties.",
+    "Cook each side for 3‑4 minutes until browned and crispy; internal temperature should reach 71°C (160°F).",
+    "While patties finish, gently fold a small amount of butter into the skillet and swirl to add a flaky finish.",
+    "Place patties on a plate lined with paper towels to drain excess oil.",
+    "Toast burger buns lightly in the same skillet for 30 seconds per side.",
+    "Assemble: spread mustard or yogurt sauce on buns, place patty, top with pineapple slices, a drizzle of lime-infused mayo, and fresh cilantro.",
+    "Serve immediately, optionally with a side of cucumber salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "dutch",
+    "pork",
+    "spicy",
+    "flaky",
+    "midnight-craving",
+    "pineapple",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 27
+  },
+  "slug": "flaky-spicy-dutch-pork-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-spicy-dutch-pork-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:26:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork",
+    "descriptor": "Flaky Spicy",
+    "dishForm": "Burger"
+  }
+}
