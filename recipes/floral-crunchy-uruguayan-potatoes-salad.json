@@ -1,0 +1,87 @@
+{
+  "title": "Floral Crunchy Uruguayan Potatoes Salad",
+  "description": "A vibrant, fragrant salad of poached baby potatoes tossed with edible flowers, crisp herbs, and a citrusy vinaigrette, perfect for a show‑off Uruguayan side.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "250 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp",
+      "notes": "extra‑virgin for flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "crushed edible flowers (poppy, lavender)",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "½ tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Wash and scrub the baby potatoes; leave skins on for texture.",
+    "Gently poach the potatoes in lightly salted water for 8‑10 minutes, until just tender but still firm.",
+    "Drain and let cool slightly, then slice each potato in half lengthwise.",
+    "Whisk together olive oil, apple cider vinegar, Dijon mustard, lemon zest, lemon juice, and a pinch of sea salt to make the vinaigrette.",
+    "Toss the sliced potatoes in the vinaigrette until evenly coated.",
+    "Fold in fresh thyme, rosemary, and crushed edible flowers, stirring gently to keep the flowers intact.",
+    "Season with black pepper to taste and adjust salt if needed.",
+    "Serve immediately, garnished with a handful of microgreens if desired."
+  ],
+  "slug": "floral-crunchy-uruguayan-potatoes-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-uruguayan-potatoes-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:06:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Floral Crunchy",
+    "dishForm": "Salad"
+  }
+}
