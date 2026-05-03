@@ -1,0 +1,105 @@
+{
+  "title": "Festive Mustardy Uruguayan Lamb Tagine",
+  "description": "A sweet and savory lamb tagine from Uruguay, featuring a mustardy glaze and gooey molasses sauce.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "bone-in, cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay tajine over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "In a small bowl, mix together the mustard seeds and miso paste.",
+    "Add the mustard-miso mixture to the clay tajine and stir to combine.",
+    "Add the chicken broth, molasses, and chopped parsley to the clay tajine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Remove the clay tajine from the heat and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "festive-mustardy-uruguayan-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-mustardy-uruguayan-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:52:28Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "molasses",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "Festive Mustardy",
+    "dishForm": "Tagine"
+  }
+}
