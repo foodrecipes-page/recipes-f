@@ -1,0 +1,109 @@
+{
+  "title": "Floral Irish Savoy Cabbage Grill",
+  "description": "A gentle, broiled savoy cabbage dish infused with fragrant herbs and a touch of floral essence, perfect for a comforting sick‑day meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 medium (≈1.5 lb)",
+      "notes": "cut into large wedges"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/4 cup",
+      "notes": "for steaming, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 450°F (232°C) and line a baking sheet with parchment paper.",
+    "Brush both sides of the cabbage wedges with olive oil and season with salt, pepper, thyme, dill, and lemon juice.",
+    "Place the seasoned wedges on the prepared baking sheet, cut side up.",
+    "Broil for 8–10 minutes, turning once, until the edges are crisp and slightly charred.",
+    "While broiling, melt butter in a small saucepan and drizzle over the cabbage wedges for extra richness.",
+    "If desired, lightly steam the wedges in vegetable broth for 2 minutes to soften them before broiling.",
+    "Transfer the grilled cabbage to a serving platter, drizzle with honey, and sprinkle with fresh dill for a floral finish.",
+    "Serve warm, optionally accompanied by a light broth or a side of mashed potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "low-fat",
+    "irish",
+    "broil",
+    "savoy-cabbage",
+    "sick-day",
+    "floral",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 10
+  },
+  "slug": "floral-irish-savoy-cabbage-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-irish-savoy-cabbage-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:50:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Floral",
+    "dishForm": "Grill"
+  }
+}
