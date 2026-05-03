@@ -1,0 +1,91 @@
+{
+  "title": "Fruity MiddleEastern Salmon Crumble",
+  "description": "A sweet and crumbly salmon dish with peach glaze and nutty oat crust, perfect for meal prep.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "600 g",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "In a bowl toss the salmon cubes with olive oil, cinnamon, sea salt, and peanut juice, then let marinate for 10 minutes.",
+    "In a separate bowl mix rolled oats and chopped almonds.",
+    "Spread the oat‑almond mixture on a parchment lined grill pan and press firmly to form a crust.",
+    "Place the marinated salmon cubes on top of the crust and grill for 15 minutes, turning once, until the salmon is opaque and the crust is golden.",
+    "Remove from the grill and drizzle the remaining peach juice and a little honey over the top.",
+    "Let the dish cool, then refrigerate for meal‑prep portions.",
+    "Serve chilled or reheated to enjoy the sweet, crumbly texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "grill",
+    "meal-prep",
+    "middle-eastern",
+    "pescatarian",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 484,
+    "protein": 35,
+    "carbs": 21,
+    "fat": 28
+  },
+  "slug": "fruity-middle-eastern-salmon-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fruity-middle-eastern-salmon-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:49:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "peach juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "MiddleEastern",
+    "mainIngredient": "salmon",
+    "descriptor": "Fruity",
+    "dishForm": "Crumble"
+  }
+}
