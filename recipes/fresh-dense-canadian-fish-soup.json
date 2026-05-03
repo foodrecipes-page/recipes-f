@@ -1,0 +1,105 @@
+{
+  "title": "Fresh Dense Canadian Fish Soup",
+  "description": "A hearty, low-calorie Canadian fish soup that showcases poached fillets, fresh shrimp, and a rich mature cheddar swirl for a show‑off finish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "600 g",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery stalks, diced",
+      "amount": "2"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt, to taste",
+      "amount": "-"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "-"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "low‑sodium fish stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low‑fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mature cheddar, shredded",
+      "amount": "50 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat olive oil over medium heat and sauté onion, carrot, and celery until softened, about 5 minutes.",
+    "Add fish stock, water, bay leaf, dill, and thyme; bring to a gentle simmer.",
+    "Reduce heat, place cod fillets on top of the broth, cover, and poach for 6–8 minutes or until fish flakes easily with a fork.",
+    "Add shrimp and cook for an additional 3 minutes until pink.",
+    "Remove fillets and shrimp, shred the fish with a fork, and return to the pot; stir in low‑fat milk, salt, pepper, and lemon juice.",
+    "Warm the soup to 80°C (176°F) for safe consumption, but do not let it boil.",
+    "Pour the soup into bowls, ladle a generous swirl of mature cheddar on top, and sprinkle with extra dill if desired.",
+    "Serve immediately with a side of crusty gluten‑free bread if desired."
+  ],
+  "slug": "fresh-dense-canadian-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-dense-canadian-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:28:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "mature cheddar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Fish",
+    "descriptor": "Fresh Dense",
+    "dishForm": "Soup"
+  }
+}

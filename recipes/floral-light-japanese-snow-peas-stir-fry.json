@@ -1,0 +1,121 @@
+{
+  "title": "Floral Light Japanese Snow Peas Stir-Fry",
+  "description": "A fragrant, airy one-pot stir-fry featuring crisp snow peas, baby spinach, and sweet shiitake mushrooms, finished with a citrusy soy‑mirin glaze and a sprinkle of toasted sesame and edible blossoms.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "300 g",
+      "notes": "trimmed and snapped"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "100 g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "50 g",
+      "notes": "thin strips"
+    },
+    {
+      "name": "White shiitake mushrooms",
+      "amount": "50 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "2 tbsp",
+      "notes": "thinly brewed"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": "sweet rice wine"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "¼ tsp",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Finely sliced scallion (green parts)",
+      "amount": "2",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large non‑stick skillet over medium heat until shimmering.",
+    "Add the sliced shiitake mushrooms and sauté for 2 minutes until they release their aroma.",
+    "Introduce the snow peas and shredded carrots, stir‑frying for 3 minutes until they start to soften but remain crisp.",
+    "Add the baby spinach and continue to stir until the greens just wilt.",
+    "Whisk together soy sauce, mirin, rice vinegar, sugar, and white pepper in a small bowl, then pour it over the vegetables, stirring to coat evenly.",
+    "Cook for another 2 minutes, allowing the sauce to thicken slightly and the snow peas to become tender but still bright green.",
+    "Remove from heat and transfer the stir‑fry to a serving dish.",
+    "Sprinkle toasted sesame seeds and sliced scallion over the top for a fresh finish.",
+    "Serve immediately, optionally garnishing with a few edible flower petals for added floral flair."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "pescatarian",
+    "light",
+    "one-pot",
+    "floral",
+    "snow-peas",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "floral-light-japanese-snow-peas-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-light-japanese-snow-peas-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:27:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "snow peas",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "snow peas",
+    "descriptor": "Floral Light",
+    "dishForm": "Stir-fry"
+  }
+}
