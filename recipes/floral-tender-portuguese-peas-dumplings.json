@@ -1,0 +1,97 @@
+{
+  "title": "Floral Tender Portuguese Peas Dumplings",
+  "description": "Light, fragrant dumplings filled with sweet peas and a hint of rose water, served soaked in a savory vegetable stock – a gentle hangover cure that's egg‑free and perfectly Portuguese.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green peas",
+      "amount": "200 g",
+      "notes": "soak overnight or use fresh peas, thawed if frozen"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1",
+      "notes": "crushed"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "30 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "¼ tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the peas and soak them until they soften, then drain. In a saucepan, combine the crushed stock cube, 200 ml of water, and bring to a simmer. Reduce heat and add the peas; cook for 10 minutes or until tender. While the peas are cooking, whisk together the flour, cornstarch, salt, pepper, and cumin in a bowl until no lumps remain.",
+    "When the peas are al dente, remove the pan from heat and stir in the rose water. Let the mixture cool a few minutes before transferring it to a spoon or a small ladle.",
+    "Heat a non‑stick skillet over medium heat and add a splash of olive oil. Drop spoonfuls of the pea mixture into the skillet, creating small dumplings. Cook for 3–4 minutes on each side until golden brown and crisp.",
+    "Serve the dumplings hot with a generous ladle of the warm vegetable broth, garnished with a drizzle of olive oil. This dish pairs wonderfully with a light salad or a splash of white wine.",
+    "If desired, steam the dumplings for an extra 5 minutes to achieve a softer texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "Portuguese",
+    "dumpling",
+    "hangover-cure",
+    "egg-free",
+    "flower"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 9,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "floral-tender-portuguese-peas-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-portuguese-peas-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:35:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peas",
+    "descriptor": "Floral Tender",
+    "dishForm": "Dumplings"
+  }
+}
