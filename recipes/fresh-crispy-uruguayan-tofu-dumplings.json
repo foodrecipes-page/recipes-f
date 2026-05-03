@@ -1,0 +1,126 @@
+{
+  "title": "Fresh Crispy Uruguayan Tofu Dumplings",
+  "description": "A kid-friendly, vegetarian fusion dish that marries Uruguay’s love of fresh flavors with crispy, bite-size tofu dumplings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400g",
+      "notes": "drained and pressed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "45ml",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Rice wine vinegar",
+      "amount": "15ml",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "15ml",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "30g",
+      "notes": "to coat tofu"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100g",
+      "notes": "for dumpling wrapper"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml",
+      "notes": "for dumpling wrapper"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "10g",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Scallions",
+      "amount": "10g",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "5g",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "30ml",
+      "notes": "for pan-frying"
+    }
+  ],
+  "instructions": [
+    "Drain tofu, press to remove excess water, and cut into 2cm cubes.",
+    "In a bowl, whisk soy sauce, rice wine vinegar, and sesame oil; add tofu cubes, toss to coat, and let marinate for 10 minutes.",
+    "Sprinkle cornstarch over marinated tofu, toss until lightly coated, and set aside.",
+    "In a small saucepan, combine flour, water, and a pinch of salt; whisk until smooth and let sit for 5 minutes to form the dumpling dough.",
+    "Roll the dough into a thin sheet, then cut into 4x4cm squares.",
+    "Place a small spoonful of tofu filling in the center of each dough square.",
+    "Fold the dough over to form a half‑moon shape, sealing edges by pressing with fingertips or a fork.",
+    "Heat vegetable oil in a non‑stick skillet over medium‑high heat; test by dropping a small piece of dough—it should sizzle.",
+    "Arrange dumplings in a single layer, skin side down; cook 3–4 minutes until golden and crispy.",
+    "Flip the dumplings and cook another 2–3 minutes for the other side.",
+    "Remove from skillet, drain on paper towels, and sprinkle with cilantro, scallions, and sesame seeds.",
+    "Serve hot with a simple dipping sauce (optional: soy sauce + lime)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "kid-friendly",
+    "crispy",
+    "dumpling",
+    "uruguayan",
+    "tofu",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "fresh-crispy-uruguayan-tofu-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crispy-uruguayan-tofu-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:49:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "marinated tofu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tofu",
+    "descriptor": "Fresh Crispy",
+    "dishForm": "Dumplings"
+  }
+}
