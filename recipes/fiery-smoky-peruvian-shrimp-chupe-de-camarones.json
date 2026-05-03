@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Smoky Peruvian Shrimp Chupe De Camarones",
+  "description": "A low fat friendly Peruvian dish made with shrimp and smoky flavors, wrapped in a ti leaf",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a blender, puree the aji amarillo peppers, garlic, and smoked paprika",
+    "In a large bowl, mix together the shrimp, pepper puree, salt, and black pepper",
+    "Wrap each shrimp in a ti leaf, making sure to seal the leaf tightly",
+    "Place the wrapped shrimp in a large baking dish",
+    "Pour the chicken broth and water over the shrimp",
+    "Cover the dish with aluminum foil and bake for 15 minutes",
+    "Remove the foil and bake for an additional 5 minutes",
+    "Remove the dish from the oven and stir in the lime juice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "peruvian-cuisine",
+    "seafood",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "fiery-smoky-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoky-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:54:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "water",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Fiery Smoky",
+    "dishForm": "Chupe De Camarones"
+  }
+}
