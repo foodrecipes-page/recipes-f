@@ -1,0 +1,109 @@
+{
+  "title": "Fermented Flaky Korean Oreo Flatbread",
+  "description": "A quick weeknight dessert that blends the rich sweetness of Oreo cream with the punch of Korean chili paste, fermented for depth and folded for buttery flakiness.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cookies (plain)",
+      "amount": "8 pieces",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "dash"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine crushed Oreo crumbs with melted butter, honey, gochujang, and sesame oil. Mix until crumbs are fully coated.",
+    "Whisk together milk, egg, sugar, and yeast until well blended and slightly frothy. Let sit for 5 minutes to activate the yeast.",
+    "Pour the wet mixture into the Oreo mixture and stir until combined.",
+    "Add flour and a pinch of salt; knead until a smooth dough forms, about 3–4 minutes.",
+    "Transfer dough to a lightly floured surface and knead for 2 minutes until elastic.",
+    "Place dough in a greased bowl, cover with plastic wrap, and let rise at room temperature for 45 minutes or until doubled in size.",
+    "Punch the dough down, roll into a 12×8‑inch rectangle, fold once, and roll again to create layers.",
+    "Heat a non‑stick skillet over medium heat and cook the flatbread 3–4 minutes per side until golden and crisp.",
+    "Slice the flatbread into squares, sprinkle with chopped scallions if desired, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "korean",
+    "flatbread",
+    "dessert",
+    "flash-cook",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "fermented-flaky-korean-oreo-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-flaky-korean-oreo-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:44:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Oreo",
+    "descriptor": "Fermented Flaky",
+    "dishForm": "Flatbread"
+  }
+}
