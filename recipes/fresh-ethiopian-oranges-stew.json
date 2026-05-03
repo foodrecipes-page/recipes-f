@@ -1,0 +1,116 @@
+{
+  "title": "Fresh Ethiopian Oranges Stew",
+  "description": "A bright, garlicky stew bursting with citrus and spices, perfect for meal prep and a quick dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrots, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zucchini, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add minced garlic and ginger, sauté until fragrant.",
+    "Stir in chopped carrots and bell pepper, cook for 5 minutes.",
+    "Add zucchini and stir for another 3 minutes.",
+    "Pour in vegetable broth, bring to a boil, then reduce heat.",
+    "Add orange zest and orange juice, season with berbere, salt, and pepper.",
+    "Simmer uncovered for 15 minutes until vegetables are tender.",
+    "Stir in honey and lemon juice, adjust seasoning if needed.",
+    "Remove pot from heat and let the stew sit for 5 minutes.",
+    "Serve hot, optionally garnish with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethnic",
+    "one-pot",
+    "orange",
+    "quick",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 147,
+    "protein": 7,
+    "carbs": 61,
+    "fat": 21
+  },
+  "slug": "fresh-ethiopian-oranges-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-ethiopian-oranges-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:14:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "oranges",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "oranges",
+    "descriptor": "Fresh",
+    "dishForm": "Stew"
+  }
+}

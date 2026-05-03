@@ -1,0 +1,125 @@
+{
+  "title": "Funky Mediterranean Chickpea Muffins",
+  "description": "Herbal molten chickpea muffins that bring a Mediterranean vibe to a solo dinner, low-glycemic-friendly and bursting with flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas, drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh oregano, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "egg, large",
+      "amount": "1 large"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tbsp",
+      "notes": "molten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and line a muffin tin with paper liners.",
+    "In a large bowl, whisk together whole wheat flour, rolled oats, baking powder, baking soda, and salt.",
+    "Add chickpeas, fresh herbs, lemon zest, and feta cheese to the dry mix and stir until combined.",
+    "In a separate bowl, beat the egg, then mix in olive oil, Greek yogurt, and melted butter until smooth.",
+    "Pour the wet mixture into the dry ingredients and fold gently until just combined.",
+    "Spoon the batter into the prepared muffin cups, filling each about 3/4 full.",
+    "Bake for 20-22 minutes, or until a toothpick inserted into a muffin comes out clean.",
+    "Let cool for 5 minutes, then sprinkle sunflower and pomegranate seeds on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "herby",
+    "low-glycemic",
+    "mediterranean",
+    "muffin",
+    "one-pan",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1700,
+    "protein": 57,
+    "carbs": 153,
+    "fat": 99
+  },
+  "slug": "funky-mediterranean-chickpea-muffins",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-mediterranean-chickpea-muffins",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:13:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "muffins",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Funky",
+    "dishForm": "Muffins"
+  }
+}
