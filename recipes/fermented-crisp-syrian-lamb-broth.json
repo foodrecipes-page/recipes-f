@@ -1,0 +1,148 @@
+{
+  "title": "Fermented Crisp Syrian Lamb Broth",
+  "description": "A tangy, protein-rich lamb broth with a fresh, crisp vegetable topping, perfect for a post‑workout recovery meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb bones",
+      "amount": "2 kg",
+      "notes": "preferably from a butcher for best flavor"
+    },
+    {
+      "name": "cold water",
+      "amount": "12 cups (3 L)",
+      "notes": "use filtered water"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large (200 g)",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 (200 g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (150 g)",
+      "notes": "peeled and quartered"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "crushed"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "10",
+      "notes": "whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "strained Greek yogurt",
+      "amount": "1 cup (240 ml)",
+      "notes": "low‑fat, strained to reduce carbs"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup diced (100 g)",
+      "notes": "fresh, rinsed"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup diced (150 g)",
+      "notes": "ripe"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine lamb bones and cold water; bring to a gentle boil, skim off scum.",
+    "Add carrot, celery, onion, garlic, bay leaf, peppercorns, and salt; reduce heat and simmer for 3 hours.",
+    "After 3 hours, strain the stock through a fine sieve, discarding solids, and cool to 40°C (104°F).",
+    "Stir in fresh coriander, lemon zest, dill, and red pepper flakes; reduce the stock by half over medium heat until slightly thickened (about 20 minutes).",
+    "Transfer the reduced stock to a bowl and whisk in strained Greek yogurt until smooth, keeping the mixture chilled.",
+    "Gently reheat the yogurt‑infused broth to 70°C (158°F) without boiling to preserve the fermented flavor.",
+    "In a skillet, quickly sauté diced cucumber, tomato, parsley, and a pinch of salt until just wilted (about 2 minutes).",
+    "Serve a ladle of the warm broth in bowls; top with the crisp vegetable mixture.",
+    "Garnish with additional dill, a squeeze of fresh lemon, and a drizzle of extra‑virgin olive oil.",
+    "Enjoy the broth hot for a protein‑rich post‑workout recovery."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 210,
+  "totalTimeMin": 220,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "crisp",
+    "syrian",
+    "lamb",
+    "low-carb",
+    "post-workout",
+    "workout-recovery",
+    "broth"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "fermented-crisp-syrian-lamb-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-syrian-lamb-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:01:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "lamb stock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Fermented Crisp",
+    "dishForm": "Broth"
+  }
+}

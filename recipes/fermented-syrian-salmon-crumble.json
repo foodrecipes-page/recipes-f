@@ -1,0 +1,99 @@
+{
+  "title": "Fermented Syrian Salmon Crumble",
+  "description": "A gentle, kid-friendly Syrian-inspired dish featuring tender salmon marinated in fermented yogurt and topped with a crumbly, aromatic breadcrumb mixture. The dish balances mild flavors with a satisfying crumble texture.",
+  "cuisine": "Syrian",
+  "diet": [
+    "Pescatarian",
+    "Kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets, skinless",
+      "amount": "2 fillets (200g each)"
+    },
+    {
+      "name": "Plain Greek yogurt (fermented)",
+      "amount": "150g"
+    },
+    {
+      "name": "Lemon (zest & juice)",
+      "amount": "1 lemon (zest & 2 Tbsp juice)"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Crushed breadcrumbs, whole wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crushed walnuts or pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (400 °F).",
+    "In a bowl, whisk together yogurt, lemon juice, lemon zest, dill, mustard, salt, and a pinch of cumin until smooth.",
+    "Pat salmon fillets dry and coat with the yogurt mixture; cover and refrigerate for at least 30 minutes to marinate.",
+    "In a small bowl, combine breadcrumbs, crushed nuts, oregano, and a pinch of salt; drizzle olive oil over and toss until the mixture is crumbly.",
+    "Place salmon fillets on a parchment‑lined baking sheet and spread the crumb mixture evenly over each fillet.",
+    "Bake for 12–15 minutes, or until the salmon is cooked through (internal temp 60 °C) and the topping is golden.",
+    "Let the fillets rest for 3 minutes before serving.",
+    "Serve warm with a side of rice or flatbread, garnished with extra dill or lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "pescatarian",
+    "kid-friendly",
+    "syrian",
+    "crumble-topping",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 50,
+    "carbs": 23,
+    "fat": 42
+  },
+  "slug": "fermented-syrian-salmon-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-syrian-salmon-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:01:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "salmon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "salmon",
+    "descriptor": "Fermented",
+    "dishForm": "Crumble"
+  }
+}
