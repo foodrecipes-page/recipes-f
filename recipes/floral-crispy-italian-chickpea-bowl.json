@@ -1,0 +1,117 @@
+{
+  "title": "Floral Crispy Italian Chickpea Bowl",
+  "description": "A bright, floral-packed bowl featuring crispy roasted chickpeas, silky red pepper paste, and fresh basil, finished with delicate edible rose petals for a Sicilian twist.",
+  "cuisine": "Sicilian Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, rinsed & drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "roasted and pureed into paste"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "edible rose petals",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and cook it in 2 cups of water for 15 minutes, or until fluffy and liquid is absorbed. Drain any excess water and set aside.",
+    "Preheat the oven to 425°F (220°C). Toss the chickpeas with 2 tbsp olive oil, smoked paprika, cayenne pepper, salt, and pepper. Spread them in a single layer on a baking sheet and roast for 20 minutes, stirring halfway through.",
+    "While the chickpeas roast, roast the red bell pepper over the stovetop or in the oven until the skin is charred. Peel off the skin, remove seeds, and blend the flesh into a smooth paste.",
+    "In a small bowl, whisk together 1 tbsp olive oil, lemon zest, lemon juice, minced garlic, the roasted red pepper paste, and dried oregano until emulsified.",
+    "Add the cooked quinoa to the whisked sauce and toss until the quinoa is well coated.",
+    "Fold in the roasted chickpeas and chopped basil, mixing gently to combine all ingredients.",
+    "Transfer the mixture to a serving bowl, smoothing the top with the back of a spoon.",
+    "Sprinkle the edible rose petals over the bowl for a floral garnish and a pop of color.",
+    "Taste and adjust seasoning with extra salt or lemon juice if needed.",
+    "Serve immediately for a fresh, crispy, and energizing bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "crispy",
+    "vegetarian",
+    "gluten-free",
+    "sicilian",
+    "chickpea-bowl",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "floral-crispy-italian-chickpea-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-italian-chickpea-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:17:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "red pepper paste",
+    "diet": "vegetarian",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Bowl"
+  }
+}
