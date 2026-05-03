@@ -1,0 +1,108 @@
+{
+  "title": "Floral Luminous Norwegian Salmon Bowl",
+  "description": "A light, keto-friendly Norwegian bowl that showcases fresh salmon, a hint of truffle oil, and floral garnishes in a steam-softened medley.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "400g (2 fillets)",
+      "notes": "skin removed, bone‑free"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "1 cup",
+      "notes": "roasted lightly"
+    },
+    {
+      "name": "Radish slices",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Microgreens",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Cucumber ribbons",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "⅛ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F). Toss cauliflower florets with a splash of olive oil, salt, and pepper, then roast for 15–18 minutes until golden.",
+    "Season salmon fillets with salt, pepper, and garlic powder. Heat a non‑stick skillet over medium heat, sear salmon skin‑side down for 2–3 minutes, then flip and cook for another 2–3 minutes until just opaque.",
+    "Meanwhile, steam the cucumber ribbons and radish slices for 1–2 minutes to keep them crisp and cool.",
+    "Scoop roasted cauliflower into a bowl, top with the seared salmon fillet, and arrange radish slices, cucumber ribbons, microgreens, and a sprinkle of sesame seeds.",
+    "Drizzle truffle oil over the bowl and zest lemon on top for a bright finish.",
+    "Add fresh dill, a pinch of salt if needed, and serve immediately, letting the steam from the salmon keep the bowl warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "salmon",
+    "norwegian",
+    "truffle",
+    "steam-cooked",
+    "gluten-free",
+    "floral",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 408,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "floral-luminous-norwegian-salmon-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-luminous-norwegian-salmon-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:58:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "truffle oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Floral Luminous",
+    "dishForm": "Bowl"
+  }
+}

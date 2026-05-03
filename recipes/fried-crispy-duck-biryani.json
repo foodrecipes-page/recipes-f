@@ -1,0 +1,102 @@
+{
+  "title": "Fried Crispy Duck Biryani",
+  "description": "A rich, crunchy monsoon Chinese dish featuring orange zest in a halal-friendly recipe.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck",
+      "amount": "1 whole",
+      "notes": "halal-certified, skin-on"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain rice for crispiness"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly zested from 1 orange"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "half a teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "a few grinds"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep-fryer to 375°F (190°C).",
+    "Season duck with salt and pepper. Fry the skin-side down until golden brown, about 8-10 minutes.",
+    "Remove from heat and let cool slightly before flipping to fry the other side. Brown well and set aside.",
+    "Drain off excess oil from the frying pan used for the duck, then add a bit more oil if needed. Add ginger paste and orange zest, sauté until fragrant.",
+    "Add rice and stir-fry it in the mixture of oil and spices to ensure the grains are lightly coated with the flavors.",
+    "Return the fried duck pieces to the pan. Pour soy sauce over everything and mix well, allowing flavors to blend thoroughly. Cook for about 5 minutes more.",
+    "Pour the crispy duck pieces on top of the rice mixture in the bottom of a large, oven-proof dish. Garnish with green onions and sesame seeds.",
+    "Cover the dish with aluminum foil and bake at 320°F (160°C) for approximately 40-50 minutes or until golden brown and crispy on all sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "biryani",
+    "orange-zest",
+    "fried",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 875,
+    "protein": 31,
+    "carbs": 69,
+    "fat": 40
+  },
+  "slug": "fried-crispy-duck-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-crispy-duck-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:58:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "orange zest",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "duck",
+    "descriptor": "Fried",
+    "dishForm": "Biryani"
+  }
+}
