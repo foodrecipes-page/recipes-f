@@ -1,0 +1,113 @@
+{
+  "title": "Fluffy Venezuelan Rice Stew",
+  "description": "A tangy, airy rice stew that captures Venezuelan flavors with a splash of lime, chili powder, and a dash of cumin, perfect for a solo dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long-grain white rice",
+      "amount": "2 cups (400g)"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "4 cups (960 ml)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Yellow onion, diced",
+      "amount": "1 medium (150g)"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 (9g)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tsp (6g)",
+      "notes": "Use a fine grind for smooth heat."
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp (3g)"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp (3g)"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "Adds bright sourness."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp (5g)",
+      "notes": "For garnish and freshness."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic, cooking for 1 minute until fragrant.",
+    "Stir in tomato paste and continue cooking 2 minutes to allow it to caramelize slightly.",
+    "Sprinkle chili powder, cumin, and coriander; stir to coat the aromatics and cook for 1 minute.",
+    "Add uncooked rice to the pot, stirring to toast it lightly and coat with the spice mixture, about 3 minutes.",
+    "Pour in vegetable stock and lime juice, bring to a gentle simmer, then cover.",
+    "Reduce heat to low and let the rice cook for 15 minutes, checking occasionally that liquid isn’t evaporating too fast.",
+    "After 15 minutes, remove the lid, give the rice a gentle stir, then cover again and let it steam until the rice is fluffy and liquid absorbed, about 5-10 minutes.",
+    "Season with salt to taste, fold in chopped cilantro, and keep warm.",
+    "Serve hot, optionally with a squeeze of fresh lime or a side of avocado slices for extra creaminess."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "sour",
+    "fluffy",
+    "rice",
+    "stew",
+    "dash-friendly",
+    "spicy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 9,
+    "carbs": 58,
+    "fat": 5
+  },
+  "slug": "fluffy-venezuelan-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-venezuelan-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:42:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "chili powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Rice",
+    "descriptor": "Fluffy",
+    "dishForm": "Stew"
+  }
+}
