@@ -1,0 +1,109 @@
+{
+  "title": "Flaky Russian Salmon Salad",
+  "description": "A fresh, flaky salmon salad with a spicy tadka dressing, keto-friendly and perfect for meal prep.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet, skin removed",
+      "amount": "400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cucumber, diced",
+      "amount": "½ medium"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "¼ medium"
+    },
+    {
+      "name": "Celery, diced",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tadka spice mix (mustard seeds, cumin seeds, red chili flakes)",
+      "amount": "1 tsp mustard seeds, 1 tsp cumin seeds, ¼ tsp red chili flakes"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat salmon dry and season with salt, pepper, and 1 tbsp lemon juice.",
+    "Heat 1 tbsp olive oil in a skillet over medium‑high heat. Sear salmon skin‑side down for 3‑4 minutes until golden, then flip and cook an additional 2‑3 minutes until flaky. Remove, let cool, then flake into bite‑size pieces.",
+    "Whisk together Greek yogurt, remaining 2 tbsp olive oil, 1 tbsp lemon juice, lemon zest, and chopped dill to make the dressing.",
+    "In a dry pan, heat the remaining 2 tbsp olive oil over medium heat. Add the tadka spice mix, toast until fragrant (~30s), then pour the hot tadka over the dressing, stirring to coat.",
+    "In a large bowl, combine flaked salmon, cucumber, red onion, celery, and the dressing. Toss gently to coat evenly.",
+    "Taste and adjust seasoning with extra salt or lemon as needed.",
+    "Transfer the salad to a meal‑prep container, cover, and refrigerate up to 3 days.",
+    "Serve chilled or at room temperature, garnished with extra dill or parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "seafood",
+    "salad",
+    "meal-prep",
+    "olive-oil",
+    "tadka",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 21,
+    "carbs": 2,
+    "fat": 24
+  },
+  "slug": "flaky-russian-salmon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-russian-salmon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:19:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "olive oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Flaky",
+    "dishForm": "Salad"
+  }
+}
