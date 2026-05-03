@@ -1,0 +1,109 @@
+{
+  "title": "Floral Fragrant Moroccan Tomato Tagine",
+  "description": "A fragrant, vegetarian Moroccan tagine bursting with tomatoes, aromatic rose petals and orange blossom water, served over fluffy couscous.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "couscous",
+      "amount": "200g",
+      "notes": "dry"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or deep skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic, dried rose petals, cumin, coriander, smoked paprika, and turmeric; sauté for 1 minute until fragrant.",
+    "Add crushed tomatoes and vegetable broth, season with salt and pepper, and bring to a gentle simmer.",
+    "Reduce heat to low, cover, and cook for 15 minutes, allowing flavors to meld.",
+    "Stir in chopped parsley and a splash of orange blossom water; simmer uncovered for another 5 minutes.",
+    "Meanwhile, prepare couscous by sprinkling it in a heatproof bowl, pouring boiling water, covering, and letting it steam for 5 minutes.",
+    "Fluff couscous with a fork, then serve the tomato tagine over the couscous, garnished with toasted almonds if using."
+  ],
+  "slug": "floral-fragrant-moroccan-tomato-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fragrant-moroccan-tomato-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:24:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "tomato sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Floral Fragrant",
+    "dishForm": "Tagine"
+  }
+}
