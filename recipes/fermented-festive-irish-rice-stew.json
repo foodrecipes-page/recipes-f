@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Festive Irish Rice Stew",
+  "description": "A creamy, tangy vegetarian Irish stew that blends fermented cabbage and apple juice with brown rice for a festive, comforting bowl.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked, short‑grain preferred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "fermented cabbage",
+      "amount": "1 cup",
+      "notes": "sauerkraut, drained"
+    },
+    {
+      "name": "fermented apple juice",
+      "amount": "1/2 cup",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the brown rice under cold water until clear, then set aside.",
+    "Heat olive oil in a large pot over medium heat. Add diced onion, carrot, and celery; sauté 5–7 minutes until softened.",
+    "Add minced garlic and smoked paprika, cooking 1 minute until fragrant.",
+    "Pour in fermented apple juice to deglaze the pot, stirring to lift browned bits from the bottom.",
+    "Add drained fermented cabbage and stir well.",
+    "Pour in vegetable broth and bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 40 minutes, stirring occasionally.",
+    "After 35 minutes, add the rinsed rice, cover again, and continue simmering until the rice is tender, about 5–10 minutes more.",
+    "Season with salt and pepper to taste. Remove the pot from heat.",
+    "Serve hot, garnishing with fresh parsley if desired (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "irish",
+    "rice",
+    "stew",
+    "fermented",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 9,
+    "carbs": 86,
+    "fat": 31
+  },
+  "slug": "fermented-festive-irish-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-festive-irish-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:20:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "rice",
+    "descriptor": "Fermented Festive",
+    "dishForm": "Stew"
+  }
+}
