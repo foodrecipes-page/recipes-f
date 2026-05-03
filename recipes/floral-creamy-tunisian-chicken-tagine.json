@@ -1,0 +1,106 @@
+{
+  "title": "Floral Creamy Tunisian Chicken Tagine",
+  "description": "A lazy Sunday dish featuring tender chicken, sweet raisins, and fragrant floral notes, all slow-cooked to perfection in a creamy sauce. This Whole30-friendly recipe uses sous-vide cooking for ease and convenience.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried orange blossoms",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130°F (54°C).",
+    "In a large bowl, whisk together ras el hanout, dried rose petals, and dried orange blossoms.",
+    "Add the chicken to the bowl and toss to coat evenly with the spice mixture.",
+    "Seal the chicken in a sous-vide bag with the chicken broth and cook for 2 hours.",
+    "After 2 hours, remove the chicken from the bag and set aside.",
+    "In a blender or food processor, combine coconut cream, raisins, parsley, lemon juice, salt, and black pepper. Blend until smooth.",
+    "Add the cooked chicken to the blender and stir to coat with the creamy sauce.",
+    "Serve the chicken hot, garnished with additional parsley and rose petals if desired.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian-cuisine",
+    "sous-vide",
+    "whole30",
+    "gluten-free",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "floral-creamy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:56:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "raisins",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "floral creamy",
+    "dishForm": "Tagine"
+  }
+}
