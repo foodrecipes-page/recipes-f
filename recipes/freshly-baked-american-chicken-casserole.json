@@ -1,0 +1,94 @@
+{
+  "title": "Freshly Baked American Chicken Casserole",
+  "description": "A classic American dish featuring chicken, pasta, and a creamy sauce, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "canned cream of chicken soup",
+      "amount": "10 3/4 ounces"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Cook the pasta according to the package instructions until it is al dente.",
+    "In a large skillet, saute the chicken in a little bit of oil until it is cooked through.",
+    "In a large mixing bowl, combine the cooked pasta, chicken, cream of chicken soup, milk, shredded cheese, frozen peas and carrots, salt, black pepper, and onion powder.",
+    "Mix all the ingredients together until they are well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "freshly-baked-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-baked-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:57:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "restaurant",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Freshly Baked",
+    "dishForm": "Casserole"
+  }
+}
