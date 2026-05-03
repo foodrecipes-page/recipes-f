@@ -1,0 +1,109 @@
+{
+  "title": "Fresh Gooey Indian Berries Dal",
+  "description": "A silky, sweet‑sour lentil and berry stew that melts in your mouth, perfect for a low‑sodium solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Masoor dal (red lentils)",
+      "amount": "1 cup (200 g)",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Frozen mixed berries",
+      "amount": "1 cup (150 g)"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/2 medium (80 g)"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2 cloves (6 g)"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tsp (3 g)"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp (1.5 g)"
+    },
+    {
+      "name": "Coconut milk (unsweetened)",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "Low-sodium vegetable broth (or water)",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp (10 g)"
+    }
+  ],
+  "instructions": [
+    "Rinse the masoor dal under cold water until the water runs clear. Drain.",
+    "Heat 1 tablespoon oil in a medium saucepan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion, minced garlic, and grated ginger. Sauté until the onions are translucent, about 3–4 minutes.",
+    "Stir in turmeric powder and cook for 30 seconds.",
+    "Add the lentils, frozen berries, and vegetable broth (or water). Bring to a gentle simmer.",
+    "Reduce heat, cover, and let the dal simmer for 20 minutes, or until the lentils are tender and the berries have broken down into a thick sauce.",
+    "Stir in coconut milk, maple syrup, and lemon juice. Simmer uncovered for another 5 minutes, adjusting sweetness if needed.",
+    "Serve hot, garnished with freshly chopped cilantro. Enjoy your gooey berry dal!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegan",
+    "low-sodium",
+    "lentil",
+    "berry",
+    "dessert",
+    "gourmet"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 22,
+    "carbs": 72,
+    "fat": 7
+  },
+  "slug": "fresh-gooey-indian-berries-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-gooey-indian-berries-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:51:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "berries",
+    "descriptor": "Fresh Gooey",
+    "dishForm": "Dal"
+  }
+}
