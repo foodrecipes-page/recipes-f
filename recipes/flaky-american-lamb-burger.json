@@ -1,0 +1,95 @@
+{
+  "title": "Flaky American Lamb Burger",
+  "description": "A spicy, flaky burger with a hint of oregano, braise-cooked to perfection, and designed to be a hangover cure. Halal-friendly and satisfying.",
+  "cuisine": "american",
+  "diet": [
+    "halal",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "200g",
+      "notes": "halal certified, cut into 1cm cubes"
+    },
+    {
+      "name": "spicy paprika",
+      "amount": "1 tsp",
+      "notes": "adjust to taste for heat"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried oregano for authentic flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "adds depth without raw garlic"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp",
+      "notes": "for flakiness"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix lamb cubes with spicy paprika, oregano, garlic powder, baking powder, salt, and black pepper until well combined.",
+    "Heat olive oil in a skillet over medium heat (about 180°C/350°F).",
+    "Add lamb cubes in a single layer to the skillet; cook for 5-7 minutes until browned and tender.",
+    "Remove from heat and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "american",
+    "spicy",
+    "hangover-cure",
+    "lamb",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 25,
+    "carbs": 2,
+    "fat": 18
+  },
+  "slug": "flaky-american-lamb-burger",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-american-lamb-burger",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:03:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "oregano",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Flaky",
+    "dishForm": "Burger"
+  }
+}
