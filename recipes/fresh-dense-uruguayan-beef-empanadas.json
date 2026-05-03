@@ -1,0 +1,110 @@
+{
+  "title": "Fresh Dense Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring wonton skin wrapped around a dense beef filling, perfect for a savory snack or light meal. This one-pot recipe is easy to make and packed with flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wonton skins",
+      "amount": "24-30 skins",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 or 70/30 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper to the pan and cook until the onion is translucent.",
+    "Let the beef mixture cool to room temperature.",
+    "Lay a wonton skin on a flat surface and place a tablespoon of the beef mixture in the center of the skin.",
+    "Brush the edges of the skin with the beaten egg and fold the skin into a triangle, pressing the edges together to seal the empanada.",
+    "Repeat with the remaining wonton skins and beef mixture.",
+    "Heat about 1-2 inches of olive oil in a large skillet over medium heat.",
+    "When the oil is hot, add a few of the empanadas to the skillet (do not overcrowd) and cook until they are golden brown on the bottom.",
+    "Flip the empanadas and cook for an additional 2-3 minutes, until they are golden brown on the other side.",
+    "Remove the empanadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the empanadas warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan-cuisine",
+    "beef-empanadas",
+    "one-pot-recipe",
+    "wonton-skin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "fresh-dense-uruguayan-beef-empanadas",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-dense-uruguayan-beef-empanadas",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:26:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "wonton skin",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "fresh dense",
+    "dishForm": "Empanadas"
+  }
+}

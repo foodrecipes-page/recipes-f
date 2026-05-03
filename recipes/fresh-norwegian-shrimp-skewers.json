@@ -1,0 +1,97 @@
+{
+  "title": "Fresh Norwegian Shrimp Skewers",
+  "description": "A fresh and crunchy Norwegian dish featuring jumbo shrimp, perfect for a crowd. This pescatarian-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, and pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto the soaked skewers, leaving a small space between each shrimp.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "While the shrimp are cooking, mix the pickle relish and chopped dill in a small bowl.",
+    "Once the shrimp are done, brush them with the pickle relish mixture.",
+    "Serve the skewers hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-cuisine",
+    "seafood",
+    "grilled",
+    "skewers",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "fresh-norwegian-shrimp-skewers",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-norwegian-shrimp-skewers",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:26:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Fresh Crunchy",
+    "dishForm": "Skewers"
+  }
+}

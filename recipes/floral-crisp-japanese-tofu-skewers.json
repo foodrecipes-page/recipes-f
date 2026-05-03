@@ -1,0 +1,104 @@
+{
+  "title": "Floral Crisp Japanese Tofu Skewers",
+  "description": "A delicate and visually stunning Japanese dish featuring marinated tofu, crispy on the outside and tender within, served with a side of soured cream and chive dip. Perfect for a dinner party or special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "Jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Soured cream",
+      "amount": "1 cup",
+      "notes": "for dipping sauce"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped, for dipping sauce"
+    },
+    {
+      "name": "Edible flowers",
+      "amount": "1/4 cup",
+      "notes": "such as violas or pansies, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together sake, mirin, rice vinegar, and sugar to make the marinade.",
+    "Add the cubed tofu to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated tofu cubes onto skewers, leaving a small space between each piece.",
+    "Brush the tofu with sesame oil and season with salt.",
+    "Grill the tofu skewers for 3-4 minutes per side, or until crispy and golden brown.",
+    "Meanwhile, mix the soured cream and chives in a small bowl.",
+    "Serve the grilled tofu skewers with the soured cream and chive dip on the side.",
+    "Garnish with edible flowers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "tofu-recipes",
+    "vegetarian-dishes",
+    "jain-friendly",
+    "grilled-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "floral-crisp-japanese-tofu-skewers",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-japanese-tofu-skewers",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:26:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "floral crisp",
+    "dishForm": "Skewers"
+  }
+}
