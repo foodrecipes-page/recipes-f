@@ -1,0 +1,102 @@
+{
+  "title": "Fermented Juicy Saudi Arabian Beets Kebabs",
+  "description": "A traditional Saudi Arabian dish featuring fermented beets, marinated in a blend of spices and grilled to perfection. This egg-free friendly recipe is a nostalgic treat for anyone looking to experience the flavors of Saudi Arabia.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the beets, water, and salt. Let it sit at room temperature for 3-5 days, or until the beets are fermented and tangy.",
+    "Preheat the grill to medium-high heat.",
+    "Drain the beets and rinse them with cold water. Pat them dry with paper towels.",
+    "In a large bowl, whisk together the olive oil, lemon juice, garlic, cumin, paprika, and black pepper.",
+    "Add the beets to the bowl and toss to coat with the marinade.",
+    "Thread the beets onto the wooden skewers, leaving a small space between each beet.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, or until the beets are tender and lightly charred.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "fermented-food",
+    "beet-recipes",
+    "grilled-vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "fermented-juicy-saudi-arabian-beets-kebabs",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-juicy-saudi-arabian-beets-kebabs",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "beets",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beets",
+    "descriptor": "fermented juicy",
+    "dishForm": "Kebabs"
+  }
+}
