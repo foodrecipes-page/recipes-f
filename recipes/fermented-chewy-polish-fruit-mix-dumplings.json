@@ -1,0 +1,97 @@
+{
+  "title": "Fermented Chewy Polish Fruit Mix Dumplings",
+  "description": "A traditional Polish dish featuring a mix of fruits, slow-cooked to create a chewy and romantic dessert, low in carbs and perfect for special occasions. The fermentation process gives it a unique taste and texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mixed berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "apples",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "plums",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed berries, diced apples, and plums.",
+    "In a separate bowl, whisk together the almond flour, coconut sugar, eggs, sour cream, vanilla extract, and salt.",
+    "Add the dry ingredients to the fruit mixture and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm place, covered with a cloth, and let it ferment for 2 hours.",
+    "Preheat the oven to 375°F (190°C).",
+    "Divide the dough into 8-10 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the dumplings are golden brown and chewy.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 125,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "polish-dish",
+    "fermented-food",
+    "low-carb",
+    "gluten-free",
+    "romantic-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fermented-chewy-polish-fruit-mix-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-polish-fruit-mix-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:34:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "fruit mix",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fruit mix",
+    "descriptor": "fermented chewy",
+    "dishForm": "Dumplings"
+  }
+}
