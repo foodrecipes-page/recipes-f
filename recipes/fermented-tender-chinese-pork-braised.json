@@ -1,0 +1,108 @@
+{
+  "title": "Red Braised Pork Belly with Jasmine Rice, Shandong Style",
+  "description": "A traditional Shandong dish showcasing tender pork belly in a rich, fermented soybean paste sauce, served with fragrant jasmine rice.",
+  "cuisine": "Shandong Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1.5 lbs (675g)"
+    },
+    {
+      "name": "Doubanjiang",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Fermented soybean paste (dòu jiàng)",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup (180g)"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups (960ml)"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Rinse the pork belly and pat it dry with paper towels.",
+    "In a small bowl, mix together Doubanjiang, fermented soybean paste, rice vinegar, sesame oil, garlic, and ginger.",
+    "Rub the spice mixture all over the pork belly, making sure to coat it evenly.",
+    "Place the pork belly in a large Dutch oven or heavy pot and add 2 cups of water.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the pork for 2.5 hours, or until it's tender and easily shreds with a fork.",
+    "While the pork is braising, cook the jasmine rice according to package instructions.",
+    "Once the pork is done, remove it from the oven and let it rest for 10 minutes.",
+    "Slice the pork into thin strips and serve it with the cooked jasmine rice and a sprinkle of scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "shandong",
+    "braised",
+    "pork",
+    "fermented",
+    "jasmine rice",
+    "doubanjiang",
+    "fermented soybean paste",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 65,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "fermented-tender-chinese-pork-braised",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-chinese-pork-braised",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:45:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "jasmine rice",
+    "diet": "dash",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "fermented tender",
+    "dishForm": "Braised"
+  }
+}
