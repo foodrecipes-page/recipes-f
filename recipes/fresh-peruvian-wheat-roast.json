@@ -1,0 +1,95 @@
+{
+  "title": "Fresh Peruvian Wheat Roast",
+  "description": "A crisp, herb-infused wheat loaf with a kick of red chilli powder, roasted to golden perfection for a satisfying solo dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wheat flour",
+      "amount": "150 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20 ml",
+      "notes": "kosher-certified"
+    },
+    {
+      "name": "Red chilli powder",
+      "amount": "5 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "10 g"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "10 g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "10 ml"
+    },
+    {
+      "name": "Water",
+      "amount": "80 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "In a large bowl, whisk together wheat flour, salt, red chilli powder, and crushed garlic.",
+    "Add olive oil and mix until crumbly.",
+    "Gradually add water, stirring until dough forms.",
+    "Transfer dough to a floured surface and knead for 8 minutes until elastic.",
+    "Shape dough into a round loaf and place on the prepared sheet.",
+    "Brush the top with lemon juice and scatter chopped cilantro and oregano.",
+    "Bake for 25 minutes until golden and crisp.",
+    "Remove from oven and let cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "kosher-friendly",
+    "one-pan",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 5,
+    "carbs": 26,
+    "fat": 5
+  },
+  "slug": "fresh-peruvian-wheat-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-peruvian-wheat-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:07:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "red chilli powder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Wheat",
+    "descriptor": "Fresh",
+    "dishForm": "Roast"
+  }
+}

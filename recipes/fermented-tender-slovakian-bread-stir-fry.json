@@ -1,0 +1,109 @@
+{
+  "title": "Fermented Tender Slovakian Bread Stir-fry",
+  "description": "A quick nut-free solo dinner featuring fermented sauerkraut and stale bread in a savory stir-fry.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "2 slices",
+      "notes": "cubed"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "fermented cabbage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice stale bread into small cubes and set aside.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in shredded carrot, bell pepper, and minced garlic; cook for 4 minutes.",
+    "Add sauerkraut and paprika, stirring until well mixed, cook 2 minutes.",
+    "Add bread cubes, tossing to coat with the mixture, cook 3 minutes until bread is lightly toasted.",
+    "Season with salt, pepper, and lemon juice to taste, cooking for another minute.",
+    "Transfer to a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "nut-free",
+    "one-pan",
+    "quick-and-easy",
+    "slovakian",
+    "stale-bread"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 14,
+    "carbs": 70,
+    "fat": 16
+  },
+  "slug": "fermented-tender-slovakian-bread-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-slovakian-bread-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:06:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "stale bread",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bread",
+    "descriptor": "Fermented Tender",
+    "dishForm": "Stir-fry"
+  }
+}
