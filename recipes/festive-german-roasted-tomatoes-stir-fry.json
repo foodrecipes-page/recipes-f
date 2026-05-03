@@ -1,0 +1,90 @@
+{
+  "title": "Festive German Roasted Tomatoes Stir-fry",
+  "description": "This herbal and festive German dish features roasted tomatoes combined with a dash of friendly flavors for a light and savory side or appetizer.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 (medium-sized)",
+      "notes": "Use any variety of tomatoes, such as Roma or cherry"
+    },
+    {
+      "name": "Extra-virgin Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "Can be replaced with avocado oil for a heartier taste"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 whole",
+      "notes": "Sliced into thin rounds or minced finely to enhance the flavor"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp (optional)",
+      "notes": "For a bit of heat and depth, add 1/4-1/2 tsp based on preference"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "3 tbsp (chopped fresh parsley or dill)",
+      "notes": "Use either for variety or both to complement the tomatoes well"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste, adjust based on the saltiness of your tomato varieties and flavors used"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "Can be omitted or replaced with any mild seasoning you prefer for a milder dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Wash and dry tomatoes. Cut in half.",
+    "Place tomato halves on a baking sheet lined with parchment paper, cut sides up.",
+    "In a small bowl, mix olive oil, minced garlic, red pepper flakes (if using), salt, and black pepper to create the rub. Apply this mixture generously over the tomato halves, ensuring they are evenly coated.",
+    "Roast tomatoes in preheated oven for 20-25 minutes until golden brown and slightly caramelized on the edges.",
+    "While tomatoes are roasting, chop fresh herbs finely or leave them whole if using dill as a garnish.",
+    "After tomatoes come out of the oven, stir them gently to redistribute any juices that may have pooled at the bottom. Remove from heat.",
+    "Combine roasted tomatoes with chopped fresh herbs in a serving bowl and mix thoroughly until all ingredients are evenly distributed.",
+    "Garnish with additional fresh herbs if desired before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "german",
+    "side",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "festive-german-roasted-tomatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-german-roasted-tomatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:32:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Festive",
+    "dishForm": "Stir-fry"
+  }
+}
