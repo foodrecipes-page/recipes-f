@@ -1,0 +1,110 @@
+{
+  "title": "Fresh Chewy Jamaican Goat Stew",
+  "description": "A hearty, protein-packed Jamaican goat stew with tender, chewy meat and vibrant spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat, cubed",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scotch bonnet pepper, seeded and minced",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh thyme, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "allspice (pimento), ground",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro, chopped (garnish)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, ginger, and scotch bonnet pepper; cook for 1 minute until fragrant.",
+    "Add tomato paste, thyme, allspice, and brown sugar, stirring to combine and cook for 2 minutes.",
+    "Add the cubed goat meat, stirring to coat with the spice mixture.",
+    "Pour in vegetable stock and bring to a gentle simmer.",
+    "Add a bay leaf (optional) and reduce heat to low, covering the pot.",
+    "Simmer for 60-75 minutes, turning occasionally, until the goat is tender and the flavors meld.",
+    "Remove from heat, discard bay leaf if used, taste and adjust salt and pepper if needed.",
+    "Serve hot, garnished with fresh cilantro.",
+    "Enjoy your Fresh Chewy Jamaican Goat Stew!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "goat-stew",
+    "high-protein",
+    "paleo-friendly",
+    "comfort-food",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 1090,
+    "protein": 120,
+    "carbs": 20,
+    "fat": 63
+  },
+  "slug": "fresh-chewy-jamaican-goat-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-chewy-jamaican-goat-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:14:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "goat meat",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "goat",
+    "descriptor": "Fresh Chewy",
+    "dishForm": "Stew"
+  }
+}
