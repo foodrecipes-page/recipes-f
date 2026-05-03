@@ -1,0 +1,117 @@
+{
+  "title": "Fresh Zesty Ukrainian Cucumber Stir-Fry",
+  "description": "A quick, vibrant stir-fry featuring Persian cucumbers, red onion, garlic, herbs, and a tangy vinaigrette—perfect for a relaxed Sunday lunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "2 large",
+      "notes": "sliced into ½‑inch half‑moons"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh tarragon",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "optional to balance acidity"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "¼ tsp",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "juice of ½ lemon"
+    }
+  ],
+  "instructions": [
+    "Heat the sunflower oil in a large non‑stick skillet over medium heat.",
+    "Add the sliced red onion and sauté for 1–2 minutes until translucent.",
+    "Stir in the minced garlic and cook for another 30 seconds, until fragrant.",
+    "Add the cucumber half‑moons to the pan, tossing gently to combine.",
+    "Pour the white vinegar and sugar over the vegetables, stirring to coat.",
+    "Season with salt, black pepper, and crushed red pepper flakes (if using).",
+    "Cook the mixture for 3–4 minutes, allowing the cucumbers to soften slightly but remain crisp.",
+    "Remove from heat and stir in the chopped dill and tarragon.",
+    "Finish with a squeeze of fresh lemon juice and a quick final toss.",
+    "Serve immediately over a bed of lettuce or alongside warm Ukrainian bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "kosher-friendly",
+    "stir-fry",
+    "quick",
+    "summer",
+    "lazy-sunday",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "fresh-zesty-ukrainian-cucumber-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-zesty-ukrainian-cucumber-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:54:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "persian cucumber",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Fresh Zesty",
+    "dishForm": "Stir-fry"
+  }
+}
