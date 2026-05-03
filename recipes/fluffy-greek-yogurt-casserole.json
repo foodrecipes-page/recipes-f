@@ -1,0 +1,93 @@
+{
+  "title": "Fluffy Greek Yogurt Casserole",
+  "description": "A tangy, fluffy breakfast casserole with a lightly caramelized honey‑olive oil topping that’s both energizing and low‑calorie.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "nonfat Greek yogurt",
+      "amount": "200g",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for batter"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 teaspoon",
+      "notes": "leavening"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "walnuts, chopped",
+      "amount": "50g",
+      "notes": "optional for crunch"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1 tablespoon",
+      "notes": "optional for moisture"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for caramel sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for caramel sauce"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": "for caramel sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "In a large bowl, whisk together the yogurt, eggs, honey, vanilla, baking soda, and salt until smooth.",
+    "Fold in the chopped walnuts and applesauce, if using.",
+    "Grease a 9x9 inch baking dish with a light spray of olive oil and pour the batter in, spreading evenly.",
+    "Bake for 35–40 minutes, or until the top is set and a toothpick comes out clean.",
+    "While the casserole bakes, combine 1 tablespoon honey, 1 tablespoon olive oil, and 1 tablespoon water in a small saucepan over medium heat. Stir until the mixture thickens and turns a light amber color, about 3–5 minutes. Remove from heat.",
+    "Remove the casserole from the oven, drizzle the caramel sauce over the top, and let it set for a few minutes before serving."
+  ],
+  "slug": "fluffy-greek-yogurt-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-greek-yogurt-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:23:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Fluffy",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Floral Velvety Brazilian Chicken Skewers",
+  "description": "A kid-friendly Brazilian dish featuring tahini paste and a floral twist, perfect for a summer evening. This recipe is FODMAP-friendly and easy to make.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine tahini paste, coconut milk, honey, lime juice, and olive oil. Blend until smooth.",
+    "Add minced garlic-infused oil, dried rose petals, salt, and black pepper to the blender. Blend until well combined.",
+    "Place the chicken pieces in a large bowl and pour the marinade over them. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat. Thread the marinated chicken pieces onto skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with additional dried rose petals if desired.",
+    "Let the skewers rest for 5 minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as grilled vegetables or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-skewers",
+    "kid-friendly",
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "floral-velvety-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-velvety-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:23:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "tahini paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "floral velvety",
+    "dishForm": "Skewers"
+  }
+}
