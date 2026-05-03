@@ -1,0 +1,85 @@
+{
+  "title": "Flaky American Corn Fritters",
+  "description": "Crispy, lime‑bright fritters made from sweet corn, chickpea flour, and cornmeal, air‑fried for a quick solo dinner that's jain friendly.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh sweet corn kernels",
+      "amount": "2 cups",
+      "notes": "cut from 2 ears"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil spray",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 200°C (400°F).",
+    "In a large bowl whisk together chickpea flour, cornmeal, baking powder, cumin, salt, pepper, and lime zest until well combined.",
+    "Add the corn kernels to the dry mix and stir to coat.",
+    "Pour in lime juice, water, and mix until a thick, loose batter forms—add a little more water if it feels too dry.",
+    "Lightly spray the air fryer basket with oil spray. Spoon about 2 tablespoons of batter for each fritter, arranging them in a single layer.",
+    "Air fry for 10 minutes, flipping halfway through, until the fritters are golden and crisp.",
+    "Remove from the air fryer and let them cool for a minute before serving.",
+    "Serve hot with fresh lime wedges and optionally sprinkle chopped cilantro on top."
+  ],
+  "slug": "flaky-american-corn-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-american-corn-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:47:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "lime",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Corn",
+    "descriptor": "Flaky",
+    "dishForm": "Fritters"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Chewy Ukrainian Shrimp Bowl",
+  "description": "A high‑protein, dairy‑free bowl featuring chewy buckwheat noodles, fermented miso‑shrimp, and crisp veggies for a post‑workout pick‑me‑up.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried shrimp",
+      "amount": "200g",
+      "notes": "rehydrated for 30 min"
+    },
+    {
+      "name": "Buckwheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fermented miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions, sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Carrot, julienned",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Rehydrate dried shrimp in warm water for 30 minutes, then drain and pat dry.",
+    "Mix buckwheat flour, 200 ml water, and 1 tsp salt to form a smooth dough.",
+    "Roll dough to 3 mm thickness, cut into 2.5 cm wide ribbons, and boil in lightly salted water for 5 min until chewy; drain and rinse with cold water.",
+    "Whisk miso paste, soy sauce, rice vinegar, sesame oil, garlic, and ginger to create the fermented sauce.",
+    "Heat a wok over medium‑high heat, add a splash of water, then stir‑fry the shrimp until opaque and 145 °F internal temperature is reached, about 2–3 min.",
+    "Add the sauce to the shrimp, stir, and cook for another 1–2 min until coated.",
+    "Toss the cooked noodles into the wok, heat for 1 min, ensuring they’re coated and warmed through.",
+    "Arrange the noodle‑shrimp mixture in bowls.",
+    "Top with julienned carrot and sliced green onions.",
+    "Serve immediately while warm; squeeze a splash of lime if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "post-workout",
+    "ukrainian",
+    "dairy-free",
+    "shrimp",
+    "fermented",
+    "chewy",
+    "buckwheat",
+    "noodles",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 80,
+    "fat": 6
+  },
+  "slug": "fermented-chewy-ukrainian-shrimp-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-ukrainian-shrimp-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:46:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "dried shrimp",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Fermented Chewy",
+    "dishForm": "Bowl"
+  }
+}
