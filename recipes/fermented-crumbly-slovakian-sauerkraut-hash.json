@@ -1,0 +1,117 @@
+{
+  "title": "Mliečna Pólaš",
+  "description": "A traditional Slovakian fermented crumbly sauerkraut hash dish, infused with the sweetness of redcurrants and the crunch of toast, all in a paleo-friendly one-pot meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 medium red cabbage, shredded",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup caraway seeds",
+      "amount": null,
+      "notes": "whole or ground"
+    },
+    {
+      "name": "1/4 cup redcurrant juice",
+      "amount": null,
+      "notes": "fresh or store-bought"
+    },
+    {
+      "name": "1/2 cup toasted rye bread, crumbled",
+      "amount": null,
+      "notes": "gluten-free or regular"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup apple cider vinegar",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon coconut oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage and caraway seeds. Massage the cabbage with your hands for 5 minutes to help release its juices.",
+    "In a large cast-iron skillet or Dutch oven, heat the coconut oil over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until it is translucent and starting to caramelize (about 8-10 minutes).",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the shredded cabbage mixture to the skillet, and stir to combine with the onion and garlic.",
+    "In a small bowl, whisk together the redcurrant juice, apple cider vinegar, water, salt, and black pepper. Pour the mixture over the cabbage mixture, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 30 minutes, stirring occasionally.",
+    "During the last 10 minutes of cooking, stir in the crumbled toasted rye bread.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Using a slotted spoon, transfer the sauerkraut hash to a serving dish. Serve hot, garnished with additional toasted rye bread crumbs and redcurrants, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "fermented",
+    "crumbly",
+    "one-pot",
+    "paleo-friendly",
+    "vegan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "fermented-crumbly-slovakian-sauerkraut-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crumbly-slovakian-sauerkraut-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:48:33Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "redcurrants",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "fermented crumbly",
+    "dishForm": "Hash"
+  }
+}
