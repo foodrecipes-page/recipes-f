@@ -1,0 +1,118 @@
+{
+  "title": "Fluffy British Beef Roast",
+  "description": "A family‑friendly roast with a velvety gravy and fluffy interior, perfect for kids and sugar‑free.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef rib roast",
+      "amount": "1.5 kg",
+      "notes": "bone‑in for extra flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4, cut into sticks"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, crushed"
+    },
+    {
+      "name": "beef stock",
+      "amount": "250 ml",
+      "notes": "low‑sodium, sugar‑free"
+    },
+    {
+      "name": "red wine",
+      "amount": "250 ml",
+      "notes": "optional, sugar‑free"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "sugar‑free"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220 °C (425 °F). Rub the roast with salt, pepper and thyme.",
+    "Heat olive oil in an oven‑proof skillet over medium‑high heat. Sear the roast 3‑4 min on each side until browned.",
+    "Transfer the skillet to the oven and roast for 15 min.",
+    "Reduce the oven temperature to 180 °C (350 °F). Add onions, carrots, garlic and the bay leaf to the skillet, cover and roast for 1 h 15 min or until the meat is tender.",
+    "Remove the roast, tent with foil and let it rest 15 min before slicing.",
+    "Meanwhile, pour the pan juices into a saucepan. Stir in the flour and cook for 2 min to make a roux.",
+    "Gradually add the beef stock and red wine, stirring constantly. Bring to a simmer and add the tomato paste. Cook 10 min until the gravy thickens.",
+    "Finish the gravy with butter, season with salt and pepper to taste.",
+    "Serve the sliced roast with the warm gravy and roasted vegetables.",
+    "Enjoy a delicious, fluffy British beef roast that’s kid‑friendly and sugar‑free."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "family-friendly",
+    "sugar-free",
+    "british-beef",
+    "roast-dinner",
+    "kid-friendly",
+    "gravy"
+  ],
+  "nutrition": {
+    "calories": 708,
+    "protein": 53,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "fluffy-british-beef-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-british-beef-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:08:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "beef gravy",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Beef",
+    "descriptor": "Fluffy",
+    "dishForm": "Roast"
+  }
+}
