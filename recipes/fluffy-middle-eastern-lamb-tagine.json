@@ -1,0 +1,115 @@
+{
+  "title": "Fluffy MiddleEastern Lamb Tagine",
+  "description": "Herbal, fluffy lamb tagine with a crispy coating and rich, reduced sauce, featuring fajita seasoning, dairy‑free and gluten‑free for a show‑off Middle Eastern dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder cubes",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped (canned or fresh)"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1 cup",
+      "notes": "chopped parsley, cilantro, mint"
+    }
+  ],
+  "instructions": [
+    "Pat lamb cubes dry and season with salt and pepper.",
+    "Whisk chickpea flour with fajita seasoning, cumin, coriander, and cardamom in a bowl. Toss lamb until evenly coated.",
+    "Heat olive oil in a large skillet or tagine over medium‑high heat. Brown lamb on all sides, about 8‑10 minutes. Transfer browned lamb to a slow cooker.",
+    "In the same skillet, sauté onion until translucent, about 4 minutes. Add garlic and cook for another 30 seconds.",
+    "Add the onion mixture, tomatoes, and chicken broth to the slow cooker. Stir to combine and ensure the lamb is mostly submerged.",
+    "Cover and cook on low for 4–5 hours, or until the lamb is tender and the sauce has reduced to a thick, fluffy consistency.",
+    "About 30 minutes before serving, stir in the chopped fresh herbs.",
+    "Serve hot over couscous or flatbread, garnished with extra herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 270,
+  "totalTimeMin": 280,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "dairy-free",
+    "fluffy",
+    "tagine",
+    "lamb",
+    "herbal",
+    "spicy",
+    "slow-cooker",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 408,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 34
+  },
+  "slug": "fluffy-middle-eastern-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-middle-eastern-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:31:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "MiddleEastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Fluffy",
+    "dishForm": "Tagine"
+  }
+}
