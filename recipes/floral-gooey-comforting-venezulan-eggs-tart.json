@@ -1,0 +1,122 @@
+{
+  "title": "Floral Gooey Comforting Venezuelan Eggs Tart",
+  "description": "A rich and comforting Venezuelan dish featuring a gooey egg filling, a crumbly gluten-free crust, and a floral touch from the rose petals.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-Free All-Purpose Flour",
+      "amount": "1 1/2 cups",
+      "notes": "Make sure to choose a high-quality gluten-free flour blend."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": "Use a high-quality coconut oil for a flaky crust."
+    },
+    {
+      "name": "Non-Dairy Milk",
+      "amount": "3/4 cup",
+      "notes": "Choose a non-dairy milk that suits your taste preferences."
+    },
+    {
+      "name": "Rose Petal Jam",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality rose petal jam for the best flavor."
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large eggs",
+      "notes": "Make sure to use room temperature eggs for a smooth filling."
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1/2 cup",
+      "notes": "Use a high-quality shredded coconut for a nice texture."
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality vanilla extract for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use a high-quality salt for a nice flavor."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality granulated sugar for a nice sweetness."
+    },
+    {
+      "name": "Unsalted Almond Butter",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality unsalted almond butter for a creamy filling."
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": "Use high-quality dark chocolate chips for a nice flavor and texture."
+    },
+    {
+      "name": "Fresh Rose Petals",
+      "amount": "1 tablespoon",
+      "notes": "Use edible fresh rose petals for a nice garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the gluten-free flour, coconut oil, and non-dairy milk. Mix until a dough forms.",
+    "Roll out the dough and place it in a tart pan with a removable bottom.",
+    "In a separate bowl, mix together the rose petal jam, shredded coconut, vanilla extract, salt, and granulated sugar.",
+    "Add the unsalted almond butter and dark chocolate chips to the bowl and mix until well combined.",
+    "Pour the egg mixture into the tart crust and smooth the top.",
+    "Bake the tart for 25-30 minutes or until the crust is golden brown and the filling is set.",
+    "Remove the tart from the oven and let it cool for 10 minutes.",
+    "Garnish with fresh rose petals and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "breakfast",
+    "tart",
+    "egg",
+    "floral",
+    "comforting",
+    "dairy-free-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "floral-gooey-comforting-venezulan-eggs-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-gooey-comforting-venezulan-eggs-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:52:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "eggs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "eggs",
+    "descriptor": "floral gooey comforting",
+    "dishForm": "Tart"
+  }
+}
