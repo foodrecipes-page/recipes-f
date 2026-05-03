@@ -1,0 +1,113 @@
+{
+  "title": "Floral Crunchy Peruvian Wild Mushrooms Stew",
+  "description": "A vibrant, energizing stews that combines wild Peruvian mushrooms, aji amarillo, and crunchy quinoa in a pressure‑cooked, paleo‑friendly dish. The floral notes of lime and cilantro balance the earthy mushrooms and give it a refreshing finish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms (chanterelles, morels, or mixed wild variety)",
+      "amount": "500 g",
+      "notes": "clean, trim stems, slice or leave whole for texture"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup (cooked)",
+      "notes": "rinse thoroughly and cook to a slightly crunchy texture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing aromatics"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3",
+      "notes": "fresh for aroma"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 inch",
+      "notes": "adds zing"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "½ cup",
+      "notes": "for final garnish and floral brightness"
+    },
+    {
+      "name": "lime (lima) juice",
+      "amount": "2 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "use low‑sodium, paleo‑friendly stock"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "2 tbsp",
+      "notes": "for added crunch and protein"
+    }
+  ],
+  "instructions": [
+    "Set your pressure cooker to sauté mode and heat 1 tbsp olive oil.",
+    "Add minced garlic and grated ginger; cook until fragrant (~1 minute).",
+    "Add the aji amarillo paste and stir to combine, cooking for another 30 seconds to bloom the flavors.",
+    "Add sliced wild mushrooms to the pot, sautéing until they release moisture and start to brown, about 3 minutes.",
+    "Stir in the rinsed quinoa, ensuring it coats evenly with the aromatics.",
+    "Pour in the vegetable broth, then give the mixture a good stir to combine.",
+    "Seal the pressure cooker and cook on high pressure for 10 minutes.",
+    "Quick‑release the pressure, then open the lid carefully.",
+    "Stir in the lime juice and chopped cilantro, tasting and adjusting salt and pepper as needed.",
+    "Transfer the stew to serving bowls, sprinkle toasted pumpkin seeds on top for a crunchy finish, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "wild-mushrooms",
+    "paleo-friendly",
+    "gluten-free",
+    "pressure-cook",
+    "floral",
+    "crunchy",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "floral-crunchy-peruvian-wild-mushrooms-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-peruvian-wild-mushrooms-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:14:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "Floral Crunchy",
+    "dishForm": "Stew"
+  }
+}
