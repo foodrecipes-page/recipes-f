@@ -1,0 +1,104 @@
+{
+  "title": "Fresh Chewy Algerian White Fish Tagine",
+  "description": "A romantic Algerian dish featuring fresh white fish fillets cooked in a flavorful tagine with a rich deglaze, perfect for a special occasion. This halal-friendly recipe serves 4 people.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin, paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the white fish fillets and cook for 2-3 minutes on each side, or until they are cooked through and flake easily with a fork.",
+    "Remove the fish from the tagine and set it aside on a plate.",
+    "Add the chicken broth to the tagine and bring it to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer the broth for 5 minutes, or until it has reduced slightly and the flavors have melded together.",
+    "Return the fish to the tagine and spoon some of the sauce over the top of each fillet.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "fish-recipes",
+    "tagine-recipes",
+    "north-african-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "fresh-chewy-algerian-white-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-chewy-algerian-white-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:44:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "white fish fillets",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "white fish",
+    "descriptor": "fresh chewy",
+    "dishForm": "Tagine"
+  }
+}

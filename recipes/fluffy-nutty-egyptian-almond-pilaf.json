@@ -1,0 +1,106 @@
+{
+  "title": "Fluffy Nutty Egyptian Almond Pilaf",
+  "description": "A fluffy, nutty rice pilaf packed with protein and aromatic spices, perfect for a post‑workout meal and sugar‑free friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto-friendly",
+    "low-carb",
+    "protein-packed",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and soaked 30 min"
+    },
+    {
+      "name": "whole almonds",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon (plus extra for marinating almonds)"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinating almonds"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear, then soak it in a bowl for 30 minutes.",
+    "While the rice soaks, combine the almonds, 2 tablespoons of olive oil, ground cloves, and lemon juice in a bowl; let them marinate for 15 minutes.",
+    "Heat 1 tablespoon of olive oil in a medium saucepan over medium heat and sauté the diced onion until translucent.",
+    "Add the minced garlic, ground cumin, smoked paprika, and the marinated almonds to the saucepan; cook, stirring, for 2 minutes until fragrant.",
+    "Drain the soaked rice and add it to the saucepan, stirring to coat the grains with the almond‑spice mixture.",
+    "Pour in the vegetable broth, bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 15 minutes until the rice is tender and liquid is absorbed.",
+    "Remove the pan from the heat, fluff the pilaf with a fork, then stir in the toasted almonds.",
+    "Serve hot, optionally garnished with fresh parsley or a dollop of Greek yogurt if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "nutty",
+    "fluffy",
+    "post-workout",
+    "keto-friendly",
+    "low-carb",
+    "no-sugar-added",
+    "quick-healthy"
+  ],
+  "nutrition": {
+    "calories": 173,
+    "protein": 14,
+    "carbs": 93,
+    "fat": 29
+  },
+  "slug": "fluffy-nutty-egyptian-almond-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-nutty-egyptian-almond-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:45:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "ground clove",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Almond",
+    "descriptor": "Fluffy Nutty",
+    "dishForm": "Pilaf"
+  }
+}
