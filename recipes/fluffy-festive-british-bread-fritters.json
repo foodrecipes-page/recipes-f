@@ -1,0 +1,109 @@
+{
+  "title": "Fluffy Festive British Bread Fritters",
+  "description": "Fermented, airy bread fritters with a splash of rice wine and a zesty tadka, perfect for a festive British snack.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g",
+      "notes": "plain"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5 g",
+      "notes": "1 packet"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "15 g"
+    },
+    {
+      "name": "oat milk",
+      "amount": "120 ml",
+      "notes": "warm"
+    },
+    {
+      "name": "rice wine (sake)",
+      "amount": "30 ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 g"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "50 ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "fresh grated ginger",
+      "amount": "5 g",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh coriander, chopped",
+      "amount": "10 g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, yeast, sugar, and salt.",
+    "Add warm oat milk and rice wine, stirring until a soft dough forms.",
+    "Cover the bowl with a damp cloth and let the dough rise at room temperature for 1 hour, or until doubled in size.",
+    "Heat coconut oil in a deep skillet over medium heat.",
+    "Drop spoonfuls of the risen dough into the hot oil, flattening slightly with the back of a spoon.",
+    "Fry each fritter for 2–3 minutes per side or until golden brown and puffed.",
+    "Remove from oil and drain on paper towels. Sprinkle with a tadka of cumin, mustard seeds, and a pinch of grated ginger if desired.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve hot with a side of mint yogurt dip or a simple salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy-british-bread-fritters",
+    "festive",
+    "dairy-free",
+    "rice-wine",
+    "tadka",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "fluffy-festive-british-bread-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-festive-british-bread-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:56:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "rice wine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "bread",
+    "descriptor": "Fluffy Festive",
+    "dishForm": "Fritters"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Fresh Filipino Chicken Soup",
+  "description": "A comforting, dairy‑free chicken soup featuring tender chicken, fresh papaya, carrots, and malunggay leaves, perfect for kids and adults alike.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "400g",
+      "notes": "sliced"
+    },
+    {
+      "name": "galangal or ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "green papaya",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "malunggay leaves",
+      "amount": "2 cups",
+      "notes": "washed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "6 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a splash of oil.",
+    "Sauté the minced garlic, sliced onion, and galangal/ginger until fragrant, about 2 minutes.",
+    "Add the sliced chicken breast and cook until it turns white on the outside, about 5 minutes.",
+    "Pour in the water, cover, and bring to a gentle boil. Reduce heat and simmer for 10 minutes.",
+    "Add the diced green papaya, carrots, and fish sauce. Continue simmering for another 8 minutes until the vegetables are tender.",
+    "Stir in the malunggay leaves and simmer for 2 more minutes until wilted.",
+    "Slowly pour in the eggs, stirring gently to form soft ribbons. Cook for 1 minute until the eggs are set.",
+    "Taste and season with salt as needed.",
+    "Serve hot, ladling soup into bowls with a few garnish stalks of scallion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "chicken-soup",
+    "kid-friendly",
+    "dairy-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 23,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "fresh-filipino-chicken-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-filipino-chicken-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:55:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "chicken stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Fresh",
+    "dishForm": "Soup"
+  }
+}
