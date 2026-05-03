@@ -1,0 +1,112 @@
+{
+  "title": "Flaky Portuguese Floral Broil",
+  "description": "A vegan-friendly one-pot dish with flaky texture and floral notes from rosemary, broiled to perfection.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "portuguese smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for floral depth"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "grated fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "white beans",
+      "amount": "1 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "broth",
+      "amount": "1 cup",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium pot over medium heat.",
+    "Add smoked paprika, rosemary, nutmeg, and garlic; sauté for 1 minute.",
+    "Add diced tomatoes, white beans, vegetable broth, and bay leaf; bring to a simmer.",
+    "Reduce heat to low, add salt and pepper; cook for 15 minutes until beans are tender.",
+    "Broil for 5 minutes to create a flaky, golden crust on top.",
+    "Remove from heat, let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "vegan",
+    "floral",
+    "flaky",
+    "broil",
+    "nutmeg",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "flaky-portuguese-floral-broil",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-portuguese-floral-broil",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:10:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "nutmeg",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "floral",
+    "descriptor": "flaky",
+    "dishForm": "Broil"
+  }
+}
