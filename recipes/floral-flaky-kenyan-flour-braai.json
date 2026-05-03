@@ -1,0 +1,115 @@
+{
+  "title": "Kenyan Chakula ya Kukunja",
+  "description": "A Kenyan-inspired dish with a floral and flaky pastry crust filled with spicy braised meat, served as a dinner option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour (All-purpose, high-protein)",
+      "amount": "2 cups",
+      "notes": "Use a high-protein flour for better texture"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing pastry crust"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": "Use a sweet onion variety"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use 2-3 cloves if you prefer a stronger garlic flavor"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "2 medium",
+      "notes": "Use any variety of tomato you like"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "2 teaspoons",
+      "notes": "Use a high-quality, mild to medium-hot chilli powder"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Use a mild to medium-hot curry powder for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1/4 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Braising liquid (beef broth or water)",
+      "amount": "2 cups",
+      "notes": "Use beef broth for added richness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine flour, salt, and black pepper. Gradually add ghee or oil and mix until the dough comes together.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat. Add sliced onion and cook until it's lightly browned.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Add diced tomato and cook for 2-3 minutes, until they start to break down.",
+    "Add chilli powder, curry powder, and braising liquid. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, until the sauce has thickened.",
+    "Roll out the rested dough to a thickness of about 1/8 inch (3 mm).",
+    "Place the dough in a 9x13 inch baking dish and brush the edges with ghee or oil.",
+    "Spoon the braised meat mixture into the pastry-lined dish and cover with another sheet of pastry.",
+    "Brush the top with ghee or oil and cut a few slits in the top to allow steam to escape.",
+    "Bake for 25-30 minutes, until the pastry is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "braai",
+    "floral",
+    "flaky",
+    "pastry",
+    "chilli",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "floral-flaky-kenyan-flour-braai",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-flaky-kenyan-flour-braai",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:54:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "flour",
+    "descriptor": "floral, flaky",
+    "dishForm": "Braai"
+  }
+}
