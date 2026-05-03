@@ -1,0 +1,103 @@
+{
+  "title": "Fermented Velvety Ukrainian Mushroom Dumplings",
+  "description": "A tangy, silky mushroom filling wrapped in egg roll wrappers and lightly blanched, perfect for a quick hangover cure.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "button mushrooms, fresh",
+      "amount": "300 g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "20 pieces",
+      "notes": ""
+    },
+    {
+      "name": "kefir (fermented milk)",
+      "amount": "1/2 cup",
+      "notes": "for marinating the mushrooms"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine sliced mushrooms, chopped onion, minced garlic, thyme, salt, and pepper.",
+    "Add kefir to the mushroom mixture, stir to coat evenly, cover, and refrigerate for 12 hours to allow fermentation and flavor development.",
+    "After fermentation, drain excess liquid and let the mixture cool to room temperature.",
+    "Place a teaspoon of the mushroom filling in the center of an egg roll wrapper, fold into a triangle, and seal the edges with a dab of water.",
+    "Repeat until all wrappers are filled.",
+    "Bring a pot of salted water to a boil and blanch the dumplings for 4–5 minutes until they float and become tender.",
+    "Remove with a slotted spoon and pat dry.",
+    "In a skillet, melt butter over medium heat; add the dumplings and lightly fry until golden on all sides, about 3 minutes.",
+    "Serve hot, optionally with a drizzle of sour cream or a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "ferment",
+    "dumpling",
+    "kitchen",
+    "blanch"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 210,
+    "fat": 31
+  },
+  "slug": "fermented-velvety-ukrainian-mushroom-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-velvety-ukrainian-mushroom-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:35:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Fermented Velvety",
+    "dishForm": "Dumplings"
+  }
+}
