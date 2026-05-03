@@ -1,0 +1,121 @@
+{
+  "title": "Floral Crispy Egyptian Rice Bowl",
+  "description": "A fragrant Egyptian rice bowl bursting with citrus, toasted quinoa, and pecorino, finished with a crunchy pistachio and marigold garnish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 pinch, steeped in 1 tbsp hot water",
+      "notes": null
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic-infused olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "toasted quinoa",
+      "amount": "1/2 cup",
+      "notes": "toasted in a dry skillet"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/3 cup, shaved",
+      "notes": null
+    },
+    {
+      "name": "pistachios & marigold petals",
+      "amount": "2 tbsp pistachios & 1 tbsp marigold petals, chopped",
+      "notes": "toasted together"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice under cold water until the water runs clear. Drain well.",
+    "In a medium saucepan, bring the water to a boil. Add the saffron steeped in 1 tbsp hot water, lemon zest, lemon juice, garlic-infused oil, cumin, coriander, and black pepper; stir to combine.",
+    "Add the rice, reduce the heat to low, cover, and simmer for 15 minutes until the rice is tender and the liquid is absorbed. Remove from heat and fluff with a fork; keep covered while you finish the remaining steps.",
+    "While the rice cooks, toast the quinoa in a dry skillet over medium heat until lightly golden and fragrant, about 5 minutes. Transfer to a bowl and set aside.",
+    "In the same skillet, add the pistachios and marigold petals, and toast for 2 minutes until the pistachios are crisp and the petals are fragrant. Toss them into the quinoa and mix.",
+    "When the rice is ready, transfer it to a large serving bowl and spread the toasted quinoa-pistachio mixture over the rice.",
+    "Sprinkle the pecorino shavings evenly over the top.",
+    "Optionally garnish with a few extra marigold petals and a lighter drizzle of garlic-infused oil for aroma.",
+    "Serve immediately, letting guests scoop the crispy rice and cheese into their bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "rice",
+    "crispy",
+    "fodmap-friendly",
+    "crowd-pleaser",
+    "pecorino",
+    "floral",
+    "low-fodmap"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 41
+  },
+  "slug": "floral-crispy-egyptian-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-egyptian-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:46:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "pecorino",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Rice",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Bowl"
+  }
+}
