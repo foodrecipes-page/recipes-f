@@ -1,0 +1,112 @@
+{
+  "title": "Floral Dense Ethiopian Cabbage Stew",
+  "description": "A comforting, spice‑laden cabbage stew with a floral hint of hibiscus, perfect for soothing hangovers and packed with plant‑based protein.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 medium (about 2 cups chopped)",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large (about 1 cup diced)",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves (about 1 tbsp minced)"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp minced"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tbsp",
+      "notes": "Adjust heat to taste"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 cup, drained"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried hibiscus flowers",
+      "amount": "1 tsp",
+      "notes": "Optional floral aroma"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and ginger; cook for 1 minute until fragrant.",
+    "Stir in berbere spice mix and tomato paste; cook 1–2 minutes, stirring well.",
+    "Add chopped cabbage, diced tomatoes, chickpeas, and dried hibiscus flowers; stir to combine.",
+    "Pour in vegetable broth, bring to a simmer, cover, and reduce heat to low. Simmer for 30 minutes, stirring occasionally, until cabbage is tender and flavors meld.",
+    "Stir in coconut milk and lemon juice; season with salt and pepper to taste. Simmer for an additional 5 minutes to heat through.",
+    "Taste and adjust seasoning if needed. If stew is too thin, simmer uncovered for a few more minutes until desired thickness.",
+    "Remove from heat, let rest for 5 minutes to thicken further.",
+    "Serve hot, garnished with a sprinkle of dried hibiscus if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "floral",
+    "dense",
+    "hangover-cure",
+    "egg-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 14
+  },
+  "slug": "floral-dense-ethiopian-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-dense-ethiopian-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:14:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Floral Dense",
+    "dishForm": "Stew"
+  }
+}
