@@ -1,0 +1,91 @@
+{
+  "title": "Ferment Vietnamese Cacao Bowl",
+  "description": "A herbal, chewy monsoon Vietnamese dish featuring fermented cacao, perfect for mediterranean-friendly diets.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "fermented",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented cacao beans",
+      "amount": "2 tbsp",
+      "notes": "soaked in cold water for 24 hours, then drained"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp",
+      ": ": "",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "julienned cucumber",
+      "amount": "1/4 cup",
+      "notes": "thin slices"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/8 tsp",
+      "notes": "for heat"
+    }
+  ],
+  "instructions": [
+    "Soak fermented cacao beans in cold water for 24 hours, then drain thoroughly.",
+    "In a small bowl, mix coconut milk, lime juice, and red chili flakes until well combined.",
+    "Add julienned cucumber to the coconut mixture and gently fold in.",
+    "Chop fresh mint leaves and mix with the cacao beans.",
+    "Combine all ingredients in a bowl and serve immediately.",
+    "Enjoy chilled for best results."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "fermented",
+    "cacao",
+    "herbal",
+    "monsoon",
+    "mediterranean-friendly",
+    "chewy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "ferment-vietnamese-cacao-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/ferment-vietnamese-cacao-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:28:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "cacao",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cacao",
+    "descriptor": "Ferment",
+    "dishForm": "Bowl"
+  }
+}
