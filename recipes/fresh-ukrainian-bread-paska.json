@@ -1,0 +1,93 @@
+{
+  "title": "Ukrainian Paska",
+  "description": "A traditional Ukrainian double-rise bread featuring cilantro leaves, perfect for snacking or serving as a side dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine warm water and yeast in a large bowl, let sit for 5 minutes until yeast is activated.",
+    "Add flour, salt, and unsalted butter to the bowl, mix until dough comes together.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough, shape into a round loaf, and place on a baking sheet lined with parchment paper.','Place chopped cilantro leaves on top of the loaf.','Bake the Paska for 25 minutes, or until golden brown and cooked through.",
+    "Let the Paska cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "cilantro",
+    "double-rise",
+    "easy-to-make",
+    "sugar-free",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 124,
+    "fat": 20
+  },
+  "slug": "fresh-ukrainian-bread-paska",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-ukrainian-bread-paska",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "fresh",
+    "dishForm": "Paska"
+  }
+}
