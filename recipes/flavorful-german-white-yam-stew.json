@@ -1,0 +1,103 @@
+{
+  "title": "Flavorful German White Yam Stew",
+  "description": "A sour and snappy German dish featuring white yam, soffritto-base, and anti-inflammatory friendly ingredients, cooked to perfection in a claypot.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the claypot over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the cubed white yam, apple cider vinegar, salt, black pepper, and turmeric to the claypot.",
+    "Stir well to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes or until the yam is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flavorful-german-white-yam-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-german-white-yam-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:34:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "white yam",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "white yam",
+    "descriptor": "flavorful snappy",
+    "dishForm": "Stew"
+  }
+}
