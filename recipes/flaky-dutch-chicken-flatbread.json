@@ -1,0 +1,99 @@
+{
+  "title": "Flaky Dutch Chicken Flatbread",
+  "description": "A citrusy and crumbly Dutch dish featuring thyme, perfect for a solo dinner, made with long fermentation dough and high protein friendly ingredients, served in a bento box.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl to make the dough.",
+    "Gradually add water to the dough and mix until a shaggy mass forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough ferment for 12 hours in a warm place.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the dough into a large rectangle and place on a baking sheet.",
+    "Top the dough with chicken breast, thyme, lemon zest, garlic, and feta cheese.",
+    "Drizzle olive oil over the top of the flatbread.",
+    "Bake the flatbread in the preheated oven for 25 minutes or until the crust is golden brown.",
+    "Let the flatbread cool for 5 minutes before slicing and serving in a bento box."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "crumbly-crust",
+    "dutch-cuisine",
+    "flatbread",
+    "high-protein",
+    "long-fermentation"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "flaky-dutch-chicken-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-dutch-chicken-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:58:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "thyme",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "flaky crumbly",
+    "dishForm": "Flatbread"
+  }
+}
