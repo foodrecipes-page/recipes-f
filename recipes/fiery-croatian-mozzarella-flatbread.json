@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Croatian Mozzarella Flatbread",
+  "description": "A quick, briny flatbread with melted mozzarella and a spicy kick of red pepper flakes, perfect for a lunch or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "100ml"
+    },
+    {
+      "name": "dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mozzarella",
+      "amount": "200g"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve 5g dry yeast in 100ml warm water with 1 tsp sugar and let sit 5 minutes until foamy.",
+    "In a mixing bowl, combine 200g flour, 1 tsp salt, and the yeast mixture; stir until a sticky dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise in a warm spot for 20 minutes until doubled in size.",
+    "Punch down the dough and divide it into four equal portions.",
+    "Roll each portion into a thin circle on a lightly floured surface about 10cm across.",
+    "Brush each flatbread with a thin layer of olive oil and sprinkle evenly with 1 tbsp red pepper flakes.",
+    "Top each flatbread with 50g sliced mozzarella and a spoonful of tomato sauce.",
+    "Fold each flatbread in half and press the edges to seal.",
+    "Preheat a cast-iron skillet over medium heat and cook the folded flatbreads for 3 minutes on each side until golden and cheese is melted.",
+    "Remove from skillet, garnish with chopped basil, and drizzle a pinch of sea salt.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "flavorful",
+    "lacto-vegetarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 15,
+    "carbs": 36,
+    "fat": 11
+  },
+  "slug": "fiery-croatian-mozzarella-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-croatian-mozzarella-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:31:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Fiery",
+    "dishForm": "Flatbread"
+  }
+}
