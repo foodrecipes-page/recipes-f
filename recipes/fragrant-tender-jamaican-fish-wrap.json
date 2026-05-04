@@ -1,0 +1,107 @@
+{
+  "title": "Fragrant Tender Jamaican Fish Wrap",
+  "description": "Pungent, tender, romantic Jamaican dish featuring V sterbottensost cheese, served in a delicate lotus-leaf wrap.",
+  "cuisine": "jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus-leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "V sterbottensost cheese",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Soak the lotus-leaf wraps in warm water for 10 minutes.",
+    "Preheat oven to 375°F (190°C).",
+    "Season the salmon fillets with salt, black pepper, and Jamaican curry powder.",
+    "Heat a skillet over medium-high heat, add the coconut milk, and cook for 2 minutes.",
+    "Add the diced scotch bonnet peppers and cook for an additional 2 minutes.",
+    "Add the salmon fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the salmon is cooked through.",
+    "Meanwhile, mix the chopped cilantro, minced garlic, and brown sugar in a small bowl.",
+    "Assemble the wraps by placing a cooked salmon fillet on each lotus-leaf wrap, followed by a slice of V sterbottensost cheese and a spoonful of the cilantro-garlic mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "jamaican",
+    "lunch",
+    "pescatarian",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "fragrant-tender-jamaican-fish-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-tender-jamaican-fish-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:53:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "fragrant tender",
+    "dishForm": "Wrap"
+  }
+}
