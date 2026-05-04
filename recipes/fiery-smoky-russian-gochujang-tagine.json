@@ -1,0 +1,64 @@
+{
+  "title": "Fiery Smoky Russian Gochujang Tagine",
+  "description": "A cozy Russian dish featuring a malty, snappy sauce made with gochujang and egg-free-friendly ingredients.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay tagine over medium heat.",
+    "Add the sliced onions and cook until they start to soften.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chicken thighs and cook until browned on all sides.",
+    "Add the gochujang, chicken broth, cumin, coriander, paprika, salt, black pepper, and thyme.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Cover the tagine and transfer it to the oven.",
+    "Bake at 300°F for 30 minutes, then increase the oven temperature to 400°F and bake for another 20 minutes, or until the chicken is cooked through.",
+    "Remove the tagine from the oven and stir in the butter until melted.",
+    "Serve the Fiery Smoky Russian Gochujang Tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay",
+    "comfort-food",
+    "cozy",
+    "gochujang",
+    "high-calorie",
+    "one-pan",
+    "russian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "fiery-smoky-russian-gochujang-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoky-russian-gochujang-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "emulsify",
+    "primaryIngredient": "gochujang",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "gochujang",
+    "descriptor": "Fiery Smoky",
+    "dishForm": "Tagine"
+  }
+}
