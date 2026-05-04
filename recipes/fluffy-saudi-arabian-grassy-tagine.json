@@ -1,0 +1,92 @@
+{
+  "title": "Fluffy Saudi-Arabian Grassy Tagine",
+  "description": "A savory and spicy Saudi Arabian dish featuring a unique blend of herbs and spices, served in a fluffy texture.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "quinoa",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "50g"
+    },
+    {
+      "name": "green chilies",
+      "amount": "3"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chicken breast, quinoa, parsley, dill, chilies, and salt. Mix well.",
+    "In a separate bowl, mix the sriracha and olive oil. Add this mixture to the bowl with the chicken mixture and mix well.",
+    "Transfer the mixture to a bain-marie and cook for 30 minutes.",
+    "Once cooked, fluff the mixture with a fork to create a fluffy texture.",
+    "Serve hot and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "quinoa",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 54,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fluffy-saudi-arabian-grassy-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-saudi-arabian-grassy-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "bain-marie",
+    "primaryIngredient": "sriracha",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "grassy",
+    "descriptor": "fluffy",
+    "dishForm": "Tagine"
+  }
+}
