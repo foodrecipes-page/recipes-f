@@ -1,0 +1,95 @@
+{
+  "title": "Fiery Smoky Australian Pork Skewers",
+  "description": "Smoky and snappy Australian dish featuring wonton skin and yakimono-grill, perfect for a gluten-free friendly meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "wonton skin",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "In a large bowl, combine pork, smoked paprika, brown sugar, salt, black pepper, and chilli flakes, and mix well.",
+    "Lay a wonton skin on a flat surface and place a few pieces of the pork mixture in the center of the skin.",
+    "Brush the edges of the skin with lemon juice and fold the skin into a triangle, pressing the edges to seal.",
+    "Repeat with the remaining pork and wonton skin.",
+    "Brush the skewers with olive oil and place them on the grill.",
+    "Cook for 5 minutes per side, or until the pork is cooked through and the skin is crispy.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dinner",
+    "gluten-free",
+    "grilled",
+    "pork",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fiery-smoky-australian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoky-australian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:40:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "wonton skin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork",
+    "descriptor": "fiery smoky",
+    "dishForm": "Skewers"
+  }
+}

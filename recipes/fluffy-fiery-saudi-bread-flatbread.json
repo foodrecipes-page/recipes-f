@@ -1,0 +1,93 @@
+{
+  "title": "Fluffy Fiery Saudi Bread Flatbread",
+  "description": "A tangy, comforting flatbread with a spicy kick, made with a fermented starter and chili powder for a unique Saudi twist.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "3 g"
+    },
+    {
+      "name": "sourdough starter",
+      "amount": "50 g"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10 ml"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 g"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine the flour, salt, sugar, chili powder, and baking powder.",
+    "In a separate container whisk the water, olive oil, and sourdough starter until fully blended.",
+    "Add the yeast to the wet mixture and stir until it dissolves.",
+    "Pour the wet mixture into the dry ingredients and stir until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for 8 to 10 minutes until smooth and elastic.",
+    "Shape the dough into a bowl, cover with a damp cloth, and let it rise at room temperature for 2 hours or until doubled in size.",
+    "Punch down the dough, divide it into four equal portions, and roll each into a 1 cm thick disc.",
+    "Heat a non‑stick skillet over medium‑high heat and cook each disc 2 to 3 minutes per side until golden brown and puffed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fiery",
+    "flatbread",
+    "fluffy",
+    "saudi",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 30,
+    "carbs": 185,
+    "fat": 10
+  },
+  "slug": "fluffy-fiery-saudi-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fiery-saudi-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:40:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "ferment",
+    "primaryIngredient": "chili powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "bread",
+    "descriptor": "Fluffy Fiery",
+    "dishForm": "Flatbread"
+  }
+}
