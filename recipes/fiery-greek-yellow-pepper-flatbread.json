@@ -1,0 +1,103 @@
+{
+  "title": "Fiery Greek Yellow Pepper Flatbread",
+  "description": "Charred, velvety flatbread studded with smoky yellow pepper and aromatic herbs for a comforting Greek twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "ayurvedic-tamasic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "500 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "300 ml",
+      "notes": "lukewarm, not hot"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5 g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "10 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "10 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10 ml",
+      "notes": "extra virgin, for dough and brushing"
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "150 g",
+      "notes": "roasted and sliced thin"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together flour, yeast, sugar, salt and a pinch of smoked paprika.",
+    "Add warm water and olive oil, then knead the dough until smooth and elastic, about 8 minutes.",
+    "Cover the dough and let it rise until doubled in size, about 30 minutes.",
+    "Punch down the dough, divide into 4 equal portions and roll each into a 12-inch circle.",
+    "Heat a heavy skillet or griddle over medium-high heat and place a flattened dough in it.",
+    "Cook the flatbread until the bottom is golden and it starts to blister, about 3 minutes.",
+    "Flip the flatbread, brush the top with olive oil and sprinkle with chili flakes, oregano, and roasted yellow pepper slices.",
+    "Cook the other side until golden and the pepper is warm, about 2 minutes.",
+    "Remove from heat, let rest 1 minute, then cut into wedges and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "double-rise",
+    "fire-flavored",
+    "flatbread",
+    "greek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "fiery-greek-yellow-pepper-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-greek-yellow-pepper-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:13:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "yellow pepper",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yellow Pepper",
+    "descriptor": "Fiery",
+    "dishForm": "Flatbread"
+  }
+}
