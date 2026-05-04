@@ -1,0 +1,89 @@
+{
+  "title": "Fresh Crumbly Argentinian Cheese Bowl",
+  "description": "A grassy, crumbly cheese bowl bursting with red pepper paste and rendered beef fat, perfect for kids and packed with protein.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "queso fresco",
+      "amount": "200 g"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "30 g"
+    },
+    {
+      "name": "rendered beef fat",
+      "amount": "30 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "15 g"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a small skillet over medium heat.",
+    "Add rendered beef fat and olive oil, then sauté minced garlic until fragrant.",
+    "Stir in red pepper paste until it dissolves into the fat.",
+    "Add diced queso fresco, cooking until it starts to melt slightly.",
+    "Season with salt and pepper, then remove from heat.",
+    "Drizzle mixture into lacquerware bowl and sprinkle chopped fresh parsley.",
+    "Allow it to cool slightly before serving to kids.",
+    "Serve immediately with crusty bread or fresh veggies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "kid-friendly",
+    "summer",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 25
+  },
+  "slug": "fresh-crumbly-argentinian-cheese-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crumbly-argentinian-cheese-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:37:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "render-fat",
+    "primaryIngredient": "red pepper paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Fresh Crumbly",
+    "dishForm": "Bowl"
+  }
+}
