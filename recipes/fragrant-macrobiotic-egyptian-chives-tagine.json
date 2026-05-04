@@ -1,0 +1,121 @@
+{
+  "title": "fragrant macrobiotic egyptian chives tagine",
+  "description": "a hearty, comforting stew-like dish, fragrant with the sweet flavor of macrobiotic chives and the savory taste of lardons-render, a perfect fit for your donabe.",
+  "cuisine": "egyptian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lardons-render",
+      "amount": "300g",
+      "notes": null
+    },
+    {
+      "name": "chives",
+      "amount": "2 bunches",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large donabe over medium heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the grated ginger, cumin, coriander, cayenne pepper, and paprika. cook for 1 minute.",
+    "add the lardons-render and cook until browned, about 5 minutes.",
+    "add the chopped chives, salt, and black pepper. stir to combine.",
+    "add the water and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20 minutes.",
+    "season with additional salt and pepper to taste.",
+    "serve hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "donabe",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fragrant-macrobiotic-egyptian-chives-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-macrobiotic-egyptian-chives-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:09:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "chives",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chives",
+    "descriptor": "fragrant macrobiotic",
+    "dishForm": "Tagine"
+  }
+}
