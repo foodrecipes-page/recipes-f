@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Silky Jamaican Turkey Sushi",
+  "description": "Savory, silky, indulgent Jamaican-inspired sushi made with plant-based turkey, coconut-soy sauce, and a fiery scotch bonnet kick, served in a copper mug.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "300g"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "50g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice until water runs clear, then soak it in water for 20 minutes.",
+    "Drain the rice and steam it in a steamer basket over boiling water for 18 minutes, then let it sit covered for 5 minutes.",
+    "While rice cooks, press firm tofu to remove excess moisture, then cut it into 1 cm cubes.",
+    "In a small saucepan, combine coconut milk, soy sauce, lime juice, minced garlic, grated ginger, allspice, thyme, and a pinch of salt; heat over medium until the mixture just simmers, then reduce heat to low and set aside.",
+    "Heat a tablespoon of vegetable oil in a large skillet over medium-high heat, add the tofu cubes, and stir-fry for 6-7 minutes until golden and crisp on all sides.",
+    "Add the finely chopped scotch bonnet pepper to the skillet and cook for another 2 minutes, letting the heat infuse the tofu.",
+    "Pour the warmed sauce over the tofu and stir to coat, cooking for an additional 3 minutes until the sauce thickens slightly.",
+    "Remove the tofu mixture from heat and let it cool for 3 minutes, then gently fold in the steamed rice, pressing lightly to form small rice balls that resemble nigiri.",
+    "Transfer the rice balls into a clean copper mug, placing a few pieces of tofu on top of each rice ball.",
+    "Sprinkle toasted cashew nuts over the tofu-topped rice for crunch and a few drops of lime juice for brightness."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "lunch"
+  ],
+  "slug": "fiery-silky-jamaican-turkey-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-silky-jamaican-turkey-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:36:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "turkey",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "turkey",
+    "descriptor": "Fiery Silky",
+    "dishForm": "Sushi"
+  }
+}
