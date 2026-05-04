@@ -1,0 +1,93 @@
+{
+  "title": "Flaky French Beef Brochette",
+  "description": "Rich and tender French dish featuring filo pastry and beef, cooked to perfection in a fondue pot over binchotan charcoal",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "beef strips",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot over medium heat with the binchotan charcoal",
+    "Cut the beef into bite sized strips and season with salt, pepper, and thyme",
+    "Brush the filo pastry with olive oil and cut into small squares",
+    "Wrap each beef strip with a filo pastry square and seal the edges",
+    "Add the garlic to the fondue pot and cook for 1 minute",
+    "Add the beef brochettes to the fondue pot and cook for 5 minutes",
+    "Serve the beef brochettes hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "binchotan-charcoal",
+    "filo-pastry",
+    "fondue-pot",
+    "french-cuisine",
+    "mediterranean-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "flaky-french-beef-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-french-beef-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:10:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "filo pastry",
+    "diet": "mediterranean",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Flaky Fire Grilled",
+    "dishForm": "Brochette"
+  }
+}
