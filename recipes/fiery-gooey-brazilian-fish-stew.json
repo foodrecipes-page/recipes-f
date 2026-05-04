@@ -1,0 +1,97 @@
+{
+  "title": "Fiery Gooey Brazilian Fish Stew",
+  "description": "This earthy and gooey Brazilian fish stew is a hearty and flavorful dish featuring gochugaru and dum, perfect for a monsoon evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the earthenware bowl over medium heat on the stovetop.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the gochugaru and cook for 1 minute, stirring constantly.",
+    "Add the cod fish pieces and cook until they are opaque.",
+    "Add the dum, coconut milk, fish stock, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes or until the stew has thickened.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "fish-stew",
+    "gochugaru-recipes",
+    "monsoon-dishes",
+    "pescatarian-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fiery-gooey-brazilian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-gooey-brazilian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:19:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "gochugaru",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "fiery gooey",
+    "dishForm": "Stew"
+  }
+}
