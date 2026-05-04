@@ -1,0 +1,100 @@
+{
+  "title": "Flaky Citrusy French Puff Pastry Mille-Feuille",
+  "description": "A show-off French dessert featuring citrusy, caraway seed-infused puff pastry layers, perfect for special occasions.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 (14.1 oz) package, thawed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup, softened"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch.",
+    "Brush the pastry with the softened butter, making sure to leave a 1-inch border around the edges.",
+    "Sprinkle the granulated sugar and caraway seeds evenly over the pastry.",
+    "Mix the orange juice and zest, then brush the mixture over the pastry, leaving the border untouched.",
+    "Dust the pastry with powdered sugar.",
+    "Place the pastry in a 9x13-inch baking dish and bake for 15 minutes.",
+    "Roll out the remaining puff pastry to a thickness of about 1/8 inch.",
+    "Repeat the process with the second pastry sheet, creating the second layer of the mille-feuille.",
+    "Assemble the mille-feuille by placing the two pastry sheets together, with the second layer on top.",
+    "Dust the top of the mille-feuille with powdered sugar and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dolsot",
+    "high-end",
+    "keto-friendly",
+    "one-pan",
+    "snappy",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 30,
+    "carbs": 120,
+    "fat": 160
+  },
+  "slug": "flaky-citrusy-french-puff-pastry-mille-feuille",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-citrusy-french-puff-pastry-mille-feuille",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:59Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "caraway seed",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "puff pastry",
+    "descriptor": "flaky citrusy",
+    "dishForm": "Mille-Feuille"
+  }
+}

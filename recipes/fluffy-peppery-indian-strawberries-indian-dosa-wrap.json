@@ -1,0 +1,126 @@
+{
+  "title": "Fluffy Peppery Indian Strawberries Indian Dosa Wrap",
+  "description": "A kid-friendly and Jain-friendly twist on the traditional dosa wrap, filled with peppery and fluffy goodness, featuring fresh strawberries.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Idli rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": "",
+      "optional": true
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Yeast-free dosa batter mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "scant pinch",
+      "notes": "",
+      "optional": true
+    },
+    {
+      "name": "Jain-friendly paneer cheese alternative",
+      "amount": "1/4 cup",
+      "notes": "",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "Soak the Idli rice for 4 hours.",
+    "Drain the rice and blend it into a smooth batter with the yeast-free dosa batter mix and water.",
+    "Add the chopped strawberries, green chilies, cilantro, lemon juice, salt, and black pepper to the batter and mix well.",
+    "Heat a non-stick pan over medium heat and add 1 tablespoon of coconut oil.",
+    "Pour a small ladle of the batter onto the pan and spread it evenly to form a dosa.",
+    "Cook for 2 minutes on the first side and flip it over.",
+    "Cook for another 2 minutes on the second side.",
+    "Repeat with the remaining batter to make 8-10 dosas.",
+    "Serve the dosas hot with a dollop of ghee, a sprinkle of cilantro, and a side of Jain-friendly paneer cheese alternative (if using)."
+  ],
+  "prepTimeMin": 240,
+  "cookTimeMin": 16,
+  "totalTimeMin": 256,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-lunch-dinner",
+    "dosas",
+    "high-fiber",
+    "indian",
+    "jain-friendly",
+    "kid-friendly",
+    "strawberries"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fluffy-peppery-indian-strawberries-indian-dosa-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-peppery-indian-strawberries-indian-dosa-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "brine-wet",
+    "primaryIngredient": "strawberries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "strawberries",
+    "descriptor": "fluffy peppery",
+    "dishForm": "Indian Dosa Wrap"
+  }
+}
