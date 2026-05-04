@@ -1,0 +1,93 @@
+{
+  "title": "fatty and juicy croatian king prawns pilaf",
+  "description": "a hearty and flavorful dish from croatia that features the star of the show, king prawns, in a buttery and aromatic pilaf. this meal is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of butter in a large skillet over medium heat. add the chopped onion and cook until softened, about 5 minutes. add the minced garlic and cook for 1 minute more.",
+    "add the uncooked white rice to the skillet and cook for 1-2 minutes, stirring constantly, until lightly toasted.",
+    "add the chicken broth to the skillet and stir to combine. bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is cooked.",
+    "add the king prawns to the skillet and cook, stirring occasionally, until they are pink and fully cooked, about 4-6 minutes.",
+    "stir in the remaining 2 tablespoons of butter and the dried dill weed. season with salt to taste.",
+    "transfer the pilaf to a serving dish and sprinkle with chopped parsley. serve hot.",
+    "cover and refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "serve chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "fatty-and-juicy-croatian-king-prawns-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-and-juicy-croatian-king-prawns-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:11:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "king prawns",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "king prawns",
+    "descriptor": "fatty and juicy",
+    "dishForm": "Pilaf"
+  }
+}
