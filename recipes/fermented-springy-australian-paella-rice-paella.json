@@ -1,0 +1,99 @@
+{
+  "title": "Fermented Springy Australian Paella Rice Paella",
+  "description": "Hangover-cure paella dish featuring fermented paella rice, salt-baked spices, and kosher-friendly ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "250g",
+      "notes": "preferably fermented for at least 24 hours"
+    },
+    {
+      "name": "salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "100g",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "chicken",
+      "amount": "250g",
+      "notes": "boneless, skinless breast or thighs"
+    },
+    {
+      "name": "onion",
+      "amount": "100g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Mix paella rice with fermented liquid and set aside.",
+    "In a large oven-safe paella pan, heat 1L of chicken broth over medium heat.",
+    "Add garlic, onion, smoked paprika, kosher salt, and black pepper to the pan and sauté for 2 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 62,
+    "carbs": 110,
+    "fat": 20
+  },
+  "slug": "fermented-springy-australian-paella-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-springy-australian-paella-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "paella rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "paella rice",
+    "descriptor": "fermented springy",
+    "dishForm": "paella"
+  }
+}
