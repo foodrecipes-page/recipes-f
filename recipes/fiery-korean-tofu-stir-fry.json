@@ -1,0 +1,99 @@
+{
+  "title": "Fiery Korean Tofu Stir-fry",
+  "description": "A fresh, aerated solo dinner featuring caramelized jalapeno and macrobiotic-friendly tofu, perfect for a quick yet spicy Jeju-inspired meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "300g",
+      "notes": "pressed and cut into 1cm cubes"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "2 medium",
+      "notes": "thinly sliced, seeds removed for less heat"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes to remove excess moisture.",
+    "Cut the tofu into 1cm cubes and set aside.",
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the garlic and stir until fragrant, about 30 seconds.",
+    "Add the jalapeno slices and cook, stirring, until they start to caramelize, about 2 minutes.",
+    "Add the tofu cubes and gently stir to coat them with the garlic-jalapeno mixture.",
+    "Stir in the gochujang and soy sauce, cooking until the sauce thickens slightly, about 1 minute.",
+    "Pour in the water, bring to a simmer, then reduce heat to medium-low and cook for 5 minutes until the tofu is tender.",
+    "Finish by sprinkling sesame seeds and scallion slices, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "macrobiotic",
+    "one-pan",
+    "quick",
+    "spicy",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "fiery-korean-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-korean-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:22:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "jalapeno",
+    "diet": "macrobiotic",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Fiery",
+    "dishForm": "Stir-fry"
+  }
+}

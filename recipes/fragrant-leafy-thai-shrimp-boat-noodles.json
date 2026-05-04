@@ -1,0 +1,114 @@
+{
+  "title": "Fragrant Leafy Thai Shrimp Boat Noodles",
+  "description": "A low-fat Thai shrimp dish wrapped in tamarind-leaf boats, fragrant with makrut lime leaves and a glossy, dehydrate-style sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "low-fat",
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "fresh, thawed"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "6",
+      "notes": "torn"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse shrimp and pat dry",
+    "In a saucepan combine tamarind paste, fish sauce, brown sugar, garlic, ginger, lime juice, coconut milk and water; bring to a simmer",
+    "Add makrut lime leaves and let the broth simmer for 5 minutes to infuse flavor",
+    "Stir in shrimp and cook until pink, about 3 minutes, then remove from heat",
+    "Lay a whole makrut lime leaf flat on a plate; spoon 2 tablespoons of shrimp mixture onto it",
+    "Fold the leaf into a boat shape, sealing the edges with a toothpick if needed",
+    "Warm the filled leaf boats in a steamer for 2 minutes to soften the wrap",
+    "Sprinkle torn basil leaves and a pinch of chili flakes over the boats",
+    "Drizzle leftover broth over the boats for a glossy finish",
+    "Serve immediately with a side of unsweetened coconut yogurt for dipping"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "date-night",
+    "gluten-free",
+    "low-fat",
+    "seafood",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "fragrant-leafy-thai-shrimp-boat-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-leafy-thai-shrimp-boat-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:22:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "low-fat",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Fragrant Leafy",
+    "dishForm": "Boat Noodles"
+  }
+}
