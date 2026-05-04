@@ -1,0 +1,104 @@
+{
+  "title": "Fruity Dutch Currant Broth",
+  "description": "A light, sour, monsoon-inspired Dutch broth featuring sweet currants and aromatic spices, perfect for a halal-friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 liter"
+    },
+    {
+      "name": "currants",
+      "amount": "100 grams"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "star anise",
+      "amount": "2"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch sliced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil.",
+    "Add the currants, star anise, bay leaf, and sliced ginger to the boiling water.",
+    "Reduce heat and simmer for 15 minutes until the currants soften.",
+    "Stir in apple cider vinegar, sugar, salt, and pepper, and simmer for another 5 minutes.",
+    "Remove the pot from heat and strain the broth through a fine mesh sieve.",
+    "Return the strained broth to the pot, add lemon zest, and heat just until warm.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot over rice or enjoy on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broth",
+    "currant",
+    "halal-friendly",
+    "light",
+    "monsoon-dutch",
+    "quick",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 1
+  },
+  "slug": "fruity-dutch-currant-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fruity-dutch-currant-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:09:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "currants",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "currants",
+    "descriptor": "Fruity",
+    "dishForm": "Broth"
+  }
+}
