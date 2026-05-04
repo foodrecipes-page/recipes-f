@@ -1,0 +1,96 @@
+{
+  "title": "Fragrant Gooey Turkish Peanuts Manti",
+  "description": "A traditional Turkish dish featuring peanuts, glaze, and a hint of pepper, made in a sattvic-friendly way, this manti is a nostalgic treat. It is a perfect snack for any time of day.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/2 cup",
+      "notes": "made from grape juice and cornstarch"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, water, and sesame oil to make the dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle.",
+    "Place a few peanuts in the center of each circle.",
+    "Fold the dough over the peanuts to form a triangle or square shape, and press the edges together to seal the manti.",
+    "Heat a large skillet over medium heat and add a small amount of sesame oil.",
+    "Cook the manti for 5 minutes on each side, until they are golden brown.",
+    "While the manti are cooking, prepare the glaze by heating the grape juice and cornstarch in a small saucepan over low heat.",
+    "Once the manti are done, brush them with the glaze and sprinkle with black pepper, turmeric, and chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-pasta",
+    "peanut-based",
+    "sattvic-friendly",
+    "snack-ideas",
+    "turkish-cuisine",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "fragrant-gooey-turkish-peanuts-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-gooey-turkish-peanuts-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:04:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "glaze",
+    "primaryIngredient": "peanuts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "peanuts",
+    "descriptor": "fragrant gooey",
+    "dishForm": "Manti"
+  }
+}
