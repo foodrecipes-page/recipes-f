@@ -1,0 +1,134 @@
+{
+  "title": "Fermented British Roast",
+  "description": "A rich, tender, and flavorful dish featuring a shio-koji cure, dark brown sugar, and a halal-friendly twist. Perfect for a crowd-pleaser dinner.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Combine shio-koji, dark brown sugar, sea salt, black pepper, garlic, ginger, onion, carrot, celery, and bay leaves in a blender or food processor and blend until well combined.",
+    "Rinse the chuck roast under cold running water and pat dry with paper towels.",
+    "Rub the shio-koji cure all over the roast, making sure to coat it evenly.",
+    "Place the roast in a large Dutch oven or oven-safe pot and add the apple cider vinegar, beef broth, water, and thyme.",
+    "Bring the liquid to a boil over high heat, then cover the pot and transfer it to the preheated oven.",
+    "Braise the roast for 2 1/2 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "Remove the roast from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Strain the braising liquid and discard the solids.",
+    "Skim off any excess fat and serve the roast with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "dinner-party",
+    "fermented",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 26,
+    "fat": 32
+  },
+  "slug": "fermented-british-dish-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-british-dish-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "dish",
+    "descriptor": "fermented",
+    "dishForm": "roast"
+  }
+}

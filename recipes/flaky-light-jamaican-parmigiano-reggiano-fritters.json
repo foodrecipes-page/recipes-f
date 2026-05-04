@@ -1,0 +1,108 @@
+{
+  "title": "Flaky Light Jamaican Parmigiano-Reggiano Fritters",
+  "description": "Fresh, flaky, and light Jamaican dish featuring Parmigiano-Reggiano, perfect for a snack or dessert.",
+  "cuisine": "Caribbean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scallop Shells",
+      "amount": "12-15",
+      "notes": "Cleaned, dried, and reserved for fritter formation"
+    },
+    {
+      "name": "Laminated Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed, kept chilled until use"
+    },
+    {
+      "name": "Parmigiano-Reggiano Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated, divided among fritters"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "2 tablespoons",
+      "notes": "Unsweetened, toasted for added depth"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for dusting fritters"
+    },
+    {
+      "name": "Jamaican Jerk Spice",
+      "amount": "1 teaspoon",
+      "notes": "Commercial blend or homemade, omit for a milder taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky sea salt, or table salt as a substitute"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten, for egg wash on fritters"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted, for brushing pastry before baking"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "Ice-cold, for egg wash and pastry hydration"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "Roll out the laminated puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut the pastry into 12 equal triangles, reserving any scraps for trimming.",
+    "Brush the pastry triangles with the melted butter and sprinkle with grated Parmigiano-Reggiano cheese.",
+    "Dust the edges with confectioners' sugar, if using, and fold the triangles into triangles.",
+    "Place the fritters on the prepared baking sheet, leaving about 1 inch of space between each.",
+    "Bake the fritters in the preheated oven for 18-20 minutes, or until golden brown.",
+    "While the fritters are baking, prepare the Jamaican jerk spice mixture by blending 1 teaspoon of jerk spice with 1/4 teaspoon of salt.",
+    "Once the fritters are done, brush them with the beaten egg for a golden glaze and sprinkle with toasted coconut flakes.",
+    "Serve the fritters warm, garnished with a sprinkle of jerk spice mixture and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "dessert",
+    "jamaican",
+    "lacto-vegetarian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "flaky-light-jamaican-parmigiano-reggiano-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-light-jamaican-parmigiano-reggiano-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "parmigiano-reggiano",
+    "descriptor": "flaky light",
+    "dishForm": "fritters"
+  }
+}
