@@ -1,0 +1,100 @@
+{
+  "title": "Fresh Crunchy Moroccan Lettuce Roast",
+  "description": "A light, yeasty Moroccan dish that combines baby lettuce leaves with aromatic spices and a crunchy almond finish, all cooked in a traditional ttukbaegi earthenware pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "for brightness"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "for earthiness"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "½ tsp",
+      "notes": "for depth"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "30g",
+      "notes": "for crunch"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "100 ml",
+      "notes": "to keep moisture"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi on medium heat until it is hot to the touch.",
+    "Pat dry the baby lettuce leaves and season them with salt, pepper, cumin, paprika, garlic powder, and lemon zest.",
+    "Drizzle olive oil over the seasoned lettuce and toss to coat evenly.",
+    "Place the seasoned lettuce in the hot ttukbaegi and spread it out in an even layer.",
+    "Add the chicken stock around the lettuce, not on top, to create steam without soaking the leaves.",
+    "Cover the ttukbaegi with its lid and let the lettuce roast for 12 minutes, then remove the lid to allow steam to escape.",
+    "After 12 minutes, stir the lettuce gently, then return the lid and roast for an additional 8 minutes until the leaves are tender and the edges are crisp.",
+    "Fold in crushed almonds just before serving to preserve their crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "moroccan",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 42
+  },
+  "slug": "fresh-crunchy-moroccan-lettuce-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crunchy-moroccan-lettuce-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:46:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lettuce",
+    "descriptor": "Fresh Crunchy",
+    "dishForm": "Roast"
+  }
+}
