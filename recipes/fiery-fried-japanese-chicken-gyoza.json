@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Fried Japanese Chicken Gyoza",
+  "description": "A crowd-pleasing Japanese dish featuring crispy fried gyoza filled with spicy chicken and melted cheese, served in a terracotta dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground chicken",
+      "amount": "1 pound",
+      "notes": "preferably thigh meat"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "2",
+      "notes": "crushed or 1 teaspoon dried red chilli flakes"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "20",
+      "notes": "found in most Asian markets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the crushed dried red chillies to the skillet and cook for 1 minute.",
+    "Add the ground chicken to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the soy sauce, salt, and black pepper, and cook for an additional 2 minutes.",
+    "Lay a gyoza wrapper on a flat surface and place a tablespoon of the chicken mixture in the center of the wrapper.",
+    "Top the chicken with a sprinkle of shredded mozzarella cheese.",
+    "Brush the edges of the gyoza wrapper with a small amount of water, then fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Repeat with the remaining gyoza wrappers and filling.",
+    "Fry the gyoza in the skillet until they are golden brown, about 2-3 minutes on each side.",
+    "Transfer the fried gyoza to a terracotta dish and bake in the preheated oven for 5 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "crowd-pleaser",
+    "japanese-cuisine",
+    "low-carb",
+    "snack",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "fiery-fried-japanese-chicken-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-fried-japanese-chicken-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:53:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "dried red chillies",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Fiery Fried",
+    "dishForm": "Gyoza"
+  }
+}
