@@ -1,0 +1,112 @@
+{
+  "title": "Fruity Chewy Japanese Water Chestnut Stew",
+  "description": "A citrusy, chewy stew that soothes hangovers, featuring water chestnuts simmered in dashi with orange zest and mirin.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "dried kelp",
+      "amount": "5g"
+    },
+    {
+      "name": "dashi stock",
+      "amount": "500ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "mirin",
+      "amount": "20ml"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 orange"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring dashi stock to a gentle simmer in a ttukbaegi earthenware pot.",
+    "Add sliced water chestnuts, julienned carrot, and sliced shiitake mushrooms, cooking until vegetables soften about 10 minutes.",
+    "Stir in diced onion, dried kelp, and a pinch of salt, letting flavors meld for 5 minutes.",
+    "Pour in soy sauce, mirin, and sugar, then reduce heat to low, covering the pot, and simmer for 15 minutes.",
+    "Remove kelp, then add orange zest and lemon juice, stirring to combine for 2 minutes.",
+    "Taste and adjust seasoning with more soy sauce or mirin if needed, then simmer uncovered for 3 minutes.",
+    "Sprinkle chopped green onion over the stew, allowing it to wilt for 1 minute.",
+    "Serve hot straight from the ttukbaegi, spooning onto a bowl with a little extra citrus zest on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "citrusy",
+    "gluten-free",
+    "hangover-cure",
+    "kaiseki",
+    "kitchen-ware"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 55,
+    "fat": 1
+  },
+  "slug": "fruity-chewy-japanese-water-chestnut-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fruity-chewy-japanese-water-chestnut-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:59:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "water chestnut",
+    "diet": "gluten-free",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Water Chestnut",
+    "descriptor": "Fruity Chewy",
+    "dishForm": "Stew"
+  }
+}
