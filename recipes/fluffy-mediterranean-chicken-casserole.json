@@ -1,0 +1,113 @@
+{
+  "title": "Fluffy Mediterranean Chicken Casserole",
+  "description": "A light, wine infused chicken casserole with lemon, olives, and pickled cucumber, baked in a copper pot for a fluffy finish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5 lb",
+      "notes": "cut into bite size pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olives",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "pickled cucumber slices",
+      "amount": "1 cup",
+      "notes": "nuka pickle style"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "salt and pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 F.",
+    "Heat the copper pot over medium-high until hot then add olive oil and sear the chicken pieces until browned on all sides.",
+    "Remove the chicken and set aside then sauté onion and garlic in the same pot until fragrant.",
+    "Add olives cherry tomatoes and pickled cucumber slices cooking for 3 minutes to soften.",
+    "Stir in cauliflower rice white wine lemon juice oregano salt pepper mixing until the rice is coated.",
+    "Return the chicken to the pot nestling it into the vegetable mixture.",
+    "Cover the pot with a lid foil and bake in the preheated oven for 25 minutes.",
+    "Remove the lid stir gently then bake uncovered for an additional 10 minutes to allow the casserole to puff up.",
+    "Garnish with fresh dill parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pot",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 13,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "fluffy-mediterranean-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-mediterranean-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:01:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "lemon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Fluffy",
+    "dishForm": "Casserole"
+  }
+}
