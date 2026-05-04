@@ -1,0 +1,92 @@
+{
+  "title": "Fragrant Moroccan Oyster Khlea",
+  "description": "A velvety Moroccan dish that pairs fresh oysters wrapped in a buttery khlea sauce, served hot on a stone plate for a comforting, malty experience.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh oysters",
+      "amount": "12 large",
+      "notes": "shucked"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100 g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50 g",
+      "notes": "for coating"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a stone plate over medium heat until hot.",
+    "Brush the shucked oysters with a little olive oil and season lightly with salt.",
+    "Coat each oyster in breadcrumbs seasoned with cumin, coriander, salt, and pepper.",
+    "Heat 1 tbsp of butter and a splash of olive oil in a pan until the butter foams, then add the oiled oysters and brown them on both sides for 3 minutes.",
+    "Remove oysters and set aside, reserving the pan drippings.",
+    "Add the remaining butter to the pan, whisk in the breadcrumbs, and cook until the crumbs turn golden.",
+    "Stir in lemon juice and a pinch of salt, then return the browned oysters to the pan and coat them in the buttery khlea sauce.",
+    "Transfer the sauced oysters to the preheated stone plate, garnish with a drizzle of olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "en-croute",
+    "malty",
+    "moroccan",
+    "seafood",
+    "stone-plate",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fragrant-moroccan-oyster-khlea",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-moroccan-oyster-khlea",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:13:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "oysters",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Oyster",
+    "descriptor": "Fragrant",
+    "dishForm": "Khlea"
+  }
+}
