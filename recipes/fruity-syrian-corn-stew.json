@@ -1,0 +1,113 @@
+{
+  "title": "Fruity Syrian Corn Stew",
+  "description": "A bitter, creamy stew that blends dried white corn with yuzu-cured citrus, aromatic spices, and the traditional cataplana cooking method for a nostalgic Syrian flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white corn kernels",
+      "amount": "1/4 cup",
+      "notes": "pre-soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "for richness"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "2 tablespoons",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1 unit"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 teaspoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the dried corn kernels in water overnight, then drain before cooking.",
+    "Heat the olive oil in a cataplana over medium-high heat, and add the diced onion, sautéing until translucent.",
+    "Stir in the minced garlic and cook for an additional minute until fragrant.",
+    "Add the diced tomato, cumin, coriander, and thyme, cooking until the tomato softens and releases juices.",
+    "Pour in 1 cup of water or low-sodium vegetable broth, bring the mixture to a gentle simmer.",
+    "Add the soaked corn kernels, reduce the heat, cover the cataplana, and simmer for 30 minutes, or until the corn is tender.",
+    "Stir in the butter and allow it to melt, creating a creamy texture.",
+    "Season the stew with salt, pepper, and the fresh yuzu juice, adjusting the acidity to taste.",
+    "Remove the cataplana from heat, let the stew rest for 5 minutes to meld flavors.",
+    "Serve hot, optionally garnishing with a sprinkle of fresh thyme leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "creamy",
+    "keto-friendly",
+    "nostalgic",
+    "syrian-dish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 11
+  },
+  "slug": "fruity-syrian-corn-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fruity-syrian-corn-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:29:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "dried white corn",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "corn",
+    "descriptor": "Fruity",
+    "dishForm": "Stew"
+  }
+}
