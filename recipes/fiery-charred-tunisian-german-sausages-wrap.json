@@ -1,0 +1,106 @@
+{
+  "title": "Fiery Charred Tunisian German Sausages Wrap",
+  "description": "A char-grilled and shattering kid-friendly dish from Tunisia featuring German sausages, wrapped in ti-leaf wraps.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "German Sausages",
+      "amount": "4",
+      "notes": "preferably Bratwurst or Weisswurst"
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "6",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the German sausages for 5-7 minutes per side, or until charred and cooked through.",
+    "Meanwhile, grill the ti-leaf wraps for 30-45 seconds per side, or until slightly charred.",
+    "Slice the grilled sausages into 1-inch pieces.",
+    "In a large bowl, combine the sliced sausages, red onion, red bell pepper, cucumber, tomato, and chili flakes.",
+    "Drizzle the lemon juice and olive oil over the top and toss to combine.",
+    "Warm the grilled ti-leaf wraps by wrapping them in foil and heating them in the oven for 2-3 minutes.",
+    "Assemble the wraps by spooning the sausage mixture onto the center of each wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-sausages",
+    "high-protein",
+    "one-pan",
+    "street-food",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fiery-charred-tunisian-german-sausages-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-charred-tunisian-german-sausages-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:39:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "german sausages",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "German sausages",
+    "descriptor": "Fiery Charred",
+    "dishForm": "Wrap"
+  }
+}
