@@ -1,0 +1,101 @@
+{
+  "title": "Flavorful Ethiopian Potatoes Fir Fir",
+  "description": "A resinous, juicy, post-workout Ethiopian dish featuring baby new potatoes, this flexitarian-friendly recipe is perfect for a weeknight dinner. It is made with broiled potatoes and served in a paella-pan.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer in a paella-pan and broil for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are broiling, heat the remaining 2 tablespoons of olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook, stirring occasionally, until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and berbere spice to the skillet and cook, stirring constantly, for 1 minute.",
+    "Once the potatoes are done broiling, remove them from the oven and add them to the skillet with the onion and garlic mixture.",
+    "Toss the potatoes with the onion and garlic mixture until they are evenly coated, then stir in the lemon juice.",
+    "Serve the potatoes hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "flexitarian",
+    "juicy",
+    "one-pan",
+    "post-workout",
+    "resinous",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flavorful-ethiopian-potatoes-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-ethiopian-potatoes-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:18:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "potatoes",
+    "descriptor": "flavorful juicy",
+    "dishForm": "Fir Fir"
+  }
+}
