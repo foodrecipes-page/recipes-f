@@ -1,0 +1,63 @@
+{
+  "title": "fermented vietnamese beetroot bun",
+  "description": "a unique and healthy twist on traditional vietnamese cuisine, featuring fermented beetroot and coconut cream",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "combine beetroot and water in a saucepan, bring to a boil, then reduce heat and simmer for 30 minutes",
+    "allow beetroot to cool, then transfer to a fermentation vessel with a weight to keep it submerged",
+    "let the mixture ferment at room temperature for 1 day, then refrigerate until chilled",
+    "blend fermented beetroot with coconut cream, lime juice, and salt until smooth",
+    "divide mixture into 4 portions and shape into small patties",
+    "heat a non-stick pan with a small amount of oil over medium heat",
+    "cook patties for 3-4 minutes per side, until golden brown and crispy",
+    "serve warm, garnished with chopped herbs and a drizzle of coconut cream",
+    "wrap each patty in a rice paper bun and serve immediately"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 8,
+  "totalTimeMin": 53,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "fermented-vietnamese-beetroot-bun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-vietnamese-beetroot-bun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beetroot",
+    "descriptor": "fermented",
+    "dishForm": "Bun"
+  }
+}
