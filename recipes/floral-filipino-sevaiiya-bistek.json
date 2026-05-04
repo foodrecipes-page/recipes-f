@@ -1,0 +1,95 @@
+{
+  "title": "Floral Filipino Sevaiiya Bistek",
+  "description": "A nostalgic Filipino dish featuring sevaiiya, served in a bistek form with a floral and glassy-jelly texture, simmered to perfection on a tava-griddle.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "1 cup",
+      "notes": "vermicelli noodles"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "food coloring",
+      "amount": "few drops",
+      "notes": "pastel colors"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine sevaiiya and water in a saucepan and cook over medium heat, stirring occasionally, until the noodles are soft.",
+    "Add pandan extract and sugar to the saucepan and stir until the sugar is dissolved.",
+    "Remove the saucepan from the heat and stir in coconut milk and food coloring.",
+    "Let the mixture cool to room temperature, then refrigerate until chilled.",
+    "Dissolve gelatin in a small amount of hot water, then add to the chilled mixture and stir until well combined.",
+    "Pour the mixture onto a tava-griddle and simmer over low heat, stirring constantly, until the mixture thickens and forms a glassy-jelly texture.",
+    "Remove the tava-griddle from the heat and let the mixture cool and set.",
+    "Cut the mixture into bistek shapes and garnish with edible flowers.",
+    "Serve the Floral Filipino Sevaiiya Bistek chilled, garnished with additional edible flowers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-idea",
+    "filipino-dish",
+    "floral-recipe",
+    "glassy-jelly",
+    "sevaiiya-recipe",
+    "tava-griddle",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "floral-filipino-sevaiiya-bistek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-filipino-sevaiiya-bistek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:50:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "sevaiiya",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "floral glassy",
+    "dishForm": "Bistek"
+  }
+}
