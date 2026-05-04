@@ -1,0 +1,106 @@
+{
+  "title": "Full‑bodied Filipino Peanuts Stew",
+  "description": "A nutty, velvety stew that soothes hangovers, blending rice wine, coconut milk, and ground peanuts in a hot‑pot vessel.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts, whole",
+      "amount": "200 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "rice wine",
+      "amount": "60 ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "ginger, sliced",
+      "amount": "10 g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "15 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spinach, fresh",
+      "amount": "200 g"
+    },
+    {
+      "name": "shrimp, peeled",
+      "amount": "200 g"
+    }
+  ],
+  "instructions": [
+    "Heat the hot‑pot vessel over medium heat and add the coconut milk and rice wine.",
+    "Stir until the mixture comes to a gentle simmer, then lower the heat.",
+    "Add the diced onion, minced garlic, sliced ginger, and brown sugar; cook until fragrant, about 2 minutes.",
+    "Pour in the chicken broth and fish sauce, then bring the stew to a low boil.",
+    "Reduce the heat to a simmer and stir in the whole peanuts, ensuring they coat in the liquid.",
+    "Add the shrimp; simmer until the shrimp are pink and cooked through, about 5 minutes.",
+    "Stir in the spinach leaves and cook until wilted, about 2 minutes.",
+    "Season with black pepper to taste and adjust seasoning with extra fish sauce if needed.",
+    "Transfer the stew to individual serving bowls and garnish with toasted coconut flakes if desired.",
+    "Serve hot, ideally with steamed rice or fresh bread to soak up the velvety sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ginataan",
+    "hangover-cure",
+    "hot-pot",
+    "peanut",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "full-bodied-filipino-peanuts-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/full-bodied-filipino-peanuts-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:20:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "rice wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Full-bodied",
+    "dishForm": "Stew"
+  }
+}
