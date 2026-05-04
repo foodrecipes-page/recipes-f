@@ -1,0 +1,104 @@
+{
+  "title": "Flavorful Middle Eastern Potatoes Tagine",
+  "description": "A lazy Sunday Middle Eastern dish featuring floury potatoes, pickle, and cheese pull, cooked in a fondue pot. This umami rich dish is perfect for a relaxing day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the fondue pot over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cubed potatoes, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Cook the potatoes for 15 minutes, or until they are tender and lightly browned.",
+    "Stir in the chopped pickle and crumbly feta cheese.",
+    "Continue to cook for an additional 5 minutes, or until the cheese is melted and the potatoes are fully coated.",
+    "Serve the potatoes hot, garnished with additional pickle and feta cheese if desired.",
+    "Use crusty bread or pita chips to scoop up the flavorful potatoes and cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pot",
+    "umami-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flavorful-middle-eastern-potatoes-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-middle-eastern-potatoes-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:07:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "floury potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "potatoes",
+    "descriptor": "Flavorful Fondue",
+    "dishForm": "Tagine"
+  }
+}
