@@ -1,0 +1,110 @@
+{
+  "title": "Fiery Smoky Coconut Hunan Tofu Mapo Tofu",
+  "description": "A smoky, spicy, and aromatic Chinese dish made with coconut cream, served in a bento box.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "60ml"
+    },
+    {
+      "name": "Hunan chili bean paste",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "2 Tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 Tbsp of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the Sichuan peppercorns and cook for 10 seconds, until fragrant.",
+    "Add the minced garlic and grated ginger, and cook for 10 seconds, until fragrant.",
+    "Add the smoked paprika, Hunan chili bean paste, and cooked tofu, and stir-fry for 2-3 minutes.",
+    "Add the coconut cream, soy sauce, and brown sugar, and stir-fry for 1-2 minutes, until the sauce has thickened.",
+    "Stir in the chopped green onions and toasted peanuts.",
+    "Season with salt to taste.",
+    "Serve the mapo tofu in a bento box, garnished with additional green onions and peanuts if desired.",
+    "Serve immediately, with steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "high-protein",
+    "nut-free-friendly",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "fiery-smoky-coconut-hunan-tofu-mapo-tofu",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoky-coconut-hunan-tofu-mapo-tofu",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:16:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "smoke-hot",
+    "primaryIngredient": "coconut cream",
+    "diet": "nut-free",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "tofu",
+    "descriptor": "Fiery Smoky Coconut",
+    "dishForm": "Mapo Tofu"
+  }
+}
