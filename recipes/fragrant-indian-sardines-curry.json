@@ -1,0 +1,123 @@
+{
+  "title": "Fragrant Indian Sardines Curry",
+  "description": "A smoky, glassy-jelly curry featuring roasted sardines, aloo-gobi, and tangy pickle for a post-workout boost.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "200g"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "mustard pickle",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "green chili",
+      "amount": "1 sliced"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-fat coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Clean the cedar plank and set it on a shallow pan with a thin layer of water.",
+    "Heat a skillet over medium-high and add the sardines, seasoning with salt, then cook until lightly browned on both sides.",
+    "Remove the sardines and set aside while you sauté the onion until translucent in the same skillet.",
+    "Stir in the ginger garlic paste, green chili, turmeric, cumin seeds, coriander powder, and chili powder; cook for 1 minute.",
+    "Add the diced potato, cauliflower florets, and tomato; cook for 5 minutes, stirring occasionally.",
+    "Pour in the low-fat coconut milk, add the mustard pickle, and bring to a gentle simmer.",
+    "Cover and cook for 15 minutes until the vegetables are tender.",
+    "Return the roasted sardines to the skillet, cover, and simmer for an additional 5 minutes for flavors to meld.",
+    "Stir in the lemon juice, adjust salt, and swirl the heat off.",
+    "Serve the curry directly from the cedar plank for a fragrant presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "high-protein",
+    "low-fat-friendly",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 36,
+    "carbs": 48,
+    "fat": 17
+  },
+  "slug": "fragrant-indian-sardines-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-indian-sardines-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:51:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "sardines",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Sardines",
+    "descriptor": "Fragrant",
+    "dishForm": "Curry"
+  }
+}
