@@ -1,0 +1,106 @@
+{
+  "title": "Fluffy Light Ethiopian Black Beans Toast",
+  "description": "A jammy and velvety Ethiopian dish featuring black beans, served on toast, low in fat and friendly to various diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Add the mashed black beans, lemon juice, and salt, and stir well.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "Toast the whole wheat bread until it is lightly browned.",
+    "Spread the black bean mixture on the toast.",
+    "Garnish with chopped fresh parsley.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "easy-recipes",
+    "ethiopian-cuisine",
+    "healthy-eating",
+    "low-fat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "fluffy-light-ethiopian-black-beans-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-light-ethiopian-black-beans-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:03:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "black beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "black beans",
+    "descriptor": "fluffy light",
+    "dishForm": "Toast"
+  }
+}
