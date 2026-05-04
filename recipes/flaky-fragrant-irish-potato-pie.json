@@ -1,0 +1,99 @@
+{
+  "title": "Flaky Fragrant Irish Potato Pie",
+  "description": "A traditional Irish dish featuring flaky crust and fragrant potatoes, wrapped in pandan leaves for added flavor and nutrition, this pie is perfect for a comforting dinner",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, combine sliced potatoes, allspice, salt, and black pepper, and toss to coat",
+    "In a large skillet, heat olive oil over medium heat and saute chopped onion and minced garlic until softened",
+    "Add the potato mixture to the skillet and cook for 10 minutes, stirring occasionally",
+    "On a lightly floured surface, roll out the long fermentation dough to a thickness of 1/8 inch",
+    "Spoon the potato mixture onto one half of the dough, leaving a 1/2 inch border around the edges",
+    "Fold the other half of the dough over the filling and press the edges to seal",
+    "Wrap the pie in pandan leaves, overlapping the leaves to cover the entire pie",
+    "Place the pie on a baking sheet and bake for 40 minutes, or until the crust is golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-crust",
+    "irish-cuisine",
+    "one-pot",
+    "pandan-wrapped",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flaky-fragrant-irish-potato-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fragrant-irish-potato-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:17:16Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "allspice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "flaky fragrant",
+    "dishForm": "Pie"
+  }
+}

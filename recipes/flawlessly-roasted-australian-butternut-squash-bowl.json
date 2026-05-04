@@ -1,0 +1,106 @@
+{
+  "title": "Flawlessly Roasted Australian Butternut Squash Bowl",
+  "description": "A light and satisfying solo dinner featuring roasted butternut squash, crispy toast, and a hint of Australian bush spices.",
+  "cuisine": "australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium butternut squash",
+      "amount": "2.5 pounds",
+      "notes": "Australian variety"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "30 ml",
+      "notes": "use for roasting"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "5 ml",
+      "notes": "or to taste"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "5 ml",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "use low-sodium salt"
+    },
+    {
+      "name": "4 slices whole grain bread",
+      "amount": "1 loaf",
+      "notes": "for toast"
+    },
+    {
+      "name": "1/4 cup crumbled feta cheese",
+      "amount": "60 gm",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the butternut squash in half lengthwise and scoop out the seeds.",
+    "Place the squash on a baking sheet, cut side up, and drizzle with 1 tablespoon of olive oil.",
+    "Roast the squash in the preheated oven for 30 minutes.",
+    "While the squash is roasting, cook the chopped onion and minced garlic in a pan over medium heat until softened.",
+    "Add the ground cumin and smoked paprika to the pan and cook for 1 minute.",
+    "Season the squash with salt and pepper to taste.",
+    "Remove the squash from the oven and let it cool slightly.",
+    "Scoop the flesh of the squash into a bowl and top with the cooked onion and garlic mixture.",
+    "Toast the bread slices until crispy and sprinkle with crumbled feta cheese.",
+    "Serve the roasted squash in a lacquerware bowl with toasted bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "flawlessly-roasted-australian-butternut-squash-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flawlessly-roasted-australian-butternut-squash-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:17:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "butternut squash",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Flawlessly Roasted",
+    "dishForm": "Bowl"
+  }
+}
