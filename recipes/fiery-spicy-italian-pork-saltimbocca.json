@@ -1,0 +1,100 @@
+{
+  "title": "Fiery Spicy Italian Pork Saltimbocca",
+  "description": "A spicy and energizing Italian dish featuring grapefruit juice and coconut cream, this saltimbocca is a low-calorie twist on a classic recipe, with a shaggy and vibrant presentation that is sure to delight, made with pork and infused with fiery spices.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh sage",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork cutlets with salt, black pepper, and red pepper flakes.",
+    "Heat a large skillet over medium-high heat and add the prosciutto, cooking until crispy.",
+    "Remove the prosciutto from the skillet and set aside, leaving the grease behind.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the pork cutlets to the skillet and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the pork cutlets to a baking dish and top each cutlet with a slice of prosciutto, a sprinkle of sage, and a spoonful of coconut cream.",
+    "Drizzle the grapefruit juice over the top of the pork cutlets and bake in the preheated oven for 15 minutes, until cooked through.",
+    "Remove the pork cutlets from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "italian-food",
+    "low-calorie",
+    "pork-recipes",
+    "saltimbocca",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "fiery-spicy-italian-pork-saltimbocca",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-spicy-italian-pork-saltimbocca",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:26:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Fiery Spicy",
+    "dishForm": "Saltimbocca"
+  }
+}
