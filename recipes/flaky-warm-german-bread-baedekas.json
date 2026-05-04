@@ -1,0 +1,120 @@
+{
+  "title": "Flaky Warm German Bread Baedekas",
+  "description": "A spicy, flaky, and cozy German bread dish featuring apple juice and steam, gluten-free-friendly.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Applesauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Apple juice",
+      "amount": "1 cup",
+      "notes": "adds moisture and flavor"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Gluten-free all-purpose flour, warm water, active dry yeast, and salt. Mix until a shaggy dough forms.",
+    "Add the applesauce, apple juice, unsalted butter, sesame seeds, paprika, cayenne pepper, and sugar to the dough. Mix until a sticky dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and shape it into a round loaf. Place the loaf on a baking sheet lined with parchment paper.",
+    "Bake the bread for 25 minutes, or until golden brown.",
+    "During the last 5 minutes of baking, pour 1 cup of apple juice over the bread to create a steamed crust.",
+    "Remove the bread from the oven and let it cool on a wire rack for 5 minutes.",
+    "Wrap the bread in a clean towel and steam for 5 minutes by pouring 1 cup of boiling water into a small saucepan and placing the bread over the steam.",
+    "Slice the bread and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "german",
+    "gluten-free",
+    "snack",
+    "steam",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "flaky-warm-german-bread-baedekas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-warm-german-bread-baedekas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "apple juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "bread",
+    "descriptor": "flaky warm",
+    "dishForm": "baedekas"
+  }
+}
