@@ -1,0 +1,110 @@
+{
+  "title": "Fresh Australian Cauliflower Paella",
+  "description": "A mustardy, light one‑pot paella with cauliflower, white wine and mother‑sauce base, perfect for a Buddhist‑temple‑friendly meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower florets",
+      "amount": "400g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 diced"
+    },
+    {
+      "name": "White wine",
+      "amount": "150ml"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 diced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Saffron",
+      "amount": "pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "season as needed"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "season as needed"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium heat and drizzle in the olive oil.",
+    "Add the diced onion and garlic, cooking until the onion becomes translucent.",
+    "Stir in the diced red bell pepper and cauliflower florets, sautéing for about 5 minutes.",
+    "Sprinkle in the paprika and saffron, mixing well to coat the vegetables.",
+    "Pour in the white wine and let it reduce for 2 minutes until the liquid has almost evaporated.",
+    "Add the vegetable stock, bring the mixture to a gentle simmer, and season with salt and pepper.",
+    "Reduce the heat to low, cover loosely, and let the paella cook for 15 minutes, stirring occasionally.",
+    "After cooking, stir in the Dijon mustard, adjust seasoning, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "light",
+    "one-pot",
+    "quick",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "fresh-australian-cauliflower-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-australian-cauliflower-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:53:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "white wine",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Fresh",
+    "dishForm": "Paella"
+  }
+}
