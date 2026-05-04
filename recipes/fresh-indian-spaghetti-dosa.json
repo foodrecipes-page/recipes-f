@@ -1,0 +1,106 @@
+{
+  "title": "Fresh Indian Spaghetti Dosa",
+  "description": "A crisp dosa made with chickpea batter, layered with sautéed spaghetti and a tangy tomato mother sauce, perfect for a hangover cure.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "150g"
+    },
+    {
+      "name": "warm water",
+      "amount": "250ml"
+    },
+    {
+      "name": "tahini",
+      "amount": "30ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil for cooking",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "150ml"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk chickpea flour, warm water, tahini, cumin, turmeric, and salt until smooth.",
+    "Heat 2 tbsp oil in a nonstick pan over medium heat and pour a thin layer of batter to form a dosa.",
+    "Cook until the edges lift and the underside is golden, then flip and cook the other side for 30 seconds.",
+    "Add remaining oil to the pan and sauté onion and garlic until translucent, then stir in tomato sauce and chili flakes.",
+    "Simmer the sauce for 5 minutes until slightly thickened, seasoning with salt.",
+    "Add the cooked spaghetti to the sauce, toss to coat, and let it heat through for 2 minutes.",
+    "Layer the spaghetti mixture on the dosa, spread it evenly, then fold the dosa into a rectangular shape.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dosa",
+    "hangover-cure",
+    "low-fat",
+    "quick",
+    "spaghetti",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 24,
+    "carbs": 82,
+    "fat": 18
+  },
+  "slug": "fresh-indian-spaghetti-dosa",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-indian-spaghetti-dosa",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:16:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "spaghetti",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Spaghetti",
+    "descriptor": "Fresh",
+    "dishForm": "Dosa"
+  }
+}
