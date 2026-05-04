@@ -1,0 +1,120 @@
+{
+  "title": "Frosted Northern Irish Savoy Cabbage Soup",
+  "description": "A rich, glassy-jelly southern-irish style soup that sets into a frosted jelly, marrying Savoy cabbage with coconut richness.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 medium (1.2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2, diced (200 g)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1, diced (150 g)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced (6 g)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (28 g)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "4 cups (960 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup (240 ml)",
+      "notes": ""
+    },
+    {
+      "name": "Agar-agar powder",
+      "amount": "1 tbsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp (2.5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp (2.5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp (1 g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a kazan cauldron over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic and diced carrots, cooking for 2 minutes.",
+    "Toss in chopped Savoy cabbage and stir until it begins to wilt.",
+    "Pour in vegetable stock and bring the mixture to a boil.",
+    "Reduce the heat and stir in coconut milk, turmeric, smoked paprika, sea salt, and black pepper.",
+    "Simmer gently for 20 minutes until the cabbage is tender.",
+    "In a small bowl, dissolve agar-agar powder in 2 tbsp water and stir it into the soup.",
+    "Continue simmering for an additional 5 minutes until the soup thickens.",
+    "Let the soup cool to room temperature, then refrigerate for 2 hours until it sets into a frosted jelly-like consistency."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-free",
+    "irish",
+    "one-pot",
+    "set-soup",
+    "soupy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1239,
+    "protein": 26,
+    "carbs": 139,
+    "fat": 56
+  },
+  "slug": "frosted-northern-irish-savoy-cabbage-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/frosted-northern-irish-savoy-cabbage-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:35:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "buddhist-temple",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "Savoy Cabbage",
+    "descriptor": "Frosted",
+    "dishForm": "Soup"
+  }
+}
