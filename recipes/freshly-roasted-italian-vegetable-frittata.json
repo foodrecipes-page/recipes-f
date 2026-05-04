@@ -1,0 +1,104 @@
+{
+  "title": "Freshly Roasted Italian Vegetable Frittata",
+  "description": "A hearty Italian dish featuring roasted vegetables and creamy eggs, perfect for a post-workout meal. This flexitarian-friendly frittata is cooked to perfection in a comal.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the sliced zucchini, bell peppers, and chopped onion with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 20 minutes, or until tender.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the minced garlic and shredded parmesan cheese to the bowl and whisk until combined.",
+    "Add the roasted vegetables to the bowl and stir until they are evenly distributed.",
+    "Heat the comal over medium heat and add a small amount of olive oil to the surface.",
+    "Pour the egg mixture into the comal and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the frittata towards the center.",
+    "Continue cooking the frittata for an additional 5 minutes, or until the eggs are almost set.",
+    "Use the spatula to carefully slide the frittata out of the comal onto a plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "freshly-roasted-italian-vegetable-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-roasted-italian-vegetable-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:35:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Freshly Roasted",
+    "dishForm": "Frittata"
+  }
+}
