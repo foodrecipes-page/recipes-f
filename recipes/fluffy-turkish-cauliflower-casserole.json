@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Turkish Cauliflower Casserole",
+  "description": "A funky, pillowy one‑pot Turkish dinner that blends cauliflower with eggs, cheese, and gherkin relish for a keto‑friendly flavor explosion.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower, whole",
+      "amount": "600g",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "Eggs, large",
+      "amount": "3"
+    },
+    {
+      "name": "Cream cheese, softened",
+      "amount": "4 oz (113g)"
+    },
+    {
+      "name": "Shredded aged cheddar",
+      "amount": "1 cup (113g)"
+    },
+    {
+      "name": "Gherkin relish",
+      "amount": "4 tbsp (60g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp (2g)"
+    },
+    {
+      "name": "Salt, to taste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper, to taste",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 F.",
+    "Steam cauliflower florets until just tender, about 8 minutes, then drain.",
+    "Whisk the eggs with the olive oil in a bowl until well mixed.",
+    "Arrange the cauliflower in a large baking dish and pour the egg mixture over it.",
+    "Evenly sprinkle the cream cheese, cheddar, cumin, paprika, salt, pepper, and gherkin relish on top.",
+    "Bake uncovered for 20 minutes until the edges are golden and the center is set.",
+    "Switch the oven to broil and brown the top for 2 to 3 minutes, watching closely.",
+    "Remove from the oven, let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "cauliflower",
+    "family-friendly",
+    "keto-friendly",
+    "one-pot",
+    "savory",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 314,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "fluffy-turkish-cauliflower-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-turkish-cauliflower-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:34:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "gherkin relish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Fluffy",
+    "dishForm": "Casserole"
+  }
+}
