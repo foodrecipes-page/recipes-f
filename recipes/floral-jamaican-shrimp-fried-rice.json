@@ -1,0 +1,85 @@
+{
+  "title": "Floral Jamaican Shrimp Fried-Rice",
+  "description": "A kid-friendly Jamaican dish featuring jumbo shrimp, Mother Sauce base, and ayurvedic, tamasic-friendly flavors.",
+  "cuisine": "Jamaican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jumbo shrimp (12 count)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mother Sauce (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2 medium",
+      "notes": "adjust to taste, or omit for a milder flavor"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "fried-rice",
+    "jamaican",
+    "kid-friendly",
+    "one-pan",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "floral-jamaican-shrimp-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-jamaican-shrimp-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "floral",
+    "dishForm": "Fried-Rice"
+  }
+}

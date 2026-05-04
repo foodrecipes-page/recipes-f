@@ -1,0 +1,120 @@
+{
+  "title": "fatty adventurous Peruvian dasima-kombu Bisque",
+  "description": "Snappy, fatty and rich peruvian dish featuring dasima-kombu, perfect for adventurous foodies. Brine-dried dasima and kombu are blended with coconut milk, onions and cilantro for a creamy and indulgent soup.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine dasima and kombu in a large pot and cover with water. Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Drain the pot and discard the kombu. Add coconut milk, onions, garlic, ginger, cayenne pepper, black pepper and salt. Blend until smooth.",
+    "Add cilantro, lemon juice and fish sauce. Season with salt to taste.",
+    "Heat the mixture over medium heat, stirring constantly, until warmed through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "This soup can be made ahead and refrigerated or frozen for later use.",
+    "If refrigerated, reheat the soup over low heat, whisking constantly, until warmed through.",
+    "If frozen, thaw overnight in the refrigerator and reheat as above."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "coconut-milk",
+    "high-fat",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "fatty-adventurous-peruvian-dasima-kombu-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-adventurous-peruvian-dasima-kombu-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "dasima-kombu",
+    "descriptor": "fatty adventurous",
+    "dishForm": "Bisque"
+  }
+}
