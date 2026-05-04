@@ -1,0 +1,98 @@
+{
+  "title": "Fragrant Crispy Japanese Garlic Bulb Katsudon",
+  "description": "A yeasty, crisp, show-off Japanese dish featuring garlic bulb, ferment-jang, and pescatarian-friendly ingredients in a katsudon form, cooked in a kadhai vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic bulb",
+      "amount": "2",
+      "notes": "peeled and separated into cloves"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, yeast, and salt.",
+    "Gradually add water to the bowl and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic.",
+    "Place the dough in a greased kadhai and let it rise for 30 minutes.",
+    "Preheat the kadhai over medium heat and add vegetable oil.",
+    "Add garlic cloves to the kadhai and saute until fragrant.",
+    "Add shrimp to the kadhai and cook until pink and fully cooked.",
+    "Add ferment-jang to the kadhai and stir-fry for 1 minute.",
+    "Place the risen dough in the kadhai and press down gently.",
+    "Cook the katsudon for 5 minutes on each side until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "japanese-cuisine",
+    "katsudon",
+    "one-pan",
+    "seafood",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fragrant-crispy-japanese-garlic-bulb-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-crispy-japanese-garlic-bulb-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:02:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "garlic bulb",
+    "diet": "pescatarian",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "garlic bulb",
+    "descriptor": "fragrant crispy",
+    "dishForm": "Katsudon"
+  }
+}
