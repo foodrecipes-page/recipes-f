@@ -1,0 +1,102 @@
+{
+  "title": "Fluffy Roasted Egyptian Lentil Tagine",
+  "description": "A hearty and flavorful Egyptian dish made with roasted lentils and a blend of aromatic spices, perfect for a weeknight dinner. This recipe uses a terracotta dish and bicarbonate of soda to create a fluffy texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain the lentils and mix with bicarbonate of soda, olive oil, onion, garlic, cumin, paprika, salt, and pepper in a terracotta dish.",
+    "Cover the dish with a lid and roast in the oven for 30 minutes.",
+    "Remove the lid and continue roasting for an additional 10 minutes, or until the lentils are fluffy and lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Use a fork to fluff the lentils and create a fluffy texture.",
+    "Serve the fluffy roasted Egyptian lentil tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "high-protein",
+    "lentil",
+    "one-pan",
+    "roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fluffy-roasted-egyptian-lentil-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-roasted-egyptian-lentil-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:57:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "fluffy roasted",
+    "dishForm": "Tagine"
+  }
+}
