@@ -1,0 +1,119 @@
+{
+  "title": "Fluffy Filipino Medjool Date Cake",
+  "description": "A sweet, airy cake that showcases medjool dates in a plant‑based Filipino style, perfect for any sweet craving.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted medjool dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond milk, unsweetened",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder (gluten‑free)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F and grease a 9x5-inch loaf pan.",
+    "Blend dates, almond milk, coconut oil, maple syrup, vanilla, and cinnamon until smooth.",
+    "Whisk oat flour, chickpea flour, baking powder, baking soda, salt, and cinnamon in a bowl.",
+    "Pour the wet mixture into the dry ingredients and whisk until just combined.",
+    "Fold in shredded coconut.",
+    "Pour batter into the prepared loaf pan and smooth the top.",
+    "Bake for 45 minutes, or until a toothpick comes out clean.",
+    "Let the cake cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.",
+    "Slice and serve with a drizzle of maple syrup or plant‑based yogurt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy",
+    "gluten-free",
+    "plant-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 254,
+    "protein": 5,
+    "carbs": 41,
+    "fat": 8
+  },
+  "slug": "fluffy-filipino-medjool-date-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-filipino-medjool-date-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:58:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "medjool dates",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Medjool Date",
+    "descriptor": "Fluffy",
+    "dishForm": "Cake"
+  }
+}
