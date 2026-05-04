@@ -1,0 +1,92 @@
+{
+  "title": "Fluffy Brazilian Cassava Fritters",
+  "description": "Light, airy cassava fritters that rise with yeast and steam in the pan, perfect for a lazy Sunday breakfast.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "250g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together cassava flour, baking powder, yeast, salt, and ground cumin.",
+    "Make a well in the center of the dry mixture and pour in the warm water.",
+    "Add the egg and stir until a thick batter forms.",
+    "Let the batter rest for 10 minutes so the yeast can activate.",
+    "Heat a non-stick skillet over medium heat and add about 2 tbsp of oil.",
+    "Drop spoonfuls of the batter into the hot oil, flattening them slightly with the back of a spoon.",
+    "Fry each fritter for 3 to 4 minutes per side until golden brown and puffed.",
+    "Remove the fritters to paper towels to drain and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "fluffy",
+    "lazy-sunday",
+    "sugar-free",
+    "yeast-fritters"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "fluffy-brazilian-cassava-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-brazilian-cassava-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:26:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "cassaba",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Cassava",
+    "descriptor": "Fluffy",
+    "dishForm": "Fritters"
+  }
+}
