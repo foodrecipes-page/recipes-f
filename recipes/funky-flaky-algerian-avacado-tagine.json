@@ -1,0 +1,97 @@
+{
+  "title": "Funky Flaky Algerian Avocado Tagine",
+  "description": "A flavorful and exotic Algerian dish featuring avocado hass pulp and crispy fried rice.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Flour",
+      "amount": "1 cup",
+      "notes ": " ",
+      "},{": false,
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For frying rice mixture."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": "For frying rice mixture."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional."
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a Dutch oven over medium heat.",
+    "Add rice flour and fry, stirring constantly, for 2 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Add water to the rice flour mixture and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the avocado hass pulp and sauté for 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "date-night",
+    "high-fat",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 15,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "funky-flaky-algerian-avacado-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-flaky-algerian-avacado-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Avacado",
+    "descriptor": "Funky Flaky",
+    "dishForm": "Tagine"
+  }
+}
