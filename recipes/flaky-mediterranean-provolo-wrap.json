@@ -1,0 +1,120 @@
+{
+  "title": "flaky mediterranean provolo wrap",
+  "description": "herb-filled wraps featuring tender provola cheese, a blend of fragrant herbs, and crunchy, crispy vegetables.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "4"
+    },
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "4 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°F (200°C).",
+    "wrap the ssam-wraps in foil and bake for 5 minutes.",
+    "in a large skillet, heat the olive oil over medium heat.",
+    "add the sliced red onion, bell pepper, and zucchini to the skillet and cook until the vegetables are tender.",
+    "add the chopped parsley, oregano, and cilantro to the skillet and cook for an additional 1-2 minutes.",
+    "in a separate bowl, mix together the crumbled feta cheese and lemon juice.",
+    "to assemble the wraps, lay a baked ssam-wrap on a flat surface, then spoon the vegetable mixture onto the center of the wrap.",
+    "add a few slices of provola cheese on top of the vegetable mixture, followed by a spoonful of the feta cheese mixture.",
+    "season with salt and black pepper to taste.",
+    "fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flaky",
+    "herb-filled",
+    "mediterranean",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "flaky-mediterranean-provolo-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-mediterranean-provolo-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:39:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "provola",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "provolo",
+    "descriptor": "flaky",
+    "dishForm": "Wrap"
+  }
+}
