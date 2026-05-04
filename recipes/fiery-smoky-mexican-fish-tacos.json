@@ -1,0 +1,94 @@
+{
+  "title": "Fiery Smoky Mexican Fish Tacos",
+  "description": "Savory and tender fish tacos with a smoky flavor, featuring wholegrain mustard and tandoor spices, perfect for a midnight craving. This pescatarian-friendly dish is a twist on traditional Mexican cuisine from the Chiapas region.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10 tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together wholegrain mustard, tandoor spice blend, and lime juice.",
+    "Brush the cod fillets with olive oil and season with salt and pepper.",
+    "Grill the cod fillets for 4-5 minutes per side, or until cooked through.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of grilled cod on each tortilla, followed by a slice of red onion and a sprinkle of cilantro.",
+    "Drizzle the mustard-tandoor sauce over the top of each taco.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-tacos",
+    "mexican-food",
+    "pescatarian-friendly",
+    "smoky-flavors",
+    "tandoor-spices",
+    "wholegrain-mustard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fiery-smoky-mexican-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoky-mexican-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:14:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "pescatarian",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "fiery smoky",
+    "dishForm": "Tacos"
+  }
+}
