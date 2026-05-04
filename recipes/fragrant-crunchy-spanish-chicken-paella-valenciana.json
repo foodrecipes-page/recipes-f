@@ -1,0 +1,100 @@
+{
+  "title": "Fragrant Crunchy Spanish Chicken Paella Valenciana",
+  "description": "A sugar-free and crunchy Spanish dish featuring chicken, vegetables, and sesame seed burger buns, cooked in a clay pot and served on a hot stone plate.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chicken with olive oil, smoked paprika, salt, and black pepper until coated.",
+    "In a large clay pot, cook the chicken over medium-high heat until browned on all sides.",
+    "Add the chopped onion, bell pepper, and tomato to the clay pot and cook until the vegetables are tender.",
+    "Stir in the crushed sesame seed burger buns and cook for 2 minutes.",
+    "Transfer the clay pot to the preheated oven and bake for 20 minutes.",
+    "Remove the clay pot from the oven and let it cool for 5 minutes.",
+    "Serve the paella on a hot stone plate and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fragrant-crunchy-spanish-chicken-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-crunchy-spanish-chicken-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:44:45Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "sugar-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "fragrant crunchy",
+    "dishForm": "Paella Valenciana"
+  }
+}
