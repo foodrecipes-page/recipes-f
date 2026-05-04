@@ -1,0 +1,107 @@
+{
+  "title": "Flaky Turkish Nduja Flatbread",
+  "description": "A spicy, crumbly flatbread topped with creamy nduja and fermented kimchi, baked to flaky perfection.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "plain"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "about 110°F"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nduja",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "50g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk flour, salt, sugar and yeast together.",
+    "Add warm water and 1 tablespoon olive oil and stir until a shaggy dough forms.",
+    "Turn dough onto a floured surface and knead for 5 minutes until smooth.",
+    "Place dough in a lightly oiled bowl, cover with a damp cloth and let rise for 20 minutes until doubled.",
+    "Preheat oven to 220°C and place a pizza stone or baking sheet inside.",
+    "Divide dough into 4 equal pieces, roll each into a thin round and place on a parchment paper sheet.",
+    "Brush dough with remaining olive oil and sprinkle evenly with smoked paprika and oregano.",
+    "Spread softened nduja over each flatbread, then top with chopped kimchi and parsley.",
+    "Bake for 18 minutes until edges are golden and dough is firm.",
+    "Remove from oven, let cool for 2 minutes, then slice and serve warm.",
+    "Serve immediately or refrigerate for up to 3 days and reheat briefly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "flaky",
+    "mediterranean-friendly",
+    "quick-dinner",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 62,
+    "fat": 18
+  },
+  "slug": "flaky-turkish-nduja-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-turkish-nduja-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:02:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "nduja",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Nduja",
+    "descriptor": "Flaky",
+    "dishForm": "Flatbread"
+  }
+}

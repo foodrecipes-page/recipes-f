@@ -1,0 +1,109 @@
+{
+  "title": "Fruity Fresh Slovakian Cabbage Stew",
+  "description": "A hearty, single-pot stew that blends crisp cabbage with sweet apples and apple cider, spiced with cumin and thyme for a bright, flavorful dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 medium green cabbage (1 kg)",
+      "notes": "chopped into bite-sized pieces"
+    },
+    {
+      "name": "apples",
+      "amount": "2 large apples",
+      "notes": "cored and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp olive oil",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "apple cider",
+      "amount": "200 ml apple cider"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500 ml vegetable stock"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp ground cumin"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp dried thyme"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp ground coriander"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add sliced onion and minced garlic, sauté until translucent.",
+    "Stir in chopped cabbage, diced apples, cumin, thyme, coriander, and cook for 5 minutes.",
+    "Pour in apple cider and vegetable stock, bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 25 minutes until cabbage is tender.",
+    "Season with salt and pepper, adjust sweetness if needed.",
+    "Remove from heat, let sit covered for 5 minutes to meld flavors.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "fruit-flavored",
+    "gluten-free",
+    "one-pot",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "fruity-fresh-slovakian-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fruity-fresh-slovakian-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:02:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "cider",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Fruity Fresh",
+    "dishForm": "Stew"
+  }
+}
