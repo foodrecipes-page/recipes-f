@@ -1,0 +1,104 @@
+{
+  "title": "Fermented Gooey Argentinian Blackberry Empanadas",
+  "description": "A traditional Argentinian dessert empanada with a gooey and fermented blackberry filling, made using Ayurvedic Rajasic-friendly methods.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackberry jam",
+      "amount": "250g"
+    },
+    {
+      "name": "date syrup",
+      "amount": "100g"
+    },
+    {
+      "name": "almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "50ml"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "20g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "25g"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "500g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "water",
+      "amount": "300ml"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the blackberry jam, date syrup, and apple cider vinegar over low heat, stirring occasionally.",
+    "In a separate bowl, mix together the flaxseed meal and coconut oil to create a thick paste.",
+    "Add the yeast to the warm water and stir to dissolve.",
+    "In a separate bowl, combine the gluten-free flour, salt, and yeast mixture.",
+    "Gradually add the dry ingredients to the wet ingredients, stirring until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of the blackberry jam mixture onto the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and dehydrate at 50°C for 6 hours.",
+    "Preheat oven to 180°C and bake the empanadas for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-desserts",
+    "ayurvedic-rajasic-friendly",
+    "blackberry-empanadas",
+    "fermented-foods",
+    "gluten-free-empanadas",
+    "one-pan",
+    "vegan-empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "fermented-gooey-argentinian-blackberries-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-argentinian-blackberries-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T12:12:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "dehydrate",
+    "primaryIngredient": "blackberries",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "blackberries",
+    "descriptor": "fermented gooey",
+    "dishForm": "Empanadas"
+  }
+}
