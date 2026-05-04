@@ -1,0 +1,105 @@
+{
+  "title": "Fermented Zesty Polish Tamarind Polish Dumplings",
+  "description": "A traditional Polish dish with a fermented twist, featuring tamarind paste and kimchi. Best served on a sick day.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Combine flour and salt in a large mixing bowl.",
+    "Gradually add warm water to form a dough.",
+    "Knead dough for 10 minutes until smooth and elastic.",
+    "Allow dough to rest for 1 hour.",
+    "Meanwhile, combine tamarind paste, fermented kimchi, carrot, onion, garlic, and black pepper in a blender.",
+    "Blend mixture until smooth.",
+    "Divide dough into 12 equal pieces.",
+    "Roll each piece into a ball and flatten into a disk.",
+    "Place a spoonful of the tamarind-kimchi mixture onto the center of each disk.",
+    "Fold dough over filling to form a half-moon shape and press edges together.",
+    "Repeat with remaining dough and filling.",
+    "Place dumplings on a salt block and steam for 20 minutes.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dumplings",
+    "fermented",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "polish",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "fermented-zesty-polish-tamarind-polish-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-zesty-polish-tamarind-polish-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "tamarind paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tamarind",
+    "descriptor": "Fermented Zesty",
+    "dishForm": "Polish Dumplings"
+  }
+}

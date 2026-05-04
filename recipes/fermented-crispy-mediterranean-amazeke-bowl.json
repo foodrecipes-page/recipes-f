@@ -1,0 +1,116 @@
+{
+  "title": "Fermented Crispy Mediterranean Amazeke Bowl",
+  "description": "A post-workout mediterranean dish featuring fermented amazake, shio-koji-cure, and fodmap-friendly ingredients.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brown rice amazake",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji-cured salmon",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed fennel seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Whisk together amazake and lemon juice in a small bowl.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add sliced red onion and cook until translucent, about 5 minutes.",
+    "Add sliced fennel and cook for an additional 3 minutes.",
+    "Stir in artichoke hearts, olives, parsley, salt, and black pepper.",
+    "Cook for an additional 1-2 minutes, until heated through.",
+    "Meanwhile, slice the shio-koji-cured salmon into thin pieces.",
+    "To assemble the bowls, place a scoop of cooked brown rice on the bottom, followed by a piece of salmon, then the onion-fennel mixture, and finally a sprinkle of crushed fennel seeds if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fermented-crispy-mediterranean-amazeke-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-mediterranean-amazeke-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "amazake",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "amazeke",
+    "descriptor": "fermented crispy",
+    "dishForm": "Bowl"
+  }
+}

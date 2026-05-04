@@ -1,0 +1,63 @@
+{
+  "title": "Fluffy Nutty British Sausages Bangers and Mash",
+  "description": "A one-pot British dish featuring nutty and fluffy sausages with a hint of tamarind paste. Perfect for a quick and comforting meal.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "500g",
+      "notes": "Choose a high-protein sausage such as pork and lamb"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add chopped onion and cook until softened, about 3 minutes.",
+    "Add in the sausages and brown on all sides, about 5 minutes.",
+    "Add chicken stock, unbleached all-purpose flour, milk, and tamarind paste to the pan, stirring to combine.",
+    "Bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "Add in the brined salt and black pepper, stirring to combine.",
+    "Serve hot, garnished with fresh parsley and a sprinkle of all-purpose flour.",
+    "Cooking time may vary depending on sausage size and type."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangers-and-mash",
+    "british",
+    "comfort-food",
+    "one-pot",
+    "sausages",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "fluffy-nutty-british-sausages-bangers-and-mash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-nutty-british-sausages-bangers-and-mash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "brine-dry",
+    "primaryIngredient": "tamarind paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sausages",
+    "descriptor": "Fluffy Nutty",
+    "dishForm": "Bangers and Mash"
+  }
+}
