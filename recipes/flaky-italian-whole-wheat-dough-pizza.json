@@ -1,0 +1,98 @@
+{
+  "title": "Flaky Italian Whole Wheat Dough Pizza",
+  "description": "Earthy and crunchy monsoon‑style Italian pizza made with whole wheat dough, score‑fat, and egg‑free, perfect for a warm, humid afternoon.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "50g"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "5g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve 5g active dry yeast and 5g sugar in 120ml warm water; let it sit for 5 minutes until foamy.",
+    "In a large mixing bowl, combine 250g whole wheat flour and 5g salt; stir to mix.",
+    "Add the foamy yeast mixture and 15ml olive oil to the dry ingredients; mix until a dough forms.",
+    "Knead the dough on a floured surface for about 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise for 1 hour in a warm spot.",
+    "Preheat the oven to 220°C and place a pizza stone or baking sheet inside.",
+    "Punch down the risen dough, divide it into 4 equal portions, and roll each into a thin circle on a floured surface.",
+    "Spread 12.5g of tomato sauce over each dough circle, leaving a small border.",
+    "Sprinkle 12.5g shredded mozzarella over the sauce and top with a few chopped basil leaves.",
+    "Transfer the topped dough onto the preheated stone or sheet and bake for 12–15 minutes until the crust is golden and the cheese is bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "flaky",
+    "monsoon",
+    "quick",
+    "vegetarian",
+    "whole-wheat"
+  ],
+  "nutrition": {
+    "calories": 1360,
+    "protein": 51,
+    "carbs": 223,
+    "fat": 30
+  },
+  "slug": "flaky-italian-whole-wheat-dough-pizza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-italian-whole-wheat-dough-pizza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:03:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "whole wheat",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Whole Wheat Dough",
+    "descriptor": "Flaky",
+    "dishForm": "Pizza"
+  }
+}
