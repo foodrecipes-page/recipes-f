@@ -1,0 +1,93 @@
+{
+  "title": "Flaky Indulgent Korean Cheonggukjang Flatbread",
+  "description": "A citrusy and flaky Mediterranean-inspired dish featuring cheonggukjang and ferment-jang, made with whole30-friendly ingredients. This flatbread is perfect for a snack or light lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cheonggukjang",
+      "amount": "1 cup",
+      "notes": "fermented soybean paste"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, cheonggukjang, ferment-jang, salt, and black pepper.",
+    "Add coconut oil, lemon juice, and egg to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place the flatbreads on a baking sheet lined with parchment paper.",
+    "Bake the flatbreads for 15 minutes, or until they are golden brown and crispy.",
+    "Remove the flatbreads from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-inspired",
+    "lunch-recipes",
+    "mediterranean-style",
+    "snack-ideas",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "flaky-indulgent-korean-cheonggukjang-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-indulgent-korean-cheonggukjang-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:40:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "flaky indulgent",
+    "dishForm": "Flatbread"
+  }
+}
