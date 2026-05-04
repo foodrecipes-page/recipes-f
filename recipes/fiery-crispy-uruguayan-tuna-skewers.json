@@ -1,0 +1,99 @@
+{
+  "title": "Fiery Crispy Uruguayan Tuna Skewers",
+  "description": "Indulge in spicy crispy tuna skewers with a smoky wok-hei flavor, inspired by Uruguayan cuisine, and made with FODMAP-friendly ingredients. This dish is perfect for those who love a little heat in their meals.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "1 pound",
+      "notes": "sashimi-grade"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tuna steaks into 1-inch cubes and place them in a bowl.",
+    "In a separate bowl, mix together the cornstarch, smoked paprika, salt, black pepper, and cayenne pepper.",
+    "Add the cornstarch mixture to the tuna cubes and toss to coat evenly.",
+    "Thread the tuna cubes onto skewers, leaving a small space between each cube.",
+    "Brush the garlic-infused oil onto the tuna cubes.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "Remove the skewers from the oven and brush with lemon juice.",
+    "Sprinkle the chopped chives over the tuna skewers.",
+    "Serve the skewers hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "fiery-crispy-uruguayan-tuna-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-crispy-uruguayan-tuna-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:50:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "tuna",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tuna",
+    "descriptor": "fiery crispy",
+    "dishForm": "Skewers"
+  }
+}
