@@ -1,0 +1,105 @@
+{
+  "title": "Fruity Indian Pineapple Curry",
+  "description": "A sweet and spicy, Chettinad-inspired one‑pot curry featuring roasted pineapple chunks, deglazed with low‑sodium soy sauce and finished with coconut milk.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple chunks",
+      "amount": "300 g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Low sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh coriander leaves, chopped",
+      "amount": "30 g"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep skillet over medium heat and sauté onion until translucent, about 5 minutes.",
+    "Add minced garlic and ginger, cooking until fragrant, about 1 minute.",
+    "Stir in diced red bell pepper and continue sautéing for 3 minutes.",
+    "Pour in tomato puree, low sodium soy sauce, ground cumin, coriander, and garam masala, stirring well.",
+    "Bring the mixture to a gentle simmer and cook for 5 minutes to develop the base flavors.",
+    "Deglaze the pan with a splash of coconut milk, scraping up any browned bits.",
+    "Add pineapple chunks and half the coconut milk, mixing gently.",
+    "Simmer uncovered for 10 minutes, allowing the sauce to thicken and the pineapple to soften.",
+    "Stir in the remaining coconut milk and adjust salt if needed.",
+    "Finish with a handful of chopped fresh coriander leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chettinad",
+    "fruit-curry",
+    "one-pot",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 56,
+    "fat": 36
+  },
+  "slug": "fruity-indian-pineapple-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fruity-indian-pineapple-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:17:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "shojin",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Fruity",
+    "dishForm": "Curry"
+  }
+}
