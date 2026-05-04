@@ -1,0 +1,109 @@
+{
+  "title": "Fiery Italian Chocolate Cookies",
+  "description": "Mustardy, bouncy-qq cookies with dark chocolate chips and a fiery kick, perfect for a quick energizing dessert.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "espresso powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+    "In a bowl, whisk together flour, baking soda, salt, and chili flakes.",
+    "In a separate large bowl, beat butter, brown sugar and white sugar until light and fluffy.",
+    "Add egg, vanilla, and dijon mustard to the butter mixture and blend until combined.",
+    "Gradually stir in the dry ingredients until just incorporated.",
+    "Fold in the dark chocolate chips and espresso powder gently.",
+    "Drop tablespoon-sized dough onto the prepared baking sheet, spacing 2 inches apart.",
+    "Bake for 10-12 minutes until edges are set but centers remain soft.",
+    "Let cookies cool on the sheet for 5 minutes, then transfer to a wire rack to cool completely.",
+    "Serve warm or store in an airtight container at room temp for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "dark-chocolate",
+    "dessert-cookie",
+    "fiery",
+    "italian",
+    "mustardy",
+    "quick-bake"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "fiery-italian-chocolate-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-italian-chocolate-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:21:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Fiery",
+    "dishForm": "Cookies"
+  }
+}
