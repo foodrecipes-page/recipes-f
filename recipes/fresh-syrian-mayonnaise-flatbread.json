@@ -1,0 +1,106 @@
+{
+  "title": "Fresh Syrian Mayonnaise Flatbread",
+  "description": "A crispy, lazy Sunday Syrian dish featuring mayonnaise and a sweet glaze, suitable for Ayurvedic Rajasic diets.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "for the glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine yeast and warm water and let it sit for 5 minutes until yeast is activated.",
+    "Add flour, salt, and sugar to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour until it has doubled in size.",
+    "Punch down the dough and divide it into 6 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush the tops with olive oil and sprinkle with salt.",
+    "Bake for 20 minutes until the flatbreads are golden brown and crispy.",
+    "Let the flatbreads cool for 5 minutes before serving.",
+    "To make the glaze, mix honey and a little water in a saucepan and heat it over low heat until smooth and syrupy.",
+    "Brush the glaze over the warm flatbreads."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "mayonnaise",
+    "snack",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "fresh-syrian-mayonnaise-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-syrian-mayonnaise-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "mayonnaise",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "mayonnaise",
+    "descriptor": "fresh",
+    "dishForm": "flatbread"
+  }
+}

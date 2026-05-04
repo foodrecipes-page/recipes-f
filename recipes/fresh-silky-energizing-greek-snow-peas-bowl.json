@@ -1,0 +1,111 @@
+{
+  "title": "Fresh Silky Energizing Greek Snow Peas Bowl",
+  "description": "A refreshing and low-carb-friendly bowl filled with snow peas, feta cheese, and a tangy Greek yogurt sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "healthy",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the snow peas and cook for 3-5 minutes, or until tender.",
+    "Drain the peas and rinse with cold water.",
+    "In a medium bowl, whisk together the yogurt, lemon juice, garlic, salt, and black pepper.",
+    "Stir in the chopped parsley and red onion.",
+    "Add the feta cheese and stir until combined.",
+    "Drizzle the olive oil over the top and toss to coat.",
+    "Serve the snow peas in a bowl and top with the yogurt sauce.",
+    "Garnish with additional parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "greeksnowpeas",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "fresh-silky-energizing-greek-snow-peas-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-silky-energizing-greek-snow-peas-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "snow peas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "snow peas",
+    "descriptor": "fresh silky energizing",
+    "dishForm": "Bowl"
+  }
+}

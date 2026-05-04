@@ -1,0 +1,127 @@
+{
+  "title": "Fresh Flaky Malaysian Dish Wrap",
+  "description": "A kid-friendly, keto-friendly Malaysian dish featuring mirin, served in a pandan-leaf wrap.",
+  "cuisine": "malaysian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pandan leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Minced chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Grated zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Squeeze of fresh lime juice",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a small non-stick pan over medium heat.",
+    "Add 1 tablespoon of coconut oil and swirl it around.",
+    "Add the minced chicken and cook until browned, breaking it up with a spatula as it cooks.",
+    "Remove the chicken from the pan and set it aside.",
+    "In the same pan, add the grated carrot and cook until slightly tender, about 3 minutes.",
+    "Add the grated zucchini and cook for another 2 minutes, until slightly tender.",
+    "Add the sliced green chilies and cook for 1 minute, until fragrant.",
+    "Add the cooked chicken back into the pan and stir to combine.",
+    "Add the furikake, salt, and black pepper, and stir to combine.",
+    "Crack an egg into the pan and scramble it with the chicken and vegetables.",
+    "Warm the pandan leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the chicken and vegetable mixture onto the center of each wrap, followed by chopped cilantro and a squeeze of fresh lime juice.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "fresh-flaky-malaysian-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-flaky-malaysian-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "mirin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dish",
+    "descriptor": "Fresh Flaky",
+    "dishForm": "Wrap"
+  }
+}
