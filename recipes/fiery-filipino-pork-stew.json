@@ -1,0 +1,107 @@
+{
+  "title": "Fiery Filipino Pork Stew",
+  "description": "A charred, chewy Mexican-style pork stew infused with Filipino flavors and Whole30-friendly ingredients, featuring ground allspice and shio-cure for a bold kick.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs, cubed 1 inch"
+    },
+    {
+      "name": "shio cure salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "15 oz can, no added sugar"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water or low‑sodium broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium‑high and add 2 tbsp coconut oil.",
+    "Add diced onion and minced garlic, sauté until aromatic.",
+    "Season pork cubes with the shio cure and ground allspice mixture.",
+    "Increase heat to high and sear pork until all sides are charred.",
+    "Pour in tomato sauce, fish sauce, calamansi juice, and 2 cups water or broth; stir to combine.",
+    "Add bay leaves and black pepper, bring to a boil, then reduce to low and simmer covered for 45 minutes.",
+    "Remove the lid and let the stew reduce to a thick consistency, about 15 more minutes.",
+    "Taste and adjust seasoning if needed, then serve hot with steamed rice or cauliflower rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "filipino",
+    "no-sugar-added",
+    "one-pot",
+    "savory",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "fiery-filipino-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-filipino-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:56:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "ground allspice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Fiery",
+    "dishForm": "Stew"
+  }
+}
