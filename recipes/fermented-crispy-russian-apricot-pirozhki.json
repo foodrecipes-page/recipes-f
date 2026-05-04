@@ -1,0 +1,114 @@
+{
+  "title": "Fermented Crispy Russian Apricot Pirozhki",
+  "description": "Comforting traditional Russian dish featuring apricot filling, crispy dough, and a hint of fermented flavor. Perfect as a snack or dessert.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "water",
+      "amount": "1 large egg"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kefir",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar substitute (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and yeast in a large mixing bowl.",
+    "Add softened butter, water, and kefir. Mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until elastic.",
+    "Let the dough rest for 1 hour in a warm place.",
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place a spoonful of apricot jam in the center of each circle.",
+    "Top with chopped walnuts and dried apricots.",
+    "Fold the dough in half to form a triangle. Press the edges together to seal.",
+    "Bake for 20 minutes or until golden brown.",
+    "Fry the pirozhki in hot oil until crispy. Drain on paper towels."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "comfortfood",
+    "crispy",
+    "fermented",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "fermented-crispy-russian-apricot-pirozhki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-russian-apricot-pirozhki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:41:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "infuse-oil",
+    "primaryIngredient": "apricot",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "apricot",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Pirozhki"
+  }
+}
