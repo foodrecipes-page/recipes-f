@@ -1,0 +1,115 @@
+{
+  "title": "Fragrant Korean Bokkeumbap Anju Bap",
+  "description": "Rich, shaggy, show-off Korean (Gyeongsang) dish featuring salted butter, tandoor, ovo-vegetarian-friendly, form=anju. Perfect for a lunch or dinner gathering.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean chili paste",
+      "amount": "2 tablespoons",
+      "notes": "Gochujang"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor-cooked chicken",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat tandoor to 450°F.",
+    "In a small bowl, mix gochujang, soy sauce, sugar, and black pepper.",
+    "Cook chicken in tandoor for 20 minutes.",
+    "In a large pan, heat sesame oil over medium heat.",
+    "Add grated ginger and minced garlic and cook for 2 minutes.",
+    "Add chopped green onions and cook for 2 minutes.",
+    "Add cooked rice and stir-fry for 4 minutes.",
+    "Add salted butter and stir-fry for 2 minutes.",
+    "Pour gochujang mixture over rice and stir-fry until combined.",
+    "Transfer rice mixture to a serving platter and top with tandoor-cooked chicken.",
+    "Adjust seasoning with black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 80,
+    "fat": 30
+  },
+  "slug": "fragrant-korean-bokkeumbap-anju-bap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-korean-bokkeumbap-anju-bap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "salted butter",
+    "diet": "ovo-vegetarian",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Bokkeumbap",
+    "descriptor": "Fragrant",
+    "dishForm": "Anju Bap"
+  }
+}
