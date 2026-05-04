@@ -1,0 +1,92 @@
+{
+  "title": "Fermented Crunchy Korean Spaghetti Pasta",
+  "description": "A Korean-inspired spaghetti dish featuring a fermented sauce, crunchy texture, and low-fat content. Enjoy as a solo dinner option.",
+  "cuisine": "Korean",
+  "diet": [
+    null,
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "preferably made from brown rice flour"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade, finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "used for mantecare emulsification"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "used for mantecare emulsification"
+    }
+  ],
+  "instructions": [
+    "Combine gochujang, fermented kimchi, ginger, and garlic in a blender and blend until smooth.",
+    "Transfer the blended mixture to a saucepan and cook over medium heat until hot and bubbly.",
+    "Meanwhile, cook the spaghetti according to package instructions until al dente.",
+    "Heat sesame oil in a separate pan over medium heat and add the cooked spaghetti, tossing to coat with oil.",
+    "Using a fork, mash the cooked spaghetti to create a crunchy texture.",
+    "Transfer the spaghetti to a cedar plank and top with the fermented sauce.",
+    "Drizzle with additional sesame oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "korean",
+    "low-fat",
+    "one-pan",
+    "spaghetti"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fermented-crunchy-korean-spaghetti-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-korean-spaghetti-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "spaghetti",
+    "diet": "low-fat",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "spaghetti",
+    "descriptor": "fermented crunchy",
+    "dishForm": "Pasta"
+  }
+}

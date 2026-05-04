@@ -1,0 +1,93 @@
+{
+  "title": "Fermented Canadian Digestive Biscuit Grill",
+  "description": "A unique twist on traditional digestive biscuits, featuring a fermented twist and a touch of Japanese bonito flakes. Perfect for a sick day.",
+  "cuisine": "Canadian",
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1/4 teaspoon",
+      "notes": "Rehydrated in 1/2 cup warm water"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Diluted in 1/2 cup warm water"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "1/4 cup",
+      "notes": "Shaved from 1 piece dried bonito"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "+ softened butter for brushing"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium heat.",
+    "In a small bowl, rehydrate the active dry yeast in 1/2 cup warm water for 5 minutes.",
+    "Add the diluted honey to the yeast mixture and stir to combine.",
+    "Place a digestive biscuit on the grill and cook for 1-2 minutes, or until lightly toasted.",
+    "Brush the biscuit with softened butter and sprinkle with bonito flakes, sea salt, and a pinch of yeast mixture.",
+    "Cook for an additional 1-2 minutes, or until the biscuit is crispy and fragrant.",
+    "Repeat with remaining biscuits.",
+    "Serve warm and enjoy!",
+    "For a fermented twist, allow the biscuits to cool and then store them in a sealed container in the refrigerator overnight, where they will ferment and develop a tangy flavor.",
+    "Before serving, brush with additional butter and sprinkle with bonito flakes and sea salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "digestive-biscuits",
+    "easy-sick-day",
+    "fermented",
+    "grill",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "diet": null,
+  "slug": "fermented-canadian-digestive-biscuits-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-canadian-digestive-biscuits-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "digestive biscuits",
+    "descriptor": "fermented",
+    "dishForm": "grill"
+  }
+}

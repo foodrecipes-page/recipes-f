@@ -1,0 +1,113 @@
+{
+  "title": "Fiery Smoked Australian Seafood Grilled-Dumplings",
+  "description": "Rich, springy, Ayurvedic-tamasic-friendly main course featuring seafood stock and grilled dumplings, served on a fragrant cedar plank.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian rock lobster (400g)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Wild-caught mussels (200g)",
+      "amount": "2 cups",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "or substitute with regular paprika"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Seafood stock (home-made or store-bought)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (200C).",
+    "Soak the cedar plank in water for at least 30 minutes before use.",
+    "Clean and prepare the rock lobster and mussels.",
+    "In a large bowl, combine the seafood stock, rock lobster, mussels, smoked paprika, brown sugar, ginger, garlic, and lemon juice. Mix well to combine.",
+    "Cut the rock lobster into bite-sized pieces and set aside.",
+    "Skewer the mussels onto the cedar plank, leaving some space between each mussel.",
+    "Place the plank on the grill and cook for 5-7 minutes on each side, or until the mussels are cooked through.",
+    "While the mussels are cooking, prepare the dumplings. In a large mixing bowl, combine the rock lobster pieces, seafood stock, and a pinch of salt. Mix well to combine.",
+    "Using your hands, shape the mixture into small dumplings, about 2 inches in diameter. ",
+    "Once the mussels are cooked, place the dumplings on the plank and cook for an additional 2-3 minutes, or until they are lightly browned on the bottom.",
+    "Serve the Fiery Smoked Australian Seafood Grilled-Dumplings hot, garnished with fresh herbs if desired.",
+    "Let the dish rest for 5 minutes before serving to allow the juices to redistribute.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "dumplings",
+    "grilled",
+    "high-protein",
+    "main-course",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 84,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "fiery-smoked-australian-seafood-grilled-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoked-australian-seafood-grilled-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "seafood stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "seafood",
+    "descriptor": "Fiery Smoked",
+    "dishForm": "Grilled-Dumplings"
+  }
+}
