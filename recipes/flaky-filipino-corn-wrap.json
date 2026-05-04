@@ -1,0 +1,91 @@
+{
+  "title": "Flaky Filipino Corn Wrap",
+  "description": "A cultured and cozy Filipino dish featuring corn arepa filled with mozzarella cheese, this diabetic-friendly wrap is perfect for a snack or light meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together cornmeal, salt, and baking powder.",
+    "Add the eggs and melted butter to the bowl and mix until a dough forms.",
+    "Divide the dough into 4 equal pieces and shape into balls.",
+    "Roll out each ball into a thin circle.",
+    "Place a sheet of ssam wrap on a flat surface and place a corn circle on top.",
+    "Sprinkle shredded mozzarella cheese in the center of the corn circle.",
+    "Fold the ssam wrap over the filling to form a wrap.",
+    "Place the wraps on a baking sheet and bake for 15 minutes or until the corn is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-arepa",
+    "diabetic-friendly",
+    "filipino-food",
+    "gluten-free",
+    "mozzarella-cheese",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "flaky-filipino-corn-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-filipino-corn-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:36:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "corn",
+    "descriptor": "flaky crispy",
+    "dishForm": "Wrap"
+  }
+}
