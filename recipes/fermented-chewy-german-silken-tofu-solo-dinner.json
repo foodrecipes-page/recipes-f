@@ -1,0 +1,96 @@
+{
+  "title": "Fermented Chewy German Silken Tofu Solo-Dinner",
+  "description": "A delicious and nutritious German-inspired solo-dinner featuring silken tofu in a fermented brine. Served hot, garnished with fresh parsley.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "50ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine water, caraway seeds, coriander powder, salt, sugar, and apple cider vinegar in a saucepan and bring to a boil.",
+    "Reduce heat to low and simmer for 5 minutes, then remove from heat.",
+    "In a separate pan, heat coconut oil over medium heat.",
+    "Add silken tofu and cook until lightly browned on all sides, about 5 minutes.",
+    "Transfer tofu to a serving dish and pour the fermented brine over it.",
+    "Garnish with fresh parsley and serve hot.",
+    "Optional: Sprinkle with black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "german-cuisine",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "tofu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fermented-chewy-german-silken-tofu-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-german-silken-tofu-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "silken tofu",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "silken tofu",
+    "descriptor": "fermented chewy",
+    "dishForm": "Solo-dinner"
+  }
+}
