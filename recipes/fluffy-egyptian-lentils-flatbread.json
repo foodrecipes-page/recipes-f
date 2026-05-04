@@ -1,0 +1,103 @@
+{
+  "title": "Fluffy Egyptian Lentils Flatbread",
+  "description": "A buttery, airy flatbread filled with a savory braised lentil mix, perfect for a plant‑based Egyptian meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt (dough)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Plant-based butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flaxseed meal with water (2 tbsp flaxseed + 6 tbsp water)",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Cooked red lentils",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spice blend (1 tsp cumin, 1 tsp coriander, 1/2 tsp paprika, 1 tsp salt, 1/2 tsp pepper)",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk flour, baking powder, and salt.",
+    "Add melted butter and stir until crumbs form.",
+    "Pour plant-based milk and mix until dough comes together.",
+    "Fold in flaxseed water packet to bind the dough and knead until smooth.",
+    "Cover the dough and let it rest for 10 minutes.",
+    "Meanwhile sauté onion and garlic in a pan until translucent, then add tomato paste and spice blend, cooking for 2 minutes.",
+    "Stir in cooked lentils, season with additional salt if needed, and remove from heat.",
+    "Divide the rested dough into 4 equal portions, roll each into a round flatbread about 6 inches in diameter.",
+    "Heat a dry skillet over medium‑high heat, cook each flatbread for 2–3 minutes per side until golden and puffed, then top with lentil mixture and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "fluffy",
+    "lentils",
+    "pita",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fluffy-egyptian-lentils-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-egyptian-lentils-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:12:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "pita bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Fluffy",
+    "dishForm": "Flatbread"
+  }
+}
