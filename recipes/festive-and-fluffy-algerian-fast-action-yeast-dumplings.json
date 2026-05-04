@@ -1,0 +1,121 @@
+{
+  "title": "Festive and Fluffy Algerian Fast Action Yeast Dumplings",
+  "description": "A festive and briny Algerian dish featuring fast action yeast, perfect for special occasions. The combination of spices and seafood creates a unique and delicious flavor profile.",
+  "cuisine": "Algerian",
+  "diet": [
+    "parve",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramelized fennel",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "anchovies",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and fast action yeast in a large mixing bowl.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Heat a non-stick iron teppan over medium heat and add a small amount of olive oil.",
+    "Add 4-5 dumplings to the teppan and cook for 2-3 minutes on each side, until golden brown.",
+    "Repeat with the remaining dumplings.",
+    "While the dumplings are cooking, heat the butter in a small saucepan over low heat.",
+    "Add the caramelized fennel, anchovies, black pepper, smoked paprika, and lemon juice to the saucepan and stir to combine.",
+    "Serve the dumplings with the fennel-anchovy sauce and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "fast-action-yeast",
+    "one-pan",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 30,
+    "carbs": 200,
+    "fat": 40
+  },
+  "slug": "festive-and-fluffy-algerian-fast-action-yeast-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-and-fluffy-algerian-fast-action-yeast-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "fast action yeast",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fast action yeast",
+    "descriptor": "Festive and fluffy",
+    "dishForm": "Dumplings"
+  }
+}

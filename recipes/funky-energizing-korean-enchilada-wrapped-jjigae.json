@@ -1,0 +1,92 @@
+{
+  "title": "Funky Energizing Korean Enchilada Wrapped Jjigae",
+  "description": "A bold, energizing fusion of Korean flavors and crunchy textures, wrapped in a whole30-friendly enchilada-style ssam.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Enchilada Sauce",
+      "amount": "1 1/2 cups",
+      "notes": "homemade or store-bought, whole30-friendly"
+    },
+    {
+      "name": "Double-Fried Chicken (KFC-style)",
+      "amount": "2 lbs",
+      "notes": "baked and air-fried for crispy texture, using whole30-friendly marinade"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste, adds spicy kick"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "fermented Korean chili paste, adds depth and umami"
+    },
+    {
+      "name": "Ssam Wrap ( collard greens or lettuce)",
+      "amount": "4-6 leaves",
+      "notes": "large, fresh leaves for wrapping"
+    },
+    {
+      "name": "Green Onion, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "adds crunchy texture and onion flavor"
+    },
+    {
+      "name": " Toasted Sesame Seeds",
+      "amount": "2 tbsp",
+      "notes": "adds nutty flavor and crunchy texture"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "used for wrapping, adds sesame flavor"
+    }
+  ],
+  "instructions": [
+    "Prepare homemade enchilada sauce according to recipe or use store-bought, ensuring it's whole30-friendly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean-fusion",
+    "ssam",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 44
+  },
+  "slug": "funky-energizing-korean-enchilada-wrapped-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-energizing-korean-enchilada-wrapped-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "whole30",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Enchilada",
+    "descriptor": "Funky energizing",
+    "dishForm": "Wrapped Jjigae"
+  }
+}

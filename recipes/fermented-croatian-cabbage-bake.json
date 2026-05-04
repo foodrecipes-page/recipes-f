@@ -1,0 +1,86 @@
+{
+  "title": "Fermented Croatian Cabbage Bake",
+  "description": "A healthy and flavorful dish featuring fermented cabbage, suitable for post-workout meals and following ayurvedic sattvic principles.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Chop the Chinese cabbage and onion into small pieces.",
+    "Mince the garlic and mix with cumin in a small bowl.",
+    "In a large bowl, combine the cabbage, onion, garlic-cumin mixture, and salt to taste.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for another 15-20 minutes.",
+    "Allow the cabbage to cool and ferment at room temperature for 24-48 hours before refrigerating.",
+    "Before serving, top with chopped fresh herbs like parsley or dill, if desired.",
+    "Garnish with a lemon wedge, if desired.",
+    "Serve at room temperature or chilled, depending on your preference.",
+    "Store leftovers in the refrigerator for up to 5 days.",
+    "Reheat before serving, if desired.",
+    "Note: Fermentation time may vary depending on temperature and desired level of sourness.",
+    "Note: If using a glass jar, ensure it's sterilized before filling with the cabbage mixture, and store in the refrigerator to prevent contamination.",
+    "Note: Always check the cabbage for any signs of mold or spoilage before consuming it.",
+    "Note: For a stronger fermentation flavor, you can increase the fermentation time to 3-5 days.",
+    "Note: If you prefer a milder flavor, you can reduce the fermentation time to 12-24 hours."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fermented",
+    "one-pan",
+    "post-workout",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "fermented-croatian-cabbage-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-croatian-cabbage-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "cabbage",
+    "descriptor": "fermented",
+    "dishForm": "bake"
+  }
+}

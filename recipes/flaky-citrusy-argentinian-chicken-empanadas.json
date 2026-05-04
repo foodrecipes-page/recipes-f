@@ -1,0 +1,107 @@
+{
+  "title": "Flaky Citrusy Argentinian Chicken Empanadas",
+  "description": "This recipe brings together the flaky texture of Argentinian empanadas, the brightness of citrus, and the warmth of chilli powder. Perfect for a quick meal prep solution.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "yuzu-infused salt",
+      "amount": "1 tablespoon",
+      "notes": "or regular salt"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes ": "cold and chilled"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes ": "cut into small cubes"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes ": "freshly squeezed"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1/2 teaspoon",
+      "notes ": "or more to taste"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes ": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes ": "for dough"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt. Add cold butter and use a pastry blender to cut it into small pieces until the mixture resembles coarse crumbs.",
+    "Add yuzu juice and mix until the dough starts to come together. Gradually add water, mixing until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and easy to handle.",
+    "Divide the dough into 8-10 equal pieces and roll each one into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of yuzu-cured chicken in the center of each circle.",
+    "Brush the edges of the dough with egg wash and fold the dough over the filling, pressing the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes before baking.",
+    "Preheat the oven to 375\u001832F (190\u001832C).",
+    "Bake the empanadas for 25-30 minutes, or until golden brown.",
+    "Let cool on a wire rack for 10 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "dinner",
+    "empanadas",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "flaky-citrusy-argentinian-chicken-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-citrusy-argentinian-chicken-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "chilli powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "flaky citrusy",
+    "dishForm": "empanadas"
+  }
+}
