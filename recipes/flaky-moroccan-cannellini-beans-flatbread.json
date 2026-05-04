@@ -1,0 +1,113 @@
+{
+  "title": "Flaky Moroccan Cannellini Beans Flatbread",
+  "description": "Savory, chewy Moroccan flatbread studded with creamy cannellini beans and aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "sattvic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "100g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "250ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cannellini beans, cooked and mashed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, semolina, salt, sugar, and yeast.",
+    "Add warm water and olive oil, mix until dough forms.",
+    "Knead dough on lightly floured surface for about 5 minutes until smooth.",
+    "Cover dough with cloth and let rise for 20 minutes until doubled.",
+    "Divide dough into 4 equal portions and roll each into a thin circle.",
+    "Heat a dry skillet over medium heat and cook each flatbread for 2 minutes per side until golden and slightly blistered.",
+    "Meanwhile, mix mashed cannellini beans with cumin, coriander, smoked paprika, lemon juice, and cilantro.",
+    "Spread bean mixture evenly onto each warm flatbread.",
+    "Return flatbread to skillet for 1 minute each side to allow flavors to meld.",
+    "Serve hot as a chewy, savory snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "flatbread",
+    "moroccan",
+    "msemen-style",
+    "sattvic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "flaky-moroccan-cannellini-beans-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-moroccan-cannellini-beans-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:10:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cannellini beans",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Flaky",
+    "dishForm": "Flatbread"
+  }
+}
