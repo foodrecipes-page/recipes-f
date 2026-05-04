@@ -1,0 +1,107 @@
+{
+  "title": "Fluffy Saudi Lentil Pasta",
+  "description": "Buttery, fluffy pasta blended with smoky paprika and tender lentils, creating a festive, flexitarian dish that feels like a holiday centerpiece.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "red lentils",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils until the water runs clear.",
+    "Combine lentils, water, and vegetable broth in a pot, bring to a boil, then simmer for 15 minutes until tender.",
+    "Cook the pasta in a separate pot of salted boiling water for 8-10 minutes until al dente.",
+    "Melt butter with olive oil in a skillet over medium heat, then sauté onion and garlic until fragrant and translucent.",
+    "Add smoked paprika to the skillet, stirring for 30 seconds to bloom the spices.",
+    "Drain the cooked pasta, reserving 1 cup of pasta water, and add it to the skillet with the aromatics; stir to combine.",
+    "Fold in the cooked lentils and lemon juice, then whisk vigorously to create a creamy pasta-water emulsion, adding reserved pasta water as needed to reach desired consistency.",
+    "Season with salt, pepper, and a pinch of cumin if desired, then simmer for 2 minutes so flavors meld.",
+    "Serve hot, optionally garnished with fresh cilantro, and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "festive",
+    "flexitarian",
+    "fluffy",
+    "lentil-pasta",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 11,
+    "carbs": 53,
+    "fat": 18
+  },
+  "slug": "fluffy-saudi-lentil-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-saudi-lentil-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:40:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "smoky paprika",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "lentils",
+    "descriptor": "Fluffy",
+    "dishForm": "Pasta"
+  }
+}
