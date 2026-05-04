@@ -1,0 +1,93 @@
+{
+  "title": "Flavorful Smoky Korean Chicken Deopbap",
+  "description": "A smoky and cozy Korean dish featuring chicken, white chocolate chips, and leaf wrap steam, perfect for a low fat friendly meal",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together chili flakes, soy sauce, brown sugar, garlic, and sesame oil",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Let the chicken marinate for at least 30 minutes",
+    "Line a baking sheet with aluminum foil and arrange the lettuce leaves on it",
+    "Place the marinated chicken on the lettuce leaves and fold the leaves over the chicken to form a packet",
+    "Steam the chicken packets in the oven for 20 minutes",
+    "While the chicken is cooking, melt the white chocolate chips in a double boiler",
+    "Once the chicken is cooked, brush the melted white chocolate chips over the top of each packet",
+    "Serve the chicken packets hot, garnished with additional chili flakes if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "korean-cuisine",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "flavorful-smoky-korean-chicken-deopbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-smoky-korean-chicken-deopbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:21:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "low-fat",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "flavorful smoky",
+    "dishForm": "Deopbap"
+  }
+}
