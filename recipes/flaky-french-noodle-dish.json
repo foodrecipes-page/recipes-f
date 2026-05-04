@@ -1,0 +1,94 @@
+{
+  "title": "Flaky French Noodle Dish",
+  "description": "A savory and molten French dish from Lyon, featuring vermicelli rice noodles, cooked in a ttukbaegi earthenware and wrapped in a corn husk, perfect for a date night.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "paleo friendly"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cook the vermicelli rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the duck fat over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "In a large bowl, combine the cooked noodles, mushroom mixture, chicken broth, thyme, salt, and black pepper, and mix well.",
+    "Spoon the noodle mixture into a ttukbaegi earthenware and cover with a corn husk wrap.",
+    "Bake the dish in the preheated oven for 20 minutes, or until the corn husk is crispy and golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "french-cuisine",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "flaky-french-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-french-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:19:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "paleo",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "noodles",
+    "descriptor": "flaky molten",
+    "dishForm": "Noodles"
+  }
+}
