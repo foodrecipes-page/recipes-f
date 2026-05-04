@@ -1,0 +1,116 @@
+{
+  "title": "Flaky, Fragrant Ferment French Sausages Paella",
+  "description": "Rich, cheese-pull French dish featuring sausages and ferment-kimchi, perfect for a date night.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused Rice",
+      "amount": "1 cup",
+      "notes": "Use high-quality, aromatic rice"
+    },
+    {
+      "name": "French Sausages",
+      "amount": "4 links",
+      "notes": "Choose rich, flavorful sausages"
+    },
+    {
+      "name": "Ferment-Kimchi",
+      "amount": "1/2 cup",
+      "notes": "Use kimchi fermented with sea salt and spices"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality, European-style butter"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste",
+      "notes": "Use flaky sea salt for added flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper"
+    },
+    {
+      "name": "Grated Comté Cheese",
+      "amount": "1 cup",
+      "notes": "Use high-quality, nutty Comté cheese"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "Use fresh thyme for added flavor"
+    },
+    {
+      "name": "Salt-Block",
+      "amount": "1 block",
+      "notes": "Use a pre-seasoned salt block for added flavor"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Use freshly squeezed lemon juice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Use high-quality, aromatic garlic"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 425°F (220°C) according to the manufacturer's instructions.",
+    "Slice the French sausages into 1-inch (2.5 cm) pieces and set aside.",
+    "In a large paella pan or skillet, heat the unsalted butter over medium-high heat until melted.",
+    "Add the sliced sausages to the pan and cook until browned, about 5 minutes.",
+    "Add the ferment-kimchi to the pan and cook until heated through, about 2 minutes.",
+    "Add the saffron-infused rice to the pan and stir to combine with the sausage and kimchi mixture.",
+    "Cook the rice for 5-7 minutes, stirring constantly, until lightly toasted.",
+    "Add the grated Comté cheese to the pan and stir to combine with the rice and sausage mixture.",
+    "Transfer the paella pan to the preheated salt block and cook for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the paella pan from the salt block and stir in the fresh thyme and lemon juice.",
+    "Season the paella with sea salt and black pepper to taste, and serve immediately.",
+    "Garnish with additional fresh thyme and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "flaky-fragrant-ferment-french-sausages-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fragrant-ferment-french-sausages-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:36:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sausages",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "sausages",
+    "descriptor": "Flaky, Fragrant Ferment",
+    "dishForm": "Paella"
+  }
+}
