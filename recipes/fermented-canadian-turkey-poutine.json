@@ -1,0 +1,96 @@
+{
+  "title": "Fermented Canadian Turkey Poutine",
+  "description": "A twist on the classic Canadian dish featuring tender, fermented flavors and a char-grilled twist. This recipe is perfect for a quick weeknight meal or a fun, raw-friendly option for kids.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "1",
+      "notes": "Fermented in a brine solution for 24 hours before use"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "size": "large",
+      "notes": "Thinly sliced for a crispy poutine topping"
+    },
+    {
+      "name": "Homemade Char-Grill Sauce",
+      "amount": "1 cup",
+      "notes": "Made with garlic, ginger, and apple cider vinegar"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting the turkey neck before fermentation"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": "Adds depth to the char-grill sauce"
+    },
+    {
+      "name": "Cheddar Cheese Curds",
+      "amount": "1 cup",
+      "notes": "Fresh, high-quality cheese is a must for this recipe"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying the potatoes"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and set up a char-grill station with a gas grill or stovetop.",
+    "Mix together the flour, miso paste, and a pinch of salt in a small bowl for dusting the turkey neck.",
+    "Place the turkey neck on a wire rack set over a baking sheet and dust with the flour mixture, making sure to coat evenly.",
+    "Transfer the turkey neck to the char-grill station and cook for 10-12 minutes, or until nicely charred and tender.",
+    "Meanwhile, slice the potatoes into thin rounds and fry in hot oil until crispy and golden brown.",
+    "In a small saucepan, combine the char-grill sauce ingredients and bring to a simmer over medium heat.",
+    "To assemble the poutine, place a scoop of fries on a plate, top with shredded cheese curds, and spoon the char-grill sauce over the top.",
+    "Garnish with chopped chives and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "fermented-canadian-turkey-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-canadian-turkey-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "turkey",
+    "descriptor": "fermented",
+    "dishForm": "poutine"
+  }
+}

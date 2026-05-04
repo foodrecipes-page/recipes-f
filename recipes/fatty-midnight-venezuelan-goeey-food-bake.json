@@ -1,0 +1,63 @@
+{
+  "title": "Fatty Midnight Venezuelan Gooey Bake",
+  "description": "A rich and indulgent dessert featuring red onions, ferment-jang, and a crispy, golden crust. Perfect for midnight cravings.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Red onions",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together flour, cinnamon, nutmeg, and salt.",
+    "In a separate bowl, whisk together eggs, sugar, melted butter, shredded cheese, evaporated milk, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Gently fold in chopped cilantro and sour cream, if using.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown and a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "decadent",
+    "fatty",
+    "golden",
+    "midnight",
+    "sweet",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "fatty-midnight-venezuelan-goeey-food-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-midnight-venezuelan-goeey-food-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:57Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "ferment-jang",
+    "primaryIngredient": "red onions",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "goeey food",
+    "descriptor": "fatty midnight",
+    "dishForm": "Bake"
+  }
+}

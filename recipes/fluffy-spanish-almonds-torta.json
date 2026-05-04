@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Spanish Almonds Torta",
+  "description": "A fresh and fluffy Spanish-inspired dish featuring almond extract and score-fat, perfect for a low-carb friendly sick-day meal. This torta is a twist on traditional Spanish cuisine, ideal for breakfast, lunch, or a mid-afternoon snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Score-fat (or coconut oil)",
+      "amount": "1/4 cup",
+      "notes": "For greasing the torta pan."
+    },
+    {
+      "name": "Confectioners' sweetener (e.g. Swerve)",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for dusting the torta."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the almond flour, eggs, granulated sweetener, and almond extract. Mix until smooth and well combined.",
+    "Add the softened butter and mix until the dough comes together.",
+    "Grease the torta pan with score-fat and set aside.",
+    "Pour the dough into the prepared torta pan and smooth the top.",
+    "Bake for 25-30 minutes, or until the torta is golden brown and set.",
+    "Remove the torta from the oven and let it cool for 5 minutes before slicing and serving.",
+    "Dust with confectioners' sweetener, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "keto",
+    "low-carb",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "fluffy-spanish-almonds-torta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spanish-almonds-torta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "almond extract",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "fluffy",
+    "dishForm": "Torta"
+  }
+}
