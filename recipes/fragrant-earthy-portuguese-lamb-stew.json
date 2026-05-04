@@ -1,0 +1,105 @@
+{
+  "title": "Fragrant Earthy Portuguese Lamb Stew",
+  "description": "A hearty and aromatic stew featuring tender lamb, earthy spices, and a touch of English mustard, all slow-cooked to perfection in a hot pot vessel, with a unique spherification twist, making it a show-off Portuguese dish that is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "English mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the lamb cubes and cook until they are browned on all sides, about 5 minutes.",
+    "Add the English mustard, paprika, salt, and black pepper, and stir to combine.",
+    "Add the water to the hot pot vessel and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Stir in the sodium alginate and continue to simmer for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Use a syringe or spoon to drop small amounts of the stew into a bath of cold water to create spheres, if desired.",
+    "Serve the stew hot, garnished with fresh herbs or crusty bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lamb-recipes",
+    "portuguese-cuisine",
+    "slow-cooked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "fragrant-earthy-portuguese-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-earthy-portuguese-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:06:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "english mustard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "fragrant earthy",
+    "dishForm": "Stew"
+  }
+}
