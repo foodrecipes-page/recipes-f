@@ -1,0 +1,101 @@
+{
+  "title": "Fermented Croatian Fish Stew",
+  "description": "A festive, fermented fish stew with a glassy-jelly consistency, featuring cured cod, shio-koji cure, and a splash of white wine, perfect for a Dutch-oven celebratory meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cured cod (epoisses)",
+      "amount": "500g"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flaked sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "white wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a Dutch oven, heat olive oil over medium heat and sauté diced red onion until translucent.",
+    "Add minced garlic and cook for an additional minute until fragrant.",
+    "Pour in white wine, stir, and let reduce by half.",
+    "Stir in shio-koji, cured cod, and fish stock; bring to a gentle simmer.",
+    "Cover and simmer for 15 minutes, allowing flavors to meld and the fish to cook through.",
+    "Add lemon zest, black pepper, and chopped dill; stir gently.",
+    "Reduce heat to low, cover, and let stew simmer for an additional 10 minutes to develop a slightly glassy, jelly-like consistency.",
+    "Taste and season with sea salt, then serve hot straight from the Dutch oven."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "dash-friendly",
+    "dutch-oven",
+    "fermented",
+    "festive",
+    "fish-stew",
+    "glassy-jelly"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 29,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "fermented-croatian-fish-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-croatian-fish-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:35:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "epoisses",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Fermented",
+    "dishForm": "Stew"
+  }
+}
