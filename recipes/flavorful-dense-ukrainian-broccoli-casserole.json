@@ -1,0 +1,104 @@
+{
+  "title": "Flavorful Dense Ukrainian Broccoli Casserole",
+  "description": "A tangy and comforting Ukrainian dish featuring broccoli and render-fat, perfect for a keto-friendly meal. This casserole is dense and full of flavor, making it a great option for dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "fresh or frozen, chopped"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/2 cup",
+      "notes": "such as lard or tallow"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic in render-fat until softened.",
+    "Add the chopped broccoli to the skillet and cook until tender, about 5 minutes.",
+    "In a large bowl, combine the cooked broccoli mixture, sour cream, shredded cheddar cheese, beaten eggs, salt, and black pepper, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "broccoli-recipe",
+    "casserole",
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "flavorful-dense-ukrainian-broccoli-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-dense-ukrainian-broccoli-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:08:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "broccoli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "broccoli",
+    "descriptor": "flavorful dense",
+    "dishForm": "Casserole"
+  }
+}
