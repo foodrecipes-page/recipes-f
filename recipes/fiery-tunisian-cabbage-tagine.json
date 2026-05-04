@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Tunisian Cabbage Tagine",
+  "description": "A spicy and comforting Tunisian dish featuring white cabbage, broiled to perfection on a salt block, making it a keto-friendly option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler and heat the salt block in the oven at 400 degrees for 30 minutes.",
+    "In a large bowl, mix together the shredded cabbage, olive oil, harissa, garlic, cumin, paprika, salt, and black pepper until the cabbage is well coated.",
+    "Remove the salt block from the oven and place it under the broiler, then carefully add the cabbage mixture on top of the block.",
+    "Broil the cabbage for 10 minutes, or until it starts to brown and crisp up.",
+    "Remove the cabbage from the oven and add the chicken broth and lemon juice, stirring to combine.",
+    "Return the cabbage to the oven and broil for an additional 5 minutes, or until the liquid has been absorbed and the cabbage is tender.",
+    "Remove the cabbage from the oven and let it cool for a few minutes before serving.",
+    "Serve the cabbage hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "spicy",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "fiery-tunisian-cabbage-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-tunisian-cabbage-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:19:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "white cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cabbage",
+    "descriptor": "fiery shaggy",
+    "dishForm": "Tagine"
+  }
+}
