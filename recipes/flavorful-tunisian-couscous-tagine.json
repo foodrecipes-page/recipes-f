@@ -1,0 +1,109 @@
+{
+  "title": "Flavorful Tunisian Couscous Tagine",
+  "description": "A tangy, aerated tagine with chicken, preserved lemon, olives, and apricot jam served over fluffy couscous, perfect for meal prep.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "250 g"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "500 g"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1 large"
+    },
+    {
+      "name": "green olives",
+      "amount": "50 g"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add olive oil, letting it shimmer.",
+    "Add the whole chicken thighs, browning them on all sides until golden, then transfer to a bowl.",
+    "In the same cauldron, sauté diced onion and minced garlic until fragrant and translucent.",
+    "Toss in sliced carrots, preserved lemon, and green olives, cooking for 5 minutes.",
+    "Stir in the apricot jam, dried oregano, ground cumin, and salt, letting flavors meld for 2 minutes.",
+    "Return the browned chicken to the cauldron, cover, and pour in enough water to barely submerge the meat, then bring to a simmer.",
+    "After 25 minutes, remove the lid, add couscous, stir, and replace the lid.",
+    "Steam the couscous on low heat for 10 minutes, then remove from heat and fluff with a fork.",
+    "Reduce the sauce by half over low heat, creating a slightly thickened, emulsified coating.",
+    "Plate the couscous, top with chicken pieces, spoon sauce over, and garnish with a few olives.",
+    "Allow the tagine to cool to room temperature before portioning into meal‑prep containers.",
+    "Refrigerate the containers; the dish tastes best after 24 hours and can be reheated in microwave."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "dairy-free",
+    "meal-prep",
+    "nut-free",
+    "one-pot",
+    "tagine",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 2550,
+    "protein": 105,
+    "carbs": 222,
+    "fat": 117
+  },
+  "slug": "flavorful-tunisian-couscous-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-tunisian-couscous-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:26:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "couscous",
+    "descriptor": "Flavorful",
+    "dishForm": "Tagine"
+  }
+}
