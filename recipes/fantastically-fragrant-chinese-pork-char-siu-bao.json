@@ -1,0 +1,102 @@
+{
+  "title": "Fantastically Fragrant Chinese Pork Char Siu Bao",
+  "description": "A sour and shattering midnight-craving Chinese dish featuring seeds and double-rise-bread, this char siu bao is egg-free-friendly and perfect for a snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for double-rise-bread"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "char siu style"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water in a bowl, then let it sit for 10 minutes.",
+    "Add flour, salt, and sesame seeds to the bowl, then mix until a dough forms.",
+    "Knead the dough for 10 minutes, then let it rise for 1 hour.",
+    "Punch down the dough, then let it rise for another 30 minutes.",
+    "Prepare the char siu pork by mixing it with hoisin sauce, rice vinegar, scallions, salt, and black pepper.",
+    "Divide the dough into 8 equal pieces, then roll each piece into a ball.",
+    "Flatten each ball into a disk, then place a tablespoon of char siu pork in the center of each disk.",
+    "Fold the dough over the pork, then press the edges together to seal the bao.",
+    "Steam the bao for 12 minutes, then serve hot."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 12,
+  "totalTimeMin": 122,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "double-rise-bread",
+    "egg-free-friendly",
+    "midnight-cravings",
+    "pork-recipes",
+    "steamed-buns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "fantastically-fragrant-chinese-pork-char-siu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastically-fragrant-chinese-pork-char-siu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:43:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "seeds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Fantastically Fragrant",
+    "dishForm": "Char Siu Bao"
+  }
+}
