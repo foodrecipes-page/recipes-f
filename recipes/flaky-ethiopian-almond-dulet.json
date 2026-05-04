@@ -1,0 +1,109 @@
+{
+  "title": "Flaky Ethiopian Almond Dulet",
+  "description": "Herbal almond crumble with delicate parsley spheres, perfect for a date-night Ethiopian-inspired dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "200g"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "15g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "2g"
+    },
+    {
+      "name": "calcium chloride",
+      "amount": "0.5g"
+    },
+    {
+      "name": "filtered water (for alginate)",
+      "amount": "200ml"
+    },
+    {
+      "name": "filtered water (for calcium)",
+      "amount": "100ml"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F.",
+    "Spread the almonds on a baking sheet and toast for 8 minutes until fragrant.",
+    "Let the almonds cool, then pulse in a food processor until coarsely ground.",
+    "In a bowl combine the ground almonds, chopped parsley, smoked paprika, cumin, sea salt, pepper, and date syrup.",
+    "Dissolve the sodium alginate in 200ml filtered water, shaking vigorously for 5 minutes.",
+    "Prepare a calcium chloride solution by dissolving 0.5g calcium chloride in 100ml filtered water.",
+    "Drop 2 teaspoons of the almond mixture into the alginate bath using a pipette to form small spheres; let them sit 30 seconds.",
+    "Remove the spheres with a slotted spoon and rinse briefly in the calcium solution.",
+    "Gently fold the spheres into the remaining almond mixture to coat.",
+    "Transfer the mixture to a parchment-lined dish and bake at 350°F for 12 minutes until flaky.",
+    "Let the dish cool for 5 minutes before serving warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "date-night",
+    "ethnic",
+    "herbal",
+    "spherify",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 11,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "flaky-ethiopian-almond-dulet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-ethiopian-almond-dulet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:20:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "chopped parsley",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Almond",
+    "descriptor": "Flaky",
+    "dishForm": "Dulet"
+  }
+}

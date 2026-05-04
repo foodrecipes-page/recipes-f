@@ -1,0 +1,101 @@
+{
+  "title": "Fragrant Japanese Tofu Hot-Pot",
+  "description": "A tangy and adventurous Japanese dish featuring whole black peppercorns and rest-meat, perfect for a lacto-vegetarian friendly meal",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shimeji mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large hot-pot vessel, combine dashi broth, soy sauce, mirin, and whole black peppercorns, and bring to a boil over high heat",
+    "Reduce the heat to medium-low and add the sliced rest-meat, cooking until browned, about 5 minutes",
+    "Add the sliced green onions and shimeji mushrooms to the pot, cooking until the mushrooms are tender, about 3 minutes",
+    "Add the firm tofu to the pot, cooking until heated through, about 2 minutes",
+    "Season the hot-pot with salt to taste",
+    "Serve the hot-pot immediately, garnished with additional green onions and whole black peppercorns if desired",
+    "Drizzle the hot-pot with sesame oil before serving",
+    "Offer steamed rice or noodles on the side, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot",
+    "japanese-cuisine",
+    "lacto-vegetarian",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "fragrant-japanese-tofu-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-japanese-tofu-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:19:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "rest-meat",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "fragrant bouncy",
+    "dishForm": "Hot-Pot"
+  }
+}
