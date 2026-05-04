@@ -1,0 +1,105 @@
+{
+  "title": "Flavorful Italian Green Olive Pasta",
+  "description": "A salty, shattering, crowd-pleaser Italian dish featuring green olives, cooked to perfection in a donabe vessel, suitable for ovo-vegetarian diets. This nimono-simmered pasta is a classic Italian recipe with a twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a donabe vessel, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the chopped onion to the donabe and cook until translucent.",
+    "Add the pitted green olives to the donabe and cook for 2 minutes, stirring occasionally.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture nimono-simmer for 10 minutes, stirring occasionally.",
+    "Stir in the grated parmesan and beaten egg to create a creamy sauce.",
+    "Add the cooked pasta to the donabe and toss everything together until the pasta is well coated with the sauce.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with additional grated parmesan if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "italian-food",
+    "nimono-simmer",
+    "one-pot",
+    "ovo-vegetarian",
+    "pasta-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "flavorful-italian-green-olive-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-italian-green-olive-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:22:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "green olives",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "green olives",
+    "descriptor": "flavorful savory",
+    "dishForm": "Pasta"
+  }
+}
