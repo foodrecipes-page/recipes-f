@@ -1,0 +1,99 @@
+{
+  "title": "Flavorful Chinese Wood Ear Mushrooms Noodles",
+  "description": "A salty, crumbly, and cozy Chinese dish featuring wood ear mushrooms and a pasta water emulsion, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the dried wood ear mushrooms in hot water for 20 minutes, then drain and slice them into thin strips.",
+    "Cook the noodles according to the package instructions, then set them aside.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced garlic and ginger to the skillet and stir-fry until fragrant.",
+    "Add the sliced wood ear mushrooms to the skillet and stir-fry until they are tender and lightly browned.",
+    "Add the soy sauce, oyster sauce, and sesame oil to the skillet and stir-fry for 1 minute.",
+    "Add the cooked noodles to the skillet and stir-fry until they are well coated with the sauce.",
+    "Season the noodles with salt and pepper to taste, then garnish with scallions.",
+    "Serve the noodles hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "mushrooms",
+    "noodles",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flavorful-chinese-wood-ear-mushrooms-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-chinese-wood-ear-mushrooms-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:28:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "wood ear mushrooms",
+    "descriptor": "flavorful savory",
+    "dishForm": "Noodles"
+  }
+}
