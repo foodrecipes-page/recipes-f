@@ -1,0 +1,106 @@
+{
+  "title": "Fiery Hearty Australian Eggplant Gratin",
+  "description": "A rich and spicy vegetarian Australian-inspired eggplant gratin, perfect for a quick weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red eggplant",
+      "amount": "1",
+      "notes": "about 1 kg"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped rosemary",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Cut the eggplant into 1 cm (1/2 inch) thick slices.",
+    "Brush both sides of the eggplant slices with olive oil and season with salt.",
+    "Sauté the onion in butter until softened, then add minced garlic and cook for another minute.",
+    "In a separate bowl, combine ferment jang, red chilli flakes, and chopped rosemary.",
+    "Spread a layer of the onion mixture in the bottom of a baking dish, followed by a layer of eggplant slices.",
+    "Sprinkle a quarter of the ferment jang mixture over the eggplant, then repeat the layers two more times.",
+    "Top with grated cheese (if using) and bake for 35-40 minutes, or until golden brown.",
+    "Remove from oven and let cool for 10-15 minutes before serving.",
+    "Serve hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-inspired",
+    "comfort-food",
+    "european-inspired",
+    "one-pan",
+    "spicy",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 20
+  },
+  "slug": "fiery-hearty-australian-eggplant-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-hearty-australian-eggplant-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:28:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "ferment-jang",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Fiery Hearty",
+    "dishForm": "Gratin"
+  }
+}
