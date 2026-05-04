@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Ethiopian Chicken Flatbread",
+  "description": "A spicy, tender chicken topped on a fluffy injera flatbread, finished with single cream and a smoky tadka, perfect for a relaxed Sunday lunch.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "single cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the molcajete over medium-low heat until the base is hot.",
+    "Add 1 tsp olive oil and swirl to coat the surface.",
+    "Stir in minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Mix in berbere, smoked paprika, ground coriander, sea salt, and black pepper, cooking for 1 minute.",
+    "Add the diced chicken breast and cook until lightly browned on all sides, about 5 minutes.",
+    "Pour in single cream and lemon juice, simmer gently until the chicken is cooked through and the sauce thickens, about 5 minutes.",
+    "Garnish with chopped cilantro, serve immediately over a fresh injera flatbread and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "ethiopian",
+    "lazy-sunday",
+    "low-calorie-friendly",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 412,
+    "protein": 33,
+    "carbs": 2,
+    "fat": 30
+  },
+  "slug": "fiery-ethiopian-chicken-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-ethiopian-chicken-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:24:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "single cream",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Fiery",
+    "dishForm": "Flatbread"
+  }
+}
