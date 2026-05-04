@@ -1,0 +1,112 @@
+{
+  "title": "Fragrant Velvety Saudi Lentils Stew",
+  "description": "A sour, velvety comfort dish simmered in a clay pot, blending fragrant spices with tender red lentils.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "800 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "200 g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a clay pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for another minute until fragrant.",
+    "Mix in cumin, coriander, cardamom, and paprika, and toast spices for 30 seconds.",
+    "Add red lentils and vegetable broth to the pot, stirring to combine.",
+    "Bring mixture to a gentle boil, then reduce heat and simmer, partially covered, for 20 minutes or until lentils are tender.",
+    "Stir in lemon juice and season with salt and pepper to taste, then simmer for an additional 5 minutes.",
+    "If using tomatoes, fold them in now and cook for 2 more minutes.",
+    "Remove pot from heat and let stew rest for 5 minutes to meld flavors.",
+    "Serve hot straight from the mini cocotte, garnish with a drizzle of olive oil or a sprinkle of fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "lentils",
+    "mini-cocotte",
+    "saudi",
+    "soup",
+    "sour",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 5
+  },
+  "slug": "fragrant-velvety-saudi-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-velvety-saudi-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:55:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "praline-french",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "lentils",
+    "descriptor": "Fragrant Velvety",
+    "dishForm": "Stew"
+  }
+}
