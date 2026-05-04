@@ -1,0 +1,119 @@
+{
+  "title": "Fermented Irish Chicken Drumsticks Skewers",
+  "description": "Tender and flavorful skewers of chicken drumsticks marinated in a fermented Irish-inspired mixture, perfect for a post-workout meal. This recipe combines the snappy texture of fermented vegetables with the richness of caramelized onions and the freshness of parsley.",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "12-15",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together sour cream, apple cider vinegar, Dijon mustard, thyme, paprika, salt, and black pepper.",
+    "Add chopped onion and carrots to the bowl and mix well.",
+    "Add the chicken drumsticks to the bowl and coat them evenly with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread 4-5 chicken drumsticks onto each skewer, leaving a small space between each piece.",
+    "Grill the skewers for 12-15 minutes per side, or until the chicken is cooked through and caramelized.",
+    "Brush the skewers with honey during the last 2 minutes of grilling.",
+    "Serve the skewers garnished with chopped parsley and additional caramelized onions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "fermented",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "post-workout",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fermented-irish-chicken-drumsticks-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-irish-chicken-drumsticks-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "fermented",
+    "dishForm": "Skewers"
+  }
+}
