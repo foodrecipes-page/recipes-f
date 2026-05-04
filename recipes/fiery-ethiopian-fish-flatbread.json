@@ -1,0 +1,112 @@
+{
+  "title": "Fiery Ethiopian Fish Flatbread",
+  "description": "Spicy, peppery Ethiopian fish flatbread that mimics injera's airy texture and showcases crisp white fish fillets in a zesty sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "adjust for batter consistency"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "optional, for rise"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white fish fillets (cod or tilapia)",
+      "amount": "400g",
+      "notes": "preferably firm"
+    },
+    {
+      "name": "clarified butter (niter kibbeh) or olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mix chickpea flour, water, salt and yeast in a bowl until smooth, cover and let sit 30 minutes for batter to rise.",
+    "Heat a nonstick skillet over medium heat, pour a ladle of batter, swirl to form a thin circle, and cook for 2 minutes until bubbles form, then flip and cook 1 minute more; repeat to make 4 flatbreads.",
+    "Season fish fillets with lemon juice, smoked paprika, and a pinch of salt, then set aside.",
+    "In the same skillet melt clarified butter, add sliced onion and garlic, sauté until golden.",
+    "Stir in berbere spice mix, cook for 30 seconds until fragrant.",
+    "Add seasoned fish fillets to the skillet, cook 3-4 minutes on each side until flaky and cooked through.",
+    "Reduce heat and pour remaining batter into the skillet, swirling to coat the fish and create an airy, pizza‑like crust.",
+    "Let the mixture cook for 4 minutes, then flip carefully, cooking another 3 minutes until the batter is crisp and the fish is evenly coated.",
+    "Remove from heat, sprinkle chopped cilantro over the top, and let rest 2 minutes.",
+    "Slice into wedges, serve hot, and enjoy the smoky, peppery flavor of Ethiopian-inspired fish flatbread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fish",
+    "flatbread",
+    "high-protein",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "fiery-ethiopian-fish-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-ethiopian-fish-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:29:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "white fish fillets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Fish",
+    "descriptor": "Fiery",
+    "dishForm": "Flatbread"
+  }
+}
