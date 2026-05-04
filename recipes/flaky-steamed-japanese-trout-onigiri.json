@@ -1,0 +1,98 @@
+{
+  "title": "Flaky Steamed Japanese Trout Onigiri",
+  "description": "A low-calorie Japanese dish featuring steamed trout and flaky onigiri, perfect for a weeknight dinner",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-calorie",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese trout fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": "preferably koshihikari"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nori seaweed sheets",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "muenster cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese trout fillets under cold water and pat them dry with paper towels",
+    "Cut the trout fillets into small pieces and season with salt",
+    "Prepare the Japanese short-grain rice according to the package instructions",
+    "Mix the cooked rice with grated daikon and thinly sliced scallions",
+    "Cut the nori seaweed sheets into small pieces and set aside",
+    "In a large steamer basket, place the trout pieces and steam for 8 minutes",
+    "While the trout is steaming, shape the rice mixture into small triangles",
+    "Place a piece of steamed trout in the center of each rice triangle and top with shredded muenster cheese",
+    "Fold the nori seaweed pieces over the filling to form a triangle shape",
+    "Serve the onigiri hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "low-calorie",
+    "onigiri",
+    "seafood",
+    "steamed-fish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "flaky-steamed-japanese-trout-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-steamed-japanese-trout-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:01:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "trout",
+    "diet": "low-calorie",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "trout",
+    "descriptor": "flaky steamed",
+    "dishForm": "Onigiri"
+  }
+}
