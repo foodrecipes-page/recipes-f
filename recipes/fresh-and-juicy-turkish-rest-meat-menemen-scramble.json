@@ -1,0 +1,119 @@
+{
+  "title": "Fresh and Juicy Turkish Rest-Meat Menemen Scramble",
+  "description": "A hearty, keto-friendly breakfast dish featuring rest-meat, digestive biscuits, and a blend of spices.",
+  "cuisine": "Turkish",
+  "meal": "breakfast",
+  "difficulty": "medium",
+  "diet": [
+    "keto"
+  ],
+  "servings": 4,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "digestive biscuits",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "keto",
+    "menemen",
+    "rest-meat",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 40
+  },
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium heat.",
+    "Add 1 small onion, finely chopped, and cook until translucent.",
+    "Add 1 small bell pepper, finely chopped, and cook for an additional 2 minutes.",
+    "Add 1 pound of rest-meat, breaking it up with a spoon as it cooks.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute.",
+    "Add 1 teaspoon of paprika, 1 teaspoon of cumin, and 1/2 teaspoon of cayenne pepper.",
+    "Stir in 1 cup of crushed digestive biscuits.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "slug": "fresh-and-juicy-turkish-rest-meat-menemen-scramble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-and-juicy-turkish-rest-meat-menemen-scramble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Fresh and Juicy",
+    "dishForm": "Menemen Scramble"
+  }
+}
