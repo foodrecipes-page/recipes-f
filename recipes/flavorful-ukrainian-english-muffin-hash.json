@@ -1,0 +1,97 @@
+{
+  "title": "Flavorful Ukrainian English Muffin Hash",
+  "description": "A tangy and bouncy one-pot Ukrainian dish featuring English muffins, cooked on a salt block with a nimono-simmer method, suitable for a Buddhist temple meal. This dish is a unique fusion of Ukrainian and English flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block over medium heat for 10 minutes.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the chopped bell peppers and cook until they are tender.",
+    "Add the sliced mushrooms and cook until they are soft.",
+    "Add the cubed English muffins and stir to combine.",
+    "Add the tomato paste and stir to combine.",
+    "Add the vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and cook for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "english-muffin",
+    "nimono-simmer",
+    "one-pot",
+    "salt-block",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "flavorful-ukrainian-english-muffin-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-ukrainian-english-muffin-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:01:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "english muffins",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "English Muffins",
+    "descriptor": "Flavorful Bouncy",
+    "dishForm": "Hash"
+  }
+}
