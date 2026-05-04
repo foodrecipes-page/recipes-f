@@ -1,0 +1,112 @@
+{
+  "title": "Fiery Mediterranean Casabe Grill",
+  "description": "A nutty, dense, energizing Mediterranean dish featuring casabe, grilled with a robata grill and low-sodium-friendly flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "casabe flour",
+      "amount": "200g"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "150g",
+      "notes": "mashed with small lumps"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "50g",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mash the cooked chickpeas until smooth, leaving some lumps for texture.",
+    "Stir in casabe flour, smoked paprika, red chili flakes, dried oregano, garlic powder, lemon zest, and lemon juice until a cohesive dough forms; add olive oil gradually to achieve a firm but pliable consistency.",
+    "Divide the dough into 2 equal portions and shape each into a 6-inch round patty, pressing the center slightly to create a shallow groove for toppings.",
+    "Preheat a charcoal brushless robata grill to medium-high heat and lightly oil the grates.",
+    "Place the patties on the grill, closing the lid, and cook for 5 minutes per side until golden and crisp, brushing the first 2 minutes of each side with a thin layer of olive oil.",
+    "While grilling, quickly sauté sliced zucchini and roasted red pepper in a dry pan over high heat for 2 minutes until just tender.",
+    "Flip the patties onto the cut side, spread the sautéed vegetables evenly across each patty, and sprinkle chopped parsley on top.",
+    "Return the patties to the grill for an additional 2 minutes to meld flavors, then remove and serve hot with a wedge of lemon on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "energy-boost",
+    "gluten-free",
+    "grilled",
+    "low-sodium",
+    "quick-meal",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 20,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "fiery-mediterranean-casabe-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-mediterranean-casabe-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:09:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "robata-grill",
+    "primaryIngredient": "casabe",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "casabe",
+    "descriptor": "Fiery",
+    "dishForm": "Grill"
+  }
+}
