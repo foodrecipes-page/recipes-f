@@ -1,0 +1,104 @@
+{
+  "title": "Flaky Cozy Venezuelan Sugar Snap Peas Pilaf",
+  "description": "A pungent, flaky, cozy Venezuelan dish featuring sugar snap peas, kombu-cold-extract, and a low-carb twist. This recipe is easy to make and perfect for a weeknight dinner.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dried kombu",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a skillet over medium heat.",
+    "Add onion, garlic, and ginger; cook until softened, about 3 minutes.",
+    "Add sugar snap peas, kombu, cumin, salt, and pepper.",
+    "Cook, stirring occasionally, until peas are tender, about 5 minutes, and the liquid has reduced slightly.",
+    "Stir in parmesan cheese (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "sugar-snap-peas",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "flaky-cozy-venezuelan-sugar-snap-peas-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-cozy-venezuelan-sugar-snap-peas-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Sugar Snap Peas",
+    "descriptor": "Flaky Cozy",
+    "dishForm": "Pilaf"
+  }
+}
