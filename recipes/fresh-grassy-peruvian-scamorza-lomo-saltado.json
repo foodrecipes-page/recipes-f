@@ -1,0 +1,106 @@
+{
+  "title": "Fresh Grassy Peruvian Scamorza Lomo Saltado",
+  "description": "A kosher-friendly Peruvian dish featuring scamorza cheese, pasta water emulsion, and fresh grassy flavors, served in a lomo saltado style.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz",
+      "notes": "smoked scamorza preferred"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "grassy parsley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to package instructions.",
+    "While the pasta cooks, slice the red onion and red bell pepper into thin strips.",
+    "In a large skillet, heat the olive oil over medium-high heat and saute the sliced onion and bell pepper until they start to soften.",
+    "Add the sliced tomatoes and cook until they start to break down and release their juices.",
+    "Add the sliced aji amarillo peppers and cook for an additional 2 minutes.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Reserve 1 cup of pasta water before draining the fettuccine and add it to the skillet with the vegetables.",
+    "Slice the scamorza cheese into thin strips and add it to the skillet, stirring until the cheese is melted and the sauce is creamy.",
+    "Add the cooked fettuccine pasta to the skillet and toss everything together until the pasta is well coated with the sauce.",
+    "Season with kosher salt and black pepper to taste.",
+    "Garnish with chopped grassy parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grassy-flavors",
+    "kosher-friendly",
+    "lomo-saltado",
+    "pasta-dish",
+    "peruvian-cuisine",
+    "scamorza-cheese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "fresh-grassy-peruvian-scamorza-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-grassy-peruvian-scamorza-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:31:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "scamorza",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "scamorza",
+    "descriptor": "Fresh Grassy",
+    "dishForm": "Lomo Saltado"
+  }
+}
