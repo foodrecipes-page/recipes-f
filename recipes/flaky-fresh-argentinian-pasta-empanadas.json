@@ -1,0 +1,102 @@
+{
+  "title": "Flaky Fresh Argentinian Pasta Empanadas",
+  "description": "A unique twist on traditional empanadas, featuring a gouda cheese filling wrapped in a flaky pasta dough and served with a side of salsa criolla.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup confectioners' sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated gouda cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup pasta water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and confectioners' sugar.",
+    "Add the cold butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "In a small bowl, whisk together the egg, pasta water, salt, and black pepper.",
+    "Add the egg mixture to the flour mixture and stir until a dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your empanadas to be.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon or two of the gouda cheese in the center of each dough circle.",
+    "Fold the dough over the cheese to form a half-circle shape, and press the edges together to seal the empanada.",
+    "Heat a large skillet over medium-high heat and cook the empanadas for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the empanadas hot with a side of salsa criolla."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "diabetic-friendly",
+    "finger-food",
+    "gouda-cheese",
+    "lunch-option",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "flaky-fresh-argentinian-pasta-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fresh-argentinian-pasta-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:52:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "gouda cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pasta",
+    "descriptor": "Flaky Fresh",
+    "dishForm": "Empanadas"
+  }
+}
