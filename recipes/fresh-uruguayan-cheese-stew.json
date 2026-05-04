@@ -1,0 +1,105 @@
+{
+  "title": "Fresh Uruguayan Cheese Stew",
+  "description": "A tangy, velvety stew that blends creamy fromage-blanc with fermented kimchi for a sugar-free meal-prep delight.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "fromage-blanc",
+      "amount": "200 g, cubed"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "100 g, chopped"
+    },
+    {
+      "name": "goat milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and cook for one minute.",
+    "Pour in beef broth and bring to a gentle simmer.",
+    "Add smoked paprika, salt, and pepper, and stir well.",
+    "Reduce heat and add cubed fromage-blanc, letting it soften for five minutes.",
+    "Fold in chopped fermented kimchi and goat milk, cooking until the stew is velvety.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-dish",
+    "easy",
+    "kimchi",
+    "meal-prep",
+    "sugar-free",
+    "tangy",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "fresh-uruguayan-cheese-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-uruguayan-cheese-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:44:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Fresh",
+    "dishForm": "Stew"
+  }
+}
