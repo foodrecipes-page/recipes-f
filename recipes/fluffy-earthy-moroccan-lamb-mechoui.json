@@ -1,0 +1,105 @@
+{
+  "title": "Fluffy Earthy Moroccan Lamb Mechoui",
+  "description": "A hearty and flavorful Moroccan dish featuring lamb, unwaxed lemon, and earthy spices, perfect for a post-workout meal. This shojin-friendly recipe is made with a tadka and served in a mechoui form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a small bowl, mix together the olive oil, cumin, smoked paprika, coriander, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat a large Dutch oven over medium-high heat and sear the lamb shoulder until browned on all sides.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the unwaxed lemon juice and bring the mixture to a simmer.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the lamb shoulder for 2.5 hours, until it is tender and falls apart easily.",
+    "Remove the lamb shoulder from the oven and let it rest for 10 minutes before slicing it thinly.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb-recipes",
+    "mechoui-style",
+    "moroccan-cuisine",
+    "post-workout",
+    "shojin-friendly",
+    "tadka-inspired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "fluffy-earthy-moroccan-lamb-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-earthy-moroccan-lamb-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:41:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "fluffy earthy",
+    "dishForm": "Mechoui"
+  }
+}
