@@ -1,0 +1,98 @@
+{
+  "title": "Floral Molten Arabian Cream Pudding",
+  "description": "A nostalgic Middle Eastern dessert that blends fragrant rose water, rich clotted cream, and pistachio butter into a silky molten pudding finished with a hint of saffron.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "200g"
+    },
+    {
+      "name": "almond milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "pistachio butter",
+      "amount": "30g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "10ml"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "10g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "sliced pistachios",
+      "amount": "for garnish"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan combine clotted cream, almond milk, and sugar and heat over medium heat, stirring until sugar dissolves.",
+    "Remove from heat and whisk in vanilla extract, rose water, and a pinch of sea salt until smooth.",
+    "Stir in pistachio butter until fully incorporated and the mixture thickens slightly.",
+    "Fold in cocoa powder until no streaks remain.",
+    "Pour the batter into four small ramekins or heatproof glasses.",
+    "Bake at 180°C for 12-14 minutes until the edges are set but the center remains slightly soft.",
+    "Let the puddings rest for 2 minutes, then carefully invert onto plates.",
+    "Garnish with sliced pistachios and a few saffron strands, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "dessert",
+    "floral",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "molten"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 17,
+    "carbs": 75,
+    "fat": 111
+  },
+  "slug": "floral-molten-arabian-cream-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-molten-arabian-cream-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:42:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "clotted cream",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "cream",
+    "descriptor": "Floral Molten",
+    "dishForm": "Pudding"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Floral Shaggy Norwegian Yogurt Bake",
+  "description": "A fluffy, fragrant yogurt bake with hints of dill and lavender, perfect for a quick weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt plain",
+      "amount": "250g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "100g",
+      "notes": "sifted"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1g",
+      "notes": "fresh"
+    },
+    {
+      "name": "Honey",
+      "amount": "30g",
+      "notes": "warm to pour"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh lavender flowers",
+      "amount": "5g",
+      "notes": "dried"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "5g",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": "fine"
+    },
+    {
+      "name": "Crushed walnuts",
+      "amount": "20g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and melt the butter in a kadhai until foamy.",
+    "Whisk together the Greek yogurt, honey, and lemon zest in a large bowl until smooth.",
+    "Sift the whole wheat flour and baking powder into the yogurt mixture and stir until a thick batter forms.",
+    "Fold in the chopped dill, lavender flowers, and crushed walnuts, reserving a few walnut pieces for topping.",
+    "Pour the batter into a greased kadhai or shallow pan and spread it evenly with a spatula.",
+    "Bake for 20 minutes until the surface is puffed and golden brown.",
+    "Remove the pan from the oven and let the bake cool for a few minutes before sprinkling the reserved walnut pieces.",
+    "Slice the shaggy bake into wedges and serve warm, optionally drizzled with a little honey.",
+    "Enjoy this floral, aromatic Norwegian yogurt bake as a comforting weeknight dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "norwegian",
+    "one-pot",
+    "vegetarian",
+    "weeknight",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 28,
+    "carbs": 110,
+    "fat": 36
+  },
+  "slug": "floral-shaggy-norwegian-yogurt-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-shaggy-norwegian-yogurt-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:42:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "greek yogurt",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Floral Shaggy",
+    "dishForm": "Bake"
+  }
+}
