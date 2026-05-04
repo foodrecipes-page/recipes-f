@@ -1,0 +1,110 @@
+{
+  "title": "Flavorful Argentinian Bonito Flatbread",
+  "description": "A wine-infused, chewy gluten‑free flatbread topped with grilled bonito and a smoky glaze, evoking nostalgic Argentinian flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gluten-free naan",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "bonito fillet",
+      "amount": "200 g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "100 ml"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast iron skillet over medium heat and lightly brush it with olive oil.",
+    "Season the bonito fillet with salt, pepper, smoked paprika, cumin, and a tablespoon of olive oil, then set aside.",
+    "Sauté the minced garlic and thinly sliced onion in the skillet until translucent, about 3 minutes.",
+    "Add the red wine to the skillet, reduce it by half, and stir in lemon juice and dried oregano until the liquid thickens into a glaze.",
+    "Place the seasoned bonito fillet into the skillet, cook each side for 3 minutes, then remove and slice into thin strips.",
+    "Warm the gluten-free naan in the skillet for 1 minute per side until it becomes chewy and slightly charred.",
+    "Spread the wine glaze over the warm naan, top with the sliced bonito, sprinkle chopped parsley, and drizzle with remaining olive oil.",
+    "Finish with a sprinkle of toasted sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "chewy",
+    "flatbread",
+    "gluten-free",
+    "quick",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 60,
+    "carbs": 140,
+    "fat": 70
+  },
+  "slug": "flavorful-argentinian-bonito-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-argentinian-bonito-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:08:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "naan bread",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "bonito",
+    "descriptor": "Flavorful",
+    "dishForm": "Flatbread"
+  }
+}
