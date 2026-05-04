@@ -1,0 +1,99 @@
+{
+  "title": "Fermented American Grapes Bake",
+  "description": "A lacto-vegetarian-friendly, meal-prep dish featuring fermented grapes and a glassy-jelly texture, perfect for a weeknight dinner or breakfast. This recipe uses a pressure cooker for efficient cooking.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup American red grapes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "1 cup honey",
+      "amount": "1 cup",
+      "notes": "raw, unpasteurized"
+    },
+    {
+      "name": "1/4 cup apple cider vinegar",
+      "amount": "1/4 cup",
+      "notes": "raw, unfiltered"
+    },
+    {
+      "name": "1 tablespoon salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "2 cups rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1 cup unsweetened almond milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to high pressure, and set the timer to 10 minutes.",
+    "Add the olive oil, then sauté the halved grapes until they start to soften and release their juices.",
+    "Add the honey, apple cider vinegar, salt, and black pepper to the pressure cooker. Stir to combine.",
+    "Add the water and oats to the pressure cooker. Stir to combine.",
+    "Close the pressure cooker lid, and ensure the valve is set to \"sealing\".",
+    "Cook for 10 minutes at high pressure.",
+    "Quick-release the pressure, then carefully open the lid.",
+    "Stir in the unsweetened almond milk.",
+    "Continue cooking the mixture over low heat, stirring occasionally, until the oats have absorbed most of the liquid and the mixture has a thick, jelly-like consistency.",
+    "Remove from heat, and let the Fermented American Grapes Bake cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-dinner",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fermented-american-grapes-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-american-grapes-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:55:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "grapes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "grapes",
+    "descriptor": "Fermented",
+    "dishForm": "Bake"
+  }
+}
