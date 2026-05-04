@@ -1,0 +1,107 @@
+{
+  "title": "Fermented Crispy Japanese Samphire Gyoza",
+  "description": "Hangover-cure Japanese dish made with fermented vegetables, crispy samphire, and lacquer glaze, served in a donabe.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Samphire",
+      "amount": "200g"
+    },
+    {
+      "name": "Fermented daikon",
+      "amount": "150g"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "10g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "100ml"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Mix fermented daikon, cabbage, ginger, and garlic in a bowl.",
+    "Add soy sauce, sake, sugar, and rice vinegar to the bowl and mix well.",
+    "Add cornstarch to the bowl and mix until the mixture is smooth.",
+    "Heat donabe over medium heat and add water to the bottom of the donabe.",
+    "Place the mixture on the donabe and steam for 5 minutes.",
+    "Remove the donabe from heat and let it cool down.",
+    "Roll out the gyoza wrappers and place a tablespoon of the mixture in the center of each wrapper.",
+    "Fold the wrapper over the filling and press the edges together to seal the gyoza.",
+    "Heat a pan over medium heat and add a small amount of oil.",
+    "Add the gyoza to the pan and cook until the bottom is golden brown.",
+    "Flip the gyoza over and cook until the other side is golden brown.",
+    "Brush the lacquer glaze over the gyoza and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "japanese",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fermented-crispy-japanese-samphire-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-japanese-samphire-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "samphire",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "samphire",
+    "descriptor": "fermented crispy",
+    "dishForm": "Gyoza"
+  }
+}

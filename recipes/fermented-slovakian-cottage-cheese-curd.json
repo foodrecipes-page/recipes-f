@@ -1,0 +1,82 @@
+{
+  "title": "Fermented Slovakian Cottage Cheese Curd",
+  "description": "A traditional fermented Slovakian dish made with cottage cheese and minimal ingredients, suitable for a solo dinner. Prepared in a copper mug, this recipe is also vegan-friendly and suitable for a Buddhist temple.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cottage cheese, low-fat",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "Fermented apple cider vinegar",
+      "amount": "5ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "small pinch",
+      "notes": "Use a high-quality, unrefined salt."
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "handful",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "Whisk together cottage cheese and water in a copper mug until smooth.",
+    "Add fermented apple cider vinegar and salt, whisk until combined.",
+    "Cover the mug with a cloth or plastic wrap and let it rest at room temperature for 3-4 hours, or until slightly thickened and bubbly.",
+    "Garnish with fresh dill, if desired.",
+    "Serve the fermented cottage cheese curd as a solo dinner, or store it in the refrigerator for up to 3 days.",
+    "If desired, serve with a side of pickled vegetables or a simple salad.",
+    "Note: Traditionally, this dish is left to ferment for several days, but a 3-4 hour fermentation time is recommended for a milder flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cottage-cheese",
+    "dinner",
+    "fermented",
+    "gluten-free",
+    "slovakian",
+    "solo-dinner",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "fermented-slovakian-cottage-cheese-curd",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-slovakian-cottage-cheese-curd",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "cottage cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "fermented",
+    "dishForm": "curd"
+  }
+}

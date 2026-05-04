@@ -1,0 +1,100 @@
+{
+  "title": "Flavorful Grilled Peruvian Onions Anticuchos",
+  "description": "A comforting and flavorful Peruvian dish featuring onions grilled to perfection, served in a ramekin. Perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons",
+      "notes": "such as Dijon or whole-grain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "such as queso fresco or feta"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Peel and slice the onions into 1-inch pieces.",
+    "In a small bowl, mix together the minced garlic and mustard.",
+    "Add the olive oil to the bowl and mix until well combined.",
+    "Add the sliced onions to the bowl and toss to coat with the garlic-mustard mixture.",
+    "Season the onions with salt and black pepper to taste.",
+    "Thread the onions onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the onions for 3-4 minutes per side, or until they are caramelized and slightly charred.",
+    "Transfer the onions to a ramekin and crumble the cheese on top.",
+    "Return the ramekin to the grill and cook for an additional 1-2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the ramekin from the grill and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "plant-based-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "flavorful-grilled-peruvian-onions-anticuchos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-grilled-peruvian-onions-anticuchos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "onions",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "onions",
+    "descriptor": "Flavorful Grilled",
+    "dishForm": "Anticuchos"
+  }
+}
