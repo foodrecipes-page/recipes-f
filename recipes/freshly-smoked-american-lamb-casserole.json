@@ -1,0 +1,100 @@
+{
+  "title": "Freshly Smoked American Lamb Casserole",
+  "description": "A comforting American dish featuring freshly chopped parsley and smoked lamb, perfect for a crisp evening. This macrobiotic-friendly casserole is made with wholesome ingredients and a focus on natural flavors.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "In a large bowl, combine the cooked brown rice, ground lamb, smoked paprika, salt, and black pepper.",
+    "Add the cooked onion and garlic mixture to the bowl and stir until well combined.",
+    "Stir in the freshly chopped parsley.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10 minutes.",
+    "Remove the casserole from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "freshly-smoked-american-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-smoked-american-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:42:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "smoke",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Freshly smoked",
+    "dishForm": "Casserole"
+  }
+}
