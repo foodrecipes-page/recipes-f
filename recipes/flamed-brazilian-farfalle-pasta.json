@@ -1,0 +1,110 @@
+{
+  "title": "Flamed Brazilian Farfalle Pasta",
+  "description": "A charred, creamy farfalle pasta infused with smoky Brazilian flavors, perfect for a cozy date night.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free farfalle pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "diced cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh lime zest",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "Bring a large pot of salted water to a boil and cook 250g gluten-free farfalle until al dente, about 8 minutes; drain and set aside.",
+    "Heat 1 tablespoon coconut oil in a large skillet over medium-high heat until shimmering.",
+    "Add diced cherry tomatoes, diced red bell pepper, and diced red onion to the skillet and stir-fry for 4-5 minutes until vegetables start to char around the edges.",
+    "Sprinkle 1 teaspoon smoked paprika, 1 teaspoon ground cumin, and 1 teaspoon ground coriander over the vegetables and cook for an additional minute to toast the spices.",
+    "Pour in 200ml coconut milk, add 1 tablespoon lime juice, and stir to combine; bring the mixture to a gentle simmer and let it thicken slightly, about 3 minutes.",
+    "Reduce heat to low and fold in the cooked farfalle, ensuring each noodle is coated with the creamy sauce, cooking for 2 minutes so the flavors mingle.",
+    "Transfer the pasta and sauce mixture to the prepared baking sheet, sprinkling 1 teaspoon sea salt over the top for a subtle crust.",
+    "Bake in the preheated oven for 12 minutes until the surface is lightly charred and bubbles form, creating a caramelized finish.",
+    "Remove from oven, drizzle with a squeeze of fresh lime zest, toss the pasta to distribute the zest, and serve hot for a date night delight."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "charred",
+    "creamy",
+    "date-night",
+    "gluten-free",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 36,
+    "carbs": 236,
+    "fat": 56
+  },
+  "slug": "flamed-brazilian-farfalle-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flamed-brazilian-farfalle-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:48:10Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "farfalle",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "farfalle",
+    "descriptor": "Flamed",
+    "dishForm": "Pasta"
+  }
+}
