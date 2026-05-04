@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy German Custard Skillet",
+  "description": "A traditional German dish featuring a jammy and tender custard, perfect for a comforting sick day meal, made in a cast-iron skillet and suitable for low-glycemic diets.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, milk, sugar, vanilla extract, and salt until well combined.",
+    "Add the melted butter, lemon zest, and whisk until smooth.",
+    "Pour the mixture into a 10-inch cast-iron skillet.",
+    "Dollop the raspberry jam on top of the custard mixture.",
+    "Place the skillet in a large baking dish and add hot water to come halfway up the sides of the skillet.",
+    "Bake for 35 minutes or until the edges are set and the center is still slightly jiggly.",
+    "Remove the skillet from the water bath and let it cool for 10 minutes.",
+    "Serve warm, garnished with additional lemon zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "cast-iron",
+    "comfort-food",
+    "german-food",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fluffy-german-custard-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-german-custard-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:22:43Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "custard",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "custard",
+    "descriptor": "fluffy tender",
+    "dishForm": "Skillet"
+  }
+}
