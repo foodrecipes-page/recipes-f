@@ -1,0 +1,109 @@
+{
+  "title": "Fresh Citrus Moroccan Sweet Potato Bowl",
+  "description": "A bright, springy bowl of pressure‑cooked sweet potatoes with a zesty orange‑lemon dressing, toasted almond butter, and fresh herbs, perfect for a quick low‑sodium lunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium (about 400g)",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Moroccan spice mix",
+      "amount": "1 teaspoon (cinnamon, cumin, coriander, paprika)"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1/2 cup, rinsed"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "amlou (toasted almond butter)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Dice the sweet potatoes and set aside.",
+    "Heat the olive oil in the pressure cooker, then add the diced sweet potatoes and Moroccan spice mix and stir for 1 minute.",
+    "Pour in the vegetable broth, orange zest, lemon zest, orange juice, and lemon juice, then seal the pressure cooker and cook on high pressure for 5 minutes.",
+    "Release the pressure and remove the lid, letting the sweet potatoes sit to cool slightly.",
+    "In a mason jar, layer the cooked sweet potatoes, rinsed chickpeas, a drizzle of amlou, and chopped mint and cilantro.",
+    "Shake the jar gently to mix the flavors and serve immediately.",
+    "Optionally, add a splash of extra orange or lemon juice for extra brightness.",
+    "Enjoy the bowl as a wholesome, low‑sodium lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "low-sodium",
+    "mason-jar",
+    "moroccan",
+    "quick",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 13,
+    "carbs": 51,
+    "fat": 23
+  },
+  "slug": "fresh-citrus-moroccan-sweet-potato-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-citrus-moroccan-sweet-potato-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:11:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Fresh Citrus",
+    "dishForm": "Bowl"
+  }
+}
