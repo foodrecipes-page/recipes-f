@@ -1,0 +1,109 @@
+{
+  "title": "Frosted Smoky Egyptian Tofu Noodles",
+  "description": "A smoky, crispy, energizing Ethiopian-inspired dish featuring flat rice noodles, tofu, and an ice-bath shock, served from a bamboo steamer.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Drain tofu and press to remove excess moisture.",
+    "Toss tofu cubes with smoked paprika, soy sauce, maple syrup, sesame oil, garlic powder, and cumin until fully coated.",
+    "Spread the coated tofu on a bamboo steamer lined with parchment, place into a pot of boiling water, and steam for 10 minutes until firm.",
+    "While tofu steams, soak flat rice noodles in hot water for 3 minutes, then drain and set aside.",
+    "In a small bowl, whisk lemon juice with a splash of water to create a light citrus glaze.",
+    "Remove the steamer and let the tofu rest for one minute, then dip each cube in the citrus glaze for a crisp finish.",
+    "Assemble the dish by arranging noodles in the steamer basket, topping with glazed tofu, and sprinkling sesame seeds and cilantro.",
+    "Shock the assembled noodles in an ice bath of 200ml ice water for 30 seconds to stop cooking and enhance crispness.",
+    "Drain the noodles and immediately transfer to a serving plate, drizzling any remaining glaze from the tofu over them.",
+    "Serve hot, optionally adding extra lemon wedges for a refreshing citrus kick."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "crispy",
+    "egyptian",
+    "jain-friendly",
+    "rice-noodles",
+    "smoky",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "frosted-smoky-egyptian-tofu-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/frosted-smoky-egyptian-tofu-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:22:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Frosted Smoky",
+    "dishForm": "Noodles"
+  }
+}
