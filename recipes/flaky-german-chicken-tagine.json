@@ -1,0 +1,101 @@
+{
+  "title": "Flaky German Chicken Tagine",
+  "description": "A garlicky, cumin‑spiced chicken tagine with crispy, flaky skin, served over low‑carb cauliflower for a crowd‑pleasing German twist.",
+  "cuisine": "German",
+  "diet": [
+    "low-carbohydrate"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500 g",
+      "notes": "bone‑in, skin on"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "400 g",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "halved"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "spring onions",
+      "amount": "4",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy‑bottomed tagine or Dutch oven over medium heat and toast the cumin seeds until fragrant.",
+    "Add the chicken thighs skin side down and sear until the skin is golden and crisp, then flip and sear the other side for a minute.",
+    "Stir in the minced garlic, sliced carrots, and halved onion, cooking until the vegetables start to soften, about 3 minutes.",
+    "Incorporate the tomato paste, stirring to coat the chicken and vegetables evenly.",
+    "Pour in enough water to come halfway up the sides of the chicken, bring to a gentle simmer, and cover the pot.",
+    "Reduce the heat to low, let the mixture simmer for 25 minutes or until the chicken is tender and the sauce thickens.",
+    "Add the cauliflower florets and spring onions, cover again, and cook for another 10 minutes until the cauliflower is tender but still firm.",
+    "Serve the chicken and vegetables hot, spooning the aromatic sauce over the top and garnishing with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "cumin",
+    "flaky",
+    "garlicky",
+    "german",
+    "low-carb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 55,
+    "carbs": 60,
+    "fat": 43
+  },
+  "slug": "flaky-german-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-german-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:36:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "cumin seeds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Flaky",
+    "dishForm": "Tagine"
+  }
+}

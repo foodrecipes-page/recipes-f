@@ -1,0 +1,116 @@
+{
+  "title": "Fresh Algerian Oats Tagine",
+  "description": "A winey, creamy, quick-fix tagine blending rolled oats and miso for a low-fodmap, vegan twist.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "white miso for mild flavor"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "heat-stable"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a Dutch oven over medium heat until melted.",
+    "Add diced carrot, zucchini, and bell pepper, sauté for 3 minutes.",
+    "Stir in diced tomato, grated ginger, and lemon zest, cooking another 2 minutes.",
+    "Pour in white wine and allow it to reduce by half, about 3 minutes.",
+    "Add miso paste, low-sodium vegetable broth, and almond milk, stir until miso dissolves.",
+    "Mix in rolled oats, bring the mixture to a simmer, cover, and cook for 12 minutes.",
+    "Remove the lid, stir gently, and let the tagine thicken to a creamy consistency.",
+    "Season with salt and pepper to taste, then serve hot with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-oven",
+    "low-fodmap",
+    "one-pot",
+    "quick",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "fresh-algerian-oats-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-algerian-oats-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:37:11Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "rolled oats",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "oats",
+    "descriptor": "Fresh",
+    "dishForm": "Tagine"
+  }
+}
