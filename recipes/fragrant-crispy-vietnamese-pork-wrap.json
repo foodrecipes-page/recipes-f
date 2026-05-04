@@ -1,0 +1,61 @@
+{
+  "title": "fragrant crispy vietnamese pork wrap",
+  "description": "a yeasty, velvety, festive vietnamese dish featuring peanut oil, leaf-wrap-steam, and anti-inflammatory-friendly ingredients. perfect for a weeknight dinner or special occasion.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "around 100°F (38°C)"
+    }
+  ],
+  "instructions": [
+    "combine rice flour and warm water in a bowl to form a sticky dough"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "fragrant-crispy-vietnamese-pork-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-crispy-vietnamese-pork-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "peanut oil",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "fragrant crispy",
+    "dishForm": "Wrap"
+  }
+}

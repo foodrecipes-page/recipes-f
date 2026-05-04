@@ -1,0 +1,117 @@
+{
+  "title": "Funky Uruguayan Cranberry Empanadas",
+  "description": "Post-workout snack from Uruguay featuring cranberry and flamb\u00021 flambe. Great for kosher-friendly diets.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/4 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled, cut into small pieces"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh or frozen cranberries",
+      "amount": "1 cup",
+      "notes": "fresh for better flavor, frozen for longer shelf life"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp",
+      "notes": "dried, chopped"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4",
+      "notes": "for assembling empanadas"
+    },
+    {
+      "name": "cr\u00195250n sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u0003b0F (190\u0003b0C).",
+    "In a large mixing bowl, whisk together flour, kosher salt, and granulated sugar.",
+    "Gradually add unsalted butter, using a pastry blender or your fingers to work it into the flour mixture until crumbly.",
+    "Beat in large egg until the dough comes together, then turn out onto a lightly floured surface and knead for 2-3 minutes, until smooth and elastic.",
+    "Divide dough into 4 equal pieces and roll out each piece into a thin circle, about 1/8 inch thick.",
+    "In a small bowl, mix together cranberry sauce, chopped cranberries, and dried orange zest. Place 1 tablespoon of this mixture onto one half of each dough circle, leaving a 1/4 inch border around the edges.",
+    "Brush edges with water and fold dough in half to enclose filling, pressing edges to seal. Press the edges with a fork to crimp and decorate.",
+    "In a large skillet, heat 1 tablespoon of unsalted butter over medium-high heat. When melted, add a few empanadas and sear until golden brown, about 2-3 minutes on each side.",
+    "Transfer empanadas to a baking sheet, seam-side down, and bake for 12-15 minutes, or until golden brown.",
+    "Let empanadas cool for 2-3 minutes on a wire rack before dusting with confectioner's sugar.",
+    "If desired, serve with a side of orange juice for an extra burst of citrus flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flamb-1",
+    "high-protein",
+    "kosher",
+    "post-workout",
+    "snack",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "funky-uruguayan-cranberry-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-uruguayan-cranberry-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "cranberry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cranberry",
+    "descriptor": "Funky",
+    "dishForm": "Empanadas"
+  }
+}

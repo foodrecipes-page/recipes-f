@@ -1,0 +1,113 @@
+{
+  "title": "Flaky American Chicken Casserole",
+  "description": "A comforting, FODMAP-friendly dish featuring chicken thighs, flaky pastry, and a rich, buttery sauce.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless, skinless chicken thighs",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose gluten-free flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cold unsalted butter, cut into small pieces",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup ice water",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, diced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup frozen mixed vegetables",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "1 pie crust, homemade or store-bought",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "chicken",
+    "comfort-food",
+    "dinner",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 31
+  },
+  "slug": "flaky-american-chicken-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-american-chicken-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "chicken thighs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "flaky",
+    "dishForm": "casserole"
+  }
+}

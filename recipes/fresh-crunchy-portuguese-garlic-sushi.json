@@ -1,0 +1,108 @@
+{
+  "title": "Fresh Crunchy Portuguese Garlic Sushi",
+  "description": "A fusion of traditional Portuguese flavors with the crunch of sushi. This dish combines the pungency of garlic with the zing of yuzu-cure, making for a refreshing and adventurous snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "medium-sized, preferably with a tight, compact head"
+    },
+    {
+      "name": "Garlic",
+      "amount": "8 cloves",
+      "notes": "minced, using a microplane for best flavor"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 inches",
+      "notes": "freshly squeezed, or store-bought yuzu juice as a substitute"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "white rice vinegar, for pickling the cauliflower"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted for brushing the cauliflower and forming the sushi rolls"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "2 tablespoons",
+      "notes": "used for dusting the sushi rolls to help them stick together"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "used as a seasoning for the cauliflower and sushi rolls"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "used as a seasoning for the cauliflower and sushi rolls"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, used for garnish"
+    }
+  ],
+  "instructions": [
+    "Pulse the cauliflower in a food processor until it resembles rice.",
+    "Transfer the cauliflower rice to a bowl and mix in the minced garlic, yuzu juice, and rice vinegar.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Using a bamboo sushi mat, shape the cauliflower mixture into a log and slice it into individual sushi rolls.",
+    "Dust each roll with chickpea flour to help them stick together.",
+    "Melt the coconut oil in a non-stick pan over medium heat.",
+    "Brush the cauliflower rolls with the melted coconut oil and cook for 3-4 minutes on each side, until crispy.",
+    "Transfer the sushi rolls to a plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy!",
+    "Store leftover sushi rolls in an airtight container in the refrigerator for up to 3 days.",
+    "When ready to serve, let the sushi rolls sit at room temperature for 30 minutes to allow them to crisp up again."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "one-pan",
+    "paleo",
+    "portuguese",
+    "snack",
+    "sushi",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fresh-crunchy-portuguese-garlic-sushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crunchy-portuguese-garlic-sushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "garlic",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "garlic",
+    "descriptor": "fresh crunchy",
+    "dishForm": "sushi"
+  }
+}

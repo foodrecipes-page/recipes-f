@@ -1,0 +1,117 @@
+{
+  "title": "Fluffy Festive Mediterranean Coconut Bake",
+  "description": "A flavorful and fluffy vegetarian bake that combines the warmth of Mediterranean spices with the sweetness of coconut. This festive dish is perfect for a special occasion or holiday gathering.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 3/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C) and grease a 9x13-inch baking dish with olive oil.",
+    "In a medium bowl, whisk together the flour, baking powder, and salt.",
+    "In a large mixing bowl, combine the unsweetened coconut milk, shredded coconut, honey, olive oil, dried oregano, dried thyme, and crushed feta cheese. Stir until well combined.",
+    "Add the flour mixture to the wet ingredients and stir until just combined. Do not overmix.",
+    "Fold in the chopped fresh parsley and orange zest.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dessert",
+    "festive",
+    "fluffy",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "fluffy-festive-mediterranean-coconut-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-festive-mediterranean-coconut-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "coconut flakes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Coconut",
+    "descriptor": "Fluffy Festive",
+    "dishForm": "Bake"
+  }
+}
