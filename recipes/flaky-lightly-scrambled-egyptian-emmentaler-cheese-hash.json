@@ -1,0 +1,106 @@
+{
+  "title": "Flaky, Lightly Scrambled Egyptian Emmentaler Cheese Hash",
+  "description": "A light, one-pot Egyptian dish featuring Emmentaler cheese, whisk, egg-free-friendly, vessel=lazy-susan-spinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese, shredded",
+      "amount": "8 oz",
+      "notes": "Imported or domestic, whichever is available."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Panko or regular, whichever is available."
+    },
+    {
+      "name": "Butter, unsalted",
+      "amount": "2 tbsp",
+      "notes": "Softened for easier whisking."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Mince until well combined with butter."
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped from fresh parsley for garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust salt to your preference."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Adjust black pepper to your preference."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "Use to prevent cheese from sticking to pan."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Optional for added flavor."
+    }
+  ],
+  "instructions": [
+    "Add butter to the lazy Susan-spinner and melt over medium heat.",
+    "Add minced garlic and cook for 1 minute until well combined with butter.",
+    "Add shredded Emmentaler cheese to the pan and stir until it begins to melt.",
+    "Add breadcrumbs to the pan and stir until well combined with melted cheese.",
+    "Add salt and black pepper to the pan and stir until well combined.",
+    "Drizzle water into the pan to prevent cheese from sticking.",
+    "Use a whisk to break up any clumps of cheese and create a light, flaky texture.",
+    "Cook for an additional 2-3 minutes until cheese is lightly scrambled.",
+    "Transfer the cheesy hash to a serving platter and garnish with chopped parsley.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheesy",
+    "egyptian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "flaky-lightly-scrambled-egyptian-emmentaler-cheese-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-lightly-scrambled-egyptian-emmentaler-cheese-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:25:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Emmentaler cheese",
+    "descriptor": "Flaky, Lightly Scrambled",
+    "dishForm": "Hash"
+  }
+}

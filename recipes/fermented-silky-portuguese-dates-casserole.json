@@ -1,0 +1,108 @@
+{
+  "title": "Fermented Silky Portuguese Dates Casserole",
+  "description": "A paleo-friendly, fermented meal-prep dish made with stoned dates, cure, and a silky texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "date pits",
+      "amount": "1/2 cup",
+      "notes": "for curing"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tbsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "raw honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the date pits in water for at least 4 hours or overnight.",
+    "Preheat the oven to 350F (175C).",
+    "In a small bowl, mix together the sea salt, black pepper, and almond flour.",
+    "Add the melted coconut oil to the bowl and stir until well combined.",
+    "In a separate bowl, mix together the soaked date pits, coconut milk, and apple cider vinegar.",
+    "Add the coconut milk mixture to the bowl with the salt mixture and stir until smooth.",
+    "Transfer the mixture to a 9x9 inch baking dish and smooth the top.",
+    "Cover the dish with a lid or plastic wrap and refrigerate for at least 24 hours.",
+    "After 24 hours, remove the dish from the refrigerator and top with the raw honey (if using).",
+    "Return the dish to the refrigerator for another 24 hours to allow the flavors to meld.",
+    "Serve chilled, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 48,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "fermented",
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "fermented-silky-portuguese-dates-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-portuguese-dates-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:24:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "stoned dates",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dates",
+    "descriptor": "fermented silky",
+    "dishForm": "casserole"
+  }
+}
