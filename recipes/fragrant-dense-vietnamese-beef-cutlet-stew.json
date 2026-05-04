@@ -1,0 +1,106 @@
+{
+  "title": "Fragrant Dense Vietnamese Beef Cutlet Stew",
+  "description": "A jammy, dense stew with crispy beef cutlets, simmered in a fragrant broth infused with tomato paste, fish sauce, and aromatics, perfect for a brunch mood.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "400 g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "30 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "400 ml"
+    }
+  ],
+  "instructions": [
+    "Pound beef sirloin into 3cm thick cutlets using a mallet or rolling pin.",
+    "In a shallow dish combine flour, salt, and pepper; dredge each cutlet until coated.",
+    "Beat egg in a bowl; in another shallow dish place panko breadcrumbs.",
+    "Sequentially dip each flour-coated cutlet in the beaten egg, then coat with panko.",
+    "Heat olive oil in a kadhai over medium heat; sear cutlets on both sides until golden, about 2 minutes per side.",
+    "Remove cutlets and set aside; in the same pan, sauté garlic and shallot until fragrant, about 1 minute.",
+    "Add diced carrot and stir for another 2 minutes.",
+    "Stir in tomato paste, fish sauce, and soy sauce, cooking for 1 minute to bloom the flavors.",
+    "Pour in water, bring to a gentle boil, then reduce heat to 160°C and simmer for 45 minutes, covering halfway.",
+    "Return the seared cutlets to the stew, cover, and cook for an additional 5 minutes to reheat, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-cutlet",
+    "brunch-mood",
+    "dense-stew",
+    "jammy",
+    "kadhai-cook",
+    "vietnamese-dish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "fragrant-dense-vietnamese-beef-cutlet-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-dense-vietnamese-beef-cutlet-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:48:59Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "beef cutlet",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "Fragrant Dense",
+    "dishForm": "Stew"
+  }
+}
