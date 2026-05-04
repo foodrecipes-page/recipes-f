@@ -1,0 +1,96 @@
+{
+  "title": "Friendly Fluffy British Gouda Cheese Casserole",
+  "description": "A malty, chewy, kid-friendly British dish featuring Gouda cheese, with a diabetic-friendly twist, this casserole is perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "2 cups shredded",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 oz",
+      "notes": "elbow macaroni or penne"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "low-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the pasta according to package directions until al dente.",
+    "In a medium saucepan, whisk together the milk, flour, and melted butter to make a mother sauce.",
+    "Bring the sauce to a simmer and cook until it thickens.",
+    "Remove the sauce from heat and stir in the shredded Gouda cheese until melted.",
+    "Add the cooked pasta, thyme, salt, and pepper to the cheese sauce and stir until combined.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Top the casserole with additional shredded Gouda cheese if desired.",
+    "Bake the casserole in the preheated oven for 25 minutes or until golden brown on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "kid-friendly",
+    "one-pan",
+    "pasta-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "friendly-fluffy-british-gouda-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/friendly-fluffy-british-gouda-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:46:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "gouda cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Gouda cheese",
+    "descriptor": "Friendly Fluffy",
+    "dishForm": "Casserole"
+  }
+}
