@@ -1,0 +1,119 @@
+{
+  "title": "Fresh Jamaican Feta Curry",
+  "description": "A creamy, yeasty curry that balances bold Jamaican spices with tangy feta and sweet coconut milk, perfect for a quick sugar‑free dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "200g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic, grated ginger, curry powder, allspice, thyme, and cinnamon, cooking for 1 minute until fragrant.",
+    "Pour in coconut milk and bring the mixture to a gentle simmer, letting the flavors meld for 5 minutes.",
+    "Add crumbled feta cheese and stir until the cheese softens and the sauce thickens slightly, about 2 minutes.",
+    "Squeeze in lime juice and stir in salsa for a bright finish.",
+    "Remove from heat and let the curry sit for 2 minutes to allow the flavors to settle.",
+    "Serve hot over steamed rice or with warm flatbread.",
+    "Garnish with a sprinkle of fresh thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "healthy",
+    "jamaican",
+    "one-pot",
+    "quick",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 25,
+    "carbs": 21,
+    "fat": 74
+  },
+  "slug": "fresh-jamaican-feta-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-jamaican-feta-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:20:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "shio-cure",
+    "primaryIngredient": "feta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Feta",
+    "descriptor": "Fresh",
+    "dishForm": "Curry"
+  }
+}
