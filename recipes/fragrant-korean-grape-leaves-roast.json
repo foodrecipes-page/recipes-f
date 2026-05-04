@@ -1,0 +1,107 @@
+{
+  "title": "fragrant korean grape leaves roast",
+  "description": "tender roasted grape leaves dish from gangwon province, perfect for post-workout meal",
+  "cuisine": "korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "korean grape leaves",
+      "amount": "12-15 leaves",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "rinse the grape leaves and blanch them in boiling water for 30 seconds.",
+    "soak the grape leaves in ice water to stop the cooking process.",
+    "peel and chop the sweet potato into bite-sized pieces.",
+    "cut the carrots into bite-sized pieces.",
+    "sauté the mushrooms in coconut oil until tender.",
+    "stir in soy sauce, ginger, and garlic.",
+    "place the grape leaves on a baking sheet and add the sweet potato, carrots, and mushroom mixture.",
+    "drizzle the brown rice on top of the mixture.",
+    "cover the baking sheet with foil and roast for 20 minutes.",
+    "remove the foil and continue roasting for another 10 minutes.",
+    "serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fall",
+    "korean",
+    "one-pan",
+    "post-workout",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "fragrant-korean-grape-leaves-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-korean-grape-leaves-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:53:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "grape leaves",
+    "diet": "vegan",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Grape leaves",
+    "descriptor": "Fragrant",
+    "dishForm": "Roast"
+  }
+}
