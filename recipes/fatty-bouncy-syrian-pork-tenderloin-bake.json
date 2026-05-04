@@ -1,0 +1,113 @@
+{
+  "title": "fatty bouncy syrian pork tenderloin bake",
+  "description": "a nostalgic syrian dish featuring pork tenderloin, ideal for steam cooking and shojin-friendly",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": "1-2 lbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "season the pork tenderloin with salt, black pepper, and allspice.",
+    "heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "cook the pork tenderloin for 2-3 minutes on each side, or until browned.",
+    "transfer the pan to the preheated oven and roast for 10-12 minutes, or until cooked through.",
+    "while the pork is cooking, boil the sliced potatoes in a large pot of salted water until tender.",
+    "drain the potatoes and add the chopped onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.",
+    "mix well to combine.",
+    "remove the pork from the oven and let it rest for 5 minutes before slicing.",
+    "serve the sliced pork with the boiled potato mixture, drizzled with lemon juice.",
+    "garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "pork",
+    "potatoes",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "fatty-bouncy-syrian-pork-tenderloin-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-bouncy-syrian-pork-tenderloin-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "fatty bouncy",
+    "dishForm": "bake"
+  }
+}

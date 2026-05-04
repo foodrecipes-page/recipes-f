@@ -1,0 +1,115 @@
+{
+  "title": "Floral Creamy Romantic Jamaican Ground Pistachio Knead",
+  "description": "A rich, creamy, and fragrant Jamaican dish featuring ground pistachios and a soft knead, suitable for Ayurvedic and Tamasic diets.",
+  "cuisine": "Jamaican",
+  "diet": [
+    null,
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, full-fat or low-fat for a lighter version"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup",
+      "notes": "adjust to desired sweetness level"
+    },
+    {
+      "name": "jasmine tea",
+      "amount": "1 cup",
+      "notes": "brewed, cooled, and sweetened with a hint of honey"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rose petals",
+      "amount": "1/4 cup",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pistachios, coconut milk, and coconut oil. Mix until a smooth dough forms.",
+    "Add vanilla extract, lime juice, and garam masala. Mix well to combine.",
+    "Transfer the dough to a kneading surface and knead for 10-15 minutes until smooth and pliable.",
+    "Divide the dough into 8 equal portions and shape into small balls.",
+    "Heat a non-stick skillet over medium heat and add 1 tablespoon of coconut oil. When hot, add the dough balls and cook for 2-3 minutes on each side until golden brown.",
+    "Transfer the cooked dough balls to a serving plate and drizzle with maple syrup.",
+    "Garnish with chopped rose petals and serve warm.",
+    "Chill the remaining dough in the refrigerator for up to 3 days or freeze for up to 2 months for future use.",
+    "To serve, thaw the dough and reheat it in a skillet over low heat for 2-3 minutes until warm and soft."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "dessert",
+    "indian-inspired",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "floral-creamy-romantic-jamaican-ground-pistachios-knead",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-romantic-jamaican-ground-pistachios-knead",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "ground pistachios",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "romantic jamaican",
+    "mainIngredient": "ground pistachios",
+    "descriptor": "floral creamy",
+    "dishForm": "knead"
+  }
+}
