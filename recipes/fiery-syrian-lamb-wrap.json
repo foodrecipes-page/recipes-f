@@ -1,0 +1,93 @@
+{
+  "title": "Fiery Syrian Lamb Wrap",
+  "description": "A peppery and juicy Syrian dish featuring cayenne pepper and ferment-kimchi, wrapped in a ti-leaf wrap, perfect for a dash-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with cayenne pepper, salt, and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then transfer to the oven.",
+    "Roast the lamb in the oven for 20 minutes, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, prepare the ferment-kimchi by chopping it into small pieces.",
+    "Warm the ti leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by slicing the cooked lamb and placing it onto a ti leaf, then topping with ferment-kimchi and garlic.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "fiery-syrian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-syrian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:06:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "fiery flavorful",
+    "dishForm": "Wrap"
+  }
+}
