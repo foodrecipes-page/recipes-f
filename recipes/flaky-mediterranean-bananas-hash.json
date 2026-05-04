@@ -1,0 +1,115 @@
+{
+  "title": "Flaky Mediterranean Bananas Hash",
+  "description": "A Mediterranean-inspired breakfast dish featuring fermented flaky bananas, marinated in herbs and spices, served with a crispy hash brown.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ripe Bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and slice the bananas into 1-inch pieces and set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced bananas and cook for 2-3 minutes until golden brown.",
+    "In a small bowl, mix together the parsley, oregano, salt, and black pepper.",
+    "Add the floured bananas to the bowl and toss to coat.",
+    "In the same skillet, add the marinated bananas and cook for an additional 2-3 minutes until crispy.",
+    "In a separate pan, heat the olive oil over medium heat and cook the diced potato until crispy and golden brown.",
+    "In a small bowl, whisk together the yogurt and red pepper flakes.",
+    "Add the yogurt mixture to the skillet with the hash brown and stir to combine.",
+    "Add the cooked bananas to the skillet and stir to combine with the yogurt mixture and hash brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "mediterranean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "flaky-mediterranean-bananas-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-mediterranean-bananas-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bananas",
+    "descriptor": "flaky",
+    "dishForm": "Hash"
+  }
+}
