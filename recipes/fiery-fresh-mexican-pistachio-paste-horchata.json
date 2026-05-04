@@ -1,0 +1,99 @@
+{
+  "title": "Fiery Fresh Mexican Pistachio Paste Horchata",
+  "description": "A winey, springy, and energizing Mexican horchata made with pistachio paste, bhuna, and a hint of spice. Perfect for a snack or dessert.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna chutney",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "6-8"
+    },
+    {
+      "name": "pistachio shavings (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the pistachio paste, bhuna chutney, coconut milk, water, vanilla extract, cinnamon powder, and cayenne pepper.",
+    "Blend the mixture until smooth and creamy, stopping to scrape down the sides of the blender as needed.",
+    "Add the sugar and blend until well combined.",
+    "Taste and adjust the sweetness and spice level to your liking.",
+    "Cover the blender and refrigerate the mixture for at least 2 hours or overnight.",
+    "Just before serving, add the ice cubes to the blender and blend until the mixture is slushy and chilled.",
+    "Pour the horchata into glasses and garnish with pistachio shavings, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fiery-spicy",
+    "high-protein",
+    "one-pan",
+    "spring-recipe",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "fiery-fresh-mexican-pistachio-paste-horchata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-fresh-mexican-pistachio-paste-horchata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:11:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "pistachio paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pistachio paste",
+    "descriptor": "Fiery Fresh",
+    "dishForm": "Horchata"
+  }
+}
