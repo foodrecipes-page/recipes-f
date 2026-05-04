@@ -1,0 +1,123 @@
+{
+  "title": "Fresh Crunchy Greek Bacon Skewers",
+  "description": "A paleo-friendly twist on traditional Greek cuisine, featuring fresh, crunchy, and comforting streaky bacon skewers, cured with Japanese-inspired shio-koji.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "streaky bacon",
+      "amount": "12 slices",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "fresh cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the streaky bacon into 1-inch pieces and set aside.",
+    "In a small bowl, whisk together the shio-koji, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the bacon to the shio-koji mixture and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated bacon, fresh parsley, and fresh oregano onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with additional olive oil and season with salt and black pepper.",
+    "Grill the skewers for 2-3 minutes per side, or until the bacon is crispy and golden brown.",
+    "Serve immediately, garnished with additional fresh parsley and lemon wedges.",
+    "To assemble the skewers, start by threading a piece of bacon onto the skewer, followed by a piece of parsley and a piece of oregano.",
+    "Continue threading the ingredients onto the skewer, leaving a small space between each piece.",
+    "Once the skewers are assembled, brush them with the shio-koji mixture and season with salt and black pepper.",
+    "Grill the skewers for 2-3 minutes per side, or until the bacon is crispy and golden brown.",
+    "Serve the skewers hot, garnished with additional fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "fresh-crunchy-greek-bacon-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crunchy-greek-bacon-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "streaky bacon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Bacon",
+    "descriptor": "Fresh Crunchy",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Fluffy American Bresaola Fry-Grind-Rice-Khao-Khua",
+  "description": "A festive and healthy American dish featuring bresaola, fry-grind-rice-khao-khua.",
+  "cuisine": "American",
+  "diet": [
+    "low-glycemic",
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "1 pound",
+      "notes": "Pre-sliced and cured beef"
+    },
+    {
+      "name": "Fry-Grind-Rice",
+      "amount": "2 cups",
+      "notes": "Pre-made rice flour mixture"
+    },
+    {
+      "name": "Khao-Khua",
+      "amount": "2 tablespoons",
+      "notes": "Coconut oil and sesame seeds mixture"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed, for serving"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced, for serving"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine bresaola, fry-grind-rice, and khao-khua.",
+    "Mix well to combine.",
+    "Transfer the mixture to a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes, or until lightly browned.",
+    "Remove from oven and let cool slightly.",
+    "Fluff the mixture with a fork to separate the ingredients.",
+    "Garnish with chopped cilantro, sliced red onion, and chopped fresh mint.",
+    "Serve warm with a squeeze of fresh lime juice.",
+    "Refrigerate leftovers for up to 3 days, or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "healthy",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fluffy-american-bresaola-fry-grind-rice-khao-khua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-american-bresaola-fry-grind-rice-khao-khua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "bresaola",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "bresaola",
+    "descriptor": "fluffy",
+    "dishForm": "fry-grind-rice-khao-khua"
+  }
+}
