@@ -1,0 +1,92 @@
+{
+  "title": "Flaky Crispy Canadian Beef Skewers",
+  "description": "Buttery and crisp Canadian dish featuring full fat sour cream and bhuna, perfect as a hangover cure, made with halal-friendly ingredients and cooked on a binchotan grill.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium high heat.",
+    "In a large bowl, whisk together sour cream, bhuna spice blend, garlic powder, onion powder, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the sour cream mixture.",
+    "Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "Brush the melted butter onto the beef strips.",
+    "Place the skewers on the grill and cook for 8 minutes, turning occasionally.",
+    "Increase the heat to high and cook for an additional 2 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the grill and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "flaky-crispy-canadian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-crispy-canadian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:08:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "flaky crispy",
+    "dishForm": "Skewers"
+  }
+}
