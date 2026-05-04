@@ -1,0 +1,96 @@
+{
+  "title": "Fatty, Oozy Portuguese Lamb Gratin",
+  "description": "A rich and comforting Portuguese dish featuring oregano, with a crispy crust and gooey interior, perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh oregano leaves",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb cubes with salt and black pepper.",
+    "In a large Dutch oven, melt 2 tablespoons of butter over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the remaining 2 tablespoons of butter to the pot and melt over medium heat.",
+    "Add the flour and cook, stirring constantly, for 1 minute.",
+    "Gradually add the chicken broth and red wine, whisking continuously.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and bake for 25-30 minutes.",
+    "Remove the pot from the oven and sprinkle the chopped oregano over the top.",
+    "Bake for an additional 10-15 minutes, or until the surface is golden brown and the lamb is tender.",
+    "Serve hot, garnished with additional oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "lamb",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 22,
+    "fat": 42
+  },
+  "slug": "fatty-oozy-portuguese-lamb-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-oozy-portuguese-lamb-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:33:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "score-fat",
+    "primaryIngredient": "oregano",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "Fatty, Oozy",
+    "dishForm": "Gratin"
+  }
+}
