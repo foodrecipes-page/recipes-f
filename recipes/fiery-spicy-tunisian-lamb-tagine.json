@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Spicy Tunisian Lamb Tagine",
+  "description": "A sour and snappy Tunisian dish featuring dried chillies and lamb, perfect for a low-carb meal prep option. This tagine is a flavorful and spicy stew that is sure to satisfy",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "4-6",
+      "notes": "crushed or 1 teaspoon dried chilli flakes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes",
+    "Add the minced garlic and cook for 1 minute, until fragrant",
+    "Add the crushed dried chillies, tomato paste, chicken broth, lemon juice, salt, and black pepper, and stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender",
+    "Remove the lid and simmer for an additional 30 minutes, or until the sauce has thickened",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "low-carb",
+    "meal-prep",
+    "north-african",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "fiery-spicy-tunisian-lamb-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-spicy-tunisian-lamb-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:09:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Fiery Spicy",
+    "dishForm": "Tagine"
+  }
+}
