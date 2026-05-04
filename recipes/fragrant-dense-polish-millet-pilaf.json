@@ -1,0 +1,96 @@
+{
+  "title": "Fragrant Dense Polish Millet Pilaf",
+  "description": "A rich and dense Polish dish featuring millet, perfect for a sick day, made with brine-dry and jain-friendly ingredients, cooked in a mason jar.",
+  "cuisine": "Polish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mason jar, combine the millet, water, vegetable broth, carrots, onion, mushrooms, salt, black pepper, and dried thyme.",
+    "Stir the mixture well to combine.",
+    "Cover the mason jar with a lid and bake for 45 minutes.",
+    "Remove the mason jar from the oven and let it cool for 10 minutes.",
+    "Stir the pilaf again and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "one-pot",
+    "polish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fragrant-dense-polish-millet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-dense-polish-millet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:05:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "millet",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "millet",
+    "descriptor": "fragrant dense",
+    "dishForm": "Pilaf"
+  }
+}
