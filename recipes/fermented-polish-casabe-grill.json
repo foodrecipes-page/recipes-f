@@ -1,0 +1,96 @@
+{
+  "title": "Fermented Polish Casabe Grill",
+  "description": "A monsoon-inspired, ayurvedic-rajasic-friendly dish featuring fermented casabe and score-fat, grilled to perfection.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casabe",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "score-fat",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic ghee",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine casabe, score-fat, and ayurvedic ghee in a large bowl. Blend well to form a sticky dough.",
+    "Let the dough sit at room temperature for 3 days to ferment.",
+    "After fermentation, divide the dough into 4 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a disk shape.",
+    "Heat a non-stick skillet or griddle over medium-high heat.",
+    "Grill the casabe disks for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Season with black pepper and sea salt to taste.",
+    "Garnish with fresh parsley, dill, and ginger before serving.",
+    "Serve immediately, hot and fresh from the grill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "fermented",
+    "grilled",
+    "monsoon",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 16,
+    "carbs": 66,
+    "fat": 30
+  },
+  "slug": "fermented-polish-casabe-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-polish-casabe-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "casabe",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "casabe",
+    "descriptor": "fermented",
+    "dishForm": "Grill"
+  }
+}
