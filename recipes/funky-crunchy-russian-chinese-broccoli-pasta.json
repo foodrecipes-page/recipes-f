@@ -1,0 +1,68 @@
+{
+  "title": "Funky Crunchy Russian Chinese Broccoli Pasta",
+  "description": "A fusion dish featuring Chinese broccoli, crispy bacon, and a nut-free pasta water emulsion, sure to please the crowd.",
+  "cuisine": "Russian Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Pork Bacon",
+      "amount": "6 slices",
+      "notes": "Cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil for the pasta.",
+    "Cook 8 oz pasta according to the package instructions until al dente.",
+    "While the pasta is cooking, heat a skillet over medium heat and cook 6 slices of bacon until crispy.",
+    "Remove the bacon from the skillet and set aside. ",
+    "In the same skillet, add the Chinese broccoli to the skillet and cook until tender. ",
+    "In a blender or food processor, combine 1 cup of the pasta water with 1 tablespoon of olive oil and blend until smooth.",
+    "Add the pasta water emulsion to the skillet with the Chinese broccoli and stir to combine.",
+    "Add the cooked pasta to the skillet and toss with the Chinese broccoli and pasta water emulsion.",
+    "Season with salt and pepper to taste.",
+    "Garnish with crispy bacon and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "crowd-pleaser",
+    "high-fiber",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "funky-crunchy-russian-chinese-broccoli-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crunchy-russian-chinese-broccoli-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Funky Crunchy",
+    "dishForm": "Pasta"
+  }
+}

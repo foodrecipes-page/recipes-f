@@ -1,0 +1,97 @@
+{
+  "title": "floury polish potatoes bake",
+  "description": "a comforting, cheesy dish featuring floury potatoes that's perfect for a midnight craving.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "4-6 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "beer",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400 f (200 c).",
+    "wash and peel the potatoes, then cut them into 1-inch wedges.",
+    "place the potatoes in a large bowl and drizzle with melted butter, then sprinkle with flour, salt, and pepper.",
+    "toss the potatoes to coat evenly, then spread them out in a single layer on a baking sheet.",
+    "roast the potatoes in the preheated oven for 20 minutes, or until they start to brown.",
+    "remove the potatoes from the oven and sprinkle with grated cheese and chopped scallions.",
+    "return the potatoes to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "remove the potatoes from the oven and let them cool in an ice bath for 5 minutes to stop the cooking process.",
+    "drain the potatoes and serve hot, garnished with additional scallions if desired.",
+    "if using beer, stir it in along with the grated cheese and chopped scallions.",
+    "do not overmix the potatoes, as this can cause them to become sticky and difficult to handle."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy-potatoes",
+    "comfort-food",
+    "midnight-craving",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "floury-polish-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floury-polish-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "floury potatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "floury",
+    "dishForm": "Bake"
+  }
+}

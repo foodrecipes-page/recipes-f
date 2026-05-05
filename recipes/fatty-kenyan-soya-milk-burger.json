@@ -1,0 +1,104 @@
+{
+  "title": "Fatty Kenyan Soya Milk Burger",
+  "description": "Crisp and crowd-pleasing Kenyan dish featuring soya milk, ideal for ovo-vegetarian diet. Fatty in every bite, but still a great option for a snack.",
+  "cuisine": "kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "\\frac{1}{2} teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "\\frac{1}{2} teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "\\frac{1}{4} teaspoon"
+    },
+    {
+      "name": "score-fat (coconut oil)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "green chili",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cheese",
+      "amount": "\\frac{1}{2} cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Combine soya milk, flour, yeast, salt, and black pepper in a bowl.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Place the dough in a greased bowl and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan over medium heat.",
+    "Add score-fat and cook until it melts.",
+    "Add chopped onion, tomato, and green chili and cook until they are softened.",
+    "Add grated cheese and stir until it is well combined.",
+    "Shape the dough into a round shape and place it in the pan.",
+    "Cook the burger for 2 minutes on each side until it is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "crowd-pleaser",
+    "fatty",
+    "kenyan",
+    "one-pan",
+    "ovo-vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "fatty-kenyan-soya-milk-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-kenyan-soya-milk-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "soya milk",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "soya milk",
+    "descriptor": "fatty",
+    "dishForm": "Burger"
+  }
+}
