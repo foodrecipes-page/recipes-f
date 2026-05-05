@@ -1,0 +1,115 @@
+{
+  "title": "Fragrant Hangover-Curing Chinese Mars Bar Century Egg Congee",
+  "description": "A savory and sweet congee dish featuring the unmistakable flavors of Mars Bars, layered with crispy lamination-puff for a delightful textural contrast. Perfect for a hangover cure.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee rice",
+      "amount": "400g"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml"
+    },
+    {
+      "name": "Mars Bars",
+      "amount": "3"
+    },
+    {
+      "name": "Lamination-puff",
+      "amount": "1 package"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Century egg",
+      "amount": "1 (optional)"
+    },
+    {
+      "name": "Scallion oil",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine congee rice and water in a medium saucepan, bringing to a gentle boil.",
+    "Reduce heat to a simmer, covering the saucepan with a lid.",
+    "Meanwhile, heat sesame oil in a small pan over medium heat.",
+    "Add lamination-puff to the pan, toasting until crispy and golden brown.",
+    "Chop the toasted lamination-puff into small pieces.",
+    "Chop Mars Bars into small pieces, setting aside.",
+    "Mince scallions and ginger, setting aside.",
+    "Once the congee has cooked, remove from heat and stir in soy sauce.",
+    "Create a small well in the congee, cracking an egg white into it.",
+    "Stir the egg white into the congee, cooking until set.",
+    "Add the chopped lamination-puff, Mars Bars, scallions, and ginger to the congee.",
+    "Season with salt and pepper to taste.",
+    "Serve the congee hot, garnished with scallion oil and a sliced century egg (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "congee",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 90,
+    "fat": 14
+  },
+  "slug": "fragrant-hangover-curing-chinese-mars-bar-century-egg-congee",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-hangover-curing-chinese-mars-bar-century-egg-congee",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mars bar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Fragrant Hangover-Curing",
+    "dishForm": "Century Egg Congee"
+  }
+}
