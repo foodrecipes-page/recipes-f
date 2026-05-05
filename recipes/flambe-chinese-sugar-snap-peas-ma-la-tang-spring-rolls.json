@@ -1,0 +1,84 @@
+{
+  "title": "Flambe Chinese Sugar Snap Peas MaLaTang Spring-Rolls",
+  "description": "A fresh and flavorful meal-prep dish featuring sugar snap peas in a MaLaTang sauce with spring rolls for a unique blend of sweet, sour, salty, and spicy flavors.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sugar Snap Peas",
+      "amount": 200
+    },
+    {
+      "name": "Spring Rolls Wrappers",
+      "amount": "6"
+    },
+    {
+      "name": "Egg Sauce Base",
+      "amount": "100ml"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "Zest of 2 Limes",
+      "amount": null
+    },
+    {
+      "name": "Red Chili Paste",
+      "amount": "30ml"
+    },
+    {
+      "name": "Green Onion, Chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oil for Flambeing (optional)",
+      "amount": "none"
+    }
+  ],
+  "instructions": [
+    "Prepare sugar snap peas by snapping off the ends and washing thoroughly.",
+    "Mix egg sauce base, soy sauce, lime zest, red chili paste, green onion, and hot water to form a MaLaTang sauce. Heat gently until warm.",
+    "Soak spring roll wrappers in water for 30 seconds to soften slightly.",
+    "Roll sugar snap peas into the wrapper, ensuring the filling is covered completely.",
+    "Fry rolled spring rolls in oil (optional) until golden brown and serve with your MaLaTang sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "chinese-sugar-snap-peas",
+    "flambe",
+    "ma-la-tang",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "flambe-chinese-sugar-snap-peas-ma-la-tang-spring-rolls",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flambe-chinese-sugar-snap-peas-ma-la-tang-spring-rolls",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:30:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "flambe",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Sugar Snap Peas",
+    "descriptor": "Flambe",
+    "dishForm": "MaLaTang Spring-Rolls"
+  }
+}
