@@ -1,0 +1,138 @@
+{
+  "title": "Fatty Creamy Argentinian Egg Noodles",
+  "description": "A rich and comforting argentinian dish featuring egg noodles, beef, and a creamy sauce. Perfect for meal prep and low-calorie-friendly adaptations.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "12 oz",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "grilled beef strips",
+      "amount": "1 lb",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "",
+      "recipe": null
+    },
+    {
+      "name": "crema (argentinian sour cream)",
+      "amount": "8 oz",
+      "notes": "",
+      "recipe": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. ",
+    "Add the beef strips and cook until browned, about 3 minutes. ",
+    "Remove the beef from the skillet and set aside. ",
+    "Add the onion and garlic to the skillet and cook until softened, about 2 minutes. ",
+    "Add the tomato paste and cook for 1 minute, stirring constantly. ",
+    "Add the beef broth, milk, butter, salt, and pepper to the skillet. ",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened. ",
+    "Stir in the crema and cook for an additional 1-2 minutes, until heated through. ",
+    "Add the cooked egg noodles to the skillet and toss with the sauce until well coated. ",
+    "Return the beef to the skillet and toss with the noodles and sauce. ",
+    "Garnish with chopped parsley and serve hot. ",
+    "Refrigerate or freeze for future meals. ",
+    "To reheat, saut\u00187 the noodles and sauce in a skillet with a little bit of oil or butter until heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "cream",
+    "high-protein",
+    "noodles",
+    "one-pan",
+    "sauce",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 44,
+    "fat": 24
+  },
+  "slug": "fatty-creamy-argentinian-egg-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-creamy-argentinian-egg-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "fatty creamy",
+    "dishForm": "noodles"
+  }
+}

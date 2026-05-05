@@ -1,0 +1,111 @@
+{
+  "title": "Fermented Portuguese Rhubarb Galette",
+  "description": "A light and silky dessert featuring fermented rhubarb and infused oil, inspired by Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "500g",
+      "notes": "1 1/2 pounds, cut into 1-inch pieces"
+    },
+    {
+      "name": "Flour",
+      "amount": "200g",
+      "notes": "1 1/2 cups, whole wheat or gluten-free"
+    },
+    {
+      "name": "Sugar",
+      "amount": "150g",
+      "notes": "3/4 cup, organic cane sugar"
+    },
+    {
+      "name": "Spices",
+      "amount": "10g",
+      "notes": "2 teaspoons, ground cinnamon and ground ginger"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "1 teaspoon, sea salt"
+    },
+    {
+      "name": "Yeast",
+      "amount": "10g",
+      "notes": "2 teaspoons, active dry yeast"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20g",
+      "notes": "4 tablespoons, extra virgin olive oil"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": "1 cup, filtered water"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "5g",
+      "notes": "1 tablespoon, see notes for recipe"
+    },
+    {
+      "name": "Tapioca starch",
+      "amount": "20g",
+      "notes": "1 tablespoon, gluten-free"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water in a bowl, and let it sit for 5 minutes to activate.",
+    "Add flour, salt, and spices to the bowl, and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours, or until doubled in size.",
+    "Roll out the dough to a thickness of 1/4 inch, and transfer it to a baking sheet lined with parchment paper.",
+    "Toss the rhubarb with sugar, and spread it evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough over the rhubarb, and brush the infused oil over the dough.",
+    "Bake the galette in a preheated oven at 375°F (190°C) for 30 minutes, or until the dough is golden brown and the rhubarb is tender.",
+    "Let the galette cool on a wire rack for 10 minutes, before slicing and serving.",
+    "To make the infused oil, combine 1 cup of olive oil with 1/4 cup of chopped fresh rosemary and 2 cloves of minced garlic in a saucepan, and heat it over low heat for 30 minutes, then strain and cool the oil."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "high-fiber",
+    "portuguese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "fermented-portuguese-rhubarb-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-portuguese-rhubarb-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rhubarb",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "rhubarb",
+    "descriptor": "fermented",
+    "dishForm": "galette"
+  }
+}

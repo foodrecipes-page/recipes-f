@@ -1,0 +1,65 @@
+{
+  "title": "Fluffy Japanese Rice Mochi",
+  "description": "A traditional Japanese dish from the Chubu region featuring fluffy and nutty rice, wrapped in a soft mochi dough. Enjoy as a snack or dessert.",
+  "cuisine": "Japanese",
+  "diet": [
+    null,
+    "kosher-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "short-grain Japanese rice",
+      "amount": "2 cups",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    }
+  ],
+  "instructions": [
+    "Mix the rice and baking powder in a large bowl, then stir in sugar and milk.",
+    "Combine the flour and unsalted butter to form a dough, then gradually add water to achieve a smooth consistency.",
+    "Knead the dough for 10 minutes until it's smooth and elastic.",
+    "Shape the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a round shape, about 1/4 inch thick.",
+    "Place a small amount of cooked rice in the center of each dough circle.",
+    "Fold the dough over the rice to form a ball, then press the edges together to seal the mochi.",
+    "Repeat with the remaining dough and rice.",
+    "Steam the mochi for 10 minutes, then serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fluffy",
+    "japanese",
+    "mochi",
+    "rice",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "slug": "fluffy-japanese-rice-mochi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-japanese-rice-mochi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "baking powder",
+    "diet": "kosher",
+    "region": "chubu",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "rice",
+    "descriptor": "fluffy",
+    "dishForm": "mochi"
+  }
+}

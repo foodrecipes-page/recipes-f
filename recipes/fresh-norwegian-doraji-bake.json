@@ -1,0 +1,65 @@
+{
+  "title": "Fresh Norwegian Doraji Bake",
+  "description": "A simple and flavorful dish that highlights the unique taste and texture of bellflower root doraji. Perfect as a solo dinner or a side dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bellflower root doraji",
+      "amount": "2 medium roots",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat. Add sliced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add sliced onion to the skillet and cook for 3-4 minutes until softened.",
+    "In a separate bowl, mix together grated cheddar cheese, heavy cream, eggs, salt, and black pepper.",
+    "Arrange a layer of sliced doraji at the bottom of a 9x13 inch baking dish, followed by a layer of the onion mixture, and then a layer of the cheese mixture. Repeat this process until all ingredients have been used, finishing with a layer of cheese on top.",
+    "Dot the top of the dish with remaining butter.",
+    "Bake in the preheated oven for 35-40 minutes until the top is golden brown and the doraji is tender.",
+    "Garnish with chopped fresh parsley and parmesan cheese before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "norwegian",
+    "one-pan",
+    "sugar-free",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "fresh-norwegian-doraji-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-norwegian-doraji-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "fold",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Doraji",
+    "descriptor": "Fresh",
+    "dishForm": "Bake"
+  }
+}

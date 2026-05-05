@@ -1,0 +1,115 @@
+{
+  "title": "Fragrant Springy Korean Dates Rolled Rice Gimbap",
+  "description": "A nutty, springy, indulgent Korean dish from Jeju featuring medjool dates, cure, and rice, wrapped in nori seaweed.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Short-grain rice",
+      "amount": "2 cups",
+      "notes": "Rinse before cooking."
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "To balance the heat."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For flavor."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cured salmon",
+      "amount": "100g",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Nori seaweed sheets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": "For greasing."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare short-grain rice according to package instructions.",
+    "In a pan, heat sesame oil over medium heat.",
+    "Add Korean chili flakes and brown sugar, cooking for 1 minute.",
+    "Add gochujang, cooking for an additional 2 minutes, stirring constantly.",
+    "Add cured salmon, cooking until caramelized.",
+    "In a separate pan, toast sesame seeds over low heat.",
+    "Cut nori sheets into desired size.",
+    "Assemble gimbap by spreading rice onto a nori sheet, adding dates and other fillings, and rolling up.",
+    "Cut gimbap into bite-sized pieces and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cure",
+    "easy-snack",
+    "gimbap",
+    "jeju",
+    "korean",
+    "medjool-dates",
+    "northern-island",
+    "rice-bowl",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 30,
+    "carbs": 90,
+    "fat": 24
+  },
+  "slug": "fragrant-springy-korean-dates-rolled-rice-gimbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-springy-korean-dates-rolled-rice-gimbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "medjool dates",
+    "diet": "satvik",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Dates",
+    "descriptor": "Fragrant Springy",
+    "dishForm": "Rolled Rice Gimbap"
+  }
+}

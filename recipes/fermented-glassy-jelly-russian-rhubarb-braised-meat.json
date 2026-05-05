@@ -1,0 +1,94 @@
+{
+  "title": "Fermented Glassy-Jelly Russian Rhubarb Braised Meat",
+  "description": "A show-off Russian dish featuring forced-rhubarb, braise, and ayurvedic-tamasic-friendly flavors.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1.5 kg",
+      "notes": "Choose a chunk of pork belly with a layer of fat on top."
+    },
+    {
+      "name": "Forced Rhubarb",
+      "amount": "1 kg",
+      "notes": "Use fresh rhubarb and blanch it in boiling water for 2 minutes to remove the bitterness."
+    },
+    {
+      "name": "Water",
+      "amount": "2 L",
+      "notes": "Use filtered water and keep an eye on the water level to prevent the mixture from drying out."
+    },
+    {
+      "name": "Molasses",
+      "amount": "200 g",
+      "notes": "Dark molasses has a rich, earthy flavor that pairs well with rhubarb."
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "30 g",
+      "notes": "Fermentation with coriander seeds adds a unique flavor profile."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "20 g",
+      "notes": "A pinch of black pepper can help balance the flavors."
+    },
+    {
+      "name": "Dill Seeds",
+      "amount": "20 g",
+      "notes": "Dill seeds can add a fresh flavor to the fermetation process."
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork belly, forced rhubarb, water, molasses, coriander seeds, black pepper, and dill seeds.",
+    "Bring the mixture to a boil, then reduce the heat to 160 C and let it simmer for 1 hour.",
+    "Transfer the pot to a warm place and let it ferment for 2-3 days or until the natural yeast on the rhubarb has fermented the liquid to a glassy-jelly state.",
+    "Using a slotted spoon, remove the pork belly from the pot and let it rest for 10 minutes before slicing it thinly.",
+    "Skim off any excess fat from the surface of the liquid and let it cool to room temperature before refrigerating it.",
+    "Refrigerate the braising liquid for at least 24 hours before serving.",
+    "Serve the braised meat with the glassy-jelly sauce spooned over the top.",
+    "Garnish with fresh dill or chives for added flavor and presentation.",
+    "Let the dish sit at room temperature for 30 minutes before serving to allow the flavors to meld together.",
+    "Make sure to serve the dish in a shallow, wide bowl to allow the sauce to coat the meat evenly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 720,
+  "totalTimeMin": 750,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "advanced",
+    "braised-meats",
+    "high-fat",
+    "main-course",
+    "russian-cuisine",
+    "slow-cooked",
+    "tamasic"
+  ],
+  "nutrition": {
+    "calories": 2200,
+    "protein": 80,
+    "carbs": 200,
+    "fat": 180
+  },
+  "slug": "fermented-glassy-jelly-russian-rhubarb-braised-meat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-glassy-jelly-russian-rhubarb-braised-meat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "fermented, glassy-jelly",
+    "dishForm": "Braised Meat"
+  }
+}

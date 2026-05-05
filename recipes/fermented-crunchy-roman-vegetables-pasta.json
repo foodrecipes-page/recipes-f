@@ -1,0 +1,73 @@
+{
+  "title": "Fermented Crunchy Roman Vegetables Pasta",
+  "description": "A fermented, crunchy, weeknight Italian dish featuring speculaas spice mix, inspired by Roman cuisine.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "",
+      "notes": "use store-bought or homemade mix"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 lb",
+      "notes": "trim and halve"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil for pasta cooking.",
+    "Cook 8 oz of pasta according to package instructions until al dente.",
+    "In a separate pan, heat 2 tbsp olive oil over medium-high heat.",
+    "Sauté the halved Brussels sprouts until caramelized, about 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fall",
+    "italian",
+    "pasta",
+    "roman",
+    "satisfying",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "fermented-crunchy-roman-vegetables-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-roman-vegetables-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "anti-inflammatory",
+    "region": "roman",
+    "cuisineAdjective": "Roman",
+    "mainIngredient": "vegetables",
+    "descriptor": "Fermented Crunchy",
+    "dishForm": "Pasta"
+  }
+}
