@@ -1,0 +1,88 @@
+{
+  "title": "Fragrant Glazed Dates Amlou Tagine",
+  "description": "A kid-friendly Moroccan dish featuring dairy-free friendly amlou and raspberry jam in a yeasty, shaggy tagine that's perfect for breakfast.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": 10
+    },
+    {
+      "name": "aubergines",
+      "amount": 2
+    },
+    {
+      "name": "cranberries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mantecare-emulsify (manteque)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Soak dates in hot water for 5 min, then chop into chunks.",
+    "Slice aubergines lengthwise and brush with olive oil. Roast at 200C for 15-20 mins until tender.",
+    "In a pan, combine mantecare-emulsify, cranberries, dates, vanilla extract, paprika, and roasted aubergine slices. Simmer gently.",
+    "Drizzle with raspberry jam before serving hot or warm.",
+    "Garnish with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "glazed-dates",
+    "kid-friendly",
+    "manteque",
+    "moroccan-dish",
+    "raspberry-jam",
+    "shaggy",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "fragrant-glazed-dates-amlou-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-glazed-dates-amlou-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:27:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "raspberry jam",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Dates",
+    "descriptor": "Fragrant Glazed",
+    "dishForm": "Amlou Tagine"
+  }
+}
