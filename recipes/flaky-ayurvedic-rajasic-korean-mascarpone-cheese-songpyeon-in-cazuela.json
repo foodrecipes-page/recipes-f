@@ -1,0 +1,78 @@
+{
+  "title": "Flaky, Ayurvedic-Rajasic Korean Mascarpone Cheese Songpyeon in Cazuela",
+  "description": "A fresh, flaky, hangover-cure dish featuring mascarpone cheese formed into songpyeon and cooked in a cazuela.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": 100
+    },
+    {
+      "name": "katsuramuki-cut glutinous rice cakes",
+      "amount": 4
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat cazuela to medium heat.",
+    "Mix mascarpone cheese with flaxseed meal and salt until smooth.",
+    "Shape the mascarpone mixture into four katsuramuki-cut glutinous rice cakes.",
+    "Gently place each shaped piece in the cazuela.",
+    "Spritz a few drops of sesame oil over the top of the songpyeon for shine.",
+    "Cook on medium heat, turning occasionally until golden brown and warm to the touch.",
+    "Serve immediately as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic",
+    "flaky",
+    "hangover-cure",
+    "korean-dish",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 12
+  },
+  "slug": "flaky-ayurvedic-rajasic-korean-mascarpone-cheese-songpyeon-in-cazuela",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-ayurvedic-rajasic-korean-mascarpone-cheese-songpyeon-in-cazuela",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:25:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mascarpone",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Mascarpone Cheese",
+    "descriptor": "Flaky, Ayurvedic-Rajasic",
+    "dishForm": "Songpyeon in Cazuela"
+  }
+}
