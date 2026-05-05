@@ -1,0 +1,102 @@
+{
+  "title": "Fermented Dense Russian Flour Blini",
+  "description": "These dense, chewy blini are made with wholemeal flour and fermented with a kimchi-based mixture that adds a tangy, slightly sour flavor. They are perfect for a hearty brunch or breakfast meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher",
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "2 cups",
+      "notes": "use a strong wholemeal flour with a high protein content"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "use a spicy kimchi for extra flavor"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast is best for fermentation"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "a little sugar helps the fermentation process"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "use large eggs for the best texture"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality, salted butter for the best flavor"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the wholemeal flour, yeast, and salt. Whisk to combine until the yeast is evenly distributed.",
+    "In a separate bowl, whisk together the water, kimchi, sugar, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 5-10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Cook the blini for 1-2 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the blini warm with your favorite toppings, such as sour cream, jam, or caviar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "fermented",
+    "gluten",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fermented-dense-russian-flour-blini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-russian-flour-blini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "flour",
+    "descriptor": "fermented dense",
+    "dishForm": "Blini"
+  }
+}
