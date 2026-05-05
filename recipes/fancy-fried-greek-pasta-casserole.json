@@ -1,0 +1,136 @@
+{
+  "title": "Fancy Fried Greek Pasta Casserole",
+  "description": "A crispy, savory Greek dish featuring jerked ground beef and deep-fry tofu, perfect for a high-protein meal. This show-off pasta casserole is a great option for special occasions.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Greek pasta",
+      "amount": "12 ounces",
+      "notes": "such as gigantes"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Greek pasta according to the package instructions and set aside.",
+    "In a large skillet, heat 1 tablespoon of unsalted butter over medium-high heat. Add the diced red onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the ground beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the jerk seasoning to the skillet and cook for 1 minute, until fragrant.",
+    "Add the tofu to the skillet and cook until golden brown, about 3-4 minutes.",
+    "In a large bowl, combine the cooked pasta, ground beef mixture, and feta cheese. Mix well to combine.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt. Add the shredded parmesan cheese and mix until well combined.",
+    "Add the egg mixture to the pasta mixture and stir until well combined.",
+    "Transfer the pasta mixture to a deep frying pan or a deep fryer and fry until golden brown and crispy, about 3-4 minutes.",
+    "Remove the casserole from the oil and place it on a paper towel-lined plate to drain any excess oil.",
+    "Transfer the casserole to a serving dish and top with kalamata olives and a sprinkle of oregano.",
+    "Serve hot and enjoy!",
+    "Sprinkle with thyme and parmesan cheese before serving, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "tofu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 43,
+    "carbs": 70,
+    "fat": 34
+  },
+  "slug": "fancy-fried-greek-pasta-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fancy-fried-greek-pasta-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "jerk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "greek",
+    "mainIngredient": "pasta",
+    "descriptor": "fancy fried",
+    "dishForm": "casserole"
+  }
+}
