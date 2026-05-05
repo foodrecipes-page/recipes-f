@@ -1,0 +1,106 @@
+{
+  "title": "Flaky Polish Beans Tagine",
+  "description": "A hearty, comforting dish featuring flaky, tender white beans in a flavorful tagine-cooked sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried navy beans",
+      "amount": "1 pound",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the olive oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the caraway seeds and cook for 1 minute, stirring constantly.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the dried navy beans, salt, and pepper, and stir to combine.",
+    "Add the water and bring to a boil.",
+    "Transfer the saucepan to a preheated tagine or Dutch oven and cover.",
+    "Bake at 300°F (150°C) for 45 minutes, or until the beans are tender.",
+    "Stir in the chopped parsley and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beans",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "flaky-polish-beans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-polish-beans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dried white beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beans",
+    "descriptor": "Flaky",
+    "dishForm": "Tagine"
+  }
+}
