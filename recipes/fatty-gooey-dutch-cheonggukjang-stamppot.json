@@ -1,0 +1,125 @@
+{
+  "title": "Fatty gooey Dutch Cheonggukjang Stamppot",
+  "description": "A creamy, spicy, and kid-friendly twist on the classic Dutch dish, Stamppot, featuring Cheonggukjang and fermented kimchi. A great option for vegetarians and those looking for a vegan-friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "1 cup",
+      "notes": "Use store-bought or homemade."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Granny Smith apples",
+      "amount": "2 medium",
+      "notes": "Peel, core, and dice."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Dice."
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "2 tbsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Cashew cream",
+      "amount": "2 tbsp",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add grated carrot and cook until tender, about 5 minutes.",
+    "Add Cheonggukjang and cook, stirring constantly, until heated through, about 5 minutes.",
+    "Add potatoes, apples, caraway seeds, and miso paste. Stir to combine.",
+    "Season with salt and pepper to taste.",
+    "If using, top with Panko breadcrumbs and/or cashew cream.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "fall",
+    "kid-friendly",
+    "spicy",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 14,
+    "carbs": 96,
+    "fat": 24
+  },
+  "slug": "fatty-gooey-dutch-cheonggukjang-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-gooey-dutch-cheonggukjang-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "fatty gooey",
+    "dishForm": "Stamppot"
+  }
+}
