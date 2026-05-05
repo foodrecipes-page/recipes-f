@@ -1,0 +1,132 @@
+{
+  "title": "Fermented, Gooey, Energizing Mediterranean Beef Tagine",
+  "description": "A rich and savory beef tagine made with fermented vegetables and a hint of spice, perfect for a cozy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock cubes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fennel",
+      "amount": "1 bulb",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 145°F (63°C) using a sous-vide machine.",
+    "Season the beef stock cubes with salt and black pepper.",
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the shallots and garlic and cook until softened, about 5 minutes.",
+    "Add the fennel and carrots and cook until they begin to soften, about 5 minutes.",
+    "Add the cumin, coriander, and red pepper flakes and cook for 1 minute.",
+    "Add the red wine vinegar and beef stock cubes and stir to combine.",
+    "Bring the mixture to a simmer and cook until the vegetables are tender, about 20 minutes.",
+    "Stir in the pine nuts and chopped parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fermented-gooey-energizing-mediterranean-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-energizing-mediterranean-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef",
+    "descriptor": "fermented, gooey, energizing",
+    "dishForm": "Tagine"
+  }
+}
