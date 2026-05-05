@@ -1,0 +1,86 @@
+{
+  "title": "Fry-Grind-Rice-Khao-Khua Bitter Glassy-jelly Pilaf",
+  "description": "This dish combines fry-grind-rice-khao-khua with sauerkraut for a post-workout Venezuelan delicacy, featuring a balanced mix of proteins and carbs.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup Fry-Grind-Rice-Khao-Khua",
+      "amount": "cup"
+    },
+    {
+      "name": "1 can (14 oz) sauerkraut, drained and rinsed",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": ""
+    },
+    {
+      "name": "pinch of black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onion and garlic, sauté for about 5 minutes until soft.",
+    "Stir in cumin, salt, and pepper. Cook for another minute.",
+    "Fold in Fry-Grind-Rice-Khao-Khua and sauerkraut.",
+    "Simmer for about 10 minutes, stirring occasionally.",
+    "Serve hot as a side dish or main meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "sauerkraut-based",
+    "vegan-friendly",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "fry-grind-rice-khao-khua-bitter-glassy-jelly-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-grind-rice-khao-khua-bitter-glassy-jelly-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:13:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sauerkraut",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Bitter",
+    "mainIngredient": "Glassy-jelly",
+    "descriptor": "Fry-Grind-Rice-Khao-Khua",
+    "dishForm": "Pilaf"
+  }
+}
