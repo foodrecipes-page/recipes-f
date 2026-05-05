@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Molten Jamaican Lamb Stir-Fry",
+  "description": "A spicy, low-glycemic-friendly fermented molten dish featuring a flavorful Jamaican lamb stir-fry with crunchy lettuce. Pair with a side of warm pita bread.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "Choose lean lamb for lower fat content."
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Customize to taste."
+    },
+    {
+      "name": "Fermented napa cabbage",
+      "amount": "1 head",
+      "notes": "For a fermented twist, use napa cabbage and ferment it for 1-2 days before using."
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Fresh or fermented, crisp lettuce adds crunch."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for a flavorful punch."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate for added depth."
+    },
+    {
+      "name": "Soy sauce (low-sodium)",
+      "amount": "1 tablespoon",
+      "notes": "Substitute with coconut aminos for a low-sodium option."
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste for desired heat level."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use to enhance flavors."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh or dried, adds a touch of earthiness."
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat. ",
+    "Add the minced garlic and grated ginger, sautéing for 1-2 minutes or until fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "low-glycemic",
+    "one-pan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 36
+  },
+  "slug": "fermented-molten-jamaican-lamb-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-molten-jamaican-lamb-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "lettuce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "lamb",
+    "descriptor": "fermented molten",
+    "dishForm": "Stir-fry"
+  }
+}
