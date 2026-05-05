@@ -1,0 +1,87 @@
+{
+  "title": "Festive Crumbly Katsudon Lacquerware-Bowl",
+  "description": "A buttery, crumbly Japanese dish featuring ground clove and sous-vide cooking for a festive katsudon bowl in a lacquerware-bowl.",
+  "cuisine": "Japanese (Kansai)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": 120
+    },
+    {
+      "name": "soba noodles",
+      "amount": 80
+    },
+    {
+      "name": "shiitake mushrooms, finely chopped",
+      "amount": 50
+    },
+    {
+      "name": "ground clove",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce, to taste",
+      "amount": "as needed"
+    },
+    {
+      "name": "rice vinegar, to taste",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add ground pork and stir-fry until browned.",
+    "Fold in finely chopped mushrooms and ground clove.",
+    "Mix with ginger paste and soy sauce, adjust seasoning with rice vinegar as needed.",
+    "Serve hot soba noodles alongside the katsudon mixture in a lacquerware-bowl.",
+    "Garnish with green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "egg-free-friendly",
+    "festive",
+    "katsudon",
+    "lacquerware-bowl",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "festive-crumbly-katsudon-lacquerware-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-crumbly-katsudon-lacquerware-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:52:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "ground clove",
+    "diet": "egg-free",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Butter",
+    "descriptor": "Festive Crumbly",
+    "dishForm": "Lacquerware-Bowl Katsudon"
+  }
+}
