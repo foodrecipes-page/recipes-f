@@ -1,0 +1,126 @@
+{
+  "title": "Flaky Peppery Algerian Coconut Milk Tagine",
+  "description": "A savory Algerian dish with the perfect balance of spice and flaky texture, featuring unsweetened coconut milk. This recipe is perfect for a sick day, and can be cooked in under an hour.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the chicken, cumin, paprika, black pepper, and salt. Cover and refrigerate for at least 30 minutes.",
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-7 minutes.",
+    "Transfer the chicken to a large pot or Dutch oven. Add the coconut milk, chicken broth, flour, and pumpkin seeds. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "While the stew is cooking, prepare the Agave leaves by cutting them into large pieces and removing the stems.",
+    "After the stew has cooked for 20-25 minutes, carefully place 2-3 Agave leaves in the pot, depending on their size.",
+    "Cover the pot with a lid and continue to simmer for another 5-10 minutes. The Agave leaves should be tender and flaky.",
+    "To serve, place a piece of Agave-leaf-wrapped chicken on each plate and garnish with parsley and cilantro.",
+    "Serve hot, with additional black pepper to taste.",
+    "Garnish with additional pumpkin seeds, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "coconut-milk",
+    "flaky",
+    "peppery",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 32
+  },
+  "slug": "flaky-peppery-algerian-coconut-milk-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-peppery-algerian-coconut-milk-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "coconut milk",
+    "descriptor": "flaky peppery",
+    "dishForm": "tagine"
+  }
+}
