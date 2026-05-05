@@ -1,0 +1,81 @@
+{
+  "title": "Funky Aerated King Prawns in Cast-Iron Skillet",
+  "description": "A vibrant and light monsoon-inspired dish featuring raw king prawns, infused with a blend of aromatic vegetables and seeds, cooked to perfection in a cast-iron skillet for an unforgettable meal.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large king prawns",
+      "amount": "each"
+    },
+    {
+      "name": "1/2 cup chopped red onions",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup chopped green onions (scallions)",
+      "amount": "each"
+    },
+    {
+      "name": "1 tbsp toasted sesame seeds",
+      "amount": "each"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "each"
+    },
+    {
+      "name": "1 tbsp coconut oil",
+      "amount": "each"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine red onions, green onions, sesame seeds in a small bowl.",
+    "In a large skillet over medium heat, add coconut oil and cumin. Sauté until fragrant, about 30 seconds.",
+    "Add king prawns to the skillet in batches; cook for 2 minutes per side or until golden brown.",
+    "Stir in red onion mixture. Cook for an additional minute to meld flavors.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "funky",
+    "monsoon-australian",
+    "raw-prawns",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 24
+  },
+  "slug": "funky-aerated-king-prawns-in-cast-iron-skillet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-aerated-king-prawns-in-cast-iron-skillet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:03:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "raw king prawns",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Aerated",
+    "mainIngredient": "King prawns",
+    "descriptor": "Funky",
+    "dishForm": "Skillet"
+  }
+}
