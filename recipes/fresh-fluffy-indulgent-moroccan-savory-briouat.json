@@ -1,0 +1,112 @@
+{
+  "title": "Fresh Fluffy Indulgent Moroccan Savory Briouat",
+  "description": "Delicious flaky pastries filled with a savory summer savory and bhuna mixture, ideal for a light meal or snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried Summer Savory Leaves",
+      "amount": "2 tablespoons, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastries"
+    },
+    {
+      "name": "Bhuna",
+      "amount": "1 cup, store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten (for egg wash)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup, plain, low-fat",
+      "notes": "for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of crumbled summer savory and a tablespoon of bhuna mixture in the center of each circle.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Fold the pastry in half to form a triangle or a square, pressing the edges to seal.",
+    "Brush the tops of the pastries with ghee or vegetable oil.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm or at room temperature, with a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "briouat",
+    "flaky-pastry",
+    "moroccan",
+    "one-pan",
+    "savory",
+    "snack",
+    "summer-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fresh-fluffy-indulgent-moroccan-savory-briouat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-indulgent-moroccan-savory-briouat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Savory",
+    "descriptor": "Fresh Fluffy Indulgent",
+    "dishForm": "Briouat"
+  }
+}
