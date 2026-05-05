@@ -1,0 +1,69 @@
+{
+  "title": "Funky Crunchy Thai Southern Coconut Cream Kanom Jeen",
+  "description": "A crunchy and flavorful weeknight Thai dish featuring coconut cream, pressure-cooked without onion or garlic for a unique flavor profile.",
+  "cuisine": "Thai (Southern)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": 2
+    },
+    {
+      "name": "glutinous rice flour",
+      "amount": 100
+    },
+    {
+      "name": "sugar",
+      "amount": 50
+    },
+    {
+      "name": "mango slices",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Mix coconut milk, glutinous rice flour, and sugar in a bowl.",
+    "Pour the mixture into a pot lined with a fine mesh strainer to catch lumps.",
+    "Pressure-cook on high heat for 5 minutes.",
+    "Let it cool slightly before serving over garnished plates or bowls.",
+    "Serve with mango slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream",
+    "crunchy",
+    "kanom-jeen",
+    "noonion",
+    "onigiri",
+    "thai-southern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 62,
+    "fat": 18
+  },
+  "slug": "funky-crunchy-thai-southern-coconut-cream-kanom-jeen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crunchy-thai-southern-coconut-cream-kanom-jeen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T09:45:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "coconut cream",
+    "diet": "no-onion-no-garlic",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai Southern",
+    "mainIngredient": "Coconut Cream",
+    "descriptor": "Funky Crunchy",
+    "dishForm": "Funky Crunchy Kanom Jeen"
+  }
+}
