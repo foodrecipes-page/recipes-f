@@ -1,0 +1,98 @@
+{
+  "title": "Fresh Smoked Venezuelan Beef Skewers",
+  "description": "A fresh and energizing Venezuelan dish featuring smoked beef, red wine jelly, and served on a tagliere, perfect for a snack or dinner",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "use tender cuts"
+    },
+    {
+      "name": "Red wine jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic-infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together smoked paprika, garlic-infused oil, lime juice, salt, and black pepper",
+    "Add the beef strips to the bowl and toss to coat evenly",
+    "Thread the beef strips onto skewers, leaving a small space between each piece",
+    "Smoke the skewers over wood chips for 10 minutes",
+    "Grill the skewers for an additional 5 minutes, or until cooked to desired doneness",
+    "Serve the skewers on a tagliere with red wine jelly and garnished with chopped fresh cilantro",
+    "Drizzle with additional garlic-infused oil if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "grilled-meats",
+    "smoked-beef",
+    "south-american-food",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fresh-smoked-venezuelan-beef-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-smoked-venezuelan-beef-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:08:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "red wine jelly",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Fresh Smoked",
+    "dishForm": "Skewers"
+  }
+}
