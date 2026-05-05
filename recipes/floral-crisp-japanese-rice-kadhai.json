@@ -1,0 +1,89 @@
+{
+  "title": "Floral-Crisp Japanese Rice Kadhai",
+  "description": "A floral and crispy Japanese rice dish infused with light rum for a brunch-mood meal that's vegetarian-friendly.",
+  "cuisine": "Japanese (Kyushu)",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": 200,
+      "notes": "cooled"
+    },
+    {
+      "name": "light rum",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded nori seaweed",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "ginger puree",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions, thinly sliced",
+      "amount": null
+    },
+    {
+      "name": "bok choy, finely chopped",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the rice in a kadhai until crispy.",
+    "Mix light rum with sugar and bring to a simmer in a small saucepan.",
+    "Add rice vinegar and ginger puree, stir well.",
+    "Drizzle mixture over cooled rice.",
+    "Sprinkle with shredded nori seaweed and sesame seeds.",
+    "Top with scallions for garnish if desired.",
+    "Serve hot as part of a brunch meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flower-dish",
+    "kabocha-friendly",
+    "sweet-rice"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 51,
+    "fat": 6
+  },
+  "slug": "floral-crisp-japanese-rice-kadhai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crisp-japanese-rice-kadhai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:29:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "light rum",
+    "diet": "vegetarian",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Rice",
+    "descriptor": "Floral-Crisp",
+    "dishForm": "Bowl"
+  }
+}
