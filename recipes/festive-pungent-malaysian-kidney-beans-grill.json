@@ -1,0 +1,121 @@
+{
+  "title": "Festive Pungent Malaysian Kidney Beans Grill",
+  "description": "A shaggy, festive Malaysian dish featuring kidney beans, grilled to perfection. This low-carb-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a grill pan over medium-high heat.",
+    "Add galangal, garlic, and ginger; saut\u00134 until fragrant.",
+    "Add lemongrass and chili flakes; cook for 1 minute.",
+    "Add kidney beans, fish sauce, and lime juice; stir to combine.",
+    "Cook for 5 minutes or until the beans are slightly charred.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve over cauliflower rice for a low-carb option.",
+    "Adjust the level of spiciness to your liking by adding more chili flakes.",
+    "Add some heat with a dash of sriracha for an extra kick.",
+    "Experiment with different types of protein like chicken or tofu for added variety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "festive-pungent-malaysian-kidney-beans-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-pungent-malaysian-kidney-beans-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "kidney beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "festive pungent",
+    "dishForm": "Grill"
+  }
+}

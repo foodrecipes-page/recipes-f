@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Kenyan Cabbage Ssam",
+  "description": "A flavorful, fermented dish featuring cabbage leaves, inspired by traditional Kenyan cuisine, perfect for a quick lunch or dinner, and suitable for Jain diets.",
+  "cuisine": "kenyan",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 medium heads, shredded",
+      "notes": ""
+    },
+    {
+      "name": "coconut water",
+      "amount": "1 cup",
+      "notes": "use for fermentation liquid"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/2 cup",
+      "notes": "for tanginess"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, ground",
+      "notes": "for flavor"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "12-15",
+      "notes": "preferably rice-based"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together coconut water, rice vinegar, salt, turmeric, black pepper, and ginger to create the fermentation liquid.",
+    "Add the shredded cabbage to the bowl and massage the liquid into the cabbage until it's evenly coated.",
+    "Cover the bowl with a lid or plastic wrap and let it ferment at room temperature (around 75°F) for 3-5 days, or until slightly tangy and slightly fermented.",
+    "Once fermented, transfer the cabbage to an airtight container or jar, leaving some space for expansion.",
+    "Store the fermented cabbage in the refrigerator to slow down the fermentation process.",
+    "When ready to serve, lay a ssam wrap flat and add a few leaves of the fermented cabbage.",
+    "Fold the bottom edge of the wrap up over the cabbage, then fold in the sides and roll the wrap up tightly to form a neat package.",
+    "Repeat with the remaining cabbage and wraps.",
+    "Serve the fermented cabbage ssam with your favorite accompaniments, such as kimchi or pickled carrots.",
+    "Enjoy your delicious, fermented Kenyan cabbage ssam!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "dinner",
+    "fermented",
+    "gluten-free",
+    "kenyan",
+    "low-carb",
+    "lunch",
+    "ssam",
+    "vegan",
+    "vietnamese",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "fermented-kenyan-cabbage-ssam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-kenyan-cabbage-ssam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cabbage",
+    "descriptor": "fermented",
+    "dishForm": "ssam"
+  }
+}

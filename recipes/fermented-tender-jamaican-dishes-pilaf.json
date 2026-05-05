@@ -1,0 +1,98 @@
+{
+  "title": "Fermented Jamaican Pilaf",
+  "description": "A deliciously fermented and tender Jamaican dish made with dark brown soft sugar, tempering-chocolate, and served in scallop shells. This dish is perfect for a romantic dinner.",
+  "cuisine": "Jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallop shells",
+      "amount": "1 dozen",
+      "notes": ""
+    },
+    {
+      "name": "Dark brown soft sugar",
+      "amount": "2 cups",
+      "notes": "Use high-quality, unrefined sugar for best flavor."
+    },
+    {
+      "name": "Tempering-chocolate",
+      "amount": "1 cup",
+      "notes": "Melted and cooled, for tempering."
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Short-grain rice works best."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat coconut milk for best flavor."
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "Cinnamon, nutmeg, and a pinch of salt."
+    },
+    {
+      "name": "Fermented vinegar",
+      "amount": "2 tbsp",
+      "notes": "Use a good-quality, fermented vinegar."
+    },
+    {
+      "name": "Whey",
+      "amount": "1 cup",
+      "notes": "Fresh whey from yogurt or cheese."
+    },
+    {
+      "name": "Herbs",
+      "amount": "1 tsp",
+      "notes": "Fresh thyme and parsley."
+    }
+  ],
+  "instructions": [
+    "Combine rice, coconut milk, water, and spices in a saucepan. Bring to a boil, then reduce heat to low and simmer for 15 minutes.",
+    "In a separate bowl, mix together whey, fermented vinegar, and tempering-chocolate. Whisk until smooth and set aside.",
+    "After the rice has finished cooking, fluff it with a fork and stir in the tempering-chocolate mixture.",
+    "Transfer the rice mixture to the scallop shells, then sprinkle with herbs and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "fermented",
+    "gluten-free",
+    "jamaican",
+    "main-course",
+    "romantic",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fermented-tender-jamaican-dishes-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-jamaican-dishes-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dishes",
+    "descriptor": "fermented tender",
+    "dishForm": "Pilaf"
+  }
+}

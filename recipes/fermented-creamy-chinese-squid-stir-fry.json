@@ -1,0 +1,106 @@
+{
+  "title": "Fermented Creamy Chinese Squid Stir-Fry",
+  "description": "A creamy, fermented, and energizing Chinese dish featuring white chocolate chips and salt-and-pepper squid, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "12 oz",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "White chocolate chips",
+      "amount": "2 oz",
+      "notes": "Low-glycemic alternative"
+    },
+    {
+      "name": "Fermented bean paste",
+      "amount": "2 tbsp",
+      "notes": "Mung bean paste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Low-fat, full-fat, or non-dairy alternative"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute, until fragrant.",
+    "Add squid tubes and stir-fry for 2-3 minutes, until they start to change color.",
+    "Add fermented bean paste, salt, and black pepper. Stir-fry for another minute.",
+    "Pour in coconut milk and stir-fry for 2-3 minutes, until the sauce thickens.",
+    "Stir in white chocolate chips until melted and creamy.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "fermented-creamy-chinese-squid-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-chinese-squid-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "squid",
+    "descriptor": "Fermented creamy",
+    "dishForm": "Stir-fry"
+  }
+}
