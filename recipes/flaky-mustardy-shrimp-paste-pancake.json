@@ -1,0 +1,82 @@
+{
+  "title": "Flaky Mustardy Shrimp Paste Pancake",
+  "description": "A nut-free-friendly brunch dish featuring stir-fried shrimp paste in a flaky pancake, perfect for those looking to add some spicy and savory elements to their morning meal.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": 100
+    },
+    {
+      "name": "soy sauce",
+      "amount": 25
+    },
+    {
+      "name": "rice flour",
+      "amount": 200
+    },
+    {
+      "name": "sesame oil",
+      "amount": 15
+    },
+    {
+      "name": "ginger paste",
+      "amount": 25
+    },
+    {
+      "name": "green onions",
+      "amount": 30
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "pepper",
+      "amount": 5
+    }
+  ],
+  "instructions": [
+    "Mix shrimp paste with soy sauce, ginger paste, salt, and pepper.",
+    "Add sesame oil to the mixture and mix well.",
+    "In a separate bowl, combine rice flour with water until smooth.",
+    "Heat a non-stick pan over medium heat. Pour in the flour mixture and cook for 2 minutes on each side or until golden brown.",
+    "Gently fold in chopped green onions into the cooked pancake and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mustard-flavored",
+    "nut-free",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 65,
+    "fat": 15
+  },
+  "slug": "flaky-mustardy-shrimp-paste-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-mustardy-shrimp-paste-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:23:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "shrimp paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Shrimp Paste",
+    "descriptor": "Flaky",
+    "dishForm": "Pancake"
+  }
+}
