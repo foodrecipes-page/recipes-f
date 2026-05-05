@@ -1,0 +1,98 @@
+{
+  "title": "fermented croatian knafeh brioche",
+  "description": "a vegan-friendly, crumbly, monsoon-inspired croatian dish featuring knafeh, brioche, and a bain-marie",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "knafeh",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "vegan milk",
+      "amount": "1 cup",
+      "notes": "warm, for yeast activation"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "1 tablespoon",
+      "notes": "for dusting brioche"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tablespoons",
+      "notes": "for knafeh mixture"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "for knafeh mixture"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "remove from bain-marie and let cool completely before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 105,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "fermented-croatian-knafeh-brioche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-croatian-knafeh-brioche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "knafeh",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "knafeh",
+    "descriptor": "fermented",
+    "dishForm": "brioche"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Fancy Ethiopian Penne Pasta Dabo",
+  "description": "A creamy, earthy, ovo-vegetarian-friendly pasta dish inspired by Ethiopian cuisine. The kombu-cold-extract adds a rich, velvety texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spices",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Niter kibbeh",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to package instructions until al dente.",
+    "In a separate saucepan, melt the butter over medium heat and saut\u00046 the onion, garlic, and ginger until the onion is translucent.",
+    "Add the red lentils and vegetable broth to the saucepan and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the kombu to the saucepan and let it steep for 5 minutes, then remove the kombu and blend the sauce until smooth.",
+    "In a small saucepan, melt 2 tbsp of butter over medium heat and add the spices, paprika, and black pepper. Let it simmer for 1 minute, then add the heavy cream and stir to combine.",
+    "Add the cooked penne pasta to the cream sauce and toss until the pasta is well coated.",
+    "Stir in the niter kibbeh to give the pasta a rich, creamy texture.",
+    "Season with salt to taste.",
+    "Serve the Fancy Ethiopian Penne Pasta Dabo hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Refrigerate any leftovers and reheat as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "date-night",
+    "ethiopian",
+    "lentil-based",
+    "ovo-vegetarian",
+    "pasta-dish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "fancy-ethiopian-penne-pasta-dabo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fancy-ethiopian-penne-pasta-dabo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "penne pasta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Penne pasta",
+    "descriptor": "Earthy velvety",
+    "dishForm": "Dabo"
+  }
+}
