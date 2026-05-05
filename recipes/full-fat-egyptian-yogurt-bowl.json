@@ -1,0 +1,62 @@
+{
+  "title": "Full Fat Egyptian Yogurt Bowl",
+  "description": "A post-workout Egyptian dish featuring full fat yogurt, manteca and whole30-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ful medames",
+      "amount": "1 1/2 cups",
+      "notes": "Cooked fava beans"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat 2 tablespoons of manteca over medium heat.",
+    "Add the ful medames and stir to combine.",
+    "Cook for 2 minutes, stirring constantly.",
+    "In a separate bowl, mix together the full fat yogurt, lemon juice, and salt.",
+    "Add the cooked ful medames mixture to the yogurt bowl and stir to combine.",
+    "Top with chopped parsley and a sprinkle of sumac.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "egyptian",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "full-fat-egyptian-yogurt-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/full-fat-egyptian-yogurt-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "yogurt",
+    "descriptor": "full fat",
+    "dishForm": "Bowl"
+  }
+}

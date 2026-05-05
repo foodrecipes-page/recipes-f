@@ -1,0 +1,98 @@
+{
+  "title": "Fermented Tender Australian Mackerel Bake",
+  "description": "A weeknight Australian dish featuring fermented mackerel, perfect for a high-protein meal.",
+  "cuisine": "australian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Mackerel Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the mackerel fillets with salt and black pepper.",
+    "Mix the fish sauce, brown sugar, rice vinegar, ginger paste, and sesame oil in a small bowl.",
+    "Place the mackerel fillets on the prepared baking sheet and brush with the fermented mixture.",
+    "Let it rest at room temperature for 30 minutes.",
+    "Bake for 12 minutes, or until the mackerel is cooked through.",
+    "Garnish with green onions and cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fermented",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "slug": "fermented-tender-australian-mackerel-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-australian-mackerel-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "mackerel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "mackerel",
+    "descriptor": "fermented tender",
+    "dishForm": "bake"
+  }
+}

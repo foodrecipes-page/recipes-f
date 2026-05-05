@@ -1,0 +1,99 @@
+{
+  "title": "Floral Flaky Australian Dulce de Leche Pie",
+  "description": "A sweet, creamy, and flaky Australian-inspired pie featuring dulce de leche and floral notes. Perfect for a romantic dinner date-night.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "unsweetened and finely ground"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "white sugar for flaky crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cold and cubed for flaky crust"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 1/2 cups",
+      "notes": "for dulce de leche"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp",
+      "notes": "adds subtle floral notes"
+    },
+    {
+      "name": "rose petal powder",
+      "amount": "1 tsp",
+      "notes": "for floral flavor and garnish"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "unrefined sea salt for balance"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a mason jar with parchment paper, leaving some overhang for easy removal.",
+    "In a large bowl, whisk together almond flour, granulated sugar, and salt.",
+    "Add cubed butter and use a pastry blender or fingers to work into a crumbly mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "ayurvedic",
+    "date-night",
+    "dessert",
+    "floral",
+    "high-end",
+    "romantic",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "floral-flaky-australian-dulce-de-leche-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-flaky-australian-dulce-de-leche-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "dulce de leche",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "floral flaky",
+    "dishForm": "pie"
+  }
+}

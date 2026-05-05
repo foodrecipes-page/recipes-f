@@ -1,0 +1,125 @@
+{
+  "title": "Funky Delight Mediterranean Vegetables Skillet",
+  "description": "A crispy, one-pot Mediterranean dish featuring a twist of light rum and fermented flavors. Perfect for a weeknight dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "cherry tomatoes halved"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "light rum",
+      "amount": "1 tablespoon",
+      "notes": "added during cooking"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red onion and cook until golden brown, about 5 minutes.",
+    "Add the sliced red bell pepper and cook for an additional 3-4 minutes.",
+    "Add the sliced zucchini and cherry tomatoes, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the chopped artichoke hearts, sun-dried tomatoes, minced garlic, and cooked vegetables to the skillet.",
+    "Stir in the light rum and cook for 1-2 minutes, until the liquid has reduced slightly.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to the oven and bake at 400°F for 15-20 minutes, or until the top is crispy.",
+    "Remove the skillet from the oven and top with crumbled feta cheese and chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "mediterranean",
+    "one-pan",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "funky-delight-mediterranean-vegetables-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-delight-mediterranean-vegetables-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "light rum",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Funky Delight",
+    "dishForm": "Skillet"
+  }
+}
