@@ -1,0 +1,99 @@
+{
+  "title": "Fermented Indulgent Brazilian Bread Flour Gratin",
+  "description": "A rich, molten Brazilian-style gratin featuring fermented bread flour and a touch of spice. Perfect for a indulgent dinner or dessert.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Sugar substitute (e.g. stevia)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "Gruy\u00100re cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Piment\u00138on flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine bread flour, water, sugar substitute, yeast, and salt. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it ferment in a warm place for 1 hour.",
+    "Preheat the oven to 425\u000430F (220\u000430C).",
+    "Punch down the dough and roll it out into a 1/4-inch thick circle. Transfer the dough to a greased 9x13-inch baking dish.",
+    "Mix the butter, egg yolks, Gruy\u00100re cheese, piment\u00138on flakes, and black pepper in a bowl until well combined.",
+    "Spread the cheese mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Bake the gratin for 20-25 minutes, or until the edges are golden brown and the center is still slightly jiggly.",
+    "Remove the gratin from the oven and immediately transfer it to an ice bath to stop the cooking process.",
+    "Once cooled, refrigerate the gratin for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "buttery",
+    "cheesy",
+    "fermented",
+    "gratin",
+    "indulgent",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "fermented-indulgent-brazilian-bread-flour-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-indulgent-brazilian-bread-flour-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "bread flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "bread flour",
+    "descriptor": "fermented indulgent",
+    "dishForm": "gratin"
+  }
+}

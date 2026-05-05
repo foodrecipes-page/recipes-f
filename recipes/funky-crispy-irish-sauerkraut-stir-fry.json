@@ -1,0 +1,81 @@
+{
+  "title": "Funky Crispy Irish Sauerkraut Stir-Fry",
+  "description": "A snappy and festive Irish dish featuring white sauerkraut, stir-fry, and whole30-friendly ingredients. Perfect for a quick weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "preferably Irish-style or thick-cut"
+    }
+  ],
+  "name": "Sour Cream or Greek Yogurt",
+  "amount": "",
+  "notes": "",
+  "},{": {
+    "type": "object",
+    "name": "Fresh Parsley",
+    "amount": "1/4 cup",
+    "notes": "chopped",
+    "__invalid_key__": "}"
+  },
+  "__invalid_key__": "}",
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the bacon and cook until crispy, about 4-5 minutes.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the white sauerkraut and cook for 2-3 minutes, until slightly browned.",
+    "Add the cooked bacon back into the skillet.",
+    "Stir in the fresh parsley, thyme, salt, and black pepper.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 15,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "funky-crispy-irish-sauerkraut-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crispy-irish-sauerkraut-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "funky crispy",
+    "dishForm": "stir-fry"
+  }
+}

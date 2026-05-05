@@ -1,0 +1,112 @@
+{
+  "title": "Fragrant Light Chinese Garam Masala Wrap",
+  "description": "A delicate, ayurvedic-sattvic-friendly wrap featuring garam masala, crispy lotus-leaf, and wok-hei. Perfect for a light lunch or snack.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaves",
+      "amount": "12",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup cooked",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1/2 cup diced",
+      "notes": "Pan-fried"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup chopped",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Raw"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "Cold-pressed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Himalayan pink"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium heat.",
+    "Brush the lotus leaves with sesame oil and set aside.",
+    "In the skillet, combine ginger, garlic, and garam masala. Cook for 2 minutes.",
+    "Add the tofu and cook until lightly browned.",
+    "Stir in soy sauce, honey, salt, and pepper. Cook for 1 minute.",
+    "Warm the lotus leaves in the skillet for 30 seconds on each side.",
+    "Spoon the rice into the center of each leaf, leaving a 1-inch border.",
+    "Add the tofu mixture on top of the rice.",
+    "Fold the leaves in a triangle and cook for 2 minutes on each side.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-fiber",
+    "one-pan",
+    "sattvic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "fragrant-light-chinese-garam-masala-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-light-chinese-garam-masala-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "garam masala",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "garam masala",
+    "descriptor": "Fragrant Light",
+    "dishForm": "Wrap"
+  }
+}

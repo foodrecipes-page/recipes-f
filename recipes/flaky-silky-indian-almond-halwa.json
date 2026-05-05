@@ -1,0 +1,101 @@
+{
+  "title": "Flaky Silky Indian Almond Halwa",
+  "description": "Buttery, silky Indian dessert featuring almond extract, perfect for monsoon season. Diabetic-friendly and made with brine-wet almonds on a salt block. ",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a salt block over medium heat.",
+    "Grind the almonds into a fine paste using a food processor.",
+    "Combine the almond paste, almond extract, ghee, and water in a large saucepan over medium heat.",
+    "Cook, stirring constantly, until the mixture thickens and turns light golden brown.",
+    "Add the salt, cardamom powder, and sugar, and cook for an additional 5 minutes.",
+    "Add the rose water and cook for 1 minute more.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Pour the halwa onto a greased plate and let it set at room temperature for 30 minutes.",
+    "Once set, cut the halwa into diamond-shaped pieces and serve warm or chilled.",
+    "Best served on a salt block, garnished with cardamom powder and a few almonds on top."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-halwa",
+    "diabetic-friendly",
+    "healthy-desserts",
+    "indian-cuisine",
+    "monsoon-special"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "flaky-silky-indian-almond-halwa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-silky-indian-almond-halwa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "almond extract",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "almonds",
+    "descriptor": "Flaky Silky",
+    "dishForm": "Halwa"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Fermented Chewy Argentinian Meal Empanadas",
+  "description": "A twist on traditional empanadas incorporating fermented flavors and a chewy texture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Crisp orange juice",
+      "amount": "2 cups",
+      "notes": "do not use from concentrate"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "fermentation aid"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "rapid rise"
+    }
+  ],
+  "}.": 1,
+  "}": "}.",
+  "{": "{",
+  "instructions": [
+    "Heat copper-pot over medium heat. ",
+    "Add water and orange juice, stirring to combine. ",
+    "Bring mixture to a boil. ",
+    "Reduce heat to low and simmer for 10 minutes. ",
+    "Add flour and salt; stir to form dough. ",
+    "Knead dough for 5 minutes. ",
+    "Let rest for 1 hour. ",
+    "Divide dough into 8 equal pieces. ",
+    "Roll each into a ball. ",
+    "Flatten into a disk. ",
+    "Place a tablespoon of ground beef in center. ",
+    "Fold empanada in half, pressing edges to seal. ",
+    "Heat a tablespoon of oil in copper-pot over medium heat. ",
+    "Cook empanadas 3-4 minutes per side. "
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermentation-low-sodium-weeknight-copper-pot-gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fermented-chewy-argentinian-meal-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-argentinian-meal-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "orange juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "meal",
+    "descriptor": "Fermented Chewy",
+    "dishForm": "Empanadas"
+  }
+}
