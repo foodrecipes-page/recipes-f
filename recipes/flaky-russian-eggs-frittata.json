@@ -1,0 +1,103 @@
+{
+  "title": "Flaky Russian Eggs Frittata",
+  "description": "A sweet, flaky, and delicious brunch dish featuring orange zest, stir-fry, and a low-carb twist. This recipe is perfect for a weekend breakfast or a special occasion.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated orange zest",
+      "amount": "2 tablespoons",
+      "notes": "Use organic oranges for best flavor."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "Use a low-carb sugar substitute for a keto version."
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "Full-fat works best."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and cook until lightly browned.",
+    "In a separate bowl, whisk together eggs, sugar, vanilla extract, and sea salt.",
+    "Add the ground almonds and cottage cheese to the bowl and mix until well combined.",
+    "Pour the egg mixture into the skillet with the browned butter and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the eggs are set and the edges are golden brown.",
+    "Remove from oven and sprinkle with orange zest and chopped parsley.",
+    "Let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dessert-like",
+    "keto-friendly",
+    "low-carb",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "flaky-russian-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-russian-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "orange zest",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "eggs",
+    "descriptor": "flaky",
+    "dishForm": "frittata"
+  }
+}

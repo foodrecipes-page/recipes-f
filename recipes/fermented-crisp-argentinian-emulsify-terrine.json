@@ -1,0 +1,112 @@
+{
+  "title": "Argentinian Fermented Crisp Terrine With Tomato Emulsion",
+  "description": "A halal-friendly, emulsified, fermented Argentinian dish featuring a crisp, tangy crust and a rich, savory interior. This recipe makes 6 servings and can be served as a snack or as a side dish for a romantic dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups stale bread",
+      "amount": "crumbbed",
+      "notes": "ideally day-old bread, halal certified"
+    },
+    {
+      "name": "1 cup tomato juice",
+      "amount": "homemade or store-bought",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "1/2 cup grated onion",
+      "amount": "about",
+      "notes": "add 1/4 cup more if you prefer a stronger onion flavor"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "optional, omit for a non-garlicky flavor"
+    },
+    {
+      "name": "1/2 cup chopped parsley",
+      "amount": "fresh",
+      "notes": "halal-sourced, organic recommended"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "smoked or sweet",
+      "notes": "optional, omit for a non-smoked flavor"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "kosher or sea",
+      "notes": "adjust to taste, omit for low-sodium diet"
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "freshly ground",
+      "notes": "omit for low-sodium diet"
+    },
+    {
+      "name": "1 cup vegemite or yeast extract",
+      "amount": "vegetarian",
+      "notes ": "optional, omit for a non-yeast flavor"
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "halal certified",
+      "notes ": "optional, omit for a non-dairy diet"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender or food processor, blend the bread, tomato juice, onion, garlic, paprika, salt, and black pepper until the mixture is smooth.",
+    "Transfer the mixture to a bowl and stir in the parsley, vegemite, and cheddar cheese (if using).",
+    "Transfer the mixture to a 9x13 inch baking dish and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "After 2 hours, remove the dish from the refrigerator and use a spatula to scrape the crust from the sides and bottom of the dish.",
+    "Transfer the crust to a baking sheet and bake in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "Once the crust is crispy, remove it from the oven and let it cool completely.",
+    "To serve, cut the cooled crust into 6 equal pieces and serve with the chilled terrine (the mixture in the baking dish).",
+    "Garnish with additional parsley, if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fermented",
+    "halal",
+    "romantic",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "fermented-crisp-argentinian-emulsify-terrine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crisp-argentinian-emulsify-terrine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "tomato juice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "emulsify",
+    "descriptor": "fermented crisp",
+    "dishForm": "Terrine"
+  }
+}

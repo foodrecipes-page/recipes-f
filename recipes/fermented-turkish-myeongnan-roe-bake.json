@@ -1,0 +1,96 @@
+{
+  "title": "Fermented Turkish Myeongnan-Roe Bake",
+  "description": "A savory and nutritious hangover cure featuring a sweet and spicy myeongnan-roe filling, all wrapped up in a comforting and easy-to-make fermented Turkish bake.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Myeongnan-Roe",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Red Pepper Paste",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "70g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the myeongnan-roe, Greek yogurt, fermented red pepper paste, olive oil, garlic, cumin, and salt. Mix until smooth.",
+    "Transfer the mixture to a greased 9x9 inch baking dish.",
+    "Bake for 25 minutes or until the edges are golden brown.",
+    "Remove from the oven and sprinkle with parsley.",
+    "Let it rest for 5 minutes before cutting into squares and serving.",
+    "Serve warm and enjoy!",
+    "Be careful as the fermented bake will be very hot when removed from the oven.",
+    "Let it cool down completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "low-glycemic",
+    "satisfying",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "fermented-turkish-myeongnan-roe-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-turkish-myeongnan-roe-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Fermented",
+    "dishForm": "Bake"
+  }
+}

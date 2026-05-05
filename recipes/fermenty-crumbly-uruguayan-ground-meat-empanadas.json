@@ -1,0 +1,68 @@
+{
+  "title": "Fermenty Crumbly Uruguayan Ground Meat Empanadas",
+  "description": "A flavorful, weeknight Uruguayan dish featuring fermented and crumbly ground meat, perfect for a quick dinner. Simply char-grill these savory empanadas and serve with a side salad.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio recommended"
+    }
+  ],
+  "instructions": [
+    "Combine beef, beef broth, lard or oil, onion, salt, black pepper, and coriander in a pan over medium heat. Cook until the meat is browned, breaking it up into small pieces as it cooks.",
+    "Add the flour and continue cooking for 1-2 minutes.",
+    "Stir in the paprika and garlic. Cook for an additional 1-2 minutes.",
+    "Let the mixture cool slightly before refrigerating it for at least 2 hours or overnight.",
+    "Preheat the oven to 375°F (190°C).",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough. You should be able to get about 12 circles.",
+    "Place a tablespoon of the meat mixture in the center of each dough circle. Brush the edges with egg and fold the dough over the meat, pressing the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with egg and use a sharp knife to make a few slits in the top of each empanada.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "While the empanadas are baking, mix the yeast, warm water, and apple cider vinegar in a small bowl. Let it sit for 5-10 minutes until frothy.",
+    "Remove the empanadas from the oven and let them cool for 5 minutes before serving.",
+    "Brush the tops of the empanadas with the yeast mixture and sprinkle with grated fermented cheddar cheese.",
+    "Serve the empanadas warm, garnished with chopped fresh herbs if desired.",
+    "Place any leftover empanadas in an airtight container and refrigerate for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "ground-beef",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "fermenty-crumbly-uruguayan-ground-meat-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermenty-crumbly-uruguayan-ground-meat-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ground coriander",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ground Meat",
+    "descriptor": "Fermenty Crumbly",
+    "dishForm": "Empanadas"
+  }
+}
