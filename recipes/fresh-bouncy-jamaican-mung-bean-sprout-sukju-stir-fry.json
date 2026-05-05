@@ -1,0 +1,87 @@
+{
+  "title": "Fresh Bouncy Jamaican Mung Bean Sprout Sukju Stir-fry",
+  "description": "A fresh and bouncy meal-prep jamaican dish featuring mung-bean-sprout-sukju and cooked in a ttukbaegi-earthenware-cook, lacto-vegetarian-friendly.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups mung bean sprouts",
+      "amount": "2"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup sukju (Jamaican rice wine vinegar)",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1"
+    },
+    {
+      "name": "1 tbsp oil",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over high heat.",
+    "Add the oil, onion, and garlic to the wok.",
+    "Sauté until the onions are translucent.",
+    "Add the bell pepper and cook for another minute.",
+    "Pour in the sukju and water, stir well.",
+    "Bring to a boil then reduce heat to low.",
+    "Stir in the salt and mung bean sprouts.",
+    "Simmer for 5 minutes or until the beans are tender but still have some bounce (qq).",
+    "Serve hot as a side dish with rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "lacto-vegetarian",
+    "mung-bean-sprout",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "fresh-bouncy-jamaican-mung-bean-sprout-sukju-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-bouncy-jamaican-mung-bean-sprout-sukju-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:38:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "Fresh Bouncy",
+    "dishForm": "Stir-fry"
+  }
+}
