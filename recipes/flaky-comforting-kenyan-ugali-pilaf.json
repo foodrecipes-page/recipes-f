@@ -1,0 +1,63 @@
+{
+  "title": "Flaky Kenyan Ugali Pilaf",
+  "description": "A comforting Kenyan dish with a flaky texture, infused with the warmth of yellow food coloring. Serve with your choice of dashi or stews.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use unbleached flour for best texture"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine yellow food coloring and 1 cup of warm water to create a vibrant mixture.",
+    "Add the mixture to a large bowl with 2 cups of cold water and whisk until smooth.",
+    "In a separate bowl, combine 2 cups of all-purpose flour and a pinch of salt.",
+    "Gradually add the dry ingredients to the wet ingredients, stirring until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and shape each into a flat disk.",
+    "Place the disks on a pressure cooker's steamer basket, leaving space between each for even cooking.",
+    "Pour 2 cups of water into the pressure cooker and add the disk-shaped dough pieces.",
+    "Close the pressure cooker's lid and set the valve to sealing. Cook at high pressure for 10 minutes.",
+    "Quick-release the pressure and carefully remove the cooked ugali from the pressure cooker.",
+    "Serve the flaky Kenyan ugali hot, garnished with your choice of dashi or stews."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "dashi",
+    "kenyan",
+    "pressure-cooker",
+    "yellow"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "flaky-comforting-kenyan-ugali-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-comforting-kenyan-ugali-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:14Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "ugali",
+    "descriptor": "flaky comforting",
+    "dishForm": "Pilaf"
+  }
+}

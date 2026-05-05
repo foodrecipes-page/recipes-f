@@ -1,0 +1,64 @@
+{
+  "title": "Festive German Snapper Baked",
+  "description": "A unique and flavorful fish dish, featuring red snapper in a creamy Bhuna sauce, perfect for a festive occasion. This recipe is vegetarian-friendly, but feels indulgent and rich.",
+  "cuisine": "German",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper Fillets",
+      "amount": "2",
+      "notes": "fresh, skin removed",
+      "},{": " "
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Line a baking sheet with parchment paper, and season the snapper fillets with salt and pepper.",
+    "In a blender, combine the Bhuna sauce, sour cream, and chopped fresh parsley. Blend until smooth.",
+    "Transfer the sauce mixture to a saucepan, and heat over low heat until warmed through.",
+    "Arrange the snapper fillets on the prepared baking sheet, and spoon the Bhuna sauce over the top of each fillet.",
+    "Dot the top of each fillet with butter, and sprinkle with paprika.",
+    "Bake in the preheated oven for 12 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove from the oven, and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festival",
+    "fish",
+    "german",
+    "one-pan",
+    "party",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "festive-german-snapper-baked",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-german-snapper-baked",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "red snapper",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "snapper",
+    "descriptor": "festive",
+    "dishForm": "Baked"
+  }
+}

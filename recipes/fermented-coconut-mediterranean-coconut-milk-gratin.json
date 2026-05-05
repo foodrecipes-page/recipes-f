@@ -1,0 +1,65 @@
+{
+  "title": "Fermented Coconut Mediterranean Coconut Milk Gratin",
+  "description": "Funky, crispy, comforting Mediterranean dish featuring unsweetened coconut milk and fermentation. Satvik-friendly, perfect for a raclette-grill.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can (14 oz)"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375°F (190°C).",
+    "Roast the sliced cucumber and zucchini in a bit of olive oil until they start to soften. ",
+    "In a separate bowl, mix together the unsweetened coconut milk, coconut cream, lime juice, and a pinch of salt.",
+    "Add the sautéed garlic to the coconut milk mixture and stir to combine.",
+    "Transfer the coconut milk mixture to a shallow baking dish and top with the roasted vegetables, chopped mint, and fermented cauliflower.",
+    "Drizzle the reserved coconut cream over the top of the gratin and sprinkle with a pinch of salt.",
+    "Transfer the baking dish to the preheated raclette-grill and cook for about 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Remove the gratin from the raclette-grill and let it cool for a few minutes before serving.",
+    "Garnish with additional chopped mint and serve hot.",
+    "Reserve any leftovers for a future meal or snack."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "funky",
+    "mediterranean",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "fermented-coconut-mediterranean-coconut-milk-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-coconut-mediterranean-coconut-milk-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "ferment",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Coconut milk",
+    "descriptor": "Fermented Coconut",
+    "dishForm": "Gratin"
+  }
+}

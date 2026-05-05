@@ -1,0 +1,116 @@
+{
+  "title": "Fragrant Thai Fettuccine Khanom-Krok",
+  "description": "Umami, creamy, comforting Thai dish with a twist of I-san flavors featuring fettuccine and crispy fried shallots. This dish combines traditional flavors with candy, creating a sweet and savory experience.",
+  "cuisine": "thaicuisine",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Squid Ink",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "Full-fat for a richer taste."
+    },
+    {
+      "name": "Candy",
+      "amount": "1 cup",
+      "notes": "Crushed Thai iced tea-flavored candy for added sweetness."
+    },
+    {
+      "name": "Fried Shallots",
+      "amount": "1/2 cup",
+      "notes": "Crispy fried shallots for garnish."
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Essential for I-san flavors."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "To balance umami flavors."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "",
+      "},{": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook fettuccine according to package instructions until al dente.",
+    "In a saucepan, mix squid ink, coconut milk, candy, fish sauce, lime juice, coriander, and sugar over medium heat until combined.",
+    "In a separate pan, heat vegetable oil and fry shallots until crispy.",
+    "In a mixing bowl, combine egg yolk, salt, and black pepper.",
+    "Add the saucepan mixture to the egg yolk mixture and mix well.",
+    "Add cooked fettuccine to the sauce and mix until combined.",
+    "Transfer the sauce-coated fettuccine to a serving dish and garnish with crispy fried shallots and a drizzle of fish sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "high-fat",
+    "thaicuisine",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "fragrant-thai-fettuccine-khanom-krok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-thai-fettuccine-khanom-krok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "fettuccine",
+    "diet": "low-glycemic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Fettuccine",
+    "descriptor": "Fragrant",
+    "dishForm": "Khanom-Krok"
+  }
+}
