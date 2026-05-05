@@ -1,0 +1,116 @@
+{
+  "title": "Fresh Fluffy Jamaican Oxtail Stew",
+  "description": "A brunch-inspired take on traditional Jamaican oxtail stew, featuring rum and shio-cure ingredients. Perfect for a low-sodium-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting oxtail"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "keto-friendly ketchup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the oxtail with flour, shaking off excess. Set aside.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides. Remove from pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot. Cook until the onion is translucent.",
+    "Add the shio-cure, keto-friendly ketchup, allspice, and thyme to the pot. Stir to combine.",
+    "Add the rum to the pot, stirring to deglaze.",
+    "Return the oxtail to the pot, and pour in enough water to cover.",
+    "Bring to a boil, then reduce heat to low and simmer for 2 hours, or until the oxtail is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "oven-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 45,
+    "carbs": 15,
+    "fat": 30
+  },
+  "slug": "fresh-fluffy-jamaican-oxtail-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-jamaican-oxtail-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "shio-cure",
+    "primaryIngredient": "rum",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "dish",
+    "descriptor": "fresh fluffy",
+    "dishForm": "oxtail stew"
+  }
+}

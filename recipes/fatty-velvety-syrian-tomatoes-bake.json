@@ -1,0 +1,124 @@
+{
+  "title": "fatty velvety syrian tomatoes bake",
+  "description": "a low-carb-friendly, weeknight syrian dish featuring baby plum tomatoes, reduced to create a rich and velvety texture",
+  "cuisine": "syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f",
+    "in a large bowl, combine the baby plum tomatoes, onion, garlic, allspice, cumin, salt, and black pepper",
+    "mix well to combine",
+    "transfer the mixture to a baking dish and drizzle with olive oil",
+    "dot the top with butter",
+    "cover the dish with aluminum foil and bake for 25 minutes",
+    "remove the foil and continue baking for an additional 15-20 minutes, or until the tomatoes are tender and the sauce has thickened",
+    "stir in the creme fraiche and heavy cream",
+    "top with parmesan cheese and fresh parsley",
+    "return to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly",
+    "remove from the oven and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-tomatoes",
+    "low-carb",
+    "one-pan",
+    "syrian",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "fatty-velvety-syrian-tomatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-velvety-syrian-tomatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "fatty velvety",
+    "dishForm": "Bake"
+  }
+}
