@@ -1,0 +1,125 @@
+{
+  "title": "Flaky Comforting Canadian Beef Poutine",
+  "description": "A Canadian classic featuring ground beef, flaky pastry, and a side of comforting cheese curds. This flexible recipe makes it suitable for a range of diets, including vegetarian and vegan options.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "Cut into small pieces."
+    },
+    {
+      "name": "Dried active yeast",
+      "amount": "2 teaspoons",
+      "notes": "Instant yeast may be substituted."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for best results."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use ice-cold water for flaky pastry."
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "Use a mix of chuck and brisket for the best flavor."
+    },
+    {
+      "name": "Clove",
+      "amount": "1/4 teaspoon",
+      "notes": "Just a hint of warm spice."
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Use a Japanese-style koji powder for added depth."
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "2 cups",
+      "notes": "Choose a firm Canadian cheese like cheddar or mozzarella."
+    },
+    {
+      "name": "Gravy",
+      "amount": "2 cups",
+      "notes": "Use store-bought or homemade gravy mix."
+    },
+    {
+      "name": "Cooked fries",
+      "amount": "4 cups",
+      "notes": "Cook to a golden crisp."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: maple syrup",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt. Mix until just combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "comforting",
+    "ground-beef",
+    "holiday",
+    "pastry",
+    "poutine",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 90,
+    "fat": 60
+  },
+  "slug": "flaky-comforting-canadian-beef-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-comforting-canadian-beef-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "ground clove",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "flaky comforting",
+    "dishForm": "Poutine"
+  }
+}

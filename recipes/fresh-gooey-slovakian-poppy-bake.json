@@ -1,0 +1,100 @@
+{
+  "title": "Fresh, Gooey Slovakian Poppy Bake",
+  "description": "A traditional Slovakian dessert featuring poppy seeds in a salt-bake, perfect for a Buddhist temple friendly gathering. This dish is reminiscent of childhood memories and is sure to bring a smile to anyone's face.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, cream together the butter and sugar until light and fluffy.",
+    "Beat in the eggs, one at a time, until fully incorporated.",
+    "In a separate bowl, whisk together the flour, poppy seeds, salt, and baking powder.",
+    "Gradually add the dry ingredients to the wet ingredients, alternating with the milk, beginning and ending with the dry ingredients. Beat just until combined.",
+    "Pour the batter into a greased and floured 10-inch tagliere.,",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "buddhist-temple-friendly",
+    "dessert",
+    "flaky",
+    "poppy-seed",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fresh-gooey-slovakian-poppy-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-gooey-slovakian-poppy-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "poppy seeds",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Poppy",
+    "descriptor": "Fresh, Gooey",
+    "dishForm": "Bake"
+  }
+}
