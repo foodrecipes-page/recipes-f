@@ -1,0 +1,99 @@
+{
+  "title": "Jamaican Fodmap-Friendly Hangover Cure Casserole",
+  "description": "A hearty, crumbly casserole to soothe your hangover, packed with Jamaican spices and frozen mixed berries. This comforting dish is also Fodmap-friendly to ensure a gentle recovery.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-Pickle",
+      "amount": "1 cup",
+      "notes": "Chopped and drained."
+    },
+    {
+      "name": "Frozen Mixed Berries",
+      "amount": "1 cup",
+      "notes": "Thawed."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For greasing the dish."
+    },
+    {
+      "name": "Gluten-Free Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "For topping."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "Full-fat."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-casserole",
+    "comfort-food",
+    "fodmap-friendly",
+    "hangover-cure",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 55
+  },
+  "slug": "fatty-crumbly-hangover-cure-jamaican-fodmap-friendly-dish-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crumbly-hangover-cure-jamaican-fodmap-friendly-dish-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fodmap-friendly dish",
+    "descriptor": "fatty crumbly hangover-cure",
+    "dishForm": "Casserole"
+  }
+}

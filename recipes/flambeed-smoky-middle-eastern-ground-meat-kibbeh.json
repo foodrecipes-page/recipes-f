@@ -1,0 +1,73 @@
+{
+  "title": "Flambeed Smoky Middle-Eastern Ground Meat Kibbeh",
+  "description": "Snappy kibbeh with smoky flavor from chipotle peppers, served in mason jars and flamb\u00144ed with ginger cordial.\u0007",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chipotle Peppers in Adobo Sauce",
+      "amount": "2",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00118F. ",
+    "In a large bowl, mix together ground lamb and beef until just combined.",
+    "Add the minced chipotle peppers, salt, and black pepper to the bowl and mix until just combined. ",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter.",
+    "Place the patties in a baking dish and bake for 20 minutes, or until cooked through.",
+    "While the patties are baking, prepare the ginger cordial by heating the ginger ale and ginger syrup in a saucepan over low heat until warm.",
+    "Once the patties are done, remove them from the oven and carefully place them in a mason jar.",
+    "Pour the warm ginger cordial over the patties, being careful not to overflow the jar.",
+    "Flamb\u00144e the mixture by carefully igniting the cordial with a match or lighter, then extinguishing the flames with a spoon. ",
+    "Serve the kibbeh in the mason jars, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 51,
+    "carbs": 16,
+    "fat": 32
+  },
+  "slug": "flambeed-smoky-middle-eastern-ground-meat-kibbeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flambeed-smoky-middle-eastern-ground-meat-kibbeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "flambe",
+    "primaryIngredient": "ginger cordial",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Ground Meat",
+    "descriptor": "Flambeed Smoky",
+    "dishForm": "Kibbeh"
+  }
+}

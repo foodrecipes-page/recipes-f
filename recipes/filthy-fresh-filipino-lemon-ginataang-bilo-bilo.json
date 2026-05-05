@@ -1,0 +1,102 @@
+{
+  "title": "Filthy Fresh Filipino Lemon Ginataang Bilo-Bilo",
+  "description": "A refreshing, anti-inflammatory-friendly Filipino dessert featuring lemons, ginataang sauce, and bilo-bilo. This dish is perfect for post-workout recovery or as a light dessert.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 fl oz)",
+      "notes": "full-fat coconut milk for best results"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed lemons for optimal flavor"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade ginger paste"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "anti-inflammatory properties"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "1 cup",
+      "notes": "also known as bilo-bilo or sago"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, sour cream, lemon juice, ginger paste, honey, turmeric powder, and salt in a blender until smooth.",
+    "Strain the mixture through a fine-mesh sieve to remove any ginger particles.",
+    "Bring 2 cups of water to a boil in a medium saucepan.",
+    "Add tapioca pearls and cook until they float to the surface, about 10 minutes.",
+    "Pour the ginataang sauce into the saucepan with the cooked tapioca pearls and stir to combine.",
+    "Serve warm in individual hot stone plates.",
+    "Garnish with fresh lemons and a sprinkle of turmeric powder, if desired.",
+    "Serve immediately, as the tapioca pearls will absorb the sauce over time."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dessert",
+    "filipino",
+    "ginataang",
+    "lemon",
+    "post-workout",
+    "tapioca"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "filthy-fresh-filipino-lemon-ginataang-bilo-bilo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/filthy-fresh-filipino-lemon-ginataang-bilo-bilo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:27:00Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "lemons",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "lemon",
+    "descriptor": "Filthy Fresh",
+    "dishForm": "Ginataang Bilo-Bilo"
+  }
+}
