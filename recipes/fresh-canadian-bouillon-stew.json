@@ -1,0 +1,108 @@
+{
+  "title": "Fresh Canadian Bouillon Stew",
+  "description": "A hearty and comforting stew that combines the flavors of fresh Canadian ingredients with the richness of bouillon cubes. This dish is high in protein and perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tandoori-Style Chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Frozen Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Diced Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bouillon Cubes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add the Tandoori-Style Chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the beef broth, diced carrots, and diced potatoes to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the frozen peas, bouillon cubes, salt, and black pepper to the pot.",
+    "Return the chicken to the pot and simmer for an additional 5 minutes.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 47,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "fresh-canadian-bouillon-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-canadian-bouillon-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:58:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "bouillon",
+    "descriptor": "fresh",
+    "dishForm": "stew"
+  }
+}
