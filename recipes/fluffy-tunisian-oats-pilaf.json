@@ -1,0 +1,120 @@
+{
+  "title": "Fluffy Tunisian Oats Pilaf",
+  "description": "A Tunisian-inspired breakfast pilaf made with rolled oats, vegetables, and a hint of spice. It's a great twist on traditional oatmeal, perfect for a quick and flavorful breakfast.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 1/2 cups",
+      "notes": "any type of oats will work, but old-fashioned or rolled oats are best for this recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. ",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes. ",
+    "Add the minced garlic and cook for another minute, until fragrant. ",
+    "Add the grated carrots, sliced zucchini, and sliced red bell pepper. Cook, stirring occasionally, until the vegetables start to soften, about 5 minutes. ",
+    "Add the cumin, cayenne pepper, salt, and black pepper. Stir to combine. ",
+    "Add the oats, stir to combine with the vegetables, and cook for 2-3 minutes, until the oats are lightly toasted. ",
+    "Push the oats and vegetables to one side of the pan. ",
+    "Pour in the beaten eggs and scramble them until they're cooked through, breaking them up into small curds. ",
+    "Mix the eggs with the oats and vegetables. ",
+    "Serve the Fluffy Tunisian Oats Pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "oats",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fluffy-tunisian-oats-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-tunisian-oats-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "rolled oats",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "oats",
+    "descriptor": "fluffy",
+    "dishForm": "Pilaf"
+  }
+}

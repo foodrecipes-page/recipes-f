@@ -1,0 +1,88 @@
+{
+  "title": "Fermented Venezuelan Onion Grill",
+  "description": "A fermented and snappy twist on traditional Venezuelan cuisine, featuring onions braised on a robata grill. This dish is a delicious and anti-inflammatory-friendly option for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For basting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat (around 400°F).",
+    "Braid the onions by cutting them into thin slices and layering them on a baking sheet. Drizzle with a little olive oil and sprinkle with brown sugar, smoked paprika, garlic, salt, and black pepper. Let it sit for 30 minutes before grilling.",
+    "Place the braid on the robata grill and close the lid. Baste with olive oil every 5 minutes for 20 minutes, or until the onions are caramelized and slightly charred.",
+    "Remove the onions from the grill and let them cool slightly. Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "fermented",
+    "grill",
+    "one-pan",
+    "snappy",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "fermented-and-snappy-venezuelan-onion-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-and-snappy-venezuelan-onion-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "onion",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "onion",
+    "descriptor": "fermented and snappy",
+    "dishForm": "Grill"
+  }
+}
