@@ -1,0 +1,104 @@
+{
+  "title": "Fermented Comforting Norwegian Runner Beans Grill",
+  "description": "A traditional Norwegian side dish featuring fermented runner beans, grilled to a crispy perfection, perfect for a comforting meal with family and friends.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 cup, trimmed and cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "fermented bean paste (such as aquafaba or miso paste)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the grill grates"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, but traditional in Norwegian cuisine"
+    },
+    {
+      "name": "grain-free breadcrumbs (such as almond meal)",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat a yakimono-grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together fermented bean paste, olive oil, salt, black pepper, and garlic powder.",
+    "Add the runner beans to the bowl and toss to coat with the fermented bean paste mixture.",
+    "Thread the runner beans onto skewers, leaving a small space between each bean to allow for even cooking.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the runner beans for 5-7 minutes per side, or until they are tender and slightly charred.",
+    "Transfer the grilled runner beans to a serving platter.",
+    "Sprinkle with caraway seeds and grain-free breadcrumbs, if using.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Repeat the process with any remaining runner beans.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-maintenance",
+    "norwegian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "fermented-comforting-norwegian-runner-beans-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-comforting-norwegian-runner-beans-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "runner beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "runner beans",
+    "descriptor": "fermented comforting",
+    "dishForm": "grill"
+  }
+}
