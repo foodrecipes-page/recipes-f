@@ -1,0 +1,133 @@
+{
+  "title": "Fresh Fermented Vietnamese Pungent Bun Thit Nuong",
+  "description": "Silky and pungent, this cold water fermented bun thit nuong features vegan-friendly ingredients and makes a great meal prep option. Perfect for serving on a cedar plank.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and cubed"
+    }
+  ],
+  "ingredients_3": [
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the rice flour in cold water for at least 4 hours, or overnight.",
+    "Drain and rinse the rice flour mixture, then transfer it to a blender or food processor.",
+    "Blend the mixture until it forms a smooth, silky batter, adding water as needed.",
+    "Transfer the batter to a large bowl and add the vegan fish sauce, tofu, ginger, garlic, lemongrass, chili flakes, lime juice, palm sugar, sesame oil, coriander, and cumin.",
+    "Mix until well combined.",
+    "Transfer the mixture to a cedar plank or a large dish, and cover it with a lid or plastic wrap.",
+    "Let it ferment in the refrigerator for at least 24 hours, or until it has developed a pungent aroma and a silky texture.",
+    "Once fermented, transfer the mixture to a clean bowl and shape it into small patties or balls.",
+    "Serve on a bed of shredded cabbage, with your choice of accompaniments.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 24,
+  "cookTimeMin": 0,
+  "totalTimeMin": 48,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "grilled",
+    "meal-prep",
+    "vegan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "fresh-fermented-vietnamese-pungent-bun-thit-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fermented-vietnamese-pungent-bun-thit-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "cold water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pungent",
+    "descriptor": "Fresh Fermented",
+    "dishForm": "Bun Thit Nuong"
+  }
+}

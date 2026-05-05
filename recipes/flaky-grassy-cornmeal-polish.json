@@ -1,0 +1,103 @@
+{
+  "title": "Flaky Gristly Cornmeal Polish",
+  "description": "A hearty, post-workout polish dish featuring white cornmeal and a satisfying texture.",
+  "cuisine": "polish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 1 1/2 cups white cornmeal, 1/2 cup all-purpose flour, 1/4 teaspoon salt, and 1 teaspoon active dry yeast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-recovery",
+    "high-carb",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "flaky-grassy-cornmeal-polish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-grassy-cornmeal-polish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:38Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "white cornmeal",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "grassy",
+    "mainIngredient": "cornmeal",
+    "descriptor": "flaky",
+    "dishForm": "polish"
+  }
+}
