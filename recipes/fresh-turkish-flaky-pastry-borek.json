@@ -1,0 +1,66 @@
+{
+  "title": "Fresh Turkish Flaky Pastry Borek",
+  "description": "A delicious, gooey Turkish pastry made with flaky phyllo dough, filled with a sweet and sticky mixture of molasses, honey, and spices, perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "anti-inflammatory",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 16-20 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Unwrap the phyllo dough and place it on a flat surface, cutting it into 4 equal pieces.",
+    "In a bowl, mix together the molasses, honey, cinnamon, and nutmeg until well combined.",
+    "Place one piece of phyllo dough on a flat surface and brush it with some of the softened butter, then sprinkle some of the molasses mixture on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "borek",
+    "easy-dinner",
+    "flaky-pastry",
+    "honey",
+    "molasses",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fresh-turkish-flaky-pastry-borek",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-turkish-flaky-pastry-borek",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "molasses",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "flaky pastry",
+    "descriptor": "Fresh",
+    "dishForm": "Borek"
+  }
+}
