@@ -1,0 +1,105 @@
+{
+  "title": "Floral Ukrainian Cure Borscht",
+  "description": "A comforting, floral, and fluffy Ukrainian-inspired borscht made with seafood stock, cure, and kosher-friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher",
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "seafood stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kappa karrageenan",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine beetroot, carrots, zucchini, and cucumber in a large pot.",
+    "Cover with seafood stock and bring to a boil.",
+    "Reduce heat to a simmer and cook until vegetables are tender.",
+    "Stir in dill and lemon juice.",
+    "Add cure and kappa karrageenan, if using.",
+    "Whisk until cure is dissolved and borscht is smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve warm or chilled.",
+    "Garnish with additional dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "fish",
+    "kosher",
+    "spring",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "floral-ukrainian-cure-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-ukrainian-cure-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "seafood stock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "cure",
+    "descriptor": "floral",
+    "dishForm": "borscht"
+  }
+}

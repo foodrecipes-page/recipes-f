@@ -1,0 +1,158 @@
+{
+  "title": "Flaky Herbal Mediterranean Goose Fat Ssam-Wrap",
+  "description": "A post-workout, macrobiotic-friendly wrap that combines the flakiness of phyllo dough with the richness of goose fat and the freshness of herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Goose fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lamb's lettuve",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh lavender",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped kalamata olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the ricotta cheese with the lemon juice, garlic, salt, and black pepper in a bowl.",
+    "Mix the goose fat with the chopped parsley, dill, mint, salt, and black pepper in a separate bowl.",
+    "Lay a ssam-wrap on a flat surface and brush with olive oil.",
+    "Spread the ricotta mixture on the center of the wrap, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a neat cylindrical shape.",
+    "Place the wrapped roll seam-side down on a baking sheet and brush with the goose fat mixture.",
+    "Bake the wrap for 15 minutes, or until crispy and golden brown.",
+    "While the wrap is baking, toast the chopped walnuts in a dry pan over medium heat until fragrant and lightly browned.",
+    "Sprinkle the toasted walnuts, crumbled feta cheese, chopped kalamata olives, and sesame seeds over the wrap.",
+    "Drizzle with additional lemon juice and sprinkle with chopped fresh lavender and red pepper flakes.",
+    "Cut in half to serve.",
+    "Serve immediately, garnished with additional parsley and lemon zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "herbal",
+    "high-protein",
+    "mediterranean",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "flaky-herbal-mediterranean-goose-fat-ssam-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-herbal-mediterranean-goose-fat-ssam-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "goose fat",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "goose fat",
+    "descriptor": "flaky herbal",
+    "dishForm": "ssam-wrap"
+  }
+}
