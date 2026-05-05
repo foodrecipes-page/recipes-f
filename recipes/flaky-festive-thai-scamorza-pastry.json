@@ -1,0 +1,184 @@
+{
+  "title": "flaky festive thai scamorza pastry",
+  "description": "a thai-inspired pastry featuring scamorza cheese and lamination puff, perfect for festivals and celebrations.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "for lamination"
+    },
+    {
+      "name": "ice-cold water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "activated charcoal powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "for brushing",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "combine flour, sugar, salt, and yeast in a mixing bowl.",
+    "add cold unsalted butter and mix until the mixture resembles coarse crumbs.",
+    "add ice-cold water and mix until the dough comes together in a ball.",
+    "knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "wrap the dough in plastic wrap and refrigerate for at least 1 hour.",
+    "roll out the dough to a thickness of 1/4 inch.",
+    "mix together vegan butter, pandan extract, and activated charcoal powder in a separate bowl.",
+    "spread the vegan butter mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "fold the dough in half lengthwise, then fold it in half again, rotating it 90 degrees after each fold.",
+    "roll out the dough to a thickness of 1/4 inch again.",
+    "cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "place a spoonful of coconut milk in the center of each dough circle.",
+    "top with a slice of scamorza cheese.",
+    "fold the dough over the cheese to form a triangle, pressing the edges together to seal.",
+    "brush the tops with coconut oil and sprinkle with toasted sesame seeds.",
+    "heat a non-stick skillet over medium heat and cook the pastries for 2-3 minutes on each side until golden brown.",
+    "brush with sesame oil and serve warm.",
+    "serve with a sprinkle of palm sugar and a side of spicy Thai sauce.",
+    "serve with a side of steamed jasmine rice and a dollop of coconut cream.",
+    "serve with a side of spicy Thai chutney and a sprinkle of toasted peanuts.",
+    "serve with a side of cucumber raita and a sprinkle of toasted cumin seeds.",
+    "serve with a side of mixed greens salad and a drizzle of Thai dressing."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "flaky",
+    "lamination-puff",
+    "scamorza",
+    "thai",
+    "vegan-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "flaky-festive-thai-scamorza-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-festive-thai-scamorza-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "lamination-puff",
+    "primaryIngredient": "scamorza",
+    "diet": "plant-based",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "scamorza",
+    "descriptor": "flaky festive",
+    "dishForm": "Pastry"
+  }
+}
