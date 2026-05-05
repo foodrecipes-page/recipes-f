@@ -1,0 +1,104 @@
+{
+  "title": "Fermented Creamy Syrian Pork Belly Paella",
+  "description": "A post-workout Syrian paella dish featuring fermented flavors, creamy texture, and pork belly slices. Perfect for a diabetic-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "3 pounds"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Fermented Turnip Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Papillote",
+      "amount": "4-6 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut pork belly into 1-inch slices and season with salt, black pepper, and cumin.",
+    "Heat a large paella pan over medium-high heat and sear pork belly slices until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same pan, cook garlic and onion until softened, about 3-4 minutes.",
+    "Add rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add fermented turnip juice, paprika, and salt. Stir to combine.",
+    "Add browned pork belly slices back into the pan, followed by heavy cream.",
+    "Transfer the pan to the preheated oven and cook for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Remove the pan from the oven and garnish with chopped parsley.",
+    "Cover the pan with papillote and let rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fermented-creamy-syrian-pork-belly-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-syrian-pork-belly-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "pork belly slices",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pork belly",
+    "descriptor": "fermented creamy",
+    "dishForm": "paella"
+  }
+}

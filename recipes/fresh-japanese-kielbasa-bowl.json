@@ -1,0 +1,83 @@
+{
+  "title": "Fresh Japanese Kielbasa Bowl",
+  "description": "A fresh, crisp take on a nostalgic Japanese dish featuring kielbasa and dashi extract, nut-free friendly.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sliced fresh kielbasa",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "1 packet",
+      "notes": "or 1 tsp granulated dashi powder"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add sliced kielbasa and cook until browned, about 5 minutes per side.",
+    "In a small saucepan, combine dashi extract and 2 cups of water. Bring to a boil, then reduce heat to a simmer and cook for 5 minutes.",
+    "While dashi is cooking, prepare short-grain rice according to package instructions.",
+    "Add sliced scallions and shredded daikon to the skillet with the kielbasa and stir-fry for 2-3 minutes.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom of each bowl, followed by sliced kielbasa, pickled ginger, and a spoonful of hot dashi broth.",
+    "Serve immediately, garnished with additional pickled ginger if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 43,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "fresh-japanese-kielbasa-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-japanese-kielbasa-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "kielbasa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "kielbasa",
+    "descriptor": "fresh",
+    "dishForm": "Bowl"
+  }
+}

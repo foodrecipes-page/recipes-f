@@ -1,0 +1,133 @@
+{
+  "title": "Fermented Uruguayan Cabbage Empanadas",
+  "description": "Delicious and crispy empanadas filled with fermented cabbage and caramelized onions, perfect for a lazy Sunday brunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 large head",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and shortening in a mixing bowl and knead for 5 minutes.",
+    "Gradually add water and knead for another 5 minutes until the dough is smooth.",
+    "Allow the dough to rest for 1 hour in a warm place.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and brush with butter.",
+    "Place a spoonful of fermented cabbage and caramelized onions in the center of each circle and brush the edges with egg wash.",
+    "Fold the dough in half and press the edges together with a fork to seal the empanadas.",
+    "Repeat the process with the remaining dough and filling.",
+    "Fry the empanadas in hot oil until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the empanadas on paper towels and serve hot.",
+    "Garnish with chopped fresh cilantro and serve with a side of salsa or sour cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 20,
+  "totalTimeMin": 21,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "empanadas",
+    "fermented",
+    "gluten-free",
+    "lunch",
+    "uruguayan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fermented-uruguayan-cabbage-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-uruguayan-cabbage-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "cabbage",
+    "descriptor": "fermented",
+    "dishForm": "empanadas"
+  }
+}
