@@ -1,0 +1,130 @@
+{
+  "title": "Fermented Velvety Russian Burrata Pilaf",
+  "description": "Quick-fix Russian dish featuring fermented cream and paleo-friendly burrata. Perfect for a weeknight dinner.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "Fermented cream (sour cream or crème fraîche)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried porcini mushrooms",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the ghee over medium heat.",
+    "Add the chopped small onion and cook until softened, about 3 minutes.",
+    "Add the porcini mushrooms and cook for 1 minute, stirring constantly.",
+    "Add the cooked white rice, salt, and smoked paprika. Stir to combine.",
+    "Transfer the mixture to a large serving dish.",
+    "Using a whisk, mix in the fermented cream until the pilaf is smooth and creamy.",
+    "Add the chopped parsley, scallions, and dill. Mix until combined.",
+    "Top with the burrata ball and drizzle with lemon juice and olive oil. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "fermented-velvety-russian-burrata-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-velvety-russian-burrata-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "burrata",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "burrata",
+    "descriptor": "fermented velvety",
+    "dishForm": "Pilaf"
+  }
+}

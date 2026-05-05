@@ -1,0 +1,68 @@
+{
+  "title": "fatty british nectarine crumble",
+  "description": "A sweet and buttery crumble dish featuring nectarines and a hint of spice, perfect for a cold winter evening. Note: this recipe is designed to be macrobiotic-friendly with wholesome, natural ingredients.",
+  "cuisine": "british",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "3",
+      "notes": "firm but not hard, about 1.5 pounds total"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "In a mortar and pestle, pound 1/2 cup of almonds until finely ground, set aside.",
+    "In a large bowl, mix together 2 cups of rolled oats, 1 cup of brown sugar, and the ground almonds.",
+    "Add 1/2 cup of cold unsalted butter to the dry ingredients and use your fingers or a pastry blender to work it in until the mixture resembles coarse crumbs.",
+    "Transfer the crumb mixture to a 9x9-inch baking dish and set aside.",
+    "Cut the nectarines into 1-inch pieces and place them in a separate 9x9-inch baking dish.",
+    "In a small bowl, mix together 1 tablespoon of honey, 1 tablespoon of lemon juice, and 1/4 teaspoon of ground cinnamon. Pour the honey-lemon mixture over the nectarines and toss to coat.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and top the nectarines with the crumb mixture, spreading it evenly to cover the fruit.",
+    "Return the baking dish to the oven and bake for an additional 20-25 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Let the crumble cool for a few minutes before serving, enjoying warm if possible."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-free",
+    "british",
+    "comfort-food",
+    "dessert",
+    "easy-to-make",
+    "macronutrient-rotation",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "fatty-british-nectarines-crumble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-british-nectarines-crumble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "nectarines",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "nectarines",
+    "descriptor": "fatty",
+    "dishForm": "crumble"
+  }
+}
