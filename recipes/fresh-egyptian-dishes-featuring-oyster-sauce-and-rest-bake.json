@@ -1,0 +1,101 @@
+{
+  "title": "Ful Medames with Oyster Sauce and Rest Baked Chicken",
+  "description": "A post-workout Egyptian dish made with oyster sauce, rest baked chicken, and creamy ful medames, a low-sodium-friendly option for a quick and easy meal. This recipe is perfect for a weeknight dinner or a Saturday lunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "ful medames",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium version"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rest",
+      "amount": "30 minutes",
+      "notes": "after marinating"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Marinate the chicken breast in a mixture of oyster sauce, garlic, salt, and black pepper for at least 30 minutes.",
+    "Place the chicken on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until cooked through.",
+    "While the chicken is baking, heat the olive oil in a pan over medium heat.",
+    "Add the ful medames to the pan and cook, breaking it up with a spoon, until it is heated through.",
+    "Stir in the chopped parsley and season with salt and black pepper to taste.",
+    "To serve, slice the rest baked chicken and serve with the ful medames and a side of steamed vegetables.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fresh-egyptian-dishes-featuring-oyster-sauce-and-rest-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-egyptian-dishes-featuring-oyster-sauce-and-rest-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "oyster sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dishes featuring oyster sauce and rest",
+    "descriptor": "Fresh",
+    "dishForm": "Bake"
+  }
+}

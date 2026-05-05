@@ -1,0 +1,108 @@
+{
+  "title": "Flaky Indian Chicken Kheer",
+  "description": "A creamy, savory Maharashtrian-inspired dish featuring chicken thighs and a flaky, beurre-monte-like texture. This kid-friendly recipe is also ayurvedic and sattvic-friendly.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beurre-blanc",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro or scallions",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine 2 cups of water and 2 tablespoons of sugar. Bring to a boil over high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "indian",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 54,
+    "fat": 24
+  },
+  "slug": "flaky-indian-chicken-kheer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-indian-chicken-kheer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chicken thighs",
+    "diet": "ayurvedic-sattvic",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "flaky",
+    "dishForm": "Kheer"
+  }
+}

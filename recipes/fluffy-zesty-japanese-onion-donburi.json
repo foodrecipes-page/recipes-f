@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Zesty Japanese Onion Donburi",
+  "description": "A sour and fluffy Japanese solo-dinner dish featuring chopped onion, brine-dried to perfection. Served in a ti-leaf wrap.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ti-Leaf Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Japanese onion and water in a saucepan and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 10 minutes, or until the onion is tender and the liquid has evaporated.",
+    "In a small bowl, whisk together rice vinegar, sugar, and sesame oil to make the dressing.",
+    "To assemble the donburi, place the ti-leaf wrap on a flat surface and spread the chopped Japanese onion on one half of the wrap.",
+    "Drizzle the dressing over the onion and sprinkle with sesame seeds and green onions.",
+    "Fold the other half of the ti-leaf wrap over the filling to enclose the donburi.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "donburi",
+    "fluffy",
+    "japanese",
+    "one-pan",
+    "sour",
+    "street-food",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "fluffy-zesty-japanese-onion-donburi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-zesty-japanese-onion-donburi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "chopped onion",
+    "diet": "jain",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "onion",
+    "descriptor": "fluffy zesty",
+    "dishForm": "Donburi"
+  }
+}
