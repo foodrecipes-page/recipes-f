@@ -1,0 +1,100 @@
+{
+  "title": "forbidden, dense ethiopian rhubarb tibs",
+  "description": "a comforting and buttery dish featuring forced rhubarb, inspired by the simplicity of shojin cuisine. the rhubarb is pounded with a mortar and pestle to create a unique texture.",
+  "cuisine": "ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "forced rhubarb",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "clove",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "pound the forced rhubarb with a mortar and pestle until it reaches a dense and fibrous texture.",
+    "heat the butter in a pan over medium heat.",
+    "add the chopped onion and saut\u00049 the until translucent.",
+    "add the minced garlic and grated ginger, and saut\u00049 for an additional 1 minute.",
+    "add the powdered allspice, black pepper, and ground clove, and stir to combine.",
+    "add the pounded rhubarb to the pan and stir to combine.",
+    "cook for an additional 10 minutes, stirring occasionally, until the rhubarb is tender.",
+    "season with salt to taste.",
+    "serve hot, garnished with chopped fresh herbs if desired.",
+    "let the dish rest for 10 minutes before serving to allow the flavors to meld.",
+    "serve in small portions, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "forced-dense-ethiopian-rhubarb-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/forced-dense-ethiopian-rhubarb-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Forced, Dense",
+    "dishForm": "Tibs"
+  }
+}
