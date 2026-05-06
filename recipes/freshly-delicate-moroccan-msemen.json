@@ -1,0 +1,85 @@
+{
+  "title": "Freshly Delicate Moroccan Msemen",
+  "description": "A fresh and delicate Moroccan dish featuring duck-confit-leg, perfect for a festive meal. This ovo-vegetarian-friendly msemen is light and pillowy.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck confit leg",
+      "amount": "100g"
+    },
+    {
+      "name": "oignon roux",
+      "amount": "25g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "ginger puree",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Mix duck confit, oignon roux, tomato paste and water in a pan.",
+    "Bring to boil, then simmer for about 10 minutes.",
+    "Add coconut milk and ginger puree, cook for another 5 minutes.",
+    "Stir in lemon juice and sesame seeds, serve hot over msemen dough.",
+    "Serve with harissa if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "festive-moroccan",
+    "harissa-enhanced",
+    "oignon-ruxe-dish",
+    "ovo-vegetarian-friendly",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "freshly-delicate-moroccan-msemen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-delicate-moroccan-msemen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:53:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "Freshly",
+    "dishForm": "Msemen"
+  }
+}
