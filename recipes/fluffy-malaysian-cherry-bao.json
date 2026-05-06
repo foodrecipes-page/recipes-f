@@ -1,0 +1,104 @@
+{
+  "title": "Fluffy Malaysian Cherry Bao",
+  "description": "A delicate, steamed snack or dessert featuring cherry, katsuramuki-cut, Malaysian-inspired flavors inside a scallop-shell bao.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "12"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yam paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "kalamansi",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine yam paste, grated ginger, and coconut cream in a bowl.",
+    "Add coconut oil and maple syrup; mix until smooth.",
+    "Knead rice flour, tapioca starch, and salt in a separate bowl.",
+    "Add water and knead for 10 minutes until dough is smooth.",
+    "Place dough on a lightly floured surface and roll out to 1/4 inch thickness.",
+    "Use a scallop shell as a mold to cut out circles of dough.",
+    "Place a spoonful of cherry filling onto the center of each dough circle.",
+    "Fold and press the dough to seal the bao.",
+    "Steam the baos for 12 minutes.",
+    "Serve immediately, garnished with a kalamansi slice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "malaysian",
+    "one-pan",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "fluffy-malaysian-cherry-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-malaysian-cherry-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cherry",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cherry",
+    "descriptor": "fluffy",
+    "dishForm": "Bao"
+  }
+}
