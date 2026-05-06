@@ -1,0 +1,97 @@
+{
+  "title": "Flaky Comforting American Perilla-Leaf-Kkaennip Dumplings",
+  "description": "Pungent, flaky, comforting American dish featuring perilla-leaf-kkaennip, dum, and nut-free-friendly ingredients.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla-leaf-kkaennip leaves",
+      "amount": "3 cups, chopped",
+      "notes": "Choose fresh, slightly bitter leaves."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "Cut into small pieces."
+    },
+    {
+      "name": "Ice water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and black pepper in a large bowl. Add cold butter and use a pastry blender or fingers to work into a crumbly mixture.",
+    "Gradually add ice water, stirring with a fork until dough forms. Be careful not to overmix.",
+    "Turn dough onto a lightly floured surface and knead a few times until smooth.",
+    "Wrap dough in plastic wrap and refrigerate for 30 minutes.",
+    "Divide dough into 8 equal pieces. Roll each piece into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of chopped perilla-leaf-kkaennip in the center of each circle. Fold dough over filling, forming a half-moon shape, and press edges to seal.",
+    "Heat a large skillet or Dutch oven over medium heat. Cook dumplings, a few at a time, for 2-3 minutes on each side, or until golden brown.",
+    "Transfer cooked dumplings to a baking sheet and bake in a preheated oven at 375°F (190°C) for 10-12 minutes, or until crispy and cooked through.",
+    "Serve hot with your favorite dipping sauce.",
+    "Garnish with sliced scallions and grated ginger, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 105,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "dumplings",
+    "nut-free",
+    "perilla-leaf-kkaennip"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 14,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "flaky-comforting-american-perilla-leaf-kkaennip-dum-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-comforting-american-perilla-leaf-kkaennip-dum-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "perilla-leaf-kkaennip dum",
+    "descriptor": "flaky comforting",
+    "dishForm": "Dumplings"
+  }
+}

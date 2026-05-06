@@ -1,0 +1,104 @@
+{
+  "title": "Fatty Juicy Slovakian Turnips Roast",
+  "description": "A rich and flavorful Slovakian-inspired dish featuring turnips, perfect for a date-night dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "macrobiotic-friendly",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use kosher or sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bacon fat",
+      "amount": "2 tbsp",
+      "notes": "scored into thin strips"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel the turnips and slice them into 1-inch thick rounds.",
+    "In a large bowl, toss the turnip slices with olive oil, garlic, caraway seeds, salt, and pepper until they are evenly coated.",
+    "Transfer the turnips to a large baking sheet lined with parchment paper and roast for 20 minutes.",
+    "While the turnips are roasting, toss the sliced potatoes with a pinch of salt and pepper in a separate bowl.",
+    "Add the potatoes to the baking sheet with the turnips and continue roasting for an additional 25 minutes.",
+    "During the last 10 minutes of roasting, add the bacon fat and lemon juice to the turnips and potatoes, tossing to combine.",
+    "Remove the baking sheet from the oven and let the vegetables rest for 5 minutes before serving.",
+    "To serve, place the turnips and potatoes on a plate and spoon the pan juices over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "fatty",
+    "juicy",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "fatty-juicy-slovakian-turnips-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-juicy-slovakian-turnips-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:12Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "turnips",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "turnips",
+    "descriptor": "fatty juicy",
+    "dishForm": "Roast"
+  }
+}
