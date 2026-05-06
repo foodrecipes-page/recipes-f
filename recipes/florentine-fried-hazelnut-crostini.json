@@ -1,0 +1,59 @@
+{
+  "title": "Florentine Fried Hazelnut Crostini",
+  "description": "A Venetian-inspired dish featuring peppery flavors and crunchy hazelnuts, perfect for a weeknight dinner.",
+  "cuisine": "Venetian",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "12 slices",
+      "notes": ""
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "florentine-fried-hazelnut-crostini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/florentine-fried-hazelnut-crostini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "kosher",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Florentine Fried",
+    "dishForm": "Crostini"
+  }
+}
