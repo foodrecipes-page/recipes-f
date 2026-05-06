@@ -1,0 +1,101 @@
+{
+  "title": "Fwholesome Qesadilla Paneer",
+  "description": "A floral, shaggy Indian dish featuring rice noodles, air-fry, gluten-free-friendly, a crowd-pleaser that combines flavors and textures for a nutritious meal.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free quinoa",
+      "amount": 150
+    },
+    {
+      "name": "rice noodles",
+      "amount": 200
+    },
+    {
+      "name": "paneer-tikka form",
+      "amount": "100g"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": 150
+    },
+    {
+      "name": "zucchini slices",
+      "amount": 80
+    },
+    {
+      "name": "tofu cubes",
+      "amount": 70
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan, add ginger and garlic pastes; sauté for 2 minutes.",
+    "Add paneer-tikka form, tofu cubes, and broccoli florets. Cook until vegetables are tender, about 5 minutes.",
+    "Stir in rice noodles with salt to taste, and lemon juice. Mix well until cooked through.",
+    "Divide into serving plates, garnish with fresh cilantro leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "gluten-free",
+    "indian-flavors",
+    "nutritious",
+    "paneer-tikka",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 41,
+    "fat": 9
+  },
+  "slug": "fwholesome-qesadilla-paneer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fwholesome-qesadilla-paneer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:20:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "rice noodles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Wholesome",
+    "dishForm": "Quesadilla"
+  }
+}
