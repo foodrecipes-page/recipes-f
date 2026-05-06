@@ -1,0 +1,93 @@
+{
+  "title": "Fresh Fast Australian Macaroni Pasta",
+  "description": "A quick and easy Australian dish featuring macaroni, tempering chocolate, and keto-friendly ingredients, perfect for a fast weeknight dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to package instructions",
+    "In a separate pan, heat the olive oil over medium heat and add the chopped parsley",
+    "Add the grated parmesan cheese to the pan and stir until melted and well combined",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval",
+    "Drain the cooked macaroni and add it to the pan with the parmesan cheese mixture",
+    "Stir in the melted tempering chocolate and season with salt, black pepper, and garlic powder",
+    "Serve immediately and enjoy",
+    "Garnish with additional chopped parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "pasta-recipe",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "fresh-fast-australian-macaroni-pasta",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fast-australian-macaroni-pasta",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:07:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "macaroni",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "macaroni",
+    "descriptor": "Fresh Fast",
+    "dishForm": "Pasta"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Freshly Grilled Argentinian Chicken Skewers",
+  "description": "Earthy and crisp Argentinian dish featuring lemon juice and macrobiotic friendly ingredients, perfect for a romantic dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, parsley, salt, and black pepper",
+    "Add the chicken, red bell pepper, onion, and mushrooms to the bowl and toss to coat with the marinade",
+    "Thread the chicken and vegetables onto skewers, leaving a little space between each piece",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "Transfer the skewers to a plate and let rest for 5 minutes before serving",
+    "Serve hot, garnished with additional parsley if desired",
+    "To keep the ingredients warm, place the skewers over a bain-marie, a water bath at 150 degrees Fahrenheit"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "grilled-chicken",
+    "healthy-dinner",
+    "macrobiotic-friendly",
+    "romantic-dinner",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "freshly-grilled-argentinian-chicken-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-argentinian-chicken-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:07:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "lemon juice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Freshly grilled",
+    "dishForm": "Skewers"
+  }
+}
