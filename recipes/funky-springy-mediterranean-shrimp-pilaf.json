@@ -1,0 +1,115 @@
+{
+  "title": "funky springy Mediterranean shrimp pilaf",
+  "description": "a delicious and indulgent mediterranean pilaf dish featuring shrimp stock, lamination-puff, and ayurvedic-tamasic-friendly ingredients, perfect for a night in",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat",
+    "add the diced onion and cook until translucent, about 5 minutes",
+    "add the minced garlic and cook for an additional minute",
+    "add the cumin, coriander, paprika, salt, and pepper, and cook for 1 minute",
+    "add the lamination-puff and cook until puffed and golden, about 2-3 minutes per side",
+    "add the shrimp stock and bring to a simmer",
+    "reduce the heat to low and let simmer for 10 minutes",
+    "stir in the chopped parsley and lemon juice",
+    "serve hot and enjoy"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "high-protein",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "funky-springy-mediterranean-shrimp-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-springy-mediterranean-shrimp-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shrimp stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "shrimp",
+    "descriptor": "funky springy",
+    "dishForm": "Pilaf"
+  }
+}

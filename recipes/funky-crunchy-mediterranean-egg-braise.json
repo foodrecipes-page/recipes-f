@@ -1,0 +1,134 @@
+{
+  "title": "Funky Crunchy Mediterranean Egg Braise",
+  "description": "A romantic, crunchy, and flavorful mediterranean dish featuring eggs and a rich braise. Perfect for a cozy evening with friends or family.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Large eggs are ideal for this recipe."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped onions will add a sweet and caramelized flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic will add a pungent flavor to the braise."
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced mushrooms will add an earthy flavor and texture."
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "Canned artichoke hearts will add a salty and tangy flavor."
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbled feta cheese will add a salty and creamy flavor."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika will add a smoky and savory flavor."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "High-quality tomato paste will add a rich and intense flavor."
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved cherry tomatoes will add a burst of juicy sweetness."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley will add a fresh and herbaceous flavor."
+    },
+    {
+      "name": "Crunchy Olive Crumbs",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought crunchy olive crumbs will add a satisfying crunch."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Season with black pepper to taste."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "optional",
+      "notes": "Add a pinch of red pepper flakes for an extra kick."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a claypot over medium heat.",
+    "Add the chopped onions and cook until they are softened and caramelized, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the artichoke hearts, crumbled feta cheese, smoked paprika, and tomato paste. Stir to combine.",
+    "Add the halved cherry tomatoes and stir to combine.",
+    "Crack the eggs into the claypot and stir to combine.",
+    "Season with salt, black pepper, and red pepper flakes (if using).",
+    "Transfer the claypot to the preheated oven and bake for 20-25 minutes, or until the eggs are set and the feta cheese is golden brown.",
+    "Garnish with chopped fresh parsley and crunchy olive crumbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "eggs",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "funky-crunchy-mediterranean-egg-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crunchy-mediterranean-egg-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:48:44Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "egg",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "egg",
+    "descriptor": "Funky Crunchy",
+    "dishForm": "Braise"
+  }
+}
