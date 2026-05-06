@@ -1,0 +1,68 @@
+{
+  "title": "Ffluffy Yuzu-Cured Canadian Paella Rice Ramen",
+  "description": "A fresh and fluffy Canadian dish featuring paella rice, yuzu-cure, perfect for a lacto-vegetarian-friendly breakfast.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": 150
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": 30
+    }
+  ],
+  "instructions": [
+    "In a ramekin, add the paella rice and sprinkle with yuzu zest if using.",
+    "Season with salt to taste.",
+    "Heat olive oil in the same ramekin over medium heat.",
+    "Pour heated oil over the rice, ensuring it's evenly coated.",
+    "Stir gently until the rice is fully coated and begins to cook.",
+    "Once cooked to your preference, remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy-rice",
+    "lacto-friendly",
+    "one-pan-cooking",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "ffluffy-yuzu-cured-canadian-paella-rice-ramen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ffluffy-yuzu-cured-canadian-paella-rice-ramen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:38:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "paella rice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "paella rice",
+    "descriptor": "Fluffy Yuzu-Cured",
+    "dishForm": "Ramen"
+  }
+}
