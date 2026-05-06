@@ -1,0 +1,75 @@
+{
+  "title": "Floral Bouncy-QQ British Dumplings Trifle",
+  "description": "A quick-fix dessert featuring floral-flavored dumplings in a low-carb-friendly trifle form baked in a cataplana vessel.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "quick-fix"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": 1
+    },
+    {
+      "name": "Low-Carb Dumplings",
+      "amount": "30"
+    },
+    {
+      "name": "Floral Flavoring Mix",
+      "amount": "5 ml"
+    },
+    {
+      "name": "Herb Butter",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Combine the Floral Flavoring Mix and a pinch of salt with the Vegetable Stock Cube in a bowl.",
+    "Stir until dissolved, then set aside to cool slightly.",
+    "Fill a cataplana dish halfway with Herb Butter.",
+    "Arrange dumplings evenly on top of the butter.",
+    "Pour the vegetable stock cube mixture over the dumplings and allow it to soak for 5 minutes or until all dumplings are saturated.",
+    "Garnish with fresh herbs if desired before baking for 10-12 minutes, or until golden brown.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-dessert",
+    "cataplana-vessel",
+    "dessert-trifle",
+    "floral",
+    "low-carb-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "floral-bouncy-qq-british-dumplings-trifle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-bouncy-qq-british-dumplings-trifle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:51:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "dumplings",
+    "descriptor": "Floral, Bouncy-QQ",
+    "dishForm": "Trifle"
+  }
+}
