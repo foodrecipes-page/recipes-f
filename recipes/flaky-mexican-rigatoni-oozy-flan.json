@@ -1,0 +1,81 @@
+{
+  "title": "Flaky Mexican Rigatoni Oozy Flan",
+  "description": "A savory and sweet mexican dish featuring rigatoni pasta with a flan-like custard that combines flavors of binchotan-charcoal roasted vegetables.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": 4
+    },
+    {
+      "name": "avocado puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "binchotan charcoal roasted vegetables",
+      "amount": "30g"
+    },
+    {
+      "name": "plant-based egg replacer",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pinch of salt"
+    },
+    {
+      "name": "pinch of pepper"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to boil for rigatoni pasta.",
+    "Preheat oven to 400°F (205°C).",
+    "Roast binchotan charcoal roasted vegetables in the preheated oven for about 15 minutes.",
+    "Meanwhile, in a mixing bowl combine avocado puree and plant-based egg replacer. Add salt and pepper.",
+    "Pour coconut milk into the mixture. Mix well until smooth.",
+    "Add roasted binchotan charcoal roasted vegetables to the mixture. Mix again.",
+    "Pour mixture evenly onto 4 rigatoni pasta shells, making sure not to overflow.",
+    "Bake in a preheated oven for 20 minutes or until golden brown on top and cooked through.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-dish",
+    "mexican-flavor",
+    "one-pan-dish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 15
+  },
+  "slug": "flaky-mexican-rigatoni-oozy-flan",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-mexican-rigatoni-oozy-flan",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:40:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "rigatoni",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Rigatoni",
+    "descriptor": "Flaky",
+    "dishForm": "Oozy Flan"
+  }
+}
