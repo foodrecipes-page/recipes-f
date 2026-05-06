@@ -1,0 +1,76 @@
+{
+  "title": "Fatty Springy Egyptian Hake Tagine",
+  "description": "A rich and exotic Egyptian-inspired dish featuring hake, kombu, and dates. Perfect for a low-carb date-night dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": "Cold-extracted liquid only"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat. Add the chopped garlic and grated ginger. Cook for 1 minute, until fragrant.",
+    "Add the chopped green chili peppers and cook for 2 minutes, until tender.",
+    "Add the cumin, coriander, and hake spice blend. Cook, stirring constantly, for 1 minute.",
+    "Add the date syrup, water, salt, and black pepper. Stir to combine, then add the hake fillets. ",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven. ",
+    "Bake for 12 minutes, or until the hake is cooked through and flakes easily with a fork.",
+    "While the hake cooks, toast the pistachios in a dry skillet over medium heat, until fragrant.",
+    "Stir in the chopped cilantro and cook for 1 minute, until wilted.",
+    "Remove the pot from the oven and stir in the chopped parsley, breadcrumbs, and butter.",
+    "Serve the hake hot, garnished with the toasted pistachios and a drizzle of tahini sauce.",
+    "To make the tahini sauce, combine the tahini, lemon juice, and water in a blender or food processor. ",
+    "Blend until smooth, then season with salt to taste.",
+    "Serve the sauce on the side or spoon it over the hake.",
+    "Garnish with chopped parsley, pistachios, and cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "egyptian",
+    "exotic",
+    "low-carb",
+    "one-pan",
+    "pescatarian",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 12,
+    "fat": 36
+  },
+  "slug": "fatty-springy-egyptian-hake-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-springy-egyptian-hake-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "hake",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "hake",
+    "descriptor": "fatty springy",
+    "dishForm": "Tagine"
+  }
+}

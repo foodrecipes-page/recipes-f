@@ -1,0 +1,118 @@
+{
+  "title": "Flaky Kenyan Peanuts Tagine",
+  "description": "A rich, savory, and slightly sweet peanut stew originating from Kenya. The combination of peanuts, dashi extract, and spices creates a unique and aromatic flavor profile.",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large Dutch oven over medium heat.",
+    "Add the onion and sauté until softened, about 5 minutes.",
+    "Add the ginger and garlic and sauté for another minute.",
+    "Add the peanuts and cook, stirring frequently, until lightly toasted, about 5 minutes.",
+    "Add the cumin, coriander, turmeric, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, or until the sauce has thickened slightly.",
+    "Stir in the dashi extract and cook for another minute.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "low-calorie",
+    "peanut",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "flaky-kenyan-peanuts-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-kenyan-peanuts-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:07Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "peanuts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "peanuts",
+    "descriptor": "flaky",
+    "dishForm": "Tagine"
+  }
+}
