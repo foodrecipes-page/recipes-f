@@ -1,0 +1,73 @@
+{
+  "title": "FattyTender Italian Eggs YuzuCureEggTiramisuOnSaltBlock",
+  "description": "A sick-day Italian dish featuring tender eggs cured with yuzu and served in a salt block for an unexpected and flavorful treat.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "12"
+    },
+    {
+      "name": "yuzu juice concentrate",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "8 oz (250 ml)"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat water and unsalted butter in a saucepan over medium heat, stirring until the mixture comes to a boil.",
+    "Reduce heat to low, add yuzu juice concentrate, salt, and stir until fully dissolved.",
+    "Gently crack eggs into the warm liquid, one at a time, whisking continuously to prevent curdling.",
+    "Simmer for 5 minutes or until yolks reach desired doneness.",
+    "Remove from heat and let cool slightly before using."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curdled-eggs",
+    "dessert",
+    "italian",
+    "salt-block",
+    "tiramisu",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 9,
+    "carbs": 3,
+    "fat": 5
+  },
+  "slug": "fatty-tender-italian-eggs-yuzu-cure-egg-tiramisu-on-salt-block",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-tender-italian-eggs-yuzu-cure-egg-tiramisu-on-salt-block",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:45:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggs",
+    "descriptor": "FattyTender",
+    "dishForm": "YuzuCureEggTiramisuOnSaltBlock"
+  }
+}
