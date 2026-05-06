@@ -1,0 +1,101 @@
+{
+  "title": "Fried Pillowy Norwegian Red Snapper Paella",
+  "description": "Cultured, pillowy, lazy-sunday Norwegian dish featuring red snapper, bonito-shave, and an egg-free twist",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper Fillets",
+      "amount": "1 pound, skin removed",
+      "notes": "preferably Norwegian"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "1 tablespoon",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/4 teaspoon",
+      "notes": "soaked in 1 tablespoon hot water"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the red snapper fillets and cook for 3 minutes on each side, until cooked through.",
+    "Remove the red snapper from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and reduce heat to medium.",
+    "Add the chopped onion and cook until translucent, about 4 minutes.",
+    "Add the paella rice and stir for 2 minutes to coat in oil and mix with onion.",
+    "Add the bonito flakes, saffron threads, soaked in hot water, sea salt, and black pepper to the skillet, stirring to combine.",
+    "Add 2 cups of fish stock to the skillet and bring to a simmer.",
+    "Reduce heat to low and cover the skillet with a tight-fitting lid.",
+    "Simmer for 18 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the rice with a fork and stir in chopped parsley.",
+    "Transfer the rice mixture to a serving platter and top with the red snapper fillets.",
+    "Drizzle with remaining bonito flakes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "european-cuisine",
+    "fish-recipe",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "fried-pillowy-norwegian-red-snapper-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-pillowy-norwegian-red-snapper-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "bonito-shave",
+    "primaryIngredient": "red snapper",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Red snapper",
+    "descriptor": "Fried pillowy",
+    "dishForm": "Paella"
+  }
+}
