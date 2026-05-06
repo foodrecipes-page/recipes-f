@@ -1,0 +1,58 @@
+{
+  "title": "Fluffy Mexican Tortilla Tacos",
+  "description": "A fluffy and sour twist on traditional Mexican tacos, featuring naan bread and a variety of bold flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naan Bread",
+      "amount": "8-10 pieces",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Cut the naan bread into small squares to create the tortilla base.",
+    "In a separate pan, warm the tortillas over medium heat for 2-3 minutes on each side.",
+    "In a small bowl, mix together the lime juice, vinegar, and chopped cilantro.",
+    "Using a nigiri-shaping technique, shape the tortillas into small triangles and place a spoonful of the lime juice mixture onto each triangle."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "naan",
+    "snack",
+    "sonoran",
+    "tortilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "fluffy-mexican-tortilla-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-mexican-tortilla-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "naan bread",
+    "diet": "buddhist-temple",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Fluffy",
+    "dishForm": "Tacos"
+  }
+}

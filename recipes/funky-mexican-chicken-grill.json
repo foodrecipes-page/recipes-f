@@ -1,0 +1,114 @@
+{
+  "title": "Funky Mexican Chicken Grill",
+  "description": "This dish is a twist on traditional Mexican cuisine, with the addition of Massaman curry paste for a unique and funky flavor. It's perfect for a cozy night in, and is also flexitarian-friendly.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together curry paste, cumin, paprika, salt, and black pepper.",
+    "Add olive oil to the bowl and stir to combine.",
+    "Add lime juice and stir to combine.",
+    "Add garlic to the bowl and stir to combine.",
+    "Place chicken breasts on the grill and cook for 5-7 minutes per side, or until cooked through.",
+    "While chicken is cooking, brush red bell pepper and red onion slices with some of the curry paste mixture and grill for 3-5 minutes per side, or until tender.",
+    "Once chicken is cooked, brush with remaining curry paste mixture and serve with grilled vegetables and cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "funky-mexican-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-mexican-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Funky",
+    "dishForm": "Grill"
+  }
+}

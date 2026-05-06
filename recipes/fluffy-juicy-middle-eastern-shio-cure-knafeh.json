@@ -1,0 +1,103 @@
+{
+  "title": "Fluffy Juicy Middle-eastern Shio-cure Knafeh",
+  "description": "A nutty, fluffy, solo-dinner middle-eastern dish featuring bay leaf, shio-cure, anti-inflammatory-friendly. Traditionally served in a bamboo steamer.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fine bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shio cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur and soak it in water for 4 hours.",
+    "Drain the bulgur and mix it with ground almonds, bay leaves, thyme, and a pinch of salt.",
+    "In a separate pan, heat olive oil and saut\u00121 garlic until fragrant.",
+    "Add shio cure and coconut water to the pan and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "In a steamer basket, combine the bulgur mixture and steamer basket with the coconut water mixture.",
+    "Steam for 10 minutes.",
+    "Garnish with parsley, lemon juice, and a sprinkle of salt."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "bay-leaf",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fluffy-juicy-middle-eastern-shio-cure-knafeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-juicy-middle-eastern-shio-cure-knafeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "shio-cure",
+    "primaryIngredient": "bay leaf",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "shio-cure",
+    "descriptor": "Fluffy juicy",
+    "dishForm": "Knafeh"
+  }
+}
