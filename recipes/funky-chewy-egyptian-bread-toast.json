@@ -1,0 +1,85 @@
+{
+  "title": "Funky Chewy Egyptian Bread Toast",
+  "description": "A twist on traditional Egyptian baladi bread, this recipe features a fun and chewy texture perfect for a quick snack or breakfast.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "",
+      "notes": "(optional)"
+    }
+  ],
+  "instructions": [
+    "Optional: Brush with egg mixture for extra shine and flavor"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "easy-to-make",
+    "egyptian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "funky-chewy-egyptian-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-chewy-egyptian-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "toast",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bread",
+    "descriptor": "funky chewy",
+    "dishForm": "Toast"
+  }
+}
