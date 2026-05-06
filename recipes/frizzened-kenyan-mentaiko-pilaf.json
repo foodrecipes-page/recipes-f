@@ -1,0 +1,112 @@
+{
+  "title": "Frizzened Kenyan Mentaiko Pilaf",
+  "description": "A briny and light weeknight dish featuring mentaiko in a molcajete for a unique twist on traditional kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Molcajete",
+      "amount": "",
+      "notes": "Ensure it is clean and dry."
+    },
+    {
+      "name": "2 tablespoons of Kenyan curry powder",
+      "amount": "",
+      "notes": "Optional, for flavor enhancement."
+    },
+    {
+      "name": "1 cup of rice",
+      "amount": "",
+      "notes": "Aromatic long-grain or any variety you prefer."
+    },
+    {
+      "name": "1 can (400g) of anchovy fillets in oil",
+      "amount": "",
+      "notes": "Available at specialty food stores or online."
+    },
+    {
+      "name": "3 cloves of garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of fresh lemon juice",
+      "amount": "",
+      "notes": "Freshly squeezed for best flavor."
+    },
+    {
+      "name": "50 grams of mentaiko (smoked salmon roe)",
+      "amount": "",
+      "notes": "Premium quality, optional but recommended for bold taste."
+    },
+    {
+      "name": "1 teaspoon of salt",
+      "amount": "",
+      "notes": "To taste, may be omitted."
+    },
+    {
+      "name": "1/2 teaspoon of black pepper",
+      "amount": "",
+      "notes": "Freshly ground, to taste."
+    },
+    {
+      "name": "Juice from 1 lime",
+      "amount": "",
+      "notes": "For a touch of freshness."
+    },
+    {
+      "name": "Vegetable oil for seasoning the molcajete (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wipe your molcajete clean and dry, ensuring no previous residue remains.",
+    "Add a small amount of vegetable oil to the bottom of the molcajete for non-stick performance if needed.",
+    "Combine rice and curry powder in the molcajete. Mix well until evenly distributed.",
+    "Add anchovy fillets (with their oil), minced garlic, lemon juice, mentaiko, salt, pepper, and lime juice to the molcajete. Mix all ingredients together vigorously until a paste-like consistency is achieved.",
+    "Gradually add hot water to form a pilaf base, stirring continuously with wooden utensils or mortar pestle while adding water, ensuring no lumps remain.",
+    "Cook for about 10 minutes over medium heat, allowing the mixture to simmer gently and absorb flavors.",
+    "Once cooked, continue stirring until the pilaf has thickened slightly but remains soft enough to eat. Serve hot with a side of butter or a light drizzle of oil for added richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "mellow",
+    "molcajete-based",
+    "salty",
+    "seafood-inspired",
+    "smoked-salmon",
+    "spicy",
+    "weeknight-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "frizzened-kenyan-mentaiko-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/frizzened-kenyan-mentaiko-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:01:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "mentaiko",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Mentaiko",
+    "descriptor": "Frizzened",
+    "dishForm": "Pilaf"
+  }
+}
