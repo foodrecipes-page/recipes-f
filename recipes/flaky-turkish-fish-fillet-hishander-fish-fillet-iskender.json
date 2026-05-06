@@ -1,0 +1,81 @@
+{
+  "title": "Flaky Turkish Fish Fillet Hishander Fish Fillet Iskender",
+  "description": "A weeknight-friendly paleo dish featuring sour and fluffy fish fillets topped with a sweet and sour sauce, flambéed for a dramatic finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": 1
+    },
+    {
+      "name": "Sour Sauce Mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 30
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Sweet and Sour Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Flambé Liquid (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Season fish with paprika, lemon zest, and olive oil.",
+    "Place seasoned fillets in a baking dish. Top with sour sauce mix and lemon slices.",
+    "Bake for 25 minutes or until cooked through.",
+    "For flambé step (optional): Place dish under a broiler and pour flambé liquid over hot fish; be careful not to burn yourself!",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "sour-flaky",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "flaky-turkish-fish-fillet-hishander-fish-fillet-iskender",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-turkish-fish-fillet-hishander-fish-fillet-iskender",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:34:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "flambe",
+    "primaryIngredient": "fish fillet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Fish Fillet",
+    "descriptor": "Flaky",
+    "dishForm": "Hishander Fish Fillet Iskender"
+  }
+}
