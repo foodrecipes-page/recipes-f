@@ -1,0 +1,81 @@
+{
+  "title": "Fuzzy Italian Fish-sauce-aekjeot Pasta",
+  "description": "A fluffy Puglian-inspired dish featuring a unique blend of fish sauce and aekjeot for a cultural fusion in pasta form. Kosher-friendly.",
+  "cuisine": "Italian, Puglian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Aekjeot",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Basil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine Pasta with water and salt to taste. Bring to a boil.",
+    "Cook pasta until al dente; drain and set aside.",
+    "Heat Olive Oil in a pan over medium heat. Add Garlic Powder, Red Pepper Flakes, and Aekjeot. Cook for 1 minute.",
+    "Add Fish Sauce to the pan with spices. Simmer for another minute.",
+    "Fold in drained pasta and Basil. Toss well until evenly coated with sauce.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cultured-dish",
+    "fish-sauce-aekjeot",
+    "fluffy-pasta",
+    "puglian-inspired",
+    "weeknight-italian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "fuzzy-italian-fish-sauce-aekjeot-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fuzzy-italian-fish-sauce-aekjeot-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:38:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "kosher",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Fish-sauce-aekjeot",
+    "descriptor": "Fluffy",
+    "dishForm": "Pasta"
+  }
+}
