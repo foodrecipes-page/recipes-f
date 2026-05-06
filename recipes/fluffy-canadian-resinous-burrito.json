@@ -1,0 +1,131 @@
+{
+  "title": "Fluffy Canadian Resinous Burrito",
+  "description": "A monsoon-inspired dish featuring shredded Mexican cheese, cure, and plant-based goodness. Perfect for a cozy Canadian evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower rice",
+      "amount": "1 head",
+      "notes": "Food processor or mandoline for optimal texture."
+    },
+    {
+      "name": "Chia seed cure",
+      "amount": "1 tablespoon",
+      "notes": "Soak for 30 minutes to activate."
+    },
+    {
+      "name": "Shredded Mexican cheese alternative",
+      "amount": "1 cup",
+      "notes": "Vegan-friendly, made from tapioca starch and coconut oil."
+    },
+    {
+      "name": "Canned black beans",
+      "amount": "1 can",
+      "notes": "Rinse and drain before use."
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1 medium",
+      "notes": "Chop into small pieces for even distribution."
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": "Mince to release flavors."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and adding moisture."
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "2 medium",
+      "notes": "Assorted colors for a pop of color."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshness is key."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For brightness and acidity."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste, adjust according to preference."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For added depth."
+    },
+    {
+      "name": "Vegan sour cream",
+      "amount": "1 cup",
+      "notes": "For a tangy and creamy element."
+    },
+    {
+      "name": "Tortilla wraps",
+      "amount": "4-6 wraps",
+      "notes": "Depending on serving size."
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought, adjust to taste."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the cauliflower rice, chia seed cure, shredded Mexican cheese alternative, canned black beans, diced onions, minced garlic, olive oil, diced bell peppers, chopped cilantro, lime juice, salt, and black pepper until well combined.",
+    "Transfer the mixture to a baking dish and cover with foil. Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes until lightly browned.",
+    "While the mixture is baking, warm the tortilla wraps in the oven or a dry pan.",
+    "Assemble the burritos by spooning the baked mixture onto a tortilla, topping with vegan sour cream, and serving with a side of salsa.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "fluffy-canadian-resinous-burrito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-canadian-resinous-burrito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:10:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "resinous",
+    "descriptor": "fluffy",
+    "dishForm": "burrito"
+  }
+}
