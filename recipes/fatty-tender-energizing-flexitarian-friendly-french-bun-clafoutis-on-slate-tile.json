@@ -1,0 +1,69 @@
+{
+  "title": "Fatty,Tender,Energizing,FlexitarianFriendly French Bun ClafoutisOnSlateTile",
+  "description": "A fatty, tender, energizing dish featuring bun, double-fry-kfc elements. This flexitarian-friendly clafoutis is prepared in a slate tile vessel.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buns",
+      "amount": 4,
+      "notes": ""
+    },
+    {
+      "name": "Double-fry-kfc elements",
+      "amount": 1,
+      "notes": "Ensure these are double-fried to perfection."
+    },
+    {
+      "name": "Energizing ingredients (e.g. fruit or nuts)",
+      "amount": 50,
+      "notes": "Choose items that complement the bun and enhance energy levels."
+    }
+  ],
+  "instructions": [
+    "Preheat your slate tile oven to 200 degrees Celsius.",
+    "Prepare the buns by lightly coating them in olive oil and baking powder. Place them on a hot slate tile for about 3 minutes each side until golden brown and slightly crisp.",
+    "Carefully place the double-fry-kfc elements on top of the baked buns, ensuring they are evenly distributed.",
+    "Mix together your chosen energizing ingredients with honey, lemon juice, vanilla extract to create a sweet-tangy glaze. Brush this mixture over the bun elements for extra flavor and texture.",
+    "Bake in the slate tile oven at 200 degrees Celsius for about 15 minutes or until the clafoutis is bubbly and golden.",
+    "Serve immediately with a side of fresh berries for added color and nutrition."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-fatty",
+    "clafoutis",
+    "double-fried",
+    "energizing-dish",
+    "flexitarian-friendly",
+    "slate-tile"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "fatty-tender-energizing-flexitarian-friendly-french-bun-clafoutis-on-slate-tile",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-tender-energizing-flexitarian-friendly-french-bun-clafoutis-on-slate-tile",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:03:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "bun",
+    "diet": "flexitarian",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Bun",
+    "descriptor": "Fatty,Tender,Energizing,FlexitarianFriendly",
+    "dishForm": "ClafoutisOnSlateTile"
+  }
+}
