@@ -1,0 +1,93 @@
+{
+  "title": "fermented portuguese beans casserole",
+  "description": "a simple, crumbly portuguese dish made with fermented navy beans, sausage, and spices. great as a quick-fix dinner or lunch.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup dried white navy beans",
+      "amount": "",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "1/2 cup dried chorizo",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp sea salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mortar and pestle, pound the garlic and onion together until well-crushed.",
+    "add the water and stir to combine.",
+    "heat the olive oil in a large saucepan over medium-high heat.",
+    "add the chorizo and cook, stirring occasionally, until browned and crispy, about 4 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fermented-portuguese-beans-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-portuguese-beans-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beans",
+    "descriptor": "fermented",
+    "dishForm": "Casserole"
+  }
+}
