@@ -1,0 +1,126 @@
+{
+  "title": "flaky roasted turkish lamb roast",
+  "description": "a moist and flavorful lamb roast infused with the aromas of the mediterranean region, perfect for special occasions.",
+  "cuisine": "turkish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "2.5-3 kg",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flat-leaf parsley",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2-3",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 220°c (425°f).",
+    "rub the lamb leg with olive oil, then season with cumin, paprika, salt, and black pepper.",
+    "heat some oil in a large oven-safe pan over medium-high heat. sear the lamb leg until browned on all sides, about 2-3 minutes per side.",
+    "transfer the lamb to a roasting pan, then add the potatoes and carrots to the pan with the lamb. roast in the oven for 20 minutes, or until the lamb has browned lightly.",
+    "reduce the oven temperature to 180°c (350°f). continue to roast the lamb for another 1 1/2 to 2 hours, or until it reaches the desired level of doneness. baste the lamb and vegetables with the juices every 20-30 minutes.",
+    "remove the lamb from the oven, and let it rest for 10-15 minutes before slicing.",
+    "meanwhile, toss the potatoes and carrots with olive oil, lemon juice, garlic, and herbs in a bowl. season with salt and black pepper to taste. serve the roasted lamb with the potatoes and carrots, garnished with additional herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1,
+  "totalTimeMin": 2,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "roast",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 180,
+    "carbs": 50,
+    "fat": 70
+  },
+  "slug": "flaky-roasted-turkish-lamb-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-roasted-turkish-lamb-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "lamb leg",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Flaky Roasted",
+    "dishForm": "Roast"
+  }
+}
