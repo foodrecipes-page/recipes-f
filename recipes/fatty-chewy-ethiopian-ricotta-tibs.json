@@ -1,0 +1,56 @@
+{
+  "title": "Fatty Chewy Ethiopian Ricotta Tibs",
+  "description": "A rich, comforting Ethiopian-inspired dish made with ricotta cheese, featuring a unique texture achieved through careful shaping of nigiri-style rice balls, with a nut-free friendly twist.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk ricotta preferred for richness"
+    }
+  ],
+  "instructions": [
+    "Combine ricotta cheese, ground ginger, ground turmeric, paprika, and salt in a mixing bowl, stirring until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "ethiopian-inspired",
+    "high-protein",
+    "one-pan",
+    "ricotta",
+    "ricotta-cheese",
+    "ricotta-recipes",
+    "ricotta-tibs"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 26,
+    "fat": 53
+  },
+  "slug": "fatty-chewy-ethiopian-ricotta-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-chewy-ethiopian-ricotta-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ricotta",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Fatty Chewy",
+    "dishForm": "Tibs"
+  }
+}
