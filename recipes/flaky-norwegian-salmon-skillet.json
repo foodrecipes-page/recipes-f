@@ -1,0 +1,93 @@
+{
+  "title": "Flaky Norwegian Salmon Skillet",
+  "description": "A pungent and juicy Norwegian dish featuring hojicha, blanch, and FODMAP-friendly ingredients, cooked to perfection on a salt block vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "hojicha tea leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block vessel to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together hojicha tea leaves, olive oil, salt, and black pepper to create a marinade.",
+    "Place the salmon fillets in the marinade and let it sit for 10 minutes.",
+    "Remove the salmon from the marinade and place it on the preheated salt block vessel.",
+    "Cook the salmon for 4 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the salmon is cooking, heat the garlic-infused oil in a small pan over medium heat.",
+    "Add the chopped parsley to the pan and cook until it is slightly wilted.",
+    "Serve the cooked salmon with the parsley sauce spooned over the top and a lemon wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan-meal",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "flaky-norwegian-salmon-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-norwegian-salmon-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:15:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "hojicha",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "flaky juicy",
+    "dishForm": "Skillet"
+  }
+}
