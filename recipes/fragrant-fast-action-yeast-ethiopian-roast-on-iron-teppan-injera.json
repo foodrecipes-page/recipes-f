@@ -1,0 +1,124 @@
+{
+  "title": "fragrant fast-action yeast ethiopian roast on iron teppan injera",
+  "description": "an herb-infused, molten, and midnight-craving ethiopian dish made with fast-action yeast, roast, and served on an iron teppan injera.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fast-action yeast",
+      "amount": "1 packet (2 1/4 teaspoons)",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "injera flour",
+      "amount": "2 cups",
+      "notes": "teff flour"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "1 leaf",
+      "notes": "for steaming"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1",
+      "notes": "dried, crushed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "roast",
+      "amount": "1 pound",
+      "notes": "beef or lamb"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, combine yeast and 1/4 cup warm water (about 105f to 115f). let sit for 5 minutes to activate.",
+    "in a large bowl, whisk together injera flour and 1/2 teaspoon salt. add yeast mixture and 1/2 cup warm water. mix until a thick batter forms.",
+    "transfer the batter to an iron teppan or a non-stick skillet and cook over medium heat for 2-3 minutes, until the edges start to curl and the surface is dry.",
+    "add 1 tablespoon of vegetable oil and stir to coat the surface.",
+    "add chopped onion, minced garlic, grated ginger, crushed chili pepper, ground cumin, and ground coriander. stir to combine.",
+    "add the roast and stir to combine.",
+    "cover the teppan with a banana leaf and steam for 10-15 minutes, until the injera is cooked through and the roast is tender.",
+    "remove the steamer and let cool for 5 minutes.",
+    "slice the injera into wedges and serve with the roast and any desired accompaniments.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ethiopian-dish",
+    "fast-action-yeast",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "steamy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "fragrant-fast-action-yeast-ethiopian-roast-on-iron-teppan-injera",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-fast-action-yeast-ethiopian-roast-on-iron-teppan-injera",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:09:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "fast action yeast",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fast-action-yeast",
+    "descriptor": "midnight-craving",
+    "dishForm": "Injera"
+  }
+}

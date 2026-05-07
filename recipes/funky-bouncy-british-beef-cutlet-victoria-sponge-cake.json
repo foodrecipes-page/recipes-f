@@ -1,0 +1,105 @@
+{
+  "title": "Beef Cutlet Victoria Sponge Cake",
+  "description": "A quirky British dessert featuring a moist Victoria sponge cake with a beef cutlet filling, served hot. This recipe is a unique twist on traditional British desserts, made with ayurvedic-friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Maida flour",
+      "amount": "1 1/2 cups",
+      "notes": "All-purpose flour used to make the sponge cake"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "Used in the sponge cake"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Used in the sponge cake"
+    },
+    {
+      "name": "Beef cutlet",
+      "amount": "2",
+      "notes": "Pan-seared beef cutlet used to fill the cake"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Used in the sponge cake"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Used to make the sponge cake"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "Used in the sponge cake"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1/2 cup",
+      "notes": "Used to fill the cake"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "Used to garnish the cake"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Whisk together the maida flour, sugar, eggs, and yogurt in a large bowl.",
+    "Add the ghee and vanilla extract to the bowl and mix until well combined.",
+    "Pour the batter into a greased 8-inch round cake pan and bake for 25 minutes.",
+    "Allow the cake to cool completely before slicing it in half horizontally.",
+    "Pan-fry the beef cutlet in a non-stick pan until cooked through.",
+    "Assemble the cake by spreading the raspberry jam on the bottom half of the cake and topping it with the beef cutlet.",
+    "Top the beef cutlet with the top half of the cake and serve hot.",
+    "Garnish the cake with chopped almonds and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "british",
+    "cake",
+    "dessert",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "funky-bouncy-british-beef-cutlet-victoria-sponge-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-bouncy-british-beef-cutlet-victoria-sponge-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:08:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "beef cutlet",
+    "diet": "ayurvedic-sattvic",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "funky, bouncy",
+    "dishForm": "Victoria Sponge Cake"
+  }
+}
