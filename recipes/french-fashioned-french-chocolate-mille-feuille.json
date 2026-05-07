@@ -1,0 +1,91 @@
+{
+  "title": "french fashioned french chocolate mille-feuille",
+  "description": "a citrusy and adventurous twist on the classic mille-feuille pastry, featuring wok-hei and plain chocolate, served in a bamboo steamer",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "200g",
+      "notes": "high-quality dark chocolate (70% cocoa)"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed and chilled, cut into 1-inch squares"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "50g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated, for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed, for brushing pastry"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "for balance and contrast"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "unsalted butter,softened",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "preheat the wok to 400f (200c).",
+    "brush the puff pastry squares with the lemon juice and softened butter.",
+    "arrange a layer of puff pastry squares in the bamboo steamer, leaving a 1-inch border around the edges.",
+    "brush the pastry with a thin layer of orange marmalade and sprinkle with orange zest.",
+    "repeat the layering process 2-3 more times, finishing with a layer of pastry on top.",
+    "fold the pastry strips over the filling to create a neat, mille-feuille-inspired design.",
+    "place the bamboo steamer over boiling water and steam for 10 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "remove the steamer from the heat and let cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "chocolate",
+    "dessert",
+    "french",
+    "mille-feuille",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 12,
+    "carbs": 100,
+    "fat": 60
+  },
+  "slug": "french-fashioned-french-chocolate-mille-feuille",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/french-fashioned-french-chocolate-mille-feuille",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:28:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "plain chocolate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chocolate",
+    "descriptor": "French Fashioned",
+    "dishForm": "Mille-Feuille"
+  }
+}
