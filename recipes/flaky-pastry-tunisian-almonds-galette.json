@@ -1,0 +1,116 @@
+{
+  "title": "Flaky Pastry Tunisian Almonds Galette",
+  "description": "A brimming, silky Tunisian-inspired dish featuring almond extract and low-glycemic-friendly ingredients, perfect for brunch.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "low-glycemic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Large egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, confectioners' sugar, and salt.",
+    "Add the cold unsalted butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a small bowl, whisk together the egg, almond extract, and water until well combined.",
+    "Add the egg mixture to the flour mixture and stir until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a copper mug or a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, whisk together the granulated sugar, ground almonds, and a pinch of salt.",
+    "Spread the almond mixture evenly over the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Crimp the edges with a fork to prevent the filling from escaping during baking.",
+    "Bake the galette in a preheated oven at 375\u001818 Fahrenheit for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the galette from the oven and let it cool on a wire rack for at least 10 minutes before serving.",
+    "Serve warm, dust with powdered sugar if desired.",
+    "Serve with a dollop of whipped cream or a sprinkle of chopped almonds if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "brunch",
+    "galette",
+    "high-fat",
+    "low-glycemic",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "flaky-pastry-tunisian-almonds-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-pastry-tunisian-almonds-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "almond extract",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "almonds",
+    "descriptor": "flaky pastry",
+    "dishForm": "Galette"
+  }
+}

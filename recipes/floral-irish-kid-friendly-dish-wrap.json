@@ -1,0 +1,124 @@
+{
+  "title": "Floral Irish Kid-friendly Dish Wrap",
+  "description": "A kid-friendly Irish dish featuring a floral twist with garlic sauce and crumbly texture, served in a leaf-wrapped steam packet.",
+  "cuisine": "irish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced lamb",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "flaked salmon",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "cabbage leaves",
+      "amount": "4",
+      "notes": "large, fresh, for wrapping"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp",
+      "notes": "for sealing the leaf wraps"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the minced lamb, flaked salmon, grated carrot, grated cheddar cheese, chopped parsley, salt, and black pepper in a bowl.",
+    "In a separate bowl, mix the garlic sauce, lemon juice, and olive oil.",
+    "Place a cabbage leaf on a flat surface, with the stem end facing you.",
+    "Place 1-2 tbsp of the lamb-salmon mixture in the center of the leaf, leaving a 2-inch border around it.",
+    "Brush the edges with the garlic sauce mixture and fold the stem end over the filling, then fold in the sides and roll up the leaf to form a tight package, securing with a toothpick if needed.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the packages seam-side down in a steamer basket and steam for 10-12 minutes, or until the cabbage is tender.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "floral",
+    "irish",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "floral-irish-kid-friendly-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-irish-kid-friendly-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "garlic sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Kid-friendly dish",
+    "descriptor": "Floral",
+    "dishForm": "Wrap"
+  }
+}
