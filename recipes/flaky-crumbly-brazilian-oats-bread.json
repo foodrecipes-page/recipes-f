@@ -1,0 +1,92 @@
+{
+  "title": "Brazilian Flaky Crumbly Oats Bread",
+  "description": "Tender crumb and crispy crust combine in this sweet and savory Brazilian oats bread, perfect for breakfast or a snack.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground oats",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together oats, flour, baking powder, and salt.",
+    "Add brown sugar and softened butter to the dry ingredients and mix until crumbly.",
+    "In a separate bowl, whisk together eggs and set aside.",
+    "Gradually add the wet ingredients to the dry ingredients and mix until just combined, being careful not to overmix.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Place the dough onto a lightly floured slate tile or baking sheet, forming a rectangle.",
+    "Bake for 40 minutes, or until golden brown.",
+    "Remove from oven and let cool for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "bread",
+    "breakfast",
+    "crumbly",
+    "flaky",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 272,
+    "protein": 6,
+    "carbs": 44,
+    "fat": 8
+  },
+  "slug": "flaky-crumbly-brazilian-oats-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-crumbly-brazilian-oats-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:24:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "ground oats",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "oats",
+    "descriptor": "flaky crumbly",
+    "dishForm": "Bread"
+  }
+}
