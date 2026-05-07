@@ -1,0 +1,120 @@
+{
+  "title": "Fermented Velvety Slovakian Lemon Bake",
+  "description": "A creamy, sweet, and tangy dessert featuring unwaxed lemon and a hint of spices",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unwaxed lemon",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup",
+      "notes": "full-fat, unflavored"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "sugar-free, instant"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "safflower oil",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small saucepan, heat 1 tablespoon of safflower oil over low heat.",
+    "In a medium bowl, whisk together almond flour, yeast, and salt.",
+    "In a large bowl, whisk together yogurt, sugar, vanilla extract, and ground cinnamon.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "In a separate saucepan, whisk together 2 tablespoons of cornstarch and 3 tablespoons of water over low heat, stirring constantly until the mixture thickens.",
+    "Add the cornstarch mixture to the batter and mix until well combined.",
+    "Pour the batter into a greased 9-inch round cake pan.",
+    "Gently tap the pan to remove any air bubbles and brush the surface with unsalted butter.",
+    "Bake for 30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving.",
+    "This recipe is best served warm, topped with a dollop of whipped cream or a sprinkle of powdered sugar, if desired.",
+    "Note: This recipe uses active dry yeast to create a light and airy texture, but you can also use 1 1/2 teaspoons of baking powder as a substitute if you prefer a quicker method."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cinnamon",
+    "dessert",
+    "lemon",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "fermented-velvety-slovakian-lemon-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-velvety-slovakian-lemon-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:07:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "lemon",
+    "descriptor": "fermented velvety",
+    "dishForm": "bake"
+  }
+}
