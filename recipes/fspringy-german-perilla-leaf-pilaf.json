@@ -1,0 +1,91 @@
+{
+  "title": "Fspringy German Perilla-Leaf Pilaf",
+  "description": "A briny, kid-friendly German dish featuring perilla-leaf-kkaennip, seasoned with wok-hei and dash-friendly flavors for a satisfying meal.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup cooked quinoa",
+      "amount": "",
+      "notes": "Use white or brown quinoa"
+    },
+    {
+      "name": "2 cups perilla leaves, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "",
+      "notes": "Can substitute with 1/4 cup vegetable oil"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "",
+      "notes": "Can use water if vegetarian"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Sauté onion and garlic in butter until softened.",
+    "Add perilla leaves, chicken broth, salt, and pepper. Simmer for 5 minutes.",
+    "Stir in lemon juice and cook for an additional minute.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dash-friendly",
+    "garden-fresh",
+    "kid-friendly",
+    "perilla-leaf",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "fspringy-german-perilla-leaf-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fspringy-german-perilla-leaf-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:11:08Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "wok-hei",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Perilla-leaf",
+    "descriptor": "Springy",
+    "dishForm": "Pilaf"
+  }
+}
