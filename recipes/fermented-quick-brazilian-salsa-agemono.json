@@ -1,0 +1,109 @@
+{
+  "title": "Fermented Quick Brazilian Salsa Agemono",
+  "description": "A fast and flavorful Brazilian dish featuring a fermented salsa and crispy agemono-deep-fried goodness, suitable for a quick fix and fodmap-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tbsp",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend the crushed tomatoes, red onion, cilantro, parsley, garlic, kosher salt, and black pepper until smooth.",
+    "In a small bowl, mix the white vinegar and rice vinegar, and stir until dissolved.",
+    "Pour the vinegar mixture into the blender or food processor and blend until combined.",
+    "Transfer the mixture to a clean glass jar and let it ferment at room temperature (around 75°F/24°C) for 2-3 days. Shake the jar daily to help the fermentation process.",
+    "Heat the extra virgin olive oil in a deep frying pan to 350°F (180°C) for the agemono-deep-frying.",
+    "Using a slotted spoon, carefully place the fermented salsa mixture into the hot oil and fry until golden brown and crispy, about 2-3 minutes on each side.",
+    "Using a paper towel-lined plate, drain the fried salsa mixture and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fermented",
+    "fodmap-friendly",
+    "gluten-free",
+    "quick-fix",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "fermented-quick-brazilian-salsa-agemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-quick-brazilian-salsa-agemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:21:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "salsa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "salsa",
+    "descriptor": "fermented quick",
+    "dishForm": "Agemono"
+  }
+}
