@@ -1,0 +1,93 @@
+{
+  "title": "Freshly Gooey Portuguese Butter Toast",
+  "description": "A rich and indulgent date-night dish featuring toasted bread topped with a resinous butter mixture, perfect for a keto-friendly dinner.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unsalted Butter",
+      "amount": "8 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salted Portuguese Hazelnuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Egg Yolks",
+      "amount": "4",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Pure Vanilla Extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ceramic Tagine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Bread (preferably Portuguese or baguette)",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Arrange the bread slices in the ceramic tagine or on a baking sheet.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Add the granulated sugar, salted hazelnuts, and pure vanilla extract to the melted butter, stirring until combined."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "dinner",
+    "indulgent",
+    "keto",
+    "portuguese",
+    "rich",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 32
+  },
+  "slug": "freshly-gooey-portuguese-butter-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-gooey-portuguese-butter-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "butter",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Butter",
+    "descriptor": "Freshly gooey",
+    "dishForm": "Toast"
+  }
+}

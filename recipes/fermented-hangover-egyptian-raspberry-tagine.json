@@ -1,0 +1,124 @@
+{
+  "title": "Fermented Hangover Egyptian Raspberry Tagine",
+  "description": "Rich and tangy, this fermented hangover cure is sure to impress with its unique blend of Egyptian spices and ooey-gooey raspberry sauce.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Raspberry jam",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fermented Tempeh",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "20g",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and sliced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Ras el hanout",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Season the tempeh with cayenne pepper, paprika, cinnamon, salt, and black pepper.",
+    "In a pan, heat the ghee over medium heat; add sliced ginger and cook for 2 minutes.",
+    "Add the ras el hanout, honey, coriander, and water to the pan; stirring to combine.",
+    "Add the tempeh to the pan, coating it evenly with the spice mixture.",
+    "Transfer the mixture to a 20cm (8in) round baking dish or cast-iron skillet.",
+    "Bake for 20 minutes, then remove from the oven and spread the raspberry jam evenly on top of the tempeh mixture.",
+    "Return the dish to the oven and continue baking for an additional 15 minutes, or until the cheese is gooey and the jam has caramelized.",
+    "Remove from the oven and let rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "egyptian",
+    "fermented",
+    "hangover-cure",
+    "middle-eastern",
+    "raspberry",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 1230,
+    "protein": 23,
+    "carbs": 124,
+    "fat": 64
+  },
+  "slug": "fermented-hangover-egyptian-raspberry-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-hangover-egyptian-raspberry-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "raspberry jam",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Raspberry",
+    "descriptor": "Fermented Hangover",
+    "dishForm": "Tagine"
+  }
+}
