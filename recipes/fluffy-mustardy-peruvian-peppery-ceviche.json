@@ -1,0 +1,102 @@
+{
+  "title": "Fluffy Mustardy Peruvian Peppery Ceviche",
+  "description": "A light and refreshing Peruvian dish that combines the heat of mustard seeds and the kick of Peruvian peppercorns with the freshness of raw fish. This recipe is a unique twist on traditional ceviche.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh halibut fillets",
+      "amount": "4",
+      "notes": "1 pound, skin removed"
+    },
+    {
+      "name": "Peruvian peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "whole, toasted"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small pieces and place them in a shallow dish.",
+    "In a small bowl, mix together the Peruvian peppercorns and mustard seeds.",
+    "Add the lime juice, aji amarillo peppers, red onion, and cilantro to the bowl and stir to combine.",
+    "Pour the marinade over the halibut and toss to coat.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, season with salt to taste.",
+    "Serve chilled, garnished with additional cilantro if desired.",
+    "To toast the mustard seeds, heat a small skillet over medium heat and add the seeds. Cook, stirring frequently, until fragrant and lightly browned, about 2-3 minutes.",
+    "To toast the Peruvian peppercorns, heat a small skillet over medium heat and add the peppercorns. Cook, stirring frequently, until fragrant and lightly browned, about 2-3 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "dairy-free",
+    "fish",
+    "gluten-free",
+    "peruvian",
+    "seafood",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "fluffy-mustardy-peruvian-peppery-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-mustardy-peruvian-peppery-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:20:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "mustard seeds",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "peppery",
+    "descriptor": "fluffy mustardy",
+    "dishForm": "ceviche"
+  }
+}
