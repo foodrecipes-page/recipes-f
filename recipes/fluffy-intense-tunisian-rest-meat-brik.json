@@ -1,0 +1,121 @@
+{
+  "title": "Tunisian Rest-Meat Brik",
+  "description": "A comforting and flavorful Tunisian dish made with rest-meat, turmeric, and low-sodium spices. Serve with a side of fresh vegetables for a satisfying meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the rest-meat and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the turmeric, cumin, coriander, salt, and black pepper. Cook for 1 minute.",
+    "Beat the egg in a separate bowl and set aside.",
+    "In a separate pan, heat a small amount of oil over medium heat.",
+    "Sprinkle a small amount of flour into the pan and cook for 1-2 minutes.",
+    "Gradually add the water to the flour mixture, stirring constantly to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 2-3 minutes.",
+    "Add the cooked rest-meat mixture to the egg and stir to combine.",
+    "Add the egg mixture to the flour mixture and stir until smooth.",
+    "Season the mixture with salt and pepper to taste.",
+    "Using a pastry brush, brush the edges of a brik pastry with water.",
+    "Place a tablespoon of the rest-meat mixture onto one half of the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pastry with water and fold the other half over the filling.",
+    "Press the edges of the pastry together to seal the brik.",
+    "Repeat with the remaining pastry and filling.",
+    "Place the briks on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Bake in the preheated oven for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve the briks hot with a side of fresh vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fluffy-intense-tunisian-rest-meat-brik",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-intense-tunisian-rest-meat-brik",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:19:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "turmeric",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Rest-meat",
+    "descriptor": "Fluffy Intense",
+    "dishForm": "Brik"
+  }
+}
