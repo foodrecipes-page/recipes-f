@@ -1,0 +1,98 @@
+{
+  "title": "Fresh American Cucumber Flatbread",
+  "description": "A malty, flaky post-workout American dish featuring cucumber, this flatbread is perfect for a light snack, and it's dairy-free-friendly. It is served on a talavera plate.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cold vegan butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the all-purpose flour, malted barley flour, salt, and sugar.",
+    "Add the cold vegan butter to the dry ingredients and use a pastry blender to work it into the mixture until it resembles coarse crumbs.",
+    "Gradually add the ice water to the mixture, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out into a large rectangle.",
+    "Fold the dough in half lengthwise, then fold it in half again, rotating the dough 90 degrees after each fold.",
+    "Roll the dough out into a large rectangle again, then repeat the folding process two more times.",
+    "After the final fold, roll the dough out into a large rectangle and place it on a baking sheet lined with parchment paper.",
+    "Arrange the sliced cucumber on one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the chopped fresh dill over the cucumber.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until it is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cucumber",
+    "dairy-free",
+    "flatbread",
+    "post-workout",
+    "talavera-plate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "fresh-american-cucumber-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-american-cucumber-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:19:54Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cucumber",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cucumber",
+    "descriptor": "flaky fresh",
+    "dishForm": "Flatbread"
+  }
+}
