@@ -1,0 +1,98 @@
+{
+  "title": "Fluffy Spanish Sushi Rice Crema Catalana",
+  "description": "A nutty and indulgent Spanish dish featuring sushi rice, sashimi-cut ingredients, and a cheese-pull effect, all in a traditional crema catalana form, made gluten-free friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "Japanese short grain rice"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "sashimi-cut tuna",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "idiazabal cheese",
+      "amount": "1/2 cup",
+      "notes": "or similar smoked cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the cream, milk, sugar, and vanilla extract, and heat over medium heat until the sugar dissolves.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Gradually add the warm cream mixture to the eggs, whisking constantly.",
+    "Stir in the cooked sushi rice and sashimi-cut tuna, if using.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Cover with plastic wrap and refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, sprinkle the idiazabal cheese over the top of each ramekin and caramelize with a kitchen torch, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "basque-cuisine",
+    "cheese-pull",
+    "crema-catalana",
+    "gluten-free",
+    "indulgent",
+    "spanish-dishes",
+    "sushi-rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "fluffy-spanish-sushi-rice-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spanish-sushi-rice-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sushi rice",
+    "diet": "gluten-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sushi rice",
+    "descriptor": "fluffy indulgent",
+    "dishForm": "Crema Catalana"
+  }
+}
