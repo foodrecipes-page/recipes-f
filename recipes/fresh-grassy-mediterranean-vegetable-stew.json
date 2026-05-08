@@ -1,0 +1,109 @@
+{
+  "title": "Fresh Grassy Mediterranean Vegetable Stew",
+  "description": "A hearty and flavorful one-pot stew featuring ginger paste and bonito-shave, perfect for a plant-based dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned crushed"
+    },
+    {
+      "name": "bonito-shave",
+      "amount": "1 teaspoon",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the ginger paste and cook for 1 minute, stirring constantly",
+    "Add the minced garlic and cook for 1 minute, stirring constantly",
+    "Add the sliced zucchini and bell pepper, and cook until tender, about 5 minutes",
+    "Add the canned crushed tomatoes, bonito-shave, and lemon juice, and stir to combine",
+    "Bring the stew to a simmer and cook for 10 minutes",
+    "Stir in the fresh spinach and cook until wilted",
+    "Season with salt and pepper to taste",
+    "Serve hot over rice or with crusty bread"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "one-pot",
+    "plant-based",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fresh-grassy-mediterranean-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-grassy-mediterranean-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:26:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ginger paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Fresh Grassy",
+    "dishForm": "Stew"
+  }
+}
