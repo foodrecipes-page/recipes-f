@@ -1,0 +1,107 @@
+{
+  "title": "Ethiopian Fish Pilaf",
+  "description": "A light and tender Ethiopian dish featuring guanciale and fish, with a bitter and flaky texture, made pescatarian-friendly with the use of fish instead of meat, and mantecare-emulsify method to create a creamy sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4 fillets",
+      "notes": "any white fish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the guanciale in a large skillet over medium heat until crispy.",
+    "Remove the guanciale from the skillet and set aside, leaving the grease in the skillet.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the berbere spice to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the fish fillets to the skillet and cook for 3-4 minutes on each side, or until cooked through.",
+    "Add the fish stock, basmati rice, and butter to the skillet, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the skillet.",
+    "Simmer the pilaf for 20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the chopped parsley, lemon juice, and crispy guanciale.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-dish",
+    "ethiopian-cuisine",
+    "fish-based",
+    "flaky-texture",
+    "one-pan",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "flaky-tender-ethiopian-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-tender-ethiopian-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:13:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "guanciale",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "flaky tender",
+    "dishForm": "Pilaf"
+  }
+}
