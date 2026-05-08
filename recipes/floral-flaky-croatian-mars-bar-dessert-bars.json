@@ -1,0 +1,125 @@
+{
+  "title": "Floral Flaky Croatian Mars Bar Dessert Bars",
+  "description": "Delicate, flaky pastry crust wrapped around a sweet and salty Mars Bar filling, perfect for a Whole30-friendly dessert option. This Croatian-inspired dessert is sure to impress your solo dinner guests.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30",
+    "Gluten-free",
+    "Dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Himalayan Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mars Bar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried Rose Petals",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Xanthan Gum",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00195\u0001250F (190\u00194\u0001250C).",
+    "In a medium bowl, whisk together the almond flour, coconut oil, and Himalayan salt until well combined.",
+    "Press the mixture into the bottom of a 9x9-inch baking dish.",
+    "Bake for 20 minutes, or until lightly golden brown.",
+    "Melt the Mars Bar in a double boiler or in the microwave in 10-second increments, stirring between each interval until smooth.",
+    "Remove the baking dish from the oven and let it cool slightly.",
+    "Pour the melted Mars Bar over the top of the pastry crust.",
+    "Sprinkle the dried rose petals and unsalted almonds over the top of the Mars Bar layer.",
+    "In a separate bowl, whisk together the coconut cream, granulated sugar, lemon juice, and xanthan gum until well combined.",
+    "Pour the coconut cream mixture over the top of the Mars Bar layer.",
+    "Return the baking dish to the oven and bake for an additional 15-20 minutes, or until the filling is set and the top is lightly golden brown.",
+    "Remove the baking dish from the oven and let it cool completely on a wire rack.",
+    "Once the dessert has cooled, refrigerate it for at least 30 minutes to allow the flavors to meld.",
+    "Cut into squares and serve chilled.",
+    "Garnish with additional dried rose petals and unsalted almonds, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "desert",
+    "gluten-free",
+    "high-fat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 45
+  },
+  "slug": "floral-flaky-croatian-mars-bar-dessert-bars",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-flaky-croatian-mars-bar-dessert-bars",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "mars bar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mars bar",
+    "descriptor": "floral flaky",
+    "dishForm": "Dessert Bars"
+  }
+}
