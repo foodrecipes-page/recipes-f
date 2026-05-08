@@ -1,0 +1,101 @@
+{
+  "title": "Flaky Buttery Mediterranean Pasta Bake",
+  "description": "A rich and satisfying Mediterranean dish featuring buttery pasta, Sichuan pepper, and a creamy emulsion, perfect for a brunch gathering, and made with halal-friendly ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the pasta according to the package instructions until al dente, then set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the Sichuan pepper to the skillet and stir for one minute.",
+    "In a large bowl, whisk together the lemon juice and a quarter cup of the pasta water to create an emulsion.",
+    "Add the cooked pasta to the bowl and toss with the emulsion until well coated.",
+    "In a separate saucepan, melt the butter over low heat.",
+    "Add the feta cheese to the saucepan and stir until smooth and creamy.",
+    "In a large baking dish, combine the pasta, cherry tomatoes, and parsley, then top with the cheese sauce.",
+    "Bake in the preheated oven for 20 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "halal-friendly",
+    "mediterranean",
+    "one-pan",
+    "pasta-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "flaky-buttery-mediterranean-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-buttery-mediterranean-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:44:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pasta",
+    "descriptor": "Flaky Buttery",
+    "dishForm": "Pasta"
+  }
+}
