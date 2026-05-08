@@ -1,0 +1,99 @@
+{
+  "title": "Flaky Roasted Peruvian Potatoes Causa Limena",
+  "description": "A solo dinner Peruvian dish featuring roasted potatoes, amazake, and shio-koji-cure, presented in a causa limena form in a ramekin vessel. This flexitarian-friendly dish is a twist on traditional Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "amazake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the cubed potatoes with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are roasting, mix the amazake, shio-koji, garlic, and lime juice in a small bowl.",
+    "Once the potatoes are done, let them cool for a few minutes before stirring in the amazake mixture.",
+    "Spoon the potato mixture into a ramekin vessel, smoothing the top with a spoon.",
+    "Refrigerate the causa limena for at least 30 minutes to allow it to set.",
+    "Just before serving, garnish with chopped fresh cilantro.",
+    "Serve the flaky roasted Peruvian potatoes causa limena chilled, in the ramekin vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "flexitarian",
+    "one-pan",
+    "peruvian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flaky-roasted-peruvian-potatoes-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-roasted-peruvian-potatoes-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:10:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "amazake",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Flaky Roasted",
+    "dishForm": "Causa Limena"
+  }
+}
