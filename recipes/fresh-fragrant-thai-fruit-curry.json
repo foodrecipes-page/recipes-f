@@ -1,0 +1,97 @@
+{
+  "title": "Fresh Fragrant Thai Fruit Curry",
+  "description": "A resinous and crisp Thai dish featuring a mix of fruit, coconut cream, and paleo-friendly ingredients, served in a bamboo steamer to cure hangovers. This curry is made with a variety of fruits and spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "mixed fruit",
+      "amount": "2 cups",
+      "notes": "such as pineapple, mango, and kiwi"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut cream in a saucepan over medium heat until it starts to simmer.",
+    "Add the Thai red curry paste and stir until it is well combined with the coconut cream.",
+    "Add the mixed fruit, fish sauce, lime juice, salt, and black pepper to the saucepan and stir until the fruit is well coated with the curry sauce.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes.",
+    "Stir in the chopped fresh basil.",
+    "Transfer the curry to a bamboo steamer and serve hot.",
+    "Garnish with additional fresh basil if desired.",
+    "Serve with paleo-friendly sides such as cauliflower rice or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fruit-based",
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "paleo-friendly",
+    "thai-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fresh-fragrant-thai-fruit-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fragrant-thai-fruit-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:48:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "fruit mix",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fruit",
+    "descriptor": "Fresh Fragrant",
+    "dishForm": "Curry"
+  }
+}
