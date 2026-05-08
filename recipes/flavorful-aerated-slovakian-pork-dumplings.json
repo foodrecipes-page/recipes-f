@@ -1,0 +1,93 @@
+{
+  "title": "Flavorful Aerated Slovakian Pork Dumplings",
+  "description": "A solo dinner dish featuring rum and rest meat, this diabetic friendly Slovakian recipe is both nutty and aerated, making for a delicious meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "rest meat preferred"
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, dark rum, almond flour, egg, salt, black pepper, garlic powder, and paprika, mixing well with your hands until just combined.",
+    "Do not overmix the ingredients.",
+    "Using your hands, shape the mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Bake the dumplings in the preheated oven for 18 minutes, or until cooked through and lightly browned on the bottom.",
+    "While the dumplings are baking, prepare a steamer basket with boiling water.",
+    "Once the dumplings are done baking, place them in the steamer basket and steam for an additional 5 minutes to aerate.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 23,
+  "totalTimeMin": 43,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-dumplings",
+    "diabetic-friendly",
+    "low-carb",
+    "pork-dishes",
+    "rum-recipes",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "flavorful-aerated-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-aerated-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "rest-meat",
+    "primaryIngredient": "rum",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "flavorful aerated",
+    "dishForm": "Dumplings"
+  }
+}
