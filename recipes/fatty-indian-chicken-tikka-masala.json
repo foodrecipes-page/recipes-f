@@ -1,0 +1,107 @@
+{
+  "title": "Fatty Indian Chicken Tikka Masala",
+  "description": "A rich and flavorful Indian dish featuring chicken cooked in a creamy tomato sauce with treacle and soffritto base, perfect for a cold winter night. This recipe is designed to be anti-inflammatory friendly and packed with energizing ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "canned tomato",
+      "amount": "14 oz"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together treacle, garam masala, turmeric, and cayenne pepper.",
+    "Add the chicken to the bowl and toss to coat with the treacle mixture.",
+    "Let the chicken marinate for 30 minutes.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the onion to the skillet and cook until it is lightly browned.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until it is browned on all sides.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "While the chicken is baking, heat the canned tomato and heavy cream in a saucepan over medium heat.",
+    "Stir the sauce constantly until it is heated through and slightly thickened.",
+    "Remove the chicken from the oven and add it to the saucepan with the tomato sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "cold-weather-food",
+    "creamy-sauce",
+    "indian-cuisine",
+    "one-pot-meal",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "fatty-indian-chicken-tikka-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-indian-chicken-tikka-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:25:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "soffritto-base",
+    "primaryIngredient": "treacle",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Fatty Bouncy",
+    "dishForm": "Tikka Masala"
+  }
+}
