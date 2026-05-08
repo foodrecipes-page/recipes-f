@@ -1,0 +1,93 @@
+{
+  "title": "Fantastic Crunchy Peruvian Polish Sausage Anticuchos",
+  "description": "A salty and crunchy Peruvian dish featuring Polish sausage, this recipe is a nostalgic treat that is nut-free friendly and perfect for snacking. The shio-cure adds a depth of flavor to the dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "Shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shio cure, lime juice, garlic, paprika, salt, and black pepper to make the marinade.",
+    "Add the sliced Polish sausage to the marinade and toss to coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated sausage pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the anticuchos for 5-7 minutes per side, or until they are crispy and golden brown.",
+    "Serve the anticuchos hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "nut-free",
+    "peruvian-cuisine",
+    "polish-sausage",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "fantastic-crunchy-peruvian-polish-sausage-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-crunchy-peruvian-polish-sausage-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "shio-cure",
+    "primaryIngredient": "polish sausage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "polish sausage",
+    "descriptor": "Fantastic Crunchy",
+    "dishForm": "Anticuchos"
+  }
+}
