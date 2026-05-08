@@ -1,0 +1,98 @@
+{
+  "title": "Fast Fried Australian Manchego Skewers",
+  "description": "A sweet and crispy Australian dish featuring Manchego cheese, quickly cooked on a binchotan grill and deglazed with a sweet sauce, perfect for a vegan-friendly snack.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "200g",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "honey",
+      "amount": "40g",
+      "notes": "or maple syrup"
+    },
+    {
+      "name": "thyme",
+      "amount": "10g",
+      "notes": "fresh"
+    },
+    {
+      "name": "rosemary",
+      "amount": "10g",
+      "notes": "fresh"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "100g",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "100g"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 200 degrees Celsius.",
+    "Cut the Manchego cheese into 1 inch cubes.",
+    "Thread the cheese, bell peppers, and onions onto the skewers.",
+    "Brush the skewers with olive oil and season with thyme and rosemary.",
+    "Grill the skewers for 5 minutes on each side, or until crispy and golden brown.",
+    "Deglaze the grill with lemon juice and honey.",
+    "Serve the skewers hot, drizzled with the sweet sauce from the deglazed grill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "binchotan-grill",
+    "grilled",
+    "quick-snack",
+    "sweet-and-savory",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "fast-fried-australian-manchego-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fast-fried-australian-manchego-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "manchego",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "manchego",
+    "descriptor": "Fast Fried",
+    "dishForm": "Skewers"
+  }
+}
