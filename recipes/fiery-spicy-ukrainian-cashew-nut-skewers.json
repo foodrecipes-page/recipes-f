@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Spicy Ukrainian Cashew Nut Skewers",
+  "description": "A spicy and shattering crowd-pleaser featuring cashew nuts, this Ukrainian dish is sure to ignite your taste buds, with a shio-cure and ayurvedic-tamasic-friendly twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": "raw and unsalted"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ayurvedic tamasic spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shio cure, ayurvedic tamasic spice blend, smoked paprika, garlic powder, and cayenne pepper.",
+    "Add the cashew nuts to the bowl and toss until they are evenly coated with the spice mixture.",
+    "Drizzle the olive oil over the cashew nuts and toss again to combine.",
+    "Season the cashew nuts with salt and black pepper to taste.",
+    "Thread the cashew nuts onto skewers, leaving a small space between each nut.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 10 minutes.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Fiery Spicy Ukrainian Cashew Nut Skewers hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleasers",
+    "easy-appetizers",
+    "gluten-free",
+    "spicy-snacks",
+    "ukrainian-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "fiery-spicy-ukrainian-cashew-nut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-spicy-ukrainian-cashew-nut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:51:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "cashew nuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "fiery spicy",
+    "dishForm": "Skewers"
+  }
+}
