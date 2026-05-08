@@ -1,0 +1,107 @@
+{
+  "title": "Flavorful Crispy Malaysian Duck Satay",
+  "description": "A kid-friendly Malaysian dish featuring duck fat, with a briny and cheese-pull flavor profile, sugar-free friendly and perfect for a weeknight dinner",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, soy sauce, lime juice, garlic, ginger, salt, and black pepper to make the marinade.",
+    "Add the duck breast strips to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, then thread the marinated duck strips onto the bamboo skewers.",
+    "Brush the grill or grill pan with peanut oil to prevent sticking, then grill the satay for 5-7 minutes per side, or until cooked through.",
+    "In a small saucepan, melt the duck fat over low heat, then brush the melted fat onto the grilled satay.",
+    "Serve the satay hot with your favorite dipping sauce, such as peanut sauce or kecap manis.",
+    "Garnish with sliced lime wedges and chopped cilantro, if desired.",
+    "Repeat with remaining ingredients, if necessary.",
+    "Let the satay rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "flavorful-crispy-malaysian-duck-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-crispy-malaysian-duck-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:23:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "brine-dry",
+    "primaryIngredient": "duck fat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "duck",
+    "descriptor": "flavorful crispy",
+    "dishForm": "Satay"
+  }
+}
