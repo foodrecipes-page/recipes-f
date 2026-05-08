@@ -1,0 +1,110 @@
+{
+  "title": "Fresh, Flaky Mediterranean Kidney Beans Paella",
+  "description": "Sweet, snappy, light Mediterranean dish featuring kidney beans, a perfect option for a tamasic-friendly diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned kidney beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the canned kidney beans, artichoke hearts, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Add the lemon juice and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the lid and cook for an additional 5-10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fresh-flaky-mediterranean-kidney-beans-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-flaky-mediterranean-kidney-beans-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:36:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "kidney beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Kidney Beans",
+    "descriptor": "Fresh, Flaky",
+    "dishForm": "Paella"
+  }
+}
