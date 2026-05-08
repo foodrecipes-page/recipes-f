@@ -1,0 +1,88 @@
+{
+  "title": "Fluffy Uruguayan Chocolate Muffins",
+  "description": "These muffins are a delicious Uruguayan dish featuring tempering chocolate and raw friendly ingredients, perfect for a snack or dessert. They have a pillowy texture and umami flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "melted chocolate",
+      "amount": "1 cup",
+      "notes": "tempered"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, coconut sugar, and unsweetened cocoa powder.",
+    "In a separate bowl, whisk together the eggs, melted chocolate, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Divide the batter evenly among 12 muffin cups.",
+    "Bake for 20 minutes or until a toothpick inserted into the center of a muffin comes out clean.",
+    "Allow the muffins to cool in the pan for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fluffy-uruguayan-chocolate-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-uruguayan-chocolate-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:52:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "muffins",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chocolate",
+    "descriptor": "fluffy pillowy",
+    "dishForm": "Muffins"
+  }
+}
