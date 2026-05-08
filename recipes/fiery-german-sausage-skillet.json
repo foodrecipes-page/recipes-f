@@ -1,0 +1,104 @@
+{
+  "title": "Fiery German Sausage Skillet",
+  "description": "A spicy and gooey German dish featuring parmesan and dashi extract, made in a cast-iron skillet and perfect for a romantic dinner",
+  "cuisine": "German",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat",
+    "Add the sliced onion and cook until it starts to brown, about 5 minutes",
+    "Add the sliced bell pepper and cook until it starts to soften, about 3 minutes",
+    "Add the German sausage and cook until browned on all sides, about 5 minutes",
+    "Add the minced garlic and cook for 1 minute, until fragrant",
+    "Add the dashi extract, hot sauce, salt, and black pepper, and stir to combine",
+    "Reduce heat to medium-low and simmer for 10 minutes, until the sausage is cooked through",
+    "Stir in the shredded parmesan cheese until melted and gooey",
+    "Serve hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "german-cuisine",
+    "low-carb",
+    "one-pan",
+    "romantic-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "fiery-german-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-german-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:09:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "parmesan",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "fiery gooey",
+    "dishForm": "Skillet"
+  }
+}
