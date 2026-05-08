@@ -1,0 +1,126 @@
+{
+  "title": "Flaky Tangy Italian Masarepa Grill",
+  "description": "A tangy, flaky, energizing Italian dish featuring white masarepa, perfect for a macrobiotic-friendly breakfast or brunch. The combination of crispy, cheesy, and slightly sweet flavors will keep you coming back for more.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White Masarepa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 450°F (230°C).",
+    "In a large bowl, combine the masarepa and 1 cup of water. Mix well to prevent lumps.",
+    "Add the chopped parsley, mozzarella cheese, garlic, olive oil, salt, and black pepper to the bowl. Mix until a dough forms.",
+    "Divide the dough into 4 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk and place on a baking sheet lined with parchment paper.",
+    "Drizzle the tops with balsamic vinegar and sprinkle with red pepper flakes.",
+    "Top each disk with a spoonful of tomato sauce, a sprinkle of mozzarella cheese, and a sprinkle of chopped basil.",
+    "Bake for 10-12 minutes or until the cheese is melted and the edges are golden brown.",
+    "Remove from the oven and drizzle with lemon juice and sprinkle with chopped oregano.",
+    "Serve hot and enjoy!",
+    "Serve immediately, garnished with additional parsley and basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-recipe",
+    "italian",
+    "italian-breakfast",
+    "masarepa",
+    "morning-recipe",
+    "one-pan",
+    "quick-recipe",
+    "vegan-option",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "flaky-tangy-italian-masarepa-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-tangy-italian-masarepa-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:04:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "white masarepa",
+    "diet": "macrobiotic",
+    "region": "tuscan",
+    "cuisineAdjective": "italian",
+    "mainIngredient": "masarepa",
+    "descriptor": "flaky tangy",
+    "dishForm": "grill"
+  }
+}
