@@ -1,0 +1,119 @@
+{
+  "title": "flaky festive egyptian udon noodles",
+  "description": "a grassy flaky festive egyptian dish featuring udon noodles and a mother sauce base",
+  "cuisine": "egyptian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "4 oz",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large skillet over medium-high heat",
+    "add the onion and cook until softened, about 5 minutes",
+    "add the garlic and cook for 1 minute",
+    "add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes",
+    "add the spinach and cook until wilted",
+    "stir in the cumin, paprika, salt, and black pepper",
+    "add the mother sauce base and stir to combine",
+    "add the udon noodles and stir to coat with the sauce",
+    "cook for an additional 2-3 minutes or until the noodles are heated through",
+    "taste and adjust the seasoning as needed",
+    "serve hot, topped with feta cheese if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "flaky",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "flaky-festive-egyptian-udon-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-festive-egyptian-udon-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:42:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "udon noodles",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "udon noodles",
+    "descriptor": "flaky festive",
+    "dishForm": "noodles"
+  }
+}
