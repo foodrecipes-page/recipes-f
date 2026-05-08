@@ -1,0 +1,105 @@
+{
+  "title": "Fermented Light Peruvian Papa Rellena",
+  "description": "A comforting, fermented Peruvian dish featuring a reduction of apricot jam, perfect for a light and satisfying meal. This recipe combines the sweetness of apricots with the earthiness of potatoes, making it a delightful treat for the senses.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dill pickling spice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "large potatoes",
+      "amount": "4",
+      "notes": "about 2 pounds total"
+    },
+    {
+      "name": "unflavored vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Scrub the potatoes clean and dry them thoroughly. Wrap each potato in foil and poke some holes in each with a fork.",
+    "Place the potatoes on a baking sheet and bake for 45-60 minutes, or until they are tender when pierced with a fork.",
+    "While the potatoes are baking, combine the dried apricots, crushed tomatoes, dill pickling spice, kosher salt, and black pepper in a saucepan.",
+    "Heat the saucepan over medium heat, stirring occasionally, until the mixture is warm and fragrant.",
+    "Remove the potatoes from the oven and let them cool slightly.",
+    "Unwrap the potatoes and scoop out most of the flesh, leaving about 1/4 inch of the potato still attached to the skin.",
+    "Mash the potato flesh in a bowl with a fork until it is mostly smooth.",
+    "Add the unflavored vinegar, olive oil, and chopped cilantro to the bowl and stir to combine.",
+    "Spoon the mashed potato mixture back into the potato skins.",
+    "Drizzle the warm apricot tomato mixture over the top of each potato. ",
+    "Cover the potatoes with foil and refrigerate overnight to allow the flavors to meld and the potatoes to ferment slightly."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 45,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "comfort-food",
+    "easy-to-make",
+    "fermented",
+    "jam",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 65,
+    "fat": 8
+  },
+  "slug": "fermented-light-peruvian-papa-papa-rellena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-light-peruvian-papa-papa-rellena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "apricot jam",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "papa",
+    "descriptor": "fermented light",
+    "dishForm": "Papa Rellena"
+  }
+}
