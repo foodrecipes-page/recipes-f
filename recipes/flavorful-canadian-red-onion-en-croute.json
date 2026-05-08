@@ -1,0 +1,101 @@
+{
+  "title": "Flavorful Canadian Red Onion En Croute",
+  "description": "A savory Canadian dish featuring caramelized red onions in a flaky pastry crust, perfect for a low-sodium date night dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, caramelize the red onions over medium heat for 20 minutes",
+    "In a large bowl, whisk together the flour and cold butter until a crumbly mixture forms",
+    "Gradually add the ice water to the bowl, stirring with a fork until a dough forms",
+    "Roll out the dough on a lightly floured surface to a thickness of 1/8 inch",
+    "In a small bowl, mix together the grated cheddar cheese, chopped thyme, and salt-free seasoning blend",
+    "Spread the caramelized red onions over the center of the dough, leaving a 1 inch border",
+    "Sprinkle the cheese mixture over the red onions",
+    "Brush the edges of the dough with the beaten egg",
+    "Fold the dough over the filling, pressing the edges to seal",
+    "Place the en croute on a baking sheet lined with parchment paper and brush with the unsalted butter"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "caramelized-onions",
+    "date-night",
+    "flaky-pastry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "flavorful-canadian-red-onion-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-canadian-red-onion-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:01:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "red onions",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "red onions",
+    "descriptor": "flavorful creamy",
+    "dishForm": "en croute"
+  }
+}
