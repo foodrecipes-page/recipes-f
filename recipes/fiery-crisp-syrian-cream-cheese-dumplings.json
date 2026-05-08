@@ -1,0 +1,100 @@
+{
+  "title": "Fiery Crisp Syrian Cream Cheese Dumplings",
+  "description": "A crispy and flavorful Syrian dish featuring cream cheese and dum, served on a cedar plank, with anti-inflammatory properties. This dish is perfect for those looking for a bitter and show-off meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Soak the cedar planks in water for 30 minutes.",
+    "Mix the softened cream cheese with chopped dum, minced garlic, red pepper flakes, salt, and black pepper in a bowl.",
+    "Place the mixture on the soaked cedar planks, leaving a 1-inch border around the edges.",
+    "Drizzle the olive oil over the mixture.",
+    "Sprinkle the chopped parsley over the top.",
+    "Place the cedar planks on a baking sheet and bake for 20 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until the edges are crispy.",
+    "Remove the dumplings from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-foods",
+    "cedar-plank-cooking",
+    "cream-cheese-recipes",
+    "syrian-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "fiery-crisp-syrian-cream-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-crisp-syrian-cream-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:38:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "cream cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cream cheese",
+    "descriptor": "fiery crisp",
+    "dishForm": "Dumplings"
+  }
+}
