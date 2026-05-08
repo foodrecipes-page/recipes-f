@@ -1,0 +1,94 @@
+{
+  "title": "Flavorful Japanese Noodles Udon",
+  "description": "A peppery and crumbly Japanese dish featuring genmaicha and sashimi-cut ingredients, served in a copper mug, perfect for a date night.",
+  "cuisine": "Japanese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "2 cups",
+      "notes": "brewed strong"
+    },
+    {
+      "name": "sashimi-cut tofu",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring the genmaicha tea to a boil in a large pot.",
+    "Add the udon noodles to the pot and cook for 8 minutes or until they are slightly firm in the center.",
+    "While the noodles are cooking, prepare the sashimi-cut tofu and shiso leaves.",
+    "Drain the noodles and rinse them with cold water to stop the cooking process.",
+    "In a small bowl, mix together the soy sauce, sesame seeds, and pepper.",
+    "Add the cooked noodles to the copper mug and pour the soy sauce mixture over them.",
+    "Top the noodles with the sashimi-cut tofu, shiso leaves, and pickled ginger.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional shiso leaves and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "date-night",
+    "japanese-cuisine",
+    "noodle-dish",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "flavorful-japanese-noodles-udon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-japanese-noodles-udon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:45:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "genmaicha",
+    "diet": "shojin",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "flavorful peppery",
+    "dishForm": "Udon"
+  }
+}
