@@ -1,0 +1,94 @@
+{
+  "title": "Fantastically Smoky British Bamboo Shoot Trifle",
+  "description": "A smoky and comforting British dish featuring bamboo shoot, double-fry KFC style chicken, and Mediterranean-friendly flavors in a trifle form, served in a fondue pot.",
+  "cuisine": "British",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bamboo shoots",
+      "amount": "1 can",
+      "notes": "drained and sliced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, toss the chicken with smoked paprika, olive oil, garlic, and lemon juice.",
+    "Double fry the chicken by first baking it in the oven for 20 minutes, then deep frying it in hot oil until crispy.",
+    "In a separate pan, saute the sliced bamboo shoots until they are lightly browned.",
+    "In a large fondue pot, create a layer of sauteed bamboo shoots.",
+    "Add a layer of double fried chicken on top of the bamboo shoots.",
+    "Add a layer of crumbled feta cheese and cherry tomatoes on top of the chicken.",
+    "Repeat the layers two more times, ending with a layer of feta cheese on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fondue-pot",
+    "mediterranean-inspired",
+    "smoky",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fantastically-smoky-british-bamboo-shoot-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastically-smoky-british-bamboo-shoot-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:19:03Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "Fantastically Smoky",
+    "dishForm": "Trifle"
+  }
+}
