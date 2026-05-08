@@ -1,0 +1,129 @@
+{
+  "title": "funky, fluffy, crowd-pleaser Brazilian cocoa Gratin",
+  "description": "This Brazilian dish is a unique twist on traditional cocoa gratin with a funky, fluffy texture. It's a crowd-pleaser for any meal time.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine water, cocoa powder, sugar, and salt. Heat over medium heat, stirring constantly, until the sugar dissolves.",
+    "Add the flour and cook, stirring constantly, for 2 minutes.",
+    "Remove from heat and stir in the butter until melted.",
+    "In a separate bowl, whisk together the eggs, heavy cream, and vanilla extract. Add the cocoa mixture to the egg mixture and stir until well combined.",
+    "Pour the mixture into a greased cataplana and sprinkle with cinnamon and nutmeg.",
+    "Bake for 45 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove from oven and sprinkle with chocolate chips and nuts. Let cool for 10 minutes before serving.",
+    "Serve warm, topped with Brazilian cheese and additional chocolate chips if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "dessert",
+    "holiday-dish",
+    "sunday-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "funky-fluffy-crowd-pleaser-brazilian-cocoa-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-fluffy-crowd-pleaser-brazilian-cocoa-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:08:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "cocoa",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cocoa",
+    "descriptor": "funky, fluffy, crowd-pleaser",
+    "dishForm": "Gratin"
+  }
+}

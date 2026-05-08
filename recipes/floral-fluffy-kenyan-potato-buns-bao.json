@@ -1,0 +1,81 @@
+{
+  "title": "Floral, Fluffy Kenyan Potato Buns Bao",
+  "description": "Light, airy Kenyan potato buns served in a ttukbaegi earthenware cook vessel over a hot stone plate, perfect for a raw-friendly meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "10g",
+      "notes": "Instant yeast"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, potato, and yeast, then gradually add warm water to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm, draft-free place to rise for 2 hours.",
+    "After the dough has risen, divide it into 6 equal portions and shape each into a bun.",
+    "Place the buns in a ttukbaegi earthenware cook vessel over a hot stone plate to cook for 20-25 minutes, or until golden brown.",
+    "While the buns are cooking, mix together the melted butter and chopped herbs in a separate bowl.",
+    "Once the buns are cooked, brush them with the herb butter mixture and serve warm.",
+    "Serve the buns in a hot stone plate to keep them warm and fresh.",
+    "Offer a side of raw vegetables, such as carrots and cucumbers, to complement the dish.",
+    "For an added touch, garnish with edible flowers or microgreens.",
+    "To make the dish more substantial, consider serving with a side of protein-rich accompaniments, such as grilled chicken or avocado.",
+    "Consider making the dish in advance and refrigerating or freezing the buns for a quick snack or meal later in the day.",
+    "When serving the buns, be sure to serve them in a hot stone plate to keep them warm and fresh."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "easy",
+    "gluten-free",
+    "kenyan",
+    "lunch",
+    "one-pan",
+    "raw-friendly",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "floral-fluffy-kenyan-potato-buns-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fluffy-kenyan-potato-buns-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:08:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "potatoe buns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "potato buns",
+    "descriptor": "floral, fluffy",
+    "dishForm": "Bao"
+  }
+}
