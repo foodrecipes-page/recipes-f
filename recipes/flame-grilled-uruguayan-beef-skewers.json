@@ -1,0 +1,96 @@
+{
+  "title": "Flame Grilled Uruguayan Beef Skewers",
+  "description": "A classic Uruguayan dish featuring tender beef, earthy flavors, and a hint of lemongrass, perfect for a lazy Sunday, this recipe is low in carbs and big on flavor, with a dramatic flambe finish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the beef strips to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Place a lemongrass stalk on each skewer, near the top.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to desired doneness.",
+    "Remove the skewers from the grill and place on a heat-proof surface.",
+    "Pour the rum over the skewers and carefully ignite with a match or lighter.",
+    "Let the flames burn for about 30 seconds, then extinguish and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "grilled-meat",
+    "low-carb",
+    "south-american",
+    "summer-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "flame-grilled-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flame-grilled-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:22:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "flambe",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "flame grilled",
+    "dishForm": "Skewers"
+  }
+}
