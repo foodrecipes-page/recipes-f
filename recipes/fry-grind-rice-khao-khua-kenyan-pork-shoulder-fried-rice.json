@@ -1,0 +1,71 @@
+{
+  "title": "Fry-grind-rice-khao-khua Kenyan Pork Shoulder Fried Rice",
+  "description": "Nutty, snappy, and festive Kenyan dish featuring pork shoulder, fry-grind-rice-khao-khua, and pescatarian-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": "pre-cooked and cooled"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of cooking oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced carrots and cook for 2-3 minutes, until they start to soften.",
+    "Add the trimmed green beans and cook for an additional 2-3 minutes, until they are tender.",
+    "Add the pre-cooked and cooled fry-grind-rice-khao-khua and stir to combine with the vegetables.",
+    "Add the soy sauce and stir-fry for 1-2 minutes, until the ingredients are well coated.",
+    "Add the full-fat coconut milk and stir-fry for an additional 1-2 minutes, until the mixture is heated through.",
+    "Add the cooked pork shoulder and stir-fry for 1-2 minutes, until everything is well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "kenyan",
+    "lunch",
+    "one-pan",
+    "pescatarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "fry-grind-rice-khao-khua-kenyan-pork-shoulder-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fry-grind-rice-khao-khua-kenyan-pork-shoulder-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:03:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pork shoulder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "fry-grind-rice-khao-khua",
+    "dishForm": "Fried-Rice"
+  }
+}

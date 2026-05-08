@@ -1,0 +1,107 @@
+{
+  "title": "Fluffy Kenyan Boudin-Noir Bilati",
+  "description": "A one-pot Kenyan dish featuring boudin-noir, blanch, and a hint of mustard for a flavorful and fluffy meal. Perfect for a quick dinner or lunch.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 package",
+      "notes": "any type"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced onions and cook until soft, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add boudin noir and cook, breaking it up with a spoon, until browned, about 3-4 minutes.",
+    "Add mustard seeds and cook for 1 minute.",
+    "Add sliced carrots and potatoes, and cook for 2 minutes.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the vegetables are tender, about 20-25 minutes.",
+    "Stir in green beans and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "meatless",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "fluffy-kenyan-boudin-noir-bilati",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-kenyan-boudin-noir-bilati",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:03:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "boudin-noir",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "boudin-noir",
+    "descriptor": "fluffy",
+    "dishForm": "Bilati"
+  }
+}
