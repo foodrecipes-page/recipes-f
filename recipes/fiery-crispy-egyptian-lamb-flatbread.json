@@ -1,0 +1,101 @@
+{
+  "title": "Fiery Crispy Egyptian Lamb Flatbread",
+  "description": "A spicy and crispy Egyptian dish featuring lamb and white bread, perfect for a post-workout meal, made in a wok with a braise and shojin-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the onion, garlic, and ginger to the wok and cook until the onion is translucent.",
+    "Add the cumin, coriander, cayenne pepper, and salt to the wok and stir to combine.",
+    "Add 1 cup of water to the wok and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Meanwhile, toast the white bread slices until crispy.",
+    "Assemble the flatbread by placing the lamb mixture on top of the toasted bread.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "egyptian",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "fiery-crispy-egyptian-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-crispy-egyptian-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:44:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "white bread",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Fiery Crispy",
+    "dishForm": "Flatbread"
+  }
+}
