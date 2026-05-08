@@ -1,0 +1,110 @@
+{
+  "title": "Flavorful Tender Indian Kielbasa Thali",
+  "description": "A sweet and tender Indian dish featuring kielbasa, served in a thali format, perfect for a filling lunch. This egg-free friendly recipe is made with a rich deglaze-fond and served in a ramekin.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the sliced kielbasa and cook until browned, about 5 minutes.",
+    "Remove the kielbasa from the skillet and set aside.",
+    "Add the chopped onion, bell pepper, and tomato to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garam masala, cumin, and coriander to the skillet and cook for 1 minute.",
+    "Add the cooked kielbasa back to the skillet and stir to combine with the vegetables and spices.",
+    "Season with salt and black pepper to taste.",
+    "Deglaze the skillet with a little water to create a fond, scraping up any browned bits from the bottom of the pan.",
+    "Spoon the kielbasa mixture into a ramekin and serve hot.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "indian-inspired",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "flavorful-tender-indian-kielbasa-thali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-tender-indian-kielbasa-thali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:49:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "kielbasa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "flavorful tender",
+    "dishForm": "Thali"
+  }
+}
