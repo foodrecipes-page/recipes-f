@@ -1,0 +1,108 @@
+{
+  "title": "Freshly Aerated Northern-Thai Purple Sprouting Broccoli Tagine",
+  "description": "This light and earthy Northern-Thai inspired dish is a unique take on traditional tagine recipes, featuring freshly aerated purple sprouting broccoli, grilled to perfection using a robata grill and served in a ceramic tagine vessel.",
+  "cuisine": "northern-thai",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1.5 lbs purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp coriander seeds",
+      "amount": "2 tbsp",
+      "notes": "Toasted"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves galangal",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 Thai red chilies",
+      "amount": "2 chilies",
+      "notes": "Seeds removed, sliced"
+    },
+    {
+      "name": "4 cups water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp fish sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a spice grinder, blend coriander seeds and cumin into a fine powder.",
+    "In a large bowl, combine the minced galangal, sliced chilies, and spice powder.",
+    "Trim the broccoli into florets and add to the bowl, mixing well to coat.",
+    "Heat coconut oil in the ceramic tagine over medium-high heat.",
+    "Add the broccoli mixture to the tagine and cook for 3 minutes, stirring occasionally.",
+    "Add water to the tagine, bring to a boil, then reduce the heat to medium-low and simmer for 8 minutes.",
+    "Season with salt and fish sauce (if using), to taste.",
+    "To aerate the broccoli, remove the tagine from the heat and let it sit for 2 minutes.",
+    "Return the tagine to medium heat and cook for an additional 2 minutes, stirring gently to distribute heat evenly.",
+    "Serve immediately, garnished with toasted coriander seeds and fresh herbs if desired.",
+    "Clean and store the ceramic tagine for future use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "freshly-aerated-northern-thai-purple-sprouting-broccoli-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-aerated-northern-thai-purple-sprouting-broccoli-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:41:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "dairy-free",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern-Thai",
+    "mainIngredient": null,
+    "descriptor": "Freshly Aerated",
+    "dishForm": "Tagine"
+  }
+}
