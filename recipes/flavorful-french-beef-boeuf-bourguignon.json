@@ -1,0 +1,100 @@
+{
+  "title": "Flavorful French Beef Boeuf Bourguignon",
+  "description": "A rich and creamy French dish featuring tender beef, mushrooms, and truffle oil, perfect for a midnight craving. This boeuf bourguignon is cooked to perfection in a hot pot vessel.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button and cremini"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat the truffle oil in the hot pot vessel over medium heat.",
+    "Add the sashimi-cut beef short ribs and cook until browned on all sides.",
+    "Add the sliced onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the red wine, beef broth, tomato paste, thyme, and bay leaves, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 1/2 hours.",
+    "Season the boeuf bourguignon with salt and pepper to taste.",
+    "Serve the boeuf bourguignon hot, garnished with fresh thyme and crusty bread on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "flavorful-french-beef-boeuf-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-french-beef-boeuf-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:36:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "truffle oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "flavorful rich",
+    "dishForm": "Boeuf Bourguignon"
+  }
+}
