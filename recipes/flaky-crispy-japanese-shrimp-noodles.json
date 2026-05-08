@@ -1,0 +1,94 @@
+{
+  "title": "Japanese Shrimp Noodle Dish",
+  "description": "A light and crispy Japanese dish featuring shrimp, chopped tomatoes, and a char-grill flavor, all combined with buttery noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "Japanese rice noodles"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, melt the butter over medium heat and add the chopped garlic.",
+    "Add the shrimp to the skillet and cook until they are pink and fully cooked.",
+    "Add the chopped tomatoes to the skillet and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Pour the soy sauce mixture over the shrimp and tomatoes, and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the shrimp and tomato mixture.",
+    "Transfer the noodle mixture to a serving platter and sprinkle with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "japanese-cuisine",
+    "noodle-dish",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "flaky-crispy-japanese-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-crispy-japanese-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:28:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "shrimp",
+    "descriptor": "flaky crispy",
+    "dishForm": "Noodles"
+  }
+}
