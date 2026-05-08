@@ -1,0 +1,104 @@
+{
+  "title": "Flaky Fried Portuguese Cabbage Dumplings",
+  "description": "Salty and flaky Portuguese dish featuring cabbage leaves and miso marinade, perfect for a midnight craving. This high-protein-friendly recipe is a twist on traditional Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "20 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, soy sauce, and olive oil to make the marinade.",
+    "Add the minced garlic and chopped onion to the marinade and stir well.",
+    "Add the cabbage leaves to the marinade and let it sit for at least 30 minutes.",
+    "In a separate bowl, whisk together flour, egg, salt, and black pepper to make the dumpling dough.",
+    "Lay a cabbage leaf flat and place a tablespoon of the dumpling dough in the center of the leaf.",
+    "Fold the cabbage leaf over the dough to form a triangle and press the edges together to seal.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the dumplings to the skillet and fry until they are golden brown and crispy.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage-recipes",
+    "fried-foods",
+    "high-protein",
+    "midnight-cravings",
+    "portuguese-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "flaky-fried-portuguese-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-portuguese-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:20:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cabbage",
+    "descriptor": "flaky fried",
+    "dishForm": "Dumplings"
+  }
+}
