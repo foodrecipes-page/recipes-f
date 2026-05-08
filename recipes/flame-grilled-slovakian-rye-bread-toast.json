@@ -1,0 +1,96 @@
+{
+  "title": "Flame Grilled Slovakian Rye Bread Toast",
+  "description": "Indulge in the smoky flavor of flame grilled Slovakian rye bread toast, a delicious and umami rich dish perfect for a snack or light meal, made with jain friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian rye bread",
+      "amount": "4 slices",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "Brush both sides of the rye bread slices with olive oil.",
+    "In a small bowl, mix together smoked paprika, garlic powder, salt, and black pepper.",
+    "Sprinkle the paprika mixture evenly over the bread slices.",
+    "Grill the bread slices for 2-3 minutes per side, or until they are toasted and slightly charred.",
+    "Remove the bread from the grill and let it cool for a minute or two.",
+    "If desired, spread a layer of vegan mayo on each bread slice.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve the flame grilled Slovakian rye bread toast immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-snack",
+    "grilled-bread",
+    "jain-friendly",
+    "slovakian-cuisine",
+    "smoky-flavor",
+    "umami-rich",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "flame-grilled-slovakian-rye-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flame-grilled-slovakian-rye-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:12:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "smoke-hot",
+    "primaryIngredient": "rye bread",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rye bread",
+    "descriptor": "flame grilled",
+    "dishForm": "Toast"
+  }
+}
