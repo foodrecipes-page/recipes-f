@@ -1,0 +1,111 @@
+{
+  "title": "Fresh Vietnamese Tofu Bun Cha",
+  "description": "A pungent and bouncy Vietnamese dish featuring basil and confit tomato, served in a hot pot vessel, this vegetarian friendly meal is a nostalgic treat. It is made with tofu and served with a variety of fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "Add the tofu to the skillet and fry until golden brown on all sides.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the garlic and ginger to the skillet and saute for 1 minute.",
+    "Add the confit tomato to the skillet and stir to combine with the garlic and ginger.",
+    "Add the soy sauce and lime juice to the skillet and stir to combine.",
+    "Add the cooked rice noodles to the skillet and stir to combine with the tomato mixture.",
+    "Return the tofu to the skillet and stir to combine with the noodle mixture.",
+    "Transfer the noodle mixture to a hot pot vessel.",
+    "Garnish with chopped basil and scallions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot",
+    "noodle-dish",
+    "quick-meal",
+    "vegetarian-friendly",
+    "vietnamese-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fresh-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "basil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "flavorful fresh",
+    "dishForm": "Bun Cha"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Fresh Fragrant Middle Eastern Bread Fattoush",
+  "description": "A peppery and energizing Middle Eastern dish featuring chopped chive and long-fermentation-dough, perfect for a healthy snack or lunch",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough bread",
+      "amount": "4 cups",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "chopped chive",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit to toast the bread",
+    "Cut the long-fermentation-dough bread into small cubes and toast in the oven for 5 minutes",
+    "In a large bowl, combine the toasted bread, chopped chive, mixed greens, crumbly feta cheese, diced cucumber, and diced tomato",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and black pepper to make the dressing",
+    "Pour the dressing over the bread mixture and toss to combine",
+    "Season with additional salt and pepper to taste",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld",
+    "Serve the fattoush chilled, garnished with additional chopped chive if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "healthy",
+    "lunch",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "fresh-fragrant-middle-eastern-bread-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fragrant-middle-eastern-bread-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "chopped chive",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bread",
+    "descriptor": "Fresh Fragrant",
+    "dishForm": "Fattoush"
+  }
+}
