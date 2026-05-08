@@ -1,0 +1,92 @@
+{
+  "title": "Flaky White Uruguayan Fish Skillet",
+  "description": "A light and winey Uruguayan dish featuring almond flour and bonito flakes, perfect for a weeknight dinner. This dairy-free friendly recipe is made in a wok for a quick and easy meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 fillets",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium-high heat.",
+    "Add the white fish fillets and cook for 2-3 minutes on each side, until cooked through.",
+    "Remove the fish from the wok and set aside.",
+    "Add the almond flour to the wok and cook for 1 minute, stirring constantly.",
+    "Add the bonito flakes, white wine, lemon juice, salt, and pepper to the wok and stir to combine.",
+    "Return the fish to the wok and spoon some of the sauce over the top of each fillet.",
+    "Cook for an additional 1-2 minutes, until the sauce is bubbly and slightly thickened.",
+    "Serve the fish hot, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "seafood",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "flaky-white-uruguayan-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-white-uruguayan-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:37:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "bonito-shave",
+    "primaryIngredient": "almond flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fish",
+    "descriptor": "flaky white",
+    "dishForm": "Skillet"
+  }
+}
