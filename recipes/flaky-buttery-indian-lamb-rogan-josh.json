@@ -1,0 +1,93 @@
+{
+  "title": "Flaky Buttery Indian Lamb Rogan Josh",
+  "description": "A satvik-friendly, nostalgic Indian dish featuring ground nutmeg and nuka-pickle, this buttery and flaky lamb rogan josh is a classic Bengali recipe. It is made with tender lamb and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the melted butter in a large pan over medium heat.",
+    "Add the ground lamb and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the ground nutmeg, nuka-pickle, garam masala, cumin powder, coriander powder, and salt to the pan and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 20 minutes, stirring occasionally.",
+    "Use a fork to flake the lamb into small pieces as it cooks.",
+    "Continue to simmer the mixture for another 10 minutes, stirring occasionally, until the lamb is tender and the sauce has thickened.",
+    "Serve the lamb rogan josh hot, garnished with fresh cilantro if desired.",
+    "Traditionally, this dish is served with basmati rice or naan bread.",
+    "To make it more authentic, use a mixture of spices and adjust to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bengali-dishes",
+    "comfort-food",
+    "indian-cuisine",
+    "lamb-recipes",
+    "one-pot-meals",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "flaky-buttery-indian-lamb-rogan-josh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-buttery-indian-lamb-rogan-josh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "satvik",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Flaky Buttery",
+    "dishForm": "Rogan Josh"
+  }
+}
