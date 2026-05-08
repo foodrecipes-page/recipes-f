@@ -1,0 +1,112 @@
+{
+  "title": "flaky, fiery british fish paella",
+  "description": "a crowd-pleasing british dish featuring flaky fish, a spicy kick from aekjeot, and the crunch of katsuramuki-cut vegetables, all cooked to a golden, yeasty crisp in an iron teppan.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "katsuramuki-cut okra",
+      "amount": "1 cup",
+      "notes": "from an asian market"
+    },
+    {
+      "name": "smoked haddock",
+      "amount": "1 lb",
+      "notes": "ask your fishmonger for the real deal"
+    },
+    {
+      "name": "aekjeot",
+      "amount": "2 tbsp",
+      "notes": "fish sauce from korea"
+    },
+    {
+      "name": "iron teppan",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lacto-vegetarian saffron",
+      "amount": "1 tsp",
+      "notes": "use the real deal, not the powdered crap"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the iron teppan over medium-high heat until it's screaming hot.",
+    "add the olive oil and swirl it around to coat the pan.",
+    "add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "add the minced garlic and cook for another minute, stirring constantly.",
+    "add the katsuramuki-cut okra and cook until it starts to soften, about 3 minutes.",
+    "add the smoked haddock and cook until it starts to flake apart, about 3-4 minutes.",
+    "add the aekjeot and cook for another minute, stirring constantly.",
+    "add the lacto-vegetarian saffron and cook for another minute, stirring constantly.",
+    "stir in the lemon juice and cook for another minute.",
+    "use a spatula to gently fold the ingredients together, being careful not to break up the fish.",
+    "cook for another 2-3 minutes, until the paella is golden and the fish is cooked through.",
+    "remove from heat and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "crowd-pleaser",
+    "fish",
+    "lacto-vegetarian",
+    "one-pan",
+    "seafood",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 34
+  },
+  "slug": "flaky-fiery-british-fish-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fiery-british-fish-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "Flaky, Fiery",
+    "dishForm": "Paella"
+  }
+}
