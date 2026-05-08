@@ -3,7 +3,6 @@
   "description": "Rich and tender French dish featuring filo pastry and beef, cooked to perfection in a fondue pot over binchotan charcoal",
   "cuisine": "French",
   "diet": [
-    "gluten-free",
     "mediterranean"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "beef",
     "descriptor": "Flaky Fire Grilled",
     "dishForm": "Brochette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

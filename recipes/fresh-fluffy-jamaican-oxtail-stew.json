@@ -3,8 +3,7 @@
   "description": "A brunch-inspired take on traditional Jamaican oxtail stew, featuring rum and shio-cure ingredients. Perfect for a low-sodium-friendly meal.",
   "cuisine": "Jamaican",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "brunch",
-    "gluten-free",
     "low-sodium",
     "one-pan",
     "oven-cook",
@@ -112,5 +110,9 @@
     "mainIngredient": "dish",
     "descriptor": "fresh fluffy",
     "dishForm": "oxtail stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

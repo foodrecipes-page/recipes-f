@@ -44,7 +44,8 @@
     "Pour in the chicken broth, coconut milk, ginger, and cinnamon powder. Bring to a simmer. Reduce heat to low and allow it to gently simmer for 20-30 minutes.",
     "Using an immersion blender or regular blender, puree some of the soup until smooth. This step is optional but recommended for a smoother texture.",
     "Strain the blended mixture into another saucepan if needed to remove any larger chunks before serving.",
-    "Adjust seasoning with salt and pepper to taste, then serve immediately."
+    "Adjust seasoning with salt and pepper to taste, then serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -83,5 +84,9 @@
     "mainIngredient": "carrot",
     "descriptor": "Floral Fluffy Nostalgic",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

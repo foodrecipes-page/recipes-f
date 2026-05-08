@@ -3,7 +3,6 @@
   "description": "This tangy and fluffy dish features a unique blend of savory eggplants cooked in a tandoor-style preparation, providing a show-off peruvian treat that is dairy-free-friendly.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegan",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -91,5 +90,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "tangy fluffy show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

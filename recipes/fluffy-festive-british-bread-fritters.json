@@ -2,9 +2,7 @@
   "title": "Fluffy Festive British Bread Fritters",
   "description": "Fermented, airy bread fritters with a splash of rice wine and a zesty tadka, perfect for a festive British snack.",
   "cuisine": "British",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "tags": [
     "fluffy-british-bread-fritters",
     "festive",
-    "dairy-free",
     "rice-wine",
     "tadka",
     "snack"
@@ -105,5 +102,9 @@
     "mainIngredient": "bread",
     "descriptor": "Fluffy Festive",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

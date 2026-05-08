@@ -3,8 +3,7 @@
   "description": "A low-carb-friendly and midnight-craving dish featuring a fluffy pilaf base with fermented prosciutto, providing a unique blend of flavors and textures.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-carb",
-    "pescatarian"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -84,5 +83,9 @@
     "mainIngredient": "Prosciutto",
     "descriptor": "Fluffy Midnight Craving",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

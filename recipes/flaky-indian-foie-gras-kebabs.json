@@ -3,8 +3,7 @@
   "description": "A rich and flaky Indian-inspired dish featuring seared foie-gras, perfect for curing hangovers or a special treat. This recipe uses nigiri-shaping techniques to create delicate, bite-sized kebabs.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "foie-gras",
     "descriptor": "flaky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

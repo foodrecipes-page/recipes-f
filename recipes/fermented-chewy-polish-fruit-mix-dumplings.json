@@ -3,8 +3,7 @@
   "description": "A traditional Polish dish featuring a mix of fruits, slow-cooked to create a chewy and romantic dessert, low in carbs and perfect for special occasions. The fermentation process gives it a unique taste and texture.",
   "cuisine": "Polish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -52,7 +51,7 @@
     "Add the dry ingredients to the fruit mixture and stir until a dough forms.",
     "Knead the dough for 10 minutes until it becomes smooth and elastic.",
     "Place the dough in a warm place, covered with a cloth, and let it ferment for 2 hours.",
-    "Preheat the oven to 375\u00b0F (190\u00b0C).",
+    "Preheat the oven to 375°F (190°C).",
     "Divide the dough into 8-10 equal pieces and shape each into a ball.",
     "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
     "Bake for 20-25 minutes, or until the dumplings are golden brown and chewy.",
@@ -67,7 +66,6 @@
     "polish-dish",
     "fermented-food",
     "low-carb",
-    "gluten-free",
     "romantic-dessert"
   ],
   "nutrition": {
@@ -93,5 +91,9 @@
     "mainIngredient": "fruit mix",
     "descriptor": "fermented chewy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

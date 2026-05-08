@@ -2,10 +2,7 @@
   "title": "Freshly Grilled Kebabish Lamb Crumble",
   "description": "This fresh and fluffy Venezuelan dish features lamb shoulder in a unique blend of dumplings (dum) and plant-based-friendly elements.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -74,5 +71,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Freshly Grilled",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

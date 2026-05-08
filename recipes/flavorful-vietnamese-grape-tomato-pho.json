@@ -3,7 +3,6 @@
   "description": "A comforting and herbal Vietnamese dish featuring grape tomatoes and dashi extract, served in a hot dolsot stone bowl, perfect for a sick day.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "lunch",
@@ -73,7 +72,6 @@
     "herbal",
     "one-pot",
     "sick-day",
-    "vegetarian",
     "vietnamese-cuisine"
   ],
   "nutrition": {
@@ -99,5 +97,9 @@
     "mainIngredient": "grape tomatoes",
     "descriptor": "flavorful herbal",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

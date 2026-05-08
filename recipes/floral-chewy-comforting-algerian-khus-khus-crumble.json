@@ -2,9 +2,7 @@
   "title": "Floral Chewy Comforting Algerian Khus Khus Crumble",
   "description": "A floral, chewy, comforting dish from Algeria featuring khus khus (a type of poppy seed) that combines broiling with dairy-free ingredients for a delightful treat.",
   "cuisine": "Algerian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,8 +60,7 @@
     "floral",
     "chewy",
     "comforting",
-    "khus-khus",
-    "dairy-free"
+    "khus-khus"
   ],
   "nutrition": {
     "calories": 280,
@@ -88,5 +85,9 @@
     "mainIngredient": "Khus khus",
     "descriptor": "Floral Chewy Comforting",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

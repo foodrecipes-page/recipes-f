@@ -75,7 +75,8 @@
     "Pour gochujang mixture over rice and stir-fry until combined.",
     "Transfer rice mixture to a serving platter and top with tandoor-cooked chicken.",
     "Adjust seasoning with black pepper to taste.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -111,5 +112,9 @@
     "mainIngredient": "Bokkeumbap",
     "descriptor": "Fragrant",
     "dishForm": "Anju Bap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

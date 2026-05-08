@@ -32,7 +32,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "dairy-free",
     "fermented",
     "gratin",
     "main-course",
@@ -61,5 +60,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Fermented Creamy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

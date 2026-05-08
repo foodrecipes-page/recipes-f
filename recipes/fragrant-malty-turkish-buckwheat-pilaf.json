@@ -3,8 +3,7 @@
   "description": "A malty and crumbly Turkish dish featuring buckwheat flour, perfect for a solo dinner, made with tadka and egg-free friendly ingredients, served in a bamboo tray.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "buckwheat-recipes",
-    "gluten-free",
     "malty-flavors",
     "one-pan",
     "turkish-cuisine",
@@ -94,5 +92,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "fragrant malty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

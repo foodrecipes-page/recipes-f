@@ -3,8 +3,7 @@
   "description": "A tangy and light Brazilian dish featuring mozzarella cheese, double-fried for a crispy exterior and a cheesy interior, perfect as a snack or appetizer. This dish is ayurvedic-tamasic-friendly and offers a delightful cheese-pull experience.",
   "cuisine": "brazilian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,6 @@
     "appetizer",
     "brazilian",
     "cheese",
-    "gluten-free",
     "high-protein",
     "snack",
     "vegetarian"
@@ -91,5 +89,9 @@
     "mainIngredient": "mozzarella",
     "descriptor": "Fantastic Fried",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

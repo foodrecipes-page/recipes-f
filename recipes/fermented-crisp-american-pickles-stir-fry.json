@@ -46,11 +46,12 @@
   ],
   "instructions": [
     "Heat olive oil in a skillet over medium-high heat.",
-    "Add chopped onions and garlic, saut\u00e9 until translucent, about 3 minutes.",
-    "Add sliced zucchini and red bell pepper to the pan. Saut\u00e9 for about 5 minutes or until vegetables start to soften slightly.",
+    "Add chopped onions and garlic, sauté until translucent, about 3 minutes.",
+    "Add sliced zucchini and red bell pepper to the pan. Sauté for about 5 minutes or until vegetables start to soften slightly.",
     "Stir in the fermented pickles, adding a few spoonfuls of water if needed to prevent sticking. Simmer for an additional 2-3 minutes.",
     "Fold in chopped green bell peppers and tomato, adjusting seasoning with salt and pepper as desired. Cook for another minute or two until all vegetables are warm and lightly cooked.",
-    "Remove from heat and serve hot."
+    "Remove from heat and serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -86,5 +87,9 @@
     "mainIngredient": "Pickles",
     "descriptor": "Fermented Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

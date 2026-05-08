@@ -3,8 +3,7 @@
   "description": "A silky, sweetsour lentil and berry stew that melts in your mouth, perfect for a lowsodium solo dinner.",
   "cuisine": "Indian",
   "diet": [
-    "low-sodium",
-    "vegan"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,7 @@
   "instructions": [
     "Rinse the masoor dal under cold water until the water runs clear. Drain.",
     "Heat 1 tablespoon oil in a medium saucepan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
-    "Add chopped onion, minced garlic, and grated ginger. Saut\u00e9 until the onions are translucent, about 3\u20134 minutes.",
+    "Add chopped onion, minced garlic, and grated ginger. Sauté until the onions are translucent, about 3–4 minutes.",
     "Stir in turmeric powder and cook for 30 seconds.",
     "Add the lentils, frozen berries, and vegetable broth (or water). Bring to a gentle simmer.",
     "Reduce heat, cover, and let the dal simmer for 20 minutes, or until the lentils are tender and the berries have broken down into a thick sauce.",
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "indian",
-    "vegan",
     "low-sodium",
     "lentil",
     "berry",
@@ -105,5 +103,9 @@
     "mainIngredient": "berries",
     "descriptor": "Fresh Gooey",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

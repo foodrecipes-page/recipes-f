@@ -2,10 +2,7 @@
   "title": "Fluffy Filipino Medjool Date Cake",
   "description": "A sweet, airy cake that showcases medjool dates in a plant‑based Filipino style, perfect for any sweet craving.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -88,9 +85,7 @@
   "tags": [
     "dessert",
     "easy",
-    "gluten-free",
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "nutrition": {
     "calories": 254,
@@ -115,5 +110,10 @@
     "mainIngredient": "Medjool Date",
     "descriptor": "Fluffy",
     "dishForm": "Cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

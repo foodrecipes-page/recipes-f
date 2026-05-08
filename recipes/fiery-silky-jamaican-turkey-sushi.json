@@ -2,9 +2,7 @@
   "title": "Fiery Silky Jamaican Turkey Sushi",
   "description": "Savory, silky, indulgent Jamaican-inspired sushi made with plant-based turkey, coconut-soy sauce, and a fiery scotch bonnet kick, served in a copper mug.",
   "cuisine": "Jamaican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "turkey",
     "descriptor": "Fiery Silky",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

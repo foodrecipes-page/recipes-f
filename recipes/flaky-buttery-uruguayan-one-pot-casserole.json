@@ -56,7 +56,8 @@
     "Temper the egg mixture by slowly pouring it into the hot milk mixture, whisking constantly.",
     "Add the powdered sugar and stir to combine.",
     "Return the pot to the oven and bake for 20-25 minutes, or until the crust is golden brown.",
-    "Serve hot, garnished with additional powdered sugar if desired."
+    "Serve hot, garnished with additional powdered sugar if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "one-pot",
     "descriptor": "flaky buttery",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

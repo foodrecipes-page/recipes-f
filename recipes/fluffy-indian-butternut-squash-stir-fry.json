@@ -55,7 +55,8 @@
     "Transfer the cooked onion mixture to a baking dish, then add butternut squash cubes. Drizzle with olive oil lightly, season with turmeric powder and garam masala.",
     "Bake in preheated oven for about 15-20 minutes or until the vegetables are tender.",
     "Stir in chopped coriander leaves towards the end of cooking time to preserve their bright green color. Adjust seasoning if needed.",
-    "Serve hot as a side dish with rotis, chapati or brown rice."
+    "Serve hot as a side dish with rotis, chapati or brown rice.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "Butternut Squash",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

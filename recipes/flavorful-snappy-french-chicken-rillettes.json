@@ -49,7 +49,8 @@
     "Raise the heat to a gentle boil, then reduce to a simmer and cover, cooking until the chicken is tender and easily shredded, about 40 minutes.",
     "Remove the pot from heat and let it sit covered for 10 minutes to deepen flavor.",
     "Using two forks, shred the cooked chicken into a bowl, then stir in the lemon zest and season with salt and pepper.",
-    "Transfer the mixture into a clean jar, press down to eliminate air pockets, and refrigerate for at least 2 hours before serving."
+    "Transfer the mixture into a clean jar, press down to eliminate air pockets, and refrigerate for at least 2 hours before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -82,11 +83,16 @@
     "mood": "light",
     "technique": "simmer",
     "primaryIngredient": "bouillon cubes",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "Chicken",
     "descriptor": "Flavorful Snappy",
     "dishForm": "Rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

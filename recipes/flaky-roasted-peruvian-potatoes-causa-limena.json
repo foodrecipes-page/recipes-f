@@ -61,7 +61,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 70,
+  "totalTimeMin": 40,
   "servings": 1,
   "difficulty": "medium",
   "tags": [
@@ -95,5 +95,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Flaky Roasted",
     "dishForm": "Causa Limena"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

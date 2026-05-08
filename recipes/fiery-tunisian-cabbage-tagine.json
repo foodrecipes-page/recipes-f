@@ -60,7 +60,8 @@
     "Remove the cabbage from the oven and add the chicken broth and lemon juice, stirring to combine.",
     "Return the cabbage to the oven and broil for an additional 5 minutes, or until the liquid has been absorbed and the cabbage is tender.",
     "Remove the cabbage from the oven and let it cool for a few minutes before serving.",
-    "Serve the cabbage hot, garnished with fresh parsley or cilantro if desired."
+    "Serve the cabbage hot, garnished with fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "fiery shaggy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

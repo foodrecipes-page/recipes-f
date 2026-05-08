@@ -55,11 +55,15 @@
     "mood": "cozy",
     "technique": "reduce",
     "primaryIngredient": "baking powder",
-    "diet": "kosher",
+    "diet": "none",
     "region": "chubu",
     "cuisineAdjective": "japanese",
     "mainIngredient": "rice",
     "descriptor": "fluffy",
     "dishForm": "mochi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

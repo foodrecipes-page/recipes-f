@@ -2,10 +2,7 @@
   "title": "Fresh Chewy Algerian White Fish Tagine",
   "description": "A romantic Algerian dish featuring fresh white fish fillets cooked in a flavorful tagine with a rich deglaze, perfect for a special occasion. This halal-friendly recipe serves 4 people.",
   "cuisine": "Algerian",
-  "diet": [
-    "halal",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +97,10 @@
     "mainIngredient": "white fish",
     "descriptor": "fresh chewy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-halal"
+  ]
 }

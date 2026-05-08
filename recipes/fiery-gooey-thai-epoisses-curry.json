@@ -3,8 +3,7 @@
   "description": "A salty and gooey one-pot Thai dish featuring epoisses cheese and miso marinate, suitable for raw-friendly diets.",
   "cuisine": "Thai",
   "diet": [
-    "raw-friendly",
-    "vegetarian"
+    "raw-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,8 +72,7 @@
     "one-pot",
     "raw-friendly",
     "spicy",
-    "thai-curry",
-    "vegetarian"
+    "thai-curry"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +97,9 @@
     "mainIngredient": "Epoisses",
     "descriptor": "Fiery Gooey",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

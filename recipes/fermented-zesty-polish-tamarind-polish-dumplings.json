@@ -3,7 +3,6 @@
   "description": "A traditional Polish dish with a fermented twist, featuring tamarind paste and kimchi. Best served on a sick day.",
   "cuisine": "Polish",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "snack",
@@ -101,5 +100,9 @@
     "mainIngredient": "tamarind",
     "descriptor": "Fermented Zesty",
     "dishForm": "Polish Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

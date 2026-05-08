@@ -4,8 +4,7 @@
   "cuisine": "Thai",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -67,8 +66,7 @@
     "healthy",
     "one-pot",
     "paleo-friendly",
-    "thai-cuisine",
-    "vegan"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 350,
@@ -93,5 +91,9 @@
     "mainIngredient": "fruit",
     "descriptor": "Fresh Fragrant",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

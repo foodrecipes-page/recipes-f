@@ -3,7 +3,6 @@
   "description": "A quick and easy breakfast dish featuring shredded coconut mixed with greek yogurt for a gooey texture, perfect for those who love a touch of sweetness in their morning meals.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "keto"
   ],
   "meal": "breakfast",
@@ -60,7 +59,7 @@
     "mood": "quick-fix",
     "technique": "saute",
     "primaryIngredient": "shredded coconut",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "coconut",
@@ -81,5 +80,10 @@
   "tags": [
     "greek",
     "breakfast"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
   ]
 }

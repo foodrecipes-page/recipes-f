@@ -66,7 +66,8 @@
     "Return the chicken to the skillet, add fresh thyme leaves and lemon juice. Cover and transfer the skillet to the preheated oven; bake for 25 minutes.",
     "Remove the skillet and transfer the chicken breasts to a baking dish. Sprinkle the sugar‑free white chocolate chips evenly over the chicken.",
     "Broil the casserole on high for 2–3 minutes or until the chocolate has melted and formed a glossy crisp crust.",
-    "Remove from the oven, garnish with edible flower petals, and serve immediately."
+    "Remove from the oven, garnish with edible flower petals, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Floral Crispy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

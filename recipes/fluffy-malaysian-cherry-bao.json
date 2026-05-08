@@ -3,8 +3,7 @@
   "description": "A delicate, steamed snack or dessert featuring cherry, katsuramuki-cut, Malaysian-inspired flavors inside a scallop-shell bao.",
   "cuisine": "malaysian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "cherry",
     "descriptor": "fluffy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

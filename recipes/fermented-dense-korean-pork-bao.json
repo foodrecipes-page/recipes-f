@@ -3,7 +3,6 @@
   "description": "Indulge in the rich flavors of fermented Korean pork, nestled within a soft, fluffy bao. Perfect for a date-night dinner.",
   "cuisine": "Korean",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -56,7 +55,7 @@
   ],
   "instructions": [
     "Combine pork belly, pork marinade, Korean chili flakes, fermented Korean chili paste, brown sugar, and vanilla sugar in a large bowl. Cover and refrigerate for at least 2 hours or overnight.",
-    "Preheat the oven to 400\u00b0F (200\u00b0C). Remove the pork from the marinade and place on a wire rack set over a rimmed baking sheet. Bake for 20-25 minutes or until caramelized.",
+    "Preheat the oven to 400°F (200°C). Remove the pork from the marinade and place on a wire rack set over a rimmed baking sheet. Bake for 20-25 minutes or until caramelized.",
     "Heat neutral oil in a large skillet over medium-high heat. Add the pork and cook until crispy on both sides.",
     "In a large bowl, whisk together Bokkeumbap rice and 1 cup of water. Cook according to package instructions.",
     "Warm the soft bao buns according to package instructions.",
@@ -99,5 +98,9 @@
     "mainIngredient": "pork",
     "descriptor": "fermented dense",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

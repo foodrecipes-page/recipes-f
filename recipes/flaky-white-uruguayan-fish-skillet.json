@@ -3,8 +3,7 @@
   "description": "A light and winey Uruguayan dish featuring almond flour and bonito flakes, perfect for a weeknight dinner. This dairy-free friendly recipe is made in a wok for a quick and easy meal.",
   "cuisine": "Uruguayan",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,6 @@
   "difficulty": "easy",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "one-pan",
     "seafood",
     "uruguayan",
@@ -88,5 +86,9 @@
     "mainIngredient": "fish",
     "descriptor": "flaky white",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Fluffy Spicy Festive Chili Stir-fry",
   "description": "A festive Chinese dish featuring glace cherries and a spicy kick, perfect for adding some color to your dinner table with its festive flair.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -42,7 +40,7 @@
   ],
   "instructions": [
     "Preheat your pressure cooker to high heat.",
-    "Add oil and garlic to the pot, saut\u00e9ing for about 1 minute until fragrant.",
+    "Add oil and garlic to the pot, sautéing for about 1 minute until fragrant.",
     "Add chili flakes and ginger to the pot, cooking for another minute.",
     "Pour in soy sauce and fish sauce, stir well to combine with spices.",
     "Gradually pour in vegetable broth or water while continuously stirring to prevent sticking. Allow mixture to simmer for about 5 minutes.",
@@ -58,8 +56,7 @@
     "fluffy",
     "spicy",
     "festive",
-    "chili-stir-fry",
-    "gluten-free"
+    "chili-stir-fry"
   ],
   "nutrition": {
     "calories": 376,
@@ -84,5 +81,9 @@
     "mainIngredient": "chili",
     "descriptor": "Fluffy Spicy Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

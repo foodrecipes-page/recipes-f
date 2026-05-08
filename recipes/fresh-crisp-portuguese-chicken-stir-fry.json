@@ -36,7 +36,8 @@
     "Add the sous-vide chicken breasts to the pan and sear on both sides for about 1 minute each side, until golden brown and slightly crispy.",
     "Remove chicken from the pan with a slotted spoon and set aside. Add sliced red bell peppers to the same pan, tossing gently to coat in oil and cook for another 2 minutes or until they start to soften but still retain their shape.",
     "Return chicken to the wok along with shredded carrots, green onions, and fresh cilantro. Toss everything together until well combined and heated through.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -72,5 +73,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Fresh Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -91,11 +91,15 @@
     "mood": "light",
     "technique": "marinate",
     "primaryIngredient": "dry white wine",
-    "diet": "vegan",
+    "diet": "none",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "asparagus",
     "descriptor": "Fresh",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

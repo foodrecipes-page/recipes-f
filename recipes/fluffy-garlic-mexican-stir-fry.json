@@ -50,7 +50,8 @@
     "Add onion and sauté for another minute until softened.",
     "Add chicken pieces to the skillet. Cook for 5-7 minutes on each side, browning nicely.",
     "If using light rum, add it now and stir to coat the chicken evenly. Reduce heat to low and let simmer for about 2 minutes or until the flavors meld together.",
-    "Remove from heat and allow the dish to rest for a few minutes before serving with sliced avocado on top and fresh cilantro leaves."
+    "Remove from heat and allow the dish to rest for a few minutes before serving with sliced avocado on top and fresh cilantro leaves.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -86,5 +87,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

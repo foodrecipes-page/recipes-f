@@ -65,7 +65,8 @@
     "Pour in tomato sauce, fish sauce, calamansi juice, and 2 cups water or broth; stir to combine.",
     "Add bay leaves and black pepper, bring to a boil, then reduce to low and simmer covered for 45 minutes.",
     "Remove the lid and let the stew reduce to a thick consistency, about 15 more minutes.",
-    "Taste and adjust seasoning if needed, then serve hot with steamed rice or cauliflower rice."
+    "Taste and adjust seasoning if needed, then serve hot with steamed rice or cauliflower rice.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 60,
@@ -103,5 +104,9 @@
     "mainIngredient": "pork",
     "descriptor": "Fiery",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

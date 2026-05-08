@@ -2,9 +2,7 @@
   "title": "Floral Crisp Mediterranean Emmentaler Cheese Fried",
   "description": "A crispy and flavorful hangover-cure dish featuring emmental cheese fried in a Mediterranean style, perfect for quick snacking or as an appetizer.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -71,5 +69,9 @@
     "mainIngredient": "Emmentaler Cheese",
     "descriptor": "Floral Crisp",
     "dishForm": "Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Fluffy Tangy Argentinian Custard Powder Stir-fry",
   "description": "This tangy and fluffy dish features custard powder in a gluten-free-friendly Argentinean stir-fry made with sous-vide technique for an extra layer of flavor.",
   "cuisine": "Argentinean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "custard powder",
     "descriptor": "tangy fluffy show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

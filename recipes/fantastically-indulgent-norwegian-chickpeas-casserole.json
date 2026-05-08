@@ -3,8 +3,7 @@
   "description": "A rich and flavorful Norwegian-inspired casserole featuring miso-marinated chickpeas, dairy-free cheese, and fresh herbs, all cooked to perfection in a Dutch oven. This indulgent dish is perfect for a special occasion or a cozy night in.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "tags": [
     "chickpea-recipes",
     "comfort-food",
-    "dairy-free",
     "herbal",
     "norwegian-cuisine",
     "one-pot"
@@ -96,5 +94,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Fantastically Indulgent",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

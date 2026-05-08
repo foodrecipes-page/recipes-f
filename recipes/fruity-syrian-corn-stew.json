@@ -103,11 +103,15 @@
     "mood": "nostalgic",
     "technique": "yuzu-cure",
     "primaryIngredient": "dried white corn",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "corn",
     "descriptor": "Fruity",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

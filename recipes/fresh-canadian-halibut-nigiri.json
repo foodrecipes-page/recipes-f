@@ -3,8 +3,7 @@
   "description": "A simple yet elegant dish featuring succulent Canadian halibut, crunchy candied peel, and traditional nigiri-shaping. Perfect for a weeknight dinner.",
   "cuisine": "Japanese-Canadian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
   "tags": [
     "canadian",
     "fresh-caught",
-    "gluten-free",
     "high-protein",
     "japanese",
     "one-pan",
@@ -109,5 +107,9 @@
     "mainIngredient": "halibut",
     "descriptor": "Fresh",
     "dishForm": "Nigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

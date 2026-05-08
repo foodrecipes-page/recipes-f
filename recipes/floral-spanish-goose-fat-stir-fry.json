@@ -2,9 +2,7 @@
   "title": "Floral Spanish Goose Fat Stir-Fry",
   "description": "A light and crispy pescatarian-friendly dish featuring floral aromas from a unique blend of gooses' fats with an array of aromatic vegetables.",
   "cuisine": "Spanish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Once you hear the first sizzle (about 10 seconds), quickly but carefully pour the mixture back and forth between the pan and another container, until all the goose fat is incorporated.",
     "Add freshly ground black pepper to taste. Stir gently again.",
     "Cook for about an additional minute or two until everything is heated through and well combined.",
-    "Serve hot with a side of crusty bread if desired."
+    "Serve hot with a side of crusty bread if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,5 +97,10 @@
     "mainIngredient": "goose fat",
     "descriptor": "Floral",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

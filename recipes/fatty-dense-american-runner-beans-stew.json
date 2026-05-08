@@ -2,10 +2,7 @@
   "title": "Fatty Dense American Runner Beans Stew",
   "description": "A hearty one-pot American dish featuring runner beans, perfect for a chilly evening. This stew is a great way to warm up on a cold winter night.",
   "cuisine": "American",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,7 +78,9 @@
     "Add the runner beans to the donabe and bring the stew to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes, or until the beans are tender.",
     "Serve the stew hot, garnished with chopped fresh parsley if desired.",
-    "Serve with crusty bread or over rice, if desired."
+    "Serve with crusty bread or over rice, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -119,5 +118,12 @@
     "mainIngredient": "runner beans",
     "descriptor": "fatty dense",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

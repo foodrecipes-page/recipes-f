@@ -3,8 +3,7 @@
   "description": "A show-off dish featuring crispy anchovy fillets caramelized in a floral sauce with herbs and spices for a kosher-friendly meal.",
   "cuisine": "Tunisian",
   "diet": [
-    "kosher",
-    "vegetarian"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -88,5 +87,9 @@
     "mainIngredient": "anchovy fillet",
     "descriptor": "floral crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

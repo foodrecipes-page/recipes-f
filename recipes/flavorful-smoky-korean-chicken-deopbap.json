@@ -52,7 +52,8 @@
     "Steam the chicken packets in the oven for 20 minutes",
     "While the chicken is cooking, melt the white chocolate chips in a double boiler",
     "Once the chicken is cooked, brush the melted white chocolate chips over the top of each packet",
-    "Serve the chicken packets hot, garnished with additional chili flakes if desired"
+    "Serve the chicken packets hot, garnished with additional chili flakes if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "flavorful smoky",
     "dishForm": "Deopbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Flavorful Argentinian Bonito Flatbread",
   "description": "A wine-infused, chewy gluten‑free flatbread topped with grilled bonito and a smoky glaze, evoking nostalgic Argentinian flavors.",
   "cuisine": "Argentinian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "argentinian",
     "chewy",
     "flatbread",
-    "gluten-free",
     "quick",
     "wine-infused"
   ],
@@ -106,5 +103,9 @@
     "mainIngredient": "bonito",
     "descriptor": "Flavorful",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

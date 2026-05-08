@@ -2,10 +2,7 @@
   "title": "Floral Caramelized Croatian Oats Porridge",
   "description": "A dairy-free and vegan version of a traditional dish that features floral notes with a touch of caramelization for a lazy Sunday meal.",
   "cuisine": "Croatian",
-  "diet": [
-    "dairy-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -90,5 +87,10 @@
     "mainIngredient": "Oats",
     "descriptor": "Floral Caramelized",
     "dishForm": "Porridge"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -4,8 +4,7 @@
   "cuisine": "Slovakian",
   "diet": [
     "macrobiotic-friendly",
-    "gluten-free",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "turnips",
     "descriptor": "fatty juicy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

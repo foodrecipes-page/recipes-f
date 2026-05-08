@@ -3,8 +3,7 @@
   "description": "A creamy and charred Peruvian lamb stew made with lamb shoulder and a blend of spices, perfect for a family dinner. This dish is kid-friendly and incorporates ayurvedic sattvic principles.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "fiery charred",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

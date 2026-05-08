@@ -2,10 +2,7 @@
   "title": "Fluffy Canadian Resinous Burrito",
   "description": "A monsoon-inspired dish featuring shredded Mexican cheese, cure, and plant-based goodness. Perfect for a cozy Canadian evening.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,9 +96,7 @@
   "difficulty": "medium",
   "tags": [
     "canadian",
-    "gluten-free",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -127,5 +122,10 @@
     "mainIngredient": "resinous",
     "descriptor": "fluffy",
     "dishForm": "burrito"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

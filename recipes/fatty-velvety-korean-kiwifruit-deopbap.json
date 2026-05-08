@@ -2,9 +2,7 @@
   "title": "Fatty Velvety Korean Kiwifruit Deopbap",
   "description": "A hearty Korean dish from Busan featuring kiwifruit, perfect for curing hangovers, made with a fatty and velvety sauce, served in a copper pot.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "tags": [
     "comfort-food",
     "copper-pot",
-    "gluten-free",
     "hangover-cure",
     "korean-food",
     "one-pot"
@@ -105,5 +102,9 @@
     "mainIngredient": "kiwifruit",
     "descriptor": "fatty velvety",
     "dishForm": "Deopbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

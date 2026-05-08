@@ -2,9 +2,7 @@
   "title": "Fermented Crispy Middle Eastern Chickpea Crumble",
   "description": "A chewy and flavorful fermented chickpea crumble dish featuring hot chili powder that embodies the flavors of a monsoon season in the Middle East, perfect for breakfast or snack.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
     "chickpea",
     "crumble",
     "monsoon",
-    "middle-eastern",
-    "vegan"
+    "middle-eastern"
   ],
   "nutrition": {
     "calories": 120,
@@ -95,5 +92,9 @@
     "mainIngredient": "Chickpea",
     "descriptor": "Fermented",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

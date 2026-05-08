@@ -55,7 +55,8 @@
     "Meanwhile, slice the potatoes into thin rounds and fry in hot oil until crispy and golden brown.",
     "In a small saucepan, combine the char-grill sauce ingredients and bring to a simmer over medium heat.",
     "To assemble the poutine, place a scoop of fries on a plate, top with shredded cheese curds, and spoon the char-grill sauce over the top.",
-    "Garnish with chopped chives and serve immediately."
+    "Garnish with chopped chives and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "turkey",
     "descriptor": "fermented",
     "dishForm": "poutine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

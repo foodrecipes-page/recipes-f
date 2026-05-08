@@ -3,13 +3,9 @@
   "description": "Snappy, flavorful, and nutritious meal-prep dish featuring lamb, dried apricots, and fermented spices. This Ayurvedic-rajasic-friendly recipe is perfect for a weeknight dinner or special occasion.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
     "gluten-free",
-    "pescatarian",
     "lacto-ovo-vegetarian",
-    "vegan",
     "kosher",
-    "halal",
     "low-carb",
     "low-fat",
     "dairy-free",
@@ -95,5 +91,12 @@
     "mainIngredient": "lamb",
     "descriptor": "fermented",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A hearty, indulgent Italian dish featuring fermented long-beans and confit tomatoes, served in a traditional ribollita form.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -66,7 +65,8 @@
     "Add the canned cannellini beans, broth, and white wine vinegar to the pot, and stir to combine.",
     "Bring the mixture to a simmer and cook for 20-25 minutes, or until it thickens slightly.",
     "Season the ribollita with salt and black pepper to taste.",
-    "Serve the ribollita hot, garnished with fresh basil leaves, if desired."
+    "Serve the ribollita hot, garnished with fresh basil leaves, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -78,7 +78,6 @@
     "gluten-free",
     "italian",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +103,11 @@
     "mainIngredient": "long-bean",
     "descriptor": "fermented indulgent",
     "dishForm": "Ribollita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -89,11 +89,15 @@
     "mood": "quick-fix",
     "technique": "ferment",
     "primaryIngredient": "pineapple chunks",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "pineapple",
     "descriptor": "Fresh Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

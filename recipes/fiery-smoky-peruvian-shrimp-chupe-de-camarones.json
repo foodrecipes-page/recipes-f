@@ -61,7 +61,8 @@
     "Pour the chicken broth and water over the shrimp",
     "Cover the dish with aluminum foil and bake for 15 minutes",
     "Remove the foil and bake for an additional 5 minutes",
-    "Remove the dish from the oven and stir in the lime juice"
+    "Remove the dish from the oven and stir in the lime juice",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Fiery Smoky",
     "dishForm": "Chupe De Camarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

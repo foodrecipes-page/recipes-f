@@ -2,9 +2,7 @@
   "title": "Fresh Ethiopian Oranges Stew",
   "description": "A bright, garlicky stew bursting with citrus and spices, perfect for meal prep and a quick dinner.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,8 +84,7 @@
     "one-pot",
     "orange",
     "quick",
-    "stew",
-    "vegan"
+    "stew"
   ],
   "nutrition": {
     "calories": 147,
@@ -112,5 +109,9 @@
     "mainIngredient": "oranges",
     "descriptor": "Fresh",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

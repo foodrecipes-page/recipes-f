@@ -55,7 +55,8 @@
     "In another small bowl, mix cornstarch with a little water to form a slurry.",
     "Slowly pour in the almond milk while continuously whisking to avoid lumps. Add low-sodium soy sauce and water or broth. Bring to a simmer and let it thicken slightly.",
     "Garnish with chopped green onions before serving.",
-    "prepTimeMin"
+    "prepTimeMin",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "cookTimeMin": 20,
   "totalTimeMin": 30,
@@ -91,5 +92,9 @@
     "descriptor": "Fermented Creamy",
     "dishForm": "Stir-fry"
   },
-  "prepTimeMin": 15
+  "prepTimeMin": 15,
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

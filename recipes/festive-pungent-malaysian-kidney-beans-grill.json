@@ -3,8 +3,7 @@
   "description": "A shaggy, festive Malaysian dish featuring kidney beans, grilled to perfection. This low-carb-friendly recipe is perfect for a weeknight dinner.",
   "cuisine": "Malaysian",
   "diet": [
-    "low-carb",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,8 @@
     "Serve over cauliflower rice for a low-carb option.",
     "Adjust the level of spiciness to your liking by adding more chili flakes.",
     "Add some heat with a dash of sriracha for an extra kick.",
-    "Experiment with different types of protein like chicken or tofu for added variety."
+    "Experiment with different types of protein like chicken or tofu for added variety.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -91,7 +91,6 @@
     "grilled",
     "low-carb",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -117,5 +116,10 @@
     "mainIngredient": "kidney beans",
     "descriptor": "festive pungent",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

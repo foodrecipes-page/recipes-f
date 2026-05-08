@@ -6,7 +6,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Flor de Ca\u00f1a vine leaves",
+      "name": "Flor de Caña vine leaves",
       "amount": "16"
     },
     {
@@ -40,11 +40,12 @@
   ],
   "instructions": [
     "Prepare the vine leaves by washing them thoroughly to remove any dirt.",
-    "Chop the bell peppers, onions, and garlic. Saut\u00e9 the chopped vegetables in a bit of olive oil until softened.",
+    "Chop the bell peppers, onions, and garlic. Sauté the chopped vegetables in a bit of olive oil until softened.",
     "Add ground beef or pork (vegan alternative) and cook until browned. Stir in tomato sauce or paste and simmer for about 10 minutes.",
     "Lay each vine leaf flat on a plate, place a spoonful of meat mixture down the center, and roll tightly to enclose the filling.",
-    "Heat oven to 350\u00b0F (175\u00b0C). Place stuffed leaves in a baking dish, seam side up, and bake for about 20-25 minutes or until leaves are tender and slightly crispy on top.",
-    "Serve hot with your favorite dipping sauce."
+    "Heat oven to 350°F (175°C). Place stuffed leaves in a baking dish, seam side up, and bake for about 20-25 minutes or until leaves are tender and slightly crispy on top.",
+    "Serve hot with your favorite dipping sauce.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 30,
@@ -75,5 +76,9 @@
     "primaryIngredient": "vine leaves",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

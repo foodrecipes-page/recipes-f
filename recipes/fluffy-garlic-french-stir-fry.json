@@ -46,7 +46,8 @@
     "Add the sliced bell pepper and eggplant to the skillet along with any residual liquid from the chicken. Cook for about 5 minutes, stirring occasionally.",
     "Transfer the vegetable mixture onto the baking dish containing the seasoned chicken fillet. Drizzle with butter or olive oil if desired.",
     "Broil in preheated oven until the vegetables are tender and slightly charred on top (about 10-12 minutes).",
-    "Remove from heat, season to taste with salt and pepper, and serve warm."
+    "Remove from heat, season to taste with salt and pepper, and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -84,5 +85,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

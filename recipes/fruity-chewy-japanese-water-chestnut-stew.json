@@ -2,9 +2,7 @@
   "title": "Fruity Chewy Japanese Water Chestnut Stew",
   "description": "A citrusy, chewy stew that soothes hangovers, featuring water chestnuts simmered in dashi with orange zest and mirin.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,7 +78,6 @@
   "tags": [
     "chewy",
     "citrusy",
-    "gluten-free",
     "hangover-cure",
     "kaiseki",
     "kitchen-ware"
@@ -108,5 +105,9 @@
     "mainIngredient": "Water Chestnut",
     "descriptor": "Fruity Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Floral Ethiopian Flour Crumble",
   "description": "A chewy and nostalgic dish featuring a blend of gluten-free flour mixed with toasted spices for a floral flavor profile, perfect as a breakfast or snack option.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -62,8 +60,7 @@
     "floral",
     "nostalgic",
     "ethiopian",
-    "chewy",
-    "gluten-free"
+    "chewy"
   ],
   "nutrition": {
     "calories": 205,
@@ -88,5 +85,9 @@
     "mainIngredient": "flour",
     "descriptor": "Floral",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

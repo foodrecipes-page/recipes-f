@@ -3,8 +3,7 @@
   "description": "A light, one-pot Egyptian dish featuring Emmentaler cheese, whisk, egg-free-friendly, vessel=lazy-susan-spinner.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "Emmentaler cheese",
     "descriptor": "Flaky, Lightly Scrambled",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

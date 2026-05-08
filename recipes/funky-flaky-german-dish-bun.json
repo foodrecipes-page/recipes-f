@@ -56,7 +56,8 @@
     "fry the buns in batches until they are golden brown, about 2-3 minutes per side.",
     "drain the buns on paper towels, then place them on a wire rack to cool slightly.",
     "split the buns open, fill them with double-fried chicken nuggets, and garnish with shojin-style sesame seeds.",
-    "serve immediately, and enjoy!"
+    "serve immediately, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -70,12 +71,9 @@
     "dinner",
     "french",
     "german",
-    "gluten-free",
     "lunch",
-    "pescatarian",
     "romantic",
-    "shojin",
-    "vegetarian"
+    "shojin"
   ],
   "nutrition": {
     "calories": 480,
@@ -100,5 +98,12 @@
     "mainIngredient": "dish",
     "descriptor": "funky flaky",
     "dishForm": "bun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

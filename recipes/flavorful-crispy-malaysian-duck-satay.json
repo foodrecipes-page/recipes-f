@@ -3,7 +3,6 @@
   "description": "A kid-friendly Malaysian dish featuring duck fat, with a briny and cheese-pull flavor profile, sugar-free friendly and perfect for a weeknight dinner",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "duck",
     "descriptor": "flavorful crispy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

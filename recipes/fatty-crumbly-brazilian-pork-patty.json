@@ -60,7 +60,8 @@
     "When the oil is hot, add 2 patties to the skillet and cook for 4 minutes on the first side, or until the edges start to brown.",
     "Flip the patties and cook for an additional 4 minutes, or until the second side is also browned.",
     "Repeat with the remaining 2 patties.",
-    "Serve the patties hot, garnished with chopped fresh cilantro if desired."
+    "Serve the patties hot, garnished with chopped fresh cilantro if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 8,
@@ -95,5 +96,9 @@
     "mainIngredient": "pork",
     "descriptor": "fatty crumbly",
     "dishForm": "Patty"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

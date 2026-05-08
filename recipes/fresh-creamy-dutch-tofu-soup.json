@@ -46,11 +46,11 @@
     },
     {
       "name": "Salt, kosher",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Black pepper",
-      "amount": "\u00bc tsp"
+      "amount": "¼ tsp"
     },
     {
       "name": "Lemon juice",
@@ -58,7 +58,7 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a Dutch oven over medium heat and saut\u00e9 onion, garlic, carrot, and celery until softened, about 5 minutes.",
+    "Heat olive oil in a Dutch oven over medium heat and sauté onion, garlic, carrot, and celery until softened, about 5 minutes.",
     "Add turmeric, curry powder, salt, and pepper; stir for 1 minute to toast the spices.",
     "Pour in soy milk and bring to a gentle simmer, stirring occasionally to prevent sticking.",
     "Gently fold in the silken tofu cubes, then simmer uncovered for 10 minutes, letting the flavors meld.",
@@ -76,7 +76,7 @@
     "mood": "one-pot",
     "technique": "poach",
     "primaryIngredient": "soya milk",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "tofu",
@@ -97,5 +97,9 @@
   "tags": [
     "dutch",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

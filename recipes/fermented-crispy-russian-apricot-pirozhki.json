@@ -3,7 +3,6 @@
   "description": "Comforting traditional Russian dish featuring apricot filling, crispy dough, and a hint of fermented flavor. Perfect as a snack or dessert.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dessert",
@@ -110,5 +109,9 @@
     "mainIngredient": "apricot",
     "descriptor": "Fermented Crispy",
     "dishForm": "Pirozhki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

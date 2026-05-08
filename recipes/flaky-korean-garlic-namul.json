@@ -3,8 +3,7 @@
   "description": "A simple, nostalgic Korean dish from Busan, made with garlic bulb, lacquer-glaze, and perfect for a whole30 diet. The flaky texture and rich flavor will transport you to the coastal city.",
   "cuisine": "korean",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -116,5 +115,9 @@
     "mainIngredient": "garlic",
     "descriptor": "flaky",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

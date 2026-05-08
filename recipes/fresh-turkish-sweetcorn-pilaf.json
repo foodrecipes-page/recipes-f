@@ -3,7 +3,6 @@
   "description": "A flavorful Turkish sweetcorn pilaf, made with fresh corn, herbs, and spices. Perfect as a side dish or light lunch.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "jain-friendly"
   ],
   "meal": "lunch",
@@ -63,7 +62,7 @@
     "Rinse the rice in a fine-mesh strainer and soak in water for 30 minutes.",
     "Drain the rice and set aside.",
     "In a large saucepan, heat the oil over medium-high heat.",
-    "Add the onion and garlic and saut\u00e9 until the onion is translucent.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
     "Add the soaked rice, salt, and black pepper, and stir to combine.",
     "Add 2 cups of the chicken broth, cover, and bring to a boil.",
     "Reduce the heat to medium-low and simmer for 5 minutes.",
@@ -71,7 +70,8 @@
     "Fluff the cooked rice with a fork and stir in the chopped herbs.",
     "Add the steamed corn kernels to the rice mixture and stir to combine.",
     "Return the saucepan to the stovetop and add the remaining 2 cups of chicken broth.",
-    "Cover and cook for an additional 5-7 minutes, or until the liquid has been absorbed and the pilaf is fluffy."
+    "Cover and cook for an additional 5-7 minutes, or until the liquid has been absorbed and the pilaf is fluffy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -83,7 +83,6 @@
     "sweetcorn",
     "pilaf",
     "rice",
-    "vegetarian",
     "jain-friendly",
     "herbs",
     "spices",
@@ -113,5 +112,10 @@
     "mainIngredient": "sweetcorn",
     "descriptor": "fresh",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

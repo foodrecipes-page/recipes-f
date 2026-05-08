@@ -3,7 +3,6 @@
   "description": "A fresh and energizing dish featuring grilled snapper fish with a creamy base made of fresh vegetables and aromatic spices.",
   "cuisine": "Filipino",
   "diet": [
-    "vegan",
     "raw-friendly"
   ],
   "meal": "dinner",
@@ -82,5 +81,9 @@
     "mainIngredient": "snapper",
     "descriptor": "Freshly Grilled",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

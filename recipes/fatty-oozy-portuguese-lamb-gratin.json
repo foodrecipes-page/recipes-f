@@ -54,7 +54,8 @@
     "Transfer the pot to the preheated oven and bake for 25-30 minutes.",
     "Remove the pot from the oven and sprinkle the chopped oregano over the top.",
     "Bake for an additional 10-15 minutes, or until the surface is golden brown and the lamb is tender.",
-    "Serve hot, garnished with additional oregano if desired."
+    "Serve hot, garnished with additional oregano if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -92,5 +93,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Fatty, Oozy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

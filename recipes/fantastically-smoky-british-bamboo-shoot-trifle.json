@@ -53,7 +53,8 @@
     "In a large fondue pot, create a layer of sauteed bamboo shoots.",
     "Add a layer of double fried chicken on top of the bamboo shoots.",
     "Add a layer of crumbled feta cheese and cherry tomatoes on top of the chicken.",
-    "Repeat the layers two more times, ending with a layer of feta cheese on top."
+    "Repeat the layers two more times, ending with a layer of feta cheese on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -90,5 +91,9 @@
     "mainIngredient": "bamboo shoot",
     "descriptor": "Fantastically Smoky",
     "dishForm": "Trifle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

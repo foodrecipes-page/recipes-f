@@ -2,9 +2,7 @@
   "title": "Flaky Vietnamese Herb Falafel Crumble",
   "description": "A light and savory Vietnamese-inspired dish featuring crispy falafel crumbles with a blend of aromatic herbs for a vegan-friendly breakfast or snack option.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "herb",
     "descriptor": "Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

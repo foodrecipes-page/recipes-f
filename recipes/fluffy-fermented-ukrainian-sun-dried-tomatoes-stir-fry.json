@@ -4,8 +4,7 @@
   "cuisine": "Ukrainian",
   "diet": [
     "low-carb",
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "sun-dried tomatoes",
     "descriptor": "fluffy fermented low-calorie-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

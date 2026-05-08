@@ -4,7 +4,6 @@
   "cuisine": "Jamaican",
   "diet": [
     null,
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -85,8 +84,7 @@
     "breakfast-for-dinner",
     "dessert",
     "indian-inspired",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 400,
@@ -111,5 +109,9 @@
     "mainIngredient": "ground pistachios",
     "descriptor": "floral creamy",
     "dishForm": "knead"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

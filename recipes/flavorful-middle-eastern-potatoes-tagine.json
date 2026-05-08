@@ -3,8 +3,7 @@
   "description": "A lazy Sunday Middle Eastern dish featuring floury potatoes, pickle, and cheese pull, cooked in a fondue pot. This umami rich dish is perfect for a relaxing day.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Stir in the chopped pickle and crumbly feta cheese.",
     "Continue to cook for an additional 5 minutes, or until the cheese is melted and the potatoes are fully coated.",
     "Serve the potatoes hot, garnished with additional pickle and feta cheese if desired.",
-    "Use crusty bread or pita chips to scoop up the flavorful potatoes and cheese."
+    "Use crusty bread or pita chips to scoop up the flavorful potatoes and cheese.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +100,10 @@
     "mainIngredient": "potatoes",
     "descriptor": "Flavorful Fondue",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

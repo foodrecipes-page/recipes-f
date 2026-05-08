@@ -51,8 +51,7 @@
   "tags": [
     "flaky-dish",
     "mexican-flavor",
-    "one-pan-dish",
-    "vegan"
+    "one-pan-dish"
   ],
   "nutrition": {
     "calories": 320,
@@ -77,5 +76,9 @@
     "mainIngredient": "Rigatoni",
     "descriptor": "Flaky",
     "dishForm": "Oozy Flan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

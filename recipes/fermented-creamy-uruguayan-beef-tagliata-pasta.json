@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing dairy-free pasta dish featuring fermented beef cutlets in a creamy sauce over al dente pasta.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegan",
     "lactose-free"
   ],
   "meal": "dinner",
@@ -75,11 +74,16 @@
     "mood": "crowd-pleaser",
     "technique": "blanch",
     "primaryIngredient": "beef cutlet",
-    "diet": "dairy-free",
+    "diet": "lactose-free",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "beef",
     "descriptor": "Fermented, Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
+  ]
 }

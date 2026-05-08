@@ -2,9 +2,7 @@
   "title": "Fiery Vietnamese Tofu Pho",
   "description": "A smoky, pillowy bowl of tofu pho fortified with coconut milk and a fiery kick, perfect for festive temple gatherings.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,8 +80,7 @@
     "coconut",
     "festive",
     "fiery",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 320,
@@ -108,5 +105,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Fiery",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

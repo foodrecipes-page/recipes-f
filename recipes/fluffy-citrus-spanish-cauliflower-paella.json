@@ -67,7 +67,8 @@
     "Reduce heat to low, cover, and simmer for 10 minutes until cauliflower is tender and the liquid has mostly absorbed.",
     "While the cauliflower cooks, whisk mayonnaise with lemon juice, lemon zest, salt, and pepper until smooth.",
     "When the cauliflower is cooked, fluff it gently with a fork, then stir in the mayo mixture until the dish becomes creamy and fluffy.",
-    "Taste and adjust seasoning if needed. Garnish with fresh parsley and serve hot."
+    "Taste and adjust seasoning if needed. Garnish with fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,11 +100,16 @@
     "mood": "indulgent",
     "technique": "knead",
     "primaryIngredient": "mayonnaise",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Spanish",
     "mainIngredient": "Cauliflower",
     "descriptor": "Fluffy Citrus",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

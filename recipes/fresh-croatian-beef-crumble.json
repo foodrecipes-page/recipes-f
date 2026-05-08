@@ -3,8 +3,7 @@
   "description": "A low-carb-friendly, fresh and chewy dish featuring minced beef that is air-fried to perfection for a romantic Croatian-inspired meal.",
   "cuisine": "Croatian",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -39,7 +38,8 @@
     "Sprinkle the mixture with flour until it forms clumps of crumbles. Try not to over-flour as this could lead to an oily dish.",
     "Place the beef crumbles evenly on the air fryer basket, making sure they are not overlapping too much for even cooking.",
     "Air-fry for 12-15 minutes or until golden brown and crispy. Check if done by inserting a toothpick into the middle of a crumble - it should come out clean.",
-    "Allow to cool slightly before serving as a snack or appetizer."
+    "Allow to cool slightly before serving as a snack or appetizer.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -74,5 +74,10 @@
     "mainIngredient": "Beef",
     "descriptor": "Fresh",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

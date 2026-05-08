@@ -3,7 +3,6 @@
   "description": "A festive British dessert featuring dark chocolate chips and herbal flavors, suitable for egg-free diets.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -91,5 +90,9 @@
     "mainIngredient": "Chocolate Chips",
     "descriptor": "Fluffy",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

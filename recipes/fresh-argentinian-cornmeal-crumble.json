@@ -39,8 +39,7 @@
   "tags": [
     "argentine",
     "cornmeal",
-    "air-fried",
-    "vegan"
+    "air-fried"
   ],
   "nutrition": {
     "calories": 160,
@@ -65,5 +64,9 @@
     "mainIngredient": "cornmeal",
     "descriptor": "Fresh",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

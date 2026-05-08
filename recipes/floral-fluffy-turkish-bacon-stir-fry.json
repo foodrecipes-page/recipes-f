@@ -31,7 +31,8 @@
     "Place the bacon lardons on a baking sheet. Sprinkle with Turkish Walnut Paste and bake for about 10 minutes until crispy.",
     "Mince the garlic cloves and chop the onion into small pieces. Sauté the onions in some oil over medium heat until translucent, then add minced garlic and cook for another minute.",
     "Add Chicken Broth to the sautéed mixture and bring it to a simmer. Once the sauce is hot, toss in the crispy bacon lardons and let them absorb the flavors for 2-3 minutes.",
-    "Serve immediately as a snack or side dish."
+    "Serve immediately as a snack or side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,5 +68,9 @@
     "mainIngredient": "Bacon",
     "descriptor": "Floral Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

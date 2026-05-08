@@ -2,9 +2,7 @@
   "title": "Ferment Celery Bliss",
   "description": "A sweet and juicy vegan-friendly Greek dish featuring celery salt, fermented vegetables, and other natural flavors to energize your morning.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -73,5 +71,9 @@
     "primaryIngredient": "celery salt",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

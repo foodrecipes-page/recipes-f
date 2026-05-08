@@ -3,7 +3,6 @@
   "description": "A creamy, egg-free-friendly dish featuring the delicate flavor of gelatin leaves and fermented ingredients. Perfect for a comforting meal prep.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -81,7 +80,6 @@
     "floral",
     "meal-prep",
     "egg-free-friendly",
-    "vegan",
     "gluten-free"
   ],
   "nutrition": {
@@ -107,5 +105,10 @@
     "mainIngredient": "meal",
     "descriptor": "floral silky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

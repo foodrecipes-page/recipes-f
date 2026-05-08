@@ -19,7 +19,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 180\u00b0C (350\u00b0F).",
+    "Preheat the oven to 180°C (350°F).",
     "In a mixing bowl, combine crushed digestive biscuits and crushed fermented saudia dates.",
     "Add almond meal to the mixture and mix well until evenly distributed.",
     "Transfer the crumble mixture onto an ungreased baking sheet lined with parchment paper.",
@@ -36,8 +36,7 @@
     "dense",
     "sick-day",
     "saudi-arabian",
-    "digestive-biscuits",
-    "nut-free"
+    "digestive-biscuits"
   ],
   "nutrition": {
     "calories": 150,
@@ -62,5 +61,9 @@
     "mainIngredient": "Dates",
     "descriptor": "Fermented",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Floral Crispy Indian Vegetable Spring-Rolls",
   "description": "A nostalgic, floral twist on classic Indian egg rolls, packed with crisp veggies, fragrant herbs, and a sweet mango pickle dip.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -65,7 +63,8 @@
     "Repeat with remaining wrappers and filling until all are rolled.",
     "Carefully lower each roll into the hot oil and fry until golden brown, about 2–3 minutes, turning once.",
     "Remove with a slotted spoon and drain on paper towels.",
-    "Serve the rolls warm with extra mango pickle or a simple vegan yogurt dip if desired (omit for strict vegan)."
+    "Serve the rolls warm with extra mango pickle or a simple vegan yogurt dip if desired (omit for strict vegan).",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -73,7 +72,6 @@
   "servings": 12,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "snack",
     "crispy",
     "indian",
@@ -103,5 +101,10 @@
     "mainIngredient": "Vegetable",
     "descriptor": "Floral Crispy",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

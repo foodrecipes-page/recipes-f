@@ -3,8 +3,7 @@
   "description": "A hearty, crumbly casserole to soothe your hangover, packed with Jamaican spices and frozen mixed berries. This comforting dish is also Fodmap-friendly to ensure a gentle recovery.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Preheat your oven to 375°F (190°C).",
     "Grease a 9x13-inch baking dish with olive oil.",
     "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
-    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent."
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -95,5 +95,10 @@
     "mainIngredient": "fodmap-friendly dish",
     "descriptor": "fatty crumbly hangover-cure",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

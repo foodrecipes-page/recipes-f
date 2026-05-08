@@ -3,8 +3,7 @@
   "description": "This smoky and flaky lamb mince wrap is a low-calorie-friendly brunch dish that blends Ukrainian flavors with savory ingredients for an easy-to-make meal.",
   "cuisine": "Ukrainian",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "lamb mince",
     "descriptor": "Smoky Flaky",
     "dishForm": "Wraps"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

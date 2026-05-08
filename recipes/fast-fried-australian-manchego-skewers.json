@@ -2,9 +2,7 @@
   "title": "Fast Fried Australian Manchego Skewers",
   "description": "A sweet and crispy Australian dish featuring Manchego cheese, quickly cooked on a binchotan grill and deglazed with a sweet sauce, perfect for a vegan-friendly snack.",
   "cuisine": "Australian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "manchego",
     "descriptor": "Fast Fried",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

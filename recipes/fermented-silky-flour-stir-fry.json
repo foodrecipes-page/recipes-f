@@ -42,7 +42,9 @@
     "In a separate bowl, mix soy sauce, ginger paste, rice vinegar, and both kinds of seeds from tadka spices.",
     "Pour the mixture over the cooked meat and stir well to coat evenly.",
     "Cook for about 2-3 minutes until the flour absorbs and becomes creamy.",
-    "Garnish with fresh herbs or cilantro before serving."
+    "Garnish with fresh herbs or cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -78,5 +80,10 @@
     "mainIngredient": "flour",
     "descriptor": "fermented",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

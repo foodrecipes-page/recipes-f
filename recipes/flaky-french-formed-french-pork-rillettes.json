@@ -3,7 +3,6 @@
   "description": "Rich, flaky, energizing French Provençal dish featuring pork tenderloin and the delicate flavor of scallop shells. Anti-inflammatory friendly, perfect for a dinner gathering.",
   "cuisine": "French",
   "diet": [
-    "pescatarian",
     "gluten-free",
     "dairy-free",
     "suitable-for-vegans"
@@ -20,7 +19,8 @@
     "Preheat the oven to 300°F (150°C).",
     "Season the pork tenderloin with salt, black pepper, and 1 tablespoon of chopped fresh thyme.",
     "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat.",
-    "Sear the pork tenderloin for 2-3 minutes on each side, or until browned, then transfer it to a plate and set aside."
+    "Sear the pork tenderloin for 2-3 minutes on each side, or until browned, then transfer it to a plate and set aside.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -55,5 +55,10 @@
     "mainIngredient": "Pork",
     "descriptor": "Flaky French Formed",
     "dishForm": "rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-pork_no_temp"
+  ]
 }

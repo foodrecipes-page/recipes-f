@@ -3,10 +3,7 @@
   "description": "A festive and healthy American dish featuring bresaola, fry-grind-rice-khao-khua.",
   "cuisine": "American",
   "diet": [
-    "low-glycemic",
-    "gluten-free",
-    "vegetarian",
-    "vegan"
+    "low-glycemic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -65,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "healthy",
     "low-glycemic",
     "one-pan"
@@ -93,5 +89,11 @@
     "mainIngredient": "bresaola",
     "descriptor": "fluffy",
     "dishForm": "fry-grind-rice-khao-khua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

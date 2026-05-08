@@ -3,7 +3,6 @@
   "description": "This earthy and adventurous Chinese dish combines the boldness of tiger prawns with Mediterranean flavors, resulting in a fluffy stir-fry that is sure to be both adventurous and comforting.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "low-fat"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "Tiger Prawns",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -34,7 +34,8 @@
     "For an added touch, garnish with edible flowers or microgreens.",
     "To make the dish more substantial, consider serving with a side of protein-rich accompaniments, such as grilled chicken or avocado.",
     "Consider making the dish in advance and refrigerating or freezing the buns for a quick snack or meal later in the day.",
-    "When serving the buns, be sure to serve them in a hot stone plate to keep them warm and fresh."
+    "When serving the buns, be sure to serve them in a hot stone plate to keep them warm and fresh.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -45,7 +46,6 @@
     "breakfast",
     "dinner",
     "easy",
-    "gluten-free",
     "kenyan",
     "lunch",
     "one-pan",
@@ -77,5 +77,10 @@
     "mainIngredient": "potato buns",
     "descriptor": "floral, fluffy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

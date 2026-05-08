@@ -3,8 +3,7 @@
   "description": "A spicy, low-glycemic-friendly fermented molten dish featuring a flavorful Jamaican lamb stir-fry with crunchy lettuce. Pair with a side of warm pita bread.",
   "cuisine": "jamaican",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -108,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "fermented molten",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

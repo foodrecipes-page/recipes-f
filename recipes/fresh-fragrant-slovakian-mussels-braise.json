@@ -3,8 +3,7 @@
   "description": "A light and briny Slovakian dish featuring mussels in a braise, perfect for a weeknight dinner.",
   "cuisine": "slovakian",
   "diet": [
-    "kosher",
-    "vegetarian"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "mussels",
     "descriptor": "fresh fragrant",
     "dishForm": "braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

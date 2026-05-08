@@ -3,7 +3,6 @@
   "description": "This medjool date crumble dish is perfect for a cozy date night or anytime you're craving something sweet and flaky.",
   "cuisine": "Spanish",
   "diet": [
-    "vegan",
     "halal"
   ],
   "meal": "dessert",
@@ -72,5 +71,9 @@
     "mainIngredient": "date",
     "descriptor": "Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A herbal and bouncy Vietnamese dish featuring bread and served in an agave leaf vessel, perfect for a post-workout meal. This recipe is FODMAP friendly and features a lamination puff technique.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "herbal-recipes",
     "post-workout-meals",
     "vegetarian-options",
@@ -91,5 +89,9 @@
     "mainIngredient": "bread",
     "descriptor": "fragrant herbal",
     "dishForm": "Canh Chua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

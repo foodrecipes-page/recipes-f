@@ -4,7 +4,6 @@
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -35,8 +34,7 @@
     "comfort-food",
     "funky",
     "mediterranean",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -61,5 +59,9 @@
     "mainIngredient": "Coconut milk",
     "descriptor": "Fermented Coconut",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A floral and chewy Filipino dish featuring Persian cucumber and confit tomato, perfect for a lazy Sunday, this pancit canton is a twist on the classic recipe with a dash-friendly form.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,6 @@
   "difficulty": "easy",
   "tags": [
     "filipino-food",
-    "gluten-free",
     "lazy-sunday",
     "one-pan",
     "stir-fry",
@@ -95,5 +93,9 @@
     "mainIngredient": "persian cucumber",
     "descriptor": "floral fresh",
     "dishForm": "Pancit Canton"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

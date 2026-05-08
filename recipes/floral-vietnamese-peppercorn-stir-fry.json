@@ -3,8 +3,7 @@
   "description": "A quick-fix low-carb-friendly floral and crispy Vietnamese dish featuring peppercorns, whisked for a delightful aroma.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -71,5 +70,9 @@
     "mainIngredient": "Peppercorns",
     "descriptor": "Floral",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

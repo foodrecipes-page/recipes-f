@@ -41,7 +41,8 @@
     "Add onion, garlic, and bell peppers to the broth. Stir occasionally for about 5 minutes until vegetables soften slightly.",
     "Stir in the fresh herbs like rosemary or thyme for added flavor and aroma.",
     "Reduce heat to low, then drizzle in pul biber and tomato paste over the mixture. Cook for an additional 2-3 minutes allowing flavors to meld together.",
-    "Serve hot as a snack with some raw vegetables or enjoy it as part of your breakfast spread."
+    "Serve hot as a snack with some raw vegetables or enjoy it as part of your breakfast spread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -78,5 +79,9 @@
     "mainIngredient": "pul biber",
     "descriptor": "Floral Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

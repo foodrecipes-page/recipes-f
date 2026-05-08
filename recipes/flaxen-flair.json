@@ -57,7 +57,8 @@
     "Cover and simmer for about 20 minutes until the squash is tender.",
     "Blend half of the squash mixture in a blender or food processor until smooth, then mix it back into the pot.",
     "Add flaxseeds to the pot and stir well. Cook for an additional 5-10 minutes until heated through.",
-    "Stir in fresh herbs just before serving."
+    "Stir in fresh herbs just before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -88,5 +89,9 @@
     "primaryIngredient": "flaxseed",
     "diet": "diabetic-friendly",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

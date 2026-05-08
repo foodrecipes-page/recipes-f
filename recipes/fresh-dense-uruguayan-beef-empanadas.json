@@ -70,7 +70,8 @@
     "When the oil is hot, add a few of the empanadas to the skillet (do not overcrowd) and cook until they are golden brown on the bottom.",
     "Flip the empanadas and cook for an additional 2-3 minutes, until they are golden brown on the other side.",
     "Remove the empanadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
-    "Serve the empanadas warm or at room temperature."
+    "Serve the empanadas warm or at room temperature.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "beef",
     "descriptor": "fresh dense",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

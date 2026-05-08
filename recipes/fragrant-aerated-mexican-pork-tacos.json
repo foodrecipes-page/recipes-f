@@ -77,7 +77,8 @@
     "Shred the pork with two forks and stir in the pork stock.",
     "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the tacos by spooning the pork onto a tortilla, followed by a slice of avocado, a sprinkle of chopped cilantro, and a squeeze of lime juice.",
-    "Serve immediately."
+    "Serve immediately.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -116,5 +117,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Fragrant, Aerated",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

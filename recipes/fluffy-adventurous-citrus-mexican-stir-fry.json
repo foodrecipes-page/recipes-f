@@ -67,7 +67,8 @@
     "Reduce heat to medium and add sliced yellow onions to the pan with salt (if you have it) and cook until translucent, about 5-7 minutes. Stir in crushed garlic cloves and cook for an additional minute or so.",
     "Add halal-friendly fermented tofu cubes back into the pan along with finely sliced jalapeno peppers. Cook for a few more minutes until vegetables are tender-crisp and tofu is well-coated.",
     "Stir in zested oranges, brown sugar, rice vinegar (if using), fish sauce (if using). If desired, add sesame seeds as garnish at the end of cooking to enhance texture and flavor.",
-    "Serve hot with additional lime wedges or cilantro for a refreshing touch. Enjoy your adventure into Mexican cuisine!"
+    "Serve hot with additional lime wedges or cilantro for a refreshing touch. Enjoy your adventure into Mexican cuisine!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -104,5 +105,9 @@
     "mainIngredient": "Citrus",
     "descriptor": "Fluffy Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

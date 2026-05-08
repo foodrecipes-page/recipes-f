@@ -32,7 +32,8 @@
     "In a mixing bowl, combine the whole milk ricotta with crumbled feta cheese.",
     "Season with sea salt and stir until fully combined.",
     "Fold in chopped fresh herbs for a burst of flavor.",
-    "Serve immediately or chill to preserve its texture."
+    "Serve immediately or chill to preserve its texture.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
@@ -64,5 +65,9 @@
     "primaryIngredient": "feta",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

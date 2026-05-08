@@ -3,7 +3,6 @@
   "description": "A nutty and silky Croatian dish featuring brown rice, this pilaf is a cozy and comforting meal option, made without onions or garlic for a friendly flavor profile.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -57,7 +56,8 @@
     "Add the brown rice and stir to coat the rice with the tomato paste and oil.",
     "Add the chicken broth, thyme, salt, and pepper, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 40 minutes, or until the liquid is absorbed and the rice is tender.",
-    "Remove from heat and let rest for 5 minutes before fluffing with a fork."
+    "Remove from heat and let rest for 5 minutes before fluffing with a fork.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -68,7 +68,6 @@
     "comfort-food",
     "gluten-free",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -94,5 +93,10 @@
     "mainIngredient": "brown rice",
     "descriptor": "fluffy silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A malty, crunchy, and comforting Polish dish featuring lean minced steak, cooked to perfection in a clay pot, perfect for a sick day, and low in carbs. This stew is a traditional Polish recipe with a twist, making it a great option for a weeknight dinner.",
   "cuisine": "Polish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "steak",
     "descriptor": "flavorful hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

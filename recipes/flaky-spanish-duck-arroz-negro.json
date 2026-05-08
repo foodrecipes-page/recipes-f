@@ -56,7 +56,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25 minutes.",
     "Remove the duck legs from the pot and shred the meat into bite-sized pieces.",
     "Return the shredded duck to the pot and stir to combine with the rice and broth.",
-    "Serve hot, garnished with chopped fresh parsley if desired."
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "flaky garlicky",
     "dishForm": "Arroz Negro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

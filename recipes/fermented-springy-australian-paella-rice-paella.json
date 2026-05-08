@@ -58,7 +58,8 @@
     "Preheat oven to 220°C (425°F).",
     "Mix paella rice with fermented liquid and set aside.",
     "In a large oven-safe paella pan, heat 1L of chicken broth over medium heat.",
-    "Add garlic, onion, smoked paprika, kosher salt, and black pepper to the pan and sauté for 2 minutes."
+    "Add garlic, onion, smoked paprika, kosher salt, and black pepper to the pan and sauté for 2 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "paella rice",
     "descriptor": "fermented springy",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

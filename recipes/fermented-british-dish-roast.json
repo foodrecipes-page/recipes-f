@@ -2,9 +2,7 @@
   "title": "Fermented British Roast",
   "description": "A rich, tender, and flavorful dish featuring a shio-koji cure, dark brown sugar, and a halal-friendly twist. Perfect for a crowd-pleaser dinner.",
   "cuisine": "British",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -104,8 +102,7 @@
     "british",
     "comfort-food",
     "dinner-party",
-    "fermented",
-    "halal"
+    "fermented"
   ],
   "nutrition": {
     "calories": 540,
@@ -130,5 +127,9 @@
     "mainIngredient": "dish",
     "descriptor": "fermented",
     "dishForm": "roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

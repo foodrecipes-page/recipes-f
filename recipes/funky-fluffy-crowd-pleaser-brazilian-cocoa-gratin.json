@@ -3,8 +3,7 @@
   "description": "This Brazilian dish is a unique twist on traditional cocoa gratin with a funky, fluffy texture. It's a crowd-pleaser for any meal time.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -125,5 +124,9 @@
     "mainIngredient": "cocoa",
     "descriptor": "funky, fluffy, crowd-pleaser",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

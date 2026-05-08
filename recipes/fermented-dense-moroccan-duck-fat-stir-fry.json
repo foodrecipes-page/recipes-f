@@ -36,7 +36,8 @@
     "Heat the fermented duck fat in a pan over medium heat.",
     "Add minced garlic and onion to the pan and cook until translucent.",
     "Stir in tomato paste and bell pepper (if using) until the vegetables start to soften.",
-    "Fold in thyme sprigs, taste for salt if needed, then serve immediately."
+    "Fold in thyme sprigs, taste for salt if needed, then serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -71,5 +72,9 @@
     "mainIngredient": "duck fat",
     "descriptor": "Fermented Dense",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

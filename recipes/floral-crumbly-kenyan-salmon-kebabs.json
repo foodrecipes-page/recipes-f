@@ -4,7 +4,6 @@
   "cuisine": "Kenyan",
   "diet": [
     "gluten-free",
-    "dairy-free",
     "egg-free-friendly"
   ],
   "meal": "lunch",
@@ -93,7 +92,6 @@
     "salmon",
     "kebabs",
     "gluten-free",
-    "dairy-free",
     "egg-free-friendly",
     "meal-prep",
     "floral",
@@ -122,5 +120,9 @@
     "mainIngredient": "salmon",
     "descriptor": "floral, crumbly",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

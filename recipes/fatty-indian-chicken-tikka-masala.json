@@ -65,7 +65,8 @@
     "Transfer the skillet to the preheated oven and bake for 20 minutes.",
     "While the chicken is baking, heat the canned tomato and heavy cream in a saucepan over medium heat.",
     "Stir the sauce constantly until it is heated through and slightly thickened.",
-    "Remove the chicken from the oven and add it to the saucepan with the tomato sauce."
+    "Remove the chicken from the oven and add it to the saucepan with the tomato sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -103,5 +104,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Fatty Bouncy",
     "dishForm": "Tikka Masala"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

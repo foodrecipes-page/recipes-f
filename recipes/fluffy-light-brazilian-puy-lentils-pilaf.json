@@ -62,7 +62,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Add the rinsed and drained puy lentils to the saucepan and stir to combine.",
     "Return the saucepan to a simmer and cook, uncovered, for 15-20 minutes, or until the lentils are tender.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -74,7 +75,6 @@
     "high-protein",
     "lactose-free",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +100,10 @@
     "mainIngredient": "puy-lentils",
     "descriptor": "fluffy light",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

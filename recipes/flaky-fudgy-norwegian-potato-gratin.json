@@ -3,7 +3,6 @@
   "description": "A traditional Norwegian dish with a crumbly crust and a sour glaze. Low-calorie and easy to make in one pot.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "low-calorie"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],
@@ -94,5 +92,9 @@
     "mainIngredient": "potato",
     "descriptor": "Flaky Fudgy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

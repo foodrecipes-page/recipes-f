@@ -3,8 +3,7 @@
   "description": "A twist on traditional empanadas incorporating fermented flavors and a chewy texture.",
   "cuisine": "Argentinian",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Place a tablespoon of ground beef in center. ",
     "Fold empanada in half, pressing edges to seal. ",
     "Heat a tablespoon of oil in copper-pot over medium heat. ",
-    "Cook empanadas 3-4 minutes per side. "
+    "Cook empanadas 3-4 minutes per side. ",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 35,
   "cookTimeMin": 15,
@@ -99,5 +99,10 @@
     "mainIngredient": "meal",
     "descriptor": "Fermented Chewy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

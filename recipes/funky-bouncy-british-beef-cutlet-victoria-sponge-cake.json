@@ -3,7 +3,6 @@
   "description": "A quirky British dessert featuring a moist Victoria sponge cake with a beef cutlet filling, served hot. This recipe is a unique twist on traditional British desserts, made with ayurvedic-friendly ingredients.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     null
   ],
   "meal": "dessert",
@@ -101,5 +100,9 @@
     "mainIngredient": "beef cutlet",
     "descriptor": "funky, bouncy",
     "dishForm": "Victoria Sponge Cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A spicy, molten brunch dish featuring morbier cheese, perfect for a weeknight dinner. This frittata is dairy-free friendly and made with a brine-dried morbier cheese.",
   "cuisine": "Dutch",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -72,7 +71,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "morbier",
@@ -103,5 +101,9 @@
     "mainIngredient": "Morbier",
     "descriptor": "Fiery Molten",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

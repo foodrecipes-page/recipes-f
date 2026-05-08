@@ -82,8 +82,7 @@
     "easy-to-make",
     "high-fiber",
     "one-pan",
-    "sattvic",
-    "vegan"
+    "sattvic"
   ],
   "nutrition": {
     "calories": 300,
@@ -108,5 +107,9 @@
     "mainIngredient": "garam masala",
     "descriptor": "Fragrant Light",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A plant-based friendly Moroccan dish featuring long-fermentation rye dough, with a sour and cheesy pull, perfect for a brunch mood. It is made with a combination of rye flour, olive oil, and spices.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "rye",
     "descriptor": "fragrant sour",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

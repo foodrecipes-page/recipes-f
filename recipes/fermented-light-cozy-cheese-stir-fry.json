@@ -3,7 +3,6 @@
   "description": "A light and cozy Thai-inspired dish featuring a plant-based liquid cheese fermented to mimic the texture of traditional hard cheese. Perfect for breakfast or snack time.",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "snack",
@@ -83,5 +82,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Fermented Light Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

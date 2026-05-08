@@ -64,7 +64,7 @@
   ],
   "prepTimeMin": 60,
   "cookTimeMin": 12,
-  "totalTimeMin": 122,
+  "totalTimeMin": 72,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
@@ -98,5 +98,9 @@
     "mainIngredient": "pork",
     "descriptor": "Fantastically Fragrant",
     "dishForm": "Char Siu Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

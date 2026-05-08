@@ -57,7 +57,8 @@
     "Add the beef broth, guinness stout, salt, and pepper to the pot and bring to a boil.",
     "Reduce the heat to low and simmer the stew for 1 hour, or until the meat and vegetables are tender.",
     "Add the rendered lardons back to the pot and stir to combine.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -94,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "fatty crunchy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

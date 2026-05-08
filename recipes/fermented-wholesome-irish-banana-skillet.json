@@ -2,10 +2,7 @@
   "title": "Fermented Wholesome Irish Banana Skillet",
   "description": "A light and refreshing breakfast skillet featuring fermented bananas, crispy bacon, and a medley of spices. Perfect for a cozy Irish morning.",
   "cuisine": "Irish",
-  "diet": [
-    "kosher",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -119,5 +116,11 @@
     "mainIngredient": "Banana",
     "descriptor": "Fermented Wholesome",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-kosher",
+    "removed-diet-kosher"
+  ]
 }

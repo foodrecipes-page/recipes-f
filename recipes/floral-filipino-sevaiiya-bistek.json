@@ -2,9 +2,7 @@
   "title": "Floral Filipino Sevaiiya Bistek",
   "description": "A nostalgic Filipino dish featuring sevaiiya, served in a bistek form with a floral and glassy-jelly texture, simmered to perfection on a tava-griddle.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "sevaiiya",
     "descriptor": "floral glassy",
     "dishForm": "Bistek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A tender and floral Polish dish featuring ancho chillies and lamination-puff, perfect for a low-carb meal prep option.",
   "cuisine": "Polish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Fold the pastry over the chicken, pressing the edges to seal.",
     "Place the puff pastry on a baking sheet lined with parchment paper.",
     "Brush the top of the puff pastry with the unsalted butter.",
-    "Bake the puff pastry for 25 minutes, or until golden brown."
+    "Bake the puff pastry for 25 minutes, or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -68,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "low-carb",
     "meal-prep",
     "polish-cuisine",
@@ -97,5 +96,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Flaky Buttery",
     "dishForm": "Puff"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

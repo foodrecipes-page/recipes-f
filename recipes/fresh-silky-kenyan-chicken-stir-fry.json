@@ -50,7 +50,7 @@
     {
       "name": "Olive Oil",
       "amount": "2 tbsp",
-      "notes": "To saut\u00e9 ingredients and deglaze pan"
+      "notes": "To sauté ingredients and deglaze pan"
     },
     {
       "name": "Salt",
@@ -64,15 +64,16 @@
     }
   ],
   "instructions": [
-    "Season chicken pieces with salt and pepper. Heat oil in a pan over medium heat, add chicken and saut\u00e9 until golden brown on both sides.",
-    "Remove chicken from the pan and set aside. In the same pan, saut\u00e9 onions and garlic until translucent.",
+    "Season chicken pieces with salt and pepper. Heat oil in a pan over medium heat, add chicken and sauté until golden brown on both sides.",
+    "Remove chicken from the pan and set aside. In the same pan, sauté onions and garlic until translucent.",
     "Add green peppers to the pan and stir for 2-3 minutes, allowing them to soften slightly.",
     "Deglaze the pan with a bit of water or broth if needed, scraping any browned bits from the bottom.",
     "Return chicken back into the pan. Stir in tomato paste until fully incorporated, then add green peppers and onions.",
     "Bring everything to a simmer, reduce heat to low, add thyme sprigs, and let it cook for about 5 minutes.",
     "Stir in chicken stock concentrate with a splash of lemon juice. Taste and adjust seasoning if necessary.",
     "Cook until the sauce thickens slightly and flavors are well integrated into the dish. Adjust consistency with water or broth as needed.",
-    "Serve hot, garnished with fresh cilantro or lemon wedges, if desired."
+    "Serve hot, garnished with fresh cilantro or lemon wedges, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -110,5 +111,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Fresh Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

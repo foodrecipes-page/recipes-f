@@ -117,7 +117,8 @@
     "Sprinkle the toasted walnuts, crumbled feta cheese, chopped kalamata olives, and sesame seeds over the wrap.",
     "Drizzle with additional lemon juice and sprinkle with chopped fresh lavender and red pepper flakes.",
     "Cut in half to serve.",
-    "Serve immediately, garnished with additional parsley and lemon zest if desired."
+    "Serve immediately, garnished with additional parsley and lemon zest if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -154,5 +155,9 @@
     "mainIngredient": "goose fat",
     "descriptor": "flaky herbal",
     "dishForm": "ssam-wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

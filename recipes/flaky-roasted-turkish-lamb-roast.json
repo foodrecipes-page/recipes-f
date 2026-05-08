@@ -87,7 +87,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 1,
-  "totalTimeMin": 2,
+  "totalTimeMin": 31,
   "servings": 8,
   "difficulty": "hard",
   "tags": [
@@ -122,5 +122,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Flaky Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

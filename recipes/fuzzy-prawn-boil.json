@@ -3,7 +3,6 @@
   "description": "A kid-friendly American dish featuring fresh king prawns in a silky broth that's both delicious and easy to make. This recipe is also suitable for those following a fodmap diet.",
   "cuisine": "American",
   "diet": [
-    "vegan",
     "low-fodmap"
   ],
   "meal": "snack",
@@ -39,7 +38,8 @@
     "Bring to a boil over medium heat, then reduce to a simmer.",
     "Simmer gently for about 5 minutes, adding minced garlic during the last minute of cooking.",
     "Season with salt to taste. Remove from heat immediately once done.",
-    "Garnish with fresh parsley before serving."
+    "Garnish with fresh parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -71,5 +71,10 @@
     "primaryIngredient": "king prawns",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

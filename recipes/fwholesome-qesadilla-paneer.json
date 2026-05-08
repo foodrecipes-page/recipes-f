@@ -68,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "air-fried",
-    "gluten-free",
     "indian-flavors",
     "nutritious",
     "paneer-tikka",
@@ -97,5 +96,9 @@
     "mainIngredient": "Paneer",
     "descriptor": "Wholesome",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

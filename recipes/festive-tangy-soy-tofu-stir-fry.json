@@ -2,9 +2,7 @@
   "title": "Festive Tangy Soy Tofu Stir-fry",
   "description": "A dense and festive Korean dish featuring shaoxing wine and fermented ingredients, this tangy stir-fry is dairy-free and perfect for a savory snack or light meal.",
   "cuisine": "Korean",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Festive Tangy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

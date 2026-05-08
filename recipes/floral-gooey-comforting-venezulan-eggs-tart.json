@@ -3,8 +3,7 @@
   "description": "A rich and comforting Venezuelan dish featuring a gooey egg filling, a crumbly gluten-free crust, and a floral touch from the rose petals.",
   "cuisine": "Venezuelan",
   "diet": [
-    "dairy-free-friendly",
-    "gluten-free"
+    "dairy-free-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -92,8 +91,7 @@
     "egg",
     "floral",
     "comforting",
-    "dairy-free-friendly",
-    "gluten-free"
+    "dairy-free-friendly"
   ],
   "nutrition": {
     "calories": 320,
@@ -112,11 +110,16 @@
     "mood": "comforting",
     "technique": "knead",
     "primaryIngredient": "eggs",
-    "diet": "dairy-free",
+    "diet": "dairy-free-friendly",
     "region": null,
     "cuisineAdjective": "Venezulan",
     "mainIngredient": "eggs",
     "descriptor": "floral gooey comforting",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

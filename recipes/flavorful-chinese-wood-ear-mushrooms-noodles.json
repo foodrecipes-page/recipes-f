@@ -2,10 +2,7 @@
   "title": "Flavorful Chinese Wood Ear Mushrooms Noodles",
   "description": "A salty, crumbly, and cozy Chinese dish featuring wood ear mushrooms and a pasta water emulsion, perfect for a weeknight dinner.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,8 +65,6 @@
     "mushrooms",
     "noodles",
     "one-pan",
-    "vegan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +90,10 @@
     "mainIngredient": "wood ear mushrooms",
     "descriptor": "flavorful savory",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

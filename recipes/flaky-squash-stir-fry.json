@@ -2,9 +2,7 @@
   "title": "Flaky Squash Stir-fry",
   "description": "A creamy and garlicky squash dish perfect for a cozy date night, featuring dairy-free-friendly ingredients that are easy to prepare.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -25,7 +23,7 @@
     },
     {
       "name": "Water or Vegetable Stock",
-      "amount": "\u00bd cup"
+      "amount": "½ cup"
     },
     {
       "name": "Date Syrup",
@@ -41,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (205\u00b0C).",
+    "Preheat oven to 400°F (205°C).",
     "Cut the Butternut Squash into cubes and toss with olive oil, garlic, tomato paste, water or vegetable stock, and date syrup if using.",
     "Season with salt and pepper. Spread evenly on a baking sheet lined with parchment paper.",
     "Roast in preheated oven for about 25-30 minutes until tender and slightly caramelized.",
@@ -87,5 +85,9 @@
   "tags": [
     "middle-eastern",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
   ]
 }

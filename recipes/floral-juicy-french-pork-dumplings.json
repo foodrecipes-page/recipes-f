@@ -3,8 +3,7 @@
   "description": "Inspired by traditional French cuisine, these dumplings combine the delicate flavors of spring with the richness of pork. Serve with a side of tangy pickled vegetables for a delightful meal.",
   "cuisine": "French",
   "diet": [
-    "Whole30-friendly",
-    "Gluten-free"
+    "Whole30-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -79,7 +78,8 @@
     "In a large skillet, melt 1 tablespoon of the unsalted butter over medium heat.",
     "Add the dumplings to the skillet, leaving space between each dumpling to allow for even cooking.",
     "Cook the dumplings for 5-7 minutes on each side, or until they are golden brown and cooked through.",
-    "Serve the dumplings hot with a side of tangy pickled vegetables."
+    "Serve the dumplings hot with a side of tangy pickled vegetables.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -91,7 +91,6 @@
     "pork",
     "dumplings",
     "whole30-friendly",
-    "gluten-free",
     "pastry",
     "vegetarian-side-dish",
     "easy-dinner",
@@ -120,5 +119,10 @@
     "mainIngredient": "pork",
     "descriptor": "floral, juicy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

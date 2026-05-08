@@ -3,7 +3,6 @@
   "description": "A traditional Shandong dish showcasing tender pork belly in a rich, fermented soybean paste sauce, served with fragrant jasmine rice.",
   "cuisine": "Shandong Chinese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -17,7 +16,7 @@
       "amount": "2 tbsp (30g)"
     },
     {
-      "name": "Fermented soybean paste (d\u00f2u ji\u00e0ng)",
+      "name": "Fermented soybean paste (dòu jiàng)",
       "amount": "2 tbsp (30g)"
     },
     {
@@ -53,7 +52,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 275\u00b0F (135\u00b0C).",
+    "Preheat the oven to 275°F (135°C).",
     "Rinse the pork belly and pat it dry with paper towels.",
     "In a small bowl, mix together Doubanjiang, fermented soybean paste, rice vinegar, sesame oil, garlic, and ginger.",
     "Rub the spice mixture all over the pork belly, making sure to coat it evenly.",
@@ -104,5 +103,9 @@
     "mainIngredient": "pork",
     "descriptor": "fermented tender",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

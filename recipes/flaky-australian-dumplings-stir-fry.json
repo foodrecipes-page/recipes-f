@@ -47,7 +47,8 @@
     "Pour in chicken broth and white wine vinegar, bringing the mixture to a boil.",
     "Reduce heat to low and stir in soy sauce and salt. Simmer for about 5 minutes or until thickened slightly.",
     "Fold in frozen dumplings gently using tongs. Let them cook for an additional 2-3 minutes or until fully heated through.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -83,5 +84,9 @@
     "mainIngredient": "dumplings",
     "descriptor": "Flaky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

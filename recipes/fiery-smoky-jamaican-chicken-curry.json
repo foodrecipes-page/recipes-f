@@ -3,7 +3,6 @@
   "description": "A spicy and smoky chicken curry dish featuring Jamaican flavors, perfect for a monsoon day. This dairy-free friendly recipe is made with shio-koji cure and smoky oil.",
   "cuisine": "Jamaican",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
   "tags": [
     "chicken-recipes",
     "curry-recipes",
-    "dairy-free",
     "gluten-free",
     "jamaican-cuisine",
     "spicy-food"
@@ -97,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Fiery Smoky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

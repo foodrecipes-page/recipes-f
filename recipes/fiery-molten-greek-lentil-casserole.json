@@ -2,9 +2,7 @@
   "title": "Fiery Molten Greek Lentil Casserole",
   "description": "A pungent and molten Greek dish featuring honey and dashi extract, this vegan-friendly casserole is a crowd-pleaser. It combines the warmth of lentils with the sweetness of honey and the depth of dashi extract.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Fiery Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

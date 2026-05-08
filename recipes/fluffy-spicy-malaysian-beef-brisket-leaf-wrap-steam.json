@@ -2,11 +2,7 @@
   "title": "fluffy spicy malaysian beef brisket leaf-wrap-steam",
   "description": "spicy, fluffy, low-calorie-friendly malaysian dish featuring beef brisket, served in a steamed leaf wrap",
   "cuisine": "malaysian",
-  "diet": [
-    "vegetarian",
-    "halal",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -555,5 +551,11 @@
     "mainIngredient": "beef brisket",
     "descriptor": "fluffy spicy",
     "dishForm": "leaf-wrap-steam"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-halal"
+  ]
 }

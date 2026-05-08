@@ -2,9 +2,7 @@
   "title": "Freshly Chewy Comforting French Oxtail Stir-fry",
   "description": "This dish features a fresh and chewy oxtail stir-fry with pickled vegetables for added flavor, serving up a comforting meal that's also pescatarian-friendly.",
   "cuisine": "French",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -44,7 +42,8 @@
     "Once the garlic is aromatic, add the oxtail pieces to the pan and cook for about 3-5 minutes per side or until they develop a golden crust. Keep an eye on them to prevent burning.",
     "Deglaze the wok with a splash of water to stir up any stuck bits from the bottom of the pan, then add oyster sauce and soy sauce. Mix well so all ingredients are coated evenly.",
     "Add pickled vegetables and give everything a good toss to combine flavors, ensuring they are evenly distributed throughout the dish.",
-    "Finally, sprinkle the chopped scallions over the top for added color and freshness. Serve immediately while still warm."
+    "Finally, sprinkle the chopped scallions over the top for added color and freshness. Serve immediately while still warm.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -80,5 +79,10 @@
     "mainIngredient": "Oxtail",
     "descriptor": "Freshly Chewy Comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

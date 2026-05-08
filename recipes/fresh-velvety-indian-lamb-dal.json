@@ -102,11 +102,15 @@
     "mood": "meal-prep",
     "technique": "braise",
     "primaryIngredient": "frozen mixed berries",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "lamb",
     "descriptor": "fresh velvety",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

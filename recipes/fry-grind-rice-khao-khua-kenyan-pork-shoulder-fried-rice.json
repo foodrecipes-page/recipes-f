@@ -2,9 +2,7 @@
   "title": "Fry-grind-rice-khao-khua Kenyan Pork Shoulder Fried Rice",
   "description": "Nutty, snappy, and festive Kenyan dish featuring pork shoulder, fry-grind-rice-khao-khua, and pescatarian-friendly ingredients.",
   "cuisine": "Kenyan",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -29,7 +27,8 @@
     "Add the full-fat coconut milk and stir-fry for an additional 1-2 minutes, until the mixture is heated through.",
     "Add the cooked pork shoulder and stir-fry for 1-2 minutes, until everything is well combined.",
     "Season with salt and black pepper to taste.",
-    "Serve hot, garnished with chopped green onions if desired."
+    "Serve hot, garnished with chopped green onions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,5 +66,10 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "fry-grind-rice-khao-khua",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-pork_no_temp"
+  ]
 }

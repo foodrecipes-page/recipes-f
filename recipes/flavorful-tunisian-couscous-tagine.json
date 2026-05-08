@@ -66,7 +66,9 @@
     "Reduce the sauce by half over low heat, creating a slightly thickened, emulsified coating.",
     "Plate the couscous, top with chicken pieces, spoon sauce over, and garnish with a few olives.",
     "Allow the tagine to cool to room temperature before portioning into meal‑prep containers.",
-    "Refrigerate the containers; the dish tastes best after 24 hours and can be reheated in microwave."
+    "Refrigerate the containers; the dish tastes best after 24 hours and can be reheated in microwave.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -105,5 +107,10 @@
     "mainIngredient": "couscous",
     "descriptor": "Flavorful",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

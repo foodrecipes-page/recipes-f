@@ -3,8 +3,6 @@
   "description": "A weeknight-friendly, plant-based-friendly shrimp curry with a velvety texture achieved through fermentation. Perfectly balanced with tangy spices and a light reduction.",
   "cuisine": "indian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,7 +76,6 @@
     "indian",
     "shrimp",
     "curry",
-    "vegan",
     "gluten-free",
     "weeknight",
     "velvety",
@@ -107,5 +104,10 @@
     "mainIngredient": "shrimp",
     "descriptor": "Fermented",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

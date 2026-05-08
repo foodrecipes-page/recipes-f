@@ -2,9 +2,7 @@
   "title": "Ethiopian Fish Pilaf",
   "description": "A light and tender Ethiopian dish featuring guanciale and fish, with a bitter and flaky texture, made pescatarian-friendly with the use of fish instead of meat, and mantecare-emulsify method to create a creamy sauce.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,8 +75,7 @@
     "ethiopian-cuisine",
     "fish-based",
     "flaky-texture",
-    "one-pan",
-    "pescatarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -103,5 +100,9 @@
     "mainIngredient": "fish",
     "descriptor": "flaky tender",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

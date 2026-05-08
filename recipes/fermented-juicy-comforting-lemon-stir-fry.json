@@ -3,7 +3,6 @@
   "description": "This egg-free-friendly fermented and juicy Turkish dish features dry sherry for a unique flavor profile.",
   "cuisine": "Turkish",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -85,5 +84,9 @@
     "mainIngredient": "lemon",
     "descriptor": "Fermented Juicy Comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

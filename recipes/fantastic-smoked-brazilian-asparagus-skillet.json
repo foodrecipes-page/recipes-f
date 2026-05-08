@@ -52,7 +52,8 @@
     "Pour in the low-sodium chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to low and let cook for 5 minutes until the liquid has reduced slightly.",
     "Stir in the grated parmesan cheese until melted and well combined.",
-    "Serve the smoked asparagus skillet hot, garnished with additional parmesan cheese if desired."
+    "Serve the smoked asparagus skillet hot, garnished with additional parmesan cheese if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "fantastic smoked",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

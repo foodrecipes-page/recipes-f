@@ -3,8 +3,7 @@
   "description": "A citrusy and flaky Mediterranean-inspired dish featuring cheonggukjang and ferment-jang, made with whole30-friendly ingredients. This flatbread is perfect for a snack or light lunch.",
   "cuisine": "Korean",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -59,7 +58,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-inspired",
     "lunch-recipes",
     "mediterranean-style",
@@ -89,5 +87,9 @@
     "mainIngredient": "cheonggukjang",
     "descriptor": "flaky indulgent",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

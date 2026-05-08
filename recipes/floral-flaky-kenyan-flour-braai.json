@@ -2,9 +2,7 @@
   "title": "Kenyan Chakula ya Kukunja",
   "description": "A Kenyan-inspired dish with a floral and flaky pastry crust filled with spicy braised meat, served as a dinner option.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -111,5 +109,9 @@
     "mainIngredient": "flour",
     "descriptor": "floral, flaky",
     "dishForm": "Braai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

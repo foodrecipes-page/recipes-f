@@ -3,8 +3,7 @@
   "description": "This raw-friendly Brazilian dish features a fermented crunchy cashew crumble, infused with dark rum for an indulgent yet raw-friendly twist.",
   "cuisine": "Brazilian",
   "diet": [
-    "raw",
-    "vegan"
+    "raw"
   ],
   "meal": "snack",
   "ingredients": [
@@ -46,7 +45,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
-  "totalTimeMin": 50,
+  "totalTimeMin": 32,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
@@ -77,5 +76,10 @@
     "mainIngredient": "cashew",
     "descriptor": "Fermented Crunchy Raw Friendly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

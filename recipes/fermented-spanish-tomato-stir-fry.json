@@ -38,7 +38,8 @@
     "Stir in garam masala and continue cooking for another minute, stirring constantly to avoid burning the spices.",
     "Add the soaked fermented Spanish tomatoes into the pan. Cook for about 2-3 more minutes, allowing them to release their juices.",
     "Pour in turkey or chicken broth. Stir well to combine all ingredients thoroughly.",
-    "Simmer gently on low heat until thickened slightly, about 5-7 minutes."
+    "Simmer gently on low heat until thickened slightly, about 5-7 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -73,5 +74,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Fermented",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

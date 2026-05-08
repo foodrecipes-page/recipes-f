@@ -88,7 +88,6 @@
     "bread",
     "breakfast",
     "german",
-    "gluten-free",
     "snack",
     "steam",
     "weeknight"
@@ -116,5 +115,9 @@
     "mainIngredient": "bread",
     "descriptor": "flaky warm",
     "dishForm": "baedekas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

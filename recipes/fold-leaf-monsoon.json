@@ -3,8 +3,7 @@
   "description": "A rich and tender Thai dish featuring baby lettuce leaves, perfectly balanced for a low-carb-friendly meal.",
   "cuisine": "Thai",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -43,7 +42,7 @@
   ],
   "instructions": [
     "Heat oil in a wok over medium-high heat.",
-    "Add minced garlic and sliced chili pepper, saut\u00e9 for 30 seconds.",
+    "Add minced garlic and sliced chili pepper, sauté for 30 seconds.",
     "Stir in soy sauce and tamarind paste. Bring to a simmer.",
     "Reduce heat to low and add coconut milk. Simmer until the mixture thickens slightly.",
     "Fold baby lettuce leaves into the sauce, tossing gently to coat each leaf.",
@@ -57,7 +56,6 @@
   "tags": [
     "monsoon",
     "thai",
-    "vegan",
     "low-carb"
   ],
   "nutrition": {
@@ -79,5 +77,9 @@
     "primaryIngredient": "baby lettuce leaves",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

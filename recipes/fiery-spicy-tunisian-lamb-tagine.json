@@ -61,7 +61,8 @@
     "Add the crushed dried chillies, tomato paste, chicken broth, lemon juice, salt, and black pepper, and stir to combine",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender",
     "Remove the lid and simmer for an additional 30 minutes, or until the sauce has thickened",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired"
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Fiery Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

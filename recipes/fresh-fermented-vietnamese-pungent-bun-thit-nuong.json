@@ -2,10 +2,7 @@
   "title": "Fresh Fermented Vietnamese Pungent Bun Thit Nuong",
   "description": "Silky and pungent, this cold water fermented bun thit nuong features vegan-friendly ingredients and makes a great meal prep option. Perfect for serving on a cedar plank.",
   "cuisine": "vietnamese",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,15 +92,13 @@
   ],
   "prepTimeMin": 24,
   "cookTimeMin": 0,
-  "totalTimeMin": 48,
+  "totalTimeMin": 24,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
     "fermented",
-    "gluten-free",
     "grilled",
     "meal-prep",
-    "vegan",
     "vietnamese"
   ],
   "nutrition": {
@@ -129,5 +124,11 @@
     "mainIngredient": "pungent",
     "descriptor": "Fresh Fermented",
     "dishForm": "Bun Thit Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

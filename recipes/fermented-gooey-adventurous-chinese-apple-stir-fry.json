@@ -2,9 +2,7 @@
   "title": "Fermented Gooey Adventurous Chinese Apple Stir-fry",
   "description": "This vegan-friendly stir-fry combines the unique flavors of fermented foods with sweet and tangy apples, creating an adventurous yet comforting meal.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,5 +86,9 @@
     "mainIngredient": "apple",
     "descriptor": "Fermented Gooey Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

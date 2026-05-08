@@ -34,7 +34,8 @@
     "In a small bowl, mix together the Paleo-friendly Mayonnaise (if using) and a bit of water to create a dressing for your dish.",
     "Place all ingredients in the pressure cooker: chicken, carrots, rice, avocado slices, and the mayonnaise mixture. Add enough water to cover everything.",
     "Cook on high pressure according to your pressure cooker’s instructions for about 5 minutes, then let it naturally release steam for an additional minute or two.",
-    "Gently stir-fry over medium heat until the ingredients are heated through and the flavors meld together nicely."
+    "Gently stir-fry over medium heat until the ingredients are heated through and the flavors meld together nicely.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -72,5 +73,9 @@
     "mainIngredient": "Cocoa",
     "descriptor": "Fresh Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

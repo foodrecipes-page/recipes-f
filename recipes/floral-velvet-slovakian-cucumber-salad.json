@@ -105,11 +105,15 @@
     "mood": "brunch-mood",
     "technique": "pickle",
     "primaryIngredient": "lemongrass",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "cucumber",
     "descriptor": "Floral Velvet",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

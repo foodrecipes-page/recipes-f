@@ -66,11 +66,15 @@
     "mood": "cozy",
     "technique": "caramelize",
     "primaryIngredient": "pineapple juice",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Saudia",
     "mainIngredient": "pineapple",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

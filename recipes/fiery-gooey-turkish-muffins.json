@@ -3,8 +3,7 @@
   "description": "These spicy muffins are a light and low-carb Turkish dish, featuring a gooey center and a crispy exterior, made with a blend of spices and cheese.",
   "cuisine": "Turkish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "cheesy",
-    "gluten-free",
     "low-carb",
     "snack",
     "spicy",
@@ -95,5 +93,9 @@
     "mainIngredient": "muffins",
     "descriptor": "Fiery Gooey",
     "dishForm": "Muffins"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

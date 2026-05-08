@@ -3,7 +3,6 @@
   "description": "A delicious and comforting sick-day dish featuring haddock that combines a floral flavor profile with flaky texture for an indulgent yet healthy option.",
   "cuisine": "Italian",
   "diet": [
-    "vegan",
     "low-carb"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "Haddock",
     "descriptor": "Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -76,7 +76,8 @@
     "While the buns are baking, heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
     "Once the oil is hot, add 2-3 buns to the skillet (do not overcrowd). Fry for 2-3 minutes on each side, or until golden brown and crispy.",
     "Repeat with the remaining buns. Serve the fried buns hot with your favorite dipping sauce.",
-    "To assemble the bun-rieu, place a few pieces of the fried bun on a plate, add a spoonful of the fromage-blanc mixture on top, and garnish with fresh herbs such as cilantro or scallions."
+    "To assemble the bun-rieu, place a few pieces of the fried bun on a plate, add a spoonful of the fromage-blanc mixture on top, and garnish with fresh herbs such as cilantro or scallions.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 22,
@@ -114,5 +115,9 @@
     "mainIngredient": "Fromage-Blanc",
     "descriptor": "Fresh Fried",
     "dishForm": "Bun Rieu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

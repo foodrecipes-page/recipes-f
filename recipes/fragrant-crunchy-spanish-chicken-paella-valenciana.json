@@ -58,7 +58,8 @@
     "Stir in the crushed sesame seed burger buns and cook for 2 minutes.",
     "Transfer the clay pot to the preheated oven and bake for 20 minutes.",
     "Remove the clay pot from the oven and let it cool for 5 minutes.",
-    "Serve the paella on a hot stone plate and garnish with chopped fresh parsley."
+    "Serve the paella on a hot stone plate and garnish with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "fragrant crunchy",
     "dishForm": "Paella Valenciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

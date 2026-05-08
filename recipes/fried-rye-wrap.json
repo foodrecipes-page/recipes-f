@@ -3,8 +3,7 @@
   "description": "A fermented, dense, crowd-pleasing Ukrainian dish featuring bread rolls air-fried for a healthy and delicious snack.",
   "cuisine": "Ukrainian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,5 +74,9 @@
     "mainIngredient": "Rye",
     "descriptor": "Fried",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

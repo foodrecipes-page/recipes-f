@@ -3,8 +3,7 @@
   "description": "A creamy, fermented, and energizing Chinese dish featuring white chocolate chips and salt-and-pepper squid, perfect for a weeknight dinner.",
   "cuisine": "Chinese",
   "diet": [
-    "low-glycemic",
-    "vegetarian"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "squid",
     "descriptor": "Fermented creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

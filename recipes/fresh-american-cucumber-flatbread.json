@@ -3,7 +3,6 @@
   "description": "A malty, flaky post-workout American dish featuring cucumber, this flatbread is perfect for a light snack, and it's dairy-free-friendly. It is served on a talavera plate.",
   "cuisine": "American",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "cucumber",
-    "dairy-free",
     "flatbread",
     "post-workout",
     "talavera-plate",
@@ -94,5 +92,9 @@
     "mainIngredient": "cucumber",
     "descriptor": "flaky fresh",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

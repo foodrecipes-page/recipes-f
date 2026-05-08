@@ -3,7 +3,6 @@
   "description": "A rich, dense tagine featuring frozen seafood mix and sous-vide cooking technique, made plant-based friendly with minimal animal products.",
   "cuisine": "moroccan",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "dinner",
@@ -68,5 +67,9 @@
     "mainIngredient": "seafood",
     "descriptor": "Frozen",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

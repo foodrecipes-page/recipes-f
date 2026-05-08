@@ -83,7 +83,8 @@
     "Add the chicken broth, chopped dried apricots, brown sugar, and fermented greek yogurt. Bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 10 minutes.",
     "Season with salt and black pepper to taste.",
-    "Garnish with chopped fresh cilantro and serve hot."
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -121,5 +122,9 @@
     "mainIngredient": "rum",
     "descriptor": "fermented molten",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

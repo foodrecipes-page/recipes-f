@@ -46,7 +46,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -78,5 +78,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Floral Crunchy Festive",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

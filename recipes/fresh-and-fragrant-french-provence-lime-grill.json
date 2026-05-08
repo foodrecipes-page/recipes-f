@@ -4,9 +4,7 @@
   "cuisine": "French",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegetarian",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -112,5 +110,10 @@
     "mainIngredient": "lime",
     "descriptor": "Fresh and fragrant",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

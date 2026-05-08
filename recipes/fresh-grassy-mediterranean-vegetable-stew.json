@@ -2,10 +2,7 @@
   "title": "Fresh Grassy Mediterranean Vegetable Stew",
   "description": "A hearty and flavorful one-pot stew featuring ginger paste and bonito-shave, perfect for a plant-based dinner",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +75,6 @@
     "mediterranean",
     "one-pot",
     "plant-based",
-    "vegan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +100,10 @@
     "mainIngredient": "vegetables",
     "descriptor": "Fresh Grassy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

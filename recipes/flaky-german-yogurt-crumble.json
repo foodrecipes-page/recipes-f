@@ -41,7 +41,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 5,
-  "totalTimeMin": 35,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -73,5 +73,9 @@
     "mainIngredient": "Yogurt",
     "descriptor": "Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

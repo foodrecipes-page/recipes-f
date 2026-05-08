@@ -2,10 +2,7 @@
   "title": "Floral Velvety Thai Duck Stir-fry",
   "description": "This post-workout dish combines tender duck legs with a floral-infused sauce, perfect for vegetarians and vegans due to the use of tofu.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,10 +51,10 @@
     }
   ],
   "instructions": [
-    "Place duck legs in a pot and cover with water. Bring to a boil then simmer for about 1 hour until fully cooked (internal temperature reaches 74\u00b0C).",
+    "Place duck legs in a pot and cover with water. Bring to a boil then simmer for about 1 hour until fully cooked (internal temperature reaches 74°C).",
     "Drain, let cool slightly, and slice the duck into thin strips.",
     "Heat sesame oil in a pan and add garlic, scallion whites, and chili peppers. Cook until fragrant.",
-    "Remove half of the sliced tofu from the block; saut\u00e9 with remaining 3 tablespoons of oil to get golden brown crust on all sides.",
+    "Remove half of the sliced tofu from the block; sauté with remaining 3 tablespoons of oil to get golden brown crust on all sides.",
     "Add duck legs back into the pan along with all other ingredients except coconut milk. Stir well to combine.",
     "Stir in coconut milk and continue cooking until sauce thickens slightly, about 5-7 minutes.",
     "Serve hot as a main dish or side with steamed vegetables for a full meal."
@@ -68,8 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
-    "vegetarian",
     "dinner",
     "floral",
     "velvety"
@@ -97,5 +92,10 @@
     "mainIngredient": "duck",
     "descriptor": "Floral Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

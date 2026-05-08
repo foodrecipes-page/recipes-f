@@ -85,11 +85,9 @@
   "difficulty": "hard",
   "tags": [
     "dinner",
-    "gluten-free",
     "mexican",
     "special-occasion",
     "tacos",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -115,5 +113,10 @@
     "mainIngredient": "bulgur",
     "descriptor": "flaky indulgent",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

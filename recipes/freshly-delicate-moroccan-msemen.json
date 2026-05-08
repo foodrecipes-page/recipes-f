@@ -44,7 +44,8 @@
     "Bring to boil, then simmer for about 10 minutes.",
     "Add coconut milk and ginger puree, cook for another 5 minutes.",
     "Stir in lemon juice and sesame seeds, serve hot over msemen dough.",
-    "Serve with harissa if desired."
+    "Serve with harissa if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -81,5 +82,9 @@
     "mainIngredient": "duck-confit-leg",
     "descriptor": "Freshly",
     "dishForm": "Msemen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

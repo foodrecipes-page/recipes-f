@@ -35,10 +35,10 @@
     {
       "name": "Olive oil",
       "amount": "1 tbsp",
-      "notes": "for saut\u00e9"
+      "notes": "for sauté"
     },
     {
-      "name": "Low\u2011sodium chicken stock",
+      "name": "Low‑sodium chicken stock",
       "amount": "4 cups"
     },
     {
@@ -62,15 +62,16 @@
   ],
   "instructions": [
     "Heat the olive oil in a Dutch oven over medium heat until shimmering.",
-    "Add the chopped onion and minced garlic, saut\u00e9ing until the onion becomes translucent and fragrant.",
-    "Stir in the sliced carrot and diced yautia, cooking for 3\u20134 minutes to let them soften slightly.",
+    "Add the chopped onion and minced garlic, sautéing until the onion becomes translucent and fragrant.",
+    "Stir in the sliced carrot and diced yautia, cooking for 3–4 minutes to let them soften slightly.",
     "Add the diced chicken breast and brown it lightly on all sides.",
     "Pour in the chicken stock, then add the thyme sprigs, bay leaf, salt, and pepper.",
     "Bring the mixture to a gentle boil, reduce the heat to low, cover, and let it simmer for 30 minutes, or until the yautia is tender.",
     "Remove the bay leaf, then stir in the heavy cream and allow the stew to cook for an additional 5 minutes, letting the flavors meld.",
     "Taste and adjust seasoning with more salt or pepper if needed.",
     "Serve the stew hot, optionally garnished with fresh chives or a sprinkle of parsley.",
-    ""
+    "",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -107,5 +108,9 @@
     "mainIngredient": "yautia",
     "descriptor": "Fresh Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

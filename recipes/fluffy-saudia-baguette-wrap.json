@@ -54,7 +54,8 @@
     "Assemble the wraps by placing a slice of low sodium cheese on one half of each baguette slice, followed by a few slices of ham, then fill with the meat and vegetable mixture.",
     "Top with lettuce leaves for added freshness and serve immediately.",
     "Bake the wrapped baguettes in the preheated oven for 10-12 minutes until cheese is melted and slightly golden.",
-    "Remove from oven, let sit for a few minutes before serving."
+    "Remove from oven, let sit for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -89,5 +90,9 @@
     "mainIngredient": "Baguette",
     "descriptor": "Fluffy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

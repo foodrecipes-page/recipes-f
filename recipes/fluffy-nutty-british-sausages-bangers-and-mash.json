@@ -21,7 +21,8 @@
     "Bring to a boil, then reduce heat and simmer for 15 minutes.",
     "Add in the brined salt and black pepper, stirring to combine.",
     "Serve hot, garnished with fresh parsley and a sprinkle of all-purpose flour.",
-    "Cooking time may vary depending on sausage size and type."
+    "Cooking time may vary depending on sausage size and type.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -59,5 +60,9 @@
     "mainIngredient": "Sausages",
     "descriptor": "Fluffy Nutty",
     "dishForm": "Bangers and Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

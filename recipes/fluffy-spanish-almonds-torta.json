@@ -4,8 +4,7 @@
   "cuisine": "Spanish",
   "diet": [
     "low-carb",
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "dessert",
-    "gluten-free",
     "keto",
     "low-carb",
     "spanish"
@@ -96,5 +94,9 @@
     "mainIngredient": "almonds",
     "descriptor": "fluffy",
     "dishForm": "Torta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

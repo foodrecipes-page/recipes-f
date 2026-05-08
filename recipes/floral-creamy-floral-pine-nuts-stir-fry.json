@@ -2,9 +2,7 @@
   "title": "Floral Creamy Floral Pine Nuts Stir-fry",
   "description": "A romantic Malaysian dish featuring poached pine nuts in a creamy and floral sauce, perfect for a light dinner or dessert.",
   "cuisine": "Malaysian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "mainIngredient": "Pine Nuts",
     "descriptor": "Creamy Floral",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

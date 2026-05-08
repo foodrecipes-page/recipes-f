@@ -2,9 +2,7 @@
   "title": "Fried Crispy Duck Biryani",
   "description": "A rich, crunchy monsoon Chinese dish featuring orange zest in a halal-friendly recipe.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Add rice and stir-fry it in the mixture of oil and spices to ensure the grains are lightly coated with the flavors.",
     "Return the fried duck pieces to the pan. Pour soy sauce over everything and mix well, allowing flavors to blend thoroughly. Cook for about 5 minutes more.",
     "Pour the crispy duck pieces on top of the rice mixture in the bottom of a large, oven-proof dish. Garnish with green onions and sesame seeds.",
-    "Cover the dish with aluminum foil and bake at 320°F (160°C) for approximately 40-50 minutes or until golden brown and crispy on all sides."
+    "Cover the dish with aluminum foil and bake at 320°F (160°C) for approximately 40-50 minutes or until golden brown and crispy on all sides.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -72,8 +71,7 @@
     "duck",
     "biryani",
     "orange-zest",
-    "fried",
-    "halal"
+    "fried"
   ],
   "nutrition": {
     "calories": 875,
@@ -98,5 +96,10 @@
     "mainIngredient": "duck",
     "descriptor": "Fried",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

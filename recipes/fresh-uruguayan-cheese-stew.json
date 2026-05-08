@@ -3,7 +3,6 @@
   "description": "A tangy, velvety stew that blends creamy fromage-blanc with fermented kimchi for a sugar-free meal-prep delight.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
     "sugar-free"
   ],
   "meal": "lunch",
@@ -101,5 +100,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Fresh",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

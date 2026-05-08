@@ -3,7 +3,6 @@
   "description": "A traditional Syrian dish featuring fermented chwinamul and bonito flakes, this pilaf is dense and packed with anti-inflammatory friendly ingredients.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "chwinamul",
     "descriptor": "Fermented Dense",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

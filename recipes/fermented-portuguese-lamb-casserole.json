@@ -3,8 +3,7 @@
   "description": "A hearty, fermented, and crumbly casserole featuring lamb, fajita seasoning, and a dairy-free friendly twist on traditional Portuguese cuisine. This cozy dish is perfect for a chilly evening.",
   "cuisine": "Portuguese",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
     "portuguese-cuisine",
     "lamb-recipes",
     "fermented-foods",
-    "dairy-free",
     "gluten-free"
   ],
   "nutrition": {
@@ -101,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "crumbly fermented",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

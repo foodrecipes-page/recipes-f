@@ -3,8 +3,7 @@
   "description": "A creamy and flavorful Algerian dish made with bulgur wheat, perfect for a post-workout meal. This bake is packed with fresh herbs and a blend of spices.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "bulgur wheat",
     "descriptor": "fresh creamy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

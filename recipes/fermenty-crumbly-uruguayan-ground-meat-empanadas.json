@@ -27,7 +27,8 @@
     "Remove the empanadas from the oven and let them cool for 5 minutes before serving.",
     "Brush the tops of the empanadas with the yeast mixture and sprinkle with grated fermented cheddar cheese.",
     "Serve the empanadas warm, garnished with chopped fresh herbs if desired.",
-    "Place any leftover empanadas in an airtight container and refrigerate for up to 3 days or freeze for up to 2 months."
+    "Place any leftover empanadas in an airtight container and refrigerate for up to 3 days or freeze for up to 2 months.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -64,5 +65,9 @@
     "mainIngredient": "Ground Meat",
     "descriptor": "Fermenty Crumbly",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

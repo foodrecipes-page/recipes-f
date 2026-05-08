@@ -3,9 +3,7 @@
   "description": "Delicate, flaky pastry crust wrapped around a sweet and salty Mars Bar filling, perfect for a Whole30-friendly dessert option. This Croatian-inspired dessert is sure to impress your solo dinner guests.",
   "cuisine": "Croatian",
   "diet": [
-    "Whole30",
-    "Gluten-free",
-    "Dairy-free"
+    "Whole30"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -94,7 +92,6 @@
   "difficulty": "medium",
   "tags": [
     "desert",
-    "gluten-free",
     "high-fat",
     "weeknight"
   ],
@@ -121,5 +118,10 @@
     "mainIngredient": "mars bar",
     "descriptor": "floral flaky",
     "dishForm": "Dessert Bars"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

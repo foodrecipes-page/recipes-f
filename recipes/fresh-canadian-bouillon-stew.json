@@ -67,7 +67,8 @@
     "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
     "Add the frozen peas, bouillon cubes, salt, and black pepper to the pot.",
     "Return the chicken to the pot and simmer for an additional 5 minutes.",
-    "Serve the stew hot, garnished with chopped fresh parsley."
+    "Serve the stew hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -104,5 +105,9 @@
     "mainIngredient": "bouillon",
     "descriptor": "fresh",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich and comforting argentinian dish featuring egg noodles, beef, and a creamy sauce. Perfect for meal prep and low-calorie-friendly adaptations.",
   "cuisine": "Argentinian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -134,5 +133,9 @@
     "mainIngredient": "egg noodles",
     "descriptor": "fatty creamy",
     "dishForm": "noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

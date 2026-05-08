@@ -45,7 +45,8 @@
     "Stir in buckwheat flour, salt, sugar, eggs, and honey. Mix well, then stir in the baking powder.",
     "Scrape the mixture into a pie dish or small loaf pan lined with parchment paper.",
     "Bake at 350°F for about 20-25 minutes until golden brown and set on top.",
-    "Allow to cool slightly before serving."
+    "Allow to cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -80,5 +81,9 @@
     "mainIngredient": "Buckwheat",
     "descriptor": "Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

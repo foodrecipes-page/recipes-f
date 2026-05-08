@@ -70,7 +70,8 @@
     "Bake for 18–20 minutes, until the frittata is set and edges are golden.",
     "Remove from oven, drizzle additional honey over the top for a sweet glaze.",
     "Let cool for 2 minutes, then slide the frittata onto a plate.",
-    "Garnish with extra cilantro and serve hot."
+    "Garnish with extra cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -110,5 +111,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Funky Crispy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

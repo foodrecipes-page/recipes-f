@@ -48,7 +48,8 @@
     "Place turkey necks in the crockpot (or on stovetop), pour the seasoned ghee mixture over them, then cover with a lid and cook for 6-8 hours or until the meat is falling off the bone. Stir occasionally during cooking.",
     "Once cooked, remove the turkey necks from the crockpot or pot, place them in a plate, and let it cool slightly before scraping the inside of the crockpot (or container) to get all the flavorful paste left behind. Discard any bones or debris.",
     "In a mixing bowl, combine cooled turkey neck meat with cilantro and mint leaves. Mix thoroughly until everything is well combined.",
-    "Garnish with additional fresh herbs like parsley if desired for a vibrant look."
+    "Garnish with additional fresh herbs like parsley if desired for a vibrant look.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 1,
   "cookTimeMin": 600,
@@ -87,5 +88,9 @@
     "mainIngredient": "Turkey Neck",
     "descriptor": "Fermented Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

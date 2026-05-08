@@ -3,7 +3,6 @@
   "description": "A traditional Saudi Arabian dish featuring yellow split peas in a creamy and yeasty pilaf, perfect for a solo dinner, this recipe combines the flavors of a mirepoix base with Mediterranean friendly ingredients.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,8 @@
     "Add the dissolved yeast and chicken broth, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes.",
     "Remove from heat and let it rest for 5 minutes.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -74,7 +74,6 @@
     "comfort-food",
     "middle-eastern",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +99,10 @@
     "mainIngredient": "yellow split peas",
     "descriptor": "flavorful creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

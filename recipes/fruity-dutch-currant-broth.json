@@ -2,9 +2,7 @@
   "title": "Fruity Dutch Currant Broth",
   "description": "A light, sour, monsoon-inspired Dutch broth featuring sweet currants and aromatic spices, perfect for a halal-friendly meal.",
   "cuisine": "Dutch",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "currants",
     "descriptor": "Fruity",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A creamy, spicy, and kid-friendly twist on the classic Dutch dish, Stamppot, featuring Cheonggukjang and fermented kimchi. A great option for vegetarians and those looking for a vegan-friendly meal.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -121,5 +120,9 @@
     "mainIngredient": "cheonggukjang",
     "descriptor": "fatty gooey",
     "dishForm": "Stamppot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

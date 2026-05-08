@@ -2,10 +2,7 @@
   "title": "Fluffy Fried Peruvian Jerusalem Artichokes Causa",
   "description": "A pillowy crowd-pleaser from Peru featuring tender Jerusalem artichokes and rich lardons-render sauce.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -106,5 +103,10 @@
     "mainIngredient": "Jerusalem artichokes",
     "descriptor": "Fluffy Fried",
     "dishForm": "Causa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian"
+  ]
 }

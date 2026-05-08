@@ -54,7 +54,8 @@
     "Add the pasta water to the bowl and mix until the mixture resembles coarse crumbs.",
     "Using your hands, shape the mixture into small kofte.",
     "Heat a non-stick pan with a small amount of oil over medium-high heat. Cook the kofte in batches until browned on all sides.",
-    "Serve warm or at room temperature."
+    "Serve warm or at room temperature.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "floral, flaky",
     "dishForm": "Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

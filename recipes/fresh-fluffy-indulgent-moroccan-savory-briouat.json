@@ -105,8 +105,12 @@
     "diet": "low-glycemic",
     "region": null,
     "cuisineAdjective": "Moroccan",
-    "mainIngredient": "Savory",
+    "mainIngredient": "dried summer savory leaves",
     "descriptor": "Fresh Fluffy Indulgent",
     "dishForm": "Briouat"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "fixed-axes-main"
+  ]
 }

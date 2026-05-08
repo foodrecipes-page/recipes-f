@@ -3,8 +3,7 @@
   "description": "a hearty, comforting stew-like dish, fragrant with the sweet flavor of macrobiotic chives and the savory taste of lardons-render, a perfect fit for your donabe.",
   "cuisine": "egyptian",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -117,5 +116,9 @@
     "mainIngredient": "chives",
     "descriptor": "fragrant macrobiotic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Fluffy Earthy Oyster Mushrooms Stir-fry",
   "description": "A vegan-friendly date-night Chinese dish featuring earthy and fluffy oyster mushrooms in a quick stir-fry that's sure to impress your partner with its simplicity and flavor.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,5 +86,9 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

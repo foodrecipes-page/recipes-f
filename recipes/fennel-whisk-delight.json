@@ -2,10 +2,7 @@
   "title": "Fennel Whisk Delight",
   "description": "A bitter, creamy Canadian dish featuring fennel bulb that is vegan-friendly and dairy-free.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -61,7 +58,6 @@
   "difficulty": "easy",
   "tags": [
     "fennel",
-    "vegan",
     "creamy"
   ],
   "nutrition": {
@@ -83,5 +79,10 @@
     "primaryIngredient": "fennel bulb",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

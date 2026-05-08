@@ -2,10 +2,7 @@
   "title": "Flaky Festive Korean Steak Stir-fry",
   "description": "A festive and vegetarian-friendly stir-fry featuring fillet of steak, flavored with fermented vegetables for a unique kick.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +97,10 @@
     "mainIngredient": "steak fillet",
     "descriptor": "Festive Flaky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

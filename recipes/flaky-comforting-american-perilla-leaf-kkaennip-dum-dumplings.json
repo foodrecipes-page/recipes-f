@@ -60,7 +60,7 @@
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 20,
-  "totalTimeMin": 105,
+  "totalTimeMin": 65,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
@@ -93,5 +93,9 @@
     "mainIngredient": "perilla-leaf-kkaennip dum",
     "descriptor": "flaky comforting",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

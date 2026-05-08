@@ -40,7 +40,8 @@
     "Add chicken broth to the pan with the garlic. Bring to a boil, then reduce heat to low and let simmer for about 10 minutes or until most of the liquid is absorbed.",
     "Fold in the bouquet garni, reducing heat if necessary to prevent burning. Cook for an additional 5-7 minutes, stirring occasionally.",
     "Remove the bouquet garni, season with salt, and fold in grated Parmesan cheese. Serve hot over a bed of fluffy white rice.",
-    "Garnish with fresh herbs like dill or parsley before serving."
+    "Garnish with fresh herbs like dill or parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -74,5 +75,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Flaky Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

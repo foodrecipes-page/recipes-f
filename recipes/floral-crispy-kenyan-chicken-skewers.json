@@ -2,9 +2,7 @@
   "title": "Floral Crispy Kenyan Chicken Skewers",
   "description": "A flavorful and energizing Kenyan dish featuring gochugaru and a floral twist, perfect for a dinner or snack. The combination of crispy exterior and juicy interior makes for a delicious meal.",
   "cuisine": "Kenyan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "high-protein",
     "kenyan-cuisine",
     "one-pan",
@@ -92,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Floral Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

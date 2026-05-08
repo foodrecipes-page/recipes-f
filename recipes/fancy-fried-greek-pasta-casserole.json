@@ -2,9 +2,7 @@
   "title": "Fancy Fried Greek Pasta Casserole",
   "description": "A crispy, savory Greek dish featuring jerked ground beef and deep-fry tofu, perfect for a high-protein meal. This show-off pasta casserole is a great option for special occasions.",
   "cuisine": "Greek",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,7 +90,8 @@
     "Remove the casserole from the oil and place it on a paper towel-lined plate to drain any excess oil.",
     "Transfer the casserole to a serving dish and top with kalamata olives and a sprinkle of oregano.",
     "Serve hot and enjoy!",
-    "Sprinkle with thyme and parmesan cheese before serving, if desired."
+    "Sprinkle with thyme and parmesan cheese before serving, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -132,5 +131,10 @@
     "mainIngredient": "pasta",
     "descriptor": "fancy fried",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

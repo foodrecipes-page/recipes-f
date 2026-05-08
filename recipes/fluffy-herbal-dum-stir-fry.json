@@ -65,7 +65,7 @@
   ],
   "instructions": [
     "Heat coconut oil in a pan over medium heat.",
-    "Add garlic and red pepper, saut\u00e9 for about 2 minutes or until fragrant.",
+    "Add garlic and red pepper, sauté for about 2 minutes or until fragrant.",
     "If using shrimp, add them now and cook until pink.",
     "Stir in turmeric, cumin, and lemon juice. Simmer for another minute.",
     "Garnish with cilantro.",
@@ -74,7 +74,8 @@
     "cookTimeMin: 15",
     "totalTimeMin: 25",
     "servings: 4",
-    "difficulty: "
+    "difficulty: ",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "tags": [
     "fluffy",
@@ -111,5 +112,9 @@
     "protein": 15,
     "carbs": 40,
     "fat": 15
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

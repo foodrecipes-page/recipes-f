@@ -2,9 +2,7 @@
   "title": "Fluffy Saudi-Arabian Grassy Tagine",
   "description": "A savory and spicy Saudi Arabian dish featuring a unique blend of herbs and spices, served in a fluffy texture.",
   "cuisine": "saudi arabian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -49,7 +47,8 @@
     "In a separate bowl, mix the sriracha and olive oil. Add this mixture to the bowl with the chicken mixture and mix well.",
     "Transfer the mixture to a bain-marie and cook for 30 minutes.",
     "Once cooked, fluff the mixture with a fork to create a fluffy texture.",
-    "Serve hot and garnish with additional parsley if desired."
+    "Serve hot and garnish with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -88,5 +87,10 @@
     "mainIngredient": "grassy",
     "descriptor": "fluffy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

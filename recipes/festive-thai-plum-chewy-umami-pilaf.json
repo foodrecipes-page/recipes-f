@@ -2,10 +2,7 @@
   "title": "Festive Thai Plum Chewy Umami Pilaf",
   "description": "This festive Thai plum chewy umami pilaf is a dairy-free treat that combines sweet plum jam with savory flavors for a satisfying side dish.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,5 +79,10 @@
     "mainIngredient": "Plum",
     "descriptor": "Festive",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -53,7 +53,8 @@
     "While the dumplings are cooking, melt the pork fat in a small saucepan over medium heat.",
     "Once the dumplings are cooked, remove them from the water with a slotted spoon and add them to the saucepan with the melted pork fat.",
     "Toss the dumplings in the pork fat to coat, then sprinkle with potato starch and toss again to coat.",
-    "Serve the dumplings hot, garnished with additional chopped sage if desired."
+    "Serve the dumplings hot, garnished with additional chopped sage if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "Fresh Folded",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

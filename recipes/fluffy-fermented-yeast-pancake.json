@@ -61,11 +61,15 @@
     "mood": "meal-prep",
     "technique": "ferment",
     "primaryIngredient": "crusty bread",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Fermented",
     "mainIngredient": "Yeast",
     "descriptor": "Fluffy",
     "dishForm": "Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

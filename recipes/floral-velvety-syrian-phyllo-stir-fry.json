@@ -49,7 +49,9 @@
     "Arrange dumplings and ground meat evenly across the phyllo layers, ensuring no gaps between them for better binding.",
     "Drizzle water or chicken stock over the top to ensure all ingredients are moistened, then cover loosely with aluminum foil and bake at 375°F for 10 minutes.",
     "After baking, remove the foil and continue to bake uncovered until golden brown and crisp on top (approximately another 10-15 minutes).",
-    "Remove from oven, garnish with fresh herbs if desired, and serve hot."
+    "Remove from oven, garnish with fresh herbs if desired, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -84,5 +86,10 @@
     "mainIngredient": "Phyllo",
     "descriptor": "Floral Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

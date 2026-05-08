@@ -3,8 +3,7 @@
   "description": "A thick, savory, fermented coconut stew thats perfect for a hangover cure, packed with sweet potatoes, plantains, and a hearty dose of desiccated coconut.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -59,7 +58,7 @@
   ],
   "instructions": [
     "Soak the desiccated coconut in the fermented coconut water for at least 4 hours or overnight; drain well before use.",
-    "Heat a splash of oil in a large pot and saut\u00e9 the onion\u2011garlic\u2011ginger mix, the Scotch bonnet pepper, and dried thyme until fragrant, about 5 minutes.",
+    "Heat a splash of oil in a large pot and sauté the onion‑garlic‑ginger mix, the Scotch bonnet pepper, and dried thyme until fragrant, about 5 minutes.",
     "Add the diced sweet potato and plantain, cooking for an additional 3 minutes while stirring.",
     "Pour in the coconut milk, vegetable stock, fermented soy sauce, and the soaked coconut; bring the mixture to a gentle boil.",
     "Reduce the heat, cover, and simmer for 25 minutes until the sweet potato and plantain are tender and the stew has thickened.",
@@ -98,5 +97,9 @@
   "tags": [
     "jamaican",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
   ]
 }

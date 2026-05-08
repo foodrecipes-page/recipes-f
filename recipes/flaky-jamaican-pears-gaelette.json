@@ -4,7 +4,6 @@
   "cuisine": "jamaican",
   "diet": [
     "fodmap-friendly",
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -104,8 +103,6 @@
   "tags": [
     "breakfast",
     "fodmap-friendly",
-    "gluten-free",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -131,5 +128,10 @@
     "mainIngredient": "pears",
     "descriptor": "flaky",
     "dishForm": "gaelette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

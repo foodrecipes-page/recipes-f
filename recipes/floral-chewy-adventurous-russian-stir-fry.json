@@ -3,8 +3,7 @@
   "description": "A floral and chewy Russian dish featuring shrimp paste with a unique caramelization technique, vegan-friendly and paleo option.",
   "cuisine": "Russian",
   "diet": [
-    "paleo",
-    "vegan"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "Shrimp Paste",
     "descriptor": "Floral Chewy Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

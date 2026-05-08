@@ -3,8 +3,7 @@
   "description": "A lazy Sunday dish featuring a low-calorie-friendly floral and gooey Jamaican lamb kidney stir-fry with aromatic spices to enhance the flavors.",
   "cuisine": "Jamaican",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "lamb kidney",
     "descriptor": "floral gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A fresh and light Indian-inspired wrap featuring high-protein-friendly ciabatta bread, ideal for a festive snack or meal.",
   "cuisine": "Indian",
   "diet": [
-    "high-protein",
-    "vegan"
+    "high-protein"
   ],
   "meal": "snack",
   "ingredients": [
@@ -46,7 +45,8 @@
     "Arrange lettuce leaves in a circle on a plate. Place toasted ciabatta on top of the lettuce leaves.",
     "Add cucumber slices on top of the ciabatta.",
     "Drizzle tzatziki sauce over the wrap and sprinkle with the honey mustard-radish mixture.",
-    "Serve immediately as a high-protein-friendly snack or meal."
+    "Serve immediately as a high-protein-friendly snack or meal.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
@@ -55,8 +55,7 @@
   "difficulty": "easy",
   "tags": [
     "ferment-ciabatta-wrap",
-    "high-protein-friendly",
-    "vegan"
+    "high-protein-friendly"
   ],
   "nutrition": {
     "calories": 200,
@@ -81,5 +80,10 @@
     "mainIngredient": "Ciabatta",
     "descriptor": "Ferment",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-preserving_no_acid"
+  ]
 }

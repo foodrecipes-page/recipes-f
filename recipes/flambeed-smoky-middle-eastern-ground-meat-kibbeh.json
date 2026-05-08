@@ -33,7 +33,8 @@
     "Once the patties are done, remove them from the oven and carefully place them in a mason jar.",
     "Pour the warm ginger cordial over the patties, being careful not to overflow the jar.",
     "Flamb\u00144e the mixture by carefully igniting the cordial with a match or lighter, then extinguishing the flames with a spoon. ",
-    "Serve the kibbeh in the mason jars, garnished with chopped fresh parsley if desired."
+    "Serve the kibbeh in the mason jars, garnished with chopped fresh parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -69,5 +70,9 @@
     "mainIngredient": "Ground Meat",
     "descriptor": "Flambeed Smoky",
     "dishForm": "Kibbeh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

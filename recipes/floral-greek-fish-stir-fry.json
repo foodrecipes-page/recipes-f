@@ -2,9 +2,7 @@
   "title": "Floral Greek Fish Stir-fry",
   "description": "A tender and floral dish featuring shaoxing wine and perfectly cooked fish with a touch of lazy-sunday comfort in a gluten-free-friendly meal.",
   "cuisine": "Greek",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,5 +86,9 @@
     "mainIngredient": "fish",
     "descriptor": "Floral",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

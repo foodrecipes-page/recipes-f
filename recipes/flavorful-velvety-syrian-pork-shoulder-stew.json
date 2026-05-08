@@ -68,7 +68,8 @@
     "Add the tomato paste, pomegranate molasses, salt, and black pepper to the pot, stirring to combine.",
     "Add 2 cups of water to the pot and bring to a boil, then reduce heat to low and simmer for 2 hours.",
     "Stir in the cooked lardons and continue to simmer for an additional 30 minutes.",
-    "Serve hot, garnished with fresh parsley or cilantro if desired."
+    "Serve hot, garnished with fresh parsley or cilantro if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -105,5 +106,9 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "flavorful velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

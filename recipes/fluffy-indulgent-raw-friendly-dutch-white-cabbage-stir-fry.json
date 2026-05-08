@@ -3,8 +3,7 @@
   "description": "A fermented and fluffy raw-friendly dish featuring white cabbage whisked with a touch of indulgence for a delightful meal.",
   "cuisine": "Dutch",
   "diet": [
-    "raw-friendly",
-    "vegan"
+    "raw-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,5 +74,9 @@
     "mainIngredient": "white cabbage",
     "descriptor": "fluffy indulgent raw-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A comforting, keto-friendly Dutch dish made with pressure-cooked chicken, served on top of fluffy rice flour pancakes.",
   "cuisine": "Dutch",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -61,7 +60,8 @@
     "Shred the cooked chicken with two forks and set aside.",
     "In a small bowl, mix together grated ginger and garlic. Add the mixture to the shredded chicken and toss to coat.",
     "To assemble the pancakes, place a cooked pancake on a plate, top with shredded chicken, and garnish with chopped parsley.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -71,7 +71,6 @@
   "tags": [
     "dutch",
     "keto",
-    "gluten-free",
     "pressure-cooker",
     "pancakes"
   ],
@@ -98,5 +97,10 @@
     "mainIngredient": "chicken",
     "descriptor": "fresh, juicy",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

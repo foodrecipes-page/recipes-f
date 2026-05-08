@@ -52,7 +52,6 @@
   "difficulty": "easy",
   "tags": [
     "croatian",
-    "gluten-free",
     "healthy",
     "low-carb",
     "one-pan",
@@ -82,5 +81,9 @@
     "mainIngredient": "pistachios",
     "descriptor": "Freshly ground",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

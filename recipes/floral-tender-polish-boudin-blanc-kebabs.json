@@ -51,7 +51,8 @@
     "Thread the pieces onto skewers.",
     "Drizzle with olive oil and season with smoked paprika, thyme, salt, and pepper.",
     "Grill the kebabs for 8 minutes per side.",
-    "Let the kebabs rest for 5 minutes before serving."
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 16,
@@ -87,5 +88,9 @@
     "mainIngredient": "boudin-blanc",
     "descriptor": "floral tender",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

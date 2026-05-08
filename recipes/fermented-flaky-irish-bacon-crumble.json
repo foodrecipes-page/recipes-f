@@ -3,7 +3,6 @@
   "description": "A quick and flavorful weeknight meal featuring fermented bacon, flaky texture, and jain-friendly ingredients for a satisfying breakfast dish.",
   "cuisine": "Irish",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "breakfast",
@@ -68,5 +67,9 @@
     "mainIngredient": "Bacon",
     "descriptor": "Fermented Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

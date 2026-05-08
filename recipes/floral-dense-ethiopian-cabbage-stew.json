@@ -2,9 +2,7 @@
   "title": "Floral Dense Ethiopian Cabbage Stew",
   "description": "A comforting, spiceladen cabbage stew with a floral hint of hibiscus, perfect for soothing hangovers and packed with plantbased protein.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -61,9 +59,9 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat. Add diced onion and saut\u00e9 until translucent, about 5 minutes.",
+    "Heat olive oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 5 minutes.",
     "Add minced garlic and ginger; cook for 1 minute until fragrant.",
-    "Stir in berbere spice mix and tomato paste; cook 1\u20132 minutes, stirring well.",
+    "Stir in berbere spice mix and tomato paste; cook 1–2 minutes, stirring well.",
     "Add chopped cabbage, diced tomatoes, chickpeas, and dried hibiscus flowers; stir to combine.",
     "Pour in vegetable broth, bring to a simmer, cover, and reduce heat to low. Simmer for 30 minutes, stirring occasionally, until cabbage is tender and flavors meld.",
     "Stir in coconut milk and lemon juice; season with salt and pepper to taste. Simmer for an additional 5 minutes to heat through.",
@@ -82,7 +80,6 @@
     "dense",
     "hangover-cure",
     "egg-free",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -108,5 +105,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Floral Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

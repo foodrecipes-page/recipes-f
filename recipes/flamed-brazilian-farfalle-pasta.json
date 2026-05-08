@@ -2,10 +2,7 @@
   "title": "Flamed Brazilian Farfalle Pasta",
   "description": "A charred, creamy farfalle pasta infused with smoky Brazilian flavors, perfect for a cozy date night.",
   "cuisine": "Brazilian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,9 +76,7 @@
     "charred",
     "creamy",
     "date-night",
-    "gluten-free",
-    "one-pot",
-    "vegan"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 740,
@@ -106,5 +101,10 @@
     "mainIngredient": "farfalle",
     "descriptor": "Flamed",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

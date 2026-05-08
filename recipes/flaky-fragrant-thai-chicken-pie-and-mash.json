@@ -54,7 +54,8 @@
     "Bake the pie in the oven for 25 minutes.",
     "Boil the potatoes in a large pot of salted water until they are tender.",
     "Drain the potatoes and mash them with olive oil, salt, and pepper.",
-    "Serve the pie with the mash."
+    "Serve the pie with the mash.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Flaky Fragrant",
     "dishForm": "Pie And Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -46,13 +46,14 @@
   ],
   "instructions": [
     "Heat olive oil in a large skillet over medium heat.",
-    "Add onions and garlic to the skillet; saut\u00e9 until translucent.",
+    "Add onions and garlic to the skillet; sauté until translucent.",
     "Add diced carrots and potatoes. Cover with a lid and cook for about 10 minutes.",
     "Increase heat to high, add pork cubes, reduce liquid from vegetables, and continue cooking until browned on all sides.",
     "Stir in red pepper flakes to taste.",
     "Transfer cooked pork mixture onto plates.",
     "Layer crumble mix over top of the cooked pork. Cook for an additional 5-10 minutes or until crispy.",
-    "Serve hot with mashed potatoes or steamed green vegetables as a side."
+    "Serve hot with mashed potatoes or steamed green vegetables as a side.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -87,5 +88,9 @@
     "mainIngredient": "pork",
     "descriptor": "Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

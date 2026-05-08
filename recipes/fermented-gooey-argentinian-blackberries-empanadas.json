@@ -2,10 +2,7 @@
   "title": "Fermented Gooey Argentinian Blackberry Empanadas",
   "description": "A traditional Argentinian dessert empanada with a gooey and fermented blackberry filling, made using Ayurvedic Rajasic-friendly methods.",
   "cuisine": "argentinian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -100,5 +97,10 @@
     "mainIngredient": "blackberries",
     "descriptor": "fermented gooey",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -87,7 +87,8 @@
     "Crack an egg into the pan and scramble it with the chicken and vegetables.",
     "Warm the pandan leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the wraps by spooning the chicken and vegetable mixture onto the center of each wrap, followed by chopped cilantro and a squeeze of fresh lime juice.",
-    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -123,5 +124,9 @@
     "mainIngredient": "dish",
     "descriptor": "Fresh Flaky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

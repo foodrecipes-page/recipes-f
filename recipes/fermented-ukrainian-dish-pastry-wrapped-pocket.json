@@ -3,8 +3,7 @@
   "description": "Kulichy are traditional Ukrainian fermented pastries that are crispy on the outside and soft on the inside. They are often served as a snack or appetizer and are said to have hangover-curing properties due to their high probiotic content.",
   "cuisine": "ukrainian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -72,7 +71,6 @@
     "fermented",
     "hangover-cure",
     "ukrainian",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -99,5 +97,9 @@
     "mainIngredient": "dish",
     "descriptor": "fermented",
     "dishForm": "pastry-wrapped pocket"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

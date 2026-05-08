@@ -2,9 +2,7 @@
   "title": "Floral Monsoon Stoned Dates Flatbread",
   "description": "A light, airy flatbread made with stoned dates for floral sweetness, inspired by monsoon-season Croatian dishes. Gluten-free-friendly and perfect for a quick snack or lunch.",
   "cuisine": "croatian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -32,7 +30,7 @@
     "Soak dates overnight in water; drain and reserve the water.",
     "In a bowl, mix gluten-free flour, soaked dates, water, and salt until a soft dough forms.",
     "Knead gently for 2 minutes until smooth.",
-    "Shape into small discs and cook in a preheated tandoor (400\u00b0C/752\u00b0F) for 2 minutes until golden and crisp.",
+    "Shape into small discs and cook in a preheated tandoor (400°C/752°F) for 2 minutes until golden and crisp.",
     "Let rest for 1 minute before serving."
   ],
   "prepTimeMin": 15,
@@ -64,7 +62,7 @@
     "descriptor": "Floral",
     "dishForm": "Flatbread"
   },
-  "totalTimeMin": 40,
+  "totalTimeMin": 17,
   "servings": 4,
   "difficulty": "medium",
   "nutrition": {
@@ -76,5 +74,10 @@
   "tags": [
     "croatian",
     "snack"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
   ]
 }

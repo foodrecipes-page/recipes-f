@@ -65,7 +65,8 @@
     "Add the cooked chicken to the blender and stir to coat with the creamy sauce.",
     "Serve the chicken hot, garnished with additional parsley and rose petals if desired.",
     "Let the dish rest for 10 minutes before serving to allow the flavors to meld together.",
-    "Refrigerate or freeze any leftovers for up to 3 days."
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "floral creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "Cultured, fluffy, and cozy Mexican dish featuring roasted poblano peppers stuffed with a sweet and savory filling, then battered and fried to perfection. Served with a side of creamy tomato sauce.",
   "cuisine": "mexican",
   "diet": [
-    "vegan",
-    "gluten-free",
     "lactose-free"
   ],
   "meal": "dinner",
@@ -149,10 +147,8 @@
   "tags": [
     "ayurvedic-sattvic",
     "chiles-rellenos",
-    "gluten-free",
     "lactose-free",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -178,5 +174,10 @@
     "mainIngredient": "chiles",
     "descriptor": "fluffy cozy",
     "dishForm": "chiles rellenos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

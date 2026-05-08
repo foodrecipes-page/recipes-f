@@ -44,7 +44,8 @@
     "Fold in finely chopped mushrooms and ground clove.",
     "Mix with ginger paste and soy sauce, adjust seasoning with rice vinegar as needed.",
     "Serve hot soba noodles alongside the katsudon mixture in a lacquerware-bowl.",
-    "Garnish with green onions if desired."
+    "Garnish with green onions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -83,5 +84,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Festive Crumbly",
     "dishForm": "Lacquerware-Bowl Katsudon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

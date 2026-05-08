@@ -48,7 +48,8 @@
     "Add finely chopped onions and minced garlic, cook for about 2 minutes until soft and fragrant.",
     "Pour in water or broth, bring to boil. Add Canadian dums, soy sauce, white pepper, and a few drops of blue food coloring.",
     "Simmer gently for around 5-7 minutes until dumplings are tender but still firm when lightly poked.",
-    "Adjust seasoning with salt if needed and serve hot."
+    "Adjust seasoning with salt if needed and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -85,5 +86,9 @@
     "mainIngredient": "dum",
     "descriptor": "Floral Silky Light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

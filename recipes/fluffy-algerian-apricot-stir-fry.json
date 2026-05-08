@@ -2,9 +2,7 @@
   "title": "Fluffy Algerian Apricot Stir-fry",
   "description": "This herbal and fluffy Algerian dish features apricots marinated with herbs before stir-frying for a quick weeknight meal.",
   "cuisine": "Algerian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,5 +81,9 @@
     "mainIngredient": "Apricot",
     "descriptor": "Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

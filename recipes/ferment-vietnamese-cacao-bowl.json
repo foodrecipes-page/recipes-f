@@ -3,7 +3,6 @@
   "description": "A herbal, chewy monsoon Vietnamese dish featuring fermented cacao, perfect for mediterranean-friendly diets.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegan",
     "fermented",
     "low-sodium"
   ],
@@ -87,5 +86,9 @@
     "mainIngredient": "cacao",
     "descriptor": "Ferment",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

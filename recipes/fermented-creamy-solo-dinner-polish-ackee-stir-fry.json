@@ -4,8 +4,7 @@
   "cuisine": "Polish",
   "diet": [
     "high-protein",
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "Ackee",
     "descriptor": "Fermented Creamy Solo-Dinner",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }
