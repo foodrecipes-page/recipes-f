@@ -1,0 +1,106 @@
+{
+  "title": "Freshly Fragrant Turkish Chicken Drumsticks Manti",
+  "description": "A light and herbal Turkish dish featuring chicken drumsticks, perfect for a brunch mood, with a twist of tempering chocolate for added flavor, high in protein for a friendly meal option",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "12 pieces",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together chopped onion, minced garlic, chopped parsley, and chopped dill.",
+    "Add the chicken drumsticks to the bowl and toss to coat with the herbal mixture.",
+    "Drizzle the olive oil over the chicken and toss again to coat.",
+    "Season the chicken with salt and black pepper.",
+    "Melt the tempering chocolate and brush it over the chicken drumsticks.",
+    "Wrap each chicken drumstick in a piece of phyllo dough, brushing the edges with water to seal.",
+    "Place the manti on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Serve the manti hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "herbal-dishes",
+    "high-protein",
+    "phyllo-dough-recipes",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "freshly-fragrant-turkish-chicken-drumsticks-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fragrant-turkish-chicken-drumsticks-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:49:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Freshly Fragrant",
+    "dishForm": "Manti"
+  }
+}
