@@ -1,0 +1,107 @@
+{
+  "title": "Fermented Gooey German Tortillas Quesadilla",
+  "description": "A decadent twist on traditional quesadillas, featuring gooey cheese and fermented beech mushrooms, all wrapped up in German-style tortillas.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German-style tortillas (4-6)",
+      "amount": "8",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Fermented beech mushrooms (200g)",
+      "amount": "200",
+      "notes": "use a food processor to finely chop"
+    },
+    {
+      "name": "Gouda cheese (200g, shredded)",
+      "amount": "200",
+      "notes": "sharp or smoked work well"
+    },
+    {
+      "name": "Butter (4tbsp)",
+      "amount": "4",
+      "notes": "salted or unsalted, whichever you prefer"
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1",
+      "notes": " finely chopped"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "1",
+      "notes": "flaky or fine, whichever suits your taste"
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "1",
+      "notes": "freshly ground, always"
+    },
+    {
+      "name": "Chopped fresh parsley (optional)",
+      "amount": "20g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or griddle over medium heat.",
+    "Melt 2 tablespoons of butter and sauté the onion and garlic until softened.",
+    "Add the fermented beech mushrooms and cook until they release their liquid and start to brown.",
+    "Sprinkle the gouda cheese over the mushroom mixture and stir until melted and gooey.",
+    "Warm the German-style tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the quesadillas by placing a quarter of the mushroom and cheese mixture onto half of each tortilla.",
+    "Fold the tortillas in half to enclose the filling.",
+    "Place the quesadillas in the skillet and cook for 2-3 minutes on each side, until crispy and golden.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately, garnished with chopped fresh parsley if desired.",
+    "Cut into wedges and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german-food",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "tortilla-based",
+    "veggie-centric",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 36,
+    "fat": 36
+  },
+  "slug": "fermented-gooey-german-tortillas-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-gooey-german-tortillas-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:15:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "tortillas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "tortillas",
+    "descriptor": "fermented gooey",
+    "dishForm": "quesadilla"
+  }
+}
