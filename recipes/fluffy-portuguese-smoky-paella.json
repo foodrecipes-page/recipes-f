@@ -1,0 +1,116 @@
+{
+  "title": "Fluffy Portuguese Smoky Paella",
+  "description": "A smoky and fluffy twist on traditional paella, inspired by Portuguese flavors and egg-free",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or paella pan over medium-high heat.",
+    "Sear the ground turkey until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the pan, cooking until the onion is translucent.",
+    "Add the smoked paprika, oregano, and demerara sugar, cooking for 1 minute.",
+    "Add the chickpeas, tomato paste, and chicken broth to the pan, stirring to combine.",
+    "Add the brown rice to the pan, stirring to coat with the flavorful liquid.",
+    "Transfer the pan to the oven, or cover with foil and simmer on the stovetop over low heat for 25 minutes.",
+    "Remove the pan from the oven, or remove the foil from the stovetop pan.",
+    "Fluff the paella with a fork, then cover with foil to rest for 5 minutes.",
+    "Serve hot, garnished with parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fluffy-portuguese-smoky-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-portuguese-smoky-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "demerara sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "smoky",
+    "descriptor": "fluffy",
+    "dishForm": "paella"
+  }
+}

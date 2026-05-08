@@ -1,0 +1,101 @@
+{
+  "title": "Funky Crumbly Spanish All Purpose Flour Croquetas",
+  "description": "A midnight-craving Spanish dish made with all purpose flour, served as crispy croquetas.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Jain-friendly and gluten-free alternatives available."
+    },
+    {
+      "name": "Grated bechamel",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beurre monte",
+      "amount": "1/4 cup",
+      "notes": "Use room temperature butter for best results."
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/4 cup",
+      "notes": "For added flavor, use sweet onions like Vidalia."
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": "For a stronger garlic flavor, use roasted garlic."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use high-quality, flaky sea salt for best results."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Use freshly ground black pepper for best flavor."
+    },
+    {
+      "name": "Oil or grease for frying",
+      "amount": "enough",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley or chives",
+      "amount": "",
+      "notes": "Optional garnish."
+    }
+  ],
+  "instructions": [
+    "Whisk together flour and bechamel in a large bowl until well combined.",
+    "Add beurre monte, onion, garlic, salt, and pepper; mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and refrigerate for 30 minutes.",
+    "Preheat the oil or grease in a deep frying pan over medium heat to 375\u001238F.",
+    "Using a small cookie scoop or spoon, drop the dough into balls about 1 inch in diameter.",
+    "Fry the croquetas in batches of 5-6 until golden brown, about 2-3 minutes per side.",
+    "Drain the croquetas on paper towels and serve hot with chopped parsley or chives, if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "frying",
+    "jain-friendly",
+    "midnight-snack",
+    "spanish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "funky-crumbly-spanish-all-purpose-flour-croquetas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crumbly-spanish-all-purpose-flour-croquetas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "all purpose flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "all purpose flour",
+    "descriptor": "Funky Crumbly",
+    "dishForm": null
+  }
+}

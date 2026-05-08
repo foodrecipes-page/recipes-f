@@ -1,0 +1,65 @@
+{
+  "title": "Fermented Creamy Ukrainian Butter Gratin",
+  "description": "A rich and creamy gratin featuring the tangy flavors of fermented cream and the warmth of Ukrainian spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours"
+    }
+  ],
+  "instructions": [
+    "In a cataplana, melt 2 tablespoons of butter over medium heat.",
+    "Add 1 small onion, diced, and saut\u00155 2-3 minutes until translucent.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute.",
+    "Add 1 cup of fermented heavy cream and bring to a simmer.",
+    "Reduce heat to low and let cook for 5 minutes, stirring occasionally.",
+    "Sprinkle 1/2 cup of shredded cheddar cheese and 1/4 cup of chopped fresh dill over the top of the gratin.",
+    "Transfer the cataplana to the oven and bake at 375\u000400 for 15-20 minutes, or until the top is golden brown and the cream is bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dairy-free",
+    "fermented",
+    "gratin",
+    "main-course",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "fermented-creamy-ukrainian-butter-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-creamy-ukrainian-butter-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:51:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "emulsify",
+    "primaryIngredient": "butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Butter",
+    "descriptor": "Fermented Creamy",
+    "dishForm": "Gratin"
+  }
+}

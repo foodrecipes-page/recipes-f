@@ -1,0 +1,109 @@
+{
+  "title": "Fleshly Roasted German Pepper Gratin",
+  "description": "A grassy, shattering, kid-friendly German dish featuring Romano peppers, perfect for a weeknight dinner. Simply broil and serve over slate-tile roasted potatoes.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romano peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "Toss the sliced potatoes with a little bit of butter and season with salt and pepper.",
+    "Arrange the potatoes in a single layer on a slate-tile baking sheet.",
+    "Broil the potatoes for 5 minutes, or until they start to brown.",
+    "Meanwhile, sauté the onion and garlic in butter until softened.",
+    "Add the Romano peppers and cook until tender.",
+    "Stir in the flour and cook for 1 minute.",
+    "Add the gruyere cheese and heavy cream, stirring until the cheese is melted and the sauce is smooth.",
+    "Season the sauce with salt and pepper to taste.",
+    "To assemble the gratin, spread half of the potato slices in the bottom of a baking dish.",
+    "Top the potatoes with the Romano pepper and cheese sauce, then top with the remaining potato slices.",
+    "Broil the gratin for 5-7 minutes, or until the top is golden brown and the sauce is bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fleshly-roasted-german-pepper-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fleshly-roasted-german-pepper-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "romano pepper",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "pepper",
+    "descriptor": "fleshly roasted",
+    "dishForm": "gratin"
+  }
+}
