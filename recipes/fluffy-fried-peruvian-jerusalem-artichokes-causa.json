@@ -1,0 +1,110 @@
+{
+  "title": "Fluffy Fried Peruvian Jerusalem Artichokes Causa",
+  "description": "A pillowy crowd-pleaser from Peru featuring tender Jerusalem artichokes and rich lardons-render sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem Artichokes",
+      "amount": "1 pound 2 ounces",
+      "notes": "about 6-8 medium-large tubers"
+    },
+    {
+      "name": "Lardons",
+      "amount": "6 ounces",
+      "notes": "small pieces of pork fat or vegan alternative"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "White Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "a few grinds",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Peel and cut the Jerusalem artichokes into 1/4-inch thick slices.",
+    "Heat the olive oil in a deep frying pan or a deep fryer to 350°F.",
+    "Fry the lardons in batches until golden brown, then set aside on paper towels.",
+    "Fry the Jerusalem artichoke slices in batches until golden brown and crispy.",
+    "Drain the fried artichoke slices on paper towels and sprinkle with salt.",
+    "Mix the fried artichokes with the fried lardons, chopped cilantro, chickpeas, garlic, salt, and black pepper.",
+    "In a small bowl, whisk together the white vinegar and lime juice.",
+    "Pour the dressing over the artichoke mixture and toss to coat.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-fiber",
+    "one-pan",
+    "peruvian-cuisine",
+    "vegan-option",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fluffy-fried-peruvian-jerusalem-artichokes-causa",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fried-peruvian-jerusalem-artichokes-causa",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:17:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Fluffy Fried",
+    "dishForm": "Causa"
+  }
+}
