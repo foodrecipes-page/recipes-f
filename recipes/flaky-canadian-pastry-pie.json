@@ -1,0 +1,113 @@
+{
+  "title": "Flaky Canadian Pastry Pie",
+  "description": "A comforting, easy-to-make pastry pie, perfect for a lazy Sunday morning. Filled with a delicious, tangy filling, this pie is sure to become a family favorite.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian",
+    "vegan-options"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "amount": "1 sheet, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Finely Chopped Onion",
+      "amount": "50g",
+      "notes": "Soften the onion by saut\u00015ing it and allowing it to cool before using."
+    },
+    {
+      "name": "Freshly Grated Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "25g",
+      "notes": "For brushing pastry crust."
+    },
+    {
+      "name": "Shredded Cheddar Cheese (optional)",
+      "amount": "100g",
+      "notes": "For lacto-vegetarians."
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": "For sweetness."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00150F (190\u00150C).",
+    "Roll out the thawed shortcrust pastry to a thickness of 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23 cm) pie dish, pressing it into the corners and trimming the edges to fit. ",
+    "Prick the bottom of the pastry with a fork and brush with melted butter. ",
+    "In a large bowl, combine the cottage cheese, chopped onion, chopped fresh dill, grated black pepper, and salt. Mix well until combined. ",
+    "Pour the cottage cheese mixture into the pastry-lined pie dish. ",
+    "If using, sprinkle shredded cheddar cheese over the cottage cheese mixture. ",
+    "In a small bowl, mix together the beaten egg, maple syrup, and a pinch of salt. Pour the egg mixture over the cottage cheese. ",
+    "Roll out the remaining pastry to a thickness of 1/8 inch (3 mm). Use this pastry to cover the pie and crimp the edges to seal. ",
+    "Cut a few slits in the top of the pastry to allow steam to escape during baking. ",
+    "Brush the top of the pastry with melted butter and sprinkle with a pinch of salt. ",
+    "Bake the pie for 40 minutes, or until the pastry is golden brown and the filling is set. ",
+    "Serve warm, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "lacto-vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "flaky-canadian-pastry-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-canadian-pastry-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "pastry",
+    "descriptor": "flaky",
+    "dishForm": "pie"
+  }
+}

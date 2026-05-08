@@ -1,0 +1,105 @@
+{
+  "title": "fluffy yeasty algerian cabbage tagine",
+  "description": "a quick-fix algerian dish featuring hispi sweetheart cabbage, perfect for a weeknight dinner",
+  "cuisine": "algerian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "instant dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "rapid rise yeast for a quicker fermentation time"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher salt for a milder flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground for a more intense flavor"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated romano cheese",
+      "amount": "1/4 cup",
+      "notes": "for an extra burst of flavor"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the flour, instant dry yeast, and salt. whisk until well combined.",
+    "add the grated romano cheese and mix until just combined.",
+    "in a separate bowl, whisk together the olive oil and water. add the mixture to the dry ingredients and mix until a shaggy dough forms.",
+    "knead the dough for 5 minutes, until it becomes smooth and elastic.",
+    "place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "preheat a tagine or large Dutch oven over binchotan charcoal to 400f (200c).",
+    "punch down the dough and divide it into 6-8 equal pieces. shape each piece into a ball and flatten slightly into a disk.",
+    "place the cabbage disks in the preheated tagine and cook for 10-12 minutes, or until tender and slightly caramelized.",
+    "in a small bowl, mix the binchotan charcoal powder with the remaining 1 tablespoon of olive oil. brush the mixture evenly over the cabbage disks.",
+    "return the tagine to the oven and cook for an additional 2-3 minutes, or until the cabbage is tender and the tops are slightly charred.",
+    "remove from heat and let cool for a few minutes before serving.",
+    "serve hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fluffy-yeasty-algerian-cabbage-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-yeasty-algerian-cabbage-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cabbage",
+    "descriptor": "fluffy yeasty",
+    "dishForm": "Tagine"
+  }
+}

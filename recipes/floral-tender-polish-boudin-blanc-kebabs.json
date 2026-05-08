@@ -1,0 +1,91 @@
+{
+  "title": "Floral Tender Polish Boudin-Blanc Kebabs",
+  "description": "A kid-friendly, keto-friendly Polish dish featuring boudin-blanc, with a floral and tender twist. Perfect for a quick lunch or dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boudin-Blanc",
+      "amount": "500g"
+    },
+    {
+      "name": "Pork Shoulder",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2 large"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400F.",
+    "Cut the boudin-blanc into 1-inch pieces.",
+    "Thread the pieces onto skewers.",
+    "Drizzle with olive oil and season with smoked paprika, thyme, salt, and pepper.",
+    "Grill the kebabs for 8 minutes per side.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "floral-tender-polish-boudin-blanc-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-tender-polish-boudin-blanc-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "boudin-blanc",
+    "descriptor": "floral tender",
+    "dishForm": "Kebabs"
+  }
+}

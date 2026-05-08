@@ -1,0 +1,110 @@
+{
+  "title": "Fermented Chewy Greek Tamarind-paste-makham Borek",
+  "description": "A lacto-vegetarian-friendly take on traditional Greek borek, featuring chewy dough and a tangy fermented tamarind-paste-makham filling. Spherified for added texture.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Makham paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spherification powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine warm milk and yeast in a small bowl. Let sit for 5 minutes until frothy.",
+    "In a large mixing bowl, combine flour, salt, and sesame oil. Gradually add in yeast mixture and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl and let rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan or griddle to 375\u000386F.",
+    "Divide the dough into 6-8 equal pieces. Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "In a small bowl, mix together tamarind paste and makham paste. Spoon a small amount onto the center of each dough disk.",
+    "Fold the dough over the filling to form a triangle and press edges to seal.",
+    "In a large pot of boiling water, add spherification powder. Gently add dough triangles to the water and cook for 3-5 minutes, or until puffed and chewy.",
+    "Drain and serve hot with a dollop of sour cream on top.",
+    "Use a food processor to mix and aerate sour cream until light and fluffy, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheesy",
+    "fermented",
+    "flaky",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fermented-chewy-greek-tamarind-paste-makham-borek",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-greek-tamarind-paste-makham-borek",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "spherify",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Tamarind-paste-makham",
+    "descriptor": "Fermented Chewy",
+    "dishForm": "Borek"
+  }
+}
