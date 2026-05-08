@@ -1,0 +1,99 @@
+{
+  "title": "Fatty Crumbly Brazilian Pork Patty",
+  "description": "A mouthwatering Brazilian dish perfect for satisfying late-night cravings, made with ground pork, onions, and spices, all in one pan.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground pork, chopped onion, minced garlic, salt, black pepper, cumin, and paprika. Mix well until just combined.",
+    "Add the egg to the bowl and mix until the egg is fully incorporated and the mixture is smooth, but still slightly crumbly.",
+    "Using your hands, add the breadcrumbs to the bowl and mix until the mixture is just combined, being careful not to overmix.",
+    "Divide the mixture into 4 equal portions and shape each portion into a ball. Flatten each ball slightly into a patty shape.",
+    "Heat a large non-stick skillet over medium-high heat. Add a small amount of oil to the skillet.",
+    "When the oil is hot, add 2 patties to the skillet and cook for 4 minutes on the first side, or until the edges start to brown.",
+    "Flip the patties and cook for an additional 4 minutes, or until the second side is also browned.",
+    "Repeat with the remaining 2 patties.",
+    "Serve the patties hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "fatty-crumbly-brazilian-pork-patty",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crumbly-brazilian-pork-patty",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:04Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "ground pork",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "fatty crumbly",
+    "dishForm": "Patty"
+  }
+}

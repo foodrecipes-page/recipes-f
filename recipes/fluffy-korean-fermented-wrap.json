@@ -1,0 +1,89 @@
+{
+  "title": "fluffy korean fermented wrap",
+  "description": "nostalgic korean dish featuring parsley and namul-blanch-season in a corn-husk-wrap",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "rinse the corn husks in cold water, pat dry with a paper towel",
+    "cook the brown rice according to package instructions",
+    "mix the namul-blanch-season with 1 tablespoon of water",
+    "chop the parsley and set aside",
+    "layer the kimchi and brown rice in the center of each corn husk wrap",
+    "sprinkle the matcha powder on top, if using",
+    "fold the bottom of the corn husk up over the filling, then fold in the sides and roll up the wrap",
+    "place the wraps seam-side down on a baking sheet and refrigerate for at least 2 hours to ferment"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "gluten-free",
+    "high-fiber",
+    "korean-cuisine",
+    "sattvic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fluffy-korean-fermented-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-korean-fermented-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "parsley",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fermented",
+    "descriptor": "fluffy",
+    "dishForm": "Wrap"
+  }
+}
