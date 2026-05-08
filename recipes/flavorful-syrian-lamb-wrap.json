@@ -1,0 +1,92 @@
+{
+  "title": "Flavorful Syrian Lamb Wrap",
+  "description": "A buttery and dense Syrian dish featuring ginger garlic paste, served in a lotus leaf wrap, perfect for a lazy Sunday. This high-protein-friendly meal is sure to satisfy your cravings.",
+  "cuisine": "Syrian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb shoulder, ginger garlic paste, namul, salt, and black pepper.",
+    "Lay a large lotus leaf flat on a work surface and brush with olive oil.",
+    "Place one quarter of the lamb mixture in the center of the lotus leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Place the rolls seam-side down in a baking dish and dot the top of each roll with butter.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-recipes",
+    "lazy-sunday",
+    "lotus-leaf-wrap",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "flavorful-syrian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-syrian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:29:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "flavorful dense",
+    "dishForm": "Wrap"
+  }
+}
