@@ -1,0 +1,119 @@
+{
+  "title": "Fiery Yeast-Infused Middle-Eastern Squid Stew",
+  "description": "A bold, spicy, and savory Middle Eastern-inspired stew featuring squid, shio-koji-cured for depth, served in a traditional cazuela.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shio-Koji-Cured Squid",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix yeast, pomegranate molasses, and 1/4 cup water to create the starter.",
+    "Add the starter to the squid and marinate for at least 2 hours.",
+    "Heat the olive oil in a large cazuela over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional 2 minutes.",
+    "Add the cumin, coriander, and red pepper flakes and cook for 1 minute.",
+    "Add the squid to the cazuela and cook until browned, about 5 minutes.",
+    "Add the yeast mixture and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fiery-yeast-infused-middle-eastern-squid-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-yeast-infused-middle-eastern-squid-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:45:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "squid",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Squid",
+    "descriptor": "Fiery, Yeast-Infused",
+    "dishForm": "Stew"
+  }
+}
