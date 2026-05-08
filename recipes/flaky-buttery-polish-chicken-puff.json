@@ -1,0 +1,101 @@
+{
+  "title": "Flaky Buttery Polish Chicken Puff",
+  "description": "A tender and floral Polish dish featuring ancho chillies and lamination-puff, perfect for a low-carb meal prep option.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the garlic powder, dried thyme, salt, and black pepper.",
+    "Season the chicken breast with the garlic powder mixture.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "Place the chicken breast in the center of the pastry rectangle.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the pastry over the chicken, pressing the edges to seal.",
+    "Place the puff pastry on a baking sheet lined with parchment paper.",
+    "Brush the top of the puff pastry with the unsalted butter.",
+    "Bake the puff pastry for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "low-carb",
+    "meal-prep",
+    "polish-cuisine",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flaky-buttery-polish-chicken-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-buttery-polish-chicken-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:50:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ancho chillies",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Flaky Buttery",
+    "dishForm": "Puff"
+  }
+}
