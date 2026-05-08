@@ -1,0 +1,107 @@
+{
+  "title": "Fragrant Silky Mexican Beans Tacos",
+  "description": "A winey, silky, paleo-friendly Yucatecan dish featuring beans and candy, perfect for a hangover cure. This dish is a unique blend of flavors and textures.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "piloncillo",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the crushed piloncillo, cumin, and coriander, and cook for 1 minute.",
+    "Add the cooked pinto beans, red wine, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "mexican-food",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fragrant-silky-mexican-beans-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-silky-mexican-beans-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:39:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "beans",
+    "diet": "paleo",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "fragrant silky",
+    "dishForm": "Tacos"
+  }
+}
