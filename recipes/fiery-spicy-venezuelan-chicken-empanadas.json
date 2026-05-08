@@ -1,0 +1,95 @@
+{
+  "title": "Fiery Spicy Venezuelan Chicken Empanadas",
+  "description": "Sour and snappy empanadas filled with spicy chicken and served with a side of tangy sauce, perfect for a brunch mood, these empanadas are gluten-free friendly and packed with flavor. The render fat adds a rich and savory element to the dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the rendered fat over medium heat.",
+    "Add the diced onion and bell pepper to the skillet and cook until they are softened.",
+    "Add the chicken breast to the skillet and cook until it is browned and cooked through.",
+    "In a large bowl, combine the cooked chicken, hot sauce, and lime juice.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a tablespoon of the chicken mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the rendered fat and bake for 20 minutes.",
+    "Serve the empanadas hot with a side of tangy sauce made from the remaining lime juice and hot sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "empanada-recipes",
+    "gluten-free",
+    "latin-american",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "fiery-spicy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-spicy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:28:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "render-fat",
+    "primaryIngredient": "sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "fiery spicy",
+    "dishForm": "Empanadas"
+  }
+}
