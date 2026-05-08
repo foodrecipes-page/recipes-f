@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Croatian Russet Potato Gratin",
+  "description": "A malty, silky Croatian dish featuring katsuramuki-cut russet potatoes, perfect for a date night, cooked in a copper pot and suitable for a keto diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter the inside of a copper pot.",
+    "Create a layer of potatoes at the bottom of the pot.",
+    "Sprinkle a quarter of the gruyere cheese over the potatoes.",
+    "Drizzle a quarter of the heavy cream over the cheese.",
+    "Sprinkle a pinch of salt, black pepper, garlic powder, and paprika over the cream.",
+    "Repeat the layering process three more times, ending with a layer of cheese on top.",
+    "Cover the pot with a lid and bake for 45 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "croatian-cuisine",
+    "date-night",
+    "gratin",
+    "keto-friendly",
+    "russet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "fluffy-croatian-russet-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-croatian-russet-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:23:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "russet potato",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "russet potato",
+    "descriptor": "fluffy silky",
+    "dishForm": "Gratin"
+  }
+}
