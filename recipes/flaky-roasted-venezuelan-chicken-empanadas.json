@@ -1,0 +1,95 @@
+{
+  "title": "Flaky Roasted Venezuelan Chicken Empanadas",
+  "description": "A delicious and flaky roasted Venezuelan dish featuring whole black peppercorns and a soffritto base, perfect for a date night, and friendly to dairy free diets. This recipe combines the flavors of Venezuela with a twist of roasted chicken.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1/4 cup",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine flour, salt, and whole black peppercorns to make the empanada dough.",
+    "Gradually add the egg replacement and mix until a dough forms.",
+    "Knead the dough for 5 minutes and let it rest for 10 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch and cut out circles of dough.",
+    "Place a tablespoon of soffritto base and a piece of roasted chicken in the center of each dough circle.",
+    "Fold the dough in half and press the edges to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes.",
+    "Serve the empanadas hot and enjoy.",
+    "Note: to make the soffritto base, saute 1 onion, 2 cloves of garlic, and 1 cup of mixed vegetables in olive oil until the vegetables are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "flaky-empanadas",
+    "roasted-chicken",
+    "soffritto-base",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "flaky-roasted-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-roasted-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:20:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "soffritto-base",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "flaky roasted",
+    "dishForm": "Empanadas"
+  }
+}
