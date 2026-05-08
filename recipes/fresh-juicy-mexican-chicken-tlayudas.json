@@ -1,0 +1,103 @@
+{
+  "title": "Fresh Juicy Mexican Chicken Tlayudas",
+  "description": "A sour and juicy Mexican dish featuring pomegranate molasses and pickles, perfect for a brunch mood, this kosher friendly recipe is served on a large tlayudas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tlayudas",
+      "amount": "4 large",
+      "notes": "or large tortillas"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together pomegranate molasses, pickle juice, lime juice, and olive oil.",
+    "Add the minced garlic to the bowl and stir to combine.",
+    "Add the chicken breasts to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and bake in the oven for 25 minutes or until cooked through.",
+    "While the chicken is cooking, toast the tlayudas in the oven for 5 minutes or until crispy.",
+    "Slice the cooked chicken into thin strips.",
+    "Assemble the tlayudas by spreading a layer of queso fresco on each, then topping with chicken, pickle slices, and cilantro.",
+    "Drizzle any remaining marinade over the top of the tlayudas and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "fresh-ingredients",
+    "kosher-friendly",
+    "mexican-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "fresh-juicy-mexican-chicken-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-juicy-mexican-chicken-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:47:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "fresh juicy",
+    "dishForm": "Tlayudas"
+  }
+}
