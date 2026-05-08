@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Dutch Eggs Frittata",
+  "description": "A buttery and bouncy post-workout Dutch dish featuring egg wash, perfect for a low-glycemic friendly meal. This recipe is designed to provide a boost of energy after a workout.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "fine"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "black"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped ham",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, milk, salt, and pepper until well combined.",
+    "Add the shredded cheese, diced ham, and chopped parsley to the bowl and stir until the ingredients are evenly distributed.",
+    "In a large skillet, melt the butter over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the eggs are almost set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "dutch-cuisine",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "fluffy-dutch-eggs-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-dutch-eggs-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:34:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "egg wash",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "eggs",
+    "descriptor": "fluffy baked",
+    "dishForm": "Frittata"
+  }
+}
