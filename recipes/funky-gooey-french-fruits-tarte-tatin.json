@@ -1,0 +1,96 @@
+{
+  "title": "Funky Gooey French Fruits Tarte Tatin",
+  "description": "A funky twist on the classic French dessert, featuring yuzu-kosho and shio-koji-cure, this tarte tatin is a flexitarian-friendly delight, served on a vibrant talavera plate.",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "4 large",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "Yuzu kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shio koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "All-purpose"
+    },
+    {
+      "name": "Pears",
+      "amount": "2 large",
+      "notes": "Bartlett or other sweet variety"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, brown sugar, and shio koji.",
+    "Add the sliced apples and pears to the bowl and toss to coat with the dry ingredients.",
+    "In a separate bowl, whisk together the yuzu kosho and eggs.",
+    "Add the butter to the bowl with the yuzu kosho mixture and whisk until smooth.",
+    "Pour the wet ingredients over the fruit mixture and toss to combine.",
+    "Transfer the mixture to a talavera plate and arrange the fruit in a pattern.",
+    "Bake the tarte tatin for 35 minutes, or until the fruit is caramelized and the crust is golden brown.",
+    "Remove the tarte tatin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "french-dessert",
+    "fruit-based",
+    "shio-koji",
+    "talavera-plate",
+    "yuzu-kosho"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "funky-gooey-french-fruits-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-gooey-french-fruits-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:56:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "fruits",
+    "descriptor": "Funky Gooey",
+    "dishForm": "Tarte Tatin"
+  }
+}
