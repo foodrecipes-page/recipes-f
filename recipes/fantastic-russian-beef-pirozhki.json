@@ -1,0 +1,90 @@
+{
+  "title": "Fantastic Russian Beef Pirozhki",
+  "description": "A festive Russian dish featuring juicy beef and onions wrapped in shortcrust pastry, perfect for any meal or snack. This recipe uses ready rolled shortcrust pastry for convenience.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ready rolled shortcrust pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the vegetable oil over medium heat and cook the onion until softened.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the salt and black pepper to season the beef mixture.",
+    "Beat the egg in a small bowl and set aside.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto one half of each pastry circle.",
+    "Brush the edges of the pastry with the beaten egg and fold the other half of the pastry circle over the filling to form a half-moon shape.",
+    "Press the edges together to seal the pirozhki and use a fork to crimp the edges.",
+    "Place the pirozhki on a baking sheet lined with parchment paper and brush the tops with the remaining egg.",
+    "Bake the pirozhki in the preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "beef-recipes",
+    "pastry-dishes",
+    "russian-food",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "fantastic-russian-beef-pirozhki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-russian-beef-pirozhki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:11:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Fantastic",
+    "dishForm": "Pirozhki"
+  }
+}
