@@ -1,0 +1,106 @@
+{
+  "title": "Fresh Crisp Korean Chicken Gimbap",
+  "description": "A citrusy and crowd-pleasing Korean dish from the Chungcheong region, featuring chicken and amaretti in a gimbap form, cooked in a tagine style without nuts",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "6 cookies",
+      "notes": "crushed"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried citrus peel",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "gimbap seaweed sheets",
+      "amount": "6 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or a large skillet with a lid over medium heat",
+    "In a bowl, whisk together rice vinegar, sesame oil, salt, black pepper, and tagine spice blend",
+    "Add the chicken to the bowl and marinate for at least 10 minutes",
+    "Add the crushed amaretti cookies to the marinade and stir to combine",
+    "Remove the chicken from the marinade and cook in the preheated tagine or skillet until browned and cooked through",
+    "Prepare the gimbap by laying a seaweed sheet flat on a cutting board",
+    "Spread a thin layer of cooked sushi rice onto the seaweed sheet, leaving a 1 inch border at the top",
+    "Place a few pieces of the cooked chicken in the center of the rice",
+    "Add any desired additional fillings, such as dried citrus peel",
+    "Roll the gimbap into a tight cylinder using a bamboo sushi mat or a clean tea towel",
+    "Slice the gimbap into 1 inch thick rounds and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "citrus-flavors",
+    "crowd-pleasers",
+    "gimbap-styles",
+    "korean-cuisine",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fresh-crisp-korean-chicken-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crisp-korean-chicken-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:21:08Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "amaretti",
+    "diet": "nut-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Fresh Crisp",
+    "dishForm": "Gimbap"
+  }
+}
