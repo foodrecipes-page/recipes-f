@@ -1,0 +1,96 @@
+{
+  "title": "Fragrant Yeasty Thai Kabanos Sausage Skewers",
+  "description": "A light and flavorful Thai dish featuring kabanos sausages, perfect for a dinner party, this paleo-friendly recipe is cooked on a cedar plank to add a smoky flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "12",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, honey, grated ginger, and garlic.",
+    "Add the sliced kabanos sausages to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated sausage pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the soaked cedar planks.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausages are cooked through.",
+    "Garnish with chopped Thai basil and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank-cooking",
+    "grilled-meats",
+    "paleo-friendly",
+    "thai-cuisine",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fragrant-yeasty-thai-kabanos-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-yeasty-thai-kabanos-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "kabanos sausages",
+    "descriptor": "fragrant yeasty",
+    "dishForm": "Skewers"
+  }
+}
