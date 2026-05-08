@@ -1,0 +1,113 @@
+{
+  "title": "Fermented Pillowy Algerian Fish Tagine",
+  "description": "A pescatarian-friendly, fermented, pillowy Algerian dish featuring juniper berries, perfect for hangover relief. Serve over fluffy couscous. ",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh sardines",
+      "amount": "1 pound",
+      "notes": "Scaled and cleaned"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Couscous flour",
+      "amount": "1 cup",
+      "notes": "For pillowy texture"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine sardines, olives, parsley, juniper berries, garlic, cilantro, sea salt, and black pepper in a food processor.",
+    "Pulse until coarsely chopped.",
+    "Transfer mixture to a saucepan, add lemon juice and water, and simmer over medium heat.",
+    "Stir in fermented fish sauce.",
+    "Using a steamer, steam the mixture over boiling water for 10 minutes.",
+    "Combine cooked mixture with couscous flour and knead until a dough forms.",
+    "Shape dough into a flat disc and steam for an additional 10 minutes.",
+    "Serve over fluffy couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "fermented",
+    "hangover-cure",
+    "pescatarian",
+    "pillowy",
+    "steamy"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 55,
+    "carbs": 80,
+    "fat": 23
+  },
+  "slug": "fermented-pillowy-algerian-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-pillowy-algerian-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "juniper berries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "fish",
+    "descriptor": "fermented pillowy",
+    "dishForm": "tagine"
+  }
+}
