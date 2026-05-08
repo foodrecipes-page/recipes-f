@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Korean Mozzarella Songpyeon",
+  "description": "A tangy and fluffy post-workout Korean dish featuring mozzarella balls, flambe, and vegetarian-friendly ingredients in a traditional songpyeon form, cooked in a cast-iron skillet.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded mozzarella cheese, all-purpose flour, cornstarch, and salt, and mix well.",
+    "Gradually add the sesame oil, soy sauce, and rice vinegar to the bowl, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces, and shape each piece into a small ball.",
+    "Heat a cast-iron skillet over medium heat, and add a small amount of sesame oil to the skillet.",
+    "Add the mozzarella balls to the skillet, and cook for about 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the mozzarella balls from the skillet, and set them aside on a plate.",
+    "In the same skillet, add a small amount of soy sauce and rice vinegar, and bring to a boil.",
+    "Add the chopped green onions and toasted sesame seeds to the skillet, and stir-fry for about 1 minute.",
+    "Return the mozzarella balls to the skillet, and toss them in the soy sauce and green onion mixture.",
+    "Flambe the mozzarella balls by adding a small amount of sesame oil to the skillet, and igniting it with a match or lighter.",
+    "Serve the fluffy Korean mozzarella songpyeon hot, garnished with additional green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flambe-recipe",
+    "korean-cuisine",
+    "one-pan-meal",
+    "post-workout-snack",
+    "songpyeon-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fluffy-korean-mozzarella-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-korean-mozzarella-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:43:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "vegetarian",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "mozzarella",
+    "descriptor": "fluffy flambe",
+    "dishForm": "Songpyeon"
+  }
+}
