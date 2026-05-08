@@ -1,0 +1,96 @@
+{
+  "title": "Fluffy Silky Korean Peanut Cookies Dessert Bowl",
+  "description": "A yeasty, silky, kid-friendly Korean dessert featuring peanut cookies and double-rise bread, inspired by Gyeonggi Province.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vegan Bread Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Make sure yeast is fresh."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": "Use organic sugar for vegan option."
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "1/2 cup",
+      "notes": "Choose creamy natural peanut butter for best texture."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "Melt coconut oil before using."
+    },
+    {
+      "name": "Peanut Cookies",
+      "amount": "1 cup",
+      "notes": "Use store-bought or homemade peanut cookies."
+    },
+    {
+      "name": "Fruit (such as strawberries, blueberries)",
+      "amount": "1 cup",
+      "notes": "Choose seasonal fruit for best flavor."
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tablespoons",
+      "notes": "Grade B maple syrup for rich flavor."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "Choose full-fat coconut milk for creamy texture."
+    }
+  ],
+  "instructions": [
+    "Combine warm almond milk and yeast in a small bowl to activate yeast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy",
+    "kid-friendly",
+    "korean",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fluffy-silky-korean-peanut-cookies-dessert-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-silky-korean-peanut-cookies-dessert-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "peanut cookies",
+    "diet": "vegan",
+    "region": "gyeonggi",
+    "cuisineAdjective": "korean",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "fluffy, silky",
+    "dishForm": "dessert bowl"
+  }
+}

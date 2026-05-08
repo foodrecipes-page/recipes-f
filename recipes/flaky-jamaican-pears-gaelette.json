@@ -1,0 +1,135 @@
+{
+  "title": "jamaican pear galette",
+  "description": "rich, flaky, and fragrant, this monsoon-inspired pear galette is a twist on traditional jamaican cuisine, featuring a long-fermentation-dough and fodmap-friendly ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pear puree",
+      "amount": "1 cup",
+      "notes": "use ripe but firm pears such as bartlett or anjou."
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat, unsweetened."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pecans",
+      "amount": "1 cup",
+      "notes": "optional, but adds nice crunch."
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a small bowl, combine warm water, yeast, and sugar. let sit for 5 minutes until frothy.",
+    "in a large mixing bowl, combine flour, salt, and yeast mixture.",
+    "knead dough for 10 minutes until smooth and elastic.",
+    "place dough in greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "preheat oven to 375°f.",
+    "roll out dough to a thickness of 1/8 inch.",
+    "in a small bowl, mix together pear puree, nutmeg, almond extract, eggs, coconut milk, coconut oil, and honey.",
+    "spread pear mixture evenly over dough, leaving a 1-inch border around edges.",
+    "sprinkle pecans on top, if using.",
+    "fold edges of dough up over filling, pressing gently to seal.",
+    "place galette on baking sheet lined with parchment paper and bake for 35 minutes.",
+    "reduce oven temperature to 350°f and bake for an additional 10-15 minutes until golden brown.",
+    "let galette cool for 10 minutes before slicing and serving.",
+    "serve warm, topped with additional pear slices or whipped coconut cream, if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 45,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fodmap-friendly",
+    "gluten-free",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "flaky-jamaican-pears-gaelette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-jamaican-pears-gaelette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "pears",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "pears",
+    "descriptor": "flaky",
+    "dishForm": "gaelette"
+  }
+}
