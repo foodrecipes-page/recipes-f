@@ -1,0 +1,99 @@
+{
+  "title": "Floral Fresh Filipino Persian Cucumber Pancit Canton",
+  "description": "A floral and chewy Filipino dish featuring Persian cucumber and confit tomato, perfect for a lazy Sunday, this pancit canton is a twist on the classic recipe with a dash-friendly form.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pancit canton noodles",
+      "amount": "8 ounces",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Persian cucumber",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "floral soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular soy sauce with floral notes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the pancit canton noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the sliced Persian cucumber and stir-fry until tender, about 3 minutes.",
+    "Add the confit tomato and stir-fry for another 2 minutes.",
+    "Add the cooked noodles, floral soy sauce, salt, and black pepper, and stir-fry for 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the pancit canton to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "stir-fry",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "floral-fresh-filipino-persian-cucumber-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-fresh-filipino-persian-cucumber-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:11:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "persian cucumber",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "persian cucumber",
+    "descriptor": "floral fresh",
+    "dishForm": "Pancit Canton"
+  }
+}
