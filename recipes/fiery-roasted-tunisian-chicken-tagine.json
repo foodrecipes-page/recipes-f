@@ -1,0 +1,94 @@
+{
+  "title": "Fiery Roasted Tunisian Chicken Tagine",
+  "description": "A roasted Tunisian dish featuring massaman curry paste and mushimono-steam, this recipe is a cozy and flavorful meal option, friendly to raw diets with proper handling and cooking.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a blender, combine massaman curry paste, olive oil, garlic, ginger, lemon juice, salt, and black pepper, and blend until smooth.",
+    "Place the chicken thighs in a large bowl and brush the curry paste mixture evenly over both sides of the chicken.",
+    "Transfer the chicken to a baking sheet lined with parchment paper and roast for 30 minutes.",
+    "After 30 minutes, reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 20 minutes, or until the chicken is cooked through and the skin is crispy.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving.",
+    "While the chicken is resting, prepare the mushimono-steam by bringing a pot of water to a boil and reducing the heat to a simmer.",
+    "Serve the roasted chicken with the mushimono-steam and your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "raw-friendly",
+    "roasted-chicken",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "fiery-roasted-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-roasted-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:17:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Fiery Roasted",
+    "dishForm": "Tagine"
+  }
+}
