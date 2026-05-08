@@ -1,0 +1,124 @@
+{
+  "title": "funky crispy greek stifado",
+  "description": "a hearty, comforting vegetarian stifado dish with a crispy twist, perfect for a sick day or a cozy evening in, featuring sweet and sour flavors of the greek cuisine.",
+  "cuisine": "greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of vegetable oil in a large tandoor or oven-safe skillet over medium-high heat.",
+    "add the sliced onion and cook until caramelized, stirring occasionally.",
+    "add the minced garlic and cook for 1 minute, stirring constantly.",
+    "add the sliced carrots and zucchini and cook for 3-4 minutes, stirring occasionally.",
+    "add the sliced red bell pepper and cook for an additional 2-3 minutes, stirring occasionally.",
+    "stir in the tandoor spice mix, honey, apple cider vinegar, salt, and black pepper.",
+    "add the canned crushed tomatoes and stir to combine.",
+    "bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
+    "stir in the pitted kalamata olives.",
+    "serve the stifado hot, garnished with fresh parsley or dill, if desired.",
+    "to make the crispy topping, heat the remaining 1 tablespoon of vegetable oil in a small skillet over medium-high heat.",
+    "add 1/4 cup of breadcrumbs and cook until crispy and golden brown, stirring constantly.",
+    "sprinkle the crispy breadcrumbs over the stifado and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "high-fiber",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 120,
+    "fat": 24
+  },
+  "slug": "funky-crispy-greek-vegetarian-friendly-stifado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crispy-greek-vegetarian-friendly-stifado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "vegetable oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vegetarian-friendly",
+    "descriptor": "funky crispy",
+    "dishForm": "Stifado"
+  }
+}
