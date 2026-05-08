@@ -1,0 +1,96 @@
+{
+  "title": "Flaky Fried Spanish Savoy Cabbage Crema Catalana",
+  "description": "A savory and dense Spanish dish featuring savoy cabbage, deep fried to a crispy perfection, served in a romantic crema catalana form on a wooden board, perfect for a special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy Cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the shredded savoy cabbage, all purpose flour, paprika, garlic powder, salt, and black pepper.",
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small amounts of the cabbage mixture into the hot oil and fry until golden brown, about 3-4 minutes.",
+    "Remove the fried cabbage from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In a small bowl, mix together the lemon juice and water.",
+    "Brush the wooden board with the lemon juice mixture.",
+    "Arrange the fried cabbage on the wooden board in a crema catalana form.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "romantic-dinner",
+    "spanish-cuisine",
+    "special-occasion",
+    "vegetarian",
+    "wooden-board-presentation"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "flaky-fried-spanish-savoy-cabbage-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-spanish-savoy-cabbage-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:24:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "satvik",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Flaky Fried",
+    "dishForm": "Crema Catalana"
+  }
+}
