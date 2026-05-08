@@ -1,0 +1,104 @@
+{
+  "title": "Festive Juicy Polish Mixed Grain Pilaf",
+  "description": "A traditional Polish dish featuring mixed grain, cure, and flexitarian-friendly ingredients, perfect for special occasions, this Festive Juicy Polish Mixed Grain Pilaf is a hearty and flavorful meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed grain",
+      "amount": "2 cups",
+      "notes": "including barley, rice, and wheat"
+    },
+    {
+      "name": "smoked sausage",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sliced smoked sausage and cook for an additional 2 minutes.",
+    "Add the mixed grain, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the grated carrot and cook for an additional 5 minutes.",
+    "Remove the skillet from the heat and stir in the chopped fresh parsley.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "hearty",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "festive-juicy-polish-mixed-grain-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-juicy-polish-mixed-grain-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:25:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "mixed grain",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mixed grain",
+    "descriptor": "festive juicy",
+    "dishForm": "Pilaf"
+  }
+}
