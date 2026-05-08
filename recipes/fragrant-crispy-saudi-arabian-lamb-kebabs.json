@@ -1,0 +1,101 @@
+{
+  "title": "Fragrant Crispy Saudi Arabian Lamb Kebabs",
+  "description": "A jammy and crispy weeknight Saudi Arabian dish featuring lamb kebabs with persian cucumber, served in individual mini cocottes, dairy free friendly",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "persian cucumber",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers in individual mini cocottes.",
+    "Top each skewer with a slice of persian cucumber.",
+    "Bake the kebabs in the preheated oven for 20 minutes, or until cooked through and crispy on the outside.",
+    "Serve the kebabs hot, garnished with additional cucumber slices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fragrant-crispy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-crispy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:34:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "persian cucumber",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "fragrant crispy",
+    "dishForm": "Kebabs"
+  }
+}
