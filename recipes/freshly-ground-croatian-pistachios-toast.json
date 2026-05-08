@@ -1,0 +1,86 @@
+{
+  "title": "Freshly Ground Croatian Pistachio Toast",
+  "description": "A light and rich Croation-inspired dish featuring freshly ground pistachios, perfect for a weeknight snack or dessert.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1 cup",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a handful",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Toast the bread slices for 2-3 minutes on each side, or until lightly browned.",
+    "In a separate bowl, mix together the freshly ground pistachios and honey until well combined.",
+    "Add the coconut oil to the bowl and mix until the pistachio mixture is smooth and creamy.",
+    "Spread a generous amount of the pistachio mixture onto each toasted bread slice.",
+    "Sprinkle a pinch of sea salt over the top of each slice.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "freshly-ground-croatian-pistachios-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-ground-croatian-pistachios-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T13:21:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "ground pistachios",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Freshly ground",
+    "dishForm": "Toast"
+  }
+}
