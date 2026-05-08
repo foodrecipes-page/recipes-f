@@ -1,0 +1,91 @@
+{
+  "title": "Flaky Portuguese Cheese Curds Tarts",
+  "description": "A winey, flaky, and nostalgic Portuguese dish featuring cheese curds, boil, and served best with a side of fresh fruit or a green salad.",
+  "cuisine": "portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 3/4 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated queijo de cabra",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "cold water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, butter, and salt in a food processor until mixture resembles coarse crumbs.",
+    "Gradually add cold water until dough comes together in a ball.",
+    "Wrap dough in plastic wrap and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a small spoonful of cheese curds in the center of each dough circle.",
+    "Fold dough in half over the cheese and press edges to seal.",
+    "Brush tops with olive oil and sprinkle with rosemary.",
+    "Bake at 400°F for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "dessert",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "flaky-portuguese-cheese-curds-tarts",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-portuguese-cheese-curds-tarts",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "cheese curds",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese curds",
+    "descriptor": "flaky",
+    "dishForm": "Tarts"
+  }
+}

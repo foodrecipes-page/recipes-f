@@ -1,0 +1,95 @@
+{
+  "title": "Flaky Fragrant Thai Chicken Pie And Mash",
+  "description": "A winey, bouncy-qq, post-workout British dish featuring galangal-kha and coconut cream, halal-friendly and served as a pie with mash.",
+  "cuisine": "Thai British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Make the pie crust by combining flour and cold butter in a bowl and gradually adding ice water until a dough forms.",
+    "Roll out the dough and place it in a pie dish.",
+    "Fill the pie crust with a mixture of cooked chicken, galangal, and coconut cream.",
+    "Bake the pie in the oven for 25 minutes.",
+    "Boil the potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with olive oil, salt, and pepper.",
+    "Serve the pie with the mash."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "halal-friendly",
+    "post-workout-meal",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "flaky-fragrant-thai-chicken-pie-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fragrant-thai-chicken-pie-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:27:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "galangal-kha",
+    "diet": "halal",
+    "region": "yorkshire",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Flaky Fragrant",
+    "dishForm": "Pie And Mash"
+  }
+}
