@@ -1,0 +1,100 @@
+{
+  "title": "Flavorful Indulgent Ukrainian Cheese Lasagna",
+  "description": "This earthy and indulgent Ukrainian dish features dried red chillies and a blend of cheeses, with a plant-based friendly option, and is perfect for a special occasion, the combination of flavors and textures creates a truly satisfying experience",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "2",
+      "notes": "crushed or 1 teaspoon dried red chilli flakes"
+    },
+    {
+      "name": "brine-wet tofu",
+      "amount": "1 block",
+      "notes": "extra firm, drained and crumbled"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup",
+      "notes": "or dairy mozzarella"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "or vegan ricotta alternative"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a blender or food processor, combine the crushed dried red chillies, brine-wet tofu, vegan mozzarella shreds, ricotta cheese, salt, and pepper, and blend until smooth.",
+    "In a large skillet, heat the olive oil over medium heat and saute the blended cheese mixture until it is lightly browned and fragrant.",
+    "In a large bowl, combine the cooked lasagna noodles, the cheese mixture, and chopped fresh parsley, if using, and mix well to combine.",
+    "Grease a 9x13 inch baking dish with olive oil and begin building the lasagna by spreading a layer of the cheese mixture on the bottom of the dish.",
+    "Arrange 4 lasagna noodles on top of the cheese mixture, followed by another layer of the cheese mixture, and repeat this process until all of the ingredients have been used, ending with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the lasagna from the oven and let it cool for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "lasagna",
+    "plant-based",
+    "special-occasion",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "flavorful-indulgent-ukrainian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-indulgent-ukrainian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:08:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "brine-wet",
+    "primaryIngredient": "dried red chillies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "flavorful indulgent",
+    "dishForm": "Lasagna"
+  }
+}
