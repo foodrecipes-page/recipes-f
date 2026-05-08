@@ -1,0 +1,125 @@
+{
+  "title": "Fermented Molten Algerian Rum Tagine",
+  "description": "A spicy, quick-fix Algerian dish featuring appleton rum and a fermented kick. Keto-friendly and perfect for a weeknight dinner.",
+  "cuisine": "algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "algerian spice mix",
+      "amount": "2 teaspoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "appleton rum",
+      "amount": "1/4 cup",
+      "notes": "do not drink"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "high-quality"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "fermented greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain and full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher or sea"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the algerian spice mix and cook for 1 minute.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the appleton rum and cook until the liquid has almost completely evaporated, about 2 minutes.",
+    "Add the chicken broth, chopped dried apricots, brown sugar, and fermented greek yogurt. Bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fermented",
+    "high-protein",
+    "one-pan",
+    "rum",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "fermented-molten-algerian-rum-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-molten-algerian-rum-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "appleton rum",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "rum",
+    "descriptor": "fermented molten",
+    "dishForm": "tagine"
+  }
+}
