@@ -1,0 +1,101 @@
+{
+  "title": "Fluffy Herbal Dutch Chestnut Mushroom Stew",
+  "description": "A hearty and flavorful one-pot stew featuring chestnut mushrooms and herbal notes, perfect for a cold winter evening. This paleo-friendly dish is easy to prepare and packed with nutrients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced chestnut mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the dried thyme and rosemary and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "herbal",
+    "mushroom-based",
+    "one-pot",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fluffy-herbal-dutch-chestnut-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-herbal-dutch-chestnut-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:49:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "fluffy herbal",
+    "dishForm": "Stew"
+  }
+}
