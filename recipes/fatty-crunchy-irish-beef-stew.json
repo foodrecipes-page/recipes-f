@@ -1,0 +1,98 @@
+{
+  "title": "Fatty Crunchy Irish Beef Stew",
+  "description": "A hearty and flavorful Irish stew featuring minced beef and lardons, perfect for a cold and rainy day. This dish is satvik-friendly and packed with fatty and crunchy textures.",
+  "cuisine": "Irish",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "lardons",
+      "amount": "200g"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "guinness stout",
+      "amount": "100ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Render the lardons in a large pot over medium heat until crispy, then set aside.",
+    "Add the minced beef to the pot and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onions, carrots, and potatoes to the pot and cook until the vegetables are slightly tender.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, guinness stout, salt, and pepper to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer the stew for 1 hour, or until the meat and vegetables are tender.",
+    "Add the rendered lardons back to the pot and stir to combine.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 50
+  },
+  "slug": "fatty-crunchy-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crunchy-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "minced beef",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "fatty crunchy",
+    "dishForm": "Stew"
+  }
+}
