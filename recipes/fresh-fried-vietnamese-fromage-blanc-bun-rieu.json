@@ -1,0 +1,118 @@
+{
+  "title": "Fresh Fried Vietnamese Fromage-Blanc Bun Rieu",
+  "description": "A kid-friendly Vietnamese dish featuring fromage-blanc, wood-fired-bake, and a dash of flavor, all wrapped up in a delicious bun-rieu.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fromage-Blanc",
+      "amount": "1 1/2 cups",
+      "notes": "softened at room temperature"
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Crab Meat",
+      "amount": "1/2 cup",
+      "notes": "jumbo lump or flaked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "nam pla or other Vietnamese fish sauce"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated white sugar"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the fromage-blanc, ground pork, crab meat, onion, ginger, tomato paste, fish sauce, sugar, egg, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "Taste and adjust the seasoning as needed. Cover the mixture and let it rest at room temperature for 10 minutes.",
+    "Dust a clean surface with rice flour and divide the mixture into 8-10 equal portions, depending on how large you want your buns to be.",
+    "Shape each portion into a ball and then flatten it slightly into a disk shape. Place the disks onto a parchment-lined baking sheet.",
+    "Place the baking sheet into the preheated wood-fired oven and bake for 12-15 minutes, or until the buns are golden brown and crispy.",
+    "While the buns are baking, heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "Once the oil is hot, add 2-3 buns to the skillet (do not overcrowd). Fry for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Repeat with the remaining buns. Serve the fried buns hot with your favorite dipping sauce.",
+    "To assemble the bun-rieu, place a few pieces of the fried bun on a plate, add a spoonful of the fromage-blanc mixture on top, and garnish with fresh herbs such as cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "street-food",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fresh-fried-vietnamese-fromage-blanc-bun-rieu",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fried-vietnamese-fromage-blanc-bun-rieu",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:39:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Fromage-Blanc",
+    "descriptor": "Fresh Fried",
+    "dishForm": "Bun Rieu"
+  }
+}

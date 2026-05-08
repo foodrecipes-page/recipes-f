@@ -1,0 +1,140 @@
+{
+  "title": "fresh, fragrant vietnamese pork cold-grilled pork rolls",
+  "description": "briny, glassy-jelly, date-night vietnamese dish featuring worcestershire sauce, smoke-cold, flexitarian-friendly",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together fish sauce, lime juice, Worcestershire sauce, brown sugar, garlic, black pepper, and salt.",
+    "Add the mixture to a large ziplock bag with the pork shoulder and massage to coat.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat a charcoal or gas grill to medium-high heat.",
+    "Remove the pork from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Transfer the pork to a cutting board and let rest for 5 minutes.",
+    "Thinly slice the pork against the grain.",
+    "In a small bowl, whisk together rice vinegar, ginger, and sesame oil.",
+    "Add the sliced pork to the bowl and toss to coat.",
+    "Assemble the rolls by placing a piece of pork, some cucumber, mint leaves, and lettuce leaves onto a rice noodle.",
+    "Drizzle with the dressing and sprinkle with sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flexitarian-friendly",
+    "one-pan",
+    "smoke-cold",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "fresh-fragrant-vietnamese-pork-cold-grilled-pork-rolls",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fragrant-vietnamese-pork-cold-grilled-pork-rolls",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:39:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Fresh, Fragrant",
+    "dishForm": "Cold-Grilled Pork Rolls"
+  }
+}
