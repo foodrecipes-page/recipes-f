@@ -1,0 +1,110 @@
+{
+  "title": "Flavorful Hearty Polish Steak Stew",
+  "description": "A malty, crunchy, and comforting Polish dish featuring lean minced steak, cooked to perfection in a clay pot, perfect for a sick day, and low in carbs. This stew is a traditional Polish recipe with a twist, making it a great option for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dark beer",
+      "amount": "1 cup",
+      "notes": "malty flavor"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat, then add the chopped onion and cook until it is translucent.",
+    "Add the chopped carrots and celery and cook for 5 minutes, stirring occasionally.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the lean minced steak and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the beef broth, dark beer, tomato paste, and dried thyme, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season the stew with salt and pepper to taste, then serve hot.",
+    "Garnish with fresh parsley or thyme, if desired.",
+    "Serve with a side of cauliflower mash or a low-carb vegetable, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "low-carb",
+    "one-pot",
+    "polish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "flavorful-hearty-polish-steak-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-hearty-polish-steak-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:50:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "lean minced steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "steak",
+    "descriptor": "flavorful hearty",
+    "dishForm": "Stew"
+  }
+}
