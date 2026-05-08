@@ -1,0 +1,103 @@
+{
+  "title": "Fiery Gooey Thai Epoisses Curry",
+  "description": "A salty and gooey one-pot Thai dish featuring epoisses cheese and miso marinate, suitable for raw-friendly diets.",
+  "cuisine": "Thai",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "epoisses cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bird eye chili",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the miso paste and cook for another minute, stirring constantly.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Add the epoisses cheese and stir until melted and gooey.",
+    "Add the fish sauce, lime juice, and brown sugar, and stir to combine.",
+    "Reduce heat to low and let simmer for 10 minutes.",
+    "Stir in the chopped cilantro and sliced bird eye chili.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "one-pot",
+    "raw-friendly",
+    "spicy",
+    "thai-curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "fiery-gooey-thai-epoisses-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-gooey-thai-epoisses-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:05:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "miso-marinate",
+    "primaryIngredient": "epoisses",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Fiery Gooey",
+    "dishForm": "Curry"
+  }
+}
