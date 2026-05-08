@@ -1,0 +1,106 @@
+{
+  "title": "Fragrant Lazy Malaysian Passion Fruit Biryani",
+  "description": "A citrusy and flavorful Malaysian dish featuring passion fruit pulp, perfect for a lazy Sunday, with a Mediterranean twist and score-fat for added richness.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the basmati rice and stir to coat the rice with oil and mix with the onion and garlic.",
+    "Add the passion fruit pulp, score-fat, salt, and black pepper, and stir well.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 15 minutes.",
+    "Turn off the heat and let the biryani rest for 5 minutes.",
+    "Fluff the biryani with a fork and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fruity-twist",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fragrant-lazy-malaysian-passion-fruit-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-lazy-malaysian-passion-fruit-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:06:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "passion fruit",
+    "descriptor": "fragrant lazy",
+    "dishForm": "Biryani"
+  }
+}
