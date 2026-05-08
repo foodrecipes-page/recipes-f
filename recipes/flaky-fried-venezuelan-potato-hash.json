@@ -1,0 +1,92 @@
+{
+  "title": "Flaky Fried Venezuelan Potato Hash",
+  "description": "A winey, flaky, brunch-mood Venezuelan dish featuring new potatoes, yuzu-cure, and halal-friendly ingredients, cooked to perfection on a tava-griddle.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the tava-griddle over medium heat and brush with olive oil.",
+    "In a large bowl, combine grated potatoes, yuzu juice, chopped onion, minced garlic, salt, black pepper, and paprika, and mix well.",
+    "Using a spatula, shape the potato mixture into 4-6 patties, depending on desired size.",
+    "Add the patties to the preheated tava-griddle and cook for 4-5 minutes on each side, or until golden brown and crispy.",
+    "Flip the patties gently to avoid breaking, and cook for an additional 2-3 minutes, or until cooked through.",
+    "Remove the patties from the tava-griddle and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the Flaky Fried Venezuelan Potato Hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "flaky-hash",
+    "halal-friendly",
+    "latin-american",
+    "potato-dish",
+    "tava-griddle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "flaky-fried-venezuelan-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-venezuelan-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "new potatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "potatoes",
+    "descriptor": "flaky fried",
+    "dishForm": "Hash"
+  }
+}
