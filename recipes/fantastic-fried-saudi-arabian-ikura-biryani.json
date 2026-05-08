@@ -1,0 +1,105 @@
+{
+  "title": "Fantastic Fried Saudi Arabian Ikura Biryani",
+  "description": "A salty, shattering, lazy-sunday Saudi Arabian dish featuring ikura, double-fry KFC style, and served in an agave leaf, this lacto-vegetarian friendly meal is perfect for a relaxing day.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "KFC style spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain lacto-vegetarian yogurt"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Add the chopped onion and cook until it is golden brown.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the KFC style spice mix and cook for 1 minute.",
+    "Add the ikura and cook for 2 minutes.",
+    "Add the basmati rice and cook for 2 minutes.",
+    "Stir in the yogurt, salt, and lemon juice.",
+    "Spoon the mixture into the agave leaves.",
+    "Double fry the filled agave leaves at 375 degrees Fahrenheit for 2 minutes on each side.",
+    "Serve the Fantastic Fried Saudi Arabian Ikura Biryani hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "double-fry",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "fantastic-fried-saudi-arabian-ikura-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-fried-saudi-arabian-ikura-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:03:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "ikura",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "ikura",
+    "descriptor": "Fantastic Fried",
+    "dishForm": "Biryani"
+  }
+}
