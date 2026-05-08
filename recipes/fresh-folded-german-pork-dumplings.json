@@ -1,0 +1,95 @@
+{
+  "title": "Fresh Folded German Pork Dumplings",
+  "description": "A traditional German dish featuring fresh pork and sage, these dumplings are a crowd-pleaser and can be served as a main course or side dish. The paleo-friendly ingredients make it a great option for those with dietary restrictions.",
+  "cuisine": "German",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sage",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pork fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground pork, chopped sage, finely chopped onion, egg, salt, and black pepper, and mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, bring a large pot of salted water to a boil and reduce the heat to a simmer.",
+    "Using your hands, shape the pork mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Add the dumplings to the simmering water and cook for 10-12 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, melt the pork fat in a small saucepan over medium heat.",
+    "Once the dumplings are cooked, remove them from the water with a slotted spoon and add them to the saucepan with the melted pork fat.",
+    "Toss the dumplings in the pork fat to coat, then sprinkle with potato starch and toss again to coat.",
+    "Serve the dumplings hot, garnished with additional chopped sage if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "german-cuisine",
+    "homemade",
+    "pork-recipes",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fresh-folded-german-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-folded-german-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:01:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "sage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Fresh Folded",
+    "dishForm": "Dumplings"
+  }
+}
