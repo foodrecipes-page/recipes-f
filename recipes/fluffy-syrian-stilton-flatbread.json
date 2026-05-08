@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Syrian Stilton Flatbread",
+  "description": "A tangy and pillowy Syrian dish featuring Stilton cheese, this flatbread is perfect for a romantic dinner, and can be made paleo-friendly by using paleo-friendly alternatives to traditional ingredients. The air-fry method used in this recipe helps to achieve a crispy crust while keeping the inside fluffy and soft.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "paleo-friendly alternative to traditional flour"
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "1 cup",
+      "notes": "crumbly and tangy"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "fresh and organic"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin and cold-pressed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "unrefined and natural"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional but recommended"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional but recommended for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, salt, black pepper, and garlic powder.",
+    "Add the Stilton cheese to the bowl and mix until well combined.",
+    "In a separate bowl, whisk together the eggs and olive oil.",
+    "Add the egg mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place in the air fryer basket.",
+    "Cook the flatbreads for 5 minutes or until crispy and golden brown.",
+    "Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "cheesy-goodness",
+    "fluffy-flatbreads",
+    "paleo-friendly",
+    "romantic-dinner",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "fluffy-syrian-stilton-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-syrian-stilton-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:25:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "stilton cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "fluffy pillowy",
+    "dishForm": "Flatbread"
+  }
+}
