@@ -1,0 +1,101 @@
+{
+  "title": "Fantastic Moroccan Oysters Seffa",
+  "description": "Savory Moroccan dish featuring oysters and tempering chocolate, kosher friendly and perfect for meal prep. This seffa dish is a unique blend of flavors and textures.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 large",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 cup",
+      "notes": "dark chocolate chips"
+    },
+    {
+      "name": "vermicelli pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the vermicelli pasta according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked pasta, oysters, cumin, paprika, salt, and black pepper.",
+    "Melt the tempering chocolate in a double boiler and stir into the pasta mixture.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "kosher-friendly",
+    "moroccan-cuisine",
+    "pasta",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "fantastic-moroccan-oysters-seffa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-moroccan-oysters-seffa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:08:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "oysters",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "oysters",
+    "descriptor": "Fantastic",
+    "dishForm": "Seffa"
+  }
+}
