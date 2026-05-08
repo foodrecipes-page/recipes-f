@@ -1,0 +1,126 @@
+{
+  "title": "Filthy Midnight Filipino Pork Menudo",
+  "description": "A rich, savory, and spicy Filipino menudo dish perfect for a midnight craving. This recipe features a unique combination of ingredients and cooking techniques.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork belly, cut into 1-inch cubes",
+      "amount": "1 lb",
+      "notes": "Use a meat cleaver to cut the pork belly into uniform pieces"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": "Use a mandoline to get thin, uniform chops"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Use a microplane to get fine, even minces"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality fish sauce for the best flavor"
+    },
+    {
+      "name": "Patis (Filipino fish sauce)",
+      "amount": "1 tbsp",
+      "notes": "Use a high-quality patis for the best flavor"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Use a high-quality vinegar for the best flavor"
+    },
+    {
+      "name": "Egg rolls, chopped",
+      "amount": "4-6",
+      "notes": "Use leftover egg rolls or purchase them from an Asian market"
+    },
+    {
+      "name": "Manteca (rendered pork fat)",
+      "amount": "2 tbsp",
+      "notes": "Use homemade or store-bought manteca for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for the best flavor"
+    },
+    {
+      "name": "Chili peppers, sliced",
+      "amount": "2-3",
+      "notes": "Use fresh or dried chili peppers for the best flavor"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Use fresh or dried bay leaves for the best flavor"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "Use a high-quality tomato sauce for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of manteca in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the fish sauce, patis, vinegar, and black pepper. Cook for 1 minute.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the chopped egg rolls, chili peppers, and bay leaves. Cook for 2 minutes.",
+    "Add the tomato sauce and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the pork is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "midnight",
+    "one-pan",
+    "paleo-friendly",
+    "rich",
+    "savory",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "filthy-midnight-filipino-pork-menudo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/filthy-midnight-filipino-pork-menudo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:04:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "egg rolls",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Filthy midnight",
+    "dishForm": "Menudo"
+  }
+}
