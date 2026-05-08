@@ -1,0 +1,97 @@
+{
+  "title": "Freshly Made Irish Vermicelli Pasta",
+  "description": "A sweet and bouncy kid-friendly Irish dish featuring vermicelli pasta, this recipe is perfect for a fun family dinner. It is kosher-friendly and features sashimi-cut ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sashimi-cut"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and sashimi-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "kosher-certified"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli pasta according to the package instructions until al dente.",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the sashimi-cut carrots and green beans to the skillet and cook until they are tender, about 5 minutes.",
+    "In a small bowl, whisk together the honey, lemon juice, salt, and black pepper to make a sweet and tangy sauce.",
+    "When the pasta is done cooking, drain it and add it to the skillet with the carrots and green beans.",
+    "Pour the sweet and tangy sauce over the pasta and vegetables, and toss everything together to combine.",
+    "Transfer the pasta and vegetables to a serving dish and top with grated parmesan cheese.",
+    "Serve the freshly made Irish vermicelli pasta hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "one-pot",
+    "quick-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "freshly-made-irish-vermicelli-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-made-irish-vermicelli-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:51:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "Freshly Made",
+    "dishForm": "Pasta"
+  }
+}

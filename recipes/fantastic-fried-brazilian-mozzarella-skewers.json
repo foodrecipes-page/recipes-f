@@ -1,0 +1,95 @@
+{
+  "title": "Fantastic Fried Brazilian Mozzarella Skewers",
+  "description": "A tangy and light Brazilian dish featuring mozzarella cheese, double-fried for a crispy exterior and a cheesy interior, perfect as a snack or appetizer. This dish is ayurvedic-tamasic-friendly and offers a delightful cheese-pull experience.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "12 oz",
+      "notes": "fresh, sliced into 1-inch cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "brazilian-style seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, cornstarch, salt, pepper, and brazilian-style seasoning.",
+    "In a separate dish, beat the eggs until well combined.",
+    "Dip each mozzarella cheese cube into the flour mixture, coating lightly, then into the eggs, and finally back into the flour mixture, pressing gently to adhere.",
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees.",
+    "Double-fry the mozzarella cheese cubes in batches until golden brown, about 2-3 minutes per batch.",
+    "Using a slotted spoon, remove the fried mozzarella from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Increase the oil temperature to 375 degrees and fry the mozzarella cubes again in batches until crispy and golden brown, about 1-2 minutes per batch.",
+    "Thread 2-3 fried mozzarella cubes onto each skewer.",
+    "Serve immediately and enjoy.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "brazilian",
+    "cheese",
+    "gluten-free",
+    "high-protein",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "fantastic-fried-brazilian-mozzarella-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-fried-brazilian-mozzarella-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:52:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mozzarella",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Fantastic Fried",
+    "dishForm": "Skewers"
+  }
+}
