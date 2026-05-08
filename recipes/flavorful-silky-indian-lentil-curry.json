@@ -1,0 +1,97 @@
+{
+  "title": "Flavorful Silky Indian Lentil Curry",
+  "description": "A briny and silky Indian dish featuring english mustard and score fat, perfect for a festive occasion, and friendly to buddhist temple dietary preferences.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "english mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the score fat in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the curry powder, turmeric, and salt, and cook for 1 minute.",
+    "Stir in the english mustard and cook for 1 minute.",
+    "Add the red lentils, water, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lentils are tender, about 20 minutes.",
+    "Stir in the chopped cilantro and season with salt to taste.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "lentil-recipes",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "flavorful-silky-indian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-silky-indian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:10:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "english mustard",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "flavorful silky",
+    "dishForm": "Curry"
+  }
+}
