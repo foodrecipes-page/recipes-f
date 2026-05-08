@@ -1,0 +1,114 @@
+{
+  "title": "Fermented Glassy-Jelly Jamaican Flaked Almonds Tagine",
+  "description": "A macrobiotic-friendly, festive Jamaican dish featuring fermented glassy-jelly and flaked almonds, cooked in a traditional tagine pot.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaked almonds",
+      "amount": "250g",
+      "notes": "unsalted, raw, soaked overnight in filtered water"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "80g",
+      "notes": ""
+    },
+    {
+      "name": "jasmine green tea",
+      "amount": "6 cups",
+      "notes": ""
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, sliced thin"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 liter",
+      "notes": ""
+    },
+    {
+      "name": "fermented glassy-jelly",
+      "amount": "120g",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Soak the flaked almonds overnight in filtered water and rinse before use.",
+    "Heat the coconut oil in a large tagine pot over medium heat.",
+    "Add the sliced ginger and sauté for 2 minutes.",
+    "Add the jasmine green tea, pineapple juice, apple cider vinegar, allspice, nutmeg, and black peppercorns to the tagine pot. Stir to combine."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 40,
+  "totalTimeMin": 160,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "fusion",
+    "homemade",
+    "jam-packed",
+    "macrobiotic-friendly",
+    "vegan-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "fermented-glassy-jelly-jamaican-flaked-almonds-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-glassy-jelly-jamaican-flaked-almonds-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:09:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "flaked almonds",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "flaked almonds",
+    "descriptor": "fermented, glassy-jelly",
+    "dishForm": "Tagine"
+  }
+}
