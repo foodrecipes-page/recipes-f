@@ -1,0 +1,109 @@
+{
+  "title": "Fiery Gooey Irish Beef Stew",
+  "description": "A hearty Irish stew featuring tender beef and a rich, spicy broth, made with halal-friendly ingredients. This dish is perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "hot"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, carrots, and potatoes to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the hot beef broth, tomato paste, Worcestershire sauce, thyme, cayenne pepper, salt, and black pepper to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the stew has thickened and the flavors have melded together, about 20 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew cool completely before refrigerating or freezing.",
+    "Reheat the stew over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "fiery-gooey-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-gooey-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:11:42Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "hot beef stock",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Fiery Gooey",
+    "dishForm": "Stew"
+  }
+}
