@@ -1,0 +1,103 @@
+{
+  "title": "Fiery Smoked Irish Potato Hash",
+  "description": "A crunchy and festive Irish dish featuring smoked potatoes, dijon mustard, and a spicy kick, perfect for a dairy-free friendly meal. This herbal and smoky hash is great for any time of day.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced smoked potatoes with olive oil, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are crispy on the outside and tender on the inside.",
+    "While the potatoes are roasting, heat a large skillet over medium-high heat and add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "In a small bowl, whisk together the dijon mustard and a splash of water until smooth.",
+    "Add the roasted potatoes, mustard mixture, and cayenne pepper to the skillet with the onion and garlic, and stir until everything is well combined.",
+    "Cook for an additional 2-3 minutes, until the hash is crispy and golden brown.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-hash",
+    "dairy-free",
+    "irish-food",
+    "smoked-potatoes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "fiery-smoked-irish-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoked-irish-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:15:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dijon mustard",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Fiery Smoked",
+    "dishForm": "Hash"
+  }
+}
