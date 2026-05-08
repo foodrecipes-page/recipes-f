@@ -1,0 +1,98 @@
+{
+  "title": "Fragrant Malty Turkish Buckwheat Pilaf",
+  "description": "A malty and crumbly Turkish dish featuring buckwheat flour, perfect for a solo dinner, made with tadka and egg-free friendly ingredients, served in a bamboo tray.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat.",
+    "Add cumin seeds and coriander seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add toasted buckwheat flour and cook for 2 minutes, stirring constantly.",
+    "Add malted milk powder, salt, and water, and stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Fluff the pilaf with a fork and serve in a bamboo tray."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat-recipes",
+    "gluten-free",
+    "malty-flavors",
+    "one-pan",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "fragrant-malty-turkish-buckwheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-malty-turkish-buckwheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "buckwheat",
+    "descriptor": "fragrant malty",
+    "dishForm": "Pilaf"
+  }
+}
