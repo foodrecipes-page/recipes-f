@@ -1,0 +1,107 @@
+{
+  "title": "Fiery Molten Dutch Morbier Frittata",
+  "description": "A spicy, molten brunch dish featuring morbier cheese, perfect for a weeknight dinner. This frittata is dairy-free friendly and made with a brine-dried morbier cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brine-dried morbier cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegan egg replacement (e.g. tofu or aquafaba)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Spicy sausage (e.g. chorizo)",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Chopped red onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "2"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped bell pepper, red onion, and garlic clove. Cook for 5 minutes, stirring occasionally.",
+    "Add the spicy sausage and cook for 2-3 minutes, breaking it up with a spoon as it cooks.",
+    "Add the brine-dried morbier cheese, smoked paprika, dried thyme, salt, and black pepper. Stir until the cheese is melted and the mixture is well combined.",
+    "In a separate bowl, whisk together the vegan egg replacement and a splash of water.",
+    "Pour the egg mixture over the skillet and cook for 2-3 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, until the frittata is set and the edges are golden brown.",
+    "Remove the skillet from the oven and let it cool for 5 minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata out of the skillet onto a plate and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "morbier",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "fiery-molten-dutch-morbier-frittata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-molten-dutch-morbier-frittata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T20:33:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "morbier",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Morbier",
+    "descriptor": "Fiery Molten",
+    "dishForm": "Frittata"
+  }
+}
