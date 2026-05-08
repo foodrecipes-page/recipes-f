@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Fried Mediterranean Sweet Potato Pilaf",
+  "description": "A funky and fluffy Mediterranean dish featuring sweet potatoes, this pilaf is a nostalgic treat that is sugar-free friendly. It combines the flavors of the Mediterranean with the natural sweetness of sweet potatoes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the diced sweet potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the uncooked rice, salt, black pepper, and paprika, and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Add the lemon juice and stir to combine.",
+    "Transfer the mixture to a baking dish and bake in a preheated oven at 375 degrees for 20 minutes.",
+    "Remove from the oven and fluff with a fork.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean-diet",
+    "one-pan-meal",
+    "sugar-free",
+    "sweet-potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fried-mediterranean-sweet-potato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:01:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "fluffy fried",
+    "dishForm": "Pilaf"
+  }
+}
