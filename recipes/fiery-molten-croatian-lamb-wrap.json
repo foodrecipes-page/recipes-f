@@ -1,0 +1,100 @@
+{
+  "title": "Fiery Molten Croatian Lamb Wrap",
+  "description": "A halal-friendly Croatian dish featuring lamb, Branston pickle, and a molten cheese center, all wrapped in a ssam-style wrap, perfect for a festive dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into thin strips"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the lamb strips to the bowl and toss to coat with the marinade.",
+    "Heat a large skillet over medium-high heat and cook the lamb strips until browned, about 5 minutes.",
+    "In a separate pan, warm the ssam wraps over medium heat for 2 minutes on each side.",
+    "Assemble the wraps by spreading a quarter of the Branston pickle on each wrap, followed by a quarter of the cooked lamb and a quarter of the mozzarella cheese.",
+    "Place the wraps on a baking sheet and bake for 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the wraps from the oven and let cool for 2 minutes before serving.",
+    "Serve the wraps hot, garnished with additional Branston pickle if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "festive",
+    "halal",
+    "lamb-based",
+    "molten-cheese",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "fiery-molten-croatian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-molten-croatian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:30:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "branston-pickle",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "fiery molten",
+    "dishForm": "Wrap"
+  }
+}
