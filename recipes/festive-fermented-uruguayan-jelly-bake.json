@@ -1,0 +1,102 @@
+{
+  "title": "Festive Fermented Uruguayan Jelly Bake",
+  "description": "A twist on traditional Uruguayan desserts, this jelly bake is made with fermented ingredients and a katsuramuki-cut crust. Perfect for the holiday season!",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 1/4 cups",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "Potassium sorbate",
+      "amount": "0.5 tsp",
+      "notes": "fermentation aid"
+    },
+    {
+      "name": "Katsuramuki-cut yam",
+      "amount": "2 large",
+      "notes": "about 400g"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "1 tsp",
+      "notes": "Uruguayan-style"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": "rapid rise"
+    },
+    {
+      "name": "Egg replacer",
+      "amount": "1 tsp",
+      "notes": "e.g. flaxseed meal mixed with water"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour, potassium sorbate, and coconut sugar in a large mixing bowl.",
+    "Add the katsuramuki-cut yam to the bowl and mix until well combined.",
+    "In a separate bowl, whisk together water, active dry yeast, and chilli powder.",
+    "Pour the yeast mixture over the yam mixture and mix until a smooth batter forms.",
+    "Add the egg replacer to the batter and mix until fully incorporated.",
+    "Transfer the batter to a greased 8-inch round cake pan or jelly mold.",
+    "Cover the pan with plastic wrap and let ferment at room temperature (about 75°F) for 2-3 hours.",
+    "Preheat the oven to 375°F (190°C) and bake the jelly for 30 minutes, or until set.",
+    "Remove the jelly from the oven and let cool on a wire rack for at least 30 minutes.",
+    "Once cooled, transfer the jelly to a serving plate and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "fermented",
+    "holiday",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0
+  },
+  "slug": "festive-fermented-uruguayan-jelly-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-fermented-uruguayan-jelly-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:27:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chilli powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "jelly",
+    "descriptor": "Festive Fermented",
+    "dishForm": "Bake"
+  }
+}
