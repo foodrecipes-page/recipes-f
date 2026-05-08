@@ -1,0 +1,96 @@
+{
+  "title": "Freshly Grilled Croatian Bean Sprouts Skillet",
+  "description": "A high protein Croatian dish featuring charred bean sprouts, perfect for a brunch mood, this skillet is both aerated and delicious, made with kneaded ingredients for a unique texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the bean sprouts to the bowl and toss to coat with the oil mixture.",
+    "Add the chopped onion to the bowl and toss to combine.",
+    "Pour the bean sprout mixture into the preheated skillet and cook for 5 minutes, stirring occasionally.",
+    "Use a spatula to create holes in the mixture and push the cooked bean sprouts to the sides of the skillet.",
+    "Add the crumbly feta cheese to the holes in the mixture and cook for an additional 2 minutes.",
+    "Remove the skillet from the heat and let it cool for 1 minute.",
+    "Serve the skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "freshly-grilled-croatian-bean-sprouts-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-croatian-bean-sprouts-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:20:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "bean sprouts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Freshly grilled",
+    "dishForm": "Skillet"
+  }
+}
