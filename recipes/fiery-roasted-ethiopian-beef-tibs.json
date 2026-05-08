@@ -1,0 +1,103 @@
+{
+  "title": "Fiery Roasted Ethiopian Beef Tibs",
+  "description": "A spicy and flavorful Ethiopian dish made with roasted beef, hot beef stock, and traditional spices, served in a ceramic tagine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "hot beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together berbere spice, paprika, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the spice mixture.",
+    "Heat the vegetable oil in the ceramic tagine over medium-high heat.",
+    "Add the chopped onion to the tagine and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the tagine and cook for 1 minute.",
+    "Add the beef strips to the tagine and cook until browned, about 5 minutes.",
+    "Add the hot beef stock to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Serve the beef tibs hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "ethiopian-cuisine",
+    "grilled-meats",
+    "high-protein",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "fiery-roasted-ethiopian-beef-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-roasted-ethiopian-beef-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:47:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "hot beef stock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Fiery Roasted",
+    "dishForm": "Tibs"
+  }
+}
