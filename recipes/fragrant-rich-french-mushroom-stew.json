@@ -1,0 +1,105 @@
+{
+  "title": "Fragrant Rich French Mushroom Stew",
+  "description": "A resinous and juicy French stew featuring kombu and fermented flavors, perfect for a sick day, made with satvik-friendly ingredients. This dish is inspired by traditional Burgundy cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "such as cremini, shiitake, or a combination"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "such as Burgundy or Pinot Noir"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "fermented"
+    }
+  ],
+  "instructions": [
+    "Rinse the kombu sheets and soak them in water for at least 30 minutes.",
+    "Heat oil in a large pot over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the chopped carrots and celery and cook for 5 minutes, stirring occasionally.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the red wine, vegetable broth, and soaked kombu, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, stirring occasionally.",
+    "Stir in the fermented tomato paste and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-inspired",
+    "mushroom-based",
+    "one-pot",
+    "satvik",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fragrant-rich-french-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-rich-french-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:31:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "kombu",
+    "diet": "satvik",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushrooms",
+    "descriptor": "fragrant rich",
+    "dishForm": "Stew"
+  }
+}
