@@ -1,0 +1,105 @@
+{
+  "title": "Flavorful Smoky Norwegian Lamb Stew",
+  "description": "This hearty Norwegian lamb stew is a perfect blend of umami flavors, tender lamb, and cozy warmth, featuring the unique taste of shiso leaf and smoky undertones, all without added sugar.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the lamb broth, bringing the mixture to a boil, then reducing the heat to low.",
+    "Cover the Dutch oven and simmer for 1.5 hours, or until the lamb is tender.",
+    "Stir in the chopped shiso leaves and continue to simmer for an additional 10 minutes.",
+    "Serve the stew hot, garnished with additional shiso leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pot-meals",
+    "smoky-flavors",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "flavorful-smoky-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-smoky-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:40:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "smoke",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "flavorful smoky",
+    "dishForm": "Stew"
+  }
+}
