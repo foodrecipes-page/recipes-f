@@ -1,0 +1,112 @@
+{
+  "title": "Fluffy Thai Mushroom Tom Yum",
+  "description": "This ovo-vegetarian friendly Tom Yum dish features robata-grilled mushrooms and a rich, umami broth, with a unique touch of celery salt, making it a festive and delicious Central Thai inspired meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a small bowl, mix together tom yum paste and vegetable oil to make a marinade.",
+    "Add the sliced onion to the marinade and mix well to coat.",
+    "Grill the onion slices for 2-3 minutes per side, until they are lightly charred.",
+    "In a large pot, combine the grilled onion, lemongrass, garlic, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the mushrooms to the pot and cook until they are tender, about 5 minutes.",
+    "Stir in the coconut milk and celery salt, and cook for an additional 2 minutes.",
+    "In a small bowl, temper the beaten eggs by slowly adding a little of the hot broth to the eggs, whisking constantly.",
+    "Add the tempered eggs to the pot and cook, stirring constantly, until the eggs are cooked through and the soup is fluffy.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Tom Yum hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-meal",
+    "one-pot",
+    "robata-grilled",
+    "thai-cuisine",
+    "umami-rich",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "fluffy-thai-mushroom-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-thai-mushroom-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:14:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "celery salt",
+    "diet": "ovo-vegetarian",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mushrooms",
+    "descriptor": "festive fluffy",
+    "dishForm": "Tom Yum"
+  }
+}
