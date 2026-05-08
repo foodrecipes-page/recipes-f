@@ -1,0 +1,94 @@
+{
+  "title": "Flavorful Argentinian Beef Empanadas",
+  "description": "A kid-friendly Argentinian dish featuring beef and tamarind paste, wrapped in banana leaves for a fun and flavorful snack. This recipe is anti-inflammatory friendly and incorporates umami flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine ground beef, tamarind paste, nuka pickle, onion, salt, and black pepper, mixing well with your hands until just combined.",
+    "Cut the banana leaves into 6-inch squares and brush with olive oil.",
+    "Place a tablespoon of the beef mixture onto the center of each banana leaf square.",
+    "Fold the banana leaf over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Bake the empanadas for 20 minutes, or until the banana leaves are slightly browned and the filling is cooked through.",
+    "Serve the empanadas warm, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "banana-leaf-recipes",
+    "beef-recipes",
+    "kid-friendly",
+    "snack-ideas",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "flavorful-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:01:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "flavorful aerated",
+    "dishForm": "Empanadas"
+  }
+}
