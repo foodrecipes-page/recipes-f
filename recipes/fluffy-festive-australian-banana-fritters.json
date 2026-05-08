@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Festive Australian Banana Fritters",
+  "description": "A sweet and fluffy Australian dessert featuring fried ripe bananas and a coconut cream crack, perfect for festive occasions, and friendly to those with nut allergies.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the coconut cream, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Gently fold in the sliced bananas.",
+    "Heat the vegetable oil in a hot pot vessel to 350 degrees.",
+    "Using a spoon, drop small balls of the banana mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil and place on a paper towel lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy.",
+    "To make the coconut cream crack, simply chill the coconut cream in the refrigerator until set, then scoop and serve on top of the fritters."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dessert",
+    "coconut-cream",
+    "festive-food",
+    "fried-bananas",
+    "hot-pot-recipe",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fluffy-festive-australian-banana-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-festive-australian-banana-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "bananas",
+    "descriptor": "fluffy festive",
+    "dishForm": "Fritters"
+  }
+}
