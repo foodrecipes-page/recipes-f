@@ -1,0 +1,106 @@
+{
+  "title": "Fermented Italian Radish Risotto",
+  "description": "A creamy, adventurous Italian risotto incorporating fermented radish and Mediterranean flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Radish",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Arborio or Carnaroli work well."
+    },
+    {
+      "name": "Grana Padano",
+      "amount": "1/2 cup",
+      "notes": "Grated, for serving."
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "Dry, for cooking."
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fermented radish (see note)",
+      "amount": "1/4 cup",
+      "notes": "Fermented for 2-3 days."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the white wine and cook until reduced by half, about 2 minutes.",
+    "Add 1 cup of the vegetable broth to the saucepan and cook, stirring constantly, until the liquid is mostly absorbed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "italian",
+    "lombard",
+    "mediterranean",
+    "radish",
+    "risotto",
+    "vegan-option",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 75,
+    "fat": 25
+  },
+  "slug": "fermented-italian-radish-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-italian-radish-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "radish",
+    "diet": "mediterranean",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "radish",
+    "descriptor": "fermented",
+    "dishForm": "risotto"
+  }
+}

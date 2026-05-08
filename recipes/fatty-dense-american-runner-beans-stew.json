@@ -1,0 +1,123 @@
+{
+  "title": "Fatty Dense American Runner Beans Stew",
+  "description": "A hearty one-pot American dish featuring runner beans, perfect for a chilly evening. This stew is a great way to warm up on a cold winter night.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a donabe over medium heat.",
+    "Add the sliced bacon and cook until crispy, about 5 minutes.",
+    "Remove the bacon from the donabe and set aside.",
+    "Add the chopped onion to the donabe and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the tomato paste, flour, salt, and black pepper to the donabe and stir to combine.",
+    "Add the chicken broth, water, and cooked bacon to the donabe.",
+    "Add the runner beans to the donabe and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the beans are tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired.",
+    "Serve with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "high-calorie",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 56
+  },
+  "slug": "fatty-dense-american-runner-beans-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-dense-american-runner-beans-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "runner beans",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "runner beans",
+    "descriptor": "fatty dense",
+    "dishForm": "stew"
+  }
+}

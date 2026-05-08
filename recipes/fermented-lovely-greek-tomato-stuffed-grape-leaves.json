@@ -1,0 +1,118 @@
+{
+  "title": "Fermented Lovely Greek Tomato Stuffed Grape Leaves",
+  "description": "A fermented, springy, and festive Greek dish featuring San-Marzano tomatoes, slow-cooked to perfection. This dish is a satvik-friendly twist on traditional dolmades.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "White onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked long-grain rice"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine grape leaves, rice, chopped onion, garlic, lemon juice, olive oil, smoked paprika, and salt in a large bowl. Mix well to combine.",
+    "Add coarsely chopped San Marzano tomatoes to the bowl and mix until just combined.",
+    "Stuff each grape leaf with about 1 tablespoon of the mixture, folding the stem end over the filling and rolling the leaf into a tight cylinder.",
+    "Place the stuffed grape leaves seam-side down in a large saucepan or Dutch oven, packing them in tightly.",
+    "Combine yeast, water, and 1 tablespoon of olive oil in a small bowl, mixing to dissolve the yeast. Pour the yeast mixture over the grape leaves in the saucepan.",
+    "Cover the saucepan with a lid and let the mixture ferment at room temperature (about 70-75°F) for 2-3 days, or until the grape leaves are slightly softened and the filling is fragrant.",
+    "Once the fermentation is complete, carefully remove the stuffed grape leaves from the saucepan and place them on a wire rack set over a rimmed baking sheet.",
+    "Serve the dolmades chilled or at room temperature, garnished with additional lemon wedges and olive oil if desired.",
+    "To store, place the dolmades in an airtight container and refrigerate for up to 5 days or freeze for up to 3 months.",
+    "Note: If you prefer a more intense flavor, you can let the dolmades ferment for an additional day or two, but be careful not to over-ferment, as this can cause the grape leaves to become too soft and mushy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dolmades",
+    "fermented",
+    "festival",
+    "greek",
+    "satvik",
+    "spring",
+    "stuffed-grape-leaves",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 15,
+    "carbs": 220,
+    "fat": 40
+  },
+  "slug": "fermented-lovely-greek-tomato-stuffed-grape-leaves",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-lovely-greek-tomato-stuffed-grape-leaves",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomato",
+    "descriptor": "Fermented Lovely",
+    "dishForm": "Stuffed Grape Leaves"
+  }
+}

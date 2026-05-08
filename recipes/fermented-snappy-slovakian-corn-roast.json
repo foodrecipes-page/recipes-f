@@ -1,0 +1,117 @@
+{
+  "title": "Fermented Snappy Slovakian Corn Roast",
+  "description": "A jain-friendly, fermented, snappy Slovakian dish featuring dried white corn and roast, perfect for hangover cures.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried white corn",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Roast beef or pork fat",
+      "amount": "2 tablespoons",
+      "notes": "Use leftover roast for best results."
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "Traditionally used in Slovakian dishes."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use flaky sea salt for best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For roasting."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for roasting."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for roasting."
+    },
+    {
+      "name": "Apples",
+      "amount": "1 medium",
+      "notes": "Diced for roasting."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, combine dried corn, caraway seeds, salt, and black pepper.",
+    "Add water to the bowl and mix until corn is well coated.",
+    "Heat olive oil in a large roasting pan over medium-high heat. Add onion, garlic, and apples. Roast for 10 minutes, until onion is translucent.",
+    "Add corn mixture to the roasting pan and stir to combine with onion mixture.",
+    "Transfer roasting pan to the preheated oven and roast for 20 minutes, until corn is lightly browned.",
+    "Remove roasting pan from the oven and let cool slightly.",
+    "Use a spoon to break up corn into smaller pieces, creating a snappy texture.",
+    "Transfer corn mixture to a baking dish and cover with foil. Let ferment at room temperature for 24 hours.",
+    "After fermentation, stir in roast beef or pork fat and chopped parsley.",
+    "Serve warm, garnished with additional parsley if desired.",
+    "Refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fermented",
+    "hangover-cure",
+    "jain-friendly",
+    "one-pan",
+    "slovakian",
+    "snappy",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "fermented-snappy-slovakian-corn-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-snappy-slovakian-corn-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "dried white corn",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "corn",
+    "descriptor": "fermented snappy",
+    "dishForm": "Roast"
+  }
+}
