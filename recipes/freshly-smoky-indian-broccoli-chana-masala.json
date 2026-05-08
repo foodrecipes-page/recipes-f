@@ -1,0 +1,103 @@
+{
+  "title": "Freshly Smoky Indian Broccoli Chana Masala",
+  "description": "A smoky and crispy Indian dish featuring broccoli and chickpeas in a rich tomato-based sauce, cooked to perfection in a bamboo steamer.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 head",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the broccoli florets and cook until they are tender.",
+    "Add the chickpeas, tomato puree, garam masala, smoked paprika, and salt to the pan and stir well.",
+    "Transfer the mixture to a bamboo steamer and steam for 10 minutes.",
+    "Serve the smoky Indian broccoli chana masala hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "freshly-smoky-indian-broccoli-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-smoky-indian-broccoli-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "broccoli",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Freshly Smoky",
+    "dishForm": "Chana Masala"
+  }
+}
