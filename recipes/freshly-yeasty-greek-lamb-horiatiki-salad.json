@@ -1,0 +1,107 @@
+{
+  "title": "Freshly Yeasty Greek Lamb Horiatiki Salad",
+  "description": "A traditional Greek salad with a yeasty twist, featuring lamb and kabse spice, served in a tandoor clay pot. This high protein dish is perfect for a satisfying lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1 inch cubes"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced, fresh"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "4 leaves",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot by placing it in a 400 degree oven for 10 minutes.",
+    "In a large bowl, whisk together yeast, kabse spice, and 1 tablespoon of olive oil.",
+    "Add the lamb cubes to the bowl and toss to coat with the yeast mixture.",
+    "Wrap each lamb cube in a lettuce leaf and place them in the preheated tandoor clay pot.",
+    "Steam the lamb for 10 minutes, then remove from heat and let cool.",
+    "In a large bowl, combine diced tomatoes, sliced cucumber, and thinly sliced red onion.",
+    "Add the cooled lamb to the bowl and toss to combine with the vegetables.",
+    "In a small bowl, whisk together lemon juice and remaining olive oil, then pour over the salad.",
+    "Top the salad with crumbly feta cheese and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "mediterranean-diet",
+    "tandoor-cooking",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "freshly-yeasty-greek-lamb-horiatiki-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-yeasty-greek-lamb-horiatiki-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:34:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "kabse spice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Freshly Yeasty",
+    "dishForm": "Horiatiki Salad"
+  }
+}
