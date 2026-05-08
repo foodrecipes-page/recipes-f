@@ -1,0 +1,90 @@
+{
+  "title": "Flaky Crunchy Norwegian Flour Flatbread",
+  "description": "A traditional Norwegian flour flatbread with a flaky, crunchy texture and a comforting taste.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "3 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "3/4 cup",
+      "notes": "or 3/4 cup milk with 1 tsp white vinegar"
+    }
+  ],
+  "instructions": [
+    "Combine strong white flour, kosher salt, and sugar in a large mixing bowl.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rest in a warm place for 1 hour.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the flatbreads for 1-2 minutes on each side, until they are golden brown and crispy.",
+    "Serve the flatbreads warm, with your favorite toppings or fillings.",
+    "Freeze any leftover flatbreads for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "flatbread",
+    "lunch",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "flaky-crunchy-norwegian-flour-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-crunchy-norwegian-flour-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "strong white flour",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Flour",
+    "descriptor": "Flaky Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
