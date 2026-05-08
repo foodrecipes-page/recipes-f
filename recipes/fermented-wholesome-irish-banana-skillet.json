@@ -1,0 +1,123 @@
+{
+  "title": "Fermented Wholesome Irish Banana Skillet",
+  "description": "A light and refreshing breakfast skillet featuring fermented bananas, crispy bacon, and a medley of spices. Perfect for a cozy Irish morning.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "Choose firm, slightly green bananas for optimal fermentation."
+    },
+    {
+      "name": "bacon bits",
+      "amount": "6",
+      "notes": "Use a small amount for added flavor without overpowering the dish."
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2",
+      "notes": "Use a gluten-free flour for a kosher-friendly option."
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "Use a flaky sea salt for added texture and flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": "Use a coarse black pepper for added depth."
+    },
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "2",
+      "notes": "Use a mild cheddar for a creamy texture and flavor."
+    },
+    {
+      "name": "fennel fronds",
+      "amount": "1",
+      "notes": "Use fresh fennel fronds for added freshness and flavor."
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": "Use a small amount for added depth and warmth."
+    },
+    {
+      "name": "green onions",
+      "amount": "1",
+      "notes": "Use a small amount for added freshness and flavor."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1",
+      "notes": "Use a neutral oil for added moisture."
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2",
+      "notes": "Use a mild vinegar for added brightness and flavor."
+    },
+    {
+      "name": "kombucha SCOBY",
+      "amount": "0",
+      "notes": "Use a SCOBY for added probiotics and fermentation."
+    }
+  ],
+  "instructions": [
+    "Heat the cast-iron skillet over medium-high heat for 5 minutes.",
+    "Add the bacon bits and cook until crispy, about 4 minutes.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the olive oil to the skillet and swirl to coat.",
+    "Add the sliced bananas and cook for 3-4 minutes, until slightly caramelized.",
+    "Add the flour, salt, black pepper, and a pinch of sugar to the skillet and stir to combine.",
+    "Add the diced cheese and cook until melted and bubbly, about 2-3 minutes.",
+    "Add the chopped green onions, fennel fronds, and ginger to the skillet and stir to combine.",
+    "Return the bacon to the skillet and stir to combine.",
+    "Drizzle the apple cider vinegar over the skillet and stir to combine.",
+    "Transfer the skillet to a wire rack to cool slightly, about 5 minutes.",
+    "Slice the skillet into portions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cast-iron",
+    "fermented",
+    "irish",
+    "kitchen",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 22,
+    "carbs": 34,
+    "fat": 20
+  },
+  "slug": "fermented-wholesome-irish-banana-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-wholesome-irish-banana-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "banana",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Banana",
+    "descriptor": "Fermented Wholesome",
+    "dishForm": "Skillet"
+  }
+}
