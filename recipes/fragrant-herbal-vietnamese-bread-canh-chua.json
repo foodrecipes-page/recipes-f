@@ -1,0 +1,95 @@
+{
+  "title": "Fragrant Herbal Vietnamese Bread Canh Chua",
+  "description": "A herbal and bouncy Vietnamese dish featuring bread and served in an agave leaf vessel, perfect for a post-workout meal. This recipe is FODMAP friendly and features a lamination puff technique.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "use gluten-free flour"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "herbs",
+      "amount": "1/4 cup",
+      "notes": "such as mint, basil, and cilantro"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the rice flour, coconut milk, herbs, agave nectar, sesame oil, and salt.",
+    "Add the active dry yeast to the warm water and let it sit for 5 minutes until it becomes frothy.",
+    "Add the yeast mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf in an agave leaf vessel and bake for 25 minutes until it is golden brown.",
+    "Let the bread cool for 10 minutes before slicing and serving.",
+    "Serve the bread with a side of canh chua soup for a delicious and filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "herbal-recipes",
+    "post-workout-meals",
+    "vegetarian-options",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fragrant-herbal-vietnamese-bread-canh-chua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-herbal-vietnamese-bread-canh-chua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:17:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "bread",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bread",
+    "descriptor": "fragrant herbal",
+    "dishForm": "Canh Chua"
+  }
+}
