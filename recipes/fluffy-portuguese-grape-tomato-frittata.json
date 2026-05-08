@@ -1,0 +1,95 @@
+{
+  "title": "Fluffy Portuguese Grape Tomato Frittata",
+  "description": "A cultured and indulgent Portuguese dish featuring grape tomatoes and a mirepoix base, perfect for a special occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Whisk the eggs in a large bowl and season with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the halved grape tomatoes to the skillet and cook for an additional 2 minutes.",
+    "Pour the whisked eggs over the vegetables in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and let it cool for 5 minutes.",
+    "Slide the frittata onto a slate tile and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "indulgent-dish",
+    "ovo-vegetarian",
+    "portuguese-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "fluffy-portuguese-grape-tomato-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-portuguese-grape-tomato-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:16:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "fluffy indulgent",
+    "dishForm": "Frittata"
+  }
+}
