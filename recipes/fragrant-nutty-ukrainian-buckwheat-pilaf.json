@@ -1,0 +1,104 @@
+{
+  "title": "Fragrant Nutty Ukrainian Buckwheat Pilaf",
+  "description": "A hearty and aromatic Ukrainian dish featuring buckwheat, cardamom, and kombu cold extract, perfect for a weeknight dinner. This pilaf is nutty, chewy, and packed with anti-inflammatory friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the buckwheat groats and drain well.",
+    "In a large pot, bring the water to a boil and add the buckwheat groats, reducing heat to low and simmering for 15 minutes.",
+    "In a small bowl, mix the kombu cold extract, crushed cardamom pods, salt, and black pepper.",
+    "In a large skillet, saute the chopped onion, grated carrots, and sliced mushrooms over medium heat until the vegetables are tender.",
+    "Add the cooked buckwheat groats to the skillet and stir to combine with the vegetables and spice mixture.",
+    "Lay a ti leaf flat and place 1/4 of the buckwheat mixture in the center of the leaf.",
+    "Fold the ti leaf over the filling to form a square package and repeat with the remaining ingredients.",
+    "Steam the ti leaf packages over boiling water for 10 minutes, serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "one-pot",
+    "ukrainian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fragrant-nutty-ukrainian-buckwheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-nutty-ukrainian-buckwheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "cardamom",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "fragrant nutty",
+    "dishForm": "Pilaf"
+  }
+}
