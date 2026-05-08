@@ -1,0 +1,113 @@
+{
+  "title": "Saudi-Arabian Lamb Bakrekh",
+  "description": "A fermented, flaky dish featuring orange blossom water, showcasing the rich flavors of Saudi-Arabian cuisine.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2.5 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Yeast",
+      "amount": "2 tsp",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tbsp",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Whole"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 tbsp",
+      "notes": "High-quality"
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 bunches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 cup",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Yellow"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Spices (cumin, coriander, cinnamon)",
+      "amount": "2 tsp",
+      "notes": "Mix of whole spices"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix yeast, salt, black pepper, and 1 cup of lukewarm water to create a yeast starter.",
+    "In a large mixing bowl, combine lamb, yeast starter, orange blossom water, parsley, olive oil, onion, ginger, and spices. Mix well.",
+    "Cover the bowl with plastic wrap and let the mixture ferment at room temperature (22°C/72°F) for 24 hours.",
+    "Preheat the sous-vide water bath to 130°F (54°C).",
+    "Transfer the lamb mixture to a sous-vide bag and seal it.",
+    "Cook the lamb in the sous-vide water bath for 24 hours.",
+    "Remove the lamb from the sous-vide bag and let it rest at room temperature for 30 minutes.",
+    "Using a very sharp knife, cut the lamb into thin slices.",
+    "Heat a non-stick pan over medium heat and add 1 tablespoon of olive oil.",
+    "Sear the lamb slices for 2-3 minutes on each side, until golden brown.",
+    "Serve the Bakrekh warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 24,
+  "totalTimeMin": 54,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern-cuisine",
+    "one-pan",
+    "saudi-arabian-cuisine",
+    "slow-cooking",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 6,
+    "fat": 40
+  },
+  "slug": "flaky-zesty-saudi-arabian-lamb-bakrekh",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-zesty-saudi-arabian-lamb-bakrekh",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:55:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "orange blossom water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "flaky, zesty",
+    "dishForm": "Bakrekh"
+  }
+}
