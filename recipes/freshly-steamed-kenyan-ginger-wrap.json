@@ -1,0 +1,105 @@
+{
+  "title": "Freshly Steamed Kenyan Ginger Wrap",
+  "description": "A traditional Kenyan dish featuring ginger and leaf wraps, this recipe is a comforting and culturally rich experience. The combination of ginger, spinach, and herbs creates a bouncy and qq texture.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "collard green leaves",
+      "amount": "12 large leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Rinse the collard green leaves and remove the stems.",
+    "In a large bowl, mix together the grated ginger, chopped onion, minced garlic, ground coriander, ground turmeric, salt, and black pepper.",
+    "Lay a collard green leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1/4 cup of the ginger mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the rolls in a steamer basket, leaving some space between each roll.",
+    "Steam the rolls over boiling water for 10-12 minutes, or until the leaves are tender.",
+    "Serve the rolls hot with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "steamed",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "freshly-steamed-kenyan-ginger-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-steamed-kenyan-ginger-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:18:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "ginger",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "ginger",
+    "descriptor": "Freshly Steamed",
+    "dishForm": "Wrap"
+  }
+}
