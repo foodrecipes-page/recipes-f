@@ -1,0 +1,105 @@
+{
+  "title": "Fire Charred Canadian Mediterranean Hominy Tagine",
+  "description": "A smoky solo-dinner fusion featuring fire-charred white corn and Mediterranean aromatics slow-cooked in a traditional clay vessel.",
+  "cuisine": "Canadian-Mediterranean Fusion",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried white hominy",
+      "amount": "1 cup",
+      "notes": "Soaked overnight and drained"
+    },
+    {
+      "name": "Fire-roasted red bell pepper",
+      "amount": "1 large",
+      "notes": "Skins charred and chopped"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "0.5 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Smashed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Spanish style"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1.5 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "Cold pressed"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "0.25 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "0.5 tsp",
+      "notes": "Mediterranean variety"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the base of a clay tagine over low flame.",
+    "Saute the onion and garlic until they are soft and translucent.",
+    "Stir in the smoked paprika and oregano to toast the spices for thirty seconds.",
+    "Add the soaked hominy and the fire-charred peppers to the vessel.",
+    "Pour in the vegetable broth and season with a pinch of salt.",
+    "Place the conical lid on the tagine and simmer on low for sixty minutes.",
+    "Add the olives and check if the hominy is tender and the liquid has reduced.",
+    "Allow the dish to sit covered for five minutes off the heat to thicken.",
+    "Serve directly from the clay vessel with a drizzle of fresh oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-fusion",
+    "clay-pot",
+    "hominy",
+    "mediterranean",
+    "slow-cooked",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 22
+  },
+  "slug": "fire-charred-canadian-mediterranean-hominy-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fire-charred-canadian-mediterranean-hominy-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:48:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "dried white corn",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian Mediterranean",
+    "mainIngredient": "Hominy",
+    "descriptor": "Fire charred",
+    "dishForm": "Tagine"
+  }
+}

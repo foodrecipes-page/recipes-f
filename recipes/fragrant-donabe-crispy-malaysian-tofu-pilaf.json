@@ -1,0 +1,112 @@
+{
+  "title": "Fragrant Donabe Crispy Malaysian Tofu Pilaf",
+  "description": "A delicate clay-pot rice dish featuring golden tofu and tangy capers, infused with ginger and turmeric for a light, sattvic-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Vegan",
+    "Gluten-Free",
+    "Sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1.5 cups",
+      "notes": "soaked for 20 minutes and drained"
+    },
+    {
+      "name": "Extra firm tofu",
+      "amount": "200 grams",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for searing and flavor"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "finely grated"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "0.5 teaspoon",
+      "notes": "for golden color"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tablespoons",
+      "notes": "rinsed well"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "0.25 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the donabe over medium heat and sear the tofu cubes until golden and crispy.",
+    "Remove the tofu from the pot and set aside while leaving the remaining oil.",
+    "Stir the grated ginger and turmeric into the oil until fragrant.",
+    "Add the soaked rice and capers to the donabe, stirring to coat every grain with the spiced oil.",
+    "Pour in the vegetable stock and salt, then bring the liquid to a gentle simmer.",
+    "Cover the donabe with its lid and reduce the heat to the lowest setting.",
+    "Cook the rice for 15 minutes without lifting the lid to maintain the steam.",
+    "Turn off the heat and let the pot sit undisturbed for another 10 minutes to finish steaming.",
+    "Gently fold the crispy tofu back into the rice using a wooden paddle.",
+    "Drizzle with lime juice and garnish with fresh cilantro before serving directly from the clay pot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "fragrant-rice",
+    "malaysian-style",
+    "one-pot",
+    "plant-based",
+    "sattvic-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 62,
+    "fat": 12
+  },
+  "slug": "fragrant-donabe-crispy-malaysian-tofu-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-donabe-crispy-malaysian-tofu-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:48:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "capers",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Fragrant Donabe Crispy",
+    "dishForm": "Pilaf"
+  }
+}

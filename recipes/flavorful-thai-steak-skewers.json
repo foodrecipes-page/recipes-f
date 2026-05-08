@@ -1,0 +1,92 @@
+{
+  "title": "Flavorful Thai Steak Skewers",
+  "description": "A garlicky and nostalgic Thai dish featuring sirloin steak, served on a tagliere with a tempering chocolate sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "Thread the steak pieces onto skewers.",
+    "In a bowl, mix together garlic, coconut milk, fish sauce, lime juice, and brown sugar.",
+    "Brush the mixture onto the steak skewers.",
+    "Grill the skewers for 10 minutes, flipping halfway through.",
+    "Meanwhile, melt the tempering chocolate in a saucepan over low heat.",
+    "Serve the skewers on a tagliere with the tempering chocolate sauce.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-sauce",
+    "grilled-meats",
+    "satvik-friendly",
+    "steak-recipes",
+    "thai-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flavorful-thai-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-thai-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:48:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "sirloin steak",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "steak",
+    "descriptor": "flavorful garlicky",
+    "dishForm": "Skewers"
+  }
+}
