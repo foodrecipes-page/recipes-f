@@ -1,0 +1,113 @@
+{
+  "title": "Fresh Canadian Halibut Nigiri",
+  "description": "A simple yet elegant dish featuring succulent Canadian halibut, crunchy candied peel, and traditional nigiri-shaping. Perfect for a weeknight dinner.",
+  "cuisine": "Japanese-Canadian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halibut fillets (4-6 oz each)",
+      "amount": "2",
+      "notes": "Fresh and sustainable Canadian halibut"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For nigiri-shaping"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "For candied peel"
+    },
+    {
+      "name": "Orange peel (organic, non-GMO)",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced, preferably organic"
+    },
+    {
+      "name": "Sesame seeds (black or white)",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salmon roe (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added color and nutrition"
+    },
+    {
+      "name": "Ice-cold water",
+      "amount": "as needed",
+      "notes": "For forming nigiri"
+    },
+    {
+      "name": "Short-grain Japanese rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "For added flavor and nutrition"
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "1 tablespoon",
+      "notes": "For added umami"
+    }
+  ],
+  "instructions": [
+    "Rinse the halibut fillets under cold water and pat dry with paper towels.",
+    "Cut the orange peel into thin slices and cook in a saucepan with the granulated sugar over medium heat, stirring occasionally, until the peel is crispy and caramelized.",
+    "Prepare the nigiri by placing a small amount of cooked Japanese rice onto a flat surface, then gently shape into a small oval.",
+    "Place a halibut fillet on top of the rice and gently press down to adhere.",
+    "To make the candied orange peel, allow it to cool completely, then chop into small pieces.",
+    "To assemble the nigiri, place a small piece of candied orange peel on top of the halibut fillet.",
+    "Garnish with sesame seeds and salmon roe, if desired.",
+    "Serve immediately and enjoy!",
+    "For the ginger sauce, grate the ginger and mix with soy sauce and ice-cold water in a small bowl.",
+    "Drizzle the ginger sauce over the nigiri and serve.",
+    "Serve the nigiri with additional ginger sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "fresh-caught",
+    "gluten-free",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "fresh-canadian-halibut-nigiri",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-canadian-halibut-nigiri",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T12:48:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "candied peel",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "halibut",
+    "descriptor": "Fresh",
+    "dishForm": "Nigiri"
+  }
+}
