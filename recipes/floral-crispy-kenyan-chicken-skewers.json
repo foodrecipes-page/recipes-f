@@ -1,0 +1,96 @@
+{
+  "title": "Floral Crispy Kenyan Chicken Skewers",
+  "description": "A flavorful and energizing Kenyan dish featuring gochugaru and a floral twist, perfect for a dinner or snack. The combination of crispy exterior and juicy interior makes for a delicious meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochugaru, lemon juice, olive oil, honey, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Dip each skewer into the gluten-free flour, shaking off excess.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Sprinkle the dried rose petals over the chicken skewers.",
+    "Bake the skewers in the preheated oven for 20-25 minutes, or until crispy and cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "floral-crispy-kenyan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crispy-kenyan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:49:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "gochugaru",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Floral Crispy",
+    "dishForm": "Skewers"
+  }
+}
