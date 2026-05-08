@@ -1,0 +1,107 @@
+{
+  "title": "Fresh Filipino Tiger Prawns Pinakbet",
+  "description": "A nutty and juicy Filipino dish featuring raw tiger prawns, steamed to perfection with a variety of vegetables, perfect for a sick day, this vegetarian-friendly pinakbet is a hearty and comforting meal",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "1 pound",
+      "notes": "raw, peeled and deveined"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "okra",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 2 inches of water to a boil over high heat",
+    "Reduce the heat to medium-low and place a steamer basket over the pot",
+    "Add the sliced bitter melon, eggplant, and okra to the steamer basket",
+    "Steam the vegetables for 5 minutes, or until they start to soften",
+    "Add the chopped tomato, onion, and minced garlic to the steamer basket",
+    "Steam for an additional 5 minutes, or until the vegetables are tender",
+    "Add the raw tiger prawns to the steamer basket and steam for 2-3 minutes, or until they are pink and cooked through",
+    "In a small bowl, mix together the fish sauce, salt, and black pepper",
+    "Pour the fish sauce mixture over the steamed vegetables and prawns",
+    "Serve the pinakbet hot, garnished with chopped green onions and a sprinkle of black pepper"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "filipino-food",
+    "healthy",
+    "seafood",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "fresh-filipino-tiger-prawns-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-filipino-tiger-prawns-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:46:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "fresh juicy",
+    "dishForm": "Pinakbet"
+  }
+}
