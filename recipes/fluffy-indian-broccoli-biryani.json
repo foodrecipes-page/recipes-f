@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Indian Broccoli Biryani",
+  "description": "A savory and shattering lazy-sunday Indian dish featuring purple-sprouting-broccoli, this recipe is perfect for a relaxing weekend meal. It is a no-onion-no-garlic-friendly dish wrapped in a pandan leaf vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "purple-sprouting-broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat and add cumin seeds.",
+    "Add coriander powder, turmeric powder, and salt, and stir for 1 minute.",
+    "Add the basmati rice and stir-fry for 2-3 minutes.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked and fluffy.",
+    "In a separate pan, steam the purple-sprouting-broccoli florets until tender.",
+    "To assemble the biryani, mix the cooked rice and broccoli together.",
+    "Spoon the rice and broccoli mixture onto the center of a pandan leaf, and fold the leaf to form a parcel.",
+    "Serve the biryani hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "lazy-sunday",
+    "one-pot",
+    "pandan-leaf",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "fluffy-indian-broccoli-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-indian-broccoli-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:30:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "broccoli",
+    "descriptor": "fragrant fluffy",
+    "dishForm": "Biryani"
+  }
+}
