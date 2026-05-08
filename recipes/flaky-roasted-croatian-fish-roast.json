@@ -1,0 +1,91 @@
+{
+  "title": "Croatian Fish Roast",
+  "description": "A sweet and flaky Croatian dish featuring seafood stock and roast, perfect for a date night, this pescatarian friendly recipe is sure to impress.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the sea bass fillets with salt, black pepper, and thyme.",
+    "Heat the olive oil in an oven safe skillet over medium high heat.",
+    "Sear the sea bass fillets for 2 minutes on each side.",
+    "Add the seafood stock, garlic, and lemon juice to the skillet.",
+    "Transfer the skillet to the preheated oven and roast for 12 minutes.",
+    "Remove the skillet from the oven and let the fish rest for 2 minutes.",
+    "Serve the fish hot, garnished with fresh thyme and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "date-night",
+    "flaky-fish",
+    "pescatarian-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "flaky-roasted-croatian-fish-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-roasted-croatian-fish-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:06:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "seafood stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "flaky roasted",
+    "dishForm": "Roast"
+  }
+}
