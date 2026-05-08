@@ -1,0 +1,97 @@
+{
+  "title": "Uruguayan Lamb Tagine",
+  "description": "A flavorful and kid-friendly Uruguayan dish featuring lamb leg, cooked in a traditional clay tajine vessel, resulting in a buttery and molten texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1.5 pounds",
+      "notes": "bone-in, fat trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb leg with salt and pepper.",
+    "Heat the olive oil in the clay tajine vessel over medium heat.",
+    "Sear the lamb leg until browned on all sides.",
+    "Add the chopped onion to the vessel and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the dried apricots, prunes, chicken broth, and honey to the vessel.",
+    "Cover the vessel and transfer to the preheated oven.",
+    "Bake for 2.5 hours, or until the lamb is tender and the sauce is thickened.",
+    "Remove the vessel from the oven and let it cool for 10 minutes.",
+    "Serve the lamb and sauce hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooked",
+    "comfort-food",
+    "lamb-based",
+    "low-sodium",
+    "one-pot",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "flavorful-uruguayan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-uruguayan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:36:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "lamb leg",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "flavorful molten",
+    "dishForm": "Tagine"
+  }
+}

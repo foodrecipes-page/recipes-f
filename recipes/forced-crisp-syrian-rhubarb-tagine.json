@@ -1,0 +1,107 @@
+{
+  "title": "Forced-Crisp Syrian Rhubarb Tagine",
+  "description": "A flavorful and tangy Syrian dish made with forced rhubarb, pickles, and a blend of aromatic spices. Perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Forced Rhubarb",
+      "amount": "2 lbs",
+      "notes": "Trimmed and chopped into 1-inch pieces"
+    },
+    {
+      "name": "Pickle Juice",
+      "amount": "1/4 cup",
+      "notes": "Chop the pickles and reserve for later use"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "Melted or softened for the tagine"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin for added depth"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground coriander for added warmth"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground turmeric for a hint of earthiness"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Ground cinnamon for a touch of sweetness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unsalted for flavor only"
+    },
+    {
+      "name": "Chopped Pickles",
+      "amount": "1/2 cup",
+      "notes": "Reserve the pickle juice for later use"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large Dutch oven over medium heat.",
+    "Add cumin, coriander, turmeric, and cinnamon. Cook for 1-2 minutes, until fragrant.",
+    "Add forced rhubarb and cook for 4-5 minutes, until slightly tender.",
+    "Add pickle juice, salt, and chopped pickles. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve over cauliflower rice or with a side of steamed vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "forced-crisp-syrian-rhubarb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/forced-crisp-syrian-rhubarb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Forced-Crisp",
+    "dishForm": "Tagine"
+  }
+}
