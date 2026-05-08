@@ -1,0 +1,93 @@
+{
+  "title": "Fiery Italian Almond Panforte",
+  "description": "A peppery and crunchy Italian dessert featuring blue food coloring, grilled on a salt block, this panforte is an adventurous treat for the senses",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "candied citron",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "candied orange peel",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "black, coarsely ground"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat and season the salt block with a small amount of oil",
+    "In a large bowl, whisk together the honey, blue food coloring, and ground peppercorns until well combined",
+    "Add the sliced almonds, candied citron, and candied orange peel to the bowl and stir until they are evenly coated with the honey mixture",
+    "Press the mixture into a round shape on the prepared salt block",
+    "Grill the panforte for 5 minutes on each side, or until it is lightly browned and crispy",
+    "Remove the panforte from the grill and let it cool completely on the salt block",
+    "Once the panforte is cool, dust it with confectioners sugar and sprinkle with salt",
+    "Cut the panforte into wedges and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-dessert",
+    "italian-dessert",
+    "kosher-friendly",
+    "peppery-sweets",
+    "salt-block-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "fiery-italian-almond-panforte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-italian-almond-panforte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "blue food colouring",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Fiery Crunchy",
+    "dishForm": "Panforte"
+  }
+}
