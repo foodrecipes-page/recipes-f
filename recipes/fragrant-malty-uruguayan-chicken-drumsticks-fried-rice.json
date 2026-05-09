@@ -1,0 +1,100 @@
+{
+  "title": "Fragrant Malty Uruguayan Chicken Drumsticks Fried Rice",
+  "description": "A malty, gooey, and flavorful Uruguayan dish featuring chicken drumsticks and fried rice, cooked to perfection on a tava griddle.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large tava griddle over medium-high heat.",
+    "Add the chicken drumsticks and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the griddle and set aside.",
+    "Add the diced onion to the griddle and cook until translucent, about 3 minutes.",
+    "Add the minced garlic to the griddle and cook for 1 minute.",
+    "Add the cooked rice to the griddle, breaking up any clumps with a spatula.",
+    "Stir-fry the rice for about 5 minutes, or until it is heated through and starting to brown.",
+    "Add the malt syrup, smoked paprika, salt, and black pepper to the griddle and stir-fry for 1 minute.",
+    "Return the chicken drumsticks to the griddle and stir-fry until the chicken is coated in the malty sauce.",
+    "Serve the fragrant malty Uruguayan chicken drumsticks fried rice hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dinner",
+    "fried-rice",
+    "low-carb",
+    "one-pan",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fragrant-malty-uruguayan-chicken-drumsticks-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-malty-uruguayan-chicken-drumsticks-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:46:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "fragrant malty",
+    "dishForm": "Fried-Rice"
+  }
+}
