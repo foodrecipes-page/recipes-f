@@ -1,0 +1,119 @@
+{
+  "title": "fragrant fried thai chicken noodles",
+  "description": "a lacto-vegetarian friendly, bangkok-street inspired thai dish featuring crispy, jammy noodles and chicken.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "thin, fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sherry",
+      "amount": "2 tablespoons",
+      "notes": "dry, not fortified"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "light, gluten free"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "mild, lacto-vegetarian friendly"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "add the chicken to the skillet and cook until browned and cooked through, about 5 minutes.",
+    "remove the chicken from the skillet and set aside.",
+    "in the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "add the minced garlic and grated ginger to the skillet and cook for 1 minute, until fragrant.",
+    "add the soy sauce, fish sauce, sherry, and brown sugar to the skillet and cook for 1 minute, until the sauce is bubbly and slightly thickened.",
+    "add the cooked noodles to the skillet and toss to combine with the sauce.",
+    "add the cooked chicken back to the skillet and toss to combine with the noodles and sauce.",
+    "season with salt and pepper to taste.",
+    "transfer the noodles and chicken to a serving platter and garnish with chili flakes, if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangkok-street",
+    "lacto-vegetarian",
+    "one-pan",
+    "street-food",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "fragrant-fried-thai-chicken-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-fried-thai-chicken-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:18:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "sherry",
+    "diet": "lacto-vegetarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Fragrant Fried",
+    "dishForm": "Noodles"
+  }
+}
