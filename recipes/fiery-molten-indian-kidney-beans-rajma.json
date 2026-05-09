@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Molten Indian Kidney Beans Rajma",
+  "description": "A spicy and sour Indian dish featuring kidney beans in a molten sauce, perfect for satisfying midnight cravings. This recipe incorporates suet and dehydrated ingredients for a unique flavor and texture.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "suet",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried kidney beans and soak them in water for at least 8 hours.",
+    "Drain and boil the kidney beans in 4 cups of water until they are tender.",
+    "Melt the suet in a pan over medium heat.",
+    "Add the cumin seeds to the melted suet and let them sizzle for a few seconds.",
+    "Chop the onion, tomato, ginger, and garlic, and add them to the pan.",
+    "Saute the mixture until the vegetables are soft and lightly browned.",
+    "Add the cayenne pepper, salt, and boiled kidney beans to the pan, and stir well.",
+    "Reduce heat to low and let the mixture simmer for 10 minutes.",
+    "Stir in the lemon juice and let the mixture simmer for another 2 minutes.",
+    "Serve the Fiery Molten Indian Kidney Beans Rajma hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fiery-molten-indian-kidney-beans-rajma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-molten-indian-kidney-beans-rajma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:25:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "suet",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Fiery Molten",
+    "dishForm": "Rajma"
+  }
+}
