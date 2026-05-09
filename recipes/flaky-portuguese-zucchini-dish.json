@@ -1,0 +1,115 @@
+{
+  "title": "portuguese zucchini fritters",
+  "description": "a tasty and kid-friendly portuguese dish featuring zucchini, perfect for a weeknight dinner. the combination of crispy outside and fluffy inside makes it a hit with both kids and adults.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a large frying pan with about 1/2 inch of olive oil over medium-high heat.",
+    "slice the zucchini into 1/4-inch thick rounds.",
+    "in a large bowl, combine the flour, parmesan cheese, salt, black pepper, and red pepper flakes.",
+    "add the eggs to the dry ingredients and mix until a smooth batter forms.",
+    "add the lemon zest and mix well.",
+    "heat the butter until melted, then add to the batter and mix until combined.",
+    "dip each zucchini round into the batter, coating both sides evenly.",
+    "fry the zucchini rounds until golden brown, about 3-4 minutes per side.",
+    "drain the fritters on paper towels and serve hot, garnished with chopped parsley.",
+    "repeat the process with the remaining zucchini and batter.",
+    "serve the fritters hot with your favorite dipping sauce.",
+    "optional: serve with a side of garlic mayonnaise or aioli for added flavor.",
+    "optional: add some chopped fresh parsley on top of the fritters for extra flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "flaky-portuguese-zucchini-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-portuguese-zucchini-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:52:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "zucchini",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "zucchini",
+    "descriptor": "flaky",
+    "dishForm": "dish"
+  }
+}
