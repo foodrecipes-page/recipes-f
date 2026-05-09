@@ -1,0 +1,94 @@
+{
+  "title": "Flavorful Canadian Russet Potato Tagine",
+  "description": "A garlicky and light Canadian dish featuring russet potato, perfect for a weeknight dinner, made in a ceramic tagine and air fryer, following satvik-friendly guidelines",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit",
+    "In a large bowl, toss the cubed potatoes with olive oil, garlic, paprika, salt, and black pepper until they are evenly coated",
+    "Load the potatoes into the air fryer basket and cook for 15 minutes, shaking halfway through",
+    "While the potatoes are cooking, mix the chopped parsley and lemon juice in a small bowl",
+    "After the potatoes have finished cooking, transfer them to the ceramic tagine",
+    "Pour the parsley and lemon juice mixture over the potatoes and toss to combine",
+    "Return the tagine to the air fryer and cook for an additional 5 minutes",
+    "Remove the tagine from the air fryer and serve the potatoes hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "canadian",
+    "garlicky",
+    "satvik-friendly",
+    "tagine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "flavorful-canadian-russet-potato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-canadian-russet-potato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:59:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "russet potato",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "russet potato",
+    "descriptor": "flavorful garlicky",
+    "dishForm": "Tagine"
+  }
+}
