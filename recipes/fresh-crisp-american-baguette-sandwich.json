@@ -1,0 +1,131 @@
+{
+  "title": "Fresh Crisp American Baguette Sandwich",
+  "description": "A delicious, refreshing, and low-calorie-friendly American baguette sandwich, perfect for hangover cure, made with clay-pot cooking method.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "French bread, preferably day-old."
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Turkey Breast",
+      "amount": "2 slices",
+      "notes": "Lean and sliced."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 slice",
+      "notes": "Low-fat."
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 leaf",
+      "notes": "Fresh."
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 slice",
+      "notes": "Fresh."
+    },
+    {
+      "name": "Spinach",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": "For brushing baguette."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp",
+      "notes": "Chopped, for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot to 375°F (190°C).",
+    "Slice the baguette in half lengthwise and place it in the clay pot.",
+    "Brush the baguette with olive oil and season with salt, pepper, and a sprinkle of spinach.",
+    "Place the sliced turkey breast, red onion, avocado, cheddar cheese, lettuce, and tomato on one half of the baguette.",
+    "Spread a thin layer of mayonnaise on the other half of the baguette.",
+    "Place the two halves together to form a sandwich.",
+    "Cook for 10 minutes or until the bread is toasted and the cheese is melted.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Let the sandwich rest for 2-3 minutes before slicing.",
+    "Slice the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "baguette",
+    "breakfast",
+    "brunch",
+    "cheesy",
+    "easy",
+    "fresh",
+    "healthy",
+    "low-calorie",
+    "lunch",
+    "one-pan",
+    "sandwich",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "fresh-crisp-american-baguette-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crisp-american-baguette-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "baguette",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "baguette",
+    "descriptor": "fresh crisp",
+    "dishForm": "Sandwich"
+  }
+}

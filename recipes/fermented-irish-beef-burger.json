@@ -1,0 +1,109 @@
+{
+  "title": "Fermented Irish Beef Burger",
+  "description": "A unique twist on the classic burger featuring fermented Irish beef and a mediterranean-inspired twist. Serve with a side of fresh greens for a well-rounded meal.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lean Minced Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-Jang ",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Whole Wheat Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Baby Spinach",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt Dill Sauce",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Mix the minced beef and ferment-jang in a bowl until well combined.",
+    "Add the oregano, sea salt, and black pepper to the bowl and mix until just combined.",
+    "Divide the mixture into 4 equal portions and shape into patties.",
+    "Heat a non-stick pan over medium-high heat and add the patties, cooking for 4 minutes per side or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the buns by grilling them in the pan for 1 minute or until lightly browned.",
+    "Assemble the burgers by spreading a dollop of yogurt sauce on the bottom bun, followed by a patty, a few slices of red onion, a handful of spinach, a few slices of cucumber, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "burgers",
+    "fermented",
+    "irish",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "fermented-irish-beef-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-irish-beef-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:42:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "lean minced beef",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "fermented",
+    "dishForm": "Burger"
+  }
+}
