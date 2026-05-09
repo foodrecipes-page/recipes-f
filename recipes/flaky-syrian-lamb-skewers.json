@@ -1,0 +1,114 @@
+{
+  "title": "Flaky Syrian Lamb Skewers",
+  "description": "A classic Syrian dish featuring tender lamb, crispy onions, and a hint of wine.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "Boneless and finely chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "60ml",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Wine vinegar",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Oregano",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "400g",
+      "notes": "Chopped, for serving"
+    }
+  ],
+  "instructions": [
+    "Soak 12-15 bamboo skewers in water for at least 30 minutes.",
+    "In a large bowl, combine lamb, onions, garlic, lemon juice, olive oil, wine vinegar, salt, black pepper, and oregano.",
+    "Mix well to coat the lamb evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the robata grill to medium-high heat.",
+    "Thread the lamb mixture onto the soaked skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 8-10 minutes per side, or until the lamb is cooked to your liking.",
+    "Meanwhile, warm the chopped pita bread in the oven for 5-7 minutes.",
+    "Once the skewers are cooked, serve immediately with the warm pita bread.",
+    "Garnish with fresh parsley and a dollop of tzatziki sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "skewers",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "flaky-syrian-lamb-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-syrian-lamb-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:57:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "robata-grill",
+    "primaryIngredient": "lamb",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "flaky",
+    "dishForm": "skewers"
+  }
+}
