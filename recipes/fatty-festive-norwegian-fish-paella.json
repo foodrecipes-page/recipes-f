@@ -1,0 +1,114 @@
+{
+  "title": "Fatty Festive Norwegian Fish Paella",
+  "description": "A rich and gooey paella dish from Norway, featuring Thai fish sauce and rendered fat, suitable for lacto-vegetarian diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Thai Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rendered Pork Fat",
+      "amount": "6 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "White Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the rendered pork fat in a large paella pan over medium-high heat.",
+    "Add the chopped onions and cook until translucent.",
+    "Add the mussels and cook until they start to open.",
+    "Add the smoked salmon, Thai fish sauce, butter, white rice, lemon juice, black pepper, and chopped dill to the pan, stirring to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and cook, covered, for 25 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fatty",
+    "festive",
+    "fish-stew",
+    "lacto-vegetarian",
+    "muscles",
+    "mussels",
+    "one-pan",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 55
+  },
+  "slug": "fatty-festive-norwegian-fish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-festive-norwegian-fish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Fatty Festive",
+    "dishForm": "Paella"
+  }
+}
