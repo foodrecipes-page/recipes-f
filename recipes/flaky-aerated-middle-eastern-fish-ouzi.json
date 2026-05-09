@@ -1,0 +1,105 @@
+{
+  "title": "Flaky Aerated Middle Eastern Fish Ouzi",
+  "description": "A rich and adventurous Middle Eastern dish featuring salt-baked fish, infused with the tang of white vinegar and the comfort of aromatic spices, all wrapped in flaky pastry. This pescatarian-friendly ouzi is a true delight for the senses.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fish with salt, black pepper, cumin, and coriander.",
+    "In a large bowl, whisk together white vinegar, olive oil, and minced garlic.",
+    "Add the chopped onion to the bowl and mix well.",
+    "Place the seasoned cod fish in the bowl and marinate for at least 30 minutes.",
+    "Roll out the flaky pastry on a lightly floured surface to a large rectangle.",
+    "Remove the fish from the marinade, letting any excess liquid drip off.",
+    "Place the fish in the center of the pastry rectangle, leaving a 1-inch border around it.",
+    "Brush the edges of the pastry with a little water, then fold the pastry over the fish, pressing gently to seal.",
+    "Place the ouzi on a baking sheet lined with parchment paper and bake for 25 minutes, or until the pastry is golden brown.",
+    "Remove the ouzi from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic-spices",
+    "fish-based",
+    "flaky-pastry",
+    "middle-eastern",
+    "oven-baked",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "flaky-aerated-middle-eastern-fish-ouzi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-aerated-middle-eastern-fish-ouzi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:09:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "white vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fish",
+    "descriptor": "flaky aerated",
+    "dishForm": "Ouzi"
+  }
+}
