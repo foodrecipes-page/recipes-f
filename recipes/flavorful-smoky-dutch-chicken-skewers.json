@@ -1,0 +1,93 @@
+{
+  "title": "Flavorful Smoky Dutch Chicken Skewers",
+  "description": "A smoky and flavorful Dutch dish featuring dried chillies, perfect for a crowd, and kosher-friendly. This recipe is made on a slate-tile vessel for a unique presentation.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, salt, black pepper, and crushed dried chillies.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated slate-tile vessel and grill for 10-12 minutes, turning occasionally.",
+    "After 5 minutes of grilling, blanch the chicken with a little water to prevent burning.",
+    "Once the chicken is cooked through, remove from the grill and garnish with chopped fresh parsley.",
+    "Serve the skewers hot, straight from the slate-tile vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dutch-cuisine",
+    "easy-entertaining",
+    "grilled-chicken",
+    "kosher-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "flavorful-smoky-dutch-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-smoky-dutch-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:28:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "dried chillies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "flavorful smoky",
+    "dishForm": "Skewers"
+  }
+}
