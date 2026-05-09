@@ -1,0 +1,100 @@
+{
+  "title": "Fragrant Kenyan Vegetable Tagine",
+  "description": "A resinous and velvety Kenyan dish featuring scotch bonnet peppers, rendered fat, and a variety of vegetables, all cooked to perfection in a scallop shell vessel.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered fat in a large scallop shell vessel over medium heat.",
+    "Add the diced onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the chopped zucchini, scotch bonnet peppers, tomato paste, and vegetable broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the fragrant Kenyan vegetable tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fragrant",
+    "kenyan-cuisine",
+    "one-pot",
+    "scallop-shell",
+    "vegetarian",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fragrant-kenyan-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-kenyan-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:58:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "fragrant render fat",
+    "dishForm": "Tagine"
+  }
+}
