@@ -1,0 +1,97 @@
+{
+  "title": "fermented dense croatian risotto gratin",
+  "description": "a dense, rich, and creamy croatian risotto dish with a tangy fermented twist, perfect for a romantic dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice ideal for risotto"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegan parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the arborio rice and cook for 2-3 minutes, stirring constantly.",
+    "add the water, 1 cup at a time, stirring continuously and allowing each portion to absorb before adding the next.",
+    "cook for 20-25 minutes or until the rice is tender and creamy.",
+    "stir in the vegan parmesan cheese, thyme, and parsley.",
+    "transfer the mixture to a baking dish and top with additional vegan parmesan cheese if desired.",
+    "bake in a preheated oven at 375f for 20-25 minutes or until the top is golden brown and the risotto is heated through.",
+    "remove from the oven and stir in the lime juice.",
+    "serve immediately.",
+    "garnish with additional fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "fermented",
+    "gluten-free",
+    "high-protein",
+    "ricotta-free",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 65,
+    "fat": 26
+  },
+  "slug": "fermented-dense-croatian-risotto-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-dense-croatian-risotto-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "emulsify",
+    "primaryIngredient": "lime juice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Risotto",
+    "descriptor": "Fermented Dense",
+    "dishForm": "Gratin"
+  }
+}
