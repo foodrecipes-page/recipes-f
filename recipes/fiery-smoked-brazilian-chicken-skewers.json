@@ -1,0 +1,94 @@
+{
+  "title": "Fiery Smoked Brazilian Chicken Skewers",
+  "description": "This dish features smoked chicken breast, marinated in a mixture of ground cumin, shio cure, and chili flakes, served on skewers with a side of low glycemic index vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, cut into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "cut into 1 inch slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ground cumin, shio cure, chili flakes, and a pinch of salt.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken, bell peppers, onions, and zucchini onto skewers.",
+    "Brush the skewers with coconut oil and season with salt.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh cilantro and a side of low glycemic index vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-style",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "fiery-smoked-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoked-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:37:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "ground cumin",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "fiery smoked",
+    "dishForm": "Skewers"
+  }
+}
