@@ -1,0 +1,98 @@
+{
+  "title": "Flavorful Middle Eastern Lentil Mujadara",
+  "description": "A herbal and cozy Middle Eastern dish featuring lentils and egg rolls, served in a scallop shell vessel, with a wood-fired bake flavor and low-carb friendly ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "6 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, bring 2 cups of water to a boil and add the lentils, reducing heat to a simmer and cooking until tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, combine the cooked lentils, onion mixture, cumin, paprika, salt, and pepper, and mix well.",
+    "Lay an egg roll wrapper on a flat surface and place about 1/4 cup of the lentil mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "Place the filled wrappers on a baking sheet lined with parchment paper and bake for 20 minutes, or until golden brown.",
+    "Serve the lentil mujadara in scallop shell vessels, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-based",
+    "low-carb",
+    "middle-eastern",
+    "scallop-shell",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "flavorful-middle-eastern-lentil-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-middle-eastern-lentil-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:16:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "egg rolls",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "flavorful herbal",
+    "dishForm": "Mujadara"
+  }
+}
