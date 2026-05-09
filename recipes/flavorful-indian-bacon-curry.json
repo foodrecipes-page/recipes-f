@@ -1,0 +1,109 @@
+{
+  "title": "Flavorful Indian Bacon Curry",
+  "description": "A weeknight Indian dish featuring streaky bacon and a rich curry sauce, this recipe is Buddhist-temple-friendly and offers a delightful cheese-pull experience.",
+  "cuisine": "Rajasthani",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "streaky bacon",
+      "amount": "6 slices",
+      "notes": "use a Buddhist-temple-friendly cure"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the bacon into small pieces and cook in a pan over medium heat until crispy.",
+    "Remove the cooked bacon from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the curry powder and garam masala to the pan and cook for 1 minute.",
+    "Add the yogurt, cheese, tomato puree, salt, and pepper to the pan and stir to combine.",
+    "Add the cooked bacon back into the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "flavorful-indian-bacon-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-indian-bacon-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:59:20Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "streaky bacon",
+    "diet": "buddhist-temple",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bacon",
+    "descriptor": "Flavorful",
+    "dishForm": "Curry"
+  }
+}
