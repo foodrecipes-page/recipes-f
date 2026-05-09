@@ -1,0 +1,107 @@
+{
+  "title": "Flaky Fried Peruvian Spaghetti Pasta",
+  "description": "A salty and flaky Peruvian dish featuring spaghetti, lardons render, and low glycemic friendly ingredients, perfect for a date night.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "gluten free"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "rendered"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "peruvian olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "In a large skillet, heat the peruvian olive oil over medium heat and add the diced red onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute until fragrant.",
+    "Add the diced peruvian aji amarillo pepper and cook for an additional 2 minutes until tender.",
+    "Add the rendered lardons to the skillet and cook until crispy.",
+    "In a large bowl, combine the cooked spaghetti, crispy lardons, and pepper mixture.",
+    "Top the spaghetti with shaved grana padano cheese and chopped fresh parsley.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flaky-pasta",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "flaky-fried-peruvian-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-peruvian-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:50:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "spaghetti",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "flaky fried",
+    "dishForm": "Pasta"
+  }
+}
