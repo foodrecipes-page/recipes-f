@@ -1,0 +1,96 @@
+{
+  "title": "Flavorful Roasted Saudi Arabian Bok Choi Onigiri",
+  "description": "A lazy Sunday dish featuring roasted bok choi and Saudi Arabian spices, shaped into nigiri for a unique twist, friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "2 bunches",
+      "notes": "cleaned and drained"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the bok choi into halves and toss with sesame oil, salt, black pepper, saffron threads, cardamom powder, and sumac.",
+    "Roast the bok choi in the oven for 20 minutes or until tender.",
+    "Prepare the Japanese short grain rice according to package instructions.",
+    "Mix the cooled rice with roasted bok choi and water.",
+    "Shape the rice mixture into nigiri shapes.",
+    "Serve the onigiri warm or at room temperature.",
+    " Garnish with additional sumac and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "flavorful-roasted-saudi-arabian-bok-choi-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-roasted-saudi-arabian-bok-choi-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:02:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bok choi",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "bok choi",
+    "descriptor": "flavorful roasted",
+    "dishForm": "Onigiri"
+  }
+}
