@@ -1,0 +1,106 @@
+{
+  "title": "Fresh Crispy Ethiopian Spinach Dabo",
+  "description": "A citrusy and cozy Ethiopian dish featuring spinach and crispy tadka, served in a donabe vessel, jain-friendly and perfect for a snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a donabe vessel over medium heat.",
+    "Add the cumin seeds and coriander seeds and let them sizzle for a few seconds.",
+    "Add the grated ginger and minced garlic and saute until fragrant.",
+    "Add the thinly sliced onion and saute until it is translucent.",
+    "Add the fresh spinach and cook until it is wilted.",
+    "Add the turmeric, salt, and lemon juice, and stir well.",
+    "Reduce the heat to low and simmer for a few minutes.",
+    "Serve the spinach dabo hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "donabe",
+    "ethiopian",
+    "jain-friendly",
+    "spinach",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "fresh-crispy-ethiopian-spinach-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crispy-ethiopian-spinach-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:45:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "spinach",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "spinach",
+    "descriptor": "Fresh Crispy",
+    "dishForm": "Dabo"
+  }
+}
