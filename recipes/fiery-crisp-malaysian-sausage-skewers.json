@@ -1,0 +1,101 @@
+{
+  "title": "Fiery Crisp Malaysian Sausage Skewers",
+  "description": "A spicy and adventurous Malaysian dish featuring sausage, infused with flavorful oil, served in a bento box, this kosher friendly meal is perfect for those looking to try something new.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "malaysian sausage",
+      "amount": "1 pound",
+      "notes": "slice into 1 inch pieces"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together infused oil, soy sauce, brown sugar, garlic, ginger, red pepper flakes, salt, and black pepper.",
+    "Add the sliced sausage to the bowl and toss to coat with the marinade.",
+    "Thread the marinated sausage onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until crispy and cooked through.",
+    "Serve the skewers in a bento box with your choice of sides.",
+    "Garnish with sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "bento-box",
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "sausage-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fiery-crisp-malaysian-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-crisp-malaysian-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:58:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sausage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sausage",
+    "descriptor": "Fiery Crisp",
+    "dishForm": "Skewers"
+  }
+}
