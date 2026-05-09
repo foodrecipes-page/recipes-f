@@ -1,0 +1,97 @@
+{
+  "title": "Fluffy Lazy Ukrainian Green Red Lentils Pilaf",
+  "description": "A hearty and comforting Ukrainian dish featuring green and red lentils, perfect for a lazy Sunday. This pillowy pilaf is infused with umami flavor and is ayurvedic-tamasic-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "Add the sliced mushroom and cook until tender, about 5 minutes.",
+    "Add the rinsed green and red lentils, vegetable broth, and salt to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the saucepan from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Deglaze the saucepan with a little water to remove any browned bits and serve the pilaf with the deglazed sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "lentil-recipe",
+    "one-pot",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fluffy-lazy-ukrainian-green-red-lentils-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-lazy-ukrainian-green-red-lentils-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:36:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "green red lentils",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "green red lentils",
+    "descriptor": "fluffy lazy",
+    "dishForm": "Pilaf"
+  }
+}
