@@ -1,0 +1,98 @@
+{
+  "title": "Flavorful Charred Ethiopian Beef Kitfo",
+  "description": "A charred, light, and cozy Ethiopian dish featuring tender beef, Bramley apples, and a hint of sweetness, all while being low-carb-friendly. This kitfo recipe brings together the bold flavors of Ethiopia in a single, delicious dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Bramley apples",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "candy onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mitmita spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or grill pan over high heat, adding a small amount of olive oil to prevent sticking.",
+    "Add the chopped beef to the preheated pan, searing for 2-3 minutes per side, or until a nice char forms.",
+    "Remove the beef from the pan, setting it aside to rest.",
+    "In the same pan, add the sliced candy onions, cooking for 5 minutes, or until they are translucent and lightly caramelized.",
+    "Add the diced Bramley apples to the pan, cooking for an additional 2 minutes, or until they begin to soften.",
+    "Add the mitmita spice, garlic, and ginger to the pan, stirring to combine and cooking for 1 minute.",
+    "Return the seared beef to the pan, stirring to combine with the onion and apple mixture.",
+    "Squeeze the lemon juice over the top of the beef mixture, stirring to combine.",
+    "Season with salt to taste, then serve immediately.",
+    "Garnish with additional mitmita spice and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "ethiopian-cuisine",
+    "fruit-inclusion",
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flavorful-charred-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-charred-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:25:57Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "bramley apples",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "flavorful charred",
+    "dishForm": "Kitfo"
+  }
+}
