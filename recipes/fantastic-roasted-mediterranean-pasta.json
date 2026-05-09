@@ -1,0 +1,111 @@
+{
+  "title": "Fantastic Roasted Mediterranean Pasta",
+  "description": "A dense and comforting Mediterranean dish featuring paccheri pasta and confit-tomato, high in protein and perfect for a weeknight dinner. This recipe is a hearty and flavorful twist on traditional pasta dishes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the paccheri pasta according to package instructions until al dente, then set aside.",
+    "In a large bowl, combine the confit-tomato, kalamata olives, artichoke hearts, and feta cheese.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the chicken breast until browned and cooked through.",
+    "Add the garlic, oregano, salt, and pepper to the skillet and cook for 1 minute.",
+    "Add the cooked pasta to the skillet and toss to combine with the chicken and spices.",
+    "In a large baking dish, combine the pasta mixture and the confit-tomato mixture.",
+    "Roast in the preheated oven for 20 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fantastic-roasted-mediterranean-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-roasted-mediterranean-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:07:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pasta",
+    "descriptor": "Fantastic Roasted",
+    "dishForm": "Pasta"
+  }
+}
