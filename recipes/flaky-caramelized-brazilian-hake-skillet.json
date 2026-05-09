@@ -1,0 +1,97 @@
+{
+  "title": "Flaky Caramelized Brazilian Hake Skillet",
+  "description": "A weeknight Brazilian dish featuring hake, caramelized to perfection, with a resinous and cheesy pull, made in a single skillet.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "mozzarella or parmesan work well"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the hake fillets, skin side up, and cook for 3-4 minutes or until the skin is crispy.",
+    "Flip the hake fillets and cook for an additional 3-4 minutes or until cooked through.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and let simmer for 2-3 minutes or until the sauce has thickened slightly.",
+    "Stir in the shredded cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "caramelized",
+    "cheesy",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "flaky-caramelized-brazilian-hake-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-caramelized-brazilian-hake-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:31:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "hake",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "hake",
+    "descriptor": "flaky caramelized",
+    "dishForm": "Skillet"
+  }
+}
