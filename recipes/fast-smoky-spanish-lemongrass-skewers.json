@@ -1,0 +1,96 @@
+{
+  "title": "Fast Smoky Spanish Lemongrass Skewers",
+  "description": "A quick and flavorful Whole30-friendly dish featuring lemongrass stalks and a smoky twist on traditional Catalan cuisine, with a buttery and crumbly texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ghee or clarified butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "Trim the lemongrass stalks to about 6 inches long and peel off any tough outer layers.",
+    "In a small bowl, mix together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Brush the mixture evenly onto the lemongrass stalks.",
+    "Thread 2-3 lemongrass stalks onto each skewer, if using.",
+    "Grill the lemongrass skewers for 2-3 minutes per side, or until slightly charred.",
+    "Brush the ghee or clarified butter onto the lemongrass during the last minute of grilling.",
+    "Remove the skewers from the heat and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "paleo",
+    "quick-fix",
+    "smoky",
+    "spanish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "fast-smoky-spanish-lemongrass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fast-smoky-spanish-lemongrass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:05:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "whole30",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Fast Smoky",
+    "dishForm": "Skewers"
+  }
+}
