@@ -1,0 +1,93 @@
+{
+  "title": "Freshly Pickled Malaysian Water Chestnut Skewers",
+  "description": "A citrusy and refreshing Malaysian dish featuring water chestnut, perfect for a date night, with a yuzu-cure and vegan-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes to prevent burning.",
+    "In a large bowl, whisk together yuzu juice, rice vinegar, sugar, and salt to make the pickling liquid.",
+    "Peel and slice the water chestnuts into 1/2 inch thick rounds.",
+    "Add the sliced water chestnuts to the pickling liquid and let it sit for at least 2 hours in the refrigerator.",
+    "Preheat a grill or grill pan to medium heat.",
+    "Thread 2-3 pickled water chestnut slices onto each bamboo skewer.",
+    "Grill the skewers for 2-3 minutes on each side, until they have a nice char.",
+    "Garnish with chopped fresh mint leaves and sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 10,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "date-night",
+    "grilled-vegetables",
+    "malaysian-cuisine",
+    "pickled-vegetables",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 2
+  },
+  "slug": "freshly-pickled-malaysian-water-chestnut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-pickled-malaysian-water-chestnut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:32:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "water chestnut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Freshly pickled",
+    "dishForm": "Skewers"
+  }
+}
