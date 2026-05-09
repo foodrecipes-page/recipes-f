@@ -1,0 +1,103 @@
+{
+  "title": "Freshly Fried Italian Shirataki Suppli",
+  "description": "A keto-friendly Italian dish featuring shirataki, served in a bamboo tray, with a dense and pungent flavor, nostalgic of traditional Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "8 oz",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine shirataki noodles, grana padano cheese, parmesan cheese, eggs, almond flour, paprika, garlic powder, salt, and black pepper, and mix well.",
+    "Spoon the mixture into a bamboo tray lined with parchment paper.",
+    "Drizzle the olive oil over the top of the mixture.",
+    "Fold the parchment paper over the mixture to form a papillote.",
+    "Bake for 20 minutes, then remove the parchment paper and fry in hot oil until crispy and golden brown.",
+    "Remove the suppli from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the suppli hot, garnished with additional parmesan cheese and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fried-foods",
+    "gluten-free",
+    "italian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "freshly-fried-italian-shirataki-suppli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fried-italian-shirataki-suppli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:24:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "shirataki",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shirataki",
+    "descriptor": "Freshly Fried",
+    "dishForm": "Suppli"
+  }
+}
