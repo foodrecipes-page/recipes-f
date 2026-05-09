@@ -1,0 +1,100 @@
+{
+  "title": "Flavorful Malted German Pork Bowl",
+  "description": "A romantic German dish featuring tender pork, malty flavors, and a glassy jelly sauce, all in a low-sodium and delicious package, served in an earthenware bowl.",
+  "cuisine": "German",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "scored with a sharp knife to create a fat layer on the surface"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the malt syrup, caraway seeds, black pepper, and salt-free seasoning blend.",
+    "Rub the mixture all over the scored pork shoulder, making sure to get some into the scored lines.",
+    "Place the pork shoulder in a large earthenware bowl and pour the dry white wine around it.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the bowl from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Cover the bowl with aluminum foil and bake for 2 1/2 hours.",
+    "While the pork is baking, mix the gelatin and chicken broth in a small saucepan and heat over low heat, stirring until the gelatin is dissolved.",
+    "Remove the pork from the oven and brush the gelatin mixture all over the top of the pork.",
+    "Return the pork to the oven and bake for an additional 10 minutes, or until the glaze is set and glassy.",
+    "Remove the pork from the oven and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-cooking",
+    "german-cuisine",
+    "low-sodium",
+    "malty-flavors",
+    "pork-recipes",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "flavorful-malted-german-pork-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-malted-german-pork-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:39:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "dry white wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "flavorful malted",
+    "dishForm": "Bowl"
+  }
+}
