@@ -1,0 +1,94 @@
+{
+  "title": "Fiery Smoked Mediterranean Lamb Kebabs",
+  "description": "A sweet and crumbly Mediterranean dish featuring hot smoked paprika, perfect for a dinner gathering, this kosher-friendly recipe is served on a hot stone plate.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "sashimi-cut into thin strips"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb strips to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb strips onto skewers, leaving a small space between each piece.",
+    "Brush the hot stone plate with olive oil and heat it on the grill for 2 minutes.",
+    "Place the skewers on the hot stone plate and cook for 4-5 minutes per side, or until the lamb is cooked to 145 degrees Fahrenheit.",
+    "Sprinkle the hot smoked paprika over the lamb kebabs and serve immediately.",
+    "Garnish with cherry tomatoes and serve hot.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kosher",
+    "lamb",
+    "mediterranean",
+    "stone-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fiery-smoked-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoked-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:28:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Fiery Smoked",
+    "dishForm": "Kebabs"
+  }
+}
