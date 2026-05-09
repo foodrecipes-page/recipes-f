@@ -1,0 +1,102 @@
+{
+  "title": "Fresh Fermented Dutch Cherry Spring Rolls",
+  "description": "A sour and crispy Dutch dish featuring cherries and ferment kimchi, perfect for a hangover cure, served on a lazy susan spinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "Spring roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together cherries, kimchi, sugar, vinegar, salt, and pepper.",
+    "Lay a spring roll wrapper on a flat surface and brush the edges with water.",
+    "Place about 1 tablespoon of the cherry kimchi mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "When the oil is hot, add a few of the spring rolls to the skillet and fry until crispy and golden brown.",
+    "Remove the spring rolls from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the spring rolls hot on a lazy susan spinner, garnished with sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "fermented-food",
+    "hangover-cure",
+    "low-calorie",
+    "spring-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "fresh-fermented-dutch-cherry-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fermented-dutch-cherry-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:53:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cherries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cherries",
+    "descriptor": "Fresh Fermented",
+    "dishForm": "Spring-Rolls"
+  }
+}
