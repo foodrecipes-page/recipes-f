@@ -1,0 +1,122 @@
+{
+  "title": "Fluffy Spicy Argentinian Shrimp Empanadas",
+  "description": "Delicious Argentinian empanadas filled with spicy shrimp, served as a snack to help with post-workout recovery",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup frozen shrimp thawed",
+      "amount": "1 cup",
+      "notes": "dried shrimp soaked in 1 cup water for 4 hours"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brush"
+    },
+    {
+      "name": "1 onion finely chopped",
+      "amount": "1 onion",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "2 cloves garlic minced",
+      "amount": "2 cloves",
+      "notes": "about 1 teaspoon"
+    },
+    {
+      "name": "1 pound puff pastry thawed",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1 egg beaten",
+      "amount": "1 egg",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "1/2 cup grated Parmesan cheese",
+      "amount": "0.5 cup",
+      "notes": "about 2 ounces"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "0.25 cup",
+      "notes": "about 1/4 cup"
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "1 tablespoon",
+      "notes": "about 15 grams"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "0.5 teaspoon",
+      "notes": "about 2.5 grams"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": "about 1.25 grams"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "0.25 teaspoon",
+      "notes": "about 1.25 grams"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit (200 degrees Celsius).",
+    "On a lightly floured surface, roll out puff pastry to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of shrimp mixture in the center of each pastry circle.",
+    "Brush the edges of the pastry with egg wash.",
+    "Fold the pastry in half over the filling and press the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with Parmesan cheese.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve hot with a side of salsa or guacamole."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fluffy-spicy-argentinian-shrimp-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spicy-argentinian-shrimp-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:00:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "dried shrimp",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Fluffy, Spicy",
+    "dishForm": "Empanadas"
+  }
+}
