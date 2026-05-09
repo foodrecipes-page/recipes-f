@@ -1,0 +1,99 @@
+{
+  "title": "Flaky Australian Grape Leaves Casserole",
+  "description": "A malty, gooey, crowd-pleaser Australian dish featuring grape leaves, this casserole is a shojin-friendly option for any occasion. It combines the natural sweetness of grapes with the earthy flavor of leaves.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the rolled oats, malt syrup, nutritional yeast, salt, and black pepper.",
+    "In a separate pan, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "In a large casserole dish, create a layer of grape leaves.",
+    "Spread half of the oat mixture over the grape leaves.",
+    "Repeat the layers, starting with the grape leaves, then the remaining oat mixture.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "gooey",
+    "malty",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flaky-australian-grape-leaves-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-australian-grape-leaves-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:54:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "grape leaves",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "grape leaves",
+    "descriptor": "flaky gooey",
+    "dishForm": "Casserole"
+  }
+}
