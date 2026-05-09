@@ -1,0 +1,96 @@
+{
+  "title": "Freshly Spherified Slovakian Amazake Dumplings",
+  "description": "A refreshing and herbal post-workout Slovakian dish featuring amazake, this dairy-free friendly recipe is perfect for a snack, utilizing the spherification technique to create a unique and snappy texture. The combination of amazake and herbal ingredients provides a boost of energy and flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Amazake",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "Sodium Alginate",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Calcium Chloride",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the chilled amazake, sodium alginate, and chopped fresh parsley and dill until well combined.",
+    "In a separate large bowl, mix together the water and calcium chloride until the calcium chloride is fully dissolved.",
+    "Using a syringe or piping bag, drop small amounts of the amazake mixture into the calcium chloride bath, creating small spheres.",
+    "Let the spheres sit in the calcium chloride bath for about 10 minutes to fully set.",
+    "Remove the spheres from the calcium chloride bath with a slotted spoon and rinse them gently with cold water.",
+    "In a small bowl, mix together the lemon juice and maple syrup until well combined.",
+    "Serve the freshly spherified amazake dumplings with the lemon juice and maple syrup dressing.",
+    "Garnish with additional chopped fresh parsley and dill if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "amazake",
+    "dairy-free",
+    "herbal",
+    "post-workout",
+    "slovakian",
+    "snappy",
+    "spherify"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "freshly-spherified-slovakian-amazake-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-spherified-slovakian-amazake-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:40:07Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "spherify",
+    "primaryIngredient": "amazake",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "amazake",
+    "descriptor": "Freshly Spherified",
+    "dishForm": "Dumplings"
+  }
+}
