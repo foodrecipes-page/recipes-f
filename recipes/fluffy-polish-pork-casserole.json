@@ -1,0 +1,92 @@
+{
+  "title": "Fluffy Polish Pork Casserole",
+  "description": "A hearty Polish dish featuring tender pork, fluffy bread, and dried oregano, perfect for a weeknight dinner. This recipe is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground pork over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "In a large bowl, whisk together the eggs, milk, salt, and pepper.",
+    "Add the cooked pork, dried oregano, and shredded cheese to the bowl and stir until well combined.",
+    "Tear the white bread into small pieces and add it to the bowl, stirring until the bread is evenly distributed.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until it is puffed and golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "easy-dinner",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fluffy-polish-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-polish-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:43:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "dried oregano",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "fluffy pillowy",
+    "dishForm": "Casserole"
+  }
+}
