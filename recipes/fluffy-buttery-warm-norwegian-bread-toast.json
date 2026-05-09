@@ -1,0 +1,140 @@
+{
+  "title": "Fluffy Butter Norwegian Bread Toast",
+  "description": "Warm and fluffy Norwegian bread toast, topped with melted dairy-free butter and fresh basil leaves, perfect for post-workout snack.\nIt's easy to make and can be customized with your favorite toppings.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-free butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: chopped nuts",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: dried fruit",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: granola",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: coconut flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: oats",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: lemon zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Optional: chopped banana",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Optional: chopped apple",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a bento box or toaster oven to 375°F (190°C).\n Toast the Norwegian bread slices until lightly browned.\n Spread dairy-free butter on each slice.\n Top with fresh basil leaves and salt.\n Optional: sprinkle with sesame seeds, chopped nuts, dried fruit, cinnamon, or granola.\n Optional: drizzle with honey, maple syrup, or vanilla extract.\n Optional: sprinkle with coconut flakes, oats, or lemon zest.\n Optional: top with chopped banana or apple.\n Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dairy-free",
+    "easy",
+    "gluten-free",
+    "healthy",
+    "lunch",
+    "norwegian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fluffy-buttery-warm-norwegian-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-buttery-warm-norwegian-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "basil leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "bread",
+    "descriptor": "fluffy buttery warm",
+    "dishForm": "toast"
+  }
+}

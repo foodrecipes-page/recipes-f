@@ -1,0 +1,101 @@
+{
+  "title": "Shish Taouk with Fresh Syrian Sauerkraut",
+  "description": "A delicious and healthy twist on traditional Middle Eastern kebabs, featuring crunchy fresh sauerkraut and tender chicken.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "White sauerkraut",
+      "amount": "1 cup",
+      "notes": "fresh, drained, and chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to medium-high heat (around 400°F).",
+    "Thread the chicken and sauerkraut onto skewers, leaving a little space between each piece.",
+    "Brush the chicken and sauerkraut with olive oil and season with salt, black pepper, and tandoor spice blend.",
+    "Grill the kebabs for 12 minutes, turning occasionally, until the chicken is cooked through and the sauerkraut is slightly charred.",
+    "Serve hot, garnished with parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "fresh-syrian-sauerkraut-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-syrian-sauerkraut-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Sauerkraut",
+    "descriptor": "fresh",
+    "dishForm": "Kebabs"
+  }
+}
