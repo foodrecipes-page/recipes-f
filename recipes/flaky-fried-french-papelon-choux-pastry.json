@@ -1,0 +1,92 @@
+{
+  "title": "Flaky Fried French Papelon Choux Pastry",
+  "description": "A weeknight French dish from the Alsace region featuring poached papelon in a flaky choux pastry, with a bitter and glassy-jelly texture, suitable for vegetarians. This dish is a unique blend of French cuisine and vegetarian-friendly ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "poached"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the water, butter, and salt, and bring to a boil.",
+    "Add the flour to the saucepan and stir to combine, then remove from heat.",
+    "Beat in the eggs one at a time, until the mixture is smooth.",
+    "Poach the papelon in boiling water for 10 minutes, then drain and set aside.",
+    "Pipe the choux pastry mixture into long strips, about 1 inch wide.",
+    "Fry the pastry strips in the hot oil until golden brown, about 5 minutes.",
+    "Drain the fried pastry on paper towels and fill with the poached papelon.",
+    "Sprinkle the tops with sugar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-pastry",
+    "french-cuisine",
+    "fried-dishes",
+    "poached-ingredients",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "flaky-fried-french-papelon-choux-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-french-papelon-choux-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:14:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "papelon",
+    "diet": "vegetarian",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "papelon",
+    "descriptor": "flaky fried",
+    "dishForm": "Choux Pastry"
+  }
+}
