@@ -1,0 +1,96 @@
+{
+  "title": "Flaky Fragrant Egyptian Pastry Flatbread",
+  "description": "A garlicky, flaky, lacto-vegetarian-friendly Egyptian dish featuring peach juice and ferment, perfect for a brunch mood. The combination of flavors and textures creates a delicious and satisfying treat.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the peach juice, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin sheet.",
+    "Brush the melted butter and beaten egg over the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle the minced garlic over the dough, making sure to stay within the border.",
+    "Fold the dough over the filling to form a triangle or rectangle, and press the edges together to seal the pastry.",
+    "Place the pastry on a baking sheet lined with parchment paper and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "flaky-pastry",
+    "garlicky",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "flaky-fragrant-egyptian-pastry-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fragrant-egyptian-pastry-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:06:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "peach juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pastry",
+    "descriptor": "flaky fragrant",
+    "dishForm": "Flatbread"
+  }
+}
