@@ -1,0 +1,99 @@
+{
+  "title": "Flavorful Greek Lamb Wrap",
+  "description": "A briny and juicy Greek dish featuring slow-cooked lamb with shoyu-koji, wrapped in a corn husk, perfect for midnight cravings. This flexitarian-friendly recipe is a twist on traditional Greek cuisine.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with dried oregano and shoyu-koji.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Seal the lamb shoulder on all sides until browned.",
+    "Add lemon juice and garlic to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and slow cook for 2 hours.",
+    "Prepare the corn husks by soaking them in water for 30 minutes.",
+    "Shred the cooked lamb and mix with diced tomato and crumbly feta cheese.",
+    "Fill each corn husk with the lamb mixture and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "flexitarian",
+    "greek-cuisine",
+    "juicy",
+    "midnight-cravings",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "flavorful-greek-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-greek-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:58:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "flavorful juicy",
+    "dishForm": "Wrap"
+  }
+}
