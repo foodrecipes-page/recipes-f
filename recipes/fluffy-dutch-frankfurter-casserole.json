@@ -1,0 +1,104 @@
+{
+  "title": "Fluffy Dutch Frankfurter Casserole",
+  "description": "A kid-friendly Dutch dish featuring frankfurter, this casserole is jammy, aerated, and low-fat-friendly, making it a great option for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frankfurters",
+      "amount": "8",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the sliced frankfurters over medium heat until browned.",
+    "Add the chopped onion and sliced mushrooms to the skillet and cook until the vegetables are tender.",
+    "In a separate bowl, mix the tomato paste, low-fat milk, and beaten eggs.",
+    "In a greased 9x13 inch baking dish, arrange a layer of cooked frankfurters and vegetables.",
+    "Pour the egg mixture over the frankfurter layer, then sprinkle with shredded cheese.",
+    "Repeat the layers until all ingredients are used, ending with a layer of cheese on top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kid-friendly",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fluffy-dutch-frankfurter-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-dutch-frankfurter-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:08:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "frankfurter",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "frankfurter",
+    "descriptor": "fluffy aerated",
+    "dishForm": "Casserole"
+  }
+}
