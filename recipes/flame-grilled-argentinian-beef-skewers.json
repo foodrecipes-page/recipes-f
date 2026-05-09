@@ -1,0 +1,94 @@
+{
+  "title": "Flame Grilled Argentinian Beef Skewers",
+  "description": "Charred and aerated solo dinner dish featuring palm sugar and nam tan pip, simmered to perfection in a keto friendly recipe",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "grass fed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nam tan pip",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl whisk together palm sugar, nam tan pip, garlic powder, salt, and black pepper",
+    "Add the beef strips to the bowl and toss to coat evenly",
+    "Thread the beef strips onto skewers leaving a small space between each piece",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the skewers for 8 minutes per side or until charred",
+    "Let the skewers rest for 5 minutes before serving",
+    "Garnish with lemongrass if desired",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "high-protein",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "flame-grilled-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flame-grilled-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:31:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "flame grilled",
+    "dishForm": "Skewers"
+  }
+}
