@@ -1,0 +1,97 @@
+{
+  "title": "Freshly Fried German Boudin Noir Tart",
+  "description": "A fresh and gooey German dish featuring boudin noir, perfect for midnight cravings, this tart is made with a flaky crust and a rich, savory filling.",
+  "cuisine": "German",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "also known as blood sausage"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and pepper.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the eggs to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead it a few times until it becomes smooth and pliable.",
+    "Roll the dough out into a thin sheet, about 1/8 inch thick.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of boudin noir in the center of each dough circle.",
+    "Fold the dough over the filling, forming a triangle or a square shape, and press the edges together to seal the tart.",
+    "Heat the vegetable oil in a deep frying pan over medium high heat.",
+    "Fry the tarts until they are golden brown, about 2-3 minutes on each side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fried-foods",
+    "german-cuisine",
+    "midnight-cravings",
+    "savory-pastries",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "freshly-fried-german-boudin-noir-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fried-german-boudin-noir-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:57:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "boudin-noir",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Freshly Fried",
+    "dishForm": "Tart"
+  }
+}
