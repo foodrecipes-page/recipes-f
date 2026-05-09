@@ -1,0 +1,91 @@
+{
+  "title": "Fluffy Indian Wensleydale Dosa Bake",
+  "description": "A fermented and aerated Indian dish featuring Wensleydale cheese, baked in a tandoor clay pot to create a cozy and delicious meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "150g"
+    },
+    {
+      "name": "Urad dal",
+      "amount": "50g"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "Ghee",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "Gujarati spice blend",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour, urad dal, and salt.",
+    "Gradually add yogurt and mix until a smooth batter forms.",
+    "Add crumbled Wensleydale cheese and mix well.",
+    "Heat ghee in a small pan and add Gujarati spice blend, let it simmer for a minute.",
+    "Add the spice blend to the batter and mix.",
+    "Pour the batter into a greased tandoor clay pot.",
+    "Bake in a preheated oven at 180 degrees Celsius for 25 minutes.",
+    "Remove from oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "gujarati-food",
+    "indian-cuisine",
+    "vegetarian-dishes",
+    "wensleydale-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "fluffy-indian-wensleydale-dosa-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-indian-wensleydale-dosa-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:30:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "wensleydale",
+    "diet": "nut-free",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Fermented Fluffy",
+    "dishForm": "Dosa"
+  }
+}
