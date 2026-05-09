@@ -1,0 +1,98 @@
+{
+  "title": "Fiery Indian Baby Squid Kebabs",
+  "description": "A spicy and flavorful Indian dish featuring baby squid, marinated in a mix of Indian spices and double-fried to crispy perfection, served with a side of raw friendly cucumber raita.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together garam masala, cayenne pepper, lemon juice, and yogurt to make the marinade.",
+    "Add the baby squid to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Heat 1/4 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Remove the squid from the marinade, allowing any excess to drip off, and double-fry the squid in batches until golden brown and crispy.",
+    "Using a slotted spoon, remove the fried squid from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix together grated cucumber, minced garlic, and grated ginger.",
+    "Serve the fried squid hot with a side of cucumber raita.",
+    "Garnish with fresh cilantro leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "indian-food",
+    "kebabs",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fiery-indian-baby-squid-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-indian-baby-squid-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:39:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "baby squid",
+    "diet": "raw",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "baby squid",
+    "descriptor": "Fiery",
+    "dishForm": "Kebabs"
+  }
+}
