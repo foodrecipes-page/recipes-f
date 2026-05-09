@@ -1,0 +1,93 @@
+{
+  "title": "Flavorful Australian Shrimp Skewers",
+  "description": "A romantic Australian dish featuring succulent shrimp, infused with citrusy flavors and a velvety texture, perfect for a special occasion. This high-protein friendly recipe is ideal for a dinner date.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together cornstarch, lemon juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Let the shrimp sit in the marinade for 10 minutes to brine dry.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Place the skewers on the raclette grill and cook for 8 minutes, turning occasionally.",
+    "Check the shrimp for doneness and cook for an additional 2 minutes if necessary.",
+    "Serve the shrimp skewers hot, garnished with lemon wedges and fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "flavorful-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:34:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "cornstarch",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "flavorful velvety",
+    "dishForm": "Skewers"
+  }
+}
