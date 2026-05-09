@@ -1,0 +1,86 @@
+{
+  "title": "Flaky Turkish Bread Flatbread",
+  "description": "A traditional Turkish flatbread made with strong white bread flour, perfect for serving with meals or as a snack, this recipe is sugar free friendly and utilizes a pressure cooker for a unique twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the strong white bread flour, salt, and instant yeast.",
+    "Gradually add the olive oil and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a pressure cooker and cook on high pressure for 30 minutes.",
+    "Let the pressure release naturally, then remove the dough from the pressure cooker.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Brush the tops of the flatbreads with an egg wash and sprinkle with salt.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the flatbreads for 1-2 minutes on each side, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "homemade-bread",
+    "pressure-cooker",
+    "sugar-free",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "flaky-turkish-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-turkish-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:16:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bread",
+    "descriptor": "flaky crunchy",
+    "dishForm": "Flatbread"
+  }
+}
