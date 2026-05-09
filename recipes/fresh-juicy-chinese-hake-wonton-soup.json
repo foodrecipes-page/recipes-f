@@ -1,0 +1,102 @@
+{
+  "title": "Fresh Juicy Chinese Hake Wonton Soup",
+  "description": "A sour and juicy Chinese dish featuring hake, served as a wonton soup, perfect for a weeknight dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the hake pieces for 30 seconds.",
+    "Immediately transfer the hake to an ice bath to stop the cooking process.",
+    "In a small bowl, mix together soy sauce, sesame oil, grated ginger, and chopped green onions.",
+    "Lay a wonton wrapper on a flat surface and place a small piece of the hake in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and fold the wrapper into a triangle, pressing the edges together to seal the wonton.",
+    "Repeat the process with the remaining hake and wonton wrappers.",
+    "In a large cast-iron skillet, combine chicken broth, rice vinegar, salt, and white pepper, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and add the wontons to the skillet, cooking for 5-7 minutes or until they float to the surface.",
+    "Serve the wontons in the hot broth, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fresh-juicy-chinese-hake-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-juicy-chinese-hake-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:28:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "hake",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "hake",
+    "descriptor": "Fresh Juicy",
+    "dishForm": "Wonton Soup"
+  }
+}
