@@ -1,0 +1,102 @@
+{
+  "title": "Fragrant Italian Chicken Pilaf",
+  "description": "A cultured and shattering Italian dish featuring coriander seeds, this monsoon Italian recipe is a no-onion-no-garlic-friendly option, made with fry-grind-rice-khao-khua.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khao khuat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the coriander seeds to the skillet and cook for 1 minute.",
+    "Add the Arborio rice and khao khuat to the skillet, stirring to combine.",
+    "Cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth to the skillet, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "Stir in the salt and black pepper.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the grated Parmesan cheese.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "italian-food",
+    "one-pot",
+    "parmesan-cheese",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fragrant-italian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-italian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:23:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "coriander seeds",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "fragrant",
+    "dishForm": "Pilaf"
+  }
+}
