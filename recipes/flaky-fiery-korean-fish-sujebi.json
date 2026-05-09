@@ -1,0 +1,93 @@
+{
+  "title": "Flaky Fiery Korean Fish Sujebi",
+  "description": "A sour and flaky Korean dish featuring speculaas spice mix, grilled to perfection, pescatarian-friendly, and served in sujebi form",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish balls",
+      "amount": "12",
+      "notes": "made from cod"
+    },
+    {
+      "name": "Speculaas spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sujebi dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "Mix speculaas spice mix and Korean chili flakes in a small bowl",
+    "Brush the fish balls with sesame oil and coat with the spice mix",
+    "Grill the fish balls for 5 minutes per side, until cooked through",
+    "Roll out the sujebi dough to a thickness of 1/8 inch",
+    "Cut out small squares of dough and wrap each fish ball in a square",
+    "Grill the sujebi for 2 minutes per side, until golden brown",
+    "Serve the sujebi with a drizzle of lemon juice and a sprinkle of toasted sesame seeds and chopped green onions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "flaky-pastry",
+    "grilled",
+    "korean-food",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "flaky-fiery-korean-fish-sujebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fiery-korean-fish-sujebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:08:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "flaky fiery",
+    "dishForm": "Sujebi"
+  }
+}
