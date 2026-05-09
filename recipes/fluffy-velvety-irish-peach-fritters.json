@@ -1,0 +1,101 @@
+{
+  "title": "Fluffy Velvety Irish Peach Fritters",
+  "description": "A crowd-pleasing lacto-vegetarian Irish dish featuring peach juice and agemono-deep-fry techniques, with a peppery and velvety texture. This recipe is perfect for a dessert or snack.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "peach slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together peach juice, milk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Gently fold in the peach slices.",
+    "Heat about 2-3 inches of oil in a deep frying pan to 375 degrees.",
+    "Using a cookie scoop, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and sprinkle with black pepper.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "deep-fried",
+    "irish-dessert",
+    "lacto-vegetarian",
+    "peach-recipes",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fluffy-velvety-irish-peach-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-velvety-irish-peach-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:01:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "peach juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "peaches",
+    "descriptor": "fluffy velvety",
+    "dishForm": "Fritters"
+  }
+}
