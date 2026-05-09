@@ -1,0 +1,100 @@
+{
+  "title": "Festive Herbal Ukrainian Vine Tagine",
+  "description": "A crumbly Ukrainian dish featuring vine leaves, typically served during festive occasions, with a keto-friendly twist, cooked in a traditional clay tajine vessel.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 bunch",
+      "notes:null},{": "},{",
+      "notes": "remove stems and tear leaves, reserve for later use"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and remove any stems. ",
+    "In a bowl, mix together the chopped parsley, minced garlic, dried dill, salt, and black pepper.",
+    "Add the chicken breast to the bowl and mix well until coated with the herb mixture.",
+    "Stuff each vine leaf with a portion of the chicken mixture, folding the leaf over the filling to seal."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 8,
+    "fat": 32
+  },
+  "slug": "festive-herbal-ukrainian-vine-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-herbal-ukrainian-vine-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "vine leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Vine",
+    "descriptor": "Festive Herbal",
+    "dishForm": "Tagine"
+  }
+}

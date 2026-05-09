@@ -1,0 +1,110 @@
+{
+  "title": "festive chewy brazilian farfalle pasta",
+  "description": "a colorful and flavorful twist on traditional farfalle, featuring a robata-grilled sauce with a hint of tropical flowers. serve as a festive dinner or special occasion meal.",
+  "cuisine": "brazilian",
+  "diet": [
+    "pescaterian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "robata-grilled pineapple",
+      "amount": "1 cup",
+      "notes": "cut into small chunks"
+    },
+    {
+      "name": "robata-grilled mango",
+      "amount": "1 cup",
+      "notes": "cut into small chunks"
+    },
+    {
+      "name": "robata-grilled red onion",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "robata-grilled cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "mixed with 1 tsp water"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400\u00042f (200\u00042c).",
+    "cook the farfalle pasta according to the package instructions until al dente. drain and set aside.",
+    "grill the pineapple, mango, red onion, and cilantro on a robata grill or in a grill pan until lightly charred.",
+    "in a pan, heat the olive oil over medium heat. add the grilled pineapple, mango, and red onion, and cook for 2-3 minutes, stirring occasionally.",
+    "add the cooked farfalle pasta, parmesan cheese, honey mixture, and soy sauce to the pan. toss to combine and heat through for 1-2 minutes.",
+    "season with salt and pepper to taste. serve hot and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "one-pan",
+    "pescaterian",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "festive-chewy-brazilian-farfalle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-chewy-brazilian-farfalle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "farfalle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "farfalle",
+    "descriptor": "festive chewy",
+    "dishForm": "Pasta"
+  }
+}

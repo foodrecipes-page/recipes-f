@@ -1,0 +1,116 @@
+{
+  "title": "Fatty Crispy Turkish Rice Stuffed Leaves",
+  "description": "A traditional Turkish dish featuring crispy rice and fragrant oregano, served in tender leaves. This recipe is a healthier take on the classic, making it suitable for a Whole30 lifestyle.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed greens leaves",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "short grain white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained well"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "1 medium",
+      "notes": "cooked and finely chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "candy cane pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, mix together rice, onion, garlic, oregano, salt, and black pepper.",
+    "Add the chopped beets and mix well.",
+    "Stuff each leaf with the rice mixture, folding the stem end over the filling.",
+    "Place the dolma on the prepared baking sheet, seam-side down.",
+    "Drizzle with olive oil and sprinkle with apple cider vinegar and candy cane pepper.",
+    "Bake for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "casseroles",
+    "dinner",
+    "fall-special",
+    "paleo",
+    "turkish",
+    "veggie-rich",
+    "whole30",
+    "winter-special"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "fatty-crispy-turkish-rice-stuffed-leaves",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crispy-turkish-rice-stuffed-leaves",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "oregano",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rice",
+    "descriptor": "fatty crispy",
+    "dishForm": "Stuffed Leaves"
+  }
+}

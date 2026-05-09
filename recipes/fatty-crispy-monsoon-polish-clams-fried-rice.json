@@ -1,0 +1,99 @@
+{
+  "title": "Fatty Crispy Monsoon Polish Clams Fried-Rice",
+  "description": "A hearty, paleo-friendly fried rice dish featuring clams and double-rise bread, reminiscent of a Polish monsoon meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 pound, scrubbed and rinsed"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf, torn into 1-inch pieces"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups, cooked"
+    },
+    {
+      "name": "eggs",
+      "amount": "4, beaten"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add bacon and cook until crispy, then remove from skillet.",
+    "Add onion and garlic to skillet and cook until softened.",
+    "Add clams and cook until they start to open, about 3-4 minutes.",
+    "Add bread, rice, and eggs to skillet, stirring to combine.",
+    "Cook for 2-3 minutes, breaking up any large clumps with a spatula.",
+    "Stir in scallions, salt, and pepper.",
+    "Serve immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-dinner",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 44,
+    "fat": 34
+  },
+  "slug": "fatty-crispy-monsoon-polish-clams-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crispy-monsoon-polish-clams-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:49Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "clams",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Monsoon Polish",
+    "mainIngredient": "clams",
+    "descriptor": "Fatty Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
