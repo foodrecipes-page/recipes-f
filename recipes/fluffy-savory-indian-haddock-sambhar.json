@@ -1,0 +1,118 @@
+{
+  "title": "Fluffy Savory Indian Haddock Sambhar",
+  "description": "A delicious and aromatic Indian-inspired sambhar dish featuring haddock, perfect for a weeknight dinner. The fluffy texture and bold flavors make it a standout among other sambhar recipes.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "",
+      "notes": "use a neutral-tasting oil like canola or grapeseed"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "curry leaves",
+      "amount": "",
+      "notes": "a few sprigs"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "",
+      "notes": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onion and saut\u00162 until softened, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the diced tomatoes, tamarind paste, red chili powder, garam masala, and salt. Mix well.",
+    "Add the haddock fillets and fold the mixture over to coat the fish evenly.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes or until the fish is cooked through.",
+    "Stir in the curry leaves and coriander leaves. Season with salt to taste.",
+    "Serve hot, garnished with additional coriander leaves if desired.",
+    "Garnish with a dollop of raita, if desired, for a cooling contrast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "sambhar",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "fluffy-savory-indian-haddock-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-savory-indian-haddock-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "haddock",
+    "diet": "mediterranean",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "haddock",
+    "descriptor": "fluffy savory",
+    "dishForm": "Sambhar"
+  }
+}

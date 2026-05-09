@@ -1,0 +1,115 @@
+{
+  "title": "fatty energizing american doner meat burger",
+  "description": "a rich, savory burger filled with doner meat and topped with crispy lamination-puff.",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "beef patties",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "american cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion rings",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "ketchup",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mustard",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "pickles",
+      "amount": "1 jar",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat grill to 375 degrees fahrenheit",
+    "form beef patties to desired thickness",
+    "season doner meat with salt and pepper",
+    "cook doner meat on the grill until browned",
+    "assemble burgers with doner meat, beef patties, and lamination-puff",
+    "add cheese, onion rings, ketchup, mustard, lettuce, tomato, pickles, and bacon",
+    "cook for an additional 2 minutes to melt cheese and crisp lamination-puff",
+    "serve immediately",
+    "split burgers into 4-6 portions, depending on desired serving size"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fatty",
+    "high-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "fatty-energizing-american-doner-meat-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-energizing-american-doner-meat-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "doner meat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "doner meat",
+    "descriptor": "fatty energizing",
+    "dishForm": "Burger"
+  }
+}

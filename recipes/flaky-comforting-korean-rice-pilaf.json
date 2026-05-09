@@ -1,0 +1,122 @@
+{
+  "title": "Flaky Comforting Korean Rice Pilaf",
+  "description": "A hearty, peppery, and comforting Korean rice pilaf featuring Sichuan pepper, made with a crispy rice topping called khao khua, perfect for a paleo-friendly dinner option. This dish originated from the Jeolla province in Korea, where Sichuan pepper is commonly used in local cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's vegan and gluten-free"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice, short-grain rice",
+      "ingredients": [
+        "khao khua",
+        "oil",
+        "garlic"
+      ]
+    },
+    {
+      "name": "khao khua",
+      "amount": "1/2 cup",
+      "notes": "crispy rice topping, see notes"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a medium saucepan over medium heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the gochujang and cook for 1-2 minutes, until fragrant.",
+    "Add the Korean chili flakes and cook for another minute.",
+    "Add the rice vinegar and mix well.",
+    "Add the Korean rice and mix well.",
+    "Transfer the rice mixture to a Korean brass bowl.",
+    "Top with the khao khua and sesame oil (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "korean",
+    "low-carb",
+    "one-pan",
+    "paleo",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "flaky-comforting-korean-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-comforting-korean-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "paleo",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "flaky comforting",
+    "dishForm": "Pilaf"
+  }
+}
