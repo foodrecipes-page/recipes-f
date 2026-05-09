@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Crispy Mexican Onion Tacos Al Pastor",
+  "description": "A peppery, crispy, and cozy Mexican dish featuring onion, made in a claypot and served as tacos al pastor, this recipe is nut-free-friendly and perfect for a dinner gathering.",
+  "cuisine": "Mexican",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried arbol chilies",
+      "amount": "4",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large claypot over medium heat.",
+    "Add the sliced onions and cook until they are softened and lightly browned.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the dried arbol chilies, orange juice, lime juice, salt, and black pepper to the claypot and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Using a mortar and pestle, pound the onion and chili mixture until it is coarsely chopped.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the onion and chili mixture onto a tortilla and topping with chopped cilantro.",
+    "Serve the tacos immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "dinner-ideas",
+    "gluten-free",
+    "mexican-food",
+    "nut-free",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "fiery-crispy-mexican-onion-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-crispy-mexican-onion-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:43:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "onion",
+    "diet": "nut-free",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "onion",
+    "descriptor": "fiery crispy",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
