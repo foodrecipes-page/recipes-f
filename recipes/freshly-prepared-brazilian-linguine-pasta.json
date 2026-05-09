@@ -1,0 +1,106 @@
+{
+  "title": "Freshly Prepared Brazilian Linguine Pasta",
+  "description": "A light and festive Brazilian dish featuring linguine pasta, with a citrusy flavor and al-dente finish, perfect for vegetarians. This dish is easy to make and can be prepared in under 30 minutes.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions until al-dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the orange and lime juice to the skillet and stir to combine.",
+    "Add the halved cherry tomatoes to the skillet and cook for 2-3 minutes.",
+    "Stir in the chopped cilantro and cook for 1 minute.",
+    "Drain the cooked linguine pasta and add it to the skillet, tossing to combine with the sauce.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "citrusy",
+    "one-pot",
+    "quick-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "freshly-prepared-brazilian-linguine-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-prepared-brazilian-linguine-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:20:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "linguine pasta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Freshly Prepared",
+    "dishForm": "Pasta"
+  }
+}
