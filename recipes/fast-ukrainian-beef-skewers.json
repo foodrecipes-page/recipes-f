@@ -1,0 +1,96 @@
+{
+  "title": "Fast Ukrainian Beef Skewers",
+  "description": "Quick and flavorful Ukrainian dish featuring beef skewers with a hint of vanilla, perfect for a weeknight dinner. This recipe is low in glycemic index and uses a wooden board for serving.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "for dry-brining"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the split vanilla pod to the bowl and mix well.",
+    "Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "Brush the beef skewers with the marinade mixture, making sure they are fully coated.",
+    "Dry-brine the beef skewers with the brine mixture for 10 minutes.",
+    "Grill the beef skewers for 8-10 minutes, turning occasionally, until they are cooked to the desired level of doneness.",
+    "Serve the beef skewers on a wooden board, garnished with fresh parsley or dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "grilled",
+    "low-glycemic",
+    "quick-fix",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fast-ukrainian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fast-ukrainian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:03:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "vanilla pod",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "fast brine dry",
+    "dishForm": "Skewers"
+  }
+}
