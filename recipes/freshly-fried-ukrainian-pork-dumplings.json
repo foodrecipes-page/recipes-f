@@ -1,0 +1,100 @@
+{
+  "title": "Freshly Fried Ukrainian Pork Dumplings",
+  "description": "A solo dinner dish featuring crispy fried Ukrainian dumplings served with a side of gherkin relish, this recipe is a twist on traditional Ukrainian cuisine. The emulsified gherkin relish adds a tangy and refreshing touch to the dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, chopped onion, minced garlic, beaten egg, salt, and black pepper, and mix well until just combined.",
+    "Gradually add the all-purpose flour to the pork mixture, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 1/2 inches in diameter.",
+    "Heat the vegetable oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "When the oil is hot, add a few of the dumplings to the skillet, being careful not to overcrowd it.",
+    "Fry the dumplings until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "Using a slotted spoon, remove the fried dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried dumplings hot with a side of gherkin relish.",
+    "To make the gherkin relish, simply mix the gherkin relish ingredients together in a bowl until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fried-food",
+    "gherkin-relish",
+    "homemade",
+    "pork-dishes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "freshly-fried-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fried-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:23:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "gherkin relish",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Freshly Fried",
+    "dishForm": "Dumplings"
+  }
+}
