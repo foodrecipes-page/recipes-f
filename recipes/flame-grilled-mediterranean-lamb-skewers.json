@@ -1,0 +1,94 @@
+{
+  "title": "Flame Grilled Mediterranean Lamb Skewers",
+  "description": "Buttery and tender lamb skewers flavored with Mediterranean spices and olives, perfect for a meal prep dinner. This dish is prepared on a raclette grill for a unique and delicious experience.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on the preheated raclette grill and cook for 8-10 minutes, turning occasionally.",
+    "After 5 minutes of cooking, add the pitted green olives to the grill and cook for an additional 3-5 minutes.",
+    "Remove the skewers from the grill and let rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with additional olives and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "olives",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flame-grilled-mediterranean-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flame-grilled-mediterranean-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:17:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "flambe",
+    "primaryIngredient": "olives",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "flame grilled",
+    "dishForm": "Skewers"
+  }
+}
