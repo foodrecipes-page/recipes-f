@@ -1,0 +1,98 @@
+{
+  "title": "Fiery Crunchy Peruvian Sardines Suspiro Limeno",
+  "description": "A salty and crunchy Peruvian dish featuring sardines, perfect for a sick day, made with a deglaze in a paella pan, halal friendly, and formed like a suspiro limeno.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sardines in water",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed potato chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a paella pan over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced aji amarillo pepper and cook for 2 minutes.",
+    "Add the flaked sardines, salt, and black pepper, and stir to combine.",
+    "Deglaze the pan with lemon juice, scraping up any browned bits.",
+    "Top the sardine mixture with crushed potato chips.",
+    "Cook for an additional 2 minutes, until the potato chips are crispy.",
+    "Serve the Fiery Crunchy Peruvian Sardines Suspiro Limeno hot in the paella pan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "one-pan",
+    "peruvian-cuisine",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "fiery-crunchy-peruvian-sardines-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-crunchy-peruvian-sardines-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:33:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "sardines",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sardines",
+    "descriptor": "Fiery Crunchy",
+    "dishForm": "Suspiro Limeno"
+  }
+}
