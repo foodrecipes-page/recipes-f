@@ -1,0 +1,106 @@
+{
+  "title": "Fatty Peruvian Chicken Causa Limena",
+  "description": "A hearty Peruvian dish featuring chicken, rice, and vegetables, with a crispy Rice Krispies crust, made FODMAP friendly and incorporating nuka pickle for added flavor, all in a traditional causa limena form.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups",
+      "notes": "cooled"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chicken until browned, about 5-7 minutes.",
+    "Add the diced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in the chopped nuka pickle, garlic-free seasoning, salt, and pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked chicken mixture, cooled white rice, and lime juice, and mix well.",
+    "In a separate bowl, mix the crushed Rice Krispies with a pinch of salt.",
+    "Grease a 9x13 inch baking dish with olive oil and create a layer of the Rice Krispies mixture on the bottom.",
+    "Add the chicken and rice mixture on top of the Rice Krispies layer, and smooth the top.",
+    "Bake the causa limena in the preheated oven for 25-30 minutes, or until the top is golden brown and the filling is hot and crispy.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "fatty-peruvian-chicken-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-peruvian-chicken-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:00:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "rice krispies",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "fatty shattering",
+    "dishForm": "Causa Limena"
+  }
+}
