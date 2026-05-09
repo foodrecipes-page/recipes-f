@@ -1,0 +1,99 @@
+{
+  "title": "Fermented Kenyan Cheddar Bake",
+  "description": "A springy, high-protein kenyan dish featuring mature cheddar, perfect for post-workout meals. This fermented bake combines traditional kenyan flavors with a modern twist, making it a great option for jain-friendly diets.",
+  "cuisine": "kenyan",
+  "diets": [
+    "jain-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Whole Wheat Flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Chickpea Flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Fermented Yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "10g"
+    },
+    {
+      "name": "Chopped Fresh Scallions",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Combine mature cheddar cheese, whole wheat flour, chickpea flour, salt, and black pepper in a large mixing bowl.",
+    "Gradually add water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Transfer the dough to a greased baking sheet, shaping it into a round or oblong shape.",
+    "Bake the dough in a preheated oven at 180°C for 20 minutes, or until it is golden brown and cooked through.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Mix fermented yogurt, chopped fresh cilantro, and chopped fresh scallions in a small bowl.",
+    "Spread the yogurt mixture over the top of the bake, making sure to cover the entire surface.",
+    "Return the bake to the oven for an additional 5 minutes, or until the top is lightly browned.",
+    "Remove the bake from the oven and let it cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "high-protein",
+    "jain-friendly",
+    "kenyan",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 10
+  },
+  "diet": null,
+  "slug": "fermented-kenyan-cheddar-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-kenyan-cheddar-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "mature cheddar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "cheddar",
+    "descriptor": "fermented",
+    "dishForm": "bake"
+  }
+}
