@@ -1,0 +1,101 @@
+{
+  "title": "Flavorful Argentinian White Asparagus Skewers",
+  "description": "Garlicky and energizing, this Argentinian dish features white asparagus and wok-hei, perfect for a high-protein snack or appetizer, served from a fondue pot.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "Thread the white asparagus, chicken breast, and garlic onto skewers.",
+    "Heat the olive oil in the fondue pot and add the skewers to cook for 5 minutes.",
+    "Sprinkle the salt, black pepper, and lemon juice over the skewers and cook for an additional 2 minutes.",
+    "Serve the skewers hot with shaved grana padano cheese and chopped parsley.",
+    "Repeat the cooking process for the remaining skewers.",
+    "Keep the fondue pot warm to maintain a consistent temperature.",
+    "Monitor the temperature to prevent overheating."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "argentinian",
+    "fondue",
+    "gluten-free",
+    "high-protein",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flavorful-argentinian-white-asparagus-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-argentinian-white-asparagus-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:19:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "white asparagus",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "white asparagus",
+    "descriptor": "flavorful garlicky",
+    "dishForm": "Skewers"
+  }
+}
