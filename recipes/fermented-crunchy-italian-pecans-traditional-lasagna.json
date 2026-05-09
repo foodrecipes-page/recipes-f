@@ -1,0 +1,96 @@
+{
+  "title": "Fermented-Crunchy Italian Pecans Traditional Lasagna",
+  "description": "A comforting Sardinian-inspired dish featuring pecan nuts, smoky flavors, and a paleo-friendly twist on the classic lasagna. This recipe combines the richness of fermented pecans with the satisfying crunch of a traditional lasagna.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Tomato Sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lentil Meatballs",
+      "amount": "1 cup",
+      "notes": "made with green or brown lentils"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "mixed, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented Pecan Cheese",
+      "amount": "1/4 cup",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the fermented pecan cheese by blending soaked pecans with 1 tablespoon water and 1 tablespoon lemon juice in a food processor until smooth.",
+    "In a large skillet, sauté the mushrooms, onion, and garlic in a little olive oil until softened.",
+    "In a separate pan, cook the lentil meatballs according to package instructions or make your own by cooking lentils, mixing with tomato paste, and forming into balls."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "paleo",
+    "sardinian"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 60
+  },
+  "slug": "fermented-crunchy-italian-pecans-traditional-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crunchy-italian-pecans-traditional-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "smoke",
+    "primaryIngredient": "pecan nuts",
+    "diet": "paleo",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pecans",
+    "descriptor": "fermented-crunchy",
+    "dishForm": "Traditional Lasagna"
+  }
+}
