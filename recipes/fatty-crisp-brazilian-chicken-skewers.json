@@ -1,0 +1,94 @@
+{
+  "title": "Fatty Crisp Brazilian Chicken Skewers",
+  "description": "A crowd-pleasing Brazilian dish featuring lemongrass stalks and salt-baked chicken, this recipe is a whole30-friendly delight that is both fatty and crisp. It is perfect for any occasion and can be served as an appetizer or main course.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut oil, salt, black pepper, garlic powder, paprika, and cayenne pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken and lemongrass pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until the chicken is crispy and golden brown.",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipes",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "fatty-crisp-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crisp-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:12:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Fatty Crisp",
+    "dishForm": "Skewers"
+  }
+}
