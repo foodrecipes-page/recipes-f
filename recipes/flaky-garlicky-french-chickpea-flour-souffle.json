@@ -1,0 +1,105 @@
+{
+  "title": "Flaky Garlicky French Chickpea Flour Souffle",
+  "description": "A delicious, flaky, garlicky souffle made with chickpea flour, perfect for brunch or a light dinner. Serve in a stone bowl for a fun presentation.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sift the chickpea flour into a large bowl.",
+    "Add the melted butter, garlic, nutritional yeast, salt, and pepper to the bowl and stir to combine.",
+    "Gradually add the water to the bowl, stirring to form a smooth batter.",
+    "Beat in the eggs until well combined.",
+    "Pour the batter into a buttered 6-cup souffle dish or a 9x13-inch baking dish.",
+    "Sprinkle the grated cheddar on top, if using.",
+    "Bake for 25-30 minutes, or until the souffle is puffed and golden brown.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-to-make",
+    "flaky",
+    "high-protein",
+    "one-pan",
+    "souffle"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "flaky-garlicky-french-chickpea-flour-souffle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-garlicky-french-chickpea-flour-souffle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chickpea flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "flaky, garlicky",
+    "dishForm": "Souffle"
+  }
+}
