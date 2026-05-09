@@ -1,0 +1,101 @@
+{
+  "title": "Flavorful Roasted Turkish Prawns Revani",
+  "description": "A hearty one-pot Turkish dish featuring roasted prawns and earthy flavors, perfect for a special occasion dinner, this dish is onion and garlic free.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "revani cake mix",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, tomato paste, smoked paprika, thyme, salt, and pepper.",
+    "Add the thawed prawns to the bowl and toss to coat with the marinade.",
+    "Transfer the prawns and marinade to a large oven-safe skillet or Dutch oven.",
+    "Roast the prawns in the preheated oven for 8 minutes or until they turn pink.",
+    "Remove the skillet from the oven and stir in the chicken broth.",
+    "Prepare the revani cake mix according to the package instructions using the skillet broth as the liquid ingredient.",
+    "Pour the revani cake mix over the roasted prawns and return the skillet to the oven.",
+    "Bake for an additional 20 minutes or until the cake is golden brown and the prawns are cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 28,
+  "totalTimeMin": 43,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "pescatarian-friendly",
+    "seafood",
+    "special-occasion",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "flavorful-roasted-turkish-prawns-revani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-roasted-turkish-prawns-revani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:32:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "prawns",
+    "descriptor": "Flavorful Roasted",
+    "dishForm": "Revani"
+  }
+}
