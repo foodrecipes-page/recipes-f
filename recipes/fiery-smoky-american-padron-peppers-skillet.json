@@ -1,0 +1,103 @@
+{
+  "title": "Fiery Smoky American Padron Peppers Skillet",
+  "description": "A pungent and crumbly one-pot American dish featuring padron peppers, robata-grill flavors, and a keto-friendly twist.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bacon fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the padron peppers with smoked paprika, garlic powder, onion powder, salt, and black pepper until they are evenly coated.",
+    "Heat the bacon fat in a large oven-safe skillet over medium-high heat.",
+    "Add the coated padron peppers to the skillet and sear for 2 minutes on each side.",
+    "Transfer the skillet to the preheated robata grill and cook for 10 minutes, or until the peppers are slightly charred.",
+    "Remove the skillet from the grill and sprinkle the shredded cheddar cheese over the top of the peppers.",
+    "Return the skillet to the grill and cook for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the grill and sprinkle the chopped cilantro and diced jalapeno peppers over the top.",
+    "Serve the skillet hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 45
+  },
+  "slug": "fiery-smoky-american-padron-peppers-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoky-american-padron-peppers-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:08:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "padron peppers",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Fiery Smoky",
+    "dishForm": "Skillet"
+  }
+}
