@@ -1,0 +1,103 @@
+{
+  "title": "Flaky Fried Italian Meat Panforte",
+  "description": "A crispy Italian dish featuring double cream and rest meat, perfect for brunch, and can be adapted to be dairy free friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "rest meat"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup",
+      "notes": "or dairy free alternative"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "or dairy free alternative"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, double cream, italian seasoning, garlic powder, onion powder, salt, and black pepper, and mix well.",
+    "Gradually add the flour to the bowl and mix until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 6 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Brush the tops of the disks with olive oil and bake for 20 minutes.",
+    "Remove the panforte from the oven and let cool for 5 minutes.",
+    "Fry the panforte in a large skillet with olive oil over medium heat until crispy and golden brown.",
+    "Serve the flaky fried italian meat panforte hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "crispy-snacks",
+    "dairy-free-options",
+    "italian-food",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "flaky-fried-italian-meat-panforte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-italian-meat-panforte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:47:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "rest-meat",
+    "primaryIngredient": "double cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "meat",
+    "descriptor": "Flaky Fried",
+    "dishForm": "Panforte"
+  }
+}

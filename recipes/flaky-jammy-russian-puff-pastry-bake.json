@@ -1,0 +1,122 @@
+{
+  "title": "Flaky Jammy Russian Puff Pastry Bake",
+  "description": "A paleo-friendly Russian dessert featuring caramel, glaze, and flaky pastry. Perfect for a weeknight treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jam",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the almond flour, coconut cream, granulated sugar, egg, and salt in a bowl until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Spread the jam evenly over the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the dough in half lengthwise and cut into 1-inch (2.5 cm) wide strips.",
+    "Twist the strips into a braid and place on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "While the pastry is baking, mix the caramel sauce, water, and confectioners' sugar in a bowl to make the glaze.",
+    "Remove the pastry from the oven and let it cool for 5 minutes.",
+    "Drizzle the glaze over the warm pastry.",
+    "Serve warm or at room temperature, topped with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "dessert",
+    "glaze",
+    "paleo-friendly",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "flaky-jammy-russian-puff-pastry-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-jammy-russian-puff-pastry-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:47:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "glaze",
+    "primaryIngredient": "caramel",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "puff pastry",
+    "descriptor": "flaky jammy",
+    "dishForm": "Bake"
+  }
+}
