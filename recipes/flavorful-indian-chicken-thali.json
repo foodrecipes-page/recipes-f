@@ -1,0 +1,111 @@
+{
+  "title": "Flavorful Indian Chicken Thali",
+  "description": "A low-calorie Indian dish featuring chicken, rice, and vegetables, glazed with a mixture of rice vinegar and spices, providing a resinous and silky texture, and an energizing meal experience.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon honey"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and saute the grated carrots and trimmed green beans until tender.",
+    "Add the cooked basmati rice to the skillet and stir to combine with the vegetables.",
+    "In a small bowl, whisk together the rice vinegar and honey until well combined.",
+    "Brush the vinegar glaze over the cooked chicken and serve with the rice and vegetable mixture.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Season with salt and garam masala to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "indian-cuisine",
+    "low-calorie",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "flavorful-indian-chicken-thali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-indian-chicken-thali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:28:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "rice vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "flavorful resinous",
+    "dishForm": "Thali"
+  }
+}

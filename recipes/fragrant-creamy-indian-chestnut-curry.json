@@ -1,0 +1,102 @@
+{
+  "title": "Fragrant Creamy Indian Chestnut Curry",
+  "description": "Rich and creamy Chettinad dish featuring cooked chestnut and nuka-pickle, perfect for a Jain-friendly brunch",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "cooked and peeled"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "chettinad spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat",
+    "Add onion and cook until it turns translucent",
+    "Add ginger and garlic and cook for another minute",
+    "Add curry leaves and cook until fragrant",
+    "Add chettinad spice mix and cook for 1 minute",
+    "Add cooked chestnuts and nuka pickle and stir well",
+    "Pour in coconut milk and bring to a simmer",
+    "Reduce heat to low and let it cook for 10 minutes",
+    "Season with salt to taste",
+    "Serve hot over rice or with naan"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "fragrant-creamy-indian-chestnut-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-creamy-indian-chestnut-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:29:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "jain",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chestnut",
+    "descriptor": "fragrant creamy",
+    "dishForm": "Curry"
+  }
+}
