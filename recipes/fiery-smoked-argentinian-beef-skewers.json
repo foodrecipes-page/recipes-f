@@ -1,0 +1,98 @@
+{
+  "title": "Fiery Smoked Argentinian Beef Skewers",
+  "description": "Spicy Argentinian dish featuring ground almonds and smoked beef, perfect for adventurous eaters, this low-carb friendly recipe combines the flavors of South America with a cheesy twist, the cheese-pull effect is achieved with melted mozzarella.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 peppers",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, combine ground beef, ground almonds, smoked paprika, garlic powder, salt, and black pepper, mixing well with your hands until just combined.",
+    "Thread the beef mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and grill for 10 minutes, turning occasionally.",
+    "After 10 minutes, brush the skewers with chipotle peppers in adobo sauce and continue grilling for an additional 5 minutes, or until the internal temperature reaches 160 degrees Fahrenheit.",
+    "Remove the skewers from the grill and top each with shredded mozzarella cheese.",
+    "Return the skewers to the grill and cook for an additional 1-2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheesy",
+    "high-protein",
+    "low-carb",
+    "smoked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "fiery-smoked-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoked-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:09:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "ground almonds",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Fiery Smoked",
+    "dishForm": "Skewers"
+  }
+}
