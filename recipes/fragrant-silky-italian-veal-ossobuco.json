@@ -1,0 +1,107 @@
+{
+  "title": "Fragrant Silky Italian Veal Ossobuco",
+  "description": "A one-pot Italian dish featuring veal ossobuco, flavored with herbs and finished with a silky texture, suitable for a Buddhist temple gathering.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4 pieces",
+      "notes": "about 1 1/2 pounds"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and let them sit at room temperature for 30 minutes before cooking.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the veal shanks until they are browned on all sides, about 5 minutes per side.",
+    "Remove the veal shanks from the pot and set them aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until they are tender, about 10 minutes.",
+    "Add the white wine to the pot and bring it to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef broth, thyme, and bay leaves to the pot and bring it to a boil.",
+    "Return the veal shanks to the pot and make sure they are covered with the cooking liquid.",
+    "Cover the pot and transfer it to the oven, where it will cook at 300 degrees Fahrenheit for 2 1/2 hours, or until the veal is tender and the meat is easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the cooking liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Whisk in the unflavored gelatin and cook over low heat, stirring constantly, until the gelatin is dissolved and the sauce is silky and smooth."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot",
+    "silky-sauce",
+    "special-occasion",
+    "veal-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "fragrant-silky-italian-veal-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-silky-italian-veal-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:20:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "fragrant silky",
+    "dishForm": "Ossobuco"
+  }
+}
