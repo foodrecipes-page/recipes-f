@@ -1,0 +1,102 @@
+{
+  "title": "Fiery Peruvian Cheese Tacu Tacu",
+  "description": "A lacto-vegetarian friendly Peruvian dish featuring fennel seeds and kombu cold extract, with a charred and cheesy texture, perfect for a quick fix meal. This tacu tacu recipe combines the flavors of Peru with a spicy kick.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned beans",
+      "amount": "1 cup",
+      "notes": "black or kidney beans"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, lacto-vegetarian friendly"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced, for spicy kick"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the fennel seeds and cook for 1 minute, until fragrant.",
+    "Add the cooked rice, canned beans, and kombu cold extract, and stir to combine.",
+    "Add the shredded cheese and stir until melted and well combined.",
+    "Add the diced aji amarillo pepper and stir to combine.",
+    "Using a spatula, shape the mixture into a rectangular shape, about 1 inch thick.",
+    "Cook for an additional 5 minutes, until the bottom is charred and the cheese is melted and pulled.",
+    "Flip the tacu tacu and cook for an additional 2 minutes, until the other side is also charred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "lacto-vegetarian",
+    "one-pan",
+    "peruvian-cuisine",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fiery-peruvian-cheese-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-peruvian-cheese-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:45:02Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "fennel seeds",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "Fiery",
+    "dishForm": "Tacu Tacu"
+  }
+}
