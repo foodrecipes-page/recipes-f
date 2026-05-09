@@ -1,0 +1,98 @@
+{
+  "title": "Fluffy Indulgent Argentinian Dried Fruit Empanadas",
+  "description": "Earthly argentinian empanadas filled with dried fruit and nuka pickle, made with shojin friendly ingredients, creating an indulgent treat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "dried fruit mix",
+      "amount": "1 cup",
+      "notes": "containing cranberries, raisins, and apricots"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg replacer",
+      "amount": "1 tablespoon",
+      "notes": "mixed with 3 tablespoons water"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, sugar, and salt.",
+    "Add the melted butter, egg replacer mixture, and vanilla extract to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of dried fruit mix and a teaspoon of nuka pickle in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dried-fruit",
+    "empanadas",
+    "fluffy",
+    "indulgent",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fluffy-indulgent-argentinian-dried-fruit-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-indulgent-argentinian-dried-fruit-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:52:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dried fruit",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "dried fruit",
+    "descriptor": "fluffy indulgent",
+    "dishForm": "Empanadas"
+  }
+}
