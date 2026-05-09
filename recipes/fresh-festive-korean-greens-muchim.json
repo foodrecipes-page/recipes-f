@@ -1,0 +1,96 @@
+{
+  "title": "Fresh Festive Korean Greens Muchim",
+  "description": "A traditional Korean dish featuring a variety of greens and a bouquet garni, pounded in a mortar and pestle to create a festive and flavorful muchim.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean greens",
+      "amount": "2 cups",
+      "notes": "such as gyeonggi or spinach"
+    },
+    {
+      "name": "Bouquet garni",
+      "amount": "1",
+      "notes": "containing thyme, rosemary, and sage"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mortar and pestle, pound the garlic and ginger until well combined and fragrant.",
+    "Add the Korean greens to the mortar and pestle and pound until they are well bruised and fragrant.",
+    "Add the bouquet garni to the mortar and pestle and pound until the greens are well coated with the herbs.",
+    "In a small bowl, whisk together the sesame oil, rice vinegar, salt, and black pepper.",
+    "Pour the dressing over the greens and toss to combine.",
+    "Sprinkle the toasted sesame seeds over the top of the muchim and serve.",
+    "Garnish with additional herbs if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive-dish",
+    "healthy-snack",
+    "korean-food",
+    "low-sodium",
+    "quick-and-easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "fresh-festive-korean-greens-muchim",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-festive-korean-greens-muchim",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:34:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "bouquet garni",
+    "diet": "low-sodium",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "greens",
+    "descriptor": "Fresh Festive",
+    "dishForm": "Muchim"
+  }
+}
