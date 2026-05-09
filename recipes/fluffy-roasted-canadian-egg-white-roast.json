@@ -1,0 +1,93 @@
+{
+  "title": "Fluffy Roasted Canadian Egg White Roast",
+  "description": "A light and winey Canadian dish featuring egg white and roast, perfect for a hangover cure, wrapped in a pandan leaf for added flavor and aroma.",
+  "cuisine": "Canadian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "beef roast",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the egg whites, olive oil, garlic powder, onion powder, salt, and black pepper until stiff peaks form.",
+    "Season the beef roast with salt and black pepper.",
+    "Place the beef roast in the center of each pandan leaf, leaving a 1-inch border around the roast.",
+    "Spoon the egg white mixture over the beef roast, making sure to cover it evenly.",
+    "Fold the pandan leaves over the filling to form a tight package, and secure with kitchen twine if needed.",
+    "Place the packages on a baking sheet lined with parchment paper, and roast in the preheated oven for 25 minutes.",
+    "Remove the packages from the oven, and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "canadian-cuisine",
+    "easy-meal",
+    "high-protein",
+    "pandan-leaf",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "fluffy-roasted-canadian-egg-white-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-roasted-canadian-egg-white-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:00:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "egg white",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "egg white",
+    "descriptor": "fluffy roasted",
+    "dishForm": "Roast"
+  }
+}
