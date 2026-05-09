@@ -1,0 +1,101 @@
+{
+  "title": "Fantastically Crisp German Garlic Skillet",
+  "description": "A nutty and crisp German dish featuring garlic bulb and lardons, perfect for a high-protein meal. This show-off skillet is sure to impress your guests.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic bulb",
+      "amount": "2",
+      "notes": "peeled and separated into cloves"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "diced into 1/2 inch pieces"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the lardons over medium heat until crispy, then set aside.",
+    "In the same skillet, add the vegetable oil and cook the chicken breast until browned, then set aside with the lardons.",
+    "Add the sliced onions to the skillet and cook until they are translucent and starting to caramelize.",
+    "Add the sliced potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Add the garlic cloves to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the caraway seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Return the cooked chicken and lardons to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the potatoes are crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "german-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "fantastically-crisp-german-garlic-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastically-crisp-german-garlic-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:51:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "garlic bulb",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "garlic",
+    "descriptor": "Fantastically Crisp",
+    "dishForm": "Skillet"
+  }
+}
