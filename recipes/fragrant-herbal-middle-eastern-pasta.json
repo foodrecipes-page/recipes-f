@@ -1,0 +1,101 @@
+{
+  "title": "Fragrant Herbal Middle Eastern Pasta",
+  "description": "A keto-friendly, crowd-pleasing Middle Eastern dish featuring bowtie pasta, fragrant herbs, and a glassy-jelly texture, all wrapped in a lotus leaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": "keto-friendly, low-carb"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the chopped parsley and dill to the skillet and cook until wilted.",
+    "In a large bowl, whisk together the lemon juice, salt, and black pepper.",
+    "Add the cooked pasta to the bowl and toss with the lemon juice mixture until well coated.",
+    "Stir in the wilted herb mixture and toss until the pasta is well combined.",
+    "To assemble the dish, lay a lotus leaf flat and place a portion of the pasta mixture in the center of the leaf.",
+    "Fold the lotus leaf over the pasta to form a tight package and steam for 5-7 minutes.",
+    "Serve the fragrant herbal pasta hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "keto-friendly",
+    "low-carb",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "fragrant-herbal-middle-eastern-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-herbal-middle-eastern-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:41:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pasta",
+    "descriptor": "fragrant herbal",
+    "dishForm": "Pasta"
+  }
+}
