@@ -3,8 +3,7 @@
   "description": "A fermented and aerated Indian dish featuring Wensleydale cheese, baked in a tandoor clay pot to create a cozy and delicious meal.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -81,7 +80,7 @@
     "mood": "cozy",
     "technique": "bake",
     "primaryIngredient": "wensleydale",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "gujarati",
     "cuisineAdjective": "Indian",
     "mainIngredient": "Wensleydale",

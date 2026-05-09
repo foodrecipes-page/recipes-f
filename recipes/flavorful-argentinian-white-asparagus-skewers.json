@@ -3,8 +3,7 @@
   "description": "Garlicky and energizing, this Argentinian dish features white asparagus and wok-hei, perfect for a high-protein snack or appetizer, served from a fondue pot.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Serve the skewers hot with shaved grana padano cheese and chopped parsley.",
     "Repeat the cooking process for the remaining skewers.",
     "Keep the fondue pot warm to maintain a consistent temperature.",
-    "Monitor the temperature to prevent overheating."
+    "Monitor the temperature to prevent overheating.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -71,8 +71,7 @@
     "fondue",
     "gluten-free",
     "high-protein",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 320,
