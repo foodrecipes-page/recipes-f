@@ -1,0 +1,106 @@
+{
+  "title": "Freshly Indulgent Italian Noodles Amatriciana",
+  "description": "A cultured and indulgent Italian dish featuring noodles and a rich marinara sauce, this Tuscan-inspired recipe is a perfect blend of flavors and textures. This satvik-friendly version uses vegetarian ingredients to create a delicious and satisfying meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 oz"
+    },
+    {
+      "name": "vegetarian pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the diced vegetarian pancetta to the skillet and cook until crispy.",
+    "Add the canned crushed tomatoes to the skillet and stir to combine with the onion and pancetta mixture.",
+    "Reduce heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
+    "Reserve 1 cup of pasta water before draining the spaghetti and returning it to the pot.",
+    "Add the grated grana padano cheese to the spaghetti and toss to combine, adding some reserved pasta water if necessary to create a creamy sauce.",
+    "Add the simmered sauce to the spaghetti and toss to combine, seasoning with salt and black pepper to taste.",
+    "Serve the spaghetti hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot",
+    "pasta-lovers",
+    "tuscan-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "freshly-indulgent-italian-noodles-amatriciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-indulgent-italian-noodles-amatriciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:52:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "noodles",
+    "diet": "satvik",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "noodles",
+    "descriptor": "Freshly Indulgent",
+    "dishForm": "Amatriciana"
+  }
+}
