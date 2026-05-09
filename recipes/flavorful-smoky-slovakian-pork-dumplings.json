@@ -1,0 +1,98 @@
+{
+  "title": "Flavorful Smoky Slovakian Pork Dumplings",
+  "description": "Smoky and pillowy Slovakian pork dumplings wrapped in pandan leaves, perfect for a solo dinner, featuring the warmth of bay leaf and a rest period for optimal flavor, this dish is also gluten-free-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat for flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground pork, smoked paprika, bay leaves, onion, garlic, salt, and black pepper, mixing well with your hands or a wooden spoon until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the flavors to meld.",
+    "Remove the mixture from the refrigerator and let it rest at room temperature for 30 minutes.",
+    "Lay a pandan leaf flat on a work surface, with the stem end facing you.",
+    "Place a small amount of the pork mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package, repeating with the remaining leaves and filling.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Bake the dumplings for 25 minutes, or until they are cooked through and the internal temperature reaches 160 degrees Fahrenheit.",
+    "Serve the dumplings hot, garnished with additional bay leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "home-cooking",
+    "pandan-wrapped",
+    "pork-dumplings",
+    "slovakian-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "flavorful-smoky-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-smoky-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:44:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "bay leaf",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "flavorful smoky",
+    "dishForm": "Dumplings"
+  }
+}
