@@ -1,0 +1,98 @@
+{
+  "title": "Saudi Arabian Spicy Almond Bake",
+  "description": "A flavorful and energizing Saudi Arabian dish featuring flaked almonds, a perfect snack or dessert. This Jain-friendly recipe is easy to make and packed with nutrients.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "flaked"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tsp",
+      "notes": "clarified"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "fine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, combine the flaked almonds, honey, cinnamon, cayenne pepper, ghee, cardamom, and salt. Mix well until the almonds are evenly coated.",
+    "Add the melted coconut oil to the bowl and mix until the almonds are well coated.",
+    "Transfer the almond mixture to a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the almonds are lightly toasted and fragrant.",
+    "Remove the baking sheet from the oven and let it cool completely.",
+    "Once the bake has cooled, break it into pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "healthy-snacks",
+    "jain-friendly",
+    "saudi-arabian",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 1602,
+    "protein": 36,
+    "carbs": 66,
+    "fat": 134
+  },
+  "slug": "flaky-spicy-saudi-arabian-almonds-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-spicy-saudi-arabian-almonds-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:51:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "flaked almonds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "almonds",
+    "descriptor": "flaky, spicy",
+    "dishForm": "Bake"
+  }
+}
