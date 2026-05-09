@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Glazed Syrian Sausage Kebabs",
+  "description": "A keto-friendly Syrian dish featuring German sausages, a sweet and spicy glaze, and a cheese-pull effect, all cooked in a traditional kazan-cauldron.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably Knockwurst or Bratwurst"
+    },
+    {
+      "name": "Halloumi cheese",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan-cauldron over medium-high heat, adding the olive oil to the bottom.",
+    "Thread the German sausage, Halloumi cheese, and garlic onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the lemon juice, ginger, paprika, cayenne pepper, salt, and black pepper to make the glaze.",
+    "Brush the glaze onto the sausage and cheese, making sure they are fully coated.",
+    "Place the skewers into the kazan-cauldron, searing the sausage for 2-3 minutes on each side.",
+    "Reduce the heat to medium-low and continue cooking for an additional 10 minutes, or until the sausage is cooked through.",
+    "Remove the skewers from the heat and let them rest for 2 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "fiery-glazed-syrian-sausage-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-glazed-syrian-sausage-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:52:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "german sausages",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sausages",
+    "descriptor": "Fiery Glazed",
+    "dishForm": "Kebabs"
+  }
+}
