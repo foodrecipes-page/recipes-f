@@ -1,0 +1,99 @@
+{
+  "title": "Fresh Fragrant Russian Apple Pilaf",
+  "description": "A hearty and flavorful Russian dish featuring braeburn apples and lardons, perfect for a monsoon evening",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "White rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and render the lardons until crispy",
+    "Remove the lardons from the skillet and set aside",
+    "Add the chopped onion to the skillet and cook until softened",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the diced apples to the skillet and cook until they start to soften",
+    "Add the chicken broth, salt, and pepper to the skillet and bring to a boil",
+    "Add the white rice to the skillet and stir to combine",
+    "Reduce the heat to low, cover, and simmer for 20 minutes",
+    "Fluff the pilaf with a fork and stir in the chopped parsley and crispy lardons"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "monsoon-dish",
+    "one-pan",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fresh-fragrant-russian-apple-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fragrant-russian-apple-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:18:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "braeburn apples",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "apples",
+    "descriptor": "Fresh Fragrant",
+    "dishForm": "Pilaf"
+  }
+}
