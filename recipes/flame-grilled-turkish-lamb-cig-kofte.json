@@ -1,0 +1,98 @@
+{
+  "title": "Flame Grilled Turkish Lamb Cig Kofte",
+  "description": "A malty and light Turkish dish featuring wholegrain mustard and flambe, perfect for a hangover cure, made with ayurvedic-rajasic-friendly ingredients in a cig kofte form, served in a ceramic tagine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Mix the lamb mince, wholegrain mustard, olive oil, onion, garlic, paprika, salt, and black pepper in a large bowl until just combined.",
+    "Divide the mixture into 8 equal portions and shape each portion into a cigar shaped kofte.",
+    "Thread the kofte onto metal skewers, leaving a small space between each kofte.",
+    "Grill the kofte for 4-5 minutes per side, or until cooked through.",
+    "Flambe the kofte with a little bit of oil and serve in a ceramic tagine.",
+    "Garnish with parsley and serve immediately.",
+    "Serve with a side of crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "hangover-cures",
+    "lamb-recipes",
+    "one-pot-meals",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "flame-grilled-turkish-lamb-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flame-grilled-turkish-lamb-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:25:07Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "flame grilled",
+    "dishForm": "Cig Kofte"
+  }
+}
