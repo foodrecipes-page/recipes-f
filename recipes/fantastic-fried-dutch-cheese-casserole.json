@@ -1,0 +1,94 @@
+{
+  "title": "Fantastic Fried Dutch Cheese Casserole",
+  "description": "A savory Dutch dish featuring English mustard and a crispy fried crust, perfect for a lazy Sunday. This shojin-friendly casserole is sure to satisfy your cravings.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup shredded",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, eggs, milk, and English mustard.",
+    "Add the shredded Gouda cheese to the bowl and stir until well combined.",
+    "Pour the melted butter into the bowl and stir until the mixture is smooth.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Sprinkle the panko breadcrumbs evenly over the top of the casserole.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the casserole mixture into the hot oil and fry until golden brown.",
+    "Remove the fried casserole balls from the oil and place them on top of the casserole in the baking dish.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "dutch-cuisine",
+    "lazy-sunday",
+    "shojin-ryori",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fantastic-fried-dutch-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-fried-dutch-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:48:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "english mustard",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Fantastic Fried",
+    "dishForm": "Casseroles"
+  }
+}
