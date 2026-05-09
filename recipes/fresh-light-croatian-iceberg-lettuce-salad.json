@@ -1,0 +1,106 @@
+{
+  "title": "Fresh Light Croatian Iceberg Lettuce Salad",
+  "description": "A sweet and creamy Croatian dish featuring iceberg lettuce, perfect for a light lunch, this salad is also FODMAP-friendly and easy to make.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "poached chicken breast",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chilled iceberg lettuce, diced poached chicken breast, sliced cucumber, grated carrots, and diced red bell pepper.",
+    "In a small bowl, whisk together the plain Greek yogurt, honey, lemon juice, salt, and pepper until smooth.",
+    "Pour the yogurt dressing over the lettuce mixture and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional sliced cucumber and carrots if desired.",
+    "Poach the chicken breast in boiling water at 180 degrees Fahrenheit for 15-20 minutes, or until cooked through.",
+    "Let the chicken breast cool to room temperature before dicing and adding to the salad.",
+    "To toast the carrots, place them on a baking sheet and bake in a preheated oven at 400 degrees Fahrenheit for 10-12 minutes, or until slightly tender.",
+    "Let the carrots cool to room temperature before adding to the salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "easy-to-make",
+    "gluten-free",
+    "low-carb",
+    "lunch",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "fresh-light-croatian-iceberg-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-light-croatian-iceberg-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:34:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "iceberg lettuce",
+    "descriptor": "fresh light",
+    "dishForm": "Salad"
+  }
+}
