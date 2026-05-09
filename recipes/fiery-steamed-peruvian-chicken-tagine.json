@@ -1,0 +1,104 @@
+{
+  "title": "Fiery Steamed Peruvian Chicken Tagine",
+  "description": "A quick and flavorful Peruvian dish featuring chicken, peppercorns, and a blend of spices, cooked to perfection in a tagine pot using the mushimono steam method, this recipe is nut-free friendly and offers a bitter and shattering experience for the taste buds.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a tagine pot over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chopped aji amarillo peppers and cook for an additional 2 minutes.",
+    "Add the chicken breast pieces and cook until browned on all sides.",
+    "Add the chicken broth, lime juice, salt, cumin, and black peppercorns to the tagine pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the tagine pot.",
+    "Steam the mixture using the mushimono method for 20 minutes.",
+    "Remove the tagine pot from the heat and let it cool for 5 minutes.",
+    "Serve the chicken and sauce hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "nut-free",
+    "one-pot",
+    "peruvian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "fiery-steamed-peruvian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-steamed-peruvian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:02:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "peppercorns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "fiery steamed",
+    "dishForm": "Tagine"
+  }
+}
