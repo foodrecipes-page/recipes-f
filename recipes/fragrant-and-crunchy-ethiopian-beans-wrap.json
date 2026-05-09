@@ -1,0 +1,127 @@
+{
+  "title": "Fragrant and Crunchy Ethiopian Beans Wrap",
+  "description": "A flavorful and crunchy Ethiopian-inspired dish that can be easily meal-prepped. Perfect for low-sodium diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null,
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt-free Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Double-Rise Bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Lotus Leaf Wraps",
+      "amount": "4-6 wraps",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine lentils, onion, garlic, cilantro, crushed red pepper flakes, cumin, paprika, and salt-free seasoning. Simmer over medium heat for 20-25 minutes or until the lentils are tender.",
+    "Add coconut oil to the saucepan and stir to combine.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Cut the double-rise bread into 1-inch slices and toast until lightly browned.",
+    "Add a slice of toasted bread to each lotus leaf wrap, followed by a spoonful of the lentil mixture, some sliced cucumber, and a tomato slice.",
+    "Optional: fold the bottom edge of the lotus leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients and serve immediately, or refrigerate for up to 3 days or freeze for up to 2 months.",
+    "Serve warm or at room temperature, garnished with additional cilantro if desired.",
+    "Note: Lotus leaf wraps can be found in most Asian grocery stores or online.",
+    "Note: Double-rise bread can be replaced with pita bread or naan for a different texture.",
+    "Note: If using frozen lotus leaf wraps, thaw according to package instructions before using."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "low-sodium",
+    "meal-prep",
+    "one-pan",
+    "vegan",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fragrant-and-crunchy-ethiopian-beans-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-and-crunchy-ethiopian-beans-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beans",
+    "descriptor": "Fragrant and Crunchy",
+    "dishForm": "Wrap"
+  }
+}

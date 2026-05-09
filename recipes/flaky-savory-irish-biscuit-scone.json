@@ -1,0 +1,115 @@
+{
+  "title": "Flaky Savory Irish Biscuit Scone",
+  "description": "A traditional Irish dish, perfect for breakfast or lunch, with a flaky crust and savory flavor, featuring five spice powder and using a bain-marie for even cooking.",
+  "cuisine": "Irish",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "use a combination of white and yellow cheddar for best flavor"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter, melted for brushing",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "In a bowl, whisk together flour, five spice powder, onion powder, and salt.",
+    "Add cold butter to the flour mixture and use a pastry blender or your fingers to work it into crumbs.",
+    "In a separate bowl, whisk together eggs, heavy cream, and cold water.",
+    "Add the wet ingredients to the flour mixture and stir until just combined.",
+    "Turn the dough out onto a lightly floured surface and gently knead a few times until it comes together.",
+    "Roll the dough out to a thickness of about 1 inch (2.5 cm).",
+    "Cut out rounds of dough using a biscuit cutter or the rim of a glass.",
+    "Place the rounds on the prepared baking sheet and brush the tops with melted butter.",
+    "Bake for 18-20 minutes or until golden brown on top and cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "five-spice-powder",
+    "irish-breakfast",
+    "savory-biscuits",
+    "scone-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "flaky-savory-irish-biscuit-scone",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-savory-irish-biscuit-scone",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "five spice powder",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "biscuit",
+    "descriptor": "flaky savory",
+    "dishForm": "scone"
+  }
+}
