@@ -1,0 +1,94 @@
+{
+  "title": "Fast Fatty Japanese Beef Gyudon",
+  "description": "A quick and savory Japanese dish featuring fatty beef and dark rum, served in a Korean brass bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the infuse oil in a large skillet over medium-high heat.",
+    "Add the sliced beef to the skillet and cook for 3-4 minutes per side, or until browned.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the dark rum, soy sauce, and sugar to the skillet and stir to combine.",
+    "Bring the sauce to a boil, then reduce the heat to medium-low and simmer for 2 minutes.",
+    "Return the beef to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 1-2 minutes, or until the beef is cooked to desired level of doneness.",
+    "To serve, place a scoop of cooked white rice in the bottom of a Korean brass bowl.",
+    "Add the beef and sauce on top of the rice.",
+    "Garnish with chopped green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "brass-bowl-recipes",
+    "japanese-cuisine",
+    "one-pot-meals",
+    "quick-dinners"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "fast-fatty-japanese-beef-gyudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fast-fatty-japanese-beef-gyudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:49:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dark rum",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "fast fatty",
+    "dishForm": "Gyudon"
+  }
+}
