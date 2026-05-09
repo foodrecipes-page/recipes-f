@@ -1,0 +1,109 @@
+{
+  "title": "Fragrant Tunisian Prawn Tagine",
+  "description": "A light and flavorful Tunisian dish featuring prawns, with a nutty and molten sauce, diabetic-friendly and cooked to perfection in a Dutch oven.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed and patted dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the Dutch oven over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground cumin and smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the thawed prawns and cook for 2-3 minutes, until they start to turn pink.",
+    "Add the chicken broth, diced tomatoes, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 10 minutes.",
+    "Stir in the chopped fresh parsley and cook for an additional 2 minutes.",
+    "Remove the prawns from the sauce with a slotted spoon and plunge them into an ice bath to stop the cooking process.",
+    "Return the prawns to the sauce and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dutch-oven",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fragrant-tunisian-prawn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-tunisian-prawn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:16:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "prawns",
+    "descriptor": "fragrant molten",
+    "dishForm": "Tagine"
+  }
+}

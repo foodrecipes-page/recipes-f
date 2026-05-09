@@ -1,0 +1,125 @@
+{
+  "title": "Fresh Filipino Fried Lechon",
+  "description": "A light and earthy take on the classic Filipino dish, featuring a sous-vide twist and minimal ingredients.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Madras paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Anchovies",
+      "amount": "6 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Steamed rice",
+      "amount": "for serving",
+      "notes": ""
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 160\b6.",
+    "Season the pork belly with salt and black pepper.",
+    "In a blender or food processor, blend the madras paste, garlic, ginger, and anchovies until smooth.",
+    "Rub the blended mixture all over the pork belly, making sure to coat it evenly.",
+    "Sous-vide the pork belly for 24 hours.",
+    "After 24 hours, remove the pork belly from the sous-vide machine and let it rest at room temperature for 30 minutes.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Sear the pork belly until crispy and golden brown on both sides, about 5-7 minutes per side.",
+    "Transfer the pork belly to a cutting board and let it rest for 5 minutes before slicing.",
+    "Slice the pork belly into thin strips and serve with steamed rice, a sprinkle of fish sauce, and a drizzle of lime juice, garnished with fresh cilantro and fried shallots."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "fresh-filipino-fried-filipino-pork-lechon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-filipino-fried-filipino-pork-lechon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "madras paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Fresh Filipino Fried",
+    "dishForm": "Lechon"
+  }
+}
