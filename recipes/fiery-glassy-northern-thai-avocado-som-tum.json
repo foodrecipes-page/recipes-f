@@ -1,0 +1,98 @@
+{
+  "title": "Fiery Glassy Northern Thai Avocado Som Tum",
+  "description": "A charred and glassy Northern Thai dish featuring avocado, perfect for a sick day, made with a bain-marie for a diabetic-friendly meal.",
+  "cuisine": "Northern Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "3",
+      "notes": "ripe"
+    },
+    {
+      "name": "chilies",
+      "amount": "2",
+      "notes": "Thai bird's eye"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "cherry, halved"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Char the chilies over an open flame until blackened.",
+    "Peel the charred chilies and remove the seeds.",
+    "In a bain-marie, combine the peeled chilies, lime juice, fish sauce, and palm sugar.",
+    "Bring the mixture to a simmer and cook until the sugar has dissolved.",
+    "Mash the avocado in a bowl and stir in the chili mixture.",
+    "Fold in the roasted peanuts, cherry tomatoes, and chopped cilantro.",
+    "Season with salt to taste.",
+    "Serve the som tum immediately, garnished with additional cilantro if desired.",
+    "Refrigerate any leftovers for up to a day.",
+    "Reheat the som tum gently before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "northern-thai",
+    "som-tum",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fiery-glassy-northern-thai-avocado-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-glassy-northern-thai-avocado-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:11:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "bain-marie",
+    "primaryIngredient": "avocado",
+    "diet": "diabetic-friendly",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "avocado",
+    "descriptor": "fiery glassy",
+    "dishForm": "Som Tum"
+  }
+}
