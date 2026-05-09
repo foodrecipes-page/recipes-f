@@ -1,0 +1,103 @@
+{
+  "title": "Freshly Fried Jamaican Squash Curry",
+  "description": "A sour and chewy Jamaican dish featuring squash, perfect for a brunch mood, made with a tadka for added flavor and is vegan-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "acorn squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder, turmeric, and cumin and cook for 1 minute.",
+    "Add the squash and cook until tender, about 10 minutes.",
+    "Stir in the lime juice and salt.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Let it cool for a few minutes before serving.",
+    "Serve with rice or roti for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "curry",
+    "jamaican",
+    "one-pan",
+    "squash",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "freshly-fried-jamaican-squash-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fried-jamaican-squash-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:20:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "squash",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "squash",
+    "descriptor": "freshly fried",
+    "dishForm": "Curry"
+  }
+}
