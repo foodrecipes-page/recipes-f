@@ -1,0 +1,104 @@
+{
+  "title": "Fresh Fermented Malaysian Beef Skewers",
+  "description": "A sugar-free-friendly Malaysian dish featuring lean minced beef, fermented to create a fresh and adventurous flavor profile, served on a robata-grill",
+  "cuisine": "Malaysian",
+  "diet": [
+    "sugar-free",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine minced beef, fish sauce, lime juice, grated ginger, garlic, chili flakes, salt, and black pepper, and mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the flavors to meld and the meat to ferment slightly.",
+    "Preheat the robata-grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread a small amount of the beef mixture onto each bamboo skewer, leaving a small space between each piece of meat.",
+    "Brush the grill with coconut oil to prevent sticking.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally, until the meat is cooked through and slightly charred.",
+    "Serve the skewers hot, garnished with sliced fresh cilantro and lime wedges.",
+    "Allow the skewers to rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-foods",
+    "grilled-meats",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "fresh-fermented-malaysian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fermented-malaysian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:48:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "lean minced beef",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Fresh Fermented",
+    "dishForm": "Skewers"
+  }
+}
