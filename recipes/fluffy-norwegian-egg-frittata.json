@@ -1,0 +1,109 @@
+{
+  "title": "Fluffy Norwegian Egg Frittata",
+  "description": "A citrusy and creamy Norwegian dish featuring eggs, pickles, and vegetables, perfect for a sick day. This vegetarian-friendly frittata is a comforting and delicious meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickled cucumbers",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic over medium heat until softened.",
+    "In a large bowl, whisk together the eggs, sour cream, lemon juice, salt, and black pepper.",
+    "Add the diced pickled cucumbers, shredded cheese, and cooked onion mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch pie plate or skillet.",
+    "Bake the frittata for 25-30 minutes or until the edges are golden brown and the center is set.",
+    "Remove the frittata from the oven and let it cool for a few minutes.",
+    "Sprinkle the chopped fresh parsley on top of the frittata, if desired.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "norwegian",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "fluffy-norwegian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-norwegian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:59:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "egg",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "egg",
+    "descriptor": "fluffy creamy",
+    "dishForm": "Frittata"
+  }
+}
