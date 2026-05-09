@@ -1,0 +1,103 @@
+{
+  "title": "Flavorful Turkish Pasta Pilaf",
+  "description": "A jammy, chewy, lazy-sunday Turkish dish featuring Parmigiano-Reggiano, pasta-water-emulsion, and low-fat-friendly ingredients, cooked to perfection in a kazan cauldron.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "short, sturdy shapes like penne or rigatoni"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kazan cauldron over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the tomato paste and cook for 2 minutes, until it is fragrant and darkened slightly.",
+    "Add the pasta, chicken broth, salt, black pepper, and paprika to the cauldron.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the pasta is al dente.",
+    "Stir in the grated Parmigiano-Reggiano until it is well combined and the sauce is creamy.",
+    "Remove the cauldron from the heat and let it cool slightly, allowing the flavors to meld together.",
+    "Serve the pilaf hot, garnished with additional Parmigiano-Reggiano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lazy-sunday",
+    "low-fat",
+    "one-pot",
+    "pasta-dish",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "flavorful-turkish-pasta-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-turkish-pasta-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:51:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pasta",
+    "descriptor": "flavorful lazy",
+    "dishForm": "Pilaf"
+  }
+}
