@@ -1,0 +1,103 @@
+{
+  "title": "Fluffy Romantic Saudi Arabian Rice Pilaf",
+  "description": "A cultured and fluffy Saudi Arabian dish, this romantic rice pilaf is made with warm water and features a mortar-pestle-pound method, making it jain-friendly and perfect for a special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Warm water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a claypot over medium heat.",
+    "Add the cumin seeds and coriander seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the minced garlic and saute for another minute.",
+    "Add the rinsed and drained basmati rice and stir to coat the rice with the ghee or oil.",
+    "Add the warm water, salt, black pepper, and cardamom powder to the claypot.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the claypot with a tight-fitting lid.",
+    "Simmer for 15-20 minutes or until the water is absorbed and the rice is fluffy.",
+    "Use a mortar and pestle to pound the cooked rice gently to separate the grains.",
+    "Serve the fluffy romantic Saudi Arabian rice pilaf hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "jain-friendly",
+    "middle-eastern",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "fluffy-romantic-saudi-arabian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-romantic-saudi-arabian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:38:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "warm water",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "fluffy romantic",
+    "dishForm": "Pilaf"
+  }
+}
