@@ -1,0 +1,112 @@
+{
+  "title": "Fermented Uruguayan Butternut Squash Empanadas",
+  "description": "A deliciously crumbly and fermented twist on traditional Uruguayan empanadas, featuring roasted butternut squash and a tangy mother sauce base.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash (1 medium, 2 lbs)",
+      "amount": "4 cups, cooked and mashed",
+      "notes": " peeled and cubed before roasting"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/2 cup",
+      "notes": "fermented mixture of onion, garlic, and bell pepper"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "vegan butter (optional)",
+      "amount": "2 tbsp",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "jain-friendly cheese alternative",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "added to mother sauce"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1/4 cup",
+      "notes": "added to mother sauce"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1/4 cup",
+      "notes": "added to mother sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the butternut squash in the oven for 45 minutes, or until tender.",
+    "Let the squash cool, then mash it in a large bowl.",
+    "In a separate bowl, mix together the mother sauce, salt, and sesame oil.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of mashed squash on one half of each dough circle, leaving a 1/2 inch border around the edges.",
+    "Brush the edges with sesame oil or vegan butter.",
+    "Fold the dough in half to form a half-moon shape, pressing the edges to seal.",
+    "Brush the tops of the empanadas with sesame oil or vegan butter.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "fermented",
+    "jain-friendly",
+    "uruguayan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fermented-uruguayan-butternut-squash-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-uruguayan-butternut-squash-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "butternut squash",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "butternut squash",
+    "descriptor": "fermented",
+    "dishForm": "Empanadas"
+  }
+}
