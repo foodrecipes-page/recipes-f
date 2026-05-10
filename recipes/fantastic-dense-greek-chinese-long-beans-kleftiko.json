@@ -1,0 +1,101 @@
+{
+  "title": "Fantastic Dense Greek Chinese Long Beans Kleftiko",
+  "description": "A bitter, dense, and indulgent Greek dish featuring Chinese long beans, cooked in a traditional ttukbaegi earthenware vessel and served in a scallop shell. This satvik-friendly recipe is a unique fusion of flavors and textures.",
+  "cuisine": "Greek Chinese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the Chinese long beans with olive oil, onion, garlic, lemon juice, oregano, thyme, salt, and black pepper until they are evenly coated.",
+    "Transfer the bean mixture to a ttukbaegi earthenware vessel or a scallop shell.",
+    "Cover the vessel with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the beans are tender and caramelized.",
+    "Remove the vessel from the oven and let it cool for a few minutes.",
+    "Serve the kleftiko hot, garnished with additional lemon wedges and thyme if desired.",
+    "Traditionally, kleftiko is cooked in a pit or a wood fired oven, but this recipe adapts it for home cooking.",
+    "You can also cook the kleftiko in a slow cooker on low for 2-3 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-fusion",
+    "earthenware-cooking",
+    "greek-inspired",
+    "indulgent",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "fantastic-dense-greek-chinese-long-beans-kleftiko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fantastic-dense-greek-chinese-long-beans-kleftiko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:41:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chinese long beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Fantastic Dense",
+    "dishForm": "Kleftiko"
+  }
+}

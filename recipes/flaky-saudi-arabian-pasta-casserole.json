@@ -1,0 +1,98 @@
+{
+  "title": "Flaky Saudi Arabian Pasta Casserole",
+  "description": "A sour and crumbly Saudi Arabian dish featuring graham cracker crumbs and pasta water emulsion, perfect for a sick day. It is a comforting and easy to make meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup",
+      "notes": "freshly crushed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": "reserved from cooking pasta"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "zaatar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the pasta according to package instructions and reserve 1 cup of pasta water.",
+    "In a large bowl, combine the cooked pasta, sour cream, and zaatar, if using.",
+    "In a separate bowl, mix the graham cracker crumbs and melted butter until well combined.",
+    "Add the pasta water to the pasta mixture and stir until a smooth emulsion forms.",
+    "In a 9x13 inch baking dish, create a layer of the pasta mixture.",
+    "Top the pasta layer with a layer of the graham cracker crumb mixture.",
+    "Repeat the layers one more time, ending with a layer of graham cracker crumbs on top.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "middle-eastern",
+    "one-pan",
+    "pasta-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flaky-saudi-arabian-pasta-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-saudi-arabian-pasta-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:42:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pasta",
+    "descriptor": "fragrant flaky",
+    "dishForm": "Casserole"
+  }
+}
