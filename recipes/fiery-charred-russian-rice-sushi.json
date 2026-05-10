@@ -1,0 +1,97 @@
+{
+  "title": "Fiery Charred Russian Rice Sushi",
+  "description": "A charred, crispy, and spicy Russian-inspired sushi dish featuring rice paper sheets and nigiri-shaping, friendly to gluten-free diets.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice paper sheets",
+      "amount": "12 sheets",
+      "notes": "Round and large enough to wrap filling"
+    },
+    {
+      "name": "Russian rice mix",
+      "amount": "2 cups",
+      "notes": "Pre-cooked and seasoned"
+    },
+    {
+      "name": "Spicy sausage",
+      "amount": "1 cup",
+      "notes": "Sliced and cooked"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/2 cup",
+      "notes": "Pre-made and crushed"
+    },
+    {
+      "name": "Fiery sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium-high heat to achieve a charred effect.",
+    "Prepare the spicy sausage by slicing it into thin strips and cooking until browned.",
+    "In a large bowl, mix together the pre-cooked Russian rice, pickled ginger, crispy onions, and a pinch of salt.",
+    "Lay a rice paper sheet flat on a clean surface and place about 1/4 cup of the rice mixture in the center of the sheet.",
+    "Add a few slices of the cooked spicy sausage on top of the rice mixture.",
+    "Drizzle a small amount of fiery sauce over the sausage and rice.",
+    "Fold the bottom half of the rice paper sheet up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat the process with the remaining ingredients to form 12 sushi rolls.",
+    "Char the sushi rolls on the preheated skillet or griddle for about 2-3 minutes on each side, until crispy and golden brown.",
+    "Serve the charred sushi rolls hot with additional fiery sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-dishes",
+    "gluten-free",
+    "russian-cuisine",
+    "spicy-food",
+    "sushi-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "fiery-charred-russian-rice-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-charred-russian-rice-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:41:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rice",
+    "descriptor": "Fiery Charred",
+    "dishForm": "Sushi"
+  }
+}

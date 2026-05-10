@@ -1,0 +1,93 @@
+{
+  "title": "Freshly Boiled Russian Date Pilaf",
+  "description": "A romantic Russian dish featuring pitted dates, this keto-friendly pilaf is a fresh and shattering twist on traditional recipes. It is made with boiled dates and a blend of spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large saucepan.",
+    "Add the pitted dates to the boiling broth and cook for 5 minutes.",
+    "Add the cauliflower rice, unsalted butter, salt, black pepper, dried thyme, and garlic powder to the saucepan.",
+    "Reduce heat to low and simmer, covered, for 15 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve immediately and enjoy.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower-rice",
+    "date-recipes",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "romantic-dinner",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "freshly-boiled-russian-date-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-boiled-russian-date-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:41:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "pitted dates",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dates",
+    "descriptor": "Freshly boiled",
+    "dishForm": "Pilaf"
+  }
+}
