@@ -1,0 +1,98 @@
+{
+  "title": "Flavorful Canadian Baby Aubergine Skillet",
+  "description": "A weeknight Canadian dish featuring baby aubergine with a shio-koji cure, this recipe is low-fat-friendly and perfect for a quick dinner. The briny and aerated flavors will leave you wanting more.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced baby aubergine and cook for 3-4 minutes on each side, until tender and lightly browned.",
+    "Remove the aubergine from the skillet and set aside.",
+    "Add the minced garlic and chopped onion to the skillet and cook until the onion is translucent.",
+    "Add the shio-koji, chicken broth, dried thyme, salt, and black pepper to the skillet and stir to combine.",
+    "Return the cooked aubergine to the skillet and toss to coat with the shio-koji mixture.",
+    "Reduce heat to low and simmer for 5 minutes, until the flavors have melded together.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "low-fat",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "flavorful-canadian-baby-aubergine-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-canadian-baby-aubergine-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:26:16Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "baby aubergine",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "flavorful aerated",
+    "dishForm": "Skillet"
+  }
+}
