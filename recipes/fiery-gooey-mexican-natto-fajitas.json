@@ -1,0 +1,96 @@
+{
+  "title": "Fiery Gooey Mexican Natto Fajitas",
+  "description": "A lacto-vegetarian friendly, peppery, and gooey Mexican dish featuring natto, served in a fajita style, perfect for a brunch mood. This norteño inspired recipe combines the creaminess of cheese with the spiciness of peppers.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 small",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the sliced onions and bell peppers.",
+    "Cook the vegetables for 5 minutes, or until they start to soften.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the natto and cook for 2 minutes, breaking it up with a spoon as it cooks.",
+    "Add the shredded cheese and stir until it is melted and gooey.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the fajitas by spooning the natto and vegetable mixture onto a tortilla and topping with salsa and cilantro.",
+    "Serve immediately and enjoy.",
+    "Repeat with the remaining ingredients.",
+    "Garnish with additional cilantro and salsa if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "cheesy-dish",
+    "fajita-recipe",
+    "lacto-vegetarian",
+    "mexican-inspired",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "fiery-gooey-mexican-natto-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-gooey-mexican-natto-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:32:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "natto",
+    "diet": "lacto-vegetarian",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "natto",
+    "descriptor": "fiery gooey",
+    "dishForm": "Fajitas"
+  }
+}
