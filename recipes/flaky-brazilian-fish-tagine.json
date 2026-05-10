@@ -1,0 +1,96 @@
+{
+  "title": "Flaky Brazilian Fish Tagine",
+  "description": "A buttery and dense Brazilian dish featuring icing sugar and beurre-monte, perfect for a pescatarian-friendly brunch",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brazilian spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt, black pepper, and brazilian spices.",
+    "Melt the butter in a ceramic tagine over medium heat.",
+    "Add the beurre-monte and stir until well combined.",
+    "Add the cod fillets and cook for 2 minutes on each side.",
+    "Transfer the tagine to the preheated oven and bake for 12 minutes.",
+    "Remove the tagine from the oven and sprinkle the icing sugar on top.",
+    "Drizzle the lemon juice over the cod fillets and garnish with chopped parsley.",
+    "Serve the flaky brazilian fish tagine hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "brunch-ideas",
+    "fish-recipes",
+    "one-pot-meals",
+    "seafood-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "flaky-brazilian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-brazilian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:36:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "icing sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "flaky dense",
+    "dishForm": "Tagine"
+  }
+}
