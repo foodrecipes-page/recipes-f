@@ -1,0 +1,104 @@
+{
+  "title": "Fluffy Argentinian New Potatoes Gratin",
+  "description": "A hearty Argentinian dish featuring new potatoes in a rich and creamy gratin, perfect for a cozy dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "sashimi-cut into 1/8 inch thick slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large saucepan, combine the sliced new potatoes and enough cold water to cover them, then bring to a boil over high heat",
+    "Reduce the heat to medium-low and simmer the potatoes for 5 minutes, or until they are slightly tender",
+    "Drain the potatoes and set them aside",
+    "In a large skillet, heat the unsalted butter and olive oil over medium heat",
+    "Add the thinly sliced onion to the skillet and cook, stirring occasionally, until it is softened and lightly browned",
+    "Add the minced garlic to the skillet and cook, stirring constantly, for 1 minute",
+    "In a greased 9x13 inch baking dish, create a layer of the cooked potatoes",
+    "Spread half of the cooked onion and garlic mixture over the potatoes, then sprinkle with half of the shredded gruyere cheese",
+    "Repeat the layers, starting with the potatoes, then the remaining onion and garlic mixture, and finally the remaining gruyere cheese",
+    "In a small bowl, whisk together the heavy cream, dried thyme, salt, and black pepper, then pour the mixture over the top layer of cheese"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "fluffy-argentinian-new-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-argentinian-new-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:19:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "new potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "new potatoes",
+    "descriptor": "fluffy pillowy",
+    "dishForm": "Gratin"
+  }
+}
