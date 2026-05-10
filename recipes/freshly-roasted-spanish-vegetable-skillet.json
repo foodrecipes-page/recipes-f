@@ -1,0 +1,100 @@
+{
+  "title": "Freshly Roasted Spanish Vegetable Skillet",
+  "description": "A hearty and flavorful Valencian-inspired dish featuring roasted vegetables cooked to perfection on a tava griddle, perfect for a lazy Sunday meal. This low-carb friendly recipe is a great option for those looking for a healthy and satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium heat.",
+    "In a large bowl, toss the sliced eggplant, zucchini, red bell pepper, and onion with 2 tablespoons of olive oil, salt, and black pepper until they are evenly coated.",
+    "Arrange the vegetables on the preheated tava griddle in a single layer, working in batches if necessary.",
+    "Roast the vegetables for 20-25 minutes, flipping them halfway through, until they are tender and lightly browned.",
+    "In a small bowl, mix together the minced garlic and smoked paprika.",
+    "Add the garlic and smoked paprika mixture to the roasted vegetables and stir to combine.",
+    "Reduce heat to low and simmer the vegetables for an additional 5 minutes, stirring occasionally.",
+    "Serve the roasted vegetable skillet hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "mushimono-steam",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "freshly-roasted-spanish-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-roasted-spanish-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T06:01:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "low-carb",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Freshly Roasted",
+    "dishForm": "Skillet"
+  }
+}
