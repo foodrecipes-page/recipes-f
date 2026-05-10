@@ -1,0 +1,102 @@
+{
+  "title": "Fluffy Syrian Beef Kebabs",
+  "description": "A paleo-friendly twist on traditional Syrian beef kebabs, featuring lean minced beef and a delicate floral flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lean Minced Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Finely Chopped Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flaky All-Purpose Gluten-Free Baking Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the minced beef, chopped onion, parsley, mint, garlic powder, salt, and black pepper.",
+    "Using your hands or a wooden spoon, mix the ingredients until just combined, being careful not to overmix.",
+    "Add the lemon juice and olive oil, and mix until the ingredients are well coated.",
+    "Add the baking powder and mix until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Using your hands, shape the mixture into small kebabs, about 1 1/2 inches in diameter.",
+    "Thread the kebabs onto skewers, leaving a small space between each kebab.",
+    "Grill the kebabs for 3-4 minutes per side, or until they are cooked through and slightly charred.",
+    "Serve the kebabs hot, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-syrian",
+    "grilled",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "fluffy-syrian-beef-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-syrian-beef-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:26:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "lean minced beef",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beef",
+    "descriptor": "Fluffy",
+    "dishForm": "Kebabs"
+  }
+}
