@@ -1,0 +1,102 @@
+{
+  "title": "Flaky Fried Syrian Lamb Pilaf",
+  "description": "A spicy and flaky Syrian dish featuring ground clove and bonito flakes, cooked to perfection in a claypot. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the rice in a fine mesh sieve until the water runs clear.",
+    "In a large claypot, heat the olive oil over medium heat.",
+    "Add the ground lamb and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the ground clove, salt, and black pepper, and stir to combine.",
+    "Add the bonito flakes and stir to combine.",
+    "Add the rice to the claypot and stir to combine with the lamb mixture.",
+    "Add the water and lemon juice to the claypot, and bring to a boil.",
+    "Cover the claypot with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the claypot from the oven and sprinkle the chopped parsley over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "flaky-pilaf",
+    "lamb-recipes",
+    "middle-eastern-food",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "flaky-fried-syrian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-syrian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:01:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ground clove",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "flaky fried",
+    "dishForm": "Pilaf"
+  }
+}
