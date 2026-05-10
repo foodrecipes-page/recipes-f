@@ -1,0 +1,112 @@
+{
+  "title": "Flavorful Umami Middle Eastern Kippers Warak Enab",
+  "description": "A flavorful and energizing Middle Eastern dish featuring kippers, with a rich umami taste and a satisfying cheese pull, perfect for a weeknight dinner. This egg-free friendly recipe is a twist on the traditional warak enab, with the added depth of mantecare emulsification.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 oz",
+      "notes": "smoked and canned"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the grape leaves and blanch them in boiling water for 30 seconds.",
+    "In a bowl, mix together the ricotta cheese, feta cheese, garlic, lemon juice, sumac, salt, and black pepper.",
+    "Add the mantecare emulsified kippers to the cheese mixture and stir until well combined.",
+    "Lay a grape leaf flat and place a tablespoon of the kipper cheese mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the warak enab in a baking dish and drizzle with olive oil.",
+    "Bake for 20 minutes, or until the grape leaves are tender and the filling is heated through.",
+    "Serve hot, garnished with additional sumac and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "egg-free",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "flavorful-umami-middle-eastern-kippers-warak-enab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-umami-middle-eastern-kippers-warak-enab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:08:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "kippers",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "kippers",
+    "descriptor": "Flavorful Umami",
+    "dishForm": "Warak Enab"
+  }
+}
