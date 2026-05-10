@@ -1,0 +1,94 @@
+{
+  "title": "Flavorful Mediterranean Fish Pilaf",
+  "description": "A pungent and savory pescatarian dish featuring braeburn apples and katsuramuki-cut fish, perfect for a post-workout meal, cooked to perfection in a bamboo steamer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Fish fillets",
+      "amount": "4 fillets",
+      "notes": "katsuramuki-cut, any white fish"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup uncooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the bamboo steamer by filling the bottom with 2 inches of water and bringing it to a boil.",
+    "In a large bowl, mix together the sliced apples, crumbled feta cheese, and chopped parsley.",
+    "In a separate bowl, whisk together the olive oil, lemon juice, and minced garlic.",
+    "Add the brown rice to the bowl with the olive oil mixture and stir until the rice is well coated.",
+    "Place the katsuramuki-cut fish fillets on a plate or tray that fits inside the bamboo steamer.",
+    "Add the apple and feta mixture on top of the fish fillets.",
+    "Place the plate or tray with the fish and apple mixture inside the bamboo steamer.",
+    "Steam the fish and apple mixture for 12 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Serve the fish and apple mixture over the brown rice and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "healthy",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "flavorful-mediterranean-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-mediterranean-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:36:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "braeburn apples",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "flavorful pungent",
+    "dishForm": "Pilaf"
+  }
+}
