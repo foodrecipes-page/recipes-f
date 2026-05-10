@@ -1,0 +1,96 @@
+{
+  "title": "Fluffy Nutty Thai Coconut Khanom Krok",
+  "description": "A nutty and fluffy Southern Thai dessert featuring coconut and lemon juice, made without eggs and simmered in a nimono style.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, rice flour, grated coconut, palm sugar, lemon juice, and salt in a large bowl.",
+    "Gradually add in the water and mix until a smooth batter forms.",
+    "Heat the peanut oil in a deep frying pan over medium heat.",
+    "Using a khanom krok mold or a mini muffin tin, pour the batter into each mold about 3/4 of the way full.",
+    "Place the mold in the frying pan and simmer for 5 minutes or until the bottoms are lightly browned.",
+    "Loosen the khanom krok with a spatula and flip them over to cook for an additional 2 minutes.",
+    "Remove the khanom krok from the mold and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the fluffy nutty Thai coconut khanom krok warm, garnished with chopped peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "gluten-free",
+    "nutty-flavors",
+    "one-pan",
+    "thai-desserts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "fluffy-nutty-thai-coconut-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-nutty-thai-coconut-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:58:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "lemon juice",
+    "diet": "egg-free",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "fluffy nutty",
+    "dishForm": "Khanom Krok"
+  }
+}
