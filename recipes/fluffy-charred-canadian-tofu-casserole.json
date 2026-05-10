@@ -1,0 +1,98 @@
+{
+  "title": "Fluffy Charred Canadian Tofu Casserole",
+  "description": "A comforting Canadian dish featuring herbes-de-provence and charred tofu, this casserole is a jain-friendly delight that is both fluffy and savory.",
+  "cuisine": "Canadian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium high heat and char the tofu until golden brown.",
+    "In a separate pan, saute the onion and garlic until the onion is translucent.",
+    "Add the mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "In a large bowl, whisk together the flour, herbes-de-provence, and a pinch of salt and pepper.",
+    "Gradually add the vegetable broth and soy milk to the bowl, whisking until smooth.",
+    "Add the cooked mushroom mixture and charred tofu to the bowl and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes or until the casserole is set and lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "jain-friendly",
+    "tofu-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "fluffy-charred-canadian-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-charred-canadian-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:55:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "whisk",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "fluffy charred",
+    "dishForm": "Casserole"
+  }
+}
