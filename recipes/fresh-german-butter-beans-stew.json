@@ -1,0 +1,101 @@
+{
+  "title": "Fresh German Butter Beans Stew",
+  "description": "A sour and dense German dish featuring butter beans, perfect for a date night, with an al-dente finish and ovo-vegetarian friendly ingredients, cooked in a cazuela.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the cazuela over medium heat and add the chopped onion to saute until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the fresh butter beans, apple cider vinegar, and vegetable broth to the cazuela.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes, or until the butter beans are al-dente.",
+    "Stir in the sour cream and cook for an additional 2 minutes, until heated through.",
+    "Crack the egg into the cazuela and stir gently to combine, cooking for an additional 2 minutes, until the egg is cooked to desired doneness.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the Fresh German Butter Beans Stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "german-cuisine",
+    "one-pot",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fresh-german-butter-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-german-butter-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:53:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "butter beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "butter beans",
+    "descriptor": "Fresh Dense",
+    "dishForm": "Stew"
+  }
+}
