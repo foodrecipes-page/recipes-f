@@ -1,0 +1,101 @@
+{
+  "title": "Fiery Roasted Ukrainian Morcilla Paella",
+  "description": "A roasted Ukrainian dish featuring morcilla, made in a paella pan and suitable for a post-workout meal, this recipe combines flavors and heat to create a unique culinary experience.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the morcilla into 1-inch thick rounds and set aside.",
+    "Heat the olive oil in the paella pan over medium-high heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the morcilla and cook until browned on both sides, about 2 minutes per side.",
+    "Add the smoked paprika, salt, black pepper, and cayenne pepper, and stir to combine.",
+    "Add the brown rice, chicken broth, and diced tomatoes, and stir to combine.",
+    "Transfer the paella pan to the preheated oven and roast for 25 minutes.",
+    "Remove the paella pan from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "post-workout",
+    "roasted",
+    "spicy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "fiery-roasted-ukrainian-morcilla-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-roasted-ukrainian-morcilla-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:47:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "morcilla",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Fiery Roasted",
+    "dishForm": "Paella"
+  }
+}
