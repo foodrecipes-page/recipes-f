@@ -1,0 +1,94 @@
+{
+  "title": "Fresh Fried Spanish Yautia Bisque",
+  "description": "A light and refreshing Spanish dish made with yautia, perfect for a quick weeknight meal. Bitter and delicious!",
+  "cuisine": "spanish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 medium tubers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "white pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the yautia into 1-inch cubes.",
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add yautia to saucepan and cook for 5 minutes.",
+    "Add chicken broth, water, salt, and pepper to saucepan.",
+    "Bring to a boil, then reduce heat and simmer for 15 minutes.",
+    "Blend soup in batches until smooth, then return to saucepan.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "fresh-fried-spanish-yautia-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fried-spanish-yautia-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:15:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "soffritto-base",
+    "primaryIngredient": "yautia",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Yautia",
+    "descriptor": "Fresh Fried",
+    "dishForm": "Bisque"
+  }
+}
