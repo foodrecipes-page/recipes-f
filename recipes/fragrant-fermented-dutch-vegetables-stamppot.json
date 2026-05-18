@@ -1,0 +1,104 @@
+{
+  "title": "Fragrant Fermented Dutch Vegetables Stamppot",
+  "description": "A tangy and silky Dutch dish featuring yuzu-kosho, ferment-jang, and kosher-friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 bunches",
+      "notes": "Curly or lacinato kale"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4",
+      "notes": "Thinly sliced or diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Yuzu-kosho",
+      "amount": "2 tsp",
+      "notes": "Asian chili paste"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "1 tsp",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Kosher salt"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For fermenting"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together yuzu-kosho, ferment-jang, and 2 tablespoons of butter.",
+    "In a large saucepan, combine sliced carrots, potatoes, and onions.",
+    "Add 1 cup of water to the saucepan and bring to a boil over high heat.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Add the mixed yuzu-kosho and ferment-jang to the saucepan and stir to combine.",
+    "Add the chopped kale to the saucepan and stir to combine.",
+    "Season with salt to taste.",
+    "Serve the stamppot hot, topped with the remaining 2 tablespoons of melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "high-fiber",
+    "keto-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fragrant-fermented-dutch-vegetables-stamppot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-fermented-dutch-vegetables-stamppot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:14:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Fragrant Fermented",
+    "dishForm": "Stamppot"
+  }
+}
