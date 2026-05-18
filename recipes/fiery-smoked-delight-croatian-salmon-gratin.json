@@ -1,0 +1,112 @@
+{
+  "title": "Fiery Smoked Delight Croatian Salmon Gratin",
+  "description": "A unique, vegan-friendly Croatian dish featuring smoked salmon, clay-pot-cooked to perfection in a raclette grill. The combination of smoky salmon, tangy lemon, and spicy peppers will transport your taste buds to the Dalmatian coast.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked salmon fillets",
+      "amount": "4",
+      "notes": "Look for wild-caught, sustainably sourced salmon"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Use fresh, organic lemons for the best flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "Sweet or smoked paprika work well in this recipe"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced garlic adds depth to the dish without overpowering the salmon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste, depending on your desired level of heat"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Use curly-leaf parsley for a traditional look"
+    },
+    {
+      "name": "Vegan cream cheese",
+      "amount": "8 oz",
+      "notes": "This replaces traditional cream cheese in a vegan-friendly twist"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Dill adds a bright, fresh flavor to the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use flaky sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground black pepper enhances the flavors of the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your raclette grill to 375°F (190°C).",
+    "Rinse the smoked salmon fillets under cold water, pat them dry with paper towels, and set them aside.",
+    "In a small bowl, mix together the paprika, garlic, red pepper flakes, salt, and black pepper.",
+    "Place a piece of parchment paper on the raclette grill, leaving a small border around the edges.",
+    "Arrange the salmon fillets on the parchment paper, leaving a small gap between each fillet.",
+    "Sprinkle the paprika spice mixture evenly over the salmon fillets.",
+    "Place the raclette grill in the oven and cook for 8-10 minutes, or until the salmon is cooked through and flakes easily with a fork.",
+    "While the salmon cooks, mix together the vegan cream cheese, chopped parsley, and chopped dill in a small bowl.",
+    "Once the salmon is cooked, remove the raclette grill from the oven and carefully peel back the parchment paper.",
+    "Top each salmon fillet with a dollop of the cream cheese mixture and a sprinkle of lemon zest.",
+    "Serve immediately, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "smoked-salmon",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fiery-smoked-delight-croatian-salmon-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-smoked-delight-croatian-salmon-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T21:52:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "smoked salmon",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Fiery Smoked Delight",
+    "dishForm": "Gratin"
+  }
+}
