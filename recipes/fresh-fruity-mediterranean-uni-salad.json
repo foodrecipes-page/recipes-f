@@ -1,0 +1,120 @@
+{
+  "title": "Fresh Fruity Mediterranean Uni Salad",
+  "description": "A refreshing, tangy salad that combines the richness of uni with the sweetness of fresh fruits, all tied together by a zesty lemon-tahini dressing.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uni",
+      "amount": "8 oz",
+      "notes": "Fresh and sustainably-sourced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup",
+      "notes": "Creamy and rich"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Raw and unfiltered"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped and fragrant"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped and fresh"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain and unflavored"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced and refreshing"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced and sweet"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup",
+      "notes": "Hulled and sliced"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/2 cup",
+      "notes": "Fresh and crunchy"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "Freshly grated"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lemon juice, tahini, and honey. Blend until smooth and creamy.",
+    "Add the chopped fresh mint and parsley to the blender. Blend until well combined.",
+    "Stir in the Greek yogurt until smooth.",
+    "In a large bowl, combine the sliced cucumber, red onion, and fresh strawberries.",
+    "Add the uni to the bowl and toss gently to combine.",
+    "Drizzle the lemon-tahini dressing over the top of the salad and toss to combine.",
+    "Sprinkle the pomegranate seeds and lemon zest over the top of the salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "healthy",
+    "salad",
+    "spring",
+    "summer",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fresh-fruity-mediterranean-uni-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fruity-mediterranean-uni-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:02:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "uni",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Uni",
+    "descriptor": "Fresh Fruity",
+    "dishForm": "Salad"
+  }
+}
