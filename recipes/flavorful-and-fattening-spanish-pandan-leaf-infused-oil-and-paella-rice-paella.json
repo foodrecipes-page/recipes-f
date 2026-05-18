@@ -1,0 +1,120 @@
+{
+  "title": "flavorful and fattening spanish pandan-leaf-infused oil and paella rice paella",
+  "description": "a rich and savory spanish dish featuring pandan-leaf infused oil and paella rice, perfect for a special occasion",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaved",
+      "notes": "fresh pandan leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 cups",
+      "notes": "extra virgin olive oil"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "safron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "high-quality safron"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "high-quality smoked paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "high-quality salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "high-quality paella rice"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium chicken broth"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan over medium-high heat.",
+    "add the chicken thighs and cook until browned on both sides, about 5 minutes.",
+    "remove the chicken from the pan and set aside.",
+    "add the shrimp to the pan and cook until pink and just cooked through, about 2-3 minutes.",
+    "remove the shrimp from the pan and set aside with the chicken.",
+    "add the garlic, safron threads, smoked paprika, salt, and black pepper to the pan and cook for 1 minute.",
+    "add the chicken broth and red wine to the pan and bring to a boil.",
+    "add the paella rice to the pan and stir to coat the rice in the liquid.",
+    "add the browned chicken and shrimp back to the pan and stir to combine.",
+    "reduce the heat to low and simmer, covered, for 20 minutes.",
+    "remove the pan from the heat and let rest for 5 minutes before serving.",
+    "serve hot, garnished with chopped fresh parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "paella",
+    "seafood",
+    "spanish-cuisine",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "flavorful-and-fattening-spanish-pandan-leaf-infused-oil-and-paella-rice-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flavorful-and-fattening-spanish-pandan-leaf-infused-oil-and-paella-rice-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:54:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Pandan-leaf-infused oil and Paella rice",
+    "descriptor": "Flavorful and Fattening",
+    "dishForm": "Paella"
+  }
+}
