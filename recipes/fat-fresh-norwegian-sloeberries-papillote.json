@@ -1,0 +1,90 @@
+{
+  "title": "Fat Fresh Norwegian Sloeberries Papillote",
+  "description": "Rich and juicy Norwegian dish featuring sloeberries, cooked to perfection in a flavorful papillote. Perfect for a lazy Sunday.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sloeberries",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the sloeberries and pat them dry with a paper towel.",
+    "In a small saucepan, melt the butter over medium heat.",
+    "Add the brown sugar, lemon juice, salt, and black pepper to the saucepan.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sugar has dissolved.",
+    "Place a sprig of fresh mint on each piece of paper.",
+    "Spoon the sloeberries over the mint, leaving a small border around the edges.",
+    "Brush the melted butter mixture evenly over the sloeberries.",
+    "Fold the paper over the filling to form a triangle or a square shape.",
+    "Fold in the edges to seal the papillote and bake for 20-25 minutes, or until the fruit is tender.",
+    "Serve warm, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-side-dish",
+    "fresh",
+    "low-sodium",
+    "norwegian",
+    "one-pan",
+    "sloeberry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fat-fresh-norwegian-sloeberries-papillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fat-fresh-norwegian-sloeberries-papillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:48:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "sloe-berries",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sloeberries",
+    "descriptor": "Fat Fresh",
+    "dishForm": "Papillote"
+  }
+}
