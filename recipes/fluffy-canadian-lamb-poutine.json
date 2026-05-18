@@ -1,0 +1,111 @@
+{
+  "title": "Fluffy Canadian Lamb Poutine",
+  "description": "A rich, comforting twist on the classic Canadian dish, featuring a flaky, long-fermentation dough crust topped with tender lamb, velvety cheese curds, and a drizzle of sesame seed oil.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Long-fermentation dough crust",
+      "amount": "1",
+      "notes": "Homemade or store-bought, thawed according to package instructions."
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "8 oz",
+      "notes": "Leaner cuts such as sirloin or round work best."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sautéed until translucent."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "To thicken lamb gravy."
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium."
+    },
+    {
+      "name": "Sesame seed oil",
+      "amount": "2 tbsp",
+      "notes": "For serving."
+    },
+    {
+      "name": "Cheese curds",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen, thawed according to package instructions."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the long-fermentation dough crust to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a baking sheet lined with parchment paper, trimming the edges as needed.",
+    "In a large skillet, sauté the onion and garlic over medium heat until the onion is translucent.",
+    "Add the ground lamb to the skillet, breaking it up with a spoon as it cooks.",
+    "Season the lamb mixture with salt and black pepper to taste.",
+    "Transfer the lamb mixture to a small saucepan and stir in the chicken broth.",
+    "Bring the mixture to a simmer and cook until thickened, stirring occasionally.",
+    "Spread the cooked lamb mixture over the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Top the lamb mixture with cheese curds.",
+    "Bake the poutine in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove the poutine from the oven and drizzle with sesame seed oil before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-classics",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "fluffy-canadian-lamb-poutine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-canadian-lamb-poutine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:33:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "fluffy",
+    "dishForm": "poutine"
+  }
+}
