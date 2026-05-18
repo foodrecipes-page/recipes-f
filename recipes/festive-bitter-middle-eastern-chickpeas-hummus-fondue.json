@@ -1,0 +1,120 @@
+{
+  "title": "Festive Bitter Middle Eastern Chickpeas Hummus Fondue",
+  "description": "A unique and refreshing dessert featuring bitter cocoa powder, pillowy chickpeas, and Middle Eastern flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 (15 oz) can chickpeas",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp cocoa powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh parsley",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup warm water",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Pita chips or vegetables for serving",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas, and transfer them to a blender or food processor.",
+    "Add the lemon juice, olive oil, garlic, cumin, cocoa powder, salt, and black pepper to the blender.",
+    "Blend the mixture on high speed until smooth and creamy, stopping to scrape down the sides of the blender as needed.",
+    "With the blender running, slowly add the warm water and continue blending until the hummus reaches the desired consistency.",
+    "Transfer the hummus to a fondue pot or a small saucepan and stir in the chopped parsley.",
+    "Serve the hummus warm, accompanied by pita chips or vegetables for dipping.",
+    "If the hummus becomes too thick, you can thin it out with a little more warm water.",
+    "If the hummus becomes too thin, you can thicken it by adding a little more chickpeas or tahini.",
+    "You can also adjust the amount of garlic or cumin to taste.",
+    "For a more intense flavor, you can add a pinch of cayenne pepper or red pepper flakes.",
+    "For a thicker hummus, you can add a little more tahini or sesame paste.",
+    "For a creamier hummus, you can add a little more olive oil or lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "chickpeas",
+    "dessert",
+    "festive",
+    "hummus",
+    "middle-eastern",
+    "pillowy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "festive-bitter-middle-eastern-chickpeas-hummus-fondue",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-bitter-middle-eastern-chickpeas-hummus-fondue",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T16:03:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "cocoa powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Festive Bitter",
+    "dishForm": "Hummus Fondue"
+  }
+}
