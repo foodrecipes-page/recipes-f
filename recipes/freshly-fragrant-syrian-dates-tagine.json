@@ -1,0 +1,102 @@
+{
+  "title": "Freshly Fragrant Syrian Dates Tagine",
+  "description": "A classic Syrian dish featuring pitted dates, grilled to perfection and infused with aromatic spices.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "instructions": [
+    "Combine dates, cumin, coriander, cinnamon, and sumac in a bowl.",
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add dates and spices to the skillet, stir to combine.",
+    "Grill the tagine over medium-high heat for 2-3 minutes per side, or until caramelized.",
+    "Transfer the tagine to a serving dish and garnish with fresh parsley.",
+    "Serve warm, accompanied by steamed rice or flatbread.",
+    "Optional: add a dollop of yogurt or sprinkle with sumac for added flavor.",
+    "Let the tagine rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "tags": [
+    "dates",
+    "easy",
+    "grilled",
+    "one-pan",
+    "syrian",
+    "tagine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 2,
+    "carbs": 75,
+    "fat": 10
+  },
+  "slug": "freshly-fragrant-syrian-dates-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-fragrant-syrian-dates-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T18:27:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pitted dates",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dates",
+    "descriptor": "Freshly Fragrant",
+    "dishForm": "Tagine"
+  }
+}
