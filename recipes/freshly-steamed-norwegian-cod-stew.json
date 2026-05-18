@@ -1,0 +1,109 @@
+{
+  "title": "Freshly Steamed Norwegian Cod Stew",
+  "description": "A lazy-sunday Norwegian dish featuring peanut cookies, citrus flavors, and creamy texture. Perfect for a cozy evening with family and friends.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "2 lbs",
+      "notes": "Norwegian cod, skin removed"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "whole-fat heavy cream"
+    },
+    {
+      "name": "Fresh Lemons",
+      "amount": "2",
+      "notes": "for juice and zest"
+    },
+    {
+      "name": "Peanut Cookies",
+      "amount": "6",
+      "notes": "crushed for crust topping"
+    },
+    {
+      "name": "Cognac",
+      "amount": "2 tbsp",
+      "notes": "optional, for flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Fresh Bay Leaves",
+      "amount": "2",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130°F (54°C).",
+    "Season the cod fillets with salt and pepper.",
+    "Place the cod in individual sous-vide bags with 1 bay leaf and 1 lemon slice per bag.",
+    "Seal the bags and cook for 30 minutes.",
+    "While the cod is cooking, melt 2 tbsp of butter in a saucepan over medium heat.",
+    "Add the crushed peanut cookies and cook until golden brown, stirring frequently.",
+    "Remove the cod from the bags and place on a plate.",
+    "Strain the saucepan liquid and discard the solids.",
+    "Add the heavy cream, Cognac (if using), and lemon juice to the saucepan.",
+    "Bring the mixture to a simmer and cook until slightly thickened.",
+    "Serve the cod with the creamy sauce spooned over the top, garnished with parsley and a sprinkle of peanut cookies.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "norwegian",
+    "one-pan",
+    "seafood",
+    "under-1-hour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "freshly-steamed-norwegian-cod-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-steamed-norwegian-cod-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:01:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "peanut cookies",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Freshly Steamed",
+    "dishForm": "Stew"
+  }
+}
