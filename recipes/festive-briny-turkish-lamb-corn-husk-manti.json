@@ -1,0 +1,97 @@
+{
+  "title": "festive briny turkish lamb corn-husk manti",
+  "description": "a festive, flavorful twist on traditional turkish lamb manti, wrapped in corn husks and infused with genmaicha and ferm-jang for added depth and umami.",
+  "cuisine": "turkish",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 lb"
+    },
+    {
+      "name": "genmaicha green tea",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ferm-jang (korean chili paste)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 large"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the ground lamb, genmaicha, ferm-jang, salt, and black pepper.",
+    "finely chop the onion and garlic, and add to the bowl, mixing well.",
+    "stir in the chopped parsley.",
+    "cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "prepare the corn husks by soaking them in warm water for 30 minutes.",
+    "to assemble the manti, lay a corn husk flat on a work surface, with the wide end facing you.",
+    "place about 1/4 cup of the lamb mixture at the center of the corn husk.",
+    "fold the sides of the corn husk over the filling, then roll the manti up tightly.",
+    "repeat with the remaining corn husks and filling.",
+    "place the manti seam-side down in a steamer basket, and steam over boiling water for 10-12 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "manti",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "festive-briny-turkish-lamb-corn-husk-manti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-briny-turkish-lamb-corn-husk-manti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:50:39Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "genmaicha",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Festive, Briny",
+    "dishForm": "Corn-Husk Manti"
+  }
+}
