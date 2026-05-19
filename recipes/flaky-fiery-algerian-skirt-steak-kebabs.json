@@ -1,0 +1,102 @@
+{
+  "title": "Flaky Fiery Algerian Skirt Steak Kebabs",
+  "description": "A salty and flaky weeknight Algerian dish featuring skirt steak, cooked in a tandoor and Whole30-friendly, perfect for a quick dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, smoked paprika, salt, and black pepper",
+    "Add the skirt steak pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated steak pieces onto skewers, leaving a small space between each piece",
+    "Brush the harissa onto the steak pieces",
+    "Place the skewers in the tandoor and cook for 10-12 minutes, or until the steak reaches an internal temperature of 130 degrees Fahrenheit",
+    "Remove the skewers from the tandoor and let rest for 5 minutes",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "tandoor-cooking",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "flaky-fiery-algerian-skirt-steak-kebabs",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fiery-algerian-skirt-steak-kebabs",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:12:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "skirty steak",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "skirt steak",
+    "descriptor": "flaky fiery",
+    "dishForm": "Kebabs"
+  }
+}
