@@ -1,0 +1,98 @@
+{
+  "title": "smoky tunisian eggplant tagine",
+  "description": "flaky, smoky tunisian eggplant tagine is a charred, snappy, romantic dish that features smoked paprika, is rest-friendly, and plant-based-friendly.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f (200c).",
+    "char the eggplants over an open flame or on a grill until the skin is blistered and blackened.",
+    "peel the eggplants and dice them into 1-inch cubes.",
+    "in a large saucepan, heat the olive oil over medium heat.",
+    "add the garlic, ginger, cumin, coriander, salt, and pepper, and cook for 1 minute.",
+    "add the eggplant cubes and smoked paprika, and cook for 5 minutes.",
+    "transfer the mixture to a baking dish and cover with foil.",
+    "bake for 30 minutes.",
+    "remove the foil and bake for an additional 15 minutes.",
+    "garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "plant-based",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "flaky-smoky-tunisian-eggplant-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-smoky-tunisian-eggplant-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T06:21:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "smoked paprika",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "eggplant",
+    "descriptor": "flaky, smoky",
+    "dishForm": "Tagine"
+  }
+}
