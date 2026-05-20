@@ -1,0 +1,101 @@
+{
+  "title": "Fragrant Egyptian Cheese Pancakes",
+  "description": "A unique Egyptian dish featuring rice flour pancakes, rich render fat, and a hint of spices for a paleo-friendly, energizing breakfast. The combination of flavors and textures creates a delightful and satisfying meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Lactose-free yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cheddar cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 1/2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the rice flour, salt, black pepper, cumin powder, coriander powder, and baking powder.",
+    "In a separate bowl, whisk together the lactose-free yogurt, coconut oil, and ghee.",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth batter forms.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan and spread slightly to form a flat circle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Repeat with the remaining batter, until all the pancakes are cooked.",
+    "Serve the pancakes hot, topped with shredded cheddar cheese and a dollop of yogurt.",
+    "Enjoy your Fragrant Egyptian Cheese Pancakes immediately!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "fragrant-egyptian-cheese-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-egyptian-cheese-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:26:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "render-fat",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Fragrant",
+    "dishForm": "Pancakes"
+  }
+}
