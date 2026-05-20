@@ -1,0 +1,116 @@
+{
+  "title": "Festive stir-fry noodles Egyptian rice vermicelli Stir-fry",
+  "description": "A unique and festive Egyptian dish featuring stir-fried rice vermicelli noodles with a variety of vegetables and spices. Perfect for a quick weeknight meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice vermicelli noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced bell pepper and carrots and cook until tender, about 5 minutes.",
+    "Add the chopped bean sprouts and cooked chickpeas and stir-fry for 2 minutes.",
+    "Add the cumin, coriander, salt, and black pepper and stir-fry for 1 minute.",
+    "Add the cooked rice vermicelli noodles and stir-fry until heated through.",
+    "Serve hot, garnished with lemon juice to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easter",
+    "easy-prep",
+    "family-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "festive-stir-fry-noodles-egyptian-rice-vermicelli-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-stir-fry-noodles-egyptian-rice-vermicelli-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:55:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Festive stir-fry noodles",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Uruguayan Toor Dal",
+  "description": "A tangy and flaky toor dal recipe featuring a Uruguayan twist. This dish is perfect for a romantic dinner with a dash of spice and a vessel that adds to the charm of the meal.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Kadhai",
+      "amount": null,
+      "notes": "A traditional Uruguayan vessel."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat.",
+    "Add the onion, garlic, and ginger. Saute until the onion is translucent.",
+    "Add the cumin, cayenne pepper, and turmeric. Cook for 1 minute.",
+    "Add the toor dal and 4 cups of water. Bring to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Add the ferment-jang and salt. Mix well and continue to simmer for another 5 minutes.",
+    "Check the seasoning and adjust as needed.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Garnish with a dash of cayenne pepper for added flavor.",
+    "Serve with a side of rice or roti for a complete meal.",
+    "Let the dal rest for 5 minutes before serving for a more tender texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "one-pan",
+    "romantic",
+    "tangy",
+    "toor-dal",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "flaky-tangy-uruguayan-toor-dal-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-tangy-uruguayan-toor-dal-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:55:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "toor dal",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "toor dal",
+    "descriptor": "flaky, tangy",
+    "dishForm": "Dal"
+  }
+}
