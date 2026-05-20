@@ -1,0 +1,90 @@
+{
+  "title": "funky american olives brunch",
+  "description": "funky, silky brunch-mood american dish featuring olives, served over toasted bread.",
+  "cuisine": "american",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "olives",
+      "amount": "1 cup",
+      "notes": "green or black, pitted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons olive oil over low heat in a bain-marie.",
+    "add 1 cup pitted olives.",
+    "cook for 10 minutes.",
+    "stir occasionally.",
+    "add 2 tablespoons lemon juice and 2 cloves minced garlic.",
+    "cook for an additional 5 minutes.",
+    "stir occasionally.",
+    "stir in 1/2 cup crumbled feta cheese.",
+    "taste and adjust seasoning.",
+    "serve over toasted bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-to-make",
+    "high-protein",
+    "lunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "funky-american-olives-brunch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-american-olives-brunch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "olives",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Olives",
+    "descriptor": "Funky",
+    "dishForm": "Brunch"
+  }
+}
