@@ -1,0 +1,122 @@
+{
+  "title": "Fermented Aerated Energizing Mexican Birds-Eye Chillies Bake",
+  "description": "A unique recipe blending the flavors of Mexico with the energy of fermented and aerated ingredients, featuring Birds-Eye chillies and a wood-fired bake, suitable for raw-friendly diets.",
+  "cuisine": "Mexican",
+  "diet": [
+    "raw-friendly",
+    "raw",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "soy-free",
+    "nut-free",
+    "seed-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Birds-Eye Chillies",
+      "amount": "14",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Potato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active Cultured Yogurt",
+      "amount": "6 ounces",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine Birds-Eye chillies, sweet potato, coconut oil, ginger, and garlic in a mason jar, leaving 1 inch of space at the top.",
+    "Cover the jar with a cheesecloth or a fine-mesh filter and secure with a rubber band.",
+    "Place the jar in a warm, dark place for 2-3 days, allowing it to ferment.",
+    "After fermentation, rinse the jar with cold water and gently agitate the mixture to aerate it.",
+    "Preheat a wood-fired oven or a conventional oven to 400°F (200°C).",
+    "Transfer the fermented mixture to a baking dish and top with cilantro, lime juice, salt, and black pepper.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the flavors are fully incorporated.",
+    "Remove from heat and let cool before serving. If using yogurt, stir it in before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "dairy-free",
+    "energizing",
+    "fermented",
+    "gluten-free",
+    "mexican",
+    "nut-free",
+    "raw-friendly",
+    "seed-free",
+    "soy-free",
+    "vegan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fermented-aerated-energizing-mexican-birds-eye-chillies-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-aerated-energizing-mexican-birds-eye-chillies-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:12:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "birds-eye chillies",
+    "descriptor": "fermented, aerated, energizing",
+    "dishForm": "bake"
+  }
+}

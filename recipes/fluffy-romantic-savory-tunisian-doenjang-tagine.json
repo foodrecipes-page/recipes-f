@@ -1,0 +1,123 @@
+{
+  "title": "fluffy romantic savory tunisian doenjang tagine",
+  "description": "a romantic and savory tunisian dish made with doenjang, perfect for a special occasion or a cozy night in",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the garlic and cook for 1 minute more.",
+    "add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "add the doenjang, chicken broth, almonds, flour, water, flaky sea salt, black pepper, and red pepper flakes to the pot.",
+    "bring the mixture to a simmer and cook, covered, until the chicken is cooked through and the sauce has thickened, about 20 minutes.",
+    "flambé the sauce with a small amount of cognac or rum, if desired.",
+    "serve the tagine hot, garnished with fresh parsley.",
+    "serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cognac",
+    "doenjang",
+    "fluffy",
+    "one-pan",
+    "romantic",
+    "savory",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 30
+  },
+  "slug": "fluffy-romantic-savory-tunisian-doenjang-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-romantic-savory-tunisian-doenjang-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:13:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "doenjang",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Doenjang",
+    "descriptor": "Fluffy Romantic Savory",
+    "dishForm": "Tagine"
+  }
+}
