@@ -1,0 +1,92 @@
+{
+  "title": "Funky Crumbly Portuguese Anchovy Ceviche",
+  "description": "An adventurous, tamasic-friendly take on traditional ceviche, featuring crumbly anchovy fillets and a touch of Portuguese flair. Perfect for adventurous diners looking to spice up their mealtime routine.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh anchovy fillets",
+      "amount": "1 cup",
+      "notes": "Dehydrated to enhance umami flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality, extra virgin"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use high-quality, artisanal salt"
+    }
+  ],
+  "instructions": [
+    "Combine dehydrated anchovy fillets, lime juice, capers, and crushed red pepper in a bowl",
+    "Mix well to combine, ensuring anchovy fillets are evenly coated with lime juice and spices",
+    "Drizzle olive oil over the top, stirring to combine",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld",
+    "Just before serving, garnish with chopped fresh parsley and season with salt to taste",
+    "Serve immediately, allowing guests to spoon the ceviche onto toasted bread or crackers for a satisfying snack",
+    "Note: Anchovy fillets should be dehydrated to an internal temperature of 160°F (71°C) to ensure food safety.",
+    "Note: Ceviche should be refrigerated at 40°F (4°C) or below for at least 30 minutes to prevent bacterial growth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "ceviche",
+    "fish-curry",
+    "high-protein",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "funky-crumbly-portuguese-anchovy-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-crumbly-portuguese-anchovy-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:15:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "anchovy",
+    "descriptor": "funky crumbly",
+    "dishForm": "Ceviche"
+  }
+}
