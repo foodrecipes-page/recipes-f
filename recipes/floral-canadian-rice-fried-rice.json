@@ -1,0 +1,62 @@
+{
+  "title": "Floral Canadian Rice Fried Rice",
+  "description": "A vibrant and savory one-pan dish, perfect for a date night dinner in Canada. The combination of floral flavors and snappy textures will delight your taste buds.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "Heat a medium saucepan over medium heat and toast the sesame oil for 1 minute.",
+    "Add the sliced scallions and cook until they start to caramelize, about 3-4 minutes.",
+    "Add the rice to the saucepan and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the vegetable broth, rice vinegar, and sesame oil mixture to the saucepan and stir-fry for another 2-3 minutes, until the rice is coated in the flavors.",
+    "Use a spatula to create a small well in the center of the rice and add the kneaded tofu to the well. Cook for 2-3 minutes, until the tofu is heated through.",
+    "Stir the rice and tofu mixture to combine and cook for an additional 2-3 minutes, until everything is heated through. Serve hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "floral-canadian-rice-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-canadian-rice-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:30:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "rice vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "rice",
+    "descriptor": "floral",
+    "dishForm": "fried-rice"
+  }
+}
