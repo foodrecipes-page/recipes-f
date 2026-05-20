@@ -1,0 +1,124 @@
+{
+  "title": "Flaky Nutty Venezuelan Biscuit",
+  "description": "A nutty, flaky, energizing Venezuelan bread featuring orange blossom water and a double-rise structure, suitable for Mediterranean diets.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Use a high-protein flour for better rise."
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/2 cup",
+      "notes": "Adds nutty flavor and extra fiber."
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast for a double-rise effect."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Regulates yeast growth and enhances flavor."
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons",
+      "notes": "Adds a fragrant, floral flavor."
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "Provides a touch of sweetness."
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "Melted butter for added richness."
+    },
+    {
+      "name": "large eggs",
+      "amount": "1",
+      "notes": "One egg for egg wash and richness."
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "For dough hydration."
+    },
+    {
+      "name": "warm milk",
+      "amount": "1/2 cup",
+      "notes": "For yeast activation and dough development."
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional topping for crunchy texture."
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional topping for added nutrition."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine all-purpose flour, whole wheat flour, yeast, and salt. ",
+    "Whisk dry ingredients to combine, then create a well in the center for the wet ingredients.",
+    "In a separate bowl, whisk together orange blossom water, sugar, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and gradually mix until a shaggy dough forms.",
+    "Gradually add warm milk, then water, until the dough comes together in a sticky ball.",
+    "Knead the dough on a floured surface for 10 minutes, until smooth and elastic.",
+    "Form the dough into a ball and let it rise in a warm place for 1 hour, until doubled in size.",
+    "Punch down the dough and shape it into a round or oblong loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, and let it rise for another 30 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the egg wash over the loaf and sprinkle with sesame seeds or poppy seeds if using.",
+    "Bake the loaf for 25-30 minutes, or until golden brown and cooked through.",
+    "Remove the loaf from the oven and let it cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breads",
+    "breakfast",
+    "easy-bread",
+    "flaky",
+    "mediterranean",
+    "nutty",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "flaky-nutty-venezuelan-bread-biscuit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-nutty-venezuelan-bread-biscuit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:40:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "orange blossom water",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bread",
+    "descriptor": "flaky nutty",
+    "dishForm": "Biscuit"
+  }
+}
