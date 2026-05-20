@@ -1,0 +1,117 @@
+{
+  "title": "fluffy hangover-cure american lamb hash",
+  "description": "a savory breakfast dish that combines the earthy flavor of lamb with comforting, fluffy textures and a hint of spice, designed to soothe even the most severe hangovers, suitable for a buddhist temple breakfast",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium-sized",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium-sized",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1/4 cup",
+      "notes": "to thicken the mixture"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional, but highly recommended for hangover relief"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large pan, heat 2 tbsp of oil over medium-high heat.",
+    "add the lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "add the sweet potato, carrot, onion, garlic, and red bell pepper to the pan and cook until they begin to soften.",
+    "add the oat flour and stir to combine, cooking for 1-2 minutes.",
+    "push the mixture to one side of the pan and crack the eggs into the other side, cooking until the eggs are almost set.",
+    "mix the eggs into the lamb mixture and cook until everything is well combined.",
+    "press the mixture into the bottom of a greased skillet and top with cheddar cheese, if using.",
+    "transfer the skillet to the oven and bake at 375°F for 20-25 minutes, or until the hash is golden brown and set.",
+    "remove the skillet from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "easy-to-make",
+    "hangover-cure",
+    "hash",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 45
+  },
+  "slug": "fluffy-hangover-cure-american-lamb-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-hangover-cure-american-lamb-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:26:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "lamb mince",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "lamb",
+    "descriptor": "fluffy hangover-cure",
+    "dishForm": "hash"
+  }
+}
