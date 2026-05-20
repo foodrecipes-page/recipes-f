@@ -1,0 +1,62 @@
+{
+  "title": "Funky Flaky Moroccan Mixed Berries Seffa",
+  "description": "A lazy Sunday Moroccan dish featuring flaky pastry, a miso-marinate, and a burst of mixed frozen berries. Perfect for brunch or dessert.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Frozen mixed berries",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "On a lightly floured surface, roll out the puff pastry to a thickness of about 1/8 inch.",
+    "Cut the pastry into 8 equal rectangles, about 4 inches wide and 6 inches long."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "frozen-berries",
+    "high-protein",
+    "moroccan-breakfast",
+    "moroccan-desserts",
+    "seffa",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "funky-flaky-moroccan-mixed-berries-seffa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-flaky-moroccan-mixed-berries-seffa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:41:04Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "mixed berries",
+    "descriptor": "Funky Flaky",
+    "dishForm": "Seffa"
+  }
+}
