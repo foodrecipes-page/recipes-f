@@ -1,0 +1,102 @@
+{
+  "title": "Floral Filipino Gelatin Bao",
+  "description": "A unique Filipino dish featuring unflavored gelatin, perfect for festive occasions. This recipe is a refreshing twist on traditional Filipino cuisine, and is low in carbs making it a great option for those on a diet.",
+  "cuisine": "filipino",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unflavored Gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": "Make sure to use unflavored gelatin to maintain the natural flavors of the dish."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ube Extract",
+      "amount": "1 teaspoon",
+      "notes": "Add a hint of ube fragrance to the gelatin."
+    },
+    {
+      "name": "Violet Petals",
+      "amount": "1/4 cup",
+      "notes": "Use edible violet petals to give the gelatin a floral flavor."
+    },
+    {
+      "name": "Red Bean Paste",
+      "amount": "2 tablespoons",
+      "notes": "Add a pop of color and a sweet flavor to the gelatin."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup",
+      "notes": "Enhance the creaminess of the dish with coconut milk."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pandan Extract",
+      "amount": "1/2 teaspoon",
+      "notes": "Use pandan extract to give the gelatin a distinct Filipino flavor."
+    },
+    {
+      "name": "Ginger Juice",
+      "amount": "1 teaspoon",
+      "notes": "Add a hint of spice to the gelatin."
+    }
+  ],
+  "instructions": [
+    "Combine unflavored gelatin and water in a small saucepan and whisk to dissolve. Heat the mixture over low heat, stirring constantly, until the gelatin has fully dissolved.",
+    "Add ube extract, violet petals, red bean paste, coconut milk, salt, pandan extract, and ginger juice to the gelatin mixture. Stir to combine.",
+    "Remove the mixture from the heat and let it cool to room temperature.",
+    "Pour the gelatin mixture into individual molds or a large baking dish. Refrigerate until set, about 3 hours.",
+    "Once set, unmold the gelatin or cut it into bite-sized pieces. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "festive",
+    "filipino",
+    "low-carb",
+    "pandan",
+    "ube",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "floral-filipino-gelatin-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-filipino-gelatin-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:32:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "gelatin",
+    "descriptor": "floral",
+    "dishForm": "Bao"
+  }
+}
