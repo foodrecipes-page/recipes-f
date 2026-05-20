@@ -1,0 +1,101 @@
+{
+  "title": "fluffy resilient croatian gobo-burdock casserole",
+  "description": "a nostalgic croatian dish featuring gobo-burdock, lardons-render, and a resinous quality that will leave you wanting more.",
+  "cuisine": "croatian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo-burdock",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "lardons-render",
+      "amount": "6",
+      "notes": "use a combination of bacon and pig fat for added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium onion, diced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "adds a distinct flavor and texture"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "hungarian paprika for added depth"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "adds moisture and tenderness"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375",
+    "in a large pan over medium-high heat, render the lardons-render until crispy, then set aside",
+    "in the same pan, saut\u00186 onion, caraway seeds, and garlic until softened",
+    "stir in paprika and cook for 1 minute",
+    "in a separate pan, boil the russet potatoes until tender, then drain and set aside",
+    "in a large mixing bowl, combine the cooked potatoes, cottage cheese, eggs, and a pinch of salt and pepper",
+    "add the rendered lardons-render and saut\u00186 mixture to the bowl and stir until well combined",
+    "in a greased 9x13 inch baking dish, arrange half of the potato mixture, followed by half of the gobo-burdock, and finally half of the lardons-render mixture",
+    "repeat the layers, finishing with a layer of potato mixture on top",
+    "cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 15-20 minutes, or until golden brown",
+    "remove from oven and let rest for 10-15 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "flexitarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "fluffy-resilient-croatian-gobo-burdock-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-resilient-croatian-gobo-burdock-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:53:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "lardons-render",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "gobo-burdock",
+    "descriptor": "fluffy resilient",
+    "dishForm": "casserole"
+  }
+}
