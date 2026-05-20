@@ -1,0 +1,132 @@
+{
+  "title": "Festive Tender Korean Egg Spring Rolls",
+  "description": "Crispy Korean-style egg spring rolls filled with tender, flavorful ingredients, perfect for a festive meal. Inspired by the Jeolla province of South Korea.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large egg roll wrappers (about 20 wrappers)",
+      "amount": "1 package",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Cured pork belly",
+      "amount": "1/4 pound",
+      "notes": "look for a Korean-style cured pork belly or substitute with regular pork belly"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought kimchi works well"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped cilantro adds a fresh flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced green onions add crunch and flavor"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste adds depth and heat"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "sesame oil adds a nutty flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce adds umami flavor"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "brown sugar adds a touch of sweetness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "salt enhances flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "black pepper adds a subtle kick"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying the spring rolls"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the cured pork belly, kimchi, cilantro, green onions, gochujang, sesame oil, soy sauce, brown sugar, salt, and black pepper. Mix well to combine.",
+    "Lay an egg roll wrapper on a flat surface with one corner pointing towards you.",
+    "Place about 1 tablespoon of the pork belly mixture in the center of the egg roll wrapper.",
+    "Brush the edges of the egg roll wrapper with a small amount of water.",
+    "Fold the bottom corner of the egg roll wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining egg roll wrappers and filling.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown and crispy, about 3-4 minutes on each side.",
+    "Repeat with the remaining spring rolls.",
+    "Remove the spring rolls from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "black-pepper",
+    "brown-sugar",
+    "cilantro",
+    "cured-pork-belly",
+    "egg-wrappers",
+    "frying",
+    "gochujang",
+    "green-onions",
+    "kimchi",
+    "korean",
+    "one-pan",
+    "salt",
+    "sesame-oil",
+    "soy-sauce",
+    "spring-rolls",
+    "vegetable-oil",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "festive-tender-korean-egg-spring-rolls",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-tender-korean-egg-spring-rolls",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T09:36:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "satvik",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "egg",
+    "descriptor": "Festive Tender",
+    "dishForm": "Spring-Rolls"
+  }
+}
