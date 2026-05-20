@@ -1,0 +1,120 @@
+{
+  "title": "Fatty Chewy British Rice Vermicelli Scotch Egg",
+  "description": "A post-workout, dairy-free-friendly British dish featuring rice vermicelli, brine-dried egg, and a fatty, chewy coating. The perfect meal to refuel after a tough workout.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Brine-Dried Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "10g",
+      "notes": "canned, drained"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep frying pan or fryer to 180°C (350°F).",
+    "In a mixing bowl, combine ground pork, garlic, ginger, soy sauce, and a pinch of salt and pepper. Mix until just combined, being careful not to overmix.",
+    "Divide the mixture into 4 equal parts and shape each part into a ball. Flatten each ball slightly into a disk shape.",
+    "Place a brine-dried egg in the center of each disk and wrap the mixture around the egg, sealing the edges by pressing firmly.",
+    "Dredge each Scotch egg in panko breadcrumbs, pressing gently to adhere.",
+    "Heat olive oil in the preheated frying pan or fryer to 180°C (350°F).",
+    "Fry the Scotch eggs for 5-7 minutes on each side, or until golden brown and cooked through.",
+    "Drain the Scotch eggs on paper towels and serve hot with chopped scallions and water chestnuts on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "scotch-egg"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "fatty-chewy-british-rice-vermicelli-scotch-egg",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-chewy-british-rice-vermicelli-scotch-egg",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:32:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "brine-dry",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "fatty chewy",
+    "dishForm": "Scotch Egg"
+  }
+}
