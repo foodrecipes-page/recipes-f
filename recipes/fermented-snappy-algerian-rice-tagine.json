@@ -1,0 +1,114 @@
+{
+  "title": "Fermented Snappy Algerian Rice Tagine",
+  "description": "An adventurous Algerian dish featuring jasmine rice, yuzu-cure, and fermented flavors, suitable for a Buddhist temple-friendly meal in a wok.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "use a rice cooker if available"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "or substitute with lemon or lime"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "or substitute with salt"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tsp",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "handful",
+      "notes": "for garnish"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 pc",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 pc",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat.",
+    "Add 2 cups of water and bring to a boil.",
+    "Add 1 cup of jasmine rice and stir gently.",
+    "Reduce heat to low, cover, and cook for 18 minutes, or until rice is cooked.",
+    "While the rice cooks, combine yuzu juice, fish sauce, white vinegar, and brown sugar (if using) in a small bowl and mix well.",
+    "Add the yuzu mixture to the cooked rice and stir to combine.",
+    "Transfer the rice mixture to a fermentation vessel or a large glass jar with a lid.",
+    "Allow the mixture to ferment at room temperature for 2-3 days, or until slightly sour and effervescent.",
+    "Just before serving, heat a separate wok over medium heat.",
+    "Add chopped red bell pepper, green onions, and garlic, and stir-fry until the vegetables are tender-crisp.",
+    "Stir in the fermented rice mixture and cook for an additional 2-3 minutes, or until heated through.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Discard any remaining fermented rice mixture after serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "fermented",
+    "lunch",
+    "one-pan",
+    "rice",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 10,
+    "carbs": 114,
+    "fat": 10
+  },
+  "slug": "fermented-snappy-algerian-rice-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-snappy-algerian-rice-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:24:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "jasmine rice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Rice",
+    "descriptor": "Fermented Snappy",
+    "dishForm": "Tagine"
+  }
+}
