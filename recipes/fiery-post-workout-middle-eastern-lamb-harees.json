@@ -1,0 +1,119 @@
+{
+  "title": "Fiery Post-Workout Middle Eastern Lamb Harees",
+  "description": "A pungent and snappy Middle Eastern dish perfect for a post-workout meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pot over medium heat.",
+    "Add onion, garlic, carrot, and celery. Cook until the vegetables are softened.",
+    "Add lamb and cook until browned on all sides.",
+    "Add lamb broth, rice, salt, and pepper. Bring to a boil, then reduce heat to low.",
+    "Simmer, covered, for 20 minutes.",
+    "Stir in sriracha and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the harees rest for 5 minutes before serving.",
+    "Divide the harees among 4-6 bento boxes or individual serving dishes.",
+    "Cover and refrigerate for at least 30 minutes or until chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "middle-eastern",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fiery-post-workout-middle-eastern-lamb-harees",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-post-workout-middle-eastern-lamb-harees",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:10:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sriracha",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Fiery Post-Workout",
+    "dishForm": "Harees"
+  }
+}

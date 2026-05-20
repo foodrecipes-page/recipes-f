@@ -1,0 +1,113 @@
+{
+  "title": "Fondant Canadian Ricotta Poutine",
+  "description": "A pescatarian-friendly twist on the classic Canadian dish, featuring creamy ricotta cheese and a drizzle of fondant.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fondant",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/8 cup",
+      "notes": "use as garnish"
+    },
+    {
+      "name": "Crushed potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "for boiling",
+      "notes": ""
+    },
+    {
+      "name": "Fryer oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the crushed potatoes until tender, about 10-12 minutes, then drain and set aside.",
+    "In a separate pan, heat the butter over medium heat until melted, then add the grated cheddar cheese and stir until melted.",
+    "In a separate pan, heat the fryer oil to 375°F (190°C) for frying the potatoes.",
+    "Once the fryer oil is hot, carefully add the cooked potatoes and fry until golden brown, about 3-5 minutes, then drain on paper towels.",
+    "In a separate pan, heat the ricotta cheese over low heat until warmed through.",
+    "In a separate pan, heat the fondant over low heat until melted and smooth.",
+    "To assemble the poutine, place a scoop of the fried potatoes onto a plate, top with a spoonful of the warmed ricotta cheese, and drizzle with the melted fondant, garnished with a sprinkle of bonito flakes and chopped parsley.",
+    "Season with salt and pepper to taste, then serve immediately.",
+    "Garnish with extra parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cheese",
+    "fondant",
+    "poutine",
+    "ricotta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "fondant-canadian-ricotta-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fondant-canadian-ricotta-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:11:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ricotta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Fondant",
+    "dishForm": "Poutine"
+  }
+}
