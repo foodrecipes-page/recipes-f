@@ -1,0 +1,119 @@
+{
+  "title": "Fragrant Smoky Beef Binchotan Binchotan-Grilled Cutlet Bowl",
+  "description": "A smoky, juicy, and cozy Peruvian dish featuring beef cutlet, yuzu-cure, and a binchotan-grill vessel.",
+  "cuisine": "peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "thinly sliced red onion",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "yuzu-cure (see note)",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the yuzu-cure by mixing yuzu juice, soy sauce, brown sugar, black pepper, and salt in a small bowl.",
+    "Rub the beef cutlet with yuzu-cure, making sure to coat it evenly.",
+    "Preheat the binchotan-grill to medium-high heat.",
+    "Sear the beef cutlet for 2-3 minutes per side, or until it reaches an internal temperature of 130°F (54°C).",
+    "Transfer the beef cutlet to a cutting board and let it rest for 5 minutes.",
+    "Meanwhile, toast the sesame seeds by heating a small skillet over medium heat until fragrant.",
+    "Add the pickled mustard seeds to the skillet and cook for another minute, stirring frequently.",
+    "To assemble the dish, place the sliced red onion and chopped cilantro on a plate, followed by the seared beef cutlet, toasted sesame seeds, and pickled mustard seeds.",
+    "Drizzle with additional yuzu juice if desired.",
+    "Garnish with additional yuzu-cure if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "fragrant-smoky-beef-binchotan-binchotan-grilled-cutlet-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-smoky-beef-binchotan-binchotan-grilled-cutlet-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:03:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "beef cutlet",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Fragrant Smoky",
+    "dishForm": null
+  }
+}
