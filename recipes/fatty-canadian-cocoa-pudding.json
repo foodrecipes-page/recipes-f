@@ -1,0 +1,106 @@
+{
+  "title": "Fatty Canadian Cocoa Pudding",
+  "description": "A rich and creamy dessert made with cocoa powder, featuring a unique fermentation process.",
+  "cuisine": "Canadian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat, no added sugar"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "fermentation ingredient"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bamboo steamer basket",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut into squares and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "cocoa",
+    "dessert",
+    "fatty",
+    "fermented",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "fatty-canadian-cocoa-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-canadian-cocoa-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:47:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "cocoa powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "cocoa",
+    "descriptor": "fatty",
+    "dishForm": "pudding"
+  }
+}
