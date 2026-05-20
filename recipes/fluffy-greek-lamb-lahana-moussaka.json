@@ -1,0 +1,115 @@
+{
+  "title": "Fluffy Greek Lamb Lahana Moussaka",
+  "description": "A creative twist on the classic Greek moussaka, with crispy fried eggplant and a rich, creamy bechamel sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large eggplants",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 pound boneless lamb shoulder",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 cup tomato puree",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup bechamel sauce",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup grated pecorino cheese",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the eggplants into 1/2-inch thick slices and salt them to draw out excess moisture.",
+    "Let the eggplant slices sit for 30 minutes, then rinse and pat them dry.",
+    "In a large skillet, heat the olive oil over medium-high heat and fry the eggplant slices until crispy and golden, about 3-4 minutes per side.",
+    "Transfer the fried eggplant to a plate and set aside.",
+    "In the same skillet, cook the lamb shoulder over medium-high heat until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the tomato puree and cook for 2-3 minutes.",
+    "Arrange a layer of fried eggplant in the bottom of a 9x13-inch baking dish.",
+    "Spread half of the lamb and tomato mixture over the eggplant, followed by half of the bechamel sauce.",
+    "Sprinkle with half of the pecorino cheese.",
+    "Repeat the layers, starting with the eggplant, then the remaining lamb and tomato mixture, the remaining bechamel sauce, and finally the remaining pecorino cheese.",
+    "Bake in a preheated oven at 375°F (190°C) for 35-40 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle with parsley and serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "moussaka",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "fluffy-greek-lamb-lahana-moussaka",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-greek-lamb-lahana-moussaka",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:12:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "pecorino",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Fluffy",
+    "dishForm": "Lahana Moussaka"
+  }
+}
