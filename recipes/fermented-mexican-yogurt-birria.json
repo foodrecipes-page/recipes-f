@@ -1,0 +1,78 @@
+{
+  "title": "Fermented Mexican Yogurt Birria",
+  "description": "A unique fusion of traditional Mexican flavors with the tanginess of fermented yogurt, served in a festive lacquerware bowl.",
+  "cuisine": "mexican",
+  "diet": [
+    "paleo",
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried ancho chilies",
+      "amount": "2 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Guajillo chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked in-house"
+    }
+  ],
+  "preparation": "1 day before cooking, combine yogurt, ancho chilies, guajillo chili powder, lime juice, and smoked paprika in a bowl",
+  "instructions": [
+    "Combine the fermented mixture from day 1 with 1 cup of water and a pinch of salt in a saucepan, bringing it to a simmer until slightly thickened"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "birria",
+    "fermented",
+    "high-protein",
+    "mexican",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "fermented-mexican-yogurt-birria",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-mexican-yogurt-birria",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:06:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "greek yogurt",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "yogurt",
+    "descriptor": "fermented",
+    "dishForm": "Birria"
+  }
+}

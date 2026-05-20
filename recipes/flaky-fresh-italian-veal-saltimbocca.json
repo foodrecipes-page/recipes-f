@@ -1,0 +1,109 @@
+{
+  "title": "Flaky Fresh Italian Veal Saltimbocca",
+  "description": "Quick and savory Italian dish, featuring veal, ham, and fresh parsley. Typically served as a main course.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal cutlets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Thin slices of prosciutto",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "dry white wine, not fortified or sweet"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground nutmeg",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "preferably Panko"
+    }
+  ],
+  "instructions": [
+    "Season the veal cutlets with salt and black pepper on both sides.",
+    "Dredge the veal cutlets in flour, shaking off excess.",
+    "Dip the floured veal cutlets in butter, then coat with breadcrumbs.",
+    "In a large skillet, cook the veal cutlets over medium heat for 2-3 minutes on each side, or until golden brown.",
+    "Add prosciutto slices to the skillet and cook for 1-2 minutes on each side, or until crispy.",
+    "Add white wine to the skillet and cook until reduced by half.",
+    "Add fresh parsley to the skillet and cook for 1 minute, or until wilted.",
+    "Garnish the veal cutlets with parsley and serve hot.",
+    "Nutrition information will vary based on specific ingredients used, but this recipe is approximately 350 calories per serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "main-course",
+    "one-pan",
+    "saltimbocca",
+    "veal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "flaky-fresh-italian-veal-saltimbocca",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fresh-italian-veal-saltimbocca",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:05:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "peppers",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Flaky Fresh",
+    "dishForm": "Saltimbocca"
+  }
+}
