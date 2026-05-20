@@ -1,0 +1,91 @@
+{
+  "title": "flaky herbal american sick-day dish",
+  "description": "soothing comfort food for when you're feeling under the weather, featuring a flaky crust and fragrant herbal flavors",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "ice-cold"
+    }
+  ],
+  "instructions": [
+    "mash the butter with a fork until it's softened",
+    "add the parsley, dill, and garlic powder to the butter and mash until well combined",
+    "add the water to the butter mixture and mash until the dough starts to come together",
+    "turn the dough out onto a floured surface and knead until it's smooth and elastic",
+    "roll the dough out to a thickness of about 1/8 inch",
+    "cut the dough into 4-6 triangles, depending on how large you want your biscuits to be",
+    "place the triangles on a baking sheet lined with parchment paper",
+    "bake in a preheated oven at 375 degrees for 18-22 minutes, or until the biscuits are golden brown"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 22,
+  "totalTimeMin": 52,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "flaky-herbal-american-sick-day-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-herbal-american-sick-day-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:21:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "mixed spice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "sick-day",
+    "descriptor": "flaky herbal",
+    "dishForm": "dish"
+  }
+}
