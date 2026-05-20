@@ -1,0 +1,107 @@
+{
+  "title": "Fluffy Norwegian Dum Bunad",
+  "description": "A peppery and fluffy Norwegian dish featuring chilli flakes and dum, perfect for a lazy Sunday morning. This egg-free-friendly recipe is a delicious twist on traditional Norwegian cuisine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "applesauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, warm water, salt, sugar, and yeast to form a sticky dough.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Divide the dough into 6-8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball slightly into a disk shape.",
+    "Heat a non-stick pan or griddle over medium heat and cook the dum for 2-3 minutes on each side, or until they are golden brown.",
+    "Serve the Fluffy Norwegian Dum Bunad warm with your favorite toppings, such as applesauce and sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "norwegian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "fluffy-norwegian-dum-bunad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-norwegian-dum-bunad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:27:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "chilli flakes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "dum",
+    "descriptor": "fluffy",
+    "dishForm": "Bunad"
+  }
+}

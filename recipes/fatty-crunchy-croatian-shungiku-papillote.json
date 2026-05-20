@@ -1,0 +1,108 @@
+{
+  "title": "fatty crunchy croatian shungiku papillote",
+  "description": "a rich and satisfying macrobiotic-friendly dish from croatia, featuring shungiku and a crunchy raclette-grill crust.",
+  "cuisine": "croatian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "raclette-grill",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat the raclette-grill to medium heat.",
+    "trim the shungiku leaves and cut them into bite-sized pieces.",
+    "in a blender or food processor, combine the ricotta salata cheese, almond flour, and a pinch of salt and pepper, blending until smooth.",
+    "with a spatula, mix the shungiku into the cheese mixture until well combined.",
+    "brush the raclette-grill with olive oil and sprinkle with sea salt and black pepper.",
+    "pour the shungiku-cheese mixture onto the raclette-grill and spread it evenly.",
+    "drizzle the lemon juice over the top and sprinkle with chopped parsley.",
+    "place the raclette-grill under the broiler for 2-3 minutes, or until the crust is golden brown and the cheese is melted.",
+    "remove the raclette-grill from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "fatty-crunchy-croatian-shungiku-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-crunchy-croatian-shungiku-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:27:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "shungiku",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shungiku",
+    "descriptor": "fatty crunchy",
+    "dishForm": "papillote"
+  }
+}
