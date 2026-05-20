@@ -1,0 +1,112 @@
+{
+  "title": "Fatty Juicy Algerian Palm Sugar Tagine",
+  "description": "A rich and flavorful Algerian dish featuring palm sugar, perfect for a solo dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palm Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic, ginger, cinnamon, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the palm sugar and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven, where it will cook at 300°F (150°C) for 2 hours.",
+    "Remove the pot from the oven and stir in the ghee and cilantro.",
+    "Serve the tagine hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "flavorful",
+    "lamb",
+    "one-pan",
+    "palm-sugar"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 52,
+    "carbs": 32,
+    "fat": 44
+  },
+  "slug": "fatty-juicy-algerian-palm-sugar-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-juicy-algerian-palm-sugar-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:28:04Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "palm sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "palm sugar",
+    "descriptor": "fatty juicy",
+    "dishForm": "Tagine"
+  }
+}
