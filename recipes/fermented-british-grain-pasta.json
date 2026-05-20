@@ -1,0 +1,108 @@
+{
+  "title": "Fermented British Grain Pasta",
+  "description": "A rich and comforting dish made with fermented British grains, mixed with a creamy pasta water emulsion, featuring anti-inflammatory properties.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kamut wheat berries",
+      "amount": "1 1/2 cups",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Spelt",
+      "amount": "1/2 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Red Fife wheat berries",
+      "amount": "1/4 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fermented miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the Kamut wheat berries, bulgur, spelt, and Red Fife wheat berries in a large bowl, rinsed and drained.",
+    "In a medium saucepan, combine the water and butter. Bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the flour and whisk until smooth. Cook for 1-2 minutes.",
+    "Remove from heat and stir in the miso paste and nutritional yeast.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the pasta and toss to coat, then add the grain mixture and toss to combine.",
+    "Add the sauce and toss to coat the pasta and grains.",
+    "Cook over low heat for 5-7 minutes, stirring constantly, until the sauce has thickened and the grains are coated.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 17,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "british",
+    "fermented",
+    "grain-pasta",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "fermented-british-grain-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-british-grain-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:46:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "mixed grain",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "grain",
+    "descriptor": "fermented",
+    "dishForm": "Pasta"
+  }
+}
