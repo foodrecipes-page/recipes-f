@@ -1,0 +1,94 @@
+{
+  "title": "Fluffy Feta Greek Cheese Tiropita",
+  "description": "A classic Greek tiropita recipe featuring fluffy feta cheese, sweet Castelvetrano olives, and a glassy jelly glaze, making it a perfect low-carb friendly dinner option.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 block (200g)"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (250g)"
+    },
+    {
+      "name": "Castelvetrano olives",
+      "amount": "10-12 olives"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large egg"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup (60g)"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tsp (5g)"
+    }
+  ],
+  "instructions": [
+    "Thaw the phyllo dough according to package instructions.",
+    "Preheat the oven to 375°F (190°C).",
+    "Combine feta cheese, egg, Greek yogurt, honey, fresh dill, and lemon zest in a bowl. Mix well.",
+    "Cut the phyllo dough into 4 equal pieces and spread a small amount of feta mixture in the center of each piece.",
+    "Fold the phyllo dough over the feta mixture and press the edges to seal. Repeat with the remaining phyllo dough and feta mixture.",
+    "Brush the tiropita with a little bit of olive oil and bake in the preheated oven for 20-25 minutes, or until golden brown.",
+    "While the tiropita is baking, prepare the glaze by heating the honey in a saucepan over low heat until runny.",
+    "Once the tiropita is done, brush the glaze over the top and serve immediately.",
+    "To make the jelly glaze, combine 1 cup water with 1 cup granulated sugar in a saucepan and bring to a boil.",
+    "Reduce the heat and simmer for 5-7 minutes, or until the mixture has thickened into a jelly-like consistency.",
+    "Remove the jelly glaze from heat and stir in 1 tsp (5g) of lemon zest.",
+    "To assemble the tiropita, place a few Castelvetrano olives on top of the feta mixture and drizzle with a little bit of jelly glaze."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy-feta",
+    "greek-cuisine",
+    "low-carb",
+    "one-pan",
+    "tiropita",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "fluffy-feta-greek-cheese-tiropita",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-feta-greek-cheese-tiropita",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:19:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "glaze",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "Fluffy Feta",
+    "dishForm": "Tiropita"
+  }
+}
