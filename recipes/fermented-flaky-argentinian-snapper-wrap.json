@@ -1,0 +1,115 @@
+{
+  "title": "Fermented Flaky Argentinian Snapper Wrap",
+  "description": "Quick and delicious fermented flaky Argentinian dish featuring snapper fish and ssam-wrap.",
+  "cuisine": "latin american",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "snapper fish",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ssam-wrap (scallop shell)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fermented fish paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Score the skin of the snapper fish and marinate it in a mixture of fermented fish paste, garlic, chili flakes, lime juice, olive oil, salt, and black pepper for 30 minutes.",
+    "Prepare a ssam-wrap by cutting it open to create a large shell with a flat bottom and a delicate top.",
+    "After marinating, grill the snapper fish for 3-4 minutes per side or until it's cooked through and flakes easily with a fork.",
+    "Spoon the grilled snapper fish into the ssam-wrap shell, followed by a spoonful of avocado, red onion, and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "latin-american",
+    "quick-meal",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "fermented-flaky-argentinian-snapper-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-flaky-argentinian-snapper-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:37:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "snapper fish",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Snapper",
+    "descriptor": "Fermented Flaky",
+    "dishForm": "Wrap"
+  }
+}
