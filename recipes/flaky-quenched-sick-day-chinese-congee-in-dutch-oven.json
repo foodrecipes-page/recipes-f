@@ -1,0 +1,84 @@
+{
+  "title": "Flaky Quenched Sick-day Chinese Congee in Dutch Oven",
+  "description": "A soothing, sugar-free-friendly Chinese congee dish, made with a fragrant Dutch oven temper, to comfort on a sick day.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "White pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in the Dutch oven over medium heat.",
+    "Add garlic and ginger, cook for 2 minutes.",
+    "Add congee rice, stir for 1 minute to coat with oil.",
+    "Add water, salt, and white pepper. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Once cooked, fluff the congee with a fork.",
+    "Serve warm, garnished with a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "easy",
+    "one-pot",
+    "sick-day",
+    "sugar-free",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "flaky-quenched-sick-day-chinese-congee-in-dutch-oven",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-quenched-sick-day-chinese-congee-in-dutch-oven",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:37:36Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "garlic",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Sick-day Chinese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Flaky Quenched",
+    "dishForm": null
+  }
+}
