@@ -1,0 +1,100 @@
+{
+  "title": "Fried Katsuramuki Korean Monterey Jack Cheese Kalguksu",
+  "description": "A crispy, indulgent Korean dish featuring katsuramuki-cut Monterey Jack cheese, served in a kalguksu-inspired style.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the Monterey Jack cheese into katsuramuki-cut shapes.",
+    "Season the cheese cutouts with salt and black pepper.",
+    "In a shallow dish, mix together the all-purpose gluten-free flour and cornstarch.",
+    "Dip each cheese cutout in the flour mixture, shaking off excess.",
+    "Dip the floured cheese in the beaten egg, making sure it's fully coated.",
+    "Roll the egg-coated cheese in the Panko breadcrumbs to coat evenly.",
+    "Heat about 1/2 inch of sesame oil in a large frying pan over medium-high heat.",
+    "When the oil is hot, add a few of the breaded cheese cutouts and fry until golden brown and crispy, about 2-3 minutes on each side.",
+    "Repeat with the remaining cheese cutouts.",
+    "Remove the fried cheese from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fried cheese hot, garnished with chopped green onions if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "dinner",
+    "fried",
+    "gluten-free",
+    "kalguksu",
+    "korean",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 52
+  },
+  "slug": "fried-katsuramuki-korean-monterey-jack-cheese-kalguksu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fried-katsuramuki-korean-monterey-jack-cheese-kalguksu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:39:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "gluten-free",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Monterey Jack Cheese",
+    "descriptor": "Fried Katsuramuki",
+    "dishForm": "Kalguksu"
+  }
+}

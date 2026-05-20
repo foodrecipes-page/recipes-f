@@ -1,0 +1,93 @@
+{
+  "title": "flaky pungent mediterranean bread rolls flatbread",
+  "description": "savor the flavors of the mediterranean with these flaky, pungent, and aromatic bread rolls, perfect for a date-night dinner",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "chilled in the refrigerator overnight",
+      "},{": null
+    }
+  ],
+  "instructions": [
+    "mix turmeric, ghee, garlic, and lemon juice in a small bowl",
+    "add the mixture to the dough and knead for 5 minutes",
+    "form the dough into 4-6 rolls depending on desired size",
+    "place the rolls on a baking sheet lined with parchment paper",
+    "drizzle with olive oil and sprinkle with sea salt",
+    "bake in a preheated oven at 400f for 20-25 minutes or until golden brown",
+    "let the rolls cool for 10 minutes before serving",
+    "top with chilled coconut cream and garnish with fresh herbs like parsley or cilantro",
+    "serve warm and enjoy",
+    "note: the coconut cream will be puffed and slightly caramelized after baking",
+    "additional notes: use high-quality ingredients like unsalted butter and real coconut cream for the best flavor",
+    "coconut cream can be refrigerated for up to 5 days",
+    "rolls can be stored in an airtight container for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "coconut-cream-crack",
+    "date-night",
+    "flaky",
+    "flatbread",
+    "mediterranean",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "flaky-pungent-mediterranean-bread-rolls-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-pungent-mediterranean-bread-rolls-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:39:22Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "bread rolls",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bread rolls",
+    "descriptor": "flaky pungent",
+    "dishForm": "flatbread"
+  }
+}
