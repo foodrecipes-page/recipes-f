@@ -1,0 +1,100 @@
+{
+  "title": "Fresh Zesty Jamaican Cabbage Tagine",
+  "description": "A low-sodium friendly hangover cure featuring hispi sweetheart cabbage, deglazed with a hint of citrus.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "jamaican scotch bonnet pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a clay tagine pot over medium-high heat.",
+    "Add chopped onion and saut\t8 until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add hispi sweetheart cabbage, allspice, jamaican scotch bonnet pepper, and cumin. Cook for 5 minutes.",
+    "Deglaze with lime juice and cook until cabbage is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fresh-vegetables",
+    "hangover-cure",
+    "low-sodium",
+    "one-pot",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "fresh-zesty-jamaican-cabbage-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-zesty-jamaican-cabbage-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:06:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cabbage",
+    "descriptor": "Fresh Zesty",
+    "dishForm": "Tagine"
+  }
+}
