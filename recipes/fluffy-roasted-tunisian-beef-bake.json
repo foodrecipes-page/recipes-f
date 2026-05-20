@@ -1,0 +1,119 @@
+{
+  "title": "Fluffy Roasted Tunisian Beef Bake",
+  "description": "A light and flavorful dish with a fluffy texture, featuring hot beef stock and an en-croute style. Jain-friendly and perfect for a weeknight dinner.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef striploin",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "green bean",
+      "amount": "250g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "beef stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a large bowl, mix together the flour, melted butter, and beaten eggs.",
+    "Add the chopped onion, minced garlic, and grated carrot to the bowl and stir to combine.",
+    "Add the trimmed green beans and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a 20x20cm baking dish.",
+    "Pour in the hot beef stock and milk, and stir to combine.",
+    "Sprinkle the grated parmesan cheese on top of the mixture.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for a further 20 minutes, or until the top is golden brown and the mixture is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "beef",
+    "high-protein",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "fluffy-roasted-tunisian-beef-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-roasted-tunisian-beef-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:59:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "hot beef stock",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beef",
+    "descriptor": "fluffy roasted",
+    "dishForm": "Bake"
+  }
+}
