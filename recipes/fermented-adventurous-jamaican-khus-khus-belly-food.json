@@ -1,0 +1,106 @@
+{
+  "title": "Fermented Adventurous Jamaican Khus Khus Belly-Food",
+  "description": "A creamy, tangy, and slightly nutty fermented Jamaican dish featuring khus khus, perfect for adventurous eaters.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Khus Khus",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare Emulsifier",
+      "amount": "2 tbsp",
+      "notes": "do not substitute with other emulsifiers"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Agave Syrup",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fermented Jamaican Hot Sauce",
+      "amount": "2 tbsp",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "use Himalayan pink salt"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine khus khus and cocoa powder in a blender and blend until well combined.",
+    "Add agave syrup, coconut milk, lime juice, and fermented Jamaican hot sauce to the blender and blend until smooth.",
+    "Heat the mixture in a saucepan over low heat, whisking constantly, until the mixture thickens and emulsifies.",
+    "Remove from heat and stir in mantecare emulsifier and salt until well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the mixture to a serving dish and garnish with fresh thyme if desired.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld and the mixture to chill and thicken.",
+    "Serve chilled, garnished with fresh thyme if desired.",
+    "Garnish with toasted khus khus for added crunch and texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fermented",
+    "gluten-free",
+    "high-protein",
+    "jamaican",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fermented-adventurous-jamaican-khus-khus-belly-food",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-adventurous-jamaican-khus-khus-belly-food",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:51:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "khus khus",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "khus khus",
+    "descriptor": "fermented adventurous",
+    "dishForm": "Belly-Food"
+  }
+}
