@@ -1,0 +1,114 @@
+{
+  "title": "Fast Fried Portuguese Style Peanut Brittle Fritters",
+  "description": "Quick, earthy, and bouncy Portuguese-style fritters featuring peanut brittle and a miso-marinate, easy to make in a cazuela. Perfect as a snack or dessert.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanut brittle",
+      "amount": "1 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg replacer",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Miso broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, baking powder, and a pinch of salt.",
+    "Add the crushed peanut brittle, egg replacer, and granulated sugar to the dry ingredients and mix until well combined.",
+    "In a separate bowl, whisk together the miso paste, water, miso broth, and a pinch of black pepper.",
+    "Add the miso mixture to the dry ingredients and mix until a dough forms.",
+    "Heat the vegetable oil in a cazuela over medium-high heat until it reaches 350°F.",
+    "Using a spoon, drop the dough into the hot oil, making sure not to overcrowd the cazuela.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "egg-free",
+    "portuguese",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "fast-fried-portuguese-style-portuguese-peanut-brittle-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fast-fried-portuguese-style-portuguese-peanut-brittle-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:07:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "peanut brittle",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peanut brittle",
+    "descriptor": "Fast Fried Portuguese Style",
+    "dishForm": "Fritters"
+  }
+}
