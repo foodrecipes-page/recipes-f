@@ -1,0 +1,101 @@
+{
+  "title": "Syrian Hash",
+  "description": "A comforting, fatty, and aerated Syrian dish made with garlic sauce and featuring wok-hei. It's perfect for a weeknight dinner or lunch.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "amount": "2 large",
+      "name": "Potatoes"
+    },
+    {
+      "amount": "1 large",
+      "name": "Onions"
+    },
+    {
+      "amount": "3 cloves",
+      "name": "Garlic"
+    },
+    {
+      "amount": "1 cup",
+      "name": "Bulghur wheat"
+    },
+    {
+      "amount": "2 tablespoons",
+      "name": "Tomato paste"
+    },
+    {
+      "amount": "1 cup",
+      "name": "Garlic sauce"
+    },
+    {
+      "amount": "2 tablespoons",
+      "name": "Olive oil"
+    },
+    {
+      "amount": "to taste",
+      "name": "Salt"
+    },
+    {
+      "amount": "to taste",
+      "name": "Black pepper"
+    },
+    {
+      "amount": "1 teaspoon",
+      "name": "Red pepper flakes"
+    }
+  ],
+  "totalTimeMin": 35,
+  "calories": 450,
+  "carbs": 60,
+  "protein": 10,
+  "fat": 20,
+  "prepTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "cookTimeMin": 20,
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "tags": [
+    "comfort-food",
+    "hash",
+    "syrian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the onions and cook until they start to brown, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the bulghur wheat and cook for 2 minutes, stirring constantly.",
+    "Add the potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the garlic sauce and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Season with salt, black pepper, and red pepper flakes to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "slug": "fatty-syrian-dish-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-syrian-dish-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:38:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "garlic sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "dish",
+    "descriptor": "fatty",
+    "dishForm": "hash"
+  }
+}
