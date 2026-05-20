@@ -1,0 +1,113 @@
+{
+  "title": "Fiery, Velvety Saudi-Arabian Wheat Dolmeh (in a stone bowl)",
+  "description": "A savory, velvety Saudi-Arabian dish featuring dry white wine, served in a hot stone dolma bowl. Suitable for a sick day or as a comforting meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Wheat Berries",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Dry White Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to desired heat level"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Rinse the wheat berries and soak them in water for at least 4 hours or overnight.",
+    "Drain and rinse the wheat berries, then transfer them to a large pot with the vegetable broth, white wine, butter, onion, garlic, turmeric, cumin, cayenne pepper, and salt.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes, or until the wheat berries are tender.",
+    "Use an immersion blender to puree the mixture until smooth, or allow it to cool and blend in a blender.",
+    "Return the pureed mixture to the pot and simmer over low heat for an additional 10 minutes.",
+    "Season the dolmeh with salt to taste, then serve hot in a stone dolma bowl, garnished with chopped parsley and cilantro if desired.",
+    "Traditionally, the dolma bowl is heated in the oven before serving to create a hot, sizzling surface.",
+    "Carefully remove the hot dolma bowl from the oven and place it on a heat-resistant surface.",
+    "Spoon the warmed dolmeh into the dolma bowl and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "high-fiber",
+    "middle-eastern",
+    "one-pan",
+    "saudi-arabian",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "fiery-velvety-saudi-arabian-wheat-dolmeh-in-a-stone-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-velvety-saudi-arabian-wheat-dolmeh-in-a-stone-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:54:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dry white wine",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "wheat",
+    "descriptor": "Fiery, Velvety",
+    "dishForm": "Dolmeh (in a stone bowl)"
+  }
+}

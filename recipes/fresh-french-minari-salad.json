@@ -1,0 +1,98 @@
+{
+  "title": "Fresh French Minari Salad",
+  "description": "A light and energizing salad featuring minari, citrus, and a touch of sweetness.",
+  "cuisine": "French",
+  "diet": [
+    "sattvic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "orange",
+      "amount": "1 medium",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "granny smith apple",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the minari and pat it dry with a paper towel.",
+    "Cut the orange and apple into bite-sized pieces.",
+    "In a large bowl, combine the minari, orange, and apple.",
+    "Sprinkle the chopped mint leaves over the top.",
+    "In a small bowl, whisk together the honey, lemon juice, and olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "quick",
+    "salad",
+    "sattvic",
+    "spring",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "fresh-french-minari-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-french-minari-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:54:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "minari",
+    "diet": "ayurvedic-sattvic",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Minari",
+    "descriptor": "Fresh",
+    "dishForm": "Salad"
+  }
+}
