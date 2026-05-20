@@ -1,0 +1,122 @@
+{
+  "title": "fresh juicy tunisian corn tagine",
+  "description": "a meal-prep tunisian dish featuring dried white corn and a shio-koji-cure",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a medium bowl, mix together the dried white corn and shio-koji cure. let it sit at room temperature for at least 2 hours, or overnight in the refrigerator.",
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the chopped onion and saut\u00065 until it is translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the cumin, coriander, paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "add the soaked and drained corn and its marinade to the skillet, and stir to combine.",
+    "add 1 cup of water to the skillet and bring to a simmer.",
+    "reduce the heat to low, cover, and cook for 20 minutes, or until the corn is tender.",
+    "stir in the chopped parsley and lemon juice.",
+    "serve hot, garnished with additional parsley if desired.",
+    "let it cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "corn",
+    "meal-prep",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "fresh-juicy-tunisian-corn-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-juicy-tunisian-corn-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:20:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dried white corn",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Corn",
+    "descriptor": "Fresh Juicy",
+    "dishForm": "Tagine"
+  }
+}
