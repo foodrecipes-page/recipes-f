@@ -1,0 +1,99 @@
+{
+  "title": "Fatty Dense British Broccoli Scones Clotted Cream",
+  "description": "A rich and indulgent British-inspired dessert featuring purple-sprouting-broccoli scones with a sweet clotted cream glaze.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "clotted cream",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "50g",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C (400F) and line a baking sheet with parchment paper.",
+    "In a large mixing bowl, whisk together the flour, sugar, and salt.",
+    "Add the cold butter to the dry ingredients and rub in with your fingers until the mixture resembles coarse breadcrumbs.",
+    "Stir in the chopped broccoli and beaten eggs, then gradually add the buttermilk until the dough comes together in a sticky ball.",
+    "Turn the dough out onto a floured surface and gently knead it until it comes together, then pat it into a circle that is about 2cm (3/4in) thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones, gathering the scraps, re-kneading and re-cutting until all the dough is used up.",
+    "Place the scones on the prepared baking sheet and bake for 15 minutes, or until golden brown.",
+    "Allow the scones to cool on a wire rack before splitting in half and topping with clotted cream and granulated sugar for glaze.",
+    "To make the clotted cream glaze, simply pipe or dollop clotted cream onto the top of each scone, then sprinkle with granulated sugar to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "clotted-cream",
+    "dessert",
+    "indulgent",
+    "scones",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "fatty-dense-british-broccoli-scones-clotted-cream",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-dense-british-broccoli-scones-clotted-cream",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:11:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "glaze",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "broccoli",
+    "descriptor": "fatty dense",
+    "dishForm": "scones clotted cream"
+  }
+}
