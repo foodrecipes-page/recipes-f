@@ -1,0 +1,122 @@
+{
+  "title": "Fiery Steamed Jamaican Fish Tagine",
+  "description": "Pungent and springy Jamaican fish tagine featuring cinnamon, brine-wet, and Mediterranean-friendly flavors. Perfect for a sick-day comfort dish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grouper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "For steaming"
+    }
+  ],
+  "instructions": [
+    "Rinse the grouper fillets under cold water, pat them dry with paper towels, and season with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the ground cinnamon, allspice, and cayenne pepper. Cook for 1 minute, stirring constantly.",
+    "Add the fresh grouper fillets and cook for 2-3 minutes per side, or until they develop a golden brown crust.",
+    "Transfer the Dutch oven to a stovetop-safe steamer basket. Pour in the water and bring to a boil.",
+    "Reduce the heat to a simmer and cook the grouper for 8-10 minutes, or until it flakes easily with a fork.",
+    "Remove the grouper from the steamer basket and place it on a serving platter.",
+    "Strain the cooking liquid and discard the solids. Spoon the sauce over the grouper fillets.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with steamed vegetables or rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fiery",
+    "healthy-option",
+    "jamaican-cuisine",
+    "one-pot-meal",
+    "steamed-fish",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "fiery-steamed-jamaican-fried-fish-steamed-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-steamed-jamaican-fried-fish-steamed-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:28:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "cinnamon",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Fried Fish",
+    "descriptor": "Fiery Steamed",
+    "dishForm": "Steamed Fish Tagine"
+  }
+}
