@@ -1,0 +1,95 @@
+{
+  "title": "floral gooey malaysian dasima-kombu wood-fired-bake",
+  "description": "a diabetic-friendly brunch dish featuring dasima-kombu and a wood-fired bake, served on a hot stone plate.",
+  "cuisine": "malaysian",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dasima (kombu seaweed) sheets",
+      "amount": "4",
+      "notes": "dried, cut into 1-inch squares"
+    },
+    {
+      "name": "coconut milk ",
+      "amount": "14 oz",
+      "notes": "full-fat, low-carb option"
+    },
+    {
+      "name": "chicken eggs ",
+      "amount": "6",
+      "notes": "large, pastured, lightly beaten"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": "ground, organic"
+    },
+    {
+      "name": "paprika ",
+      "amount": "1 tsp",
+      "notes": "smoked, ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "sea salt, Himalayan pink salt"
+    },
+    {
+      "name": "caramel color powder",
+      "amount": "1/4 tsp",
+      "notes": "food-grade, organic"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1/2 tsp",
+      "notes": "plant-based, low-carb, natural sweetener-free"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425°f (220°c) with a wood fire or conventional heat.",
+    "add the dasima sheets to a hot stone plate and toast lightly for 2-3 minutes to remove moisture.",
+    "in a separate mixing bowl, combine the coconut milk, lightly beaten eggs, turmeric powder, paprika, salt, and caramel color powder. Mix well to combine.",
+    "pour the wet mixture over the toasted dasima sheets on the hot stone plate.",
+    "bake for an additional 12-15 minutes or until the top is golden brown and the eggs are cooked through, and the dasima is tender.",
+    "remove from heat and let cool for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "floral-gooey-malaysian-dasima-kombu-wood-fired-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-gooey-malaysian-dasima-kombu-wood-fired-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:04:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "dasima-kombu",
+    "descriptor": "floral gooey",
+    "dishForm": "wood-fired-bake"
+  }
+}
