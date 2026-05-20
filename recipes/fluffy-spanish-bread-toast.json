@@ -1,0 +1,91 @@
+{
+  "title": "Fluffy Spanish Bread Toast",
+  "description": "A simple briny, fluffy Spanish dish for a lazy Sunday morning featuring wholegrain bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-containing"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "2 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "smoked or virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Caper",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the whole wheat bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet and toast in the oven for 5 minutes.",
+    "While the bread is toasting, mix minced garlic with 1 tablespoon of chopped capers.",
+    "When the bread is done toasting, remove it from the oven and drizzle with olive oil.",
+    "Sprinkle the garlic caper mixture over the toasted bread slices.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "lacto-vegetarian",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "fluffy-spanish-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-spanish-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:05:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "bread",
+    "descriptor": "fluffy",
+    "dishForm": "Toast"
+  }
+}
