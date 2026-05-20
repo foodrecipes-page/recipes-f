@@ -1,0 +1,115 @@
+{
+  "title": "Fermented Tender Egyptian Prunes Tagine",
+  "description": "A rich and aromatic brunch dish featuring the sweet and tender flavors of prunes, coconut cream, and warm spices. This vegetarian-friendly recipe is perfect for a leisurely weekend morning.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Prunes",
+      "amount": "1 1/2 cups",
+      "notes": "dried, pitted"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine prunes and yeast, and add 1 cup of water. Stir to dissolve yeast, then set aside for 10 minutes.",
+    "In a large saucepan, heat coconut oil over medium heat. Add onion, garlic, and ginger, and cook until fragrant, about 5 minutes.",
+    "Add the cumin, cinnamon, turmeric, and salt to the saucepan, and cook for 1 minute.",
+    "Add the prunes and yeast mixture to the saucepan, and stir to combine.",
+    "Pour in the coconut cream, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, uncovered, for 20 minutes.",
+    "Transfer the tagine to a serving dish, and garnish with chopped fresh herbs, if desired.",
+    "Serve warm, or at room temperature.",
+    "Refrigerate any leftovers, and allow to ferment for 24 hours before serving.",
+    "Before serving, stir in any accumulated liquid from the refrigerator."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "egyptian",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "fermented-tender-egyptian-prunes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tender-egyptian-prunes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:26:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "prunes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "prunes",
+    "descriptor": "fermented tender",
+    "dishForm": "Tagine"
+  }
+}
