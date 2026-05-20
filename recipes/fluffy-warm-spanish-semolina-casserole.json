@@ -1,0 +1,107 @@
+{
+  "title": "fluffy warm spanish semolina casserole",
+  "description": "a winey, pillowy, hangover-cure spanish (andalusian) dish featuring semolina, rest-meat, sugar-free-friendly ingredients",
+  "cuisine": "spanish",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "rest-meat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "warmed"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "spanish-style"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "pour in the warmed chicken broth and red wine, scraping up any browned bits from the bottom of the pan.",
+    "stir in the semolina and cook for 2-3 minutes, until the mixture is well combined and slightly thickened.",
+    "in a large bowl, whisk together the beaten eggs and grated cheese.",
+    "add the cooked semolina mixture to the egg mixture and stir until well combined.",
+    "transfer the mixture to a 9x13-inch baking dish and smooth the top.",
+    "dot the top of the casserole with butter and sprinkle with chopped parsley.",
+    "bake the casserole in the preheated oven for 25-30 minutes, or until set and golden brown.",
+    "remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "one-pan",
+    "pillowy",
+    "spanish",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "fluffy-warm-spanish-semolina-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-warm-spanish-semolina-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:47:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "semolina",
+    "diet": "sugar-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "semolina",
+    "descriptor": "fluffy, warm",
+    "dishForm": "Casserole"
+  }
+}
