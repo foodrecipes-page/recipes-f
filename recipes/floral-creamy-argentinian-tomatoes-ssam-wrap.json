@@ -1,0 +1,119 @@
+{
+  "title": "floral creamy argentinian tomatoes ssam-wrap",
+  "description": "post-workout dish featuring fresh tomatoes and a fragrant, creamy filling, served in crispy ssam-wraps. perfect for a quick and easy lunch or dinner",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ssam-wraps (corn tortillas)",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "buddha's hand citron",
+      "amount": "1",
+      "notes": "for its fragrance and acidity"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "soak the ssam-wraps in water for 10 minutes before using.",
+    "chop the tomatoes, cucumber, and red onion into small pieces.",
+    "grate the ginger and mince the garlic.",
+    "mix together the almond milk, lemon juice, honey, and olive oil in a blender until smooth.",
+    "heat the mixture in a saucepan over medium heat until warm and fragrant.",
+    "add the minced garlic and grated ginger to the saucepan and cook for 1-2 minutes.",
+    "add the chopped tomatoes, cucumber, and red onion to the saucepan and cook for 3-4 minutes.",
+    "warm the ssam-wraps in a dry pan over medium heat.",
+    "assemble the ssam-wraps by spooning the tomato mixture onto a tortilla, topping with fresh cilantro, and serving immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy",
+    "post-workout",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "floral-creamy-argentinian-tomatoes-ssam-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-creamy-argentinian-tomatoes-ssam-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:24:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "floral creamy",
+    "dishForm": "ssam-wrap"
+  }
+}
