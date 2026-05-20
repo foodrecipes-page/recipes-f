@@ -1,0 +1,123 @@
+{
+  "title": "Fresh Gooey Comforting Tunisian Cornmeal Pastry",
+  "description": "This traditional Tunisian pastry is made with fine yellow cornmeal and a long-fermentation-dough, perfect for a comforting breakfast treat.",
+  "cuisine": "Tunisian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the cornmeal, flour, yeast, and salt.",
+    "Add the olive oil, water, honey, and rosemary to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "On a floured surface, roll out the dough to a thickness of 1/4 inch.",
+    "Cut into 12 equal pieces and place on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes, or until golden brown.",
+    "While the pastry is baking, mix the feta cheese, unsalted butter, and egg in a small bowl.",
+    "Remove the pastry from the oven and let cool for 5 minutes.",
+    "Spread the feta mixture on top of the pastry and drizzle with unsweetened yogurt.",
+    "Return to the oven and bake for an additional 5 minutes, or until the cheese is melted and the pastry is golden brown.",
+    "Let cool for 10 minutes before serving.",
+    "Cut into wedges and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheese",
+    "comfort-food",
+    "cornmeal",
+    "egg",
+    "pastry",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "fresh-gooey-comforting-tunisian-cornmeal-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-gooey-comforting-tunisian-cornmeal-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "fresh gooey comforting",
+    "dishForm": "pastry"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "flaky cheese tunisian cheese toast",
+  "description": "a romantic tunisian dish featuring toast, glaze, and melted cheese, perfect for a date night or a cozy evening at home.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "cashew cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400f.",
+    "Slice the bread into 1-inch thick slices and place on a baking sheet.",
+    "Bake the bread in the oven for 5 minutes.",
+    "Meanwhile, mix together the cashew cheese, lemon juice, olive oil, garlic powder, and salt in a small bowl.",
+    "Remove the bread from the oven and brush the cheese mixture onto each slice.",
+    "Place a slice of bread on each bamboo skewer.",
+    "Drizzle the honey over the bread and sprinkle with flaky sea salt.",
+    "Place the skewers on a bamboo tray and bake in the oven for an additional 5 minutes.",
+    "Remove from the oven and sprinkle with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "easy-to-make",
+    "one-pan",
+    "romantic-dinner",
+    "tunisian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "flaky-cheese-tunisian-cheese-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-cheese-tunisian-cheese-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:35:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "glaze",
+    "primaryIngredient": "toast",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cheese",
+    "descriptor": "Flaky Cheese",
+    "dishForm": "Toast"
+  }
+}
