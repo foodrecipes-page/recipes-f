@@ -1,0 +1,68 @@
+{
+  "title": "Forced Thai Rhubarb Som Tum",
+  "description": "A grassy, crisp recipe for midnight cravings, featuring forced-rhubarb and katsuramuki-cut, halal-friendly, form=som-tum.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Forced Rhubarb",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Red Thai Chili Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresno Chilies",
+      "amount": "1",
+      "notes": "halal-friendly pepper option"
+    }
+  ],
+  "instructions": [
+    "Pound the chilies and peanuts in a mortar and pestle until slightly crushed.",
+    "Add the forced rhubarb, katsuramuki-cut, and pound until slightly broken down.",
+    "Add the fish sauce, lime juice, and palm sugar, and pound until combined.",
+    "Add the chopped cilantro and mint, and pound until just combined.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer to a serving dish and garnish with additional cilantro and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "halal",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "forced-thai-rhubarb-som-tum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/forced-thai-rhubarb-som-tum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:11:40Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Forced",
+    "dishForm": "Som Tum"
+  }
+}
