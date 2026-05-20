@@ -1,0 +1,130 @@
+{
+  "title": "Fluffy Briny Filipino Shredded Meat Pancit-Bihon",
+  "description": "A nostalgic Filipino dish featuring shredded meat, char-grill-yang flavors, and a briny, fluffy texture, perfect for a low-carb friendly lunch or dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pancit Bihon noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Char siu sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalamansi juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the shredded pork and cook until browned, about 3 minutes.",
+    "Add the char siu sauce, fish sauce, grated ginger, garlic, salt, black pepper, and sugar. Cook for 1 minute, stirring constantly.",
+    "Add the Shrimp paste and cook for 1 minute, stirring constantly.",
+    "Add the Pancit Bihon noodles and cook until they start to brown, about 2-3 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the noodles are cooked and the liquid has been absorbed.",
+    "Stir in the green onions and scallions. Cook for 1 minute, or until the onions are wilted.",
+    "Transfer the Pancit Bihon to a serving platter and drizzle with Kalamansi juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy!",
+    "Garnish with additional green onions and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "fluffy-briny-filipino-shredded-meat-pancit-bihon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-briny-filipino-shredded-meat-pancit-bihon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:07:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "shredded meat",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shredded meat",
+    "descriptor": "fluffy briny",
+    "dishForm": "Pancit-Bihon"
+  }
+}
