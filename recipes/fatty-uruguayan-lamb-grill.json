@@ -1,0 +1,95 @@
+{
+  "title": "Fatty Uruguayan Lamb Grill",
+  "description": "A rich and savory Uruguayan-inspired lamb dish featuring a sweet and sticky glaze, crispy exterior, and a hearty, comforting flavor profile.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1",
+      "notes": "preferably with a layer of fat"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "3 tablespoons",
+      "notes": "+ adds a rich, caramelized flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the lamb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "+ adds a bright, herbaceous flavor"
+    },
+    {
+      "name": "Fond (beef stock reduction)",
+      "amount": "1 cup",
+      "notes": "+ adds depth and umami flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "+ adds a tangy, citrusy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "+ enhances flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "+ enhances flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grill",
+    "high-fat",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 64
+  },
+  "slug": "fatty-uruguayan-lamb-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-uruguayan-lamb-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:40:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "caster sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Fatty",
+    "dishForm": "Grill"
+  }
+}
