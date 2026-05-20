@@ -1,0 +1,124 @@
+{
+  "title": "Firmly-Grilled Malaysian Sausage Satay",
+  "description": "A post-workout, ovo-vegetarian-friendly dish featuring Polish sausage, robata-grill, and a crunchy, cultured twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish sausage (1 pound)",
+      "amount": "1",
+      "notes": "preferably of high quality"
+    },
+    {
+      "name": "Sliced fresh bamboo skewers (1 dozen)",
+      "amount": "1",
+      "notes": "pre-soaked in water for 30 minutes"
+    },
+    {
+      "name": "Robata-grill oil (1/4 cup)",
+      "amount": "1/4",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "Chopped peanuts (1/4 cup)",
+      "amount": "1/4",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped cilantro (1/4 cup)",
+      "amount": "1/4",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Coconut milk (1/4 cup)",
+      "amount": "1/4",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Cilantro-lime sauce (1/4 cup)",
+      "amount": "1/4",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey (2 tbsp)",
+      "amount": "2",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Lime juice (2 tbsp)",
+      "amount": "2",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Ginger paste (1 tsp)",
+      "amount": "1",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Galangal paste (1 tsp)",
+      "amount": "1",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Garlic (1 tsp)",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "1",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400°F (200°C).",
+    "In a large bowl, whisk together coconut milk, honey, lime juice, ginger paste, and galangal paste.",
+    "Add the sliced Polish sausage to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Thread the marinated sausage onto pre-soaked bamboo skewers, leaving a little space between each piece.",
+    "Brush the robata-grill with robata-grill oil to prevent sticking.",
+    "Grill the satay for 8-10 minutes on each side, or until nicely charred and cooked through.",
+    "Serve immediately, garnished with chopped peanuts and cilantro, with cilantro-lime sauce on the side if desired.",
+    "Optional: serve with steamed jasmine rice or roti for a more filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "snack-attack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "firmly-grilled-malaysian-sausage-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/firmly-grilled-malaysian-sausage-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T22:17:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "polish sausage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sausage",
+    "descriptor": "firmly-grilled",
+    "dishForm": "Satay"
+  }
+}
