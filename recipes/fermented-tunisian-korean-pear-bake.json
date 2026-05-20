@@ -1,0 +1,108 @@
+{
+  "title": "Tunisian Korean-Pear Bake",
+  "description": "A flavorful and refreshing brunch dish featuring Korean-pear, perfect for a weekend morning. The combination of fermented flavors and crispy salt-baked crust will leave you wanting more.",
+  "cuisine": "tunisian",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean Pear",
+      "amount": "2",
+      "notes": "use a firm variety such as Shinseiki"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": "white or black"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "Fermented Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "such as gochugaru"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "flaky sea salt or kosher salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "In a small bowl, mix together sesame seeds, coconut sugar, fermented chili flakes, salt, and black pepper.",
+    "In a separate bowl, whisk together olive oil, chopped cilantro, minced garlic, and lemon juice.",
+    "Cut the Korean pear in half and place it on the prepared baking sheet.",
+    "Drizzle the pear with the oil mixture and sprinkle with the sesame seed mixture.",
+    "Bake for 25 minutes, or until the pear is tender and the top is caramelized.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fermented-tunisian-korean-pear-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-tunisian-korean-pear-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:01:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "korean-pear",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "korean-pear",
+    "descriptor": "fermented",
+    "dishForm": "bake"
+  }
+}
