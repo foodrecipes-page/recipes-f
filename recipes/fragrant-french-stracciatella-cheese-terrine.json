@@ -1,0 +1,108 @@
+{
+  "title": "French Stracciatella-Cheese Terrine",
+  "description": "A spicy and crispy French dish made with stracciatella cheese, namul blanch season, and plant-based friendly ingredients. Serve as a side dish or as a main course.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stracciatella cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "namul blanch season",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the whole wheat bread into 1-inch cubes and toast in the oven for 5 minutes.",
+    "In a blender or food processor, mix together the stracciatella cheese, namul blanch season, garlic, fresh thyme, salt, black pepper, and chili flakes until well combined.",
+    "In a separate bowl, whisk together the plant-based milk and olive oil.",
+    "Add the toasted bread cubes to the blender or food processor and mix until the bread is broken down and the mixture is well combined.",
+    "Pour the mixture into a terrine dish or a small loaf pan and smooth the top.",
+    "Pour the milk and oil mixture over the bread mixture and smooth the top again.",
+    "Bake the terrine in the preheated oven for 25-30 minutes, or until the top is golden brown and the terrine is set.",
+    "Let the terrine cool to room temperature before serving.",
+    "Serve the terrine at room temperature, garnished with additional fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "french",
+    "plant-based",
+    "snack",
+    "terrine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "fragrant-french-stracciatella-cheese-terrine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-french-stracciatella-cheese-terrine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "stracciatella-cheese",
+    "descriptor": "Fragrant",
+    "dishForm": "Terrine"
+  }
+}
