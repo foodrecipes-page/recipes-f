@@ -1,0 +1,109 @@
+{
+  "title": "Flaky Winey Peruvian Frankfurter Tiradito",
+  "description": "A refreshing post-workout dish featuring flaky Peruvian frankfurters infused in a winey citrus marinade, served with a side of crispy garlic crostini.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ttukbaegi clay",
+      "amount": "",
+      "notes": "for earthenware cooking"
+    }
+  ],
+  "instructions": [
+    "Place the frankfurters on a plate and set aside.",
+    "Combine the red wine, lime juice, ginger, garlic, and cilantro in a bowl.",
+    "Add the olive oil and mix well.",
+    "Place the ttukbaegi clay over medium heat and preheat for 10 minutes.",
+    "Place the frankfurters in the clay and pour the marinade over them.",
+    "Cover the clay and cook for 10 minutes.",
+    "Remove the clay from heat and season with salt and pepper.",
+    "Serve the frankfurters with crispy garlic crostini on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "flaky-winey-peruvian-frankfurter-tiradito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-winey-peruvian-frankfurter-tiradito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:55:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "frankfurter",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "flaky winey",
+    "dishForm": "Tiradito"
+  }
+}
