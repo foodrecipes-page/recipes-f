@@ -1,0 +1,118 @@
+{
+  "title": "Fragrant Thai Tom-Yum",
+  "description": "A refreshing, energizing Thai dish featuring a balance of spicy and sour flavors, crunchy sesame seeds, and paleo-friendly ingredients. Perfect for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised to release oils"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "chilies",
+      "amount": "4-6",
+      "notes": "Thai bird's eye"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "cherry tomatoes"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fish balls",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large clay pot, heat the sesame seeds over medium heat.",
+    "Add the infuse-oil, lemongrass, and galangal to the pot, and cook for 1 minute.",
+    "Add the chilies, fish sauce, and coconut milk to the pot, and bring to a simmer.",
+    "Add the mushrooms, tomatoes, and fish balls (if using) to the pot, and cook for 2-3 minutes.",
+    "Taste and adjust the seasoning with lime juice and fish sauce.",
+    "Serve the Tom-Yum hot, garnished with toasted sesame seeds and a drizzle of infuse-oil.",
+    "If desired, add 2-3 cups of water to the pot, and cook for an additional 5-7 minutes to create a light broth.",
+    "Strain the broth through a fine-mesh sieve into a bowl, and discard the solids.",
+    "Reserve 1/4 cup of the broth for serving, and discard the rest.",
+    "Serve the Tom-Yum hot, with the reserved broth spooned over the top.",
+    "Garnish with fresh cilantro leaves, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "one-pan",
+    "paleo",
+    "sour",
+    "spicy",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "fragrant-thai-tom-yum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fragrant-thai-tom-yum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:03:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sesame seed",
+    "diet": "paleo",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Hearty Fragrant",
+    "dishForm": "Tom Yum"
+  }
+}
