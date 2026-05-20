@@ -1,0 +1,62 @@
+{
+  "title": "Fatty Gooey Polish Sugar Pierogi",
+  "description": "A traditional Polish dish made with muscovado sugar and a special pounding technique. This recipe is FODMAP-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "potato starch",
+      "amount": "1/2 cup",
+      "notes": "helps to prevent sticking"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and potato starch in a bowl. Pound dough with a mortar and pestle for about 10 minutes to develop gluten. Knead for 5 minutes until smooth. Wrap and rest for 30 minutes. Divide dough into 8 pieces. Roll each piece thinly into a circle. Place a tablespoon of muscovado sugar in the center of each circle. Fold and press edges to seal. Boil in water for 5 minutes. Fry in hot oil until golden brown. Drain on paper towels."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "fatty",
+    "fodmap-friendly",
+    "gooey",
+    "polish",
+    "sugar",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "fatty-gooey-polish-sugar-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fatty-gooey-polish-sugar-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:21:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sugar",
+    "descriptor": "fatty gooey",
+    "dishForm": "Pierogi"
+  }
+}
