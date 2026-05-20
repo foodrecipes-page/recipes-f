@@ -1,0 +1,100 @@
+{
+  "title": "Fluffy Floral French IB Rico Bake",
+  "description": "A post-workout French dish from Brittany featuring jam, IB Rico, and a shojin-friendly deglaze-fond. Perfect for a light and refreshing dessert.",
+  "cuisine": "French",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "IB Rico",
+      "amount": "250g"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "150g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "20g"
+    },
+    {
+      "name": "Jam",
+      "amount": "50g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "10ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Grease a baking dish with butter.",
+    "Mix together flour and baking powder.",
+    "Add the sugar and lemon zest to the dry mixture and mix until combined.",
+    "Beat the egg and mix with the almond milk and vanilla extract.",
+    "Pour the wet ingredients into the dry mixture and stir until just combined.",
+    "Gently fold in the IB Rico and jam.",
+    "Pour the batter into the prepared baking dish.",
+    "Smooth the top and bake for 35 minutes.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "after-workout",
+    "french",
+    "low-calorie",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "fluffy-floral-french-ib-rico-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-floral-french-ib-rico-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:34:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "shojin",
+    "region": "brittany",
+    "cuisineAdjective": "floral french",
+    "mainIngredient": "ib rico",
+    "descriptor": "fluffy",
+    "dishForm": "bake"
+  }
+}
