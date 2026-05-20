@@ -1,0 +1,55 @@
+{
+  "title": "Flaky Portuguese Oatmeal Wrap",
+  "description": "A weeknight, flexitarian-friendly, Portuguese-inspired dish featuring oatmeal and ssam-wraps served in banana leaves. Perfect for a quick breakfast or lunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "steel-cut oatmeal",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Combine oatmeal and water in a saucepan and bring to a boil over high heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "flexitarian",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "flaky-portuguese-oatmeal-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-portuguese-oatmeal-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:34:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "oatmeal",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "oatmeal",
+    "descriptor": "flaky",
+    "dishForm": "Wrap"
+  }
+}
