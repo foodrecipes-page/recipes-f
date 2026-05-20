@@ -1,0 +1,122 @@
+{
+  "title": "Fluffy Malaysian Tempeh Bao",
+  "description": "A sour and fluffy Malaysian dish featuring tempeh, lamination-puff, and jain-friendly ingredients, perfect for a monsoon day. Serve warm with sweet soy sauce for a delicious treat.",
+  "cuisine": "malaysian",
+  "diet": [
+    "jain",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix the soy sauce, rice vinegar, and sugar in a small bowl to make a marinade.",
+    "Cut the tempeh into small cubes and soak in the marinade for at least 30 minutes.",
+    "Roll out the laminated puff pastry and cut into small squares.",
+    "Place a spoonful of the tempeh mixture onto one half of each pastry square.",
+    "Fold the pastry in half and press the edges to seal the bao.",
+    "Brush the tops with water and sprinkle with sesame seeds.",
+    "Place the bao on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the bao is baking, mix the tofu with water to make a sauce.",
+    "Remove the bao from the oven and brush with the tofu sauce.",
+    "Serve warm with additional tofu sauce for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bao",
+    "fluffy",
+    "lunch",
+    "malaysian",
+    "tempeh",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "fluffy-malaysian-tempeh-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-malaysian-tempeh-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:14:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tempeh",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tempeh",
+    "descriptor": "fluffy",
+    "dishForm": "Bao"
+  }
+}
