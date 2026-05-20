@@ -1,0 +1,115 @@
+{
+  "title": "flaky post-workout irish beef fold",
+  "description": "a hearty, herbal, flaky irish dish featuring corned beef, ideal for post-workout recovery and prepared with gluten-free-friendly ingredients",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "8 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ice-cold water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "egg,",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tablespoons chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 degrees fahrenheit. ",
+    "in a large bowl, combine flour and salt. ",
+    "add cold butter and use a pastry blender to work it into the flour until the mixture resembles coarse meal. ",
+    "gradually add ice-cold water, stirring with a fork until the dough comes together in a ball. ",
+    "turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable. ",
+    "roll the dough out to a thickness of about 1/8 inch. ",
+    "cut the dough into 4 equal pieces and roll each piece into a ball. ",
+    "roll each ball into a circle, then place a piece of corned beef in the center. ",
+    "sprinkle a pinch of salt and pepper over the corned beef, then top with a spoonful of irish cheddar cheese. ",
+    "fold the dough over the filling, forming a triangle or square shape, and press the edges together to seal. ",
+    "brush the tops of the pastries with a beaten egg and sprinkle with chopped scallions. ",
+    "place the pastries on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "flaky-post-workout-irish-beef-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-post-workout-irish-beef-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:58:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "corned beef",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "flaky post-workout",
+    "dishForm": "fold"
+  }
+}
