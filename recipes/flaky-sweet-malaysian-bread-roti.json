@@ -1,0 +1,87 @@
+{
+  "title": "Malaysian Flaky Sweet Bread Roti",
+  "description": "A sweet and flaky Malaysian roti bread, perfect as a dessert or snack.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large mixing bowl.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan over medium heat.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Fry the roti for 2-3 minutes on each side or until golden brown and puffed.",
+    "Drain excess oil and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-ideas",
+    "easy-snack",
+    "flaky-roti",
+    "low-fat-friendly",
+    "malaysian-cuisine",
+    "sweet-bread",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "flaky-sweet-malaysian-bread-roti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-sweet-malaysian-bread-roti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:49:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Bread",
+    "descriptor": "Flaky Sweet",
+    "dishForm": "Roti"
+  }
+}
