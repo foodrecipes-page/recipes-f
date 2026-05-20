@@ -1,0 +1,71 @@
+{
+  "title": "Fermented Crispy Thai Naan Bread Flatbread",
+  "description": "A Thai-inspired flatbread recipe that combines the crunch of crispy naan bread with the tanginess of fermented flavors. This recipe is perfect for a quick snack or meal that's both kid-friendly and raw-friendly.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "helps feed the yeast"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, warm water, and sugar in a bowl and let it sit for 5 minutes, until frothy.",
+    "Add 2 cups of all-purpose flour, salt, and mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment in a warm, draft-free place for 1-2 hours, until doubled in size.",
+    "Divide the dough into 4-6 equal pieces and roll each into a ball.",
+    "Shape each ball into a thin circle, about 6-7 inches in diameter.",
+    "Heat a non-stick skillet or grill over medium-high heat, cook the naan bread for 1-2 minutes per side, until crispy and golden brown.",
+    " immediately submerge the cooked naan bread in an ice bath to stop the cooking process and help maintain crispiness.",
+    "Repeat with the remaining dough pieces,"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "kidfriendly",
+    "onepan",
+    "rawfriendly",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 8
+  },
+  "slug": "fermented-crispy-thai-naan-bread-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crispy-thai-naan-bread-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:45:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "naan bread",
+    "diet": "raw",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "naan bread",
+    "descriptor": "fermented crispy",
+    "dishForm": "Flatbread"
+  }
+}
