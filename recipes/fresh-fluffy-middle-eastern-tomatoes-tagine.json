@@ -1,0 +1,100 @@
+{
+  "title": "Fresh & Fluffy Middle-Eastern Tomatoes Tagine",
+  "description": "A fresh, fluffy, and flavorful middle-eastern dish featuring baby plum tomatoes, perfect for a midnight craving. This keto-friendly recipe uses a traditional tandoor clay pot to infuse the flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby plum tomatoes",
+      "amount": "12 oz",
+      "notes": "halved and patted dry"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400°F (200°C) for 30 minutes before cooking. In a small bowl, mix together the minced garlic and grated ginger.",
+    "Add the olive oil to the preheated tandoor clay pot and swirl it around to coat the sides. Add the halved baby plum tomatoes and cook for 10 minutes, stirring occasionally.",
+    "Pour in the freshly squeezed lemon juice and sprinkle with flaky sea salt and freshly ground black pepper. Cook for an additional 5 minutes, stirring occasionally.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Taste and adjust the seasoning as needed.",
+    "Let the tagine rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve warm, garnished with additional parsley if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat in the tandoor clay pot or oven before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "fresh",
+    "keto",
+    "middle-eastern",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "fresh-fluffy-middle-eastern-tomatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-fluffy-middle-eastern-tomatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:22:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Fresh & Fluffy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Fried Venezuelan Bread",
+  "description": "A comforting, whole30-friendly fried bread recipe from Venezuela, made with instant yeast and binchotan charcoal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "make sure gluten-free if you need to"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to your liking for smokiness"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a bowl. Mix well until combined.",
+    "Gradually add water to the flour mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Place the dough in a greased bowl and let it rise for 1 hour.",
+    "Heat binchotan charcoal powder with coconut oil in a pan over medium heat.",
+    "Divide the dough into 4-6 equal pieces and shape each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Fry the bread in the pan with coconut oil for 2-3 minutes on each side, until golden brown.",
+    "Drain on paper towels and serve hot.",
+    "Serve with your favorite toppings, such as cheese, meats, or vegetables.",
+    "Serve immediately and enjoy!",
+    "Serve warm and enjoy the crispy, chewy texture of this delicious Venezuelan bread!",
+    "Fry in batches if necessary to prevent overcrowding the pan."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "comfort-food",
+    "fried",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "fluffy-fried-venezuelan-bread-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fried-venezuelan-bread-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:22:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "instant yeast",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bread",
+    "descriptor": "Fluffy Fried",
+    "dishForm": "Bread"
+  }
+}
