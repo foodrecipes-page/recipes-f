@@ -1,0 +1,57 @@
+{
+  "title": "Fluffy Fermented Moroccan Salmon Tagine",
+  "description": "A crowd-pleasing Moroccan dish featuring fermented salmon, served in a pandan leaf wrap. This dish is a unique fusion of traditional Moroccan flavors and sashimi-grade salmon, making it a standout for special occasions.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet (sashimi-grade)",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Pandan leaves",
+      "amount": "6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Rinse the salmon fillet under cold running water, then pat it dry with paper towels."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "fish",
+    "moroccan",
+    "moroccan-fish"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 84,
+    "carbs": 0,
+    "fat": 48
+  },
+  "slug": "fluffy-fermented-moroccan-salmon-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fermented-moroccan-salmon-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:17:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "salmon",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "salmon",
+    "descriptor": "fluffy, fermented",
+    "dishForm": "Tagine"
+  }
+}
