@@ -1,0 +1,81 @@
+{
+  "title": "Fluffy Australian Buttery Flatbread",
+  "description": "A crowd-pleasing Australian dish featuring caramel sauce and a sweet, buttery flavor, perfect for breakfast or brunch. This recipe is sugar-free friendly and easy to make.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "50",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "125",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "150",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "100",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large mixing bowl, combine the flour, sugar, and a pinch of salt.",
+    "Add the softened butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a small bowl, whisk together the eggs and milk, then add this mixture to the dry ingredients and stir until the dough comes together in a ball."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "flatbread",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "fluffy-australian-buttery-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-australian-buttery-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:52:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "caramel sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "buttery",
+    "descriptor": "fluffy",
+    "dishForm": "flatbread"
+  }
+}
