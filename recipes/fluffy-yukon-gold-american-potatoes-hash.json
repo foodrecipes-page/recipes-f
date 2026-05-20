@@ -1,0 +1,103 @@
+{
+  "title": "fluffy yukon gold american potatoes hash",
+  "description": "herbal, fluffy, brunch-mood american dish featuring yukon gold potatoes, katsuramuki-cut. ayurvedic-tamasic-friendly, vessel=comal.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yukon gold potatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cut the yukon gold potatoes into 1/8 inch thick katsuramuki-cut slices.",
+    "heat the coconut oil in a comal over medium heat.",
+    "add the chopped rosemary and thyme to the comal and cook for 1 minute.",
+    "add the sliced potatoes to the comal and cook for 5 minutes, stirring occasionally.",
+    "season with salt and black pepper to taste.",
+    "transfer the potatoes to a serving dish and top with chopped scallions and grated cheddar cheese.",
+    "serve immediately and enjoy!",
+    "optional: add additional herbs or spices to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "ayurvedic",
+    "breakfast",
+    "brunch",
+    "comal",
+    "easy-to-make",
+    "healthy",
+    "herbal",
+    "potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "fluffy-yukon-gold-american-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-yukon-gold-american-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:43:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "potatoes",
+    "descriptor": "fluffy yukon gold",
+    "dishForm": "hash"
+  }
+}

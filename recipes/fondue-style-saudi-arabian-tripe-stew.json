@@ -1,0 +1,115 @@
+{
+  "title": "Saudi-Arabian Tripe Stew Fondue",
+  "description": "A unique crowd-pleaser featuring tripe, lamination puff, and a rich cheese pull. Traditionally served in a fondue pot over low heat, ideal for communal dining.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "Rinsed and cleaned tripe, cut into 1-inch pieces."
+    },
+    {
+      "name": "Lamination Puff",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded Arab cheese or substitute with a similar type."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a fondue pot over low heat.",
+    "Add the onion and garlic, cook for 5 minutes until softened.",
+    "Add the cumin, coriander, and paprika, cook for 1 minute stirring constantly.",
+    "Add the tripe, cook for 10 minutes until browned, stirring occasionally.",
+    "Add the cheese, yogurt, salt, and black pepper, stir until the cheese is melted and the mixture is smooth.",
+    "Serve the tripe stew fondue warm, allowing guests to dip their choice of bread or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "fondue-style-saudi-arabian-tripe-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fondue-style-saudi-arabian-tripe-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:43:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tripe",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "tripe",
+    "descriptor": "fondue-style",
+    "dishForm": "stew"
+  }
+}
