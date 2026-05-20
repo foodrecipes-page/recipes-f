@@ -1,0 +1,123 @@
+{
+  "title": "Fluffy Fudgy Slovakian Polenta Bake",
+  "description": "A dense and sweet one-pot Slovakian dish, perfect for a dessert or snack. Made with canola oil and egg-free-friendly ingredients.",
+  "cuisine": "slovakian",
+  "diet": [
+    "egg-free",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Maize Flour",
+      "amount": "200",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "150",
+      "notes": ""
+    },
+    {
+      "name": "Canola Oil",
+      "amount": "60",
+      "notes": "Use a neutral-tasting oil."
+    },
+    {
+      "name": "Milk",
+      "amount": "100",
+      "notes": "Dairy or non-dairy, as preferred."
+    },
+    {
+      "name": "Egg Replacer",
+      "amount": "2",
+      "notes": "Such as flaxseed or chia seeds."
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "2",
+      "notes": "Make sure it's gluten-free."
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.5",
+      "notes": "Optional, but recommended."
+    },
+    {
+      "name": "Raisins",
+      "amount": "50",
+      "notes": "Optional, but adds sweetness and texture."
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1",
+      "notes": "Use a neutral-tasting extract."
+    },
+    {
+      "name": "Water",
+      "amount": "100",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "20",
+      "notes": "Optional, but adds flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius (350 degrees Fahrenheit).",
+    "In a large mixing bowl, combine the maize flour, granulated sugar, canola oil, and egg replacer. Mix until well combined.",
+    "Add the milk, baking powder, salt, and cinnamon. Mix until smooth.",
+    "Add the raisins and vanilla, if using. Mix until well combined.",
+    "Pour in the water and honey, if using. Mix until the batter is smooth.",
+    "Transfer the batter to a greased and floured 20x20-centimeter (8x8-inch) baking dish.",
+    "Bake for 40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, or at room temperature.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days.",
+    "Reheat in the microwave or oven, as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "egg-free",
+    "gluten-free",
+    "one-pot",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "fluffy-fudgy-slovakian-polenta-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-fudgy-slovakian-polenta-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:02:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "canola oil",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "polenta",
+    "descriptor": "fluffy fudgy",
+    "dishForm": "Bake"
+  }
+}

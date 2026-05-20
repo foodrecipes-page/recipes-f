@@ -1,0 +1,113 @@
+{
+  "title": "fermented silky indian wild garlic leaves korma",
+  "description": "a rich and creamy korma sauce with fermented wild garlic leaves, served silky and smooth over basmati rice. this dish is a showcase of indian cuisine's subtlety and depth, while being nut-free and easy to make.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "200g",
+      "notes": "lightly packed, stems removed, and chopped into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "300ml",
+      "notes": "full-fat, chilled in the fridge overnight"
+    },
+    {
+      "name": "fermented rice paste",
+      "amount": "50g",
+      "notes": "homemade or store-bought, see notes for recipe"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u00102ing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced, for added flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated, for added flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground, for added flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground, for added flavor"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "ground, for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust according to your preference"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "in a blender or food processor, combine the fermented rice paste, coconut milk, ghee or oil, garlic, ginger, cumin, coriander, and turmeric. blend until smooth and creamy.",
+    "transfer the mixture to a saucepan and bring to a simmer over medium heat.",
+    "reduce the heat to low and let it cook for 5 minutes, stirring occasionally.",
+    "while the sauce is cooking, heat a large skillet over medium heat and add the chopped wild garlic leaves. cook until wilted, about 3-4 minutes.",
+    "add the cooked wild garlic to the saucepan and stir to combine.",
+    "season with salt to taste.",
+    "serve the korma sauce over basmati rice, garnished with chopped fresh cilantro.",
+    "note: for homemade fermented rice paste, combine 1 cup of cooked rice with 1 cup of water in a bowl. cover and let it sit at room temperature for 24-48 hours, or until it develops a sour smell and a slightly effervescent texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "indian",
+    "korma",
+    "nut-free",
+    "weeknight",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "fermented-silky-indian-wild-garlic-leaves-korma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-silky-indian-wild-garlic-leaves-korma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:03:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "indian",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "fermented silky",
+    "dishForm": "Korma"
+  }
+}
