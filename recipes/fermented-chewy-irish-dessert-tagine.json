@@ -1,0 +1,111 @@
+{
+  "title": "Fermented Chewy Irish Dessert Tagine",
+  "description": "A rich and creamy fermented dessert tagine featuring the sweetness of jam and the chewiness of fermented Irish oats.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish Oats",
+      "amount": "1 cup",
+      "notes": "use gluten-free oats if necessary"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Unflavored Yogurt",
+      "amount": "1 cup",
+      "notes": "for the yogurt mash, use a probiotic yogurt for added fermentation"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Jam",
+      "amount": "1/2 cup",
+      "notes": "use a sugar-free jam to maintain the diet's strictness"
+    },
+    {
+      "name": "Ceramic Tagine Vessel",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tsp",
+      "notes": "for the yogurt mash"
+    },
+    {
+      "name": "Coconut Water",
+      "amount": "1/4 cup",
+      "notes": "for the yogurt mash"
+    }
+  ],
+  "instructions": [
+    "Prepare the tagine vessel by washing it with water and drying it with a clean cloth.",
+    "Add the Irish oats, apple cider vinegar, and honey to the tagine vessel.",
+    "Mix the ingredients together until the oats are well coated with the liquid mixture.",
+    "Place the tagine vessel on the stovetop over low heat and let it simmer for 2 hours, or until the oats have absorbed most of the liquid and have a chewy texture.",
+    "Stir the mixture occasionally to prevent burning.",
+    "After 2 hours, remove the tagine vessel from the heat and let it cool to room temperature.",
+    "Meanwhile, prepare the yogurt mash by mixing together the unflavored yogurt, ghee, and coconut water in a separate bowl.",
+    "Once the tagine vessel has cooled, add the yogurt mash to the oats and mix until well combined.",
+    "Transfer the mixture to a serving dish and garnish with fresh rosemary sprigs.",
+    "Serve the Fermented Chewy Irish Dessert Tagine chilled, garnished with more rosemary sprigs if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Before serving, let the dessert sit at room temperature for 30 minutes to allow the flavors to meld together.",
+    "Note: This dessert is best served after a few hours or overnight in the refrigerator, as the flavors will meld together and the texture will become even chewier.",
+    "Note: If using a probiotic yogurt, the fermentation process will be accelerated, resulting in a tangier and more sour dessert.",
+    "Note: If the dessert becomes too sour, add a little honey to balance out the flavors."
+  ],
+  "prepTimeMin": 180,
+  "cookTimeMin": 120,
+  "totalTimeMin": 300,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "fermented",
+    "irish",
+    "low-protein",
+    "sattvic",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 84,
+    "fat": 8
+  },
+  "slug": "fermented-chewy-irish-dessert-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-irish-dessert-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "jam",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Dessert",
+    "descriptor": "Fermented Chewy",
+    "dishForm": "Tagine"
+  }
+}

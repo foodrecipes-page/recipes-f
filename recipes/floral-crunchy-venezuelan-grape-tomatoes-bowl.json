@@ -1,0 +1,97 @@
+{
+  "title": "floral crunchy venezuelan grape tomatoes bowl",
+  "description": "a light and refreshing bowl featuring boiled grape tomatoes, crunchy plantain chips, and a hint of floral cilantro. perfect for a buddhist temple-friendly meal prep option.",
+  "cuisine": "venezuelan",
+  "diet": [
+    null,
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grape tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "plantain chips",
+      "amount": "1 bag",
+      "notes": "crunchy and fried, add at the end as a garnish."
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped and added at the end for a fresh flavor."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced and used to season the tomatoes."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "used to boil the tomatoes."
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "added at the end to brighten the flavors."
+    }
+  ],
+  "instructions": [
+    "bring a large pot of salted water to a boil. add the grape tomatoes and cook until tender, about 5 minutes.",
+    "drain the tomatoes and transfer them to a bowl.",
+    "heat the olive oil in a pan over medium heat. add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "add the lemon juice to the bowl with the tomatoes and toss to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "gluten-free",
+    "healthy",
+    "meal-prep",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "floral-crunchy-venezuelan-grape-tomatoes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-crunchy-venezuelan-grape-tomatoes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "floral crunchy",
+    "dishForm": "Bowl"
+  }
+}
