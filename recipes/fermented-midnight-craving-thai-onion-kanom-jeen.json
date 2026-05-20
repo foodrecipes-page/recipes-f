@@ -1,0 +1,107 @@
+{
+  "title": "Fermented Midnight Craving Thai Onion Kanom Jeen",
+  "description": "A fermented and glassy-jelly dish that's sure to satisfy your midnight cravings. This Thai-inspired kanom jeen recipe features onion salt and a sugar-free twist.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion Salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented Rice Noodles",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "Grated Coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thai Chili Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "0",
+      "notes": "optional"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine onion salt, fermented fish sauce, and fish sauce in a mixing bowl.",
+    "Add grated coconut and mix until well combined.",
+    "Add fermented rice noodles and mix until noodles are well coated.",
+    "Heat a tagine over medium heat and add the noodle mixture.",
+    "Add palm sugar, rice vinegar, and water to the tagine and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Add sliced onion to the tagine and cook for an additional 5 minutes.",
+    "Stir in chopped cilantro and serve hot.",
+    "Let the dish cool to room temperature before refrigerating.",
+    "Let the dish ferment in the refrigerator for at least 24 hours before serving.",
+    "Serve the fermented dish chilled and garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "kanom-jeen",
+    "midnight-craving",
+    "one-pan",
+    "stir-fry",
+    "sugar-free",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "fermented-midnight-craving-thai-onion-kanom-jeen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-midnight-craving-thai-onion-kanom-jeen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "onion salt",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "onion",
+    "descriptor": "fermented midnight-craving",
+    "dishForm": "Kanom Jeen"
+  }
+}
