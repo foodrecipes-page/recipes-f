@@ -1,0 +1,62 @@
+{
+  "title": "Fermented Ethiopian Fines-Herbes Stew",
+  "description": "A flavorful and light stew featuring the finest herbs, balanced with Ethiopian spices and fermented to perfection. Serve with injera bread or over rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large Dutch oven over medium heat.",
+    "Add the chopped fines-herbes and cook until fragrant, about 3 minutes.",
+    "Add the curry powder, cumin, salt, black pepper, turmeric, and red pepper flakes and cook for 1 minute.",
+    "Stir in the tempeh, mitmita, ginger, and chocolate, and cook until the chocolate has melted.",
+    "Transfer the mixture to a large bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap and let it ferment at room temperature for 2 days.",
+    "After the fermentation process, transfer the stew to a Dutch oven or oven-safe pot and simmer over low heat for 10 minutes.",
+    "Serve the stew hot, garnished with additional fines-herbes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fermented",
+    "fines-herbes",
+    "ovo-vegetarian",
+    "tempering-chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fermented-ethiopian-fines-herbes-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-ethiopian-fines-herbes-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fines-herbes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "ethiopian",
+    "mainIngredient": "fines-herbes",
+    "descriptor": "fermented",
+    "dishForm": "stew"
+  }
+}

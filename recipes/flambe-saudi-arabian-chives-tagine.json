@@ -1,0 +1,113 @@
+{
+  "title": "flambe saudi-arabian chives tagine",
+  "description": "a briny, springy, romantic saudi-arabian dish featuring chives, flambe, macrobiotic-friendly ingredients.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chives",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large clay pot over medium heat.",
+    "saute the onion and garlic until the onion is translucent.",
+    "add the cumin, coriander, turmeric, and paprika and stir for 1 minute.",
+    "add the chives and saute for 2 minutes.",
+    "add the flour and stir to combine.",
+    "slowly add the chicken broth and bring to a boil.",
+    "reduce the heat to low and simmer for 10 minutes.",
+    "ignite the dish with a flambe of lemon juice and serve hot.",
+    "garnish with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "flambe-saudi-arabian-chives-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flambe-saudi-arabian-chives-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "chives",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "chives",
+    "descriptor": "flambe",
+    "dishForm": "Tagine"
+  }
+}
