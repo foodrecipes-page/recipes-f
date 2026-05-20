@@ -1,0 +1,109 @@
+{
+  "title": "Flaky Herbal Canadian Hummus Poutine",
+  "description": "A midnight-craving twist on the classic poutine, featuring flaky pastry, herbal flavors, and egg-free hummus. Perfect for a Canadian comfort food fix.",
+  "cuisine": "canadian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Hummus",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade, egg-free recipe"
+    },
+    {
+      "name": "Granny Smith Apples",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Fresh Sage",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salted Bacon",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Chopped Chives",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfortfood",
+    "eggefree",
+    "flaky",
+    "herbal",
+    "midnightcraving"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "flaky-herbal-canadian-hummus-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-herbal-canadian-hummus-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "hummus",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "hummus",
+    "descriptor": "flaky herbal",
+    "dishForm": "poutine"
+  }
+}
