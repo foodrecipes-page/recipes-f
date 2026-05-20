@@ -1,0 +1,82 @@
+{
+  "title": "australian turkey neck grill",
+  "description": "fresh and crunchy weeknight dish featuring turkey neck, perfect for a quick dinner",
+  "cuisine": "australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat",
+    "Season the turkey neck with salt, pepper, and paprika",
+    "Add the vegetable oil to the grill and sear the turkey neck for 2-3 minutes per side",
+    "Transfer the turkey neck to a baking sheet and roast in a preheated oven at 180\u00011c for 20-25 minutes",
+    "Meanwhile, toss the sliced shallots in a bowl with a pinch of salt and a squeeze of lemon juice",
+    "After the turkey neck has roasted for 20 minutes, add the shallots to the grill and cook for an additional 2-3 minutes, stirring occasionally",
+    "Once the turkey neck is cooked through, let it rest for 5 minutes before slicing and serving",
+    "Serve the sliced turkey neck with the crispy shallots on top",
+    "Enjoy as a quick and easy weeknight dinner",
+    "This dish is perfect for a weeknight dinner, as it can be cooked in under 30 minutes",
+    "The turkey neck is a great source of protein, making this dish high in protein",
+    "This dish is also low in carbs, making it a great option for those following a low-glycemic diet",
+    "The combination of the crispy shallots and the tender turkey neck is a match made in heaven",
+    "This dish is sure to become a new favorite, and is perfect for a quick and easy weeknight dinner",
+    "The turkey neck can be substituted with chicken or pork neck, if preferred",
+    "The shallots can be substituted with onions or garlic, if preferred"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 12
+  },
+  "slug": "fresh-crunchy-australian-turkey-neck-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crunchy-australian-turkey-neck-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:00:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "turkey neck",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "fresh crunchy",
+    "dishForm": "grill"
+  }
+}
