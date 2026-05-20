@@ -1,0 +1,113 @@
+{
+  "title": "Fiery Italian Vegetables Casserole",
+  "description": "A spicy, savory, and satisfying vegetarian Italian casserole featuring Thai green curry paste.",
+  "cuisine": "Italian/Sardinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat and sauté the onion, mushrooms, bell peppers, and zucchini until the vegetables are tender.",
+    "Add the Thai green curry paste and cook for 1 minute, stirring constantly.",
+    "Stir in the tomato sauce and bring the mixture to a simmer.",
+    "In a separate saucepan, make the bechamel sauce by melting the butter over medium heat and whisking in the flour.",
+    "Slowly pour in the milk, whisking constantly, and cook until the sauce thickens.",
+    "Add the mozzarella and Parmesan cheese to the bechamel sauce and stir until melted.",
+    "In a 9x13-inch baking dish, arrange a layer of the vegetable mixture.",
+    "Pour half of the bechamel sauce over the vegetables.",
+    "Repeat the layers, starting with the vegetables, then the bechamel sauce.",
+    "Top the casserole with the chopped fresh basil and grated Parmesan cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "italian",
+    "one-pan",
+    "sardinian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "fiery-italian-vegetables-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-italian-vegetables-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:28:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "vegetarian",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Fiery",
+    "dishForm": "Casserole"
+  }
+}
