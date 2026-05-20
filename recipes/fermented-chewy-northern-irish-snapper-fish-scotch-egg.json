@@ -1,0 +1,69 @@
+{
+  "title": "Fermented Chewy Northern-Irish Snapper Fish Scotch Egg",
+  "description": "A twist on the classic scotch egg, featuring fermented snapper fish for a unique chewy texture. This Northern Irish dish is perfect for a weeknight meal that's quick to prepare.",
+  "cuisine": "Northern Irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "snapper fish (1 lb)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "unbleached all-purpose flour (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter (1/2 cup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "white vinegar (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "+ 1 tbsp sugar-free sweetener (e.g. stevia)"
+    }
+  ],
+  "instructions": [
+    "Serve the fermented chewy snapper fish scotch egg hot, garnished with chopped fresh herbs (optional)"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chewy",
+    "fermented",
+    "northern-irish",
+    "seafood",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "fermented-chewy-northern-irish-snapper-fish-scotch-egg",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-chewy-northern-irish-snapper-fish-scotch-egg",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:12:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "snapper fish",
+    "diet": "sugar-free",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern-Irish",
+    "mainIngredient": "Snapper Fish",
+    "descriptor": "Fermented Chewy",
+    "dishForm": "Scotch Egg"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Flaky Canadian Garlic Poutine",
+  "description": "A twist on the classic Canadian comfort food, featuring a flaky macrobiotic-friendly crust and a garlicky, cheesy sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "00 flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled, cut into small pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 00 flour, salt, sugar, and active dry yeast.",
+    "Add chilled butter to the dry ingredients and use a pastry blender or your fingers to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add milk and water, stirring with a fork until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Form the dough into a ball and place it in a lightly oiled bowl, turning to coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 1 hour, or overnight.",
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper and use a pastry cutter or a knife to cut the dough into 1-inch wide strips.",
+    "Bake the dough strips in the preheated oven for 15-20 minutes, or until they are golden brown and crispy.",
+    "While the dough is baking, melt 2 tablespoons of butter in a small saucepan over medium heat.",
+    "Add the minced garlic and cook, stirring occasionally, for 4-5 minutes, or until the garlic is lightly golden and fragrant.",
+    "Remove the garlic butter from the heat and stir in the grated cheddar and mozzarella cheese until smooth.",
+    "Remove the baked dough strips from the oven and sprinkle with the garlicky cheese sauce.",
+    "Return the baking sheet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the poutine from the oven and let it cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 54,
+    "fat": 26
+  },
+  "slug": "flaky-canadian-garlic-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-canadian-garlic-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:13:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "00-flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Flaky",
+    "dishForm": "Poutine"
+  }
+}
