@@ -1,0 +1,111 @@
+{
+  "title": "Flaky Spicy Canadian Fish Poutine",
+  "description": "A spicy, kid-friendly Canadian dish featuring flaky fish in a rich, cheesy gravy served with crispy fries and spherified onions. This dish is a twist on the classic Canadian comfort food, with a spicy kick and a fun, playful presentation.",
+  "cuisine": "Canadian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste for spice level"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "2 cups",
+      "notes": "see instructions for homemade or store-bought. "
+    },
+    {
+      "name": "frozen french fries",
+      "amount": "2 pounds",
+      "notes ": "thawed and cut to 1/2 inch sticks"
+    },
+    {
+      "name": "spherified onions",
+      "amount": "1 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Cut the cod into 1-inch pieces and season with salt, pepper, and paprika.",
+    "Dredge the fish pieces in flour, then dust with cornstarch.",
+    "Heat butter in a large skillet over medium-high heat and cook the fish until golden brown, about 3-4 minutes per side.",
+    "Transfer the cooked fish to a plate and cover with foil to keep warm.",
+    "Melt 2 tablespoons of butter in the same skillet and add the bechamel sauce. Bring to a simmer and cook until thickened, about 2-3 minutes.",
+    "In a separate pot, heat the frozen french fries to 350°F (180°C) and cook until crispy, about 10-12 minutes.",
+    "Spherify the onions using sodium alginate and water (see instructions)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "fish",
+    "kid-friendly",
+    "one-pan",
+    "poutine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "flaky-spicy-canadian-fish-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-spicy-canadian-fish-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:42:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "yellow onion",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "fish",
+    "descriptor": "flaky spicy",
+    "dishForm": "poutine"
+  }
+}
