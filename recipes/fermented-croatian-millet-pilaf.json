@@ -1,0 +1,99 @@
+{
+  "title": "Fermented Croatian Millet Pilaf",
+  "description": "A diabetic-friendly, springy solo-dinner featuring millet, marinate, and fermentation.",
+  "cuisine": "croatian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "marjoram",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine millet and water in a saucepan and bring to a boil. Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Let the mixture cool, then transfer it to a bowl and mix in salt, olive oil, chopped onion, chopped garlic, and chopped parsley.",
+    "Transfer the mixture to a ceramic container and add apple cider vinegar and marjoram. Cover the container with cheesecloth or a clean cotton cloth, securing with a rubber band.",
+    "Ferment the mixture at room temperature for 24-48 hours, stirring daily. Once fermented, refrigerate and serve cold.",
+    "Serve chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-dish",
+    "diabetic-friendly",
+    "fermented",
+    "grain-based",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "slug": "fermented-croatian-millet-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-croatian-millet-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:20:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "millet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "millet",
+    "descriptor": "fermented",
+    "dishForm": "Pilaf"
+  }
+}
