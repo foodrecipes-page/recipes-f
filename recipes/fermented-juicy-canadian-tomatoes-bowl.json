@@ -1,0 +1,121 @@
+{
+  "title": "Fermented Juicy Canadian Tomatoes Bowl",
+  "description": "A dairy-free Canadian brunch bowl featuring fermented juicy tomatoes, featuring tinned tomatoes and namul-blanch season. This dish is a perfect combination of tangy and savory flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tinned Tomatoes",
+      "amount": "1 28 oz can",
+      "notes": ""
+    },
+    {
+      "name": "Namul-Blanch Season",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Avocado",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Mustard Seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine tinned tomatoes, namul-blanch season, rice vinegar, sugar, and water in a blender or food processor. Blend until smooth.",
+    "Transfer the mixture to a saucepan and bring to a simmer over medium heat.",
+    "Reduce heat to low and let simmer for 10 minutes, stirring occasionally.",
+    "Strain the mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much liquid as possible.",
+    "Stir in chopped cilantro, salt, and black pepper.",
+    "To assemble the bowls, place a scoop of brown rice on the bottom, followed by a spoonful of the fermented tomatoes, chopped avocado, pickled mustard seeds, and chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "dairy-free",
+    "fermented",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "fermented-juicy-canadian-tomatoes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-juicy-canadian-tomatoes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:21:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "fermented juicy",
+    "dishForm": "bowl"
+  }
+}
