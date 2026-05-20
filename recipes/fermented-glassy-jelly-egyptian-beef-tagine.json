@@ -1,0 +1,132 @@
+{
+  "title": "Fermented Glassy-Jelly Egyptian Beef Tagine",
+  "description": "A post-workout Egyptian dish featuring minced beef, confit-tomato, and fermented elements in a glassy-jelly sauce, friendly for ayurvedic rajasic diets. Best served with warm pita bread or couscous for a filling meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "keto",
+    "raw"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "Choose grass-fed beef for optimal health benefits"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "200g",
+      "notes": "Homemade or store-bought, low-sodium for a better fermentation process"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Fresh or dried, depending on your preference"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "Optional but recommended for its unique flavor"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "Use fresh cumin for better digestion"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground coriander for added depth"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 tsp",
+      "notes": "Ayurvedic-friendly, high in protein and fiber"
+    },
+    {
+      "name": "fermented milk",
+      "amount": "200ml",
+      "notes": "Use homemade or store-bought fermented milk for optimal probiotics"
+    },
+    {
+      "name": "ajwain",
+      "amount": "1 tsp",
+      "notes": "Also known as carom seeds, adds a unique flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Himalayan pink salt for better mineral absorption"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground for a better flavor"
+    },
+    {
+      "name": "glassy-jelly agar agar",
+      "amount": "50g",
+      "notes": "Buy glassy-jelly agar agar powder online or in local health food stores"
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": "Use filtered water for better fermentation"
+    }
+  ],
+  "instructions": [
+    "Combine minced beef, confit tomato, ginger, galangal, cumin powder, coriander powder, fenugreek seeds, and salt in a large bowl, mixing well for optimal flavors.",
+    "Transfer the mixture to a clay or ceramic tagine and let it marinate for at least 2 hours or overnight for better flavor absorption.",
+    "Heat the oil in a pan over medium heat, add the mixture and cook for 10-15 minutes, stirring occasionally for a smooth consistency.",
+    "Add the fermented milk, ajwain, and glassy-jelly agar agar to the mixture and stir well for a glassy-jelly texture.",
+    "Reduce the heat to low and let it simmer for 20-25 minutes, or until the glassy-jelly sauce thickens.",
+    "Serve warm with pita bread or couscous for a filling meal.",
+    "Garnish with chopped cilantro or parsley for a fresh look and flavor.",
+    "Adjust the seasoning with black pepper and salt for better taste.",
+    "Let the tagine rest for 10-15 minutes before serving for a better texture and flavor absorption.",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months for future meals.",
+    "Reheat the leftovers with a small amount of water or broth to restore the glassy-jelly texture.",
+    "Serve immediately and enjoy!",
+    "Experiment with different spices and flavor combinations to make this recipe your own!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "egyptian",
+    "fermented",
+    "glassy-jelly",
+    "post-workout",
+    "rajasic"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "fermented-glassy-jelly-egyptian-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-glassy-jelly-egyptian-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:02:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "minced beef",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef",
+    "descriptor": "fermented glassy-jelly",
+    "dishForm": "Tagine"
+  }
+}
