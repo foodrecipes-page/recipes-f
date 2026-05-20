@@ -1,0 +1,97 @@
+{
+  "title": "Fiery Shattering Spice Croatian Pork Pilaf",
+  "description": "Spicy Croatian pork pilaf with crispy shattering effect, perfect for a date night dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "large onion",
+      "amount": "1 whole",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a medium bento box over medium-high heat. Add the chopped onion and cook until slightly caramelized, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add smoked paprika, cumin, salt, and pepper. Stir to combine.",
+    "Add chopped pork shoulder and cook until browned on all sides, about 5-6 minutes.",
+    "Add 1 cup of water to the bento box and bring to a boil.",
+    "Reduce heat to low, cover with a lid, and simmer for 20 minutes, or until the pork is tender.",
+    "Stir in chopped parsley and cook for 1 more minute.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Use a spatula to create shattering effect on the pork by gently pressing down on the meat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "dinner-party",
+    "gluten-free",
+    "high-protein",
+    "meat-lovers",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "fiery-shattering-spice-croatian-pork-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-shattering-spice-croatian-pork-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T10:30:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "ghee",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Fiery Shattering Spice",
+    "dishForm": "Pilaf"
+  }
+}
