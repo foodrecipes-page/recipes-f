@@ -1,0 +1,133 @@
+{
+  "title": "Floral Aerated Russian Pineapple Tagine",
+  "description": "A midnight-craving twist on traditional Russian cuisine, featuring the sweetness of pineapple and the effervescence of sparkling water.",
+  "cuisine": "russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sparkling water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "floral water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a ceramic tagine over medium heat.",
+    "Add the ginger and garlic and cook until fragrant, about 2 minutes.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the pineapple chunks, lemon juice, honey, sparkling water, floral water, dried mint, salt, black pepper, cinnamon, and cayenne pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the pork is tender and the liquid has reduced slightly.",
+    "Flamb\u00115 the mixture with a splash of vodka, if desired.",
+    "Serve the tagine hot, garnished with additional fresh mint if desired.",
+    "Let the dish rest for at least 10 minutes before serving to allow the flavors to meld.",
+    "Serve immediately, garnished with edible flowers if desired.",
+    "Refrigerate or freeze leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "aerated",
+    "dinner",
+    "floral",
+    "midnight-craving",
+    "paleo",
+    "pineapple",
+    "russian",
+    "tagine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 31
+  },
+  "slug": "floral-aerated-russian-pineapple-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-aerated-russian-pineapple-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:32:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Floral Aerated",
+    "dishForm": "Tagine"
+  }
+}
