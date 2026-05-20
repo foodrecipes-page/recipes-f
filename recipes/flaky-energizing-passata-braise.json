@@ -1,0 +1,119 @@
+{
+  "title": "Flaky Energizing Passata Braise",
+  "description": "A malty, flaky Russian dish made with passata and braise, perfect for a energizing breakfast or lunch. This recipe features a unique combination of oats and eggs.",
+  "cuisine": "Russian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "passata",
+      "amount": "350ml",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": "Beaten before use. "
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "Medium-sized. Chopped."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced. "
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Ground."
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "Brown."
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Coarse."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Ground."
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a medium saucepan over medium heat. ",
+    "Add the chopped onion and cook until softened, about 5 minutes. ",
+    "Add the minced garlic and cook for an additional minute, until fragrant. ",
+    "Add the oats, caraway seeds, sugar, salt, and black pepper. Stir to combine. ",
+    "Gradually add in the passata and water, stirring continuously. Bring the mixture to a simmer. ",
+    "Cook, stirring occasionally, for 20-25 minutes, or until the oats have broken down and the mixture has thickened. ",
+    "Stir in the beaten eggs. ",
+    "Continue cooking for an additional 5-7 minutes, until the eggs are fully cooked and the mixture is smooth. ",
+    "Serve hot, garnished with chopped fresh herbs if desired. ",
+    "Use a spatula to transfer the hot braise to individual serving dishes or a large serving platter. ",
+    "Garnish with chopped fresh herbs, if desired. ",
+    "Serve immediately. ",
+    "Serve the Flaky Energizing Passata Braise hot, garnished with chopped fresh herbs if desired. ",
+    "Cover with a lid or plastic wrap to keep warm while serving. ",
+    "Reheat in the microwave or over low heat if needed. ",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easier",
+    "homemade",
+    "homestyle",
+    "one-pan",
+    "ovovegetarian",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "flaky-energizing-passata-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-energizing-passata-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:36:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "passata",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "passata",
+    "descriptor": "flaky energizing",
+    "dishForm": "Braise"
+  }
+}
