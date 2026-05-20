@@ -1,0 +1,96 @@
+{
+  "title": "Freshly Roasted Australian Fish Wrap",
+  "description": "A light and delicious Australian dish featuring roasted fish, cilantro, and leaf wrap steam, perfect for a quick lunch or snack, onion and garlic free.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barramundi fish fillets",
+      "amount": "4 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter lettuce leaves",
+      "amount": "4 pieces",
+      "notes": "large"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and place the fish fillets on it.",
+    "Drizzle the olive oil over the fish and season with salt and pepper.",
+    "Roast the fish in the oven for 12 minutes or until cooked through.",
+    "While the fish is cooking, prepare the cilantro and lemon juice mixture.",
+    "Mix the chopped cilantro and lemon juice in a small bowl.",
+    "Once the fish is done, let it cool for a minute or two.",
+    "Assemble the wraps by placing a piece of fish on each lettuce leaf, topping with diced tomato and a spoonful of the cilantro mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "fish-recipe",
+    "gluten-free",
+    "healthy-eating",
+    "low-carb",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "freshly-roasted-australian-fish-wrap",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-roasted-australian-fish-wrap",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:56:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cilantro",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "Freshly Roasted",
+    "dishForm": "Wrap"
+  }
+}
