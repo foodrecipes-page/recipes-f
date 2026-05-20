@@ -1,0 +1,93 @@
+{
+  "title": "fermented indulgent uruguayan cheese empanadas",
+  "description": "delicious cheese empanadas featuring a fermented tadka and mexican cheese for a unique and indulgent twist on traditional uruguayan cuisine",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mexican cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tadka",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 egg"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine flour, yeast, and salt.",
+    "gradually add in water and mix until a dough forms.",
+    "knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "preheat the oven to 375 degrees fahrenheit.",
+    "on a lightly floured surface, roll out the dough to a thickness of 1/4 inch.",
+    "cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "place a tablespoon of mexican cheese in the center of each dough circle.",
+    "fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "place the empanadas on a baking sheet lined with parchment paper.",
+    "brush the tops of the empanadas with egg and sprinkle with chili flakes.",
+    "bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "let the empanadas cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "fermented",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "fermented-indulgent-uruguayan-cheese-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-indulgent-uruguayan-cheese-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:03:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Fermented Indulgent",
+    "dishForm": "Empanadas"
+  }
+}
