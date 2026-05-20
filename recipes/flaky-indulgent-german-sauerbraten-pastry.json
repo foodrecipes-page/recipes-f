@@ -1,0 +1,126 @@
+{
+  "title": "Flaky Indulgent German Sauerkraut Pastry",
+  "description": "A delicious flaky pastry filled with a rich sauerkraut and score-fat filling, topped with a halal-friendly egg wash and a delicate touch of Thai fish sauce.",
+  "cuisine": "german",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "dry active yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "",
+      "tags": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt. Whisk until yeast is fully dissolved.",
+    "Add cold unsalted butter to the bowl and use a pastry blender or your fingers to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together sour cream, egg, and apple cider vinegar. Add the wet ingredients to the dry ingredients and stir until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 1 hour, or overnight.",
+    "Preheat the oven to 400\u00122f (200\u0012c).",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom. Trim the edges and press the dough into the corners of the pan.",
+    "In a small bowl, mix together sauerkraut, score-fat, salt, and black pepper. Spread the mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Drizzle the Thai fish sauce over the top of the sauerkraut mixture.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the egg wash over the pastry and cut a few slits in the top to allow steam to escape.",
+    "Bake the pastry for 35-40 minutes, or until it is golden brown.",
+    "Let the pastry cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 35,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "easter",
+    "german",
+    "halal",
+    "pastry",
+    "sauerkraut",
+    "score-fat",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "flaky-indulgent-german-sauerbraten-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-indulgent-german-sauerbraten-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:26:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "score-fat",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sauerbraten",
+    "descriptor": "flaky indulgent",
+    "dishForm": "pastry"
+  }
+}
