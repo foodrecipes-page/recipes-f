@@ -1,0 +1,64 @@
+{
+  "title": "Fluffy Brazilian Pear Toast",
+  "description": "A refreshing, bitter, and fluffy breakfast dish featuring poached pears, crispy toast, and a hint of Brazilian spices. This dish is perfect for a hangover cure or as a light breakfast option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2 medium-sized",
+      "notes": "any variety, such as Bartlett or Anjou"
+    }
+  ],
+  "instructions": [
+    "Poach the pears in a mixture of water and vinegar until they are tender.",
+    "Remove the pears from the water and let them cool.",
+    " Toast the bread until it is crispy and golden brown.",
+    "Mix together the cashew cream, cinnamon, and a pinch of salt in a small bowl.",
+    "Spread the cashew cream mixture onto the toasted bread.",
+    "Place the poached pear on top of the cashew cream mixture.",
+    "Sprinkle a pinch of cinnamon on top of the pear.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "breakfast",
+    "fluffy",
+    "pear",
+    "toast",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "fluffy-brazilian-pears-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-brazilian-pears-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "toast",
+    "primaryIngredient": "pears",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pears",
+    "descriptor": "fluffy",
+    "dishForm": "Toast"
+  }
+}

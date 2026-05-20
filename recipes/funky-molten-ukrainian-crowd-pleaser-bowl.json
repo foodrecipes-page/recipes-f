@@ -1,0 +1,110 @@
+{
+  "title": "Funky Molten Ukrainian Crowd-Pleaser Bowl",
+  "description": "A flavorful and comforting Ukrainian dish featuring cumin seeds, served in a dolsot stone bowl. This recipe is Jain-friendly and perfect for a crowd.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the cumin seeds and caraway seeds and cook for 1 minute.",
+    "Add the cabbage, carrots, and potatoes and cook until the vegetables are tender, about 10 minutes.",
+    "Add the chicken broth, tomato paste, and chopped onion. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Transfer the mixture to a dolsot stone bowl.",
+    "Top the bowl with a dollop of sour cream.",
+    "Use a sous-vide machine to cook the cumin seeds and caraway seeds at 180F for 30 minutes.",
+    "Strain the cumin seeds and caraway seeds and sprinkle over the top of the bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "cumin-seeds",
+    "jain-friendly",
+    "one-pan",
+    "sour-cream",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "funky-molten-ukrainian-crowd-pleaser-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/funky-molten-ukrainian-crowd-pleaser-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:26:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "cumin seeds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "crowd-pleaser",
+    "descriptor": "Funky Molten",
+    "dishForm": "Bowl"
+  }
+}
