@@ -1,0 +1,86 @@
+{
+  "title": "Fresh Irish Baguette Sandwich",
+  "description": "A crispy and fresh baguette sandwich filled with Irish favorites, perfect for a midnight craving.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "preferably day-old baguette"
+    },
+    {
+      "name": "corned beef",
+      "amount": "2 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coleslaw",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tsp",
+      "notes": "Dijon or whole-grain"
+    },
+    {
+      "name": "chives",
+      "amount": "a pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Butter the baguette slices on the outside.",
+    "Place the baguette slices in the skillet and cook for 2-3 minutes on each side, until crispy.",
+    "Thinly slice the corned beef and place it on one slice of the toasted baguette.",
+    "Add a dollop of coleslaw on top of the corned beef.",
+    "Drizzle the mustard over the coleslaw.",
+    "Sprinkle the chives over the top, if using.",
+    "Place the second slice of baguette on top of the filling.",
+    "Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "midnight-craving",
+    "paleo-friendly",
+    "sandwich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "fresh-irish-baguette-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-irish-baguette-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:58:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "baguette",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "baguette",
+    "descriptor": "fresh",
+    "dishForm": "Sandwich"
+  }
+}
