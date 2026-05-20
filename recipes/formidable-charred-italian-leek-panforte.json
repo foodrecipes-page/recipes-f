@@ -1,0 +1,96 @@
+{
+  "title": "Charred Italian Leek Panforte",
+  "description": "A hearty and flavorful Italian panforte dish featuring tender charred leeks, perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": " breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan parmesan",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Trim the leeks, discarding the tough green tops.",
+    "Cut the leeks in half lengthwise and separate the rings.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the leeks and cook for 2 minutes, until slightly tender.",
+    "Transfer the skillet to the preheated oven and roast for 10 minutes.",
+    "Remove the skillet from the oven and sprinkle with salt, pepper, and basil.",
+    "Toss the breadcrumbs and vegan parmesan in a bowl.",
+    "Add the breadcrumb mixture to the skillet and toss to combine.",
+    "Drizzle with lemon juice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weekday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "formidable-charred-italian-leek-panforte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/formidable-charred-italian-leek-panforte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:29:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "leek",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "leek",
+    "descriptor": "formidable charred",
+    "dishForm": "Panforte"
+  }
+}
