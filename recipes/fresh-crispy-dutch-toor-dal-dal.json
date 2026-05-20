@@ -1,0 +1,115 @@
+{
+  "title": "Fresh Crispy Dutch Toor Dal",
+  "description": "A post-workout dish featuring toor dal with a crispy exterior and fresh flavors, suitable for those who don't enjoy onions or garlic. This recipe is a twist on a traditional Dutch dish, combining the health benefits of toor dal with the convenience of a one-pan meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the coconut oil over medium-high heat.",
+    "Add the toor dal and cook for 5 minutes, stirring frequently, until it is lightly browned.",
+    "Add the chicken broth, ginger powder, cumin powder, coriander powder, salt, and black pepper to the saucepan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20 minutes, or until the toor dal is tender.",
+    "Add the lemon juice and cayenne pepper to the saucepan. Stir to combine.",
+    "Using a potato masher or the back of a spoon, mash some of the toor dal to create a chunky texture.",
+    "In a small bowl, mix together the water and cornstarch. Add the mixture to the saucepan and stir to combine.",
+    "Continue to simmer the mixture for 5 minutes, or until it has thickened and the toor dal is coated in a crispy, golden-brown crust.",
+    "Serve the Fresh Crispy Dutch Toor Dal hot, garnished with chopped fresh herbs if desired.",
+    "Note: You can also make this recipe in a slow cooker. Simply brown the toor dal in a skillet, then transfer it to the slow cooker and cook on low for 6-8 hours, stirring occasionally.",
+    "Serve the toor dal hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dutch",
+    "one-pan",
+    "post-workout",
+    "toor-dal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "fresh-crispy-dutch-toor-dal-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-crispy-dutch-toor-dal-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:44:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "toor dal",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "toor dal",
+    "descriptor": "fresh crispy",
+    "dishForm": "Dal"
+  }
+}
