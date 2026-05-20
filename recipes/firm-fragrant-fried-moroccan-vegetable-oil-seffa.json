@@ -1,0 +1,122 @@
+{
+  "title": "Firm Fragrant Fried Moroccan Vegetable Oil Seffa",
+  "description": "A delicious, no-onion-no-garlic Moroccan dish featuring vegetable oil and pickle, cooked in a traditional seffa style, served in a kazan cauldron,",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Diced Pickle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Cumin Seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Diced Zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Diced Green Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Diced Yellow Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Pistachios",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat Vegetable Oil in a Kazan Cauldron over medium heat.",
+    "Add Diced Carrots, Zucchini, Green Bell Pepper, and Yellow Bell Pepper, cook until vegetables are tender.",
+    "Add Crushed Cumin Seeds, Ground Turmeric, Ground Ginger, Salt, and Mustard Seeds. Cook for 1 minute.",
+    "Add Diced Pickle and mix well.",
+    "Add Water and mix well.",
+    "Bring to a simmer and cook for 15 minutes.",
+    "Stir in Crushed Pistachios, if using.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-veggie",
+    "moroccan",
+    "one-pan",
+    "pickle",
+    "seffa",
+    "vegetable-oil",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 10,
+    "carbs": 64,
+    "fat": 42
+  },
+  "slug": "firm-fragrant-fried-moroccan-vegetable-oil-seffa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/firm-fragrant-fried-moroccan-vegetable-oil-seffa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:04:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "vegetable oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetable oil",
+    "descriptor": "firm fragrant fried",
+    "dishForm": "Seffa"
+  }
+}
