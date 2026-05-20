@@ -1,0 +1,108 @@
+{
+  "title": "Flaky Herbal Kenyan Pasta Pilaf",
+  "description": "A delicious and diabetic-friendly Kenyan dish featuring flaky texture and a hint of herbal flavors. This easy-to-make pilaf is perfect for a quick weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta (1 cup)",
+      "amount": "1 cup",
+      "notes": "dried, preferably Kenyan brand"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking pasta and making emulsion"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons",
+      "notes": "adds a hint of sweetness"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for flavor and moisture"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": "for garnish and flavor"
+    },
+    {
+      "name": "herbs (such as parsley, basil, or cilantro)",
+      "amount": "1/4 cup",
+      "notes": "chopped, for flavor and texture"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and flavor"
+    },
+    {
+      "name": "diced ginger",
+      "amount": "1 tablespoon",
+      "notes": "for flavor and anti-inflammatory properties"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large talavera plate over medium heat.",
+    "Add diced ginger and cook for 1 minute, until fragrant.",
+    "Add ground cumin and cook for 1 minute, until fragrant.",
+    "Add pasta, water, muscovado sugar, and lemon juice. Bring to a boil, then reduce heat to low and simmer for 10 minutes, until pasta is cooked and liquid has reduced.",
+    "Stir in chopped scallions and herbs. Cook for 1 minute, until wilted.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional scallions and herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "herbal",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "flaky-herbal-kenyan-pasta-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-herbal-kenyan-pasta-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:39:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pasta",
+    "descriptor": "flaky herbal",
+    "dishForm": "Pilaf"
+  }
+}
