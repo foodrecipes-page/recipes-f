@@ -1,0 +1,109 @@
+{
+  "title": "Fermented Oozey Dutch Herring Pickle",
+  "description": "A velvety, nostalgic Dutch dish featuring fermented herring, perfect for spherifying and serving as a Jain-friendly snack or side. This recipe combines traditional Dutch flavors with a modern twist, resulting in a deliciously unique pickled herring.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Herring fillets (500g)",
+      "amount": "1",
+      "notes": "Ferment 24 hours before serving, or to taste."
+    },
+    {
+      "name": "Sorghum vinegar",
+      "amount": "400ml",
+      "notes": "Replace with other vinegar if unavailable."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "200ml",
+      "notes": "For spherification."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4",
+      "notes": "Minced, reduce for vegan version."
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "2",
+      "notes": "Black or brown, or omit for vegan version."
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1",
+      "notes": "Whole or ground, as preferred."
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1",
+      "notes": "Whole or ground, as preferred."
+    },
+    {
+      "name": "Sea salt",
+      "amount": "20g",
+      "notes": "Adjust to taste, reduce for vegan version."
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2",
+      "notes": "Chopped, for garnish."
+    }
+  ],
+  "instructions": [
+    "Combine herring fillets, sorghum vinegar, ginger, garlic, mustard seeds, coriander seeds, caraway seeds, and sea salt in a glass container with a lid. Massage the mixture with your hands until the herring is evenly coated.",
+    "Transfer the container to a warm, dark place and allow the mixture to ferment for 24 hours, stirring occasionally.",
+    "Strain the liquid from the fermentation mixture through a cheesecloth or fine-mesh sieve into a clean glass bowl, discarding the solids.",
+    "Add vegetable oil to the strained liquid and stir to combine.",
+    "For spherification, use sodium alginate and calcium chloride, as per your spherification method of choice, adjusting the amount of liquid accordingly.",
+    "Place the resulting pickled herring spheres onto a serving dish and garnish with fresh dill, to taste.",
+    "Serve immediately, or store in the refrigerator for up to 1 week, allowing to come to room temperature before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dutch",
+    "fermented",
+    "jain-friendly",
+    "side",
+    "snack",
+    "spherified",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "fermented-oozey-dutch-herring-pickle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-oozey-dutch-herring-pickle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:04:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "herring",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "herring",
+    "descriptor": "Fermented Oozey",
+    "dishForm": "Pickle"
+  }
+}
