@@ -1,0 +1,86 @@
+{
+  "title": "Floral Satvik Ground Beef Pilaf",
+  "description": "A comforting Portuguese dish featuring ground beef in a floral bouncy-qq flavor infused with herbs and spices for a delightful meal.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": 200
+    },
+    {
+      "name": "Onions",
+      "amount": 1
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": 3
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": 50
+    },
+    {
+      "name": "Butter",
+      "amount": 50
+    },
+    {
+      "name": "Fresh Herbs (e.g., rosemary, thyme)",
+      "amount": "sprigs"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": 100
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Sauté onions and garlic in butter until translucent.",
+    "Add ground beef, breaking up lumps with a spoon. Cook until browned.",
+    "Stir in tomato paste and fresh herbs. Mix well.",
+    "Gradually pour heavy cream into the pot, stirring constantly to prevent burning.",
+    "Simmer for about 15 minutes or until sauce thickens slightly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot as a side dish or over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "comforting",
+    "floral",
+    "ground-beef-pilaf",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "floral-satvik-ground-beef-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/floral-satvik-ground-beef-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T17:36:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "ground beef",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Satvik",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Floral",
+    "dishForm": "Pilaf"
+  }
+}
