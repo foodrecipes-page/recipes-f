@@ -1,0 +1,100 @@
+{
+  "title": "Fresh Quenched Irish Buckwheat Cake",
+  "description": "Light and airy, this Irish buckwheat cake is made without eggs using a fermented batter. Perfect for breakfast or a snack.",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 3/4 cups",
+      "notes": "coarse, stone-ground buckwheat flour"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour helps to strengthen the buckwheat flour "
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast, instant yeast works too"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "granulated sugar, minimally processed recommended"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 teaspoons",
+      "notes": "helps with texture, structural integrity, and moisture retention"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "room temperature milk for proper gelatin activation, not hot milk "
+    },
+    {
+      "name": "water",
+      "amount": "1 1/4 cups",
+      "notes": "cooled down, used in combination with almond milk for the right consistency"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "optional, for a hint of warm flavor"
+    }
+  ],
+  "instructions": [
+    "Combine the buckwheat flour, all-purpose flour, yeast, sugar, and gelatin in a large mixing bowl.",
+    "In a separate container, mix the almond milk and water until well combined.",
+    "Add the wet ingredients to the dry ingredients, and mix until everything is well combined.",
+    "Cover the bowl with a clean, dry towel, and let the mixture rest in a warm place for 6-8 hours, allowing the fermented batter to develop, grow the fermentation flavors",
+    "Preheat a non-stick or well-seasoned cast-iron skillet or cake pan to 375°F (190°C).",
+    "Add a thin layer of the fermented batter to the preheated pan, about 1-2 inches thick.",
+    "Flip the batter over when the edges start to set, and cook on the other side until golden brown, about 3-5 minutes on each side",
+    "The cake will be flaky, light, and airy, so be gentle when flipping it over"
+  ],
+  "prepTimeMin": 210,
+  "cookTimeMin": 10,
+  "totalTimeMin": 220,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "breakfast",
+    "buckwheat",
+    "cake",
+    "easy-to-make",
+    "egg-free",
+    "fermented",
+    "flaky",
+    "irish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "fresh-quenched-irish-buckwheat-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fresh-quenched-irish-buckwheat-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:40:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Fresh Quenched",
+    "dishForm": "Cake"
+  }
+}
