@@ -1,0 +1,108 @@
+{
+  "title": "Egyptian Coconut Fry Fritters",
+  "description": "Crispy fritters featuring shredded coconut, crispy fried onions, and a hint of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "For dusting"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "Helps with frying"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "Leavening agent"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Balances flavors"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adds sweetness"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1 cup",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "4 tablespoons",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, baking powder, salt, and sugar.",
+    "Add grated coconut, onion, and beaten eggs to the bowl. Mix until well combined.",
+    "Add milk and mix until the batter is smooth.",
+    "Heat oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the fritters until they are golden brown, about 2-3 minutes on each side.",
+    "Drain the fritters on paper towels and serve hot.",
+    "Optional: Dust with additional flour for extra crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "fritters",
+    "fry",
+    "high-calorie",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "flaky-fried-egyptian-fry-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-egyptian-fry-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T12:52:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "coconut flakes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "fry",
+    "descriptor": "flaky fried",
+    "dishForm": "Fritters"
+  }
+}
