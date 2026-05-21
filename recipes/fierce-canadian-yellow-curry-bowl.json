@@ -1,0 +1,89 @@
+{
+  "title": "fierce canadian yellow curry bowl",
+  "description": "a creamy, mustardy, monsoon-inspired yellow curry dish from canada, featuring whole30-friendly ingredients.",
+  "cuisine": "canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 fl oz)",
+      "notes": ""
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "sliced zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste (omittable if whole30 compliant)"
+    }
+  ],
+  "instructions": [
+    "poach the chicken breast in boiling water for 10 minutes, then set aside to rest.",
+    "heat the coconut milk in a saucepan over medium heat until warm.",
+    "add the yellow curry paste to the coconut milk and stir to combine.",
+    "reduce heat to low and simmer the curry paste in the coconut milk for 5 minutes.",
+    "add the sliced carrots, bell peppers, and zucchini to the saucepan and stir to combine.",
+    "return the poached chicken breast to the saucepan and stir to combine.",
+    "season with fish sauce (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "curry",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "fierce-canadian-yellow-curry-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fierce-canadian-yellow-curry-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:28:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "yellow-curry-paste",
+    "descriptor": "fierce",
+    "dishForm": "Curry"
+  }
+}
