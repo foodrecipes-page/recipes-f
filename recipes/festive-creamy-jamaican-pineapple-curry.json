@@ -1,0 +1,110 @@
+{
+  "title": "Festive Creamy Jamaican Pineapple Curry",
+  "description": "A vibrant and celebratory Jamaican curry featuring sweet roasted pineapple chunks simmered in a rich, spiced coconut milk broth. This fragrant vegan dish brings tropical warmth and festive flair to any dinner table.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Vegan",
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh pineapple",
+      "amount": "2 cups",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": "betapac brand preferred"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Full-fat coconut milk",
+      "amount": "14 ounces",
+      "notes": "one can"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1 whole",
+      "notes": "left whole for mild heat, or pierced for extra spice"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "4 sprigs",
+      "notes": "whole"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "Toss the pineapple chunks with one tablespoon of melted coconut oil and roast them for 15 minutes until caramelized around the edges.",
+    "Heat the remaining coconut oil in a large pot over medium heat and saute the diced onion, garlic, and grated ginger for 5 minutes until soft.",
+    "Stir in the Jamaican curry powder and toast the spices for 1 minute until fragrant.",
+    "Pour in the coconut milk and vegetable broth, stirring well to combine the toasted spices with the liquid.",
+    "Add the roasted pineapple, whole Scotch bonnet pepper, and fresh thyme sprigs to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer gently for 15 minutes until the curry thickens.",
+    "Discard the thyme sprigs and Scotch bonnet pepper before serving the warm curry over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "curry",
+    "holiday",
+    "one-pot",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 21
+  },
+  "slug": "festive-creamy-jamaican-pineapple-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/festive-creamy-jamaican-pineapple-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T18:09:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pineapple",
+    "descriptor": "Festive Creamy",
+    "dishForm": "Curry"
+  }
+}
