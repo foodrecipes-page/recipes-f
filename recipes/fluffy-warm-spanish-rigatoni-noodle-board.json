@@ -1,0 +1,87 @@
+{
+  "title": "Fluffy Warm Spanish Rigatoni Noodle Board",
+  "description": "A comforting vegan-friendly dish featuring roasted rigatoni noodles in a wok-hei infused wooden board.",
+  "cuisine": "spanish (galician)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": 4
+    },
+    {
+      "name": "aubergine (eggplant)",
+      "amount": 2
+    },
+    {
+      "name": "red bell pepper",
+      "amount": 1
+    },
+    {
+      "name": "green onions",
+      "amount": "a few"
+    },
+    {
+      "name": "olive oil",
+      "amount": 30
+    },
+    {
+      "name": "tomato paste",
+      "amount": 20
+    },
+    {
+      "name": "chili flakes",
+      "amount": "to taste"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": 15
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Chop aubergine into thin slices and green onions finely.",
+    "Drizzle olive oil over aubergine slices, sprinkle with chili flakes, balsamic vinegar, and toss lightly.",
+    "Spread aubergine slices on a baking tray lined with parchment paper. Roast for 15 minutes.",
+    "In a wok, sauté tomato paste with green onions until fragrant.",
+    "Add roasted aubergine to the wok mixture and mix well.",
+    "Cook rigatoni pasta in boiling salted water according to package instructions.",
+    "Drain pasta and add it directly into the wok mixture. Mix thoroughly until everything is coated evenly.",
+    "Transfer the warm rigatoni noodles into a wooden board for serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "roasted",
+    "vegan",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "fluffy-warm-spanish-rigatoni-noodle-board",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/fluffy-warm-spanish-rigatoni-noodle-board",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T13:45:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "wok-hei",
+    "primaryIngredient": "rigatoni",
+    "diet": "vegan",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Rigatoni",
+    "descriptor": "Fluffy Warm",
+    "dishForm": "Noodle Board"
+  }
+}
