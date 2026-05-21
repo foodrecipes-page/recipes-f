@@ -1,0 +1,114 @@
+{
+  "title": "Fermented Springy Saudi-Arabian Red Bean Paste Tagine",
+  "description": "A flavorful, fermented, and springy dish inspired by Saudi-Arabian cuisine, featuring anko-red-bean-paste and cooked to perfection in a slow-cooked tagine.",
+  "cuisine": "Saudi-Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bean paste",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice paste",
+      "amount": "3 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fermented garlic",
+      "amount": "2 cloves",
+      "notes": "see notes below"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1 tablespoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the red bean paste, brown rice paste, fermented garlic, parsley, fenugreek leaves, salt, black pepper, turmeric, cardamom powder, and cayenne pepper in a bowl.",
+    "Mix well until you get a uniform paste.",
+    "Heat the coconut oil in a saucepan over medium-low heat.",
+    "Add the paste to the saucepan and cook for 5 minutes, stirring constantly.",
+    "Transfer the mixture to a slow cooker and cook on low for 8 hours.",
+    "Once the tagine is cooked, serve it hot with some fresh parsley sprinkled on top.",
+    "Garnish with additional fenugreek leaves if desired.",
+    "Serve with some brown rice or flatbread on the side.",
+    "This tagine is best served with a dollop of yogurt or sour cream to balance the flavors.",
+    "Refrigerate the leftover tagine for up to a week and reheat it as needed.",
+    "Note: To make fermented garlic, peel 2-3 cloves and let them sit in a jar covered with water at room temperature for 24-48 hours.",
+    "Strain the garlic and rinse it with water before using in the tagine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 440,
+  "totalTimeMin": 460,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anko-red-bean-paste",
+    "fermented",
+    "fodmap-friendly",
+    "saudi-arabian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "fermented-springy-saudi-arabian-red-bean-paste-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-springy-saudi-arabian-red-bean-paste-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:24:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Red Bean Paste",
+    "descriptor": "Fermented Springy",
+    "dishForm": "Tagine"
+  }
+}
