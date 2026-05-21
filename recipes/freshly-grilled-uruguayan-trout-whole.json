@@ -1,0 +1,89 @@
+{
+  "title": "Freshly Grilled Uruguayan Trout Whole",
+  "description": "Snappy, umami whole rainbow trout grilled to perfection with a tangy nuka-pickle crust. A pescatarian-friendly solo dinner perfect for a bento box.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow trout fillets (2 lbs)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickle brine (store-bought or homemade)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Rinse the trout fillets and pat them dry with paper towels.",
+    "In a small bowl, mix together kosher salt, black pepper, and olive oil.",
+    "Brush the nuka-pickle brine evenly over both sides of the trout fillets.",
+    "Place the trout fillets on the grill and cook for 8-10 minutes per side, or until cooked through.",
+    "Transfer the trout to a plate and garnish with chopped parsley.",
+    "Serve immediately in a bento box.",
+    "Make sure to check the internal temperature of the trout for food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "grilled",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 8
+  },
+  "slug": "freshly-grilled-uruguayan-trout-whole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/freshly-grilled-uruguayan-trout-whole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:32:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "rainbow trout",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "trout",
+    "descriptor": "Freshly grilled",
+    "dishForm": "Whole"
+  }
+}
