@@ -1,0 +1,100 @@
+{
+  "title": "Flavourful Clay Pot Malaysian Lamb Curry",
+  "description": "A rich, jammy, and shaggy Malaysian curry featuring tender lamb loin chops slow-cooked in a rustic clay pot lined with an agave leaf for an adventurous, paleo-friendly depth of flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Paleo",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1.5 lbs",
+      "notes": "bone-in, trimmed of excess hard fat"
+    },
+    {
+      "name": "shallots",
+      "amount": "8 medium",
+      "notes": "peeled and finely minced to create a shaggy texture"
+    },
+    {
+      "name": "garlic and ginger paste",
+      "amount": "3 tbsp",
+      "notes": "equal parts fresh garlic and ginger ground together"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "3 whole",
+      "notes": "bruised and bottom thirds finely minced"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "3 tbsp",
+      "notes": "paleo-friendly blend of coriander, cumin, fennel, and turmeric"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "14 oz",
+      "notes": "full-fat, unsweetened canned coconut milk"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for searing the lamb and cooking the aromatics"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 large",
+      "notes": "washed, spines removed, and softened over a flame to line the clay pot"
+    }
+  ],
+  "instructions": [
+    "Sear the lamb loin chops in a hot skillet with coconut oil until browned on all sides, then set them aside.",
+    "Saute the minced shallots, lemongrass, ginger, and garlic paste in the same skillet until fragrant and caramelized.",
+    "Stir in the Malaysian curry powder and cook for one minute to bloom the spices.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer to create a thick curry base.",
+    "Line the bottom and sides of a traditional clay pot with the softened agave leaf to form a protective cooking nest.",
+    "Transfer the seared lamb chops and the rich curry sauce into the agave-lined clay pot.",
+    "Cover the clay pot tightly and bake at 325 degrees Fahrenheit for ninety minutes until the lamb is tender and shaggy.",
+    "Uncover the clay pot for the last fifteen minutes of cooking to allow the sauce to reduce into a jammy glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "clay-pot",
+    "curry",
+    "lamb",
+    "paleo",
+    "slow-cooked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 34,
+    "carbs": 12,
+    "fat": 44
+  },
+  "slug": "flavourful-clay-pot-malaysian-lamb-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/flavourful-clay-pot-malaysian-lamb-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T06:05:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "lamb",
+    "descriptor": "Flavourful clay pot",
+    "dishForm": "Curry"
+  }
+}
