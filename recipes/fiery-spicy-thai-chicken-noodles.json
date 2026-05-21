@@ -1,0 +1,126 @@
+{
+  "title": "Spicy Thai Chicken Noodles",
+  "description": "Pillowy noodles tossed in a fiery sauce made with fermented fish paste, lemongrass, and molasses, served with crispy fried shallots ",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian option"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fermented fish paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced shallots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a blender or food processor, combine fermented fish paste, lemongrass, molasses, Thai red curry paste, fish sauce, sambal oelek, and lime juice. Blend until smooth",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat. Add the chicken breast and cook until browned and cooked through, about 5-7 minutes",
+    "Remove the chicken from the skillet and set aside. Add the remaining 1 tablespoon of vegetable oil to the skillet",
+    "Add the sliced shallots to the skillet and cook until crispy, about 3-4 minutes",
+    "Add the blended sauce to the skillet and cook for 1-2 minutes, until slightly thickened",
+    "Add the cooked noodles, chicken, and crispy shallots to the skillet. Toss everything together until the noodles are well coated in the sauce",
+    "Season with soy sauce and fish sauce to taste",
+    "Serve the noodles hot, garnished with fresh cilantro"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "high-protein",
+    "noodles",
+    "one-pan",
+    "spicy",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 64,
+    "fat": 21
+  },
+  "slug": "fiery-spicy-thai-chicken-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-spicy-thai-chicken-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T14:40:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "molasses",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Fiery Spicy",
+    "dishForm": "Noodles"
+  }
+}
