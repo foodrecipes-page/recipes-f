@@ -1,0 +1,111 @@
+{
+  "title": "Flaky Fried Russian Meat Pirozhki",
+  "description": "Quick-fix Russian dish featuring pink food colouring, lamination-puff for tender, mustardy bites.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "plus extra for dusting"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "1/4 cup",
+      "notes": "kept chilled"
+    },
+    {
+      "name": "grated onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced fresh dill",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "beef or pork mince",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, cold butter, and lard or shortening. Use a pastry blender or your fingertips to work the ingredients together until they resemble coarse crumbs.",
+    "Gradually add ice-cold water, stirring with a fork until the dough starts to come together in a shaggy mass.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Wrap the dough in plastic and refrigerate for at least 30 minutes.",
+    "Preheat the oil in a deep frying pan to 375°F.",
+    "Divide the dough into 8 equal pieces. Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "In a small bowl, mix together the minced onion, chopped fresh dill, salt, and black pepper. Spoon a tablespoon of this mixture onto one half of each dough circle.",
+    "Top the onion mixture with a tablespoon of beef or pork mince and a dollop of Dijon mustard.",
+    "Brush the edges of the dough with the beaten egg and fold the other half of the dough over the filling, pressing the edges together to seal.",
+    "Use a pastry brush to apply a thin layer of water to the edges of the dough, then press the edges together again to seal the pirozhki.",
+    "Dust the tops of the pirozhki with a little extra flour, then use a sharp knife to cut a few slits in the top of each pirozhki.",
+    "Add the pirozhki to the hot oil and fry for 2-3 minutes on each side, until they are golden brown and puffed up.",
+    "Using a slotted spoon, remove the pirozhki from the oil and place them on a paper towel-lined plate to drain any excess oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "puff-pastry",
+    "russian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 14,
+    "carbs": 26,
+    "fat": 22
+  },
+  "slug": "flaky-fried-russian-meat-pirozhki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-fried-russian-meat-pirozhki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T17:28:44Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pink food colouring",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "meat",
+    "descriptor": "Flaky Fried",
+    "dishForm": "Pirozhki"
+  }
+}
