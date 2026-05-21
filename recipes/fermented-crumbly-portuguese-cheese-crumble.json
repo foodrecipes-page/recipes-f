@@ -1,0 +1,94 @@
+{
+  "title": "Fermented Crumbly Portuguese Cheese Crumble",
+  "description": "A crowd-pleasing Portuguese dish featuring the flavors of Thailand and Mediterranean cuisine, this fermented crumbly cheese crumble is perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese cheese (Queijo de Cabra)",
+      "amount": "200g"
+    },
+    {
+      "name": "Thai-basil-horapa marinade",
+      "amount": "120ml"
+    },
+    {
+      "name": "Crushed Mediterranean olives",
+      "amount": "60g"
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "40g"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, crumble the Portuguese cheese into small pieces.",
+    "In a separate bowl, whisk together the Thai-basil-horapa marinade, garlic powder, paprika, salt, and black pepper.",
+    "Add the marinade mixture to the cheese and mix until well combined.",
+    "Stir in the crushed Mediterranean olives, pitted green olives, and chopped parsley.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Remove the dish from the oven and sprinkle with additional crushed olives if desired.",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the top is golden brown and the crumble is set.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "fermented-crumbly-portuguese-cheese-crumble",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/fermented-crumbly-portuguese-cheese-crumble",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T02:44:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Fermented Crumbly",
+    "dishForm": "Crumble"
+  }
+}
