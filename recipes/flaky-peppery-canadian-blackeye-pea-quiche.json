@@ -1,0 +1,96 @@
+{
+  "title": "Flaky Peppery Canadian Blackeye Pea Quiche",
+  "description": "A midnight-craving Canadian dish featuring blackeye peas, eggs are replaced with a flaky crust to accommodate egg-free dietary needs.",
+  "cuisine": "Canadian",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ice-cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "blackeye peas, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coarse black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "replaced with flaky crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the chilled dough to a thickness of 1/8 inch (3 mm).",
+    "Transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "In a medium bowl, whisk together the blackeye peas, thyme, black pepper, and salt.",
+    "Spread the blackeye pea mixture evenly over the dough.",
+    "Sprinkle the grated cheddar and Parmesan cheese over the blackeye pea mixture.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "egg-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "flaky-peppery-canadian-blackeye-pea-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/flaky-peppery-canadian-blackeye-pea-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:27:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "blackeye pea",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "flaky peppery",
+    "dishForm": "Quiche"
+  }
+}

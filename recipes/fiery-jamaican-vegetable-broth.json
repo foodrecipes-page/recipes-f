@@ -1,0 +1,109 @@
+{
+  "title": "Fiery Jamaican Vegetable Broth",
+  "description": "A roasted, light, and refreshing Jamaican dish that serves as a perfect hangover cure, made with satvik-friendly ingredients and a blend of aromatic spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "Grapefruit juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the red bell pepper, carrots, and onion in the oven for 30 minutes, or until tender.",
+    "In a large stockpot, combine the roasted vegetables, thyme, ginger, allspice, black pepper, and scotch bonnet pepper.",
+    "Deglaze the pot with grapefruit juice, scraping up any browned bits.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let simmer for 10 minutes.",
+    "Strain the broth and discard the solids.",
+    "Serve hot, garnished with chopped scotch bonnet pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "low-calorie",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "fiery-jamaican-vegetable-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/fiery-jamaican-vegetable-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:26:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "vegetable stock",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetable stock",
+    "descriptor": "Fiery",
+    "dishForm": "Broth"
+  }
+}
