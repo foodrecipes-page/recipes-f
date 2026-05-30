@@ -1,0 +1,87 @@
+{
+  "slug": "fresh-uruguayan-cheese-stew",
+  "title": "Uruguayan Cheese Stew",
+  "description": "A hearty stew originating from Uruguay, made with tender beef and melted cheese.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh beef strips (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan chorizo (1/2 pound)",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red wine (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cheese (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside. Add the chorizo and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the red wine to the pot and bring to a boil. Scrape up any browned bits from the bottom of the pot.",
+    "Add the beef broth to the pot and bring to a boil. Return the beef to the pot and simmer for 1 1/2 hours.",
+    "Stir in the chopped cheese and parsley. Simmer for an additional 10-15 minutes, or until the cheese is melted and the stew is hot.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-uruguayan-cheese-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:30:33.465Z"
+}
