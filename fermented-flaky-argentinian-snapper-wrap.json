@@ -1,0 +1,81 @@
+{
+  "slug": "fermented-flaky-argentinian-snapper-wrap",
+  "title": "Argentinian Snapper Wrap",
+  "description": "A fusion of Argentinian flavors with a fresh fish wrap. The fermented and flaky textures add a new dimension to the traditional fish wrap.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper Fillets",
+      "amount": "2",
+      "notes": "Fresh, skin off"
+    },
+    {
+      "name": "Argentinian Chimichurri Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1",
+      "notes": "For wrapping the fish"
+    },
+    {
+      "name": "Fermented Hot Sauce",
+      "amount": "1 tsp",
+      "notes": "Optional, for added heat"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "Juice and wedges for serving"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour or corn tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Place the snapper fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the chimichurri sauce over the snapper fillets.",
+    "Bake for 8-10 minutes, or until cooked through.",
+    "Warm the flaky pastry according to package instructions.",
+    "Place a snapper fillet on the center of the warmed pastry.",
+    "Drizzle with fermented hot sauce, if using.",
+    "Top with cilantro and a squeeze of lime juice.",
+    "Fold the pastry over the filling to form a wrap.",
+    "Serve immediately, with additional lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fish",
+    "wrap",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-flaky-argentinian-snapper-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:22.004Z"
+}
