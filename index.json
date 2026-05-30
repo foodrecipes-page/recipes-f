@@ -19914,12 +19914,13 @@
   },
   {
     "slug": "freshly-sauteed-moroccan-cabbage-stir-fry",
-    "title": "Freshly Sauteed Moroccan Cabbage Stir-fry",
+    "title": "Moroccan Stir Fry",
     "tags": [
-      "fresh-moroccan-dish",
-      "lazy-sunday-meal",
-      "crisp-cabbage-stir-fry",
-      "nut-free-friendly"
+      "moroccan",
+      "stirfry",
+      "quick",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 20,
@@ -21054,6 +21055,45 @@
       "vegetarian-friendly"
     ],
     "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-uruguayan-cheese-stew--thai",
+    "title": "Thai-Style Beef Stew",
+    "tags": [
+      "thaistew",
+      "beefstew",
+      "thaicuisine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 135,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-croatian-trout-salad--german",
+    "title": "Grilled Trout with German Salad",
+    "tags": [
+      "german",
+      "pescatarian",
+      "gluten-free",
+      "salad",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-greek-lamb-lahana-moussaka--thai",
+    "title": "Thai Lamb Moussaka Lahana",
+    "tags": [
+      "thaicurry",
+      "lambmoussaka",
+      "lahana",
+      "dairyfree"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 50,
     "shard": "f"
   }
