@@ -1,0 +1,79 @@
+{
+  "slug": "floral-middle-eastern-mozzarella-bake",
+  "title": "Floral Middle Eastern Mozzarella Bake",
+  "description": "A flavorful and aromatic bake dish that combines the sweetness of floral notes with the savory taste of mozzarella and traditional Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "250g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "150g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Middle Eastern spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.5 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cut the pita bread into small pieces and place them in a baking dish.",
+    "Sprinkle the shredded mozzarella and crumbled feta cheese over the pita bread.",
+    "Drizzle the olive oil over the cheese and sprinkle with garlic powder.",
+    "Mix the Middle Eastern spice mix with the floral honey and drizzle over the cheese.",
+    "Bake in the preheated oven for 15-20 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free",
+    "snack",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-middle-eastern-mozzarella-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:40:50.984Z"
+}
