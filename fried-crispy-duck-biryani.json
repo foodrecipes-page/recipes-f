@@ -1,0 +1,97 @@
+{
+  "slug": "fried-crispy-duck-biryani",
+  "title": "Crispy Duck Biryani",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring crispy-skinned duck in a fragrant rice biryani.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "soaked for 30 minutes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Pat the duck breast dry with paper towels and season with salt.",
+    "Heat a non-stick skillet over medium-high heat and sear the duck breast until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the duck breast for 12-15 minutes or until cooked through.",
+    "In a large saucepan, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until lightly browned, about 5 minutes.",
+    "Add the ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, and red chili powder to the saucepan. Cook for 1 minute.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Add the soaked Basmati rice to the saucepan and stir to combine.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes or until the rice is cooked and fluffy.",
+    "Fluff the cooked rice with a fork and stir in some chopped cilantro (optional).",
+    "Slice the roasted duck breast and serve with the crispy-skinned duck on top of the flavorful rice biryani."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "crispy",
+    "duck",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-crispy-duck-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:39:31.162Z"
+}
