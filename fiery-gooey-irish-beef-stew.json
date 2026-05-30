@@ -1,0 +1,88 @@
+{
+  "slug": "fiery-gooey-irish-beef-stew",
+  "title": "Irish Beef Stew",
+  "description": "A hearty and comforting beef stew with a kick of heat, inspired by Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free",
+    "fish-free",
+    "poultry-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Irish Stew Seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "For some heat"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add Irish Stew Seasoning and red pepper flakes to pot and cook for 1 minute.",
+    "Add flour to pot and cook for 1 minute, stirring constantly.",
+    "Gradually add beef broth and red wine to pot, whisking until smooth.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "irish-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-gooey-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:47:56.680Z"
+}
