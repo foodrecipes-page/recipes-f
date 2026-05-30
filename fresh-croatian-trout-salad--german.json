@@ -1,0 +1,85 @@
+{
+  "slug": "fresh-croatian-trout-salad--german",
+  "title": "Grilled Trout with German Salad",
+  "description": "A classic German dish featuring pan-seared trout served with a fresh salad and a hint of Croatian flair.",
+  "cuisine": "german",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Trout",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Fresh, sustainable trout"
+    },
+    {
+      "name": "Croatian Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "High-quality, extra virgin olive oil"
+    },
+    {
+      "name": "German Salad Greens",
+      "amount": "4 cups",
+      "notes": "Mixed greens such as kale, spinach, and arugula"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 slices",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Season trout fillets with salt and pepper.",
+    "Brush olive oil on both sides of trout fillets.",
+    "Grill trout for 4-5 minutes per side or until cooked through.",
+    "Meanwhile, combine salad greens, red onion, and dill in a large bowl.",
+    "Squeeze lemon juice over salad and toss to combine.",
+    "Serve trout with salad and lemon slices on the side.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pescatarian",
+    "gluten-free",
+    "salad",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-croatian-trout-salad--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:59:27.329Z"
+}
