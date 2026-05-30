@@ -1,0 +1,82 @@
+{
+  "slug": "fluffy-greek-lamb-lahana-moussaka--thai",
+  "title": "Thai Lamb Moussaka Lahana",
+  "description": "A unique twist on traditional moussaka, incorporating lahana and lamb in a Thai-inspired dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Lahanas",
+      "amount": "2 medium",
+      "notes": "Sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Fluffy egg whites",
+      "amount": "4 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, non-fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the lamb pieces and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same pan, add the sliced lahanas and cook until they start to soften, about 3 minutes.",
+    "In a large bowl, whisk together the egg whites, yogurt, curry paste, and fish sauce (if using).",
+    "Add the cooked lamb and lahanas to the bowl, and stir to combine.",
+    "Pour the mixture into a 9x13-inch baking dish.",
+    "In a separate bowl, whisk together the coconut milk and a pinch of salt.",
+    "Pour the coconut milk mixture over the lamb mixture.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "lambmoussaka",
+    "lahana",
+    "dairyfree"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-greek-lamb-lahana-moussaka--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:01:28.191Z"
+}
