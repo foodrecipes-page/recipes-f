@@ -1,0 +1,76 @@
+{
+  "slug": "five-herb-quick-curry",
+  "title": "Quick Five Spice Curry",
+  "description": "A flavorful and aromatic curry made with five spices, perfect for a weeknight dinner. This dish is easy to prepare and can be ready in under 30 minutes.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "five spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "herb",
+      "amount": "1 tbsp",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "quick rice",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the five spice blend and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10-15 minutes.",
+    "Stir in the chopped cilantro and cooked rice.",
+    "Season with salt to taste.",
+    "Serve the curry hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "quick-dinner",
+    "indian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/five-herb-quick-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:47.796Z"
+}
