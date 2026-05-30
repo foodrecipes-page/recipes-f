@@ -1,0 +1,68 @@
+{
+  "slug": "fiery-greek-yellow-pepper-flatbread",
+  "title": "Spicy Yellow Pepper Flatbread",
+  "description": "A flavorful flatbread topped with spicy peppers and a hint of Greek flair.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Yellow Pepper",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Fiery Pepper",
+      "amount": "1/4 cup, sliced",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Slice the yellow pepper into thin strips.",
+    "Place flatbread on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with sliced yellow pepper.",
+    "Bake for 10-12 minutes or until flatbread is crispy.",
+    "Remove from oven and top with sliced fiery pepper, Greek yogurt, and a pinch of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "flatbread",
+    "greek",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-greek-yellow-pepper-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:39.338Z"
+}
