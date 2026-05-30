@@ -1,0 +1,94 @@
+{
+  "slug": "freshly-sauteed-moroccan-cabbage-stir-fry",
+  "title": "Moroccan Stir Fry",
+  "description": "A flavorful and aromatic stir fry dish with a blend of Moroccan spices, perfect for a quick dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chopped cabbage and sauté for 3-4 minutes.",
+    "Add the ground cumin, coriander, and paprika, and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Stir in chopped parsley if using.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stirfry",
+    "quick",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-sauteed-moroccan-cabbage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:57:37.663Z"
+}
