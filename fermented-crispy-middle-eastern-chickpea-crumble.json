@@ -1,0 +1,85 @@
+{
+  "slug": "fermented-crispy-middle-eastern-chickpea-crumble",
+  "title": "Eastern Chickpea Stew",
+  "description": "A hearty and flavorful stew originating from Middle Eastern cuisine. This dish is perfect for a cold winter day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fermented sumac",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy pita bread",
+      "amount": "2 pieces",
+      "notes": "crushed for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened, about 5 minutes.",
+    "Add chickpeas, cumin, cayenne pepper, and salt. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with fermented sumac to taste.",
+    "Serve hot, garnished with crushed crispy pita bread.",
+    "Serve with a side of rice or pita bread for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "chickpea",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-middle-eastern-chickpea-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:23:33.040Z"
+}
