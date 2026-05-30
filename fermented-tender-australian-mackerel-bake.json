@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-tender-australian-mackerel-bake",
+  "title": "Pan-Seared Australian Mackerel with Fermented Vegetable Relish",
+  "description": "A simple yet flavorful dish that combines the delicate flavors of Australian mackerel with the tangy kick of fermented vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Mackerel fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, about 6 oz each"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Fermented vegetable relish",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the mackerel fillets with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the mackerel fillets for 2-3 minutes on each side, then transfer the skillet to the preheated oven.",
+    "Bake for 8-10 minutes or until the fish is cooked through.",
+    "Meanwhile, prepare the fermented vegetable relish by mixing it with chopped fresh parsley.",
+    "Serve the pan-seared mackerel with the fermented vegetable relish spooned over the top.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "australian",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-australian-mackerel-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:42:59.507Z"
+}
