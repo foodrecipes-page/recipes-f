@@ -1,0 +1,92 @@
+{
+  "slug": "fluffy-indian-beans-dal",
+  "title": "Indian-Style Fluffy Dal",
+  "description": "A simple and comforting Indian-inspired dal made with fluffy rice and cooked to perfection. This dish is a staple in many Indian households.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "Indian clarified butter"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the dal and soak it in water for at least 30 minutes.",
+    "Drain the water and pressure cook the dal with 4 cups of water until it's tender.",
+    "Heat the ghee in a pan and sauté the onions until they're lightly browned.",
+    "Add the ginger, cumin seeds, and turmeric powder to the pan and sauté for another minute.",
+    "Add the cooked dal to the pan and stir well.",
+    "Add the soaked and drained beans to the pan and stir well.",
+    "Season the dal with salt and stir well.",
+    "Cook the fluffy rice according to package instructions.",
+    "Serve the dal over the fluffy rice and garnish with fresh cilantro (optional).",
+    "Cook the dal for an additional 10-15 minutes to thicken the consistency.",
+    "Adjust the seasoning and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dal",
+    "fluffy",
+    "rice",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-indian-beans-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:23:41.959Z"
+}
