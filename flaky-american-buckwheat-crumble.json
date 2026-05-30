@@ -1,0 +1,80 @@
+{
+  "slug": "flaky-american-buckwheat-crumble",
+  "title": "Buckwheat Crumble Coffee Cake",
+  "description": "A delicious coffee cake featuring a buckwheat crumble topping and a sweet, flaky crust.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Flaky salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crumble topping ingredients",
+      "amount": "",
+      "notes": "see below"
+    },
+    {
+      "name": "Crumble topping: American butter, crumble",
+      "amount": "1/2 cup, 1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the buckwheat flour, sugar, and flaky salt.",
+    "Add the softened butter to the dry ingredients and mix until the mixture forms a crumbly dough.",
+    "Press the dough into the bottom of a 9-inch round cake pan.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the dough and spread it evenly.",
+    "To make the crumble topping, combine the American butter and crumble in a small bowl until crumbly.",
+    "Sprinkle the crumble topping evenly over the coffee cake.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the cake is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "coffee-cake",
+    "buckwheat",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-american-buckwheat-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:50:17.082Z"
+}
