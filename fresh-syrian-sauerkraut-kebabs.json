@@ -1,0 +1,84 @@
+{
+  "slug": "fresh-syrian-sauerkraut-kebabs",
+  "title": "Grilled Kebabs with Sauerkraut and Syrian Bread",
+  "description": "A flavorful and easy-to-make recipe featuring grilled kebabs served with a side of sauerkraut and warm Syrian bread.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "syrian bread",
+      "amount": "1 loaf",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "kebabs",
+      "amount": "1 package",
+      "notes": "beef or vegetarian option"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread kebabs onto skewers, leaving space between each piece.",
+    "Brush kebabs with olive oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast Syrian bread slices on the grill or in a toaster.",
+    "Top toasted bread with sauerkraut, parsley, and a squeeze of lemon juice.",
+    "Serve kebabs with sauerkraut and bread on the side.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "sauerkraut",
+    "syrian-bread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-syrian-sauerkraut-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:32:46.911Z"
+}
