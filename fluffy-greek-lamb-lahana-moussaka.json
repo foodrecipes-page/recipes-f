@@ -1,0 +1,85 @@
+{
+  "slug": "fluffy-greek-lamb-lahana-moussaka",
+  "title": "Lamb Moussaka Lahana",
+  "description": "A hearty, traditional Greek dish made with layers of lamb, eggplant, and a rich béchamel sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy eggplant (lahana)",
+      "amount": "1 large"
+    },
+    {
+      "name": "greek lamb",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "moussaka seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated kefalograviera cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the eggplant into 1/2-inch thick rounds and season with salt. Let them sit for 30 minutes to draw out excess moisture.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion, garlic, and moussaka seasoning to the skillet and cook until the onion is translucent.",
+    "In a large bowl, combine the flour, eggs, and kefalograviera cheese. Mix well.",
+    "In a 9x13-inch baking dish, create a layer of eggplant slices. Top with a layer of the lamb mixture, followed by a layer of the egg mixture.",
+    "Repeat the layering process two more times, finishing with a layer of egg mixture on top.",
+    "Bake for 45-50 minutes, or until the top is golden brown and the casserole is set.",
+    "Let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "eggplant",
+    "moussaka",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-greek-lamb-lahana-moussaka",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:36:40.480Z"
+}
