@@ -1,0 +1,91 @@
+{
+  "slug": "freshly-grilled-italian-sirloin-steak-stir-fry",
+  "title": "Grilled Sirloin Steak with Italian Stir Fry",
+  "description": "A quick and flavorful dish featuring a grilled sirloin steak served with a colorful Italian-inspired stir fry.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F). Season the steak with salt and black pepper.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "While the steak is cooking, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the bell peppers and onion and cook for 3-4 minutes, until they start to soften.",
+    "Add the mushrooms and cook for another 2-3 minutes, until they release their moisture and start to brown.",
+    "Stir in the Italian seasoning and cook for 1 minute, until fragrant.",
+    "Serve the steak with the Italian stir fry alongside.",
+    "Let the steak rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "italian",
+    "stir-fry",
+    "sirloin",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-grilled-italian-sirloin-steak-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:48:44.051Z"
+}
