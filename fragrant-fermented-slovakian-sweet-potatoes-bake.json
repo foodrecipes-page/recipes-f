@@ -1,0 +1,69 @@
+{
+  "slug": "fragrant-fermented-slovakian-sweet-potatoes-bake",
+  "title": "Slovakian Sweet Gnocchi",
+  "description": "A traditional Slovakian dish made with sweet potatoes and served with a fragrant sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "fermented butter",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "slovakian salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Boil chopped sweet potatoes in a large pot of salted water until tender.",
+    "Drain the water and let the sweet potatoes cool.",
+    "Mash the sweet potatoes and mix with flour until a dough forms.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Divide the dough into 4 equal pieces and roll each piece into a long rope.",
+    "Cut the rope into 1-inch pieces to form the gnocchi.",
+    "Bring a large pot of salted water to a boil and cook the gnocchi until they float.",
+    "Drain the gnocchi and serve with a fragrant sauce made from fermented butter and parsley.",
+    "Season with Slovakian salt and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "sweet potatoes",
+    "gnocchi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-fermented-slovakian-sweet-potatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:10:45.205Z"
+}
