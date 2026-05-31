@@ -19714,17 +19714,17 @@
   },
   {
     "slug": "freshly-indulgent-italian-noodles-amatriciana",
-    "title": "Freshly Indulgent Italian Noodles Amatriciana",
+    "title": "Spaghetti Amatriciana",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "one-pot",
-      "pasta-lovers",
-      "tuscan-cuisine",
-      "vegetarian"
+      "italian",
+      "pastadish",
+      "pasta",
+      "spaghetti",
+      "amitriciana",
+      "guanciale"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -20982,15 +20982,15 @@
   },
   {
     "slug": "funky-springy-mediterranean-shrimp-pilaf",
-    "title": "funky springy Mediterranean shrimp pilaf",
+    "title": "Shrimp Pilaf Medley",
     "tags": [
-      "easy-weeknight",
-      "high-protein",
+      "pilaf",
+      "shrimp",
       "mediterranean",
-      "one-pan"
+      "quick-cook"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -21125,6 +21125,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-greek-lamb-lahana-moussaka--gluten-free",
+    "title": "Greek Lahana Moussaka",
+    "tags": [
+      "gluten-free",
+      "greeks",
+      "moussaka"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
     "shard": "f"
   }
 ]
