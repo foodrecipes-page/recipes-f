@@ -1,0 +1,64 @@
+{
+  "slug": "fatty-tender-italian-eggs-yuzu-cure-egg-tiramisu-on-salt-block",
+  "title": "Pan-Seared Fatty Italian Cured Meat",
+  "description": "A simple yet flavorful dish featuring a fatty italian cured meat pan-seared to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Cured Meat (Prosciutto)",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "On",
+      "amount": "None",
+      "notes": "Unused ingredient, please ignore"
+    },
+    {
+      "name": "Block (Parmesan Cheese)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Slice the prosciutto into thin strips.",
+    "Season the prosciutto with salt to taste.",
+    "Add a small amount of oil to the preheated skillet.",
+    "Add the prosciutto strips to the skillet and sear for 2-3 minutes per side.",
+    "Remove the prosciutto from the skillet and let it rest for a few minutes.",
+    "Sprinkle Parmesan cheese over the prosciutto.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "prosciutto",
+    "parmesan",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-tender-italian-eggs-yuzu-cure-egg-tiramisu-on-salt-block",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:09:05.385Z"
+}
