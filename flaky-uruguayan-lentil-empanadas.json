@@ -1,0 +1,98 @@
+{
+  "slug": "flaky-uruguayan-lentil-empanadas",
+  "title": "Uruguayan Lentil Empanadas",
+  "description": "A hearty Uruguayan-inspired dish featuring flavorful lentil filling inside crispy empanada crust.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package (14 oz)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "uruguayan sausage",
+      "amount": "1/2 pound, sliced",
+      "notes": "such as chorizo or morcilla"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup, rinsed and drained",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a large skillet, cook the sliced uruguayan sausage over medium-high heat until browned.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red lentils, cumin, paprika, salt, and pepper. Cook for 1-2 minutes.",
+    "Add the beef broth and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes or until the lentils are tender.",
+    "Spoon the lentil mixture onto one half of each dough circle.",
+    "Brush the edges with a little water and fold the dough in half to form a triangle or a square.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Brush the tops with a little egg wash or water and bake for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "lentil",
+    "uruguayan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-uruguayan-lentil-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:01:54.566Z"
+}
