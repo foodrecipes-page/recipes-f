@@ -1,0 +1,79 @@
+{
+  "slug": "fresh-herbal-malaysian-serrano-ham-skillet",
+  "title": "Serrano Ham Frittata",
+  "description": "A simple and flavorful breakfast dish featuring serrano ham, fresh herbs, and a crispy skillet crust.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Serrano ham",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk together the eggs, salt, and pepper in a bowl.",
+    "Heat the skillet over medium heat.",
+    "Add the serrano ham and cook for 2-3 minutes, until lightly browned.",
+    "Pour the egg mixture over the ham.",
+    "Sprinkle the chopped parsley and chives over the eggs.",
+    "Transfer the skillet to the oven and bake for 12-15 minutes, until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes before slicing.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "malaysian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-herbal-malaysian-serrano-ham-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:42:44.838Z"
+}
