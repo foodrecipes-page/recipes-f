@@ -1,0 +1,83 @@
+{
+  "slug": "floral-greek-cucumber-salad",
+  "title": "Greek Salad",
+  "description": "A classic Greek salad made with fresh vegetables and a tangy dressing.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Floral water",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Greek salad",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine cucumber, greek salad, feta cheese, and olives in a large bowl.",
+    "In a small bowl, whisk together floral water, olive oil, red wine vinegar, salt, and black pepper.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-greek-cucumber-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:16:27.175Z"
+}
