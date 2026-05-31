@@ -1,0 +1,70 @@
+{
+  "slug": "flaky-crumbly-brazilian-oats-bread",
+  "title": "Brazilian Bread Pudding",
+  "description": "A classic Brazilian dessert made with bread, eggs, and spices. It's a great way to use up stale bread and is perfect for breakfast or brunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian bread",
+      "amount": "1 loaf, stale"
+    },
+    {
+      "name": "flaky, crumbly oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the bread into 1-inch cubes and set aside.",
+    "In a large mixing bowl, whisk together the eggs, sugar, cinnamon, and nutmeg.",
+    "Add the bread cubes to the mixing bowl and stir until they are evenly coated with the egg mixture.",
+    "Add the oats to the mixing bowl and stir until they are well combined with the bread and egg mixture.",
+    "Pour the mixture into a 9x13-inch baking dish and let it sit for 10 minutes.",
+    "Bake the pudding for 35-40 minutes, or until it is golden brown and set.",
+    "Remove the pudding from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dessert",
+    "pudding",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-crumbly-brazilian-oats-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:33:29.982Z"
+}
