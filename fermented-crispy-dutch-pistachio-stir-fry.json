@@ -1,0 +1,81 @@
+{
+  "slug": "fermented-crispy-dutch-pistachio-stir-fry",
+  "title": "Crispy Dutch Pistachio Stir Fry",
+  "description": "A crunchy and savory stir fry made with crispy fried onions, flavorful Dutch spices, and the nuttiness of pistachios.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and stir-fry until the onion is translucent.",
+    "Add the bell pepper and stir-fry for 2-3 minutes.",
+    "Add the fermented soy sauce and Dutch spice blend. Stir to combine.",
+    "Add the pistachios and crispy fried onions. Stir-fry for 1-2 minutes.",
+    "Cook for an additional 1-2 minutes or until the ingredients are well combined and the pistachios are lightly toasted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "pistachio",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-dutch-pistachio-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:58:18.880Z"
+}
