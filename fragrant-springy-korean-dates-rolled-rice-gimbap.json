@@ -1,0 +1,77 @@
+{
+  "slug": "fragrant-springy-korean-dates-rolled-rice-gimbap",
+  "title": "Classic Korean Gimbap",
+  "description": "A simple and delicious Korean dish made with rice and various fillings, served in a roll.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Short-grain white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rolled gimbap sheets",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Fragrant vegetables (e.g., carrots, cucumber)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Springy kimchi (store-bought or homemade)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dates (chopped)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the short-grain white rice according to package instructions.",
+    "Prepare the fillings by chopping the fragrant vegetables and springy kimchi.",
+    "Assemble the gimbap by spreading a thin layer of rice onto the center of a rolled gimbap sheet.",
+    "Add a few pieces of the chopped vegetables and kimchi on top of the rice.",
+    "Drizzle with soy sauce and sprinkle with Korean chili flakes.",
+    "Roll the gimbap tightly and secure with a small piece of rice.",
+    "Repeat with the remaining ingredients.",
+    "Cut the gimbap into 1-inch pieces and serve immediately.",
+    "Optional: Pan-fry the gimbap in a little sesame oil until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "rice",
+    "gimbap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-springy-korean-dates-rolled-rice-gimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:34.618Z"
+}
