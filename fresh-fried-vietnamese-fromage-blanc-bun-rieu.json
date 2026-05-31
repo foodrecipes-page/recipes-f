@@ -1,0 +1,85 @@
+{
+  "slug": "fresh-fried-vietnamese-fromage-blanc-bun-rieu",
+  "title": "Vietnamese Fried Noodle Soup",
+  "description": "A spicy and flavorful Vietnamese noodle soup made with fried noodles and a rich broth. Serve with a side of fresh herbs and lime wedges.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese rice noodles",
+      "amount": "1 package",
+      "notes": "fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying noodles"
+    },
+    {
+      "name": "Shrimp broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the Vietnamese rice noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large pot over medium-high heat.",
+    "Add the shrimp broth, soy sauce, and fish sauce to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the noodle soup hot, garnished with fried shallots and chopped cilantro.",
+    "Serve with a side of fresh herbs and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "spicy",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fried-vietnamese-fromage-blanc-bun-rieu",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:16:14.722Z"
+}
