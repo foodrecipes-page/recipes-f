@@ -1,0 +1,75 @@
+{
+  "slug": "floral-spanish-goose-fat-stir-fry",
+  "title": "Spanish-Style Goose Stir Fry",
+  "description": "A flavorful and aromatic stir fry dish made with Spanish-inspired spices and crispy goose meat. This recipe is perfect for a quick and satisfying dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "floral oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "spanish smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat the floral oil in a large skillet over medium-high heat.",
+    "2. Add the goose breast to the skillet and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "3. Remove the goose from the skillet and set aside to rest.",
+    "4. In the same skillet, add the spanish smoked paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "5. Add the green onion to the skillet and cook for an additional 1-2 minutes, or until softened.",
+    "6. Slice the rested goose breast into thin strips and add to the skillet.",
+    "7. Stir to combine the goose and onion mixture, and cook for an additional 1-2 minutes.",
+    "8. Serve the Spanish-Style Goose Stir Fry hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "goose",
+    "spanish",
+    "stirfry",
+    "dinner",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-spanish-goose-fat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:49:27.535Z"
+}
