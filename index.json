@@ -16801,20 +16801,16 @@
   },
   {
     "slug": "fragrant-springy-korean-dates-rolled-rice-gimbap",
-    "title": "Fragrant Springy Korean Dates Rolled Rice Gimbap",
+    "title": "Classic Korean Gimbap",
     "tags": [
-      "cure",
-      "easy-snack",
-      "gimbap",
-      "jeju",
       "korean",
-      "medjool-dates",
-      "northern-island",
-      "rice-bowl",
-      "spring"
+      "rice",
+      "gimbap",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -21107,6 +21103,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-gooey-irish-beef-stew--vegetarian",
+    "title": "Irish Stew without the Beef",
+    "tags": [
+      "irish",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
