@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-flaky-venezuelan-soffritto-base-salad",
+  "title": "Venezuelan-Style Arepa",
+  "description": "A traditional Venezuelan dish, this arepa recipe features a crispy exterior and a soft, cheesy interior.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal base",
+      "amount": "1 cup",
+      "notes": "preferably Venezulan-style cornmeal"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1/4 cup",
+      "notes": "queso fresco or similar"
+    },
+    {
+      "name": "fermented soffritto",
+      "amount": "2 tablespoons",
+      "notes": "or sautéed onion and garlic"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for wrapping the arepa"
+    },
+    {
+      "name": "salad",
+      "amount": "optional",
+      "notes": "topping for the arepa"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the cornmeal base and water until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 4 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and place a spoonful of the cheese in the center.",
+    "Fold the dough over the cheese to form a half-moon shape and press the edges together to seal.",
+    "Heat a large skillet over medium-high heat and cook the arepas for 4-5 minutes on each side, until crispy and golden.",
+    "Serve the arepas hot, topped with a spoonful of sautéed soffritto and a dollop of cheese.",
+    "Optional: top with a salad or other desired toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arepa",
+    "venezuelan",
+    "cornmeal",
+    "cheese",
+    "soffritto"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-flaky-venezuelan-soffritto-base-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:06:20.258Z"
+}
