@@ -1,0 +1,83 @@
+{
+  "slug": "fresh-croatian-trout-salad--french",
+  "title": "Pan-Seared Trout à la Française",
+  "description": "A classic French dish featuring fresh trout, pan-seared to perfection. Serve with a fresh salad for a light and delicious meal.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh trout fillets (4)",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens salad",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout fillets with salt and black pepper.",
+    "In a skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the trout fillets, skin side up, and sear for 2-3 minutes.",
+    "Flip the trout and sear for another 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the trout is cooking, prepare the salad by combining the mixed greens, cherry tomatoes, and a squeeze of lemon juice.",
+    "Serve the pan-seared trout with the fresh salad on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "trout",
+    "salad",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-croatian-trout-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:18:53.281Z"
+}
