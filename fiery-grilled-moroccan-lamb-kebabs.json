@@ -1,0 +1,85 @@
+{
+  "slug": "fiery-grilled-moroccan-lamb-kebabs",
+  "title": "Spicy Lamb Kebabs",
+  "description": "A delicious and flavorful dish inspired by Moroccan cuisine, perfect for a quick and easy meal. The combination of spicy lamb and grilled vegetables creates a mouth-watering flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Fat-trimmed for leaner meat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "Contains cumin, coriander, cinnamon, and cayenne pepper"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 large",
+      "notes": "For kebabs"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "2 large",
+      "notes": "For kebabs"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "2 large",
+      "notes": "For kebabs"
+    },
+    {
+      "name": "Fiery harissa sauce",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 pieces",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a bowl, mix together lamb cubes, olive oil, and Moroccan spice blend.",
+    "3. Thread lamb cubes, red onion, red bell pepper, and zucchini onto skewers.",
+    "4. Grill kebabs for 10-12 minutes, turning occasionally, until lamb reaches 145°F (63°C).",
+    "5. Brush kebabs with harissa sauce during the last 2 minutes of grilling.",
+    "6. Warm pita bread by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "7. Serve kebabs with pita bread and additional harissa sauce on the side.",
+    "8. Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "kebabs",
+    "grilled",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "53g",
+    "carbs": "20g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-grilled-moroccan-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:53:22.599Z"
+}
