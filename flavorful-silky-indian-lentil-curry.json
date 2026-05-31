@@ -1,0 +1,81 @@
+{
+  "slug": "flavorful-silky-indian-lentil-curry",
+  "title": "Silky Lentil Curry",
+  "description": "A flavorful and comforting Indian-inspired lentil curry made with silky and aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Silky",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the lentils, tomato, and silky, and stir to combine.",
+    "Add enough water to cover the lentils and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired.",
+    "Note: This curry can be made in a pressure cooker for faster cooking time."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "lentil",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-silky-indian-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:20:55.697Z"
+}
