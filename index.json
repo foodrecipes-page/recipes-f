@@ -1811,15 +1811,14 @@
   },
   {
     "slug": "fermented-crispy-dutch-pistachio-stir-fry",
-    "title": "Fermented Crispy Dutch Pistachio Stir-fry",
+    "title": "Crispy Dutch Pistachio Stir Fry",
     "tags": [
-      "fermented tofu",
+      "snack",
       "pistachio",
-      "stir-fry",
-      "vegan-friendly"
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "f"
   },
   {
@@ -2234,14 +2233,14 @@
   },
   {
     "slug": "fermented-dense-irish-pork-belly-stir-fry",
-    "title": "Fermented Dense Irish Pork Belly Stir-fry",
+    "title": "Irish Braised Pork Belly",
     "tags": [
-      "fermented-pork-belly",
-      "keto-friendly",
-      "stir-fry"
+      "irish",
+      "comfort-food",
+      "braised-pork"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 175,
     "shard": "f"
   },
   {
@@ -5364,17 +5363,16 @@
   },
   {
     "slug": "fiery-grilled-moroccan-lamb-kebabs",
-    "title": "Fiery Grilled Moroccan Lamb Kebabs",
+    "title": "Spicy Lamb Kebabs",
     "tags": [
-      "binchotan-grill",
-      "grilled-meat",
-      "high-protein",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "sesame-seeds"
+      "moroccan",
+      "lamb",
+      "kebabs",
+      "grilled",
+      "spicy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
@@ -21097,6 +21095,18 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-mustardy-shrimp-paste-pancake--indian",
+    "title": "Indian Shrimp Pancakes",
+    "tags": [
+      "indian",
+      "seafood",
+      "quick-and-easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
