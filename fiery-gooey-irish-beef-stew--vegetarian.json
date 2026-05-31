@@ -1,0 +1,76 @@
+{
+  "slug": "fiery-gooey-irish-beef-stew--vegetarian",
+  "title": "Irish Stew without the Beef",
+  "description": "A vegetarian twist on a classic Irish dish, made with tender potatoes, carrots, and onions in a rich stew sauce.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1.5 pounds",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "irish stew seasoning",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "beef broth (vegetarian version)",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bacon bits (vegetarian version)",
+      "amount": "4 slices",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Brown the mushrooms and bacon bits in a large pot over medium-high heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the diced potatoes, chopped carrots, and Irish stew seasoning.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the potatoes are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-gooey-irish-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:01.395Z"
+}
