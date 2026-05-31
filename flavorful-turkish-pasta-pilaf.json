@@ -1,0 +1,90 @@
+{
+  "slug": "flavorful-turkish-pasta-pilaf",
+  "title": "Turkish Pilaf with Flavorful Pasta",
+  "description": "A delicious and aromatic Turkish-inspired pilaf dish made with flavorful pasta, perfect for a quick lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flavorful Turkey Kofta",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Flavorful Pasta",
+      "amount": "1 cup",
+      "notes": "orzo or similar small pasta shape"
+    },
+    {
+      "name": "Turkish Pilaf Spices",
+      "amount": "2 tsp",
+      "notes": "include paprika, cumin, and coriander"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add Turkish pilaf spices and cook for 1 minute, until fragrant.",
+    "Add chicken broth and bring to a boil.",
+    "Add flavored pasta and cook according to package instructions.",
+    "Add cooked turkey kofta to the saucepan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pilaf",
+    "pasta",
+    "flavorful",
+    "kofta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-turkish-pasta-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:17:04.464Z"
+}
