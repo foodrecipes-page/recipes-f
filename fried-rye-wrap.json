@@ -1,0 +1,70 @@
+{
+  "slug": "fried-rye-wrap",
+  "title": "Classic Corned Beef Rye Wrap",
+  "description": "A tasty twist on the classic deli sandwich. This corned beef rye wrap is perfect for a quick and easy meal.",
+  "cuisine": "American",
+  "diet": [
+    "Meat",
+    "Savory"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "6 ounces",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Rye wrap",
+      "amount": "1",
+      "notes": "Large"
+    },
+    {
+      "name": "Russian dressing",
+      "amount": "2 tablespoons",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Thinly sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to medium-high heat.",
+    "Spread the Russian dressing evenly on the inside of the rye wrap.",
+    "Layer the corned beef, lettuce, and onion on the bottom half of the wrap.",
+    "Season with salt and pepper to taste.",
+    "Place the top half of the wrap on the filling, pressing gently.",
+    "Cook for 3-4 minutes, or until the wrap is crispy and the corned beef is warmed through.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "corned-beef",
+    "rye",
+    "wrap",
+    "lunch",
+    "easy",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-rye-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:52:13.829Z"
+}
