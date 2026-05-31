@@ -1,0 +1,61 @@
+{
+  "slug": "funky-springy-mediterranean-shrimp-pilaf",
+  "title": "Shrimp Pilaf Medley",
+  "description": "A flavorful and light shrimp pilaf dish with mediterranean twist. Ready in under 30 minutes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "funky pilaf",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tablespoons",
+      "notes": "dried herbs and spices"
+    },
+    {
+      "name": "springy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the pilaf to the skillet and stir-fry for 2 minutes.",
+    "Add the mediterranean spice blend and stir-fry for another minute.",
+    "Stir in the chopped parsley and season with salt and pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "shrimp",
+    "mediterranean",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-springy-mediterranean-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:05:52.460Z"
+}
