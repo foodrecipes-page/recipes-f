@@ -1,0 +1,89 @@
+{
+  "slug": "fresh-polish-kidney-beans-soup",
+  "title": "Polish Kidney Bean Soup",
+  "description": "A hearty and comforting soup made with kidney beans and polish sausage, perfect for a cold winter's day.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Kidney beans",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 ounces)",
+      "notes": "drained"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion, garlic, carrots, and celery, and cook until the vegetables are tender.",
+    "Add the polish sausage and cook until browned.",
+    "Add the kidney beans, chicken broth, diced tomatoes, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "soup",
+    "kidney-beans",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-polish-kidney-beans-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:15:00.413Z"
+}
