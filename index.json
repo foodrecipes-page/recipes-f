@@ -10312,17 +10312,16 @@
   },
   {
     "slug": "flavorful-turkish-pasta-pilaf",
-    "title": "Flavorful Turkish Pasta Pilaf",
+    "title": "Turkish Pilaf with Flavorful Pasta",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
-      "low-fat",
-      "one-pot",
-      "pasta-dish",
-      "turkish-cuisine"
+      "turkish",
+      "pilaf",
+      "pasta",
+      "flavorful",
+      "kofta"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -13538,17 +13537,15 @@
   },
   {
     "slug": "fluffy-fatty-thai-beef-fillet-pa-tong-ko",
-    "title": "Pa Tong Ko",
+    "title": "Thai Fluffy Beef Fillet",
     "tags": [
       "beef",
-      "dinneridea",
-      "high-protein",
-      "maincourse",
-      "one-pan",
-      "thaicuisine"
+      "thai",
+      "dinner",
+      "fatty"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -21115,6 +21112,19 @@
     ],
     "cuisine": "irish",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-croatian-trout-salad--french",
+    "title": "Pan-Seared Trout à la Française",
+    "tags": [
+      "french",
+      "trout",
+      "salad",
+      "fish"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 27,
     "shard": "f"
   }
 ]
