@@ -1,0 +1,95 @@
+{
+  "slug": "flavorful-turkish-pasta-pilaf--indian",
+  "title": "Turkish-Inspired Chicken Pilaf",
+  "description": "A flavorful Indian-inspired dish that combines the richness of Turkish spices with the comfort of a pilaf.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flavorful spice blend (e.g. garam masala)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "turkish paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the cumin, coriander, and salt, and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the pilaf rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add the flavorful spice blend and turkish paprika, and stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Serve with additional turkish paprika on top, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "turkish",
+    "pilaf",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-turkish-pasta-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:03:02.638Z"
+}
