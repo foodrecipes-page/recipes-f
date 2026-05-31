@@ -1,0 +1,80 @@
+{
+  "slug": "fatty-uruguayan-lamb-grill",
+  "title": "Uruguayan Lamb Choripan",
+  "description": "A classic Uruguayan street food featuring grilled lamb chorizo served on a crusty bun. This recipe is perfect for a quick and flavorful meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb Chorizo",
+      "amount": "4 chorizos",
+      "notes": ""
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "4 buns",
+      "notes": "preferably Uruguayan-style"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill lamb chorizos for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the bread on the grill.",
+    "Slice the red onion and set aside.",
+    "Spread a layer of mayo on each bun.",
+    "Add a few slices of grilled lamb chorizo to each bun.",
+    "Top with sliced red onion and a sprinkle of chili flakes (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "uruguayan",
+    "lamb",
+    "choripan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-uruguayan-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:24:09.797Z"
+}
