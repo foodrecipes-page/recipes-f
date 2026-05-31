@@ -905,17 +905,15 @@
   },
   {
     "slug": "fatty-tender-italian-eggs-yuzu-cure-egg-tiramisu-on-salt-block",
-    "title": "FattyTender Italian Eggs YuzuCureEggTiramisuOnSaltBlock",
+    "title": "Pan-Seared Fatty Italian Cured Meat",
     "tags": [
-      "curdled-eggs",
-      "dessert",
       "italian",
-      "salt-block",
-      "tiramisu",
-      "yuzu"
+      "prosciutto",
+      "parmesan",
+      "easy"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 16,
     "shard": "f"
   },
   {
@@ -9119,18 +9117,15 @@
   },
   {
     "slug": "flaky-uruguayan-lentil-empanadas",
-    "title": "Flaky Uruguayan Lentil Empanadas",
+    "title": "Uruguayan Lentil Empanadas",
     "tags": [
-      "vegetarian-friendly",
-      "flaky",
-      "lentil",
       "empanadas",
+      "lentil",
       "uruguayan",
-      "quick-meal",
-      "easy-dinner"
+      "breakfast"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -12504,14 +12499,16 @@
   },
   {
     "slug": "floral-spanish-goose-fat-stir-fry",
-    "title": "Floral Spanish Goose Fat Stir-Fry",
+    "title": "Spanish-Style Goose Stir Fry",
     "tags": [
-      "goose-fat-stir-fry",
-      "pescatarian-friendly",
-      "light-floral-dish"
+      "goose",
+      "spanish",
+      "stirfry",
+      "dinner",
+      "easyrecipe"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -16246,16 +16243,14 @@
   },
   {
     "slug": "fragrant-fermented-slovakian-sweet-potatoes-bake",
-    "title": "Fragrant Fermented Slovakian Sweet Potatoes Bake",
+    "title": "Slovakian Sweet Gnocchi",
     "tags": [
-      "fermented",
-      "high-fiber",
-      "one-pan",
-      "sour",
-      "weeknight"
+      "slovakian",
+      "sweet potatoes",
+      "gnocchi"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -21117,6 +21112,19 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 65,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-turkish-pasta-pilaf--indian",
+    "title": "Turkish-Inspired Chicken Pilaf",
+    "tags": [
+      "indian",
+      "turkish",
+      "pilaf",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
