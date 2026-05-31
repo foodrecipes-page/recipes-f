@@ -1,0 +1,86 @@
+{
+  "slug": "freshly-fried-vietnamese-pork-bun-cha",
+  "title": "Vietnamese Pork Cha Buns",
+  "description": "A crispy fried bun filled with savory Vietnamese-style pork cha, served with a side of fresh herbs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bun (Vietnamese bread)",
+      "amount": "1 package",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large mixing bowl, combine ground pork, chopped onion, minced garlic, fish sauce, soy sauce, brown sugar, and coconut milk. Mix well with your hands or a wooden spoon until just combined.",
+    "3. Divide the mixture into 4 equal parts and shape each part into a small ball.",
+    "4. Roll each ball between your hands to flatten slightly into a disk shape.",
+    "5. Place the disks on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each.",
+    "6. Bake for 12-15 minutes, or until the cha is cooked through and slightly caramelized.",
+    "7. While the cha is baking, toast the Vietnamese bread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "8. Assemble the cha buns by placing a piece of toasted bread on a plate, then adding a few pieces of the baked cha on top.",
+    "9. Garnish with fresh herbs, such as cilantro or mint, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "cha-bun",
+    "snack",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-vietnamese-pork-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:24:24.695Z"
+}
