@@ -1,0 +1,82 @@
+{
+  "slug": "freshly-indulgent-italian-noodles-amatriciana",
+  "title": "Spaghetti Amatriciana",
+  "description": "A classic Italian pasta dish made with guanciale, tomatoes, and Pecorino cheese. This recipe is a variation of the traditional Amatriciana sauce, served with spaghetti and topped with Pecorino cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guanciale",
+      "amount": "6 oz",
+      "notes": "Italian cured pork jowl"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "28 oz",
+      "notes": "Canned whole tomatoes"
+    },
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "Dried spaghetti"
+    },
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated cheese"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "Optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente. Reserve 1 cup of pasta water before draining the spaghetti.",
+    "In a large skillet, cook the guanciale over medium heat until crispy. Remove from heat and set aside.",
+    "In the same skillet, add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the canned tomatoes, salt, and red pepper flakes (if using). Stir to combine.",
+    "Add the reserved pasta water to the tomato sauce and stir to combine.",
+    "Add the cooked spaghetti to the tomato sauce and toss to combine.",
+    "Return the crispy guanciale to the skillet and toss to combine.",
+    "Serve the spaghetti hot, topped with grated Pecorino cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pastadish",
+    "pasta",
+    "spaghetti",
+    "amitriciana",
+    "guanciale"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 27,
+    "carbs": 70,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-indulgent-italian-noodles-amatriciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:21:10.017Z"
+}
