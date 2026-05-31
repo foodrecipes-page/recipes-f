@@ -1,0 +1,79 @@
+{
+  "slug": "fragrant-italian-chicken-pilaf",
+  "title": "Italian Chicken Pilaf",
+  "description": "A flavorful and easy-to-make dish that combines the goodness of chicken and pilaf with an Italian twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "pilaf mix",
+      "amount": "1 package",
+      "notes": "Italian-style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast to the skillet and cook until browned on both sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the pilaf mix to the skillet and cook according to the package instructions.",
+    "Stir in the dried basil and oregano.",
+    "Return the chicken to the skillet and toss with the pilaf mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-italian-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:08:35.880Z"
+}
