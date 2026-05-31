@@ -1,0 +1,85 @@
+{
+  "slug": "fermented-dense-irish-pork-belly-stir-fry",
+  "title": "Irish Braised Pork Belly",
+  "description": "A hearty and comforting dish that showcases the rich flavors of Irish cuisine, featuring tender pork belly in a fermented dense sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fermented mustard",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 2 tbsp water"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 275°F (135°C).",
+    "2. Season pork belly with salt and pepper.",
+    "3. In a large Dutch oven, heat 2 tbsp of oil over medium-high.",
+    "4. Sear pork belly until browned on all sides, then remove from heat.",
+    "5. Add chopped onion, carrot, and potato to the pot, cooking until the vegetables are tender.",
+    "6. Sprinkle flour over the vegetables and cook for 1 minute.",
+    "7. Gradually add beef broth, whisking continuously to avoid lumps.",
+    "8. Return the pork belly to the pot, cover with a lid, and transfer to the preheated oven.",
+    "9. Braise for 2.5 hours, or until the pork belly is tender and easily shreds with a fork.",
+    "10. Remove the pot from the oven and stir in the dissolved fermented mustard and stir-fry sauce.",
+    "11. Return the pot to the stovetop over medium heat, simmering for 10 minutes to allow the sauce to thicken.",
+    "12. Garnish with chopped fresh parsley and serve."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 150,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "comfort-food",
+    "braised-pork"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-irish-pork-belly-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:57:38.429Z"
+}
