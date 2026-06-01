@@ -1,0 +1,80 @@
+{
+  "slug": "fluffy-smoky-roasted-tomato-argentinian-stir-fry",
+  "title": "Argentinian Smoky Roasted Chicken",
+  "description": "A flavorful and spicy dish inspired by Argentinean cuisine, featuring smoky roasted chicken, fluffy potatoes, and a tangy tomato sauce.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fluffy olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the smoked paprika, fluffy olive oil, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 25-30 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, slice the potatoes into 1-inch thick rounds and toss them with a little bit of fluffy olive oil, salt, and black pepper.",
+    "After the chicken has cooked for 20 minutes, add the potatoes to the roasting pan and continue to cook for another 10-15 minutes, or until they are tender and golden brown.",
+    "Remove the chicken and potatoes from the oven and let them rest for a few minutes before slicing and serving.",
+    "Meanwhile, heat up the tomato sauce in a saucepan over medium heat.",
+    "Serve the chicken and potatoes with the tomato sauce spooned over the top.",
+    "Garnish with roasted garlic and a sprinkle of fluffy olive oil, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "roasted",
+    "tomato",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-smoky-roasted-tomato-argentinian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:31:39.985Z"
+}
