@@ -1,0 +1,60 @@
+{
+  "slug": "fermented-silky-croatian-doner-broth",
+  "title": "Croatian Fermented Broth Soup",
+  "description": "A simple and comforting Croatian soup made with fermented ingredients. Serve with crusty bread for a hearty meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian Fermented Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Silky Doner Meat (beef or lamb)",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the Croatian Fermented Broth to a boil.",
+    "Add the sliced Silky Doner Meat and cook until browned, about 5 minutes.",
+    "Reduce heat to a simmer and cook for 10-15 minutes or until the meat is tender.",
+    "Stir in chopped Fresh Parsley and season with Salt to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "croatian-cuisine",
+    "fermented-foods"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-croatian-doner-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:40:06.545Z"
+}
