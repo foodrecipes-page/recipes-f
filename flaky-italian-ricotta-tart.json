@@ -1,0 +1,69 @@
+{
+  "slug": "flaky-italian-ricotta-tart",
+  "title": "Tart Ricotta Cannoli",
+  "description": "An Italian dessert made with flaky pastry, ricotta filling, and a sweet tart crust.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Italian Pastry Dough",
+      "amount": "1 package",
+      "notes": "Thaw according to package instructions"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 cup",
+      "notes": "Whole milk ricotta preferred"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "Pure extract recommended"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough and cut into circles of about 4 inches in diameter.",
+    "Bake the pastry shells for 15-20 minutes, or until golden brown.",
+    "Allow the shells to cool completely on a wire rack.",
+    "In a large bowl, combine the ricotta cheese, granulated sugar, and vanilla extract.",
+    "Mix the filling ingredients until smooth and creamy.",
+    "Spoon the ricotta filling into the cooled pastry shells.",
+    "Dust the tops with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "cannoli",
+    "ricotta",
+    "flaky-pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-italian-ricotta-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:47:25.368Z"
+}
