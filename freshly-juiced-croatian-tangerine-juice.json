@@ -1,0 +1,60 @@
+{
+  "slug": "freshly-juiced-croatian-tangerine-juice",
+  "title": "Croatian Tangerine Marmalade",
+  "description": "A homemade marmalade made with freshly juiced tangerine and a hint of Croatian flair.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Fresh Tangerines",
+      "amount": "4 cups",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Croatian Pomegranate Syrup (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the tangerines, then juice them using a manual or electric juicer.",
+    "Combine the tangerine juice, sugar, and water in a large saucepan.",
+    "Bring the mixture to a boil over high heat, stirring occasionally.",
+    "Reduce the heat to medium-low and simmer for 10-15 minutes, or until the marmalade has thickened.",
+    "Remove the saucepan from the heat and stir in the Croatian pomegranate syrup (if using).",
+    "Let the marmalade cool slightly before transferring it to a clean glass jar.",
+    "Seal the jar and store it in the refrigerator for up to 6 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 16,
+  "difficulty": "easy",
+  "tags": [
+    "marmalade",
+    "tangerine",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 0.5,
+    "carbs": 50,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-juiced-croatian-tangerine-juice",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:09:53.096Z"
+}
