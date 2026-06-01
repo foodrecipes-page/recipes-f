@@ -1222,14 +1222,16 @@
   },
   {
     "slug": "fermented-apple-cider-yogurt-pancake",
-    "title": "Fermented Apple Cider Yogurt Pancake",
+    "title": "Fermented Apple Cider Pancakes",
     "tags": [
-      "fermented-apple-cider-yogurt-pancake",
-      "buttery-mousse-style-pancake",
-      "apple-cider-vinegar"
+      "breakfast",
+      "fermented",
+      "apples",
+      "cider",
+      "pancakes"
     ],
     "cuisine": "American",
-    "totalTimeMin": 15,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -6247,17 +6249,14 @@
   },
   {
     "slug": "fishito-de-solo",
-    "title": "Halal-friendly Fishito de Solo",
+    "title": "Battered De and Fishito Fritters",
     "tags": [
-      "fishito-de-solo",
-      "fermented",
-      "crumbly",
-      "solo-dinner",
-      "mexican-norteño",
-      "halal-friendly"
+      "fritters",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "mexican (norteño)",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -16967,17 +16966,16 @@
   },
   {
     "slug": "fresh-algerian-oats-tagine",
-    "title": "Fresh Algerian Oats Tagine",
+    "title": "Algerian Tagine Stew",
     "tags": [
-      "dutch-oven",
-      "low-fodmap",
+      "algerian",
+      "lamb",
+      "stew",
       "one-pot",
-      "quick",
-      "tagine",
-      "vegan"
+      "dinner"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 140,
     "shard": "f"
   },
   {
@@ -19715,15 +19713,14 @@
   },
   {
     "slug": "freshly-juiced-croatian-tangerine-juice",
-    "title": "Freshly Juiced Croatian Tangerine Juice",
+    "title": "Croatian Tangerine Marmalade",
     "tags": [
-      "fresh",
-      "juice",
-      "tomatoes",
-      "canned"
+      "marmalade",
+      "tangerine",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -21123,6 +21120,18 @@
       "chicken"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-middle-eastern-chickpea-crumble--french",
+    "title": "Crispy Chickpea French Tart",
+    "tags": [
+      "french",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "f"
   }
