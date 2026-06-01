@@ -1,0 +1,80 @@
+{
+  "slug": "fragrant-gooey-turkish-peanuts-manti",
+  "title": "Turkish-Style Manti",
+  "description": "Delicate Turkish dumplings filled with a sweet and savory mixture of ground meat and spices, served with a side of gooey cheese and fragrant herbs.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Meat",
+    "Dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Manti spice mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Fragrant herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley and dill"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the ground beef, chopped onion, parsley, manti spice mix, and salt. Mix well with your hands until just combined.",
+    "2. Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "3. Divide the mixture into small balls, about the size of a small egg.",
+    "4. Roll each ball into a thin circle, about 1/8 inch thick.",
+    "5. Brush the edges of the dough with a little water.",
+    "6. Place a tablespoon of the meat mixture in the center of each dough circle.",
+    "7. Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "8. Bring a large pot of salted water to a boil and cook the manti for 10-12 minutes, or until they float to the surface.",
+    "9. While the manti are cooking, melt the gooey cheese in a small saucepan over low heat.",
+    "10. Serve the manti hot with the melted cheese and a sprinkle of fragrant herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "meat",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-gooey-turkish-peanuts-manti",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:56:18.955Z"
+}
