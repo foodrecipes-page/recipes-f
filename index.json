@@ -3779,15 +3779,14 @@
   },
   {
     "slug": "fermented-silky-croatian-doner-broth",
-    "title": "Fermented Silky Croatian Doner Broth",
+    "title": "Croatian Fermented Broth Soup",
     "tags": [
-      "pescatarian-friendly",
-      "fermented",
-      "silky",
-      "date-night"
+      "soup",
+      "croatian-cuisine",
+      "fermented-foods"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21126,6 +21125,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-flaky-venezuelan-soffritto-base-salad--vegetarian",
+    "title": "Venezuelan Salad with Soffritto Croutons",
+    "tags": [
+      "salad",
+      "vegan",
+      "quick"
+    ],
+    "cuisine": "vegan",
+    "totalTimeMin": 15,
     "shard": "f"
   }
 ]
