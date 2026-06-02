@@ -1,0 +1,84 @@
+{
+  "slug": "fermented-silky-indian-wild-garlic-leaves-korma",
+  "title": "Wild Garlic and Leaf Korma",
+  "description": "A flavorful and nutritious Indian-inspired korma dish made with wild garlic, leaves, and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild garlic",
+      "amount": "2 cups, chopped",
+      "notes": "Use fresh wild garlic leaves for the best flavor"
+    },
+    {
+      "name": "Indian leaves (spinach or collard greens)",
+      "amount": "1 cup, chopped",
+      "notes": "Adjust the amount based on your preference"
+    },
+    {
+      "name": "Korma paste",
+      "amount": "2 tablespoons",
+      "notes": "You can make your own korma paste or use store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for the best flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated",
+      "notes": "Add more or less ginger based on your preference"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use Himalayan pink salt or sea salt for a better flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large pan over medium heat.",
+    "Add the grated ginger and sauté for 1-2 minutes, until fragrant.",
+    "Add the chopped wild garlic and sauté for 2-3 minutes, until wilted.",
+    "Add the chopped Indian leaves and sauté for 2-3 minutes, until wilted.",
+    "Add the korma paste and stir well to combine.",
+    "Add the minced garlic and stir well to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2-3 minutes, until the flavors have melded together.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "korma",
+    "wild-garlic",
+    "leafy-greens"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-indian-wild-garlic-leaves-korma",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:57:19.064Z"
+}
