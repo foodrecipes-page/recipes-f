@@ -1,0 +1,88 @@
+{
+  "slug": "fluffy-roasted-tunisian-beef-bake",
+  "title": "Tunisian Beef Tagine",
+  "description": "A flavorful North African stew made with beef, fluffy couscous, and roasted vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound (450g)",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Fluffy Couscous",
+      "amount": "1 cup (150g)",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tunisian Spices",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is softened, about 5 minutes.",
+    "Add the roasted red peppers, Tunisian spices, and cumin. Cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour or until the beef is tender.",
+    "Fluff the couscous with a fork and serve with the tagine.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "couscous",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-roasted-tunisian-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:32:42.223Z"
+}
