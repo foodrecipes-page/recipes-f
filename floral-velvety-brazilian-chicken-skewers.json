@@ -1,0 +1,84 @@
+{
+  "slug": "floral-velvety-brazilian-chicken-skewers",
+  "title": "Grilled Chicken Skewers with Floral Salsa",
+  "description": "Tender chicken skewers marinated in a zesty mixture of herbs and spices, grilled to perfection and served with a refreshing floral salsa.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "velvety honey",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "floral",
+      "amount": "2 tablespoons, chopped fresh herbs (such as parsley or cilantro)",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tablespoon, chopped fresh cilantro (optional)",
+      "notes": "for garnish"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for marinade"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for marinade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together honey, floral, salt, black pepper, and lemon juice.",
+    "Add chicken to the marinade and mix to coat.",
+    "Thread chicken onto skewers, leaving a little space between each piece.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "Meanwhile, prepare the floral salsa by combining chopped herbs with a squeeze of lemon juice.",
+    "Serve grilled skewers with floral salsa on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skewers",
+    "grilled",
+    "floral",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:46:02.554Z"
+}
