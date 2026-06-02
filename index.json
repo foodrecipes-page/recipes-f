@@ -3392,16 +3392,15 @@
   },
   {
     "slug": "fermented-mexican-cabbage-quesadilla",
-    "title": "Fermented Mexican Cabbage Quesadilla",
+    "title": "Cabbage Quesadilla Fritters",
     "tags": [
-      "cabbage",
-      "fermented",
       "mexican",
       "quesadilla",
-      "vegan"
+      "fritters",
+      "snack"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 35,
+    "cuisine": "Mexican",
+    "totalTimeMin": 18,
     "shard": "f"
   },
   {
@@ -3509,16 +3508,14 @@
   },
   {
     "slug": "fermented-norwegian-applesauce-stew",
-    "title": "Fermented Norwegian Applesauce Stew",
+    "title": "Norwegian Stew with Applesauce",
     "tags": [
-      "fermented",
       "norwegian",
-      "vegetarian",
-      "applesauce",
-      "stew"
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 20,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 110,
     "shard": "f"
   },
   {
@@ -21126,6 +21123,19 @@
       "quick"
     ],
     "cuisine": "vegan",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-greek-yellow-pepper-flatbread--thai",
+    "title": "Spicy Thai Flatbread",
+    "tags": [
+      "snack",
+      "thai",
+      "spicy",
+      "flatbread"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "f"
   }
