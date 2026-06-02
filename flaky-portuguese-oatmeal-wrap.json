@@ -1,0 +1,91 @@
+{
+  "slug": "flaky-portuguese-oatmeal-wrap",
+  "title": "Portuguese Flaky Crusted Oatmeal Wrap",
+  "description": "A unique breakfast wrap recipe combining the crunch of flaky pastry with the warmth of oatmeal, perfect for a cozy morning.",
+  "cuisine": "portuguese",
+  "diet": [
+    "breakfast",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1/2 cup rolled",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together oatmeal, egg, milk, sugar, vanilla, and cinnamon.",
+    "Place the flaky pastry on a baking sheet.",
+    "Spread the oatmeal mixture evenly over the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up to create a crust.",
+    "Brush the crust with melted butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve in a wrap with your favorite fillings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "portuguese",
+    "oatmeal",
+    "wrap",
+    "flaky-pastry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-oatmeal-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:28:29.379Z"
+}
