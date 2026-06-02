@@ -1,0 +1,72 @@
+{
+  "slug": "fluffy-peppery-indian-strawberries-indian-dosa-wrap",
+  "title": "Strawberry Dosa Wrap",
+  "description": "A sweet and savory Indian-inspired breakfast dish made with a crispy dosa, fresh strawberries, and fluffy wrap.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup dosa batter",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1 large strawberry",
+      "amount": "sliced",
+      "notes": "fresh"
+    },
+    {
+      "name": "1 fluffy wrap",
+      "amount": "1",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "1 tablespoon ghee or oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing dosa"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Brush the dosa batter with ghee or oil to prevent sticking.",
+    "Cook the dosa for 1-2 minutes on each side, until crispy and golden brown.",
+    "Meanwhile, toast the fluffy wrap in the same skillet or griddle.",
+    "Assemble the wrap by placing the cooked dosa in the center, topped with sliced strawberries.",
+    "Drizzle with honey and sprinkle with cinnamon, if desired.",
+    "Roll the wrap tightly and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "indian",
+    "sweet",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-peppery-indian-strawberries-indian-dosa-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:52:04.333Z"
+}
