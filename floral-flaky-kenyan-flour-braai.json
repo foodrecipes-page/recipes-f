@@ -1,0 +1,74 @@
+{
+  "slug": "floral-flaky-kenyan-flour-braai",
+  "title": "Kenyan-Style Braai Chicken",
+  "description": "A flavorful Kenyan-inspired dish featuring braai-spiced chicken, paired with a delicate floral sauce. This dish is perfect for a quick dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan braai spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 pieces",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "floral honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together flour, Kenyan braai spice mix, salt, and black pepper.",
+    "Add chicken to the bowl and coat evenly with the spice mixture.",
+    "Place the chicken on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes or until cooked through.",
+    "Meanwhile, mix together floral honey and 1 tablespoon of water in a small bowl.",
+    "Brush the honey mixture over the chicken during the last 5 minutes of baking.",
+    "Serve the chicken with flaky pastry on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "braai",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-flaky-kenyan-flour-braai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:49:48.886Z"
+}
