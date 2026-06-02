@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-norwegian-applesauce-stew",
+  "title": "Norwegian Stew with Applesauce",
+  "description": "A hearty and comforting stew made with Norwegian meat and a hint of sweetness from applesauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/4 cup",
+      "notes": "adds sweetness without added sugar"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fermented red cabbage",
+      "amount": "1 cup",
+      "notes": "adds a tangy flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, carrot, and potato; cook until the vegetables are tender, about 10 minutes.",
+    "Add beef broth, applesauce, and fermented red cabbage; stir to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-norwegian-applesauce-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:41:08.801Z"
+}
