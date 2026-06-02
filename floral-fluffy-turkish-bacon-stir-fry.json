@@ -1,0 +1,67 @@
+{
+  "slug": "floral-fluffy-turkish-bacon-stir-fry",
+  "title": "Turkish-Style Bacon Stir Fry",
+  "description": "A quick and savory stir fry dish made with crispy bacon and turkish spices. Serve with fluffy rice or noodles for a satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut, crispy"
+    },
+    {
+      "name": "Floral oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 teaspoon",
+      "notes": "dried oregano and thyme mix"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 cup",
+      "notes": "mixed colorful bell peppers"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked, for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the bacon in a large skillet over medium-high heat until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the floral oil to the skillet and sauté the fry until tender.",
+    "Add the turkish spices to the skillet and stir to combine.",
+    "Return the bacon to the skillet and stir to combine.",
+    "Serve the stir fry over fluffy rice or noodles.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "bacon",
+    "easy-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fluffy-turkish-bacon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:50:37.596Z"
+}
