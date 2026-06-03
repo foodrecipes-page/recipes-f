@@ -1,0 +1,83 @@
+{
+  "slug": "fluffy-fermented-ethiopian-sirloin-stew",
+  "title": "Ethiopian Stew with Sirloin",
+  "description": "A hearty and flavorful stew made with sirloin, ethiopian spices, and fluffy bread on the side.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "fluffy",
+      "amount": "4 cups",
+      "notes": "Bread for serving"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "Canned or homemade"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "2 teaspoons",
+      "notes": "Berbere spice mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "For stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sirloin cubes and cook until browned, about 5 minutes.",
+    "Remove the sirloin from the pot and set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened.",
+    "Add the stew, ethiopian spice mix, and water to the pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Return the sirloin to the pot and cook for an additional 10 minutes.",
+    "Serve with fluffy bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fermented-ethiopian-sirloin-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:17:49.643Z"
+}
