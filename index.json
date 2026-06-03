@@ -9982,17 +9982,15 @@
   },
   {
     "slug": "flavorful-mediterranean-fish-pilaf",
-    "title": "Flavorful Mediterranean Fish Pilaf",
+    "title": "Mediterranean Baked Fish with Pilaf",
     "tags": [
+      "mediterranean",
       "fish",
       "healthy",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "quick-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -12178,16 +12176,15 @@
   },
   {
     "slug": "floral-light-italian-kidney-beans-soup",
-    "title": "Floral Light Italian Kidney Bean Soup",
+    "title": "Kidney Bean Italian Soup",
     "tags": [
-      "kid-friendly",
-      "dairy-free",
-      "vegan",
-      "quick",
-      "soups"
+      "italian",
+      "soup",
+      "kidney-beans",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -13511,10 +13508,15 @@
   },
   {
     "slug": "fluffy-fermented-ethiopian-sirloin-stew",
-    "title": "Fluffy Fermented Ethiopian Sirloin Stew",
-    "tags": [],
+    "title": "Ethiopian Stew with Sirloin",
+    "tags": [
+      "ethiopian",
+      "stew",
+      "beef",
+      "comfort-food"
+    ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": null,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -21131,6 +21133,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-fatty-thai-beef-fillet-pa-tong-ko--thai",
+    "title": "Thai Beef Fillet with Fluffy Sauce",
+    "tags": [
+      "beef",
+      "thaicuisine",
+      "fillet",
+      "spicy",
+      "sauce"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-ayurvedic-middle-eastern-red-rice-pilaf--vegan",
+    "title": "Middle Eastern Vegan Pilaf",
+    "tags": [
+      "vegan",
+      "pilaf",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
