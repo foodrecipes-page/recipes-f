@@ -1,0 +1,87 @@
+{
+  "slug": "flavorful-mediterranean-fish-pilaf",
+  "title": "Mediterranean Baked Fish with Pilaf",
+  "description": "A flavorful and healthy Mediterranean-inspired dish featuring baked fish and a side of pilaf. Perfect for a quick and delicious dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Flavorful Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with salt and black pepper.",
+    "In a small bowl, mix together oregano, garlic, and lemon juice.",
+    "Place the cod fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the oregano-garlic-lemon mixture over the fish.",
+    "Sprinkle crumbled feta cheese over the fish.",
+    "Drizzle olive oil over the fish.",
+    "Bake in the preheated oven for 12-15 minutes, or until cooked through.",
+    "Serve with cooked pilaf and garnish with additional oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "fish",
+    "healthy",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-mediterranean-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:44:06.163Z"
+}
