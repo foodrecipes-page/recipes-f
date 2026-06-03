@@ -1,0 +1,72 @@
+{
+  "slug": "floral-dense-ethiopian-cabbage-stew",
+  "title": "Ethiopian Stew with Cabbage and Floral Flavors",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with tender cabbage and fragrant floral notes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 medium heads, chopped"
+    },
+    {
+      "name": "Ethiopian stew spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "1 can, diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped cabbage and cook until tender, about 10 minutes.",
+    "Add the Ethiopian stew spice mix, floral honey, and diced tomatoes.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and let cook for 20 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional floral honey if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "cabbage",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-dense-ethiopian-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:37:10.513Z"
+}
