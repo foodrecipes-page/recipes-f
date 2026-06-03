@@ -1,0 +1,89 @@
+{
+  "slug": "fermented-tender-jamaican-dishes-pilaf",
+  "title": "Jamaican Pilaf Dishes",
+  "description": "A flavorful and aromatic Jamaican-inspired pilaf recipe, featuring tender chicken and a hint of fermented spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dishes pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tender coconut flakes",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "3. Add the onion and garlic to the skillet and cook until softened, about 3 minutes.",
+    "4. Stir in the Jamaican allspice and fermented soy sauce.",
+    "5. Add the pilaf mix to the skillet and cook for 1 minute.",
+    "6. Add the chicken broth to the skillet and bring to a boil.",
+    "7. Reduce the heat to low, cover, and simmer for 10-12 minutes.",
+    "8. Stir in the tender coconut flakes.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pilaf",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-jamaican-dishes-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:19:19.391Z"
+}
