@@ -1,0 +1,89 @@
+{
+  "slug": "flaky-mexican-pork-stir-fry",
+  "title": "Carnitas Tacos",
+  "description": "A flavorful Mexican dish made by slow-cooking pork shoulder in its own lard, then crisping it up for a crispy taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork shoulder with cumin, chili powder, and salt.",
+    "In a large Dutch oven, heat 2 tablespoons of lard over medium heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the pork to the preheated oven and braise for 2 hours, or until tender.",
+    "Shred the pork with two forks and stir in orange and lime juice.",
+    "Heat the remaining 2 tablespoons of lard in a large skillet over medium-high heat.",
+    "Add the shredded pork and cook until crispy, about 5 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the crispy pork onto a tortilla and topping with sliced radishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "carnitas",
+    "slow-cooked"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-mexican-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:35:48.289Z"
+}
