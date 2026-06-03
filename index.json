@@ -3234,10 +3234,15 @@
   },
   {
     "slug": "fermented-light-brazilian-pak-choi-soup",
-    "title": "Fermented Light Brazilian Pak Choi Soup",
-    "tags": [],
+    "title": "Fermented Pak Choi Soup",
+    "tags": [
+      "fermented",
+      "light",
+      "brazilian",
+      "soup"
+    ],
     "cuisine": "Brazilian",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -4066,18 +4071,14 @@
   },
   {
     "slug": "fermented-tender-jamaican-dishes-pilaf",
-    "title": "Fermented Jamaican Pilaf",
+    "title": "Jamaican Pilaf Dishes",
     "tags": [
-      "dinner",
-      "fermented",
-      "gluten-free",
       "jamaican",
-      "main-course",
-      "romantic",
-      "sugar-free"
+      "pilaf",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -5969,18 +5970,15 @@
   },
   {
     "slug": "fiery-spicy-tunisian-lamb-tagine",
-    "title": "Fiery Spicy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "gluten-free",
       "lamb",
-      "low-carb",
-      "meal-prep",
+      "tagine",
       "north-african",
-      "one-pot",
       "spicy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "f"
   },
   {
@@ -11446,18 +11444,15 @@
   },
   {
     "slug": "floral-dense-ethiopian-cabbage-stew",
-    "title": "Floral Dense Ethiopian Cabbage Stew",
+    "title": "Ethiopian Stew with Cabbage and Floral Flavors",
     "tags": [
       "ethiopian",
-      "floral",
-      "dense",
-      "hangover-cure",
-      "egg-free",
-      "vegan",
-      "vegetarian"
+      "stew",
+      "cabbage",
+      "floral"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -16916,16 +16911,14 @@
   },
   {
     "slug": "french-flaky-kissed-bread-galette",
-    "title": "French Flaky Kissed Bread Galette",
+    "title": "French Flaky Galette Bread",
     "tags": [
-      "baked-goods",
-      "breakfast",
-      "comfort-food",
-      "french-bread",
-      "lunch"
+      "homemade-bread",
+      "french-galette",
+      "flaky-crust"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
