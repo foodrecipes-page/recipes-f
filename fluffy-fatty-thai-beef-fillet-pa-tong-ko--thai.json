@@ -1,0 +1,78 @@
+{
+  "slug": "fluffy-fatty-thai-beef-fillet-pa-tong-ko--thai",
+  "title": "Thai Beef Fillet with Fluffy Sauce",
+  "description": "A flavorful and spicy Thai dish featuring tender beef fillet in a fluffy and savory sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "400g",
+      "notes": null
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "fatty",
+      "amount": "2 tbsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "thai",
+      "amount": "1 tsp",
+      "notes": "red curry paste"
+    },
+    {
+      "name": "pa",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "tong",
+      "amount": "1 tsp",
+      "notes": "grated ginger"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the beef fillet with salt and pepper.",
+    "3. Heat 1 tablespoon of oil in an oven-safe pan over medium-high heat.",
+    "4. Sear the beef fillet for 1-2 minutes on each side.",
+    "5. Transfer the pan to the preheated oven and cook for 12-15 minutes.",
+    "6. In a separate pan, heat the remaining 1 tablespoon of oil over medium heat.",
+    "7. Add the grated ginger and cook for 1 minute.",
+    "8. Stir in the red curry paste and cook for 1-2 minutes.",
+    "9. Add the coconut milk, fish sauce, and chicken broth.",
+    "10. Bring the sauce to a simmer and cook for 2-3 minutes.",
+    "11. Slice the cooked beef fillet into thin strips.",
+    "12. Serve the beef with the fluffy sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "thaicuisine",
+    "fillet",
+    "spicy",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fatty-thai-beef-fillet-pa-tong-ko--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:31:43.774Z"
+}
