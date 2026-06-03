@@ -8117,14 +8117,15 @@
   },
   {
     "slug": "flaky-mexican-pork-stir-fry",
-    "title": "Flaky Mexican Pork Stir-fry",
+    "title": "Carnitas Tacos",
     "tags": [
-      "flaky-pork",
-      "vietnamese-stir-fry",
-      "meal-prep"
+      "mexican",
+      "tacos",
+      "carnitas",
+      "slow-cooked"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 75,
+    "cuisine": "mexican",
+    "totalTimeMin": 135,
     "shard": "f"
   },
   {
@@ -15055,14 +15056,14 @@
   },
   {
     "slug": "fluffy-salty-greek-yogurt-salad",
-    "title": "Fluffy Salty Greek Yogurt Salad",
+    "title": "Greek Salad",
     "tags": [
-      "greek-yogurt",
-      "salty",
-      "fluffy",
-      "whole30"
+      "greek",
+      "salad",
+      "yogurt",
+      "lunch"
     ],
-    "cuisine": "American",
+    "cuisine": "Greek",
     "totalTimeMin": 10,
     "shard": "f"
   },
