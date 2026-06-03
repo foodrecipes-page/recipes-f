@@ -1,0 +1,95 @@
+{
+  "slug": "freshly-indulgent-italian-noodles-amatriciana--german",
+  "title": "German-Style Amatriciana Noodle Bake",
+  "description": "A German twist on the Italian classic, swapping out the usual spaghetti for noodles and adding a hearty German flair.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Italian Sausage",
+      "amount": "1 lb",
+      "notes": " casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the noodles according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the Italian sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the diced bacon to the skillet and cook until crispy.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "Add the chicken broth and heavy cream to the skillet, stirring to combine.",
+    "Bring the mixture to a simmer and let cook for 2-3 minutes or until slightly thickened.",
+    "Stir in the shredded Parmesan cheese until melted and smooth.",
+    "Add the cooked noodles to the skillet, tossing to combine with the sauce.",
+    "Transfer the noodle mixture to a baking dish and top with additional Parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes or until the top is golden brown and the casserole is hot and bubbly.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "italian-recipe",
+    "noodle-bake",
+    "sausage-recipe",
+    "cheesy-casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-indulgent-italian-noodles-amatriciana--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:11:08.562Z"
+}
