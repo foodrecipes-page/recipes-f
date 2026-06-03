@@ -21160,5 +21160,31 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "f"
+  },
+  {
+    "slug": "floral-light-italian-kidney-beans-soup--chinese",
+    "title": "Kung Pao Bean Soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "beans"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-indulgent-italian-noodles-amatriciana--german",
+    "title": "German-Style Amatriciana Noodle Bake",
+    "tags": [
+      "german-food",
+      "italian-recipe",
+      "noodle-bake",
+      "sausage-recipe",
+      "cheesy-casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "f"
   }
 ]
