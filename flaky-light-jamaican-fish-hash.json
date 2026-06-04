@@ -1,0 +1,80 @@
+{
+  "slug": "flaky-light-jamaican-fish-hash",
+  "title": "Jamaican Fish Cakes",
+  "description": "A delicious and flavorful Caribbean-inspired dish made with flaky fish, spices, and herbs, perfect for a quick and easy meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky fish",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "light hash",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "breading mix",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish into small pieces and place in a bowl.",
+    "2. Add the hash, jamaican seasoning, lime juice, salt, and pepper to the bowl with the fish. Mix well.",
+    "3. Beat the eggs in a separate bowl.",
+    "4. Dip each piece of fish into the eggs and then coat in the breading mix.",
+    "5. Heat a large skillet over medium heat.",
+    "6. Add a small amount of oil to the skillet.",
+    "7. Place the coated fish pieces in the skillet and cook for 3-4 minutes on each side.",
+    "8. Serve the fish cakes hot with your favorite sides, such as coleslaw or fries.",
+    "9. Garnish with chopped fresh herbs, such as parsley or cilantro.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "caribbean",
+    "seafood",
+    "easy meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-light-jamaican-fish-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:10:27.862Z"
+}
