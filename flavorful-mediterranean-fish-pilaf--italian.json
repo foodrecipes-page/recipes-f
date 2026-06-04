@@ -1,0 +1,84 @@
+{
+  "slug": "flavorful-mediterranean-fish-pilaf--italian",
+  "title": "Baked Mediterranean Cod with Pilaf",
+  "description": "A Mediterranean twist on traditional Italian cuisine, featuring baked cod and a flavorful pilaf side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Flavorful pilaf mix",
+      "amount": "1 cup",
+      "notes": "Follow package instructions"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Place cod fillets on the baking sheet and season with salt and pepper.",
+    "Drizzle olive oil over the cod and top with minced garlic.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "While the cod is baking, cook the flavorful pilaf mix according to package instructions.",
+    "Heat chicken broth in a saucepan over medium heat.",
+    "Add the chopped parsley to the saucepan and stir to combine.",
+    "To serve, place a cod fillet on top of a bed of pilaf and spoon some of the parsley-infused broth over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mediterranean",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-mediterranean-fish-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:13:32.913Z"
+}
