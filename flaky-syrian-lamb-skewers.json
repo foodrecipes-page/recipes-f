@@ -1,0 +1,63 @@
+{
+  "slug": "flaky-syrian-lamb-skewers",
+  "title": "Lamb Skewers with Middle Eastern Flair",
+  "description": "A flavorful and aromatic dish showcasing the beauty of grilled lamb skewers, seasoned with a blend of Middle Eastern spices and herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together flaky, syrian, and a pinch of black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly.",
+    "Thread the lamb onto the skewers, leaving a small space between each cube.",
+    "Brush the skewers with syrian and place on the grill.",
+    "Grill for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley and a side of your favorite Middle Eastern condiments."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grilled",
+    "middle-eastern",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-syrian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:16:35.673Z"
+}
