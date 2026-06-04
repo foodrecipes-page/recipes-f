@@ -1,0 +1,83 @@
+{
+  "slug": "fatty-adventurous-peruvian-dasima-kombu-bisque",
+  "title": "Kombu and Dasima Peruvian Seafood Soup",
+  "description": "A hearty and flavorful Peruvian-inspired seafood soup made with kombu, dasima, and other exotic ingredients. Perfect for adventurous eaters looking for a new culinary experience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kombu",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Dasima (Kombu Dried Kelp)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fatty Fish Fins (such as Halibut)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Peruvian Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fish Bouillon",
+      "amount": "4 cups"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse kombu and dasima, then soak them in water for at least 4 hours.",
+    "Drain kombu and dasima, then rehydrate them in 4 cups of fish bouillon.",
+    "Heat oil in a large pot over medium heat. Add the Peruvian red onion and sauté until translucent.",
+    "Add garlic, fish fins, and shrimp. Cook until the fish is opaque and the shrimp is pink.",
+    "Add white wine and tomato paste. Stir to combine.",
+    "Add the rehydrated kombu and dasima to the pot. Stir to combine.",
+    "Simmer the soup for 10 minutes, then serve hot garnished with parsley.",
+    "To serve, place a slice of fish or a shrimp on top of each bowl, then ladle the hot soup over the top.",
+    "Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-adventurous-peruvian-dasima-kombu-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:28:38.827Z"
+}
