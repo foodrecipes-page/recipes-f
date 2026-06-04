@@ -1,0 +1,57 @@
+{
+  "slug": "floral-fluffy-turkish-bacon-stir-fry--french",
+  "title": "French-Style Fluffy Pancakes",
+  "description": "Delicate French-inspired pancakes made with fluffy ingredient.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "floral",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together floral and fluffy.",
+    "2. In a separate bowl, whisk together turkish and eggs.",
+    "3. Heat a non-stick pan over medium heat.",
+    "4. Add bacon slices and cook until crispy.",
+    "5. Add the floral mixture and cook until bubbles appear.",
+    "6. Flip the pancakes and cook for another 2 minutes.",
+    "7. Serve the pancakes warm with crispy bacon.",
+    "8. Garnish with fresh herbs for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-pastry",
+    "french-bakery"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fluffy-turkish-bacon-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:14:37.355Z"
+}
