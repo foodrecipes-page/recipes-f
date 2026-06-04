@@ -1,0 +1,78 @@
+{
+  "slug": "flaky-jamaican-cherries-crumble--gluten-free",
+  "title": "Jamaican Cherry Crumble",
+  "description": "A gluten-free dessert that combines the sweetness of cherries with the spices of Jamaica, topped with a crumbly oat topping.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh or Frozen Cherries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Jerk Spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry Crust (gluten-free)",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cherries (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together cherries, Jamaican Jerk Spice, and sugar. Let it sit for 15 minutes.",
+    "Roll out the flaky pastry crust and place it in a 9-inch pie dish.",
+    "Fill the pastry crust with the cherry mixture and spread it evenly.",
+    "Mix together almond flour, melted butter, and chopped fresh cherries (if using).",
+    "Spread the crumble topping evenly over the cherry filling.",
+    "Bake for 35-40 minutes or until the crust is golden brown and the filling is bubbly.",
+    "Let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "caribbean",
+    "jerk-spice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-jamaican-cherries-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:32:48.272Z"
+}
