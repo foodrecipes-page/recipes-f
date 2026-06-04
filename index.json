@@ -7873,15 +7873,15 @@
   },
   {
     "slug": "flaky-jamaican-cherries-crumble",
-    "title": "Flaky Jamaican Cherries Crumble",
+    "title": "Jamaican Cherry Crumble",
     "tags": [
       "jamaican",
-      "crumble",
       "cherry",
-      "tadka"
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 55,
     "shard": "f"
   },
   {
@@ -8016,17 +8016,15 @@
   },
   {
     "slug": "flaky-light-jamaican-fish-hash",
-    "title": "Flaky Light Jamaican Fish Hash",
+    "title": "Jamaican Fish Cakes",
     "tags": [
-      "jamaican-cuisine",
-      "lunch-ideas",
-      "one-pan",
-      "pescatarian",
-      "quick-meal",
-      "seafood"
+      "fish",
+      "caribbean",
+      "seafood",
+      "easy meal"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 23,
     "shard": "f"
   },
   {
@@ -18543,14 +18541,14 @@
   },
   {
     "slug": "fresh-korean-strawberry-stir-fry",
-    "title": "Fresh Korean Strawberry Stir-fry",
+    "title": "Korean Strawberry Stir Fry",
     "tags": [
-      "strawberry",
       "korean",
-      "paleo"
+      "stir-fry",
+      "strawberry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -19251,16 +19249,16 @@
   },
   {
     "slug": "freshly-delicate-moroccan-msemen",
-    "title": "Freshly Delicate Moroccan Msemen",
+    "title": "Moroccan Delicate Msemen",
     "tags": [
-      "festive-moroccan",
-      "harissa-enhanced",
-      "oignon-ruxe-dish",
-      "ovo-vegetarian-friendly",
-      "vegan-friendly"
+      "moroccan",
+      "delicate",
+      "msemen",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "f"
   },
   {
@@ -21192,6 +21190,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-italian-ricotta-tart--vegetarian",
+    "title": "Flaky Ricotta Tart",
+    "tags": [
+      "dessert",
+      "vegetarian",
+      "italian",
+      "tarts"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "f"
   }
 ]
