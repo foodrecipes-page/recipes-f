@@ -1,0 +1,70 @@
+{
+  "slug": "fluffy-greek-filo-pilaf",
+  "title": "Greek Pilaf Pie",
+  "description": "A crispy and savory pie filled with fluffy pilaf, perfect for a satisfying Greek meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "1 1/2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Greek pilaf mix",
+      "amount": "1 package",
+      "notes": "found in most grocery stores"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "add to pilaf for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw filo dough according to package instructions.",
+    "In a large bowl, combine cooked fluffy rice, Greek pilaf mix, and salt. Mix well.",
+    "Brush the bottom of a 9x13 inch baking dish with olive oil.",
+    "Place 1 sheet of filo dough in the baking dish, brushing with olive oil.",
+    "Repeat step 5 with remaining filo dough, brushing each sheet with olive oil.",
+    "Spoon the pilaf mixture into the baking dish, smoothing the top with a spatula.",
+    "Fold the filo dough over the pilaf, tucking the edges under the pie.",
+    "Brush the top of the pie with olive oil.",
+    "Bake for 30-40 minutes, or until the filo is golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pilaf",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-greek-filo-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:23:34.458Z"
+}
