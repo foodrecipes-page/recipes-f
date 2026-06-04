@@ -1,0 +1,56 @@
+{
+  "slug": "flourpot-pickle-delight",
+  "title": "Flourpot Pancakes",
+  "description": "A simple and delicious pancake recipe using flourpot, great for breakfast.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flourpot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "delight",
+      "amount": "1/2 cup",
+      "notes": "any variety"
+    },
+    {
+      "name": "1/4 cup pickle juice",
+      "amount": "1/4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flourpot and delight.",
+    "Add pickle juice if desired to create a tangy taste.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop spoonfuls of batter into the pan.",
+    "Cook until bubbles appear on the surface and edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes.",
+    "Serve hot with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "flourpot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flourpot-pickle-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:02:03.136Z"
+}
