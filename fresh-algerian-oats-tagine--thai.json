@@ -1,0 +1,95 @@
+{
+  "slug": "fresh-algerian-oats-tagine--thai",
+  "title": "Spicy Algerian Chicken Tagine",
+  "description": "A flavorful and aromatic Thai-inspired stew made with fresh ingredients and a hint of Algerian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "algerian spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "oats",
+      "amount": "1/4 cup",
+      "notes": "for thickening"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add ginger and cook until fragrant, about 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add spices, fish sauce, sugar, and red pepper flakes. Cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in oats and cook for an additional 5 minutes.",
+    "Season with cilantro and serve hot.",
+    "Serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaistyle",
+    "chicken",
+    "tagine",
+    "algerian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-algerian-oats-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:13:08.654Z"
+}
