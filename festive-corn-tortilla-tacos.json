@@ -1,0 +1,70 @@
+{
+  "slug": "festive-corn-tortilla-tacos",
+  "title": "Taco Fiesta",
+  "description": "A festive twist on traditional tacos, filled with crunchy corn and savory tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup, frozen"
+    },
+    {
+      "name": "tortilla",
+      "amount": "6-8, corn tortillas"
+    },
+    {
+      "name": "festival",
+      "amount": "2 tablespoons, taco seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "avocado (optional)",
+      "amount": "1, diced"
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook frozen corn according to package instructions.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Sprinkle taco seasoning on both sides of tortillas.",
+    "Assemble tacos by spooning cooked corn onto a tortilla, followed by any desired toppings.",
+    "Serve immediately and enjoy!",
+    "Optional: top with diced avocado and shredded cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "corn",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-corn-tortilla-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:20:16.813Z"
+}
