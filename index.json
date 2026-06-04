@@ -14381,15 +14381,14 @@
   },
   {
     "slug": "fluffy-lazy-sunday-herbal-stir-fry",
-    "title": "Fluffy Lazy Sunday Herbal Stir-fry",
+    "title": "Lazy Sunday Stir Fry",
     "tags": [
-      "fluffy-lazy-sunday",
-      "herbal-stir-fry",
-      "celery-salt",
-      "kosher-friendly"
+      "breakfast",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21273,6 +21272,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-herbal-dutch-chestnut-mushroom-stew--thai",
+    "title": "Thai-Style Chestnut Mushroom Stir Fry",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "stir-fry",
+      "mushrooms"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
     "shard": "f"
   }
 ]
