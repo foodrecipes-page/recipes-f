@@ -1,0 +1,85 @@
+{
+  "slug": "flaky-jamaican-cherries-crumble--vegetarian",
+  "title": "Cherry Jamaican Crumble",
+  "description": "A delicious vegetarian dessert featuring cherries and a crumbly topping with a hint of Jamaican spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "jamaican rum cake mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "flaky crust mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine cherries, rum cake mix, granulated sugar, and evaporated milk.",
+    "Mix well until cherries are evenly coated.",
+    "In a separate bowl, combine flour, cold unsalted butter, and flaky crust mix.",
+    "Use a pastry blender or your fingers to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "Pour the crumb mixture evenly over the cherry mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the filling is bubbly.",
+    "Let cool for 10-15 minutes before serving.",
+    "Serve warm with a scoop of vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cherry",
+    "jamaican",
+    "crumble",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-jamaican-cherries-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:09:57.293Z"
+}
