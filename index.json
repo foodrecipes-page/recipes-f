@@ -15193,18 +15193,15 @@
   },
   {
     "slug": "fluffy-slovakian-rice-pilaf",
-    "title": "Fluffy Slovakian Rice Pilaf",
+    "title": "Slovakian Fluffy Pilaf",
     "tags": [
       "slovakian",
-      "rice",
       "pilaf",
-      "herbal",
-      "post-workout",
-      "raw-friendly",
-      "sous-vide"
+      "side-dish",
+      "easy"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 27,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21183,6 +21180,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-mediterranean-fish-pilaf--italian",
+    "title": "Baked Mediterranean Cod with Pilaf",
+    "tags": [
+      "italian",
+      "mediterranean",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
