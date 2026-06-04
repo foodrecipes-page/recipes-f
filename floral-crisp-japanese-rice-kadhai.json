@@ -1,0 +1,73 @@
+{
+  "slug": "floral-crisp-japanese-rice-kadhai",
+  "title": "Japanese Kadhai Rice Bowl",
+  "description": "A flavorful and nutritious Japanese-inspired rice bowl dish made with kadhai-spiced chicken, crispy vegetables, and fragrant floral notes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "kadhai masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "floral sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cook the Japanese rice according to package instructions.",
+    "2. In a large skillet, heat 1 tablespoon of floral sesame oil over medium-high heat.",
+    "3. Add the chicken breast and cook until browned, about 5 minutes.",
+    "4. Add the kadhai masala and cook for an additional 1 minute.",
+    "5. Add the crisp lettuce and red bell pepper to the skillet and cook until the vegetables are tender.",
+    "6. To assemble the bowls, place a scoop of cooked rice in the bottom of a bowl.",
+    "7. Add the chicken and vegetable mixture on top of the rice.",
+    "8. Garnish with green onions and a drizzle of floral sesame oil.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "rice-bowl",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crisp-japanese-rice-kadhai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:15:56.384Z"
+}
