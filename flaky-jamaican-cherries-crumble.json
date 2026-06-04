@@ -1,0 +1,85 @@
+{
+  "slug": "flaky-jamaican-cherries-crumble",
+  "title": "Jamaican Cherry Crumble",
+  "description": "A warm and comforting dessert featuring a rich jamaican-inspired cherry filling topped with a crunchy crumble.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 sheet (thawed)",
+      "notes": "puff pastry"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "oat mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine cherries, brown sugar, flour, cinnamon, and nutmeg. Let it sit for 15 minutes.",
+    "Roll out puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9x9 inch baking dish, trimming any excess pastry.",
+    "Pour the cherry mixture into the pastry-lined baking dish.",
+    "In a small bowl, mix together the crumble mixture. Spread the crumble mixture evenly over the filling.",
+    "Dot the top of the crumble with the melted butter.",
+    "Bake for 40-45 minutes or until the pastry is golden brown and the crumble is crispy.",
+    "Remove from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, topped with vanilla ice cream or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "cherry",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-jamaican-cherries-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:57:00.953Z"
+}
