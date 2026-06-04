@@ -1,0 +1,82 @@
+{
+  "slug": "flavorful-smoky-dutch-chicken-skewers",
+  "title": "Dutch Chicken Skewers",
+  "description": "A flavorful and easy-to-make dish featuring smoky Dutch chicken skewers, perfect for a quick dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Dutch seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together Dutch seasoning, smoked paprika, garlic powder, salt, and pepper.",
+    "Brush olive oil onto the chicken and sprinkle with the spice mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "chicken",
+    "skewers",
+    "smoky",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-smoky-dutch-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:29:20.255Z"
+}
