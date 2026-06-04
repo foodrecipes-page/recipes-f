@@ -1,0 +1,62 @@
+{
+  "slug": "fluffy-slovakian-rice-pilaf",
+  "title": "Slovakian Fluffy Pilaf",
+  "description": "A classic Slovakian dish made with fluffy rice and pilaf. It's an easy to make and flavorful side dish perfect for any occasion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 cup",
+      "notes": "slovakian pilaf"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the fluffy rice and slovakian pilaf and stir until well combined.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan and simmer for 18-20 minutes.",
+    "Remove the saucepan from the heat and let it sit for 5-10 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "pilaf",
+    "side-dish",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 55,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-slovakian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:24:57.155Z"
+}
