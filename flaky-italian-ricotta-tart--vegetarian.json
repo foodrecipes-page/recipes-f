@@ -1,0 +1,71 @@
+{
+  "slug": "flaky-italian-ricotta-tart--vegetarian",
+  "title": "Flaky Ricotta Tart",
+  "description": "A delicious vegetarian dessert featuring a flaky crust and creamy ricotta filling.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to fit a 9-inch tart pan.",
+    "In a medium bowl, whisk together the ricotta cheese, granulated sugar, eggs, and vanilla extract.",
+    "Pour the ricotta mixture into the pastry-lined tart pan.",
+    "Bake the tart for 35-40 minutes, or until the edges are golden brown.",
+    "Dust the tart with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "italian",
+    "tarts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-italian-ricotta-tart--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:28:22.066Z"
+}
