@@ -1,0 +1,86 @@
+{
+  "slug": "fresh-korean-strawberry-stir-fry",
+  "title": "Korean Strawberry Stir Fry",
+  "description": "A sweet and spicy stir fry made with fresh strawberries and Korean chili flakes, served with a side of savory rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add strawberries and stir-fry for 2-3 minutes, until they start to soften.",
+    "Add Korean chili flakes, soy sauce, and brown sugar. Stir-fry for 1 minute.",
+    "Add rice to the skillet and stir-fry for 2-3 minutes, until the rice is well coated with the sauce.",
+    "Transfer the rice mixture to a serving platter.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "strawberry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-korean-strawberry-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:19:46.883Z"
+}
