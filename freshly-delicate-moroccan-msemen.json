@@ -1,0 +1,87 @@
+{
+  "slug": "freshly-delicate-moroccan-msemen",
+  "title": "Moroccan Delicate Msemen",
+  "description": "A traditional Moroccan msemen recipe with a delicate twist, perfect for a quick breakfast or snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "msemem dough",
+      "amount": "2 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Brush the msemen dough with olive oil.",
+    "Cook the msemen for 2-3 minutes on each side, until crispy and golden brown.",
+    "In a separate pan, heat some oil over medium heat.",
+    "Add the chopped onions and cook until translucent.",
+    "Add the minced garlic, ground cumin, and ground coriander. Cook for 1 minute.",
+    "Season with salt to taste.",
+    "Flatten the cooked msemen and top with the onion and spice mixture.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "delicate",
+    "msemen",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-delicate-moroccan-msemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:20:50.347Z"
+}
