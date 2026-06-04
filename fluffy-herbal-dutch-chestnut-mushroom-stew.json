@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-herbal-dutch-chestnut-mushroom-stew",
+  "title": "Creamy Mushroom Stew",
+  "description": "A hearty, comforting stew made with sautéed mushrooms in a rich and creamy sauce. Perfect for a chilly evening.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "sliced and separated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/4 cup",
+      "notes": "dried, crushed"
+    },
+    {
+      "name": "chestnut",
+      "amount": "1/2 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the stew in a large saucepan over medium heat.",
+    "Add the sliced fluffy and cook until tender, about 5 minutes.",
+    "Add the sliced mushroom and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the crushed dutch and cook for 1 minute.",
+    "Stir in the canned chestnut.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-herbal-dutch-chestnut-mushroom-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:21:10.869Z"
+}
