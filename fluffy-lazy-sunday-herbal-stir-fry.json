@@ -1,0 +1,65 @@
+{
+  "slug": "fluffy-lazy-sunday-herbal-stir-fry",
+  "title": "Lazy Sunday Stir Fry",
+  "description": "A simple and delicious stir fry recipe perfect for a relaxing Sunday morning. This dish combines herbal flavors with the comfort of a warm meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "lazy beans",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "sunday vegetables",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "herbal oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fry spices",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of herbal oil in a large skillet over medium-high heat.",
+    "Add the lazy beans and stir-fry for 2-3 minutes.",
+    "Add the sunday vegetables and stir-fry for another 2-3 minutes.",
+    "Add the fluffy rice to the skillet and stir-fry for 1 minute.",
+    "Add the fry spices and stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-lazy-sunday-herbal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:36:42.288Z"
+}
