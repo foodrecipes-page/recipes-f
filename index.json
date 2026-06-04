@@ -10942,14 +10942,15 @@
   },
   {
     "slug": "floral-crisp-japanese-rice-kadhai",
-    "title": "Floral-Crisp Japanese Rice Kadhai",
+    "title": "Japanese Kadhai Rice Bowl",
     "tags": [
-      "flower-dish",
-      "kabocha-friendly",
-      "sweet-rice"
+      "japanese",
+      "rice-bowl",
+      "chicken",
+      "vegetables"
     ],
-    "cuisine": "Japanese (Kyushu)",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21240,6 +21241,34 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-jamaican-cherries-crumble--vegetarian",
+    "title": "Cherry Jamaican Crumble",
+    "tags": [
+      "cherry",
+      "jamaican",
+      "crumble",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 60,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-algerian-oats-tagine--thai",
+    "title": "Spicy Algerian Chicken Tagine",
+    "tags": [
+      "thaistyle",
+      "chicken",
+      "tagine",
+      "algerian",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
