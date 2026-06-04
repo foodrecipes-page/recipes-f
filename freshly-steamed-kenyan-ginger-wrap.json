@@ -1,0 +1,84 @@
+{
+  "slug": "freshly-steamed-kenyan-ginger-wrap",
+  "title": "Kenyan Ginger Chicken Wrap",
+  "description": "A flavorful and spicy wrap filled with grilled chicken, steamed vegetables, and a hint of Kenyan ginger.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Kenyan ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "steamed vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and green beans"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together Kenyan ginger, salt, and pepper.",
+    "3. Rub the mixture all over the chicken breast.",
+    "4. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "5. Meanwhile, steam the vegetables for 3-5 minutes, or until tender.",
+    "6. Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Slice the grilled chicken into thin strips.",
+    "8. Assemble the wrap by spreading some of the steamed vegetables on the wrap, followed by the grilled chicken, and finishing with a sprinkle of fresh cilantro.",
+    "9. Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "ginger",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-steamed-kenyan-ginger-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:27:38.353Z"
+}
