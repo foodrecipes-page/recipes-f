@@ -1,0 +1,74 @@
+{
+  "slug": "flaky-mexican-roast-german-sausages",
+  "title": "Authentic Bratwurst with Sautéed Onions and Bell Peppers",
+  "description": "A hearty German-inspired dish featuring juicy bratwurst sausages, sautéed onions, and bell peppers, served with a side of crusty bread.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-ovo",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Bring a large pot of water to a boil, then blanch the bratwurst sausages for 5 minutes.",
+    "Remove the sausages from the water and place them on a baking sheet lined with parchment paper.",
+    "Roast the sausages in the preheated oven for 10-12 minutes, or until cooked through.",
+    "While the sausages are cooking, heat a large skillet over medium-high heat.",
+    "Add the sliced onions and bell peppers to the skillet and sauté until tender, about 8-10 minutes.",
+    "Add the cooked bratwurst sausages to the skillet and stir to combine with the onions and bell peppers.",
+    "Season with salt and black pepper to taste.",
+    "Serve the bratwurst mixture on a bed of flaky pastry, cut into slices.",
+    "Garnish with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "sausages",
+    "onions",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-mexican-roast-german-sausages",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:24:20.441Z"
+}
