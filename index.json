@@ -7984,17 +7984,15 @@
   },
   {
     "slug": "flaky-korean-peas-skillet",
-    "title": "Flaky Korean Peas Skillet",
+    "title": "Pan-Seared Flaky Fish with Korean Peas",
     "tags": [
-      "cast-iron",
-      "flaky",
-      "korean-food",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight"
+      "fish",
+      "korean",
+      "peas",
+      "skillet"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -17113,10 +17111,14 @@
   },
   {
     "slug": "fresh-chewy-portuguese-rigatoni-pasta",
-    "title": "Fresh Chewy Portuguese Rigatoni Pasta",
-    "tags": [],
+    "title": "Classic Portuguese Pasta",
+    "tags": [
+      "pasta",
+      "portuguese-cuisine",
+      "sausage"
+    ],
     "cuisine": "Portuguese",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
