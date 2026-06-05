@@ -8134,15 +8134,16 @@
   },
   {
     "slug": "flaky-mexican-roast-german-sausages",
-    "title": "Flaky Mexican Roast German Sausages",
+    "title": "Authentic Bratwurst with Sautéed Onions and Bell Peppers",
     "tags": [
-      "flaky",
-      "herbal",
-      "mexican",
-      "german-sausages"
+      "german",
+      "bratwurst",
+      "sausages",
+      "onions",
+      "bell-peppers"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -17252,19 +17253,15 @@
   },
   {
     "slug": "fresh-crispy-algerian-ham-tagine",
-    "title": "Fresh Crispy Algerian Ham Tagine",
+    "title": "Algerian-Style Ham Tagine",
     "tags": [
       "algerian",
-      "mediterranean",
-      "date-night",
-      "ham",
       "tagine",
-      "crispy",
-      "pastry",
-      "gluten-free"
+      "ham",
+      "couscous"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -21290,6 +21287,45 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-chewy-portuguese-rigatoni-pasta--gluten-free",
+    "title": "Portuguese Pasta with Rigatoni",
+    "tags": [
+      "portuguese",
+      "gluten-free",
+      "pasta"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-chewy-portuguese-rigatoni-pasta--vegan",
+    "title": "Portuguese Pasta Bake",
+    "tags": [
+      "portuguese",
+      "vegan",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-uruguayan-lamb-grill--thai",
+    "title": "Grilled Lamb Satay",
+    "tags": [
+      "grill",
+      "lamb",
+      "thai",
+      "satay",
+      "peanut-sauce"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
