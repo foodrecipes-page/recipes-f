@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-tender-bread-crumble",
+  "title": "Fermented Tender Crumble Bread",
+  "description": "A unique bread recipe that combines the flavors of fermented bread with tender crumble toppings.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fermented Bread Crumbs",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tender Crumble Topping",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, combine fermented bread crumbs, tender crumble topping, cinnamon, sugar, and brown sugar.",
+    "Mix well until combined.",
+    "Add butter and mix until crumbly.",
+    "Beat in eggs until well combined.",
+    "Pour mixture into a greased 8x8 inch baking dish.",
+    "Bake for 35-40 minutes, or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "bread",
+    "crumble",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-bread-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:06:52.210Z"
+}
