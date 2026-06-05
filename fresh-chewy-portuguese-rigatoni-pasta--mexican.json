@@ -1,0 +1,94 @@
+{
+  "slug": "fresh-chewy-portuguese-rigatoni-pasta--mexican",
+  "title": "Mexican Rigatoni Bake",
+  "description": "A twist on the classic pasta bake, this Mexican Rigatoni Bake combines the flavors of the southwest with the comfort of a warm casserole.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "chewy cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "portuguese sausage, casings removed",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the rigatoni pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the portuguese sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, cumin, chili powder, salt, and pepper to the skillet and cook until the onion is translucent.",
+    "Stir in the black beans, cooked pasta, and shredded cheese. Cook until the cheese is melted and the mixture is well combined.",
+    "Transfer the pasta mixture to a 9x13-inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "cheese",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-portuguese-rigatoni-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:31:11.366Z"
+}
