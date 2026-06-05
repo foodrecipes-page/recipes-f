@@ -1,0 +1,89 @@
+{
+  "slug": "fresh-chewy-portuguese-rigatoni-pasta--gluten-free",
+  "title": "Portuguese Pasta with Rigatoni",
+  "description": "A gluten-free twist on traditional pasta dishes, featuring chewy rigatoni and fresh portuguese flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rigatoni pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the rigatoni pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the sliced Portuguese sausage and cook until browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the cherry tomatoes to the skillet and cook for 3-4 minutes, until they start to release their juices.",
+    "Add the cooked rigatoni pasta to the skillet, tossing to combine with the sausage and tomato mixture.",
+    "Season with salt and pepper to taste.",
+    "Toss in the chopped fresh basil, parsley, and oregano.",
+    "If the pasta seems dry, add a little of the reserved pasta water to loosen the sauce.",
+    "Serve hot and enjoy!",
+    "Garnish with additional fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "gluten-free",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-portuguese-rigatoni-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:52:52.886Z"
+}
