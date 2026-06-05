@@ -1,0 +1,79 @@
+{
+  "slug": "fresh-chewy-portuguese-rigatoni-pasta",
+  "title": "Classic Portuguese Pasta",
+  "description": "A simple yet flavorful pasta dish inspired by traditional Portuguese cuisine. Fresh rigatoni is tossed in a savory sauce made with chewy Portuguese sausage, herbs, and spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rigatoni pasta",
+      "amount": "12 oz",
+      "notes": "Fresh rigatoni pasta"
+    },
+    {
+      "name": "Portuguese sausage",
+      "amount": "1 lb",
+      "notes": "Chewy Portuguese sausage"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook rigatoni pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add Portuguese sausage and cook until browned, breaking up with a spoon as it cooks.",
+    "Add garlic and cook for 1 minute.",
+    "Add cooked rigatoni pasta to the skillet, tossing to combine with sausage and garlic.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "portuguese-cuisine",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-portuguese-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:13:28.316Z"
+}
