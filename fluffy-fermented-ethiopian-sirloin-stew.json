@@ -1,7 +1,7 @@
 {
   "slug": "fluffy-fermented-ethiopian-sirloin-stew",
-  "title": "Ethiopian Stew with Sirloin",
-  "description": "A hearty and flavorful stew made with sirloin, ethiopian spices, and fluffy bread on the side.",
+  "title": "Ethiopian Sirloin Stew",
+  "description": "A flavorful and spicy Ethiopian-inspired stew made with sirloin and a variety of spices. This hearty dish is perfect for a chilly evening.",
   "cuisine": "Ethiopian",
   "diet": [
     "meat"
@@ -9,75 +9,83 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "sirloin",
+      "name": "Sirloin",
       "amount": "1 pound",
-      "notes": "Cut into 1-inch cubes"
+      "notes": ""
     },
     {
-      "name": "fluffy",
-      "amount": "4 cups",
-      "notes": "Bread for serving"
+      "name": "Fermented",
+      "amount": "2 tablespoons berbere spice mix",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 tablespoons niter kibbeh or vegetable oil",
+      "notes": ""
     },
     {
       "name": "stew",
-      "amount": "2 cups",
-      "notes": "Canned or homemade"
-    },
-    {
-      "name": "ethiopian",
-      "amount": "2 teaspoons",
-      "notes": "Berbere spice mix"
+      "amount": "2 cups beef broth",
+      "notes": ""
     },
     {
       "name": "onion",
-      "amount": "1 large",
-      "notes": "Chopped"
+      "amount": "1 medium",
+      "notes": ""
     },
     {
       "name": "garlic",
       "amount": "3 cloves",
-      "notes": "Minced"
+      "notes": ""
     },
     {
-      "name": "oil",
-      "amount": "2 tablespoons",
-      "notes": "Vegetable oil"
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
     },
     {
-      "name": "water",
-      "amount": "2 cups",
-      "notes": "For stew"
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups chopped fresh cilantro (optional)",
+      "notes": "for garnish"
     }
   ],
   "instructions": [
-    "Heat oil in a large Dutch oven over medium-high heat.",
-    "Add the sirloin cubes and cook until browned, about 5 minutes.",
-    "Remove the sirloin from the pot and set aside.",
-    "Add more oil if needed, then sauté the onion and garlic until softened.",
-    "Add the stew, ethiopian spice mix, and water to the pot.",
-    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
-    "Return the sirloin to the pot and cook for an additional 10 minutes.",
-    "Serve with fluffy bread on the side."
+    "Heat oil in a large pot over medium-high heat.",
+    "Add sirloin and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add berbere spice mix and cook for 1 minute, stirring constantly.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add beef broth and bring to a boil.",
+    "Return sirloin to pot and reduce heat to low.",
+    "Simmer, covered, until sirloin is cooked through and vegetables are tender, about 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Garnish with cilantro, if desired.",
+    "Serve hot over rice or with injera bread."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 30,
-  "totalTimeMin": 50,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "ethiopian",
     "stew",
     "beef",
-    "comfort-food"
+    "spicy"
   ],
   "nutrition": {
-    "calories": 550,
-    "protein": 45,
-    "carbs": 30,
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
     "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fermented-ethiopian-sirloin-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-06-01T05:17:49.643Z"
+  "createdAt": "2026-06-02T10:29:49.075Z"
 }
