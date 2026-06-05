@@ -1,0 +1,74 @@
+{
+  "slug": "floral-chewy-comforting-algerian-khus-khus-crumble",
+  "title": "Khus Khus Crumble",
+  "description": "A simple Algerian dessert featuring the unique flavor of khus khus. This crumble is a comforting treat perfect for any occasion.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Khus Khus",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Floral Honey",
+      "amount": "1/4 cup",
+      "notes": "pure"
+    },
+    {
+      "name": "Chewy Oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1/2 cup",
+      "notes": "homemade (recipe below)"
+    },
+    {
+      "name": "Comforting Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix roasted khus khus, sugar, and floral honey until well combined.",
+    "Add chewy oats and mix until crumbly.",
+    "Transfer the mixture to a baking dish and set aside.",
+    "Prepare crumble topping by mixing together crumble mix, comforting butter, and a pinch of salt.",
+    "Spread the crumble topping evenly over the khus khus mixture.",
+    "Bake in the preheated oven for 35-40 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dessert",
+    "khus-khus",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-comforting-algerian-khus-khus-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:15:27.485Z"
+}
