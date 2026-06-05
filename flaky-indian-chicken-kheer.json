@@ -1,0 +1,102 @@
+{
+  "slug": "flaky-indian-chicken-kheer",
+  "title": "Chicken Kheer Paratha",
+  "description": "A flaky Indian flatbread filled with spiced chicken and sweet kheer filling, perfect for breakfast or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for kheer"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "for kheer"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 teaspoon",
+      "notes": "for kheer"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and ghee in a bowl. Gradually add water and knead a dough.",
+    "Rest the dough for 30 minutes.",
+    "Heat oil in a pan and sauté onion, ginger, and chicken until cooked.",
+    "Add garam masala and mix well.",
+    "Knead the dough again and divide it into 4-6 equal portions.",
+    "Roll out each portion into a thin circle.",
+    "Place a tablespoon of the chicken mixture in the center of each circle.",
+    "Fold the dough to form a triangle or square shape and press the edges to seal.",
+    "Heat a non-stick pan and brush with ghee.",
+    "Cook the paratha for 1-2 minutes on each side or until golden brown.",
+    "Meanwhile, heat milk in a saucepan and add sugar, cardamom powder, and a pinch of salt.",
+    "Bring the mixture to a boil and simmer for 5 minutes.",
+    "The kheer is ready when it thickens slightly and the flavors meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "breakfast",
+    "paratha",
+    "kheer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-indian-chicken-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:02:05.637Z"
+}
