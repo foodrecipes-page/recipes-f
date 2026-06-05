@@ -1,0 +1,83 @@
+{
+  "slug": "flaky-citrusy-argentinian-chicken-empanadas--japanese",
+  "title": "Chicken Empanada Teriyaki",
+  "description": "A Japanese twist on traditional empanadas, featuring chicken and a sweet teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "argentinian chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "or make your own with parsley, oregano, garlic, and red pepper flakes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium soy sauce for a healthier option"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional, for a sweeter teriyaki sauce"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a small amount of chicken in the center of each dough circle.",
+    "Drizzle a small amount of chimichurri sauce over the chicken.",
+    "Fold the dough in half to form a half-circle, and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of water, then sprinkle with sesame seeds (if using).",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "While the empanadas are baking, mix together the soy sauce and brown sugar (if using) in a small bowl.",
+    "Brush the teriyaki sauce over the empanadas during the last 5 minutes of baking.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "empanadas",
+    "chicken",
+    "teriyaki"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 23,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-citrusy-argentinian-chicken-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:32:16.403Z"
+}
