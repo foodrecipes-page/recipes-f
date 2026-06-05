@@ -1,0 +1,87 @@
+{
+  "slug": "flaky-indian-chicken-kheer--chinese",
+  "title": "Chicken Kheer Stir Fry",
+  "description": "A Chinese-inspired stir fry with tender chicken and creamy kheer. This recipe is a unique twist on traditional Chinese dishes, blending Indian flavors with a Chinese technique.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "kheer",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flaky pastry into 4 equal squares.",
+    "In a bowl, whisk together soy sauce, garlic, ginger, and cornstarch.",
+    "Add the chicken to the bowl and marinate for 15 minutes.",
+    "Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Transfer the chicken to the oven and bake for 10-12 minutes, or until cooked through.",
+    "While the chicken is baking, heat the remaining 1 tablespoon of vegetable oil in the skillet.",
+    "Add the kheer to the skillet and stir-fry until heated through, about 2-3 minutes.",
+    "Wrap each chicken breast in a square of flaky pastry and serve with the kheer stir-fry.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "kheer",
+    "indian-chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-indian-chicken-kheer--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:23:46.476Z"
+}
