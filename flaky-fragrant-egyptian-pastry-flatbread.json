@@ -1,0 +1,72 @@
+{
+  "slug": "flaky-fragrant-egyptian-pastry-flatbread",
+  "title": "Egyptian Pastry Flatbread",
+  "description": "A simple recipe for flaky Egyptian flatbread, perfect for breakfast or as a side.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Fragrant Filling (optional)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flatbread and cut into desired shape.",
+    "Brush with melted butter and sprinkle with salt.",
+    "Place on a baking sheet and bake for 10-12 minutes.",
+    "While the flatbread is baking, mix the filling ingredients (if using).",
+    "Once the flatbread is done, brush with additional melted butter and sprinkle with filling (if using).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "flatbread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fragrant-egyptian-pastry-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:35:28.200Z"
+}
