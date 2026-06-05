@@ -7140,17 +7140,14 @@
   },
   {
     "slug": "flaky-fragrant-egyptian-pastry-flatbread",
-    "title": "Flaky Fragrant Egyptian Pastry Flatbread",
+    "title": "Egyptian Pastry Flatbread",
     "tags": [
-      "brunch",
-      "flaky-pastry",
-      "garlicky",
-      "lacto-vegetarian",
-      "middle-eastern",
-      "yeast-dough"
+      "egyptian",
+      "flatbread",
+      "breakfast"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -13492,15 +13489,15 @@
   },
   {
     "slug": "fluffy-fermented-ethiopian-sirloin-stew",
-    "title": "Ethiopian Stew with Sirloin",
+    "title": "Ethiopian Sirloin Stew",
     "tags": [
       "ethiopian",
       "stew",
       "beef",
-      "comfort-food"
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 80,
     "shard": "f"
   },
   {
@@ -21346,6 +21343,31 @@
       "teriyaki"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-gooey-dumpling-soup--gluten-free",
+    "title": "Floral Dumpling Soup",
+    "tags": [
+      "gluten-free",
+      "soup",
+      "dinner"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-grilled-moroccan-lamb-kebabs--vegetarian",
+    "title": "Roasted Moroccan Vegetables",
+    "tags": [
+      "moroccan",
+      "vegetarian",
+      "roasted",
+      "veggies"
+    ],
+    "cuisine": "Moroccan",
     "totalTimeMin": 45,
     "shard": "f"
   }
