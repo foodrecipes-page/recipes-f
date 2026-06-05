@@ -1,0 +1,81 @@
+{
+  "slug": "fresh-crispy-ethiopian-spinach-dabo",
+  "title": "Ethiopian Dabo Stuffed with Spinach",
+  "description": "A traditional Ethiopian flatbread filled with a flavorful spinach mixture, perfect for a snack or light meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dabo (Ethiopian flatbread)",
+      "amount": "2-3 pieces",
+      "notes": "available at most international grocery stores or online"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 bunch",
+      "notes": "stems removed, chopped"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 tsp",
+      "notes": " berbere spice blend or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the dabo into squares and set aside.",
+    "In a pan over medium heat, sauté the chopped onions until crispy.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add chopped spinach to the pan and cook until wilted.",
+    "Stir in berbere spice blend and season with salt and pepper to taste.",
+    "Spoon the spinach mixture onto the center of each dabo square.",
+    "Fold the dabo squares in half to enclose the filling and press edges to seal.",
+    "Place the stuffed dabo on a baking sheet lined with parchment paper and bake for 12-15 minutes, or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "flatbread",
+    "spinach",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-ethiopian-spinach-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:07:48.977Z"
+}
