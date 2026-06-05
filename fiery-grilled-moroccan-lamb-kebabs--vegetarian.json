@@ -1,0 +1,96 @@
+{
+  "slug": "fiery-grilled-moroccan-lamb-kebabs--vegetarian",
+  "title": "Roasted Moroccan Vegetables",
+  "description": "A flavorful and colorful roasted vegetable dish inspired by the spices of Morocco, perfect for a vegetarian dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "red onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the sweet potatoes, red onions, red bell peppers, zucchini, and carrots into large chunks.",
+    "Place the vegetables in a large bowl and toss with olive oil, cumin, coriander, paprika, salt, and black pepper.",
+    "Spread the vegetables in a single layer on a large baking sheet.",
+    "Roast in the preheated oven for 30-40 minutes, or until the vegetables are tender and lightly caramelized.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "roasted",
+    "veggies"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-grilled-moroccan-lamb-kebabs--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:38:38.864Z"
+}
