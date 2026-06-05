@@ -4023,16 +4023,15 @@
   },
   {
     "slug": "fermented-tender-bread-crumble",
-    "title": "Fermented-Tender Bread Crumble",
+    "title": "Fermented Tender Crumble Bread",
     "tags": [
-      "fermented",
-      "tender",
-      "post-workout",
-      "ukrainian",
-      "plant-based-friendly"
+      "breakfast",
+      "bread",
+      "crumble",
+      "fermented"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -21322,6 +21321,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-indian-chicken-kheer--chinese",
+    "title": "Chicken Kheer Stir Fry",
+    "tags": [
+      "chicken",
+      "stir-fry",
+      "kheer",
+      "indian-chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-citrusy-argentinian-chicken-empanadas--japanese",
+    "title": "Chicken Empanada Teriyaki",
+    "tags": [
+      "japanese",
+      "empanadas",
+      "chicken",
+      "teriyaki"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
     "shard": "f"
   }
 ]
