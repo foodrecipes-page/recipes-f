@@ -1,0 +1,79 @@
+{
+  "slug": "flaky-korean-peas-skillet",
+  "title": "Pan-Seared Flaky Fish with Korean Peas",
+  "description": "A simple and flavorful dish featuring flaky fish, crispy skillet-cooked peas, and a hint of Korean spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Fish (Cod)",
+      "amount": "4 pieces (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Korean Peas",
+      "amount": "1 cup (frozen)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking peas"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Heat 1 tbsp of vegetable oil in a skillet over medium-high heat. Add the fish and cook for 2-3 minutes per side, or until cooked through.",
+    "Transfer the fish to a baking sheet and bake in the oven for an additional 5-7 minutes.",
+    "In a separate skillet, heat the remaining 1 tbsp of vegetable oil over medium heat.",
+    "Add the frozen peas and cook, stirring occasionally, until they start to brown and crisp up.",
+    "In a small bowl, whisk together gochujang, soy sauce, and brown sugar.",
+    "Pour the sauce over the cooked peas and stir to combine.",
+    "Serve the fish with the Korean peas and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "korean",
+    "peas",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-korean-peas-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:04:53.892Z"
+}
