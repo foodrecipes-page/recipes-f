@@ -1,0 +1,83 @@
+{
+  "slug": "flaky-greek-beef-stir-fry",
+  "title": "Beef and Vegetable Stir Fry",
+  "description": "Quick and easy beef stir fry with a variety of vegetables and a hint of greek flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Flaky Pastry Dough (for Beef and Onion Pinwheels)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers (any color)",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fry Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season beef with salt and pepper. Cook in a skillet over medium-high heat until browned, about 3-4 minutes. Set aside.",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch. Cut into 4 equal rectangles.",
+    "In a bowl, mix together the Greek yogurt and stir-fry sauce. Spread a tablespoon of this mixture on each pastry rectangle, leaving a 1/2 inch border around the edges.",
+    "Arrange a few slices of beef on each pastry rectangle, followed by some sliced onions and bell peppers.",
+    "Fold the pastry in half to form a pinwheel shape and press the edges to seal.",
+    "Brush the tops of the pinwheels with a little bit of fry oil.",
+    "Bake the pinwheels in the preheated oven for 15-20 minutes, or until they're golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "greek",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-greek-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:26:59.207Z"
+}
