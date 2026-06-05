@@ -1,0 +1,94 @@
+{
+  "slug": "fresh-chewy-portuguese-rigatoni-pasta--vegan",
+  "title": "Portuguese Pasta Bake",
+  "description": "A vegan pasta bake inspired by traditional Portuguese flavors. This hearty dish combines chewy pasta with a flavorful tomato sauce, topped with melted vegan cheese.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegan mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the rigatoni pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the chopped fresh tomatoes, black beans, salt, and black pepper. Cook for 5-7 minutes, stirring occasionally.",
+    "In a large mixing bowl, combine the cooked pasta, tomato sauce mixture, and chopped parsley. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with shredded vegan mozzarella cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "vegan",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-portuguese-rigatoni-pasta--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:53:22.482Z"
+}
