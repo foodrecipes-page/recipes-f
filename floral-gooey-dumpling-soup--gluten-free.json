@@ -1,0 +1,82 @@
+{
+  "slug": "floral-gooey-dumpling-soup--gluten-free",
+  "title": "Floral Dumpling Soup",
+  "description": "A soothing gluten-free soup filled with floral flavors and soft dumplings.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Floral Dumpling Wrap",
+      "amount": "2",
+      "notes": "Use gluten-free wrap."
+    },
+    {
+      "name": "Dumpling Filling",
+      "amount": "1 cup",
+      "notes": "Use gluten-free ingredients."
+    },
+    {
+      "name": "Gooey Broth",
+      "amount": "4 cups",
+      "notes": "Simmer until gooey."
+    },
+    {
+      "name": "Floral Extract",
+      "amount": "1 tsp",
+      "notes": "Add to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add as needed."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add as needed."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Add for extra flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Mince and add to broth."
+    }
+  ],
+  "instructions": [
+    "1. Cut the dumpling wrap into squares for wrapping the dumplings.",
+    "2. Wrap the dumpling filling in the dumpling wrap squares.",
+    "3. Bring the gooey broth to a simmer in a large pot.",
+    "4. Add the floral extract and stir well.",
+    "5. Add the wrapped dumplings to the broth and cook until cooked through.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Add the minced garlic and ginger to the broth for extra flavor.",
+    "8. Serve the dumpling soup hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "soup",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-gooey-dumpling-soup--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:14:48.766Z"
+}
