@@ -1,0 +1,91 @@
+{
+  "slug": "fatty-uruguayan-lamb-grill--thai",
+  "title": "Grilled Lamb Satay",
+  "description": "A Thai-inspired dish featuring marinated lamb skewers grilled to perfection, served with a tangy peanut sauce. Perfect for a flavorful and refreshing meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": "Sliced, for marinade"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Peanuts, chopped",
+      "amount": "1/4 cup",
+      "notes": "For peanut sauce"
+    },
+    {
+      "name": "Palm sugar, grated",
+      "amount": "2 tablespoons",
+      "notes": "For peanut sauce"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tablespoon",
+      "notes": "For peanut sauce"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For peanut sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, fish sauce, brown sugar, and sliced chili peppers. Add the lamb and marinate for at least 2 hours, or overnight.",
+    "Preheat grill to medium-high heat. Thread marinated lamb onto skewers.",
+    "Brush grill with peanut oil to prevent sticking. Grill lamb skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, make the peanut sauce by blending peanuts, palm sugar, tamarind paste, and lime juice in a blender until smooth.",
+    "Serve grilled lamb skewers with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "lamb",
+    "thai",
+    "satay",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-uruguayan-lamb-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:14:25.671Z"
+}
