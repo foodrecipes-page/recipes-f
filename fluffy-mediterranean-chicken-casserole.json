@@ -1,0 +1,98 @@
+{
+  "slug": "fluffy-mediterranean-chicken-casserole",
+  "title": "Mediterranean Chicken Casserole",
+  "description": "A hearty and flavorful casserole filled with tender chicken, crispy vegetables, and a blend of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook fluffy rice according to package instructions.",
+    "Season chicken breast with salt, black pepper, and dried oregano.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Transfer chicken to a 9x13 inch baking dish.",
+    "Add cooked rice, cherry tomatoes, and red onion to the baking dish.",
+    "Stir in feta cheese and season with salt and black pepper.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "casserole",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-mediterranean-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:29:28.579Z"
+}
