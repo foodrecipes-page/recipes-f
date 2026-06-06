@@ -1,0 +1,81 @@
+{
+  "slug": "floral-velvety-brazilian-chicken-skewers--german",
+  "title": "Schnitzel Chicken Skewers",
+  "description": "A German-inspired dish of marinated chicken cooked on skewers and served with a side of tangy sauce.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "velvety barbecue sauce",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "brazilian chimichurri",
+      "amount": "100ml",
+      "notes": "optional"
+    },
+    {
+      "name": "floral honey",
+      "amount": "50ml",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a small bowl, mix together the olive oil, salt, and pepper.",
+    "3. Cut the chicken breast into 1-inch cubes and thread them onto the skewers, leaving a small space between each piece.",
+    "4. Brush the chicken with the olive oil mixture and season with salt and pepper.",
+    "5. Grill the chicken skewers for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "6. While the chicken is cooking, mix together the velvety barbecue sauce and brazilian chimichurri (if using) in a small bowl.",
+    "7. Once the chicken is cooked, brush it with the barbecue sauce mixture and grill for an additional 1-2 minutes.",
+    "8. Serve the chicken skewers hot, garnished with floral honey (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "skewers",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-brazilian-chicken-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:06:46.312Z"
+}
