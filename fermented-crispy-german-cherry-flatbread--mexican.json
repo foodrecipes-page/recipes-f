@@ -1,0 +1,84 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--mexican",
+  "title": "Cherry BBQ Chicken Tacos",
+  "description": "A twist on traditional tacos, featuring cherry BBQ sauce and crispy flatbread.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cherry BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Crispy flatbread",
+      "amount": "4-6 slices",
+      "notes": "found in most grocery stores or made from scratch"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sliced lime",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breasts with salt and pepper.",
+    "Bake chicken in the oven for 15-20 minutes or until cooked through.",
+    "While the chicken is cooking, warm the flatbread slices in the oven for 2-3 minutes.",
+    "In a small saucepan, heat the cherry BBQ sauce over medium heat.",
+    "Once the chicken is done, slice it into thin strips.",
+    "Assemble tacos by placing a few slices of chicken onto a warmed flatbread slice.",
+    "Top with sliced red onion, diced cilantro, sliced avocado, and a squeeze of lime juice.",
+    "Drizzle with cherry BBQ sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "bbq",
+    "chicken",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:06.780Z"
+}
