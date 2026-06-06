@@ -1,0 +1,82 @@
+{
+  "slug": "fatty-british-nectarines-crumble--mexican",
+  "title": "Nectarine Crumble",
+  "description": "A sweet Mexican-inspired dessert featuring a crunchy crumble topping and caramelized nectarines.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fatty",
+      "amount": "1/2 cup",
+      "notes": "cold and cubed"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine sliced nectarines, granulated sugar, and a pinch of salt. Let it sit for 15 minutes, until the nectarines release their juices.",
+    "In a separate bowl, combine flour, brown sugar, and baking powder. Add the cold fatty and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Transfer the nectarine mixture to a 9x9-inch baking dish and top with the crumble mixture.",
+    "Bake for 35-40 minutes, or until the crumble is golden brown and the nectarines are caramelized.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "crumble",
+    "nectarines"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-british-nectarines-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:29:19.701Z"
+}
