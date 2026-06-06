@@ -1,0 +1,79 @@
+{
+  "slug": "fresh-peruvian-wheat-roast",
+  "title": "Roast Chicken with Peruvian Spice and Fresh Roast Potatoes",
+  "description": "A flavorful and aromatic roast chicken dish infused with Peruvian spices, served with crispy roast potatoes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Peruvian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "roast potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Rinse the chicken and pat it dry with paper towels.",
+    "3. Mix the Peruvian spice blend with olive oil, garlic, and a pinch of salt and pepper. Rub the spice mixture all over the chicken.",
+    "4. Place the chicken in a roasting pan and put it in the oven.",
+    "5. Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "6. While the chicken is cooking, peel the roast potatoes and cut them into large chunks.",
+    "7. Toss the potatoes with olive oil, salt, and pepper, and spread them out in a single layer on a baking sheet.",
+    "8. Roast the potatoes in the oven for 20-25 minutes, or until they are golden brown and crispy.",
+    "9. Once the chicken is done, let it rest for 10-15 minutes before carving and serving with the roast potatoes.",
+    "10. Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "roast",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-peruvian-wheat-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:51:50.127Z"
+}
