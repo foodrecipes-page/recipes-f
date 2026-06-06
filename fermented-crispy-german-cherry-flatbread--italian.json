@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--italian",
+  "title": "Italian Flatbread with Cherry Toppings",
+  "description": "A sweet and savory flatbread topped with cherry compote and crispy prosciutto, perfect for a dessert or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flatbread and place on a baking sheet.",
+    "Spread the cherry jam evenly over the flatbread, leaving a 1/2-inch border around the edges.",
+    "Top the jam with fresh cherries.",
+    "Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy and the cherries are tender.",
+    "Meanwhile, cook the prosciutto in a pan over medium heat until crispy.",
+    "Remove the flatbread from the oven and top with crispy prosciutto and parmesan cheese.",
+    "Drizzle with balsamic vinegar and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "flatbread",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:25.601Z"
+}
