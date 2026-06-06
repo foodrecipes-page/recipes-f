@@ -1,0 +1,75 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--french",
+  "title": "French Cherry Tart",
+  "description": "A sweet and tangy tart made with cherry filling and a crispy pastry crust.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cherry",
+      "amount": "2 cups, fresh or frozen",
+      "notes": "any variety"
+    },
+    {
+      "name": "fermented",
+      "amount": "1/4 cup, crumbled blue cheese",
+      "notes": "optional"
+    },
+    {
+      "name": "german",
+      "amount": "1/2 cup, chopped marzipan",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp",
+      "notes": "extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out flatbread to 1/4-inch thickness.",
+    "Transfer dough to a 9-inch tart pan with a removable bottom.",
+    "Press dough into corners and up sides of pan.",
+    "In a bowl, mix together cherry filling ingredients (cherry, sugar, almond extract).",
+    "Pour cherry mixture into dough-lined pan.",
+    "If using blue cheese and marzipan, sprinkle on top of cherry mixture.",
+    "Bake for 35-40 minutes, or until crust is golden brown and filling is bubbly.",
+    "Remove from oven and let cool completely on a wire rack.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "cherry",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:11.539Z"
+}
