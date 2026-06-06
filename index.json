@@ -1608,15 +1608,15 @@
   },
   {
     "slug": "fermented-creamy-syrian-chestnut-tagine",
-    "title": "Fermented Creamy Syrian Chestnut Tagine",
+    "title": "Creamy Syrian Chestnut Tagine",
     "tags": [
-      "comfort-food",
-      "middle-eastern",
-      "roman-tic",
-      "vegan-friendly"
+      "creamy",
+      "tagine",
+      "chestnut",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -6768,13 +6768,13 @@
   },
   {
     "slug": "flaky-comforting-kenyan-ugali-pilaf",
-    "title": "Flaky Kenyan Ugali Pilaf",
+    "title": "Kenyan Stuffed Ugali",
     "tags": [
-      "comforting",
-      "dashi",
       "kenyan",
-      "pressure-cooker",
-      "yellow"
+      "ugali",
+      "pilaf",
+      "comforting",
+      "stuffed"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
@@ -10723,15 +10723,16 @@
   },
   {
     "slug": "floral-creamy-algerian-rosewater-baklava",
-    "title": "Floral Creamy Algerian Rosewater Baklava",
+    "title": "Rosewater Baklava with Floral Cream",
     "tags": [
-      "algerian-dessert",
-      "kids-friendly",
-      "flower-infused",
-      "butter-free"
+      "baklava",
+      "rosewater",
+      "floral",
+      "creamy",
+      "middle eastern"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -12630,17 +12631,15 @@
   },
   {
     "slug": "floral-ukrainian-cure-borscht",
-    "title": "Floral Ukrainian Cure Borscht",
+    "title": "Borscht Stuffed Cured Meat Rolls",
     "tags": [
-      "comforting",
-      "fish",
-      "kosher",
-      "spring",
       "ukrainian",
-      "weeknight"
+      "beets",
+      "borscht",
+      "cured-meat"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -12743,14 +12742,15 @@
   },
   {
     "slug": "floral-velvety-syrian-phyllo-stir-fry",
-    "title": "Floral Velvety Syrian Phyllo Stir-fry",
+    "title": "Syrian Phyllo Delight",
     "tags": [
-      "floral-velvety",
-      "syrian-dish",
-      "low-sodium-friendly"
+      "syrian",
+      "phyllo",
+      "dessert",
+      "fry"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21382,6 +21382,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--mexican",
+    "title": "Borscht Quesadillas",
+    "tags": [
+      "borscht",
+      "mexican",
+      "quesadillas",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "f"
   }
 ]
