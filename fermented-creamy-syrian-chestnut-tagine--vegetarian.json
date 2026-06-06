@@ -1,0 +1,83 @@
+{
+  "slug": "fermented-creamy-syrian-chestnut-tagine--vegetarian",
+  "title": "Chestnut and Tagine Stuffed Portobellos",
+  "description": "A flavorful vegetarian dish where Portobello mushrooms are filled with a rich and creamy chestnut and tagine mixture, then baked to perfection.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 Portobello mushrooms",
+      "amount": "cap removed and stems finely chopped",
+      "notes": "any type of mushroom can be used"
+    },
+    {
+      "name": "1 cup chestnut",
+      "amount": "cooked and mashed",
+      "notes": "canned or cooked fresh"
+    },
+    {
+      "name": "1/4 cup tagine",
+      "amount": "store-bought or homemade",
+      "notes": "see notes"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "finely chopped",
+      "notes": "any color"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "use 1 clove if you're not a big fan of garlic"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a pan, heat the olive oil and sauté the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped mushroom stems, smoked paprika, salt, and pepper, and cook until the mixture is heated through.",
+    "Stir in the mashed chestnut and tagine.",
+    "Wipe the mushroom caps clean with a damp cloth and fill each cap with the chestnut and tagine mixture.",
+    "Place the stuffed mushrooms in a baking dish and bake for 20-25 minutes, or until the mushrooms are tender and the filling is heated through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "mushroom",
+    "chestnut",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-syrian-chestnut-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:31:58.581Z"
+}
