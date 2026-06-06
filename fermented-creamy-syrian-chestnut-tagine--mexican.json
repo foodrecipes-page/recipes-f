@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-creamy-syrian-chestnut-tagine--mexican",
+  "title": "Chestnut Tagine Stuffed Peppers",
+  "description": "A unique Mexican-inspired dish featuring roasted peppers filled with a savory chestnut and tagine-spiced filling. The creamy and fermented elements add depth and complexity to this flavorful recipe.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut Tagine Spice Mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Canned Chestnuts",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Fermented Cabbage Slaw Mix",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Creamy Vegan Queso",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the chopped onion and minced garlic until softened.",
+    "Add the Chestnut Tagine Spice Mix and cook for 1 minute.",
+    "Stir in the canned chestnuts, roasted red peppers, and fermented cabbage slaw mix.",
+    "Cook for 2-3 minutes, until the filling is heated through.",
+    "Stir in the melted creamy vegan queso.",
+    "Stuff each bell pepper with the filling mixture.",
+    "Place the stuffed peppers in a baking dish and cover with aluminum foil.",
+    "Bake for 25-30 minutes, until the peppers are tender.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegan",
+    "stuffed-peppers",
+    "chestnut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-syrian-chestnut-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:08:58.400Z"
+}
