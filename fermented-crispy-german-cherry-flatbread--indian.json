@@ -1,0 +1,60 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--indian",
+  "title": "Cherry and Fermented Flatbread",
+  "description": "A sweet and tangy flatbread with a crispy topping, inspired by German and Indian flavors.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably german-style"
+    },
+    {
+      "name": "Fermented Cherries",
+      "amount": "1/4 cup",
+      "notes": "use a sweet and tangy variety"
+    },
+    {
+      "name": "Crispy German Rye Crumbs",
+      "amount": "1/2 cup",
+      "notes": "add texture and crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flatbread to a thickness of 1/4 inch.",
+    "Cut the flatbread into small squares or diamonds.",
+    "Mix the fermented cherries with a tablespoon of honey and a pinch of salt.",
+    "Spread the cherry mixture evenly over the flatbread squares.",
+    "Sprinkle the crispy German rye crumbs over the cherry mixture.",
+    "Bake in the oven for 10-12 minutes, or until the crumbs are golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "german",
+    "flatbread",
+    "fermented",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:09.919Z"
+}
