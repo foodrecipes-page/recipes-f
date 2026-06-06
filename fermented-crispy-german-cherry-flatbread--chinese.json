@@ -1,0 +1,64 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--chinese",
+  "title": "Crispy Cherry Dumplings",
+  "description": "A twist on traditional Chinese dumplings, these crispy cherry dumplings are a sweet and savory delight. They're perfect for a dessert or snack.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package of wonton wrappers"
+    },
+    {
+      "name": "fermented",
+      "amount": "2 tbsp of soy sauce"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup of sesame seeds"
+    },
+    {
+      "name": "german",
+      "amount": "1 tsp of sugar"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together cherry, soy sauce, and sugar.",
+    "Lay a wonton wrapper on a flat surface and place a small spoonful of the cherry mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges together to seal the dumpling.",
+    "Heat a large skillet or wok over medium-high heat and add a small amount of oil.",
+    "When the oil is hot, add the dumplings to the skillet and cook until they're golden brown and crispy.",
+    "Serve the dumplings hot with a sprinkle of sesame seeds on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry",
+    "dumplings",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:29.138Z"
+}
