@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-creamy-syrian-chestnut-tagine--german",
+  "title": "Chestnut and Syrian Tagine Stew",
+  "description": "A hearty German-inspired stew featuring tender chestnuts and the warmth of Syrian spices",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "1 cup, peeled and cubed"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1/2 cup, drained and chopped"
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat tagine in a large Dutch oven over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 8 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chestnuts, sauerkraut, Syrian spice blend, caraway seeds, and vegetable broth.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in apple cider vinegar and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "chestnut",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-syrian-chestnut-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:07:44.198Z"
+}
