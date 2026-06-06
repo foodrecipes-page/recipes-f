@@ -1,0 +1,85 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--thai",
+  "title": "Thai-Style Cherry Flatbread with Crispy Topping",
+  "description": "Crispy flatbread topped with a sweet and spicy Thai-inspired cherry sauce, served with a crunchy German-inspired topping.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet",
+      "notes": "any gluten-free flatbread"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use gluten-free soy sauce for gluten-free option"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted or untoasted"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "toasted until crispy"
+    },
+    {
+      "name": "Fermented chili paste",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crispy shallots",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into desired shapes and sizes.",
+    "In a small bowl, mix together cherry jam, soy sauce, and honey until smooth.",
+    "Brush the mixture onto the flatbread, leaving a small border around the edges.",
+    "Sprinkle sesame seeds and crispy shallots on top.",
+    "Bake in the oven for 10-12 minutes, or until the flatbread is crispy and the topping is golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Cut into smaller pieces and serve immediately.",
+    "Optional: top with sliced fresh herbs or a sprinkle of toasted coconut flakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "glutenfree",
+    "snack",
+    "cherryflatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:14.617Z"
+}
