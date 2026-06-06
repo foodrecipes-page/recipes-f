@@ -1,0 +1,74 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--mexican",
+  "title": "Borscht Quesadillas",
+  "description": "A fusion twist on traditional Mexican quesadillas, using the flavors of borscht for a unique and delicious experience.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Borscht",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flour Tortillas",
+      "amount": "4",
+      "notes": "8-10 inches in diameter"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cure (Dill Pickle)",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "In a bowl, mix together borscht, shredded cheese, and chopped cure.",
+    "Place a flour tortilla in the skillet and sprinkle a quarter of the borscht mixture onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the filling is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes or until the other side is also crispy.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve with sour cream and cilantro.",
+    "Serve immediately and garnish with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "borscht",
+    "mexican",
+    "quesadillas",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:49:57.425Z"
+}
