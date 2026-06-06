@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-creamy-syrian-chestnut-tagine--gluten-free",
+  "title": "Fermented Chestnut Tagine",
+  "description": "A rich and creamy tagine made with fermented vegetables, chestnut puree, and aromatic syrian spices.",
+  "cuisine": "moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented vegetables (cabbage or carrots)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chestnut puree",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Syrian spices (cumin, coriander, cinnamon)",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gluten-free breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped fermented vegetables and cook until softened, about 5 minutes.",
+    "Stir in the chestnut puree and cook for an additional 2 minutes.",
+    "Add the Syrian spices and cook for 1 minute, until fragrant.",
+    "Add the gluten-free breadcrumbs and cook for 2 minutes, stirring constantly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "fermented",
+    "chestnut",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-syrian-chestnut-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:32:56.845Z"
+}
