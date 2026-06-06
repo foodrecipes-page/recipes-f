@@ -1,0 +1,56 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--gluten-free",
+  "title": "Fermented Cherry Flatbread Snack",
+  "description": "Enjoy the tangy flavor of fermented flatbread topped with sweet cherry preserves.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "cherry preserves",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cherry",
+      "amount": "2",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the fermented flatbread in half.",
+    "3. Spread 1 tablespoon of cherry preserves on each flatbread half.",
+    "4. Arrange 1 cherry on top of each flatbread half.",
+    "5. Bake for 5 minutes, or until the flatbread is crispy.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "fermented",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:42.111Z"
+}
