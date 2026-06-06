@@ -1,0 +1,70 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--keto",
+  "title": "German Cherry Keto Flatbread Crust Pizza",
+  "description": "A low-carb twist on a classic German pizza, using a crispy flatbread crust topped with a flavorful fermented sauce, cherry tomatoes, and melted cheese.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flatbread Crust",
+      "amount": "1 package (6 crusts)",
+      "notes": "low-carb, pre-made"
+    },
+    {
+      "name": "Fermented Sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Crispy Prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "German Cheese Blend",
+      "amount": "1 cup",
+      "notes": "shredded, mixed cheddar and mozzarella"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Bake flatbread crust according to package instructions.",
+    "Spread fermented sauce evenly over the crust.",
+    "Top with cherry tomatoes, crispy prosciutto, and German cheese blend.",
+    "Bake for an additional 10-12 minutes or until cheese is melted and bubbly.",
+    "Garnish with fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "german",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:37.311Z"
+}
