@@ -21396,5 +21396,58 @@
     "cuisine": "mexican",
     "totalTimeMin": 20,
     "shard": "f"
+  },
+  {
+    "slug": "fiery-middle-eastern-fish-shakshuka--japanese",
+    "title": "Spicy Shakshuka Bento",
+    "tags": [
+      "bento",
+      "japanese",
+      "fusion",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-syrian-chestnut-tagine--german",
+    "title": "Chestnut and Syrian Tagine Stew",
+    "tags": [
+      "german",
+      "stew",
+      "chestnut",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-syrian-chestnut-tagine--mexican",
+    "title": "Chestnut Tagine Stuffed Peppers",
+    "tags": [
+      "mexican",
+      "vegan",
+      "stuffed-peppers",
+      "chestnut"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-syrian-chestnut-tagine--italian",
+    "title": "Chestnut and Syrian Tagine Risotto",
+    "tags": [
+      "italian",
+      "risotto",
+      "chestnut",
+      "syrian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "f"
   }
 ]
