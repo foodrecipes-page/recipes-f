@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--japanese",
+  "title": "Crispy Cherry Chicken Gyoza",
+  "description": "A Japanese-inspired dish that combines crispy gyoza with a sweet and savory cherry sauce, perfect for a quick dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into small pieces",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "cherry jam",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package, cut into small pieces",
+      "notes": "or gyoza wrappers"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, about 5 minutes.",
+    "Add the cherry jam, soy sauce, and 1 tablespoon of water to the pan. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Meanwhile, place the flatbread pieces on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "Remove the flatbread from the oven and top each piece with a spoonful of the cherry chicken mixture.",
+    "Return the flatbread to the oven and bake for an additional 2-3 minutes, or until the filling is heated through.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "crispy",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:45.981Z"
+}
