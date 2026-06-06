@@ -1,0 +1,60 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--vegetarian",
+  "title": "German Cherry Flatbread",
+  "description": "A sweet and savory vegetarian flatbread topped with cherry compote, crispy onions, and a sprinkle of German cheese.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "German cheese (such as Emmental or Gouda)",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flatbread and place on a baking sheet.",
+    "Spread the cherry jam evenly over the flatbread, leaving a 1-inch border around the edges.",
+    "Top with crispy onions, German cheese, and fresh thyme.",
+    "Bake for 12-15 minutes, or until the cheese is melted and the flatbread is crispy.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T03:28:25.260Z"
+}
