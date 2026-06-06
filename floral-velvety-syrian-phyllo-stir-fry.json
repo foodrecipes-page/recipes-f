@@ -1,0 +1,67 @@
+{
+  "slug": "floral-velvety-syrian-phyllo-stir-fry",
+  "title": "Syrian Phyllo Delight",
+  "description": "A sweet and crispy dessert made with phyllo pastry, perfect for a special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo pastry",
+      "amount": "1 package (usually 16-20 sheets)"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Velvety cream cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Syrian coffee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "enough for frying"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the fryer or a deep frying pan with about 2-3 inches of fry oil to 375°F (190°C).",
+    "Cut the phyllo pastry into desired shapes and sizes.",
+    "In a small bowl, mix together the honey, cream cheese, and coffee until well combined.",
+    "Dip each phyllo piece into the honey mixture, coating both sides evenly.",
+    "Fry the phyllo pieces in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fried phyllo on paper towels and dust with powdered sugar.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "phyllo",
+    "dessert",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-syrian-phyllo-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:01:32.518Z"
+}
