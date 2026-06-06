@@ -1,0 +1,90 @@
+{
+  "slug": "fluffy-nutty-thai-coconut-khanom-krok--thai",
+  "title": "Thai Coconut Krok Pudding",
+  "description": "A traditional Thai dessert made with coconut milk and topped with a crispy krok pastry.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "Krok pastry",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Thai red beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Nutty sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khanom coconut cream",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine coconut milk, sugar, and salt. Cook over medium heat, stirring constantly, until the sugar has dissolved.",
+    "2. Bring the mixture to a simmer and cook for 5-7 minutes, or until it has thickened slightly.",
+    "3. Stir in the cooked Thai red beans and cook for an additional 2-3 minutes.",
+    "4. Remove the saucepan from the heat and stir in the khanom coconut cream and vanilla extract.",
+    "5. Let the mixture cool to room temperature.",
+    "6. Once the mixture has cooled, pour it into individual serving cups or ramekins.",
+    "7. Top each serving with a piece of krok pastry.",
+    "8. Serve the Thai coconut krok pudding chilled, garnished with nutty sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "pudding",
+    "coconut",
+    "krok"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "35g",
+    "fat": "22g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-nutty-thai-coconut-khanom-krok--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:41:41.603Z"
+}
