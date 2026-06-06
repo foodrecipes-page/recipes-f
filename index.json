@@ -14775,17 +14775,15 @@
   },
   {
     "slug": "fluffy-nutty-thai-coconut-khanom-krok",
-    "title": "Fluffy Nutty Thai Coconut Khanom Krok",
+    "title": "Khanom Krok",
     "tags": [
-      "coconut-based",
-      "gluten-free",
-      "nutty-flavors",
-      "one-pan",
-      "thai-desserts",
-      "vegetarian"
+      "thai",
+      "dessert",
+      "coconut",
+      "pancake"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -21448,6 +21446,97 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-creamy-algerian-rosewater-baklava--indian",
+    "title": "Baklava Rosewater Kulfi",
+    "tags": [
+      "indian",
+      "dessert",
+      "rosewater",
+      "baklava"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-velvety-brazilian-chicken-skewers--german",
+    "title": "Schnitzel Chicken Skewers",
+    "tags": [
+      "german",
+      "chicken",
+      "skewers",
+      "barbecue"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-syrian-chestnut-tagine--vegetarian",
+    "title": "Chestnut and Tagine Stuffed Portobellos",
+    "tags": [
+      "vegetarian",
+      "mushroom",
+      "chestnut",
+      "tagine"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-syrian-chestnut-tagine--gluten-free",
+    "title": "Fermented Chestnut Tagine",
+    "tags": [
+      "gluten-free",
+      "fermented",
+      "chestnut",
+      "tagine"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crispy-algerian-ham-tagine--keto",
+    "title": "Algerian Ham Tagine",
+    "tags": [
+      "algerian",
+      "keto",
+      "ham",
+      "tagine"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-adventurous-peruvian-dasima-kombu-bisque--indian",
+    "title": "Peruvian-Indian Fatty Fish Curry",
+    "tags": [
+      "peruvian",
+      "indian",
+      "curry",
+      "fish"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-comforting-kenyan-ugali-pilaf--chinese",
+    "title": "Savory Kenyan-Style Ugali with Chinese Flavors",
+    "tags": [
+      "kenyan",
+      "chinese",
+      "comforting",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
