@@ -1,0 +1,85 @@
+{
+  "slug": "floral-ukrainian-cure-borscht",
+  "title": "Borscht Stuffed Cured Meat Rolls",
+  "description": "A twist on traditional Ukrainian borscht, these rolls combine the flavors of the beet-based soup with cured meats and a floral touch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cured meat (such as salami or ham)",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Floral honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Borscht mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a pan, sauté the onion and garlic until softened.",
+    "Add the beets, borscht mix, and honey to the pan, stirring to combine.",
+    "In a separate bowl, mix the chopped dill and salt and pepper.",
+    "Roll out the cured meat to a large rectangle.",
+    "Spread the borscht mixture over the meat, leaving a 1-inch border.",
+    "Sprinkle the dill mixture over the borscht.",
+    "Roll up the meat and slice into 1-inch thick rolls.",
+    "Place the rolls on a baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beets",
+    "borscht",
+    "cured-meat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:22:44.529Z"
+}
