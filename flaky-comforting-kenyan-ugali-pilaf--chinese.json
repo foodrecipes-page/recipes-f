@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-comforting-kenyan-ugali-pilaf--chinese",
+  "title": "Savory Kenyan-Style Ugali with Chinese Flavors",
+  "description": "A fusion twist on traditional Kenyan ugali, infused with Chinese flavors and textures.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ugali",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic; cook until softened.",
+    "Add cumin, coriander, and salt; cook for 1 minute.",
+    "Add rice and stir to coat with spices.",
+    "Add 2 cups of water; bring to a boil.",
+    "Reduce heat to low; cover and cook until rice is cooked.",
+    "Stir in ugali; cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chinese",
+    "comforting",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-comforting-kenyan-ugali-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:59:57.942Z"
+}
