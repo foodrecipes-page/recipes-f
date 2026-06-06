@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread",
+  "title": "German Cherry Flammkuchen",
+  "description": "A sweet and savory German flatbread topped with caramelized cherries and crispy prosciutto, perfect for a warm evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cherries",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut flatbread into 8 equal squares.",
+    "Mix cherry jam and brown sugar in a small bowl.",
+    "Brush flatbread squares with the cherry jam mixture.",
+    "Top each flatbread square with a few cherries and a piece of prosciutto.",
+    "Drizzle with almond extract.",
+    "Bake for 12-15 minutes or until prosciutto is crispy.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "flatbread",
+    "cherry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:38:46.037Z"
+}
