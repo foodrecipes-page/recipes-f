@@ -1,0 +1,67 @@
+{
+  "slug": "flaky-comforting-kenyan-ugali-pilaf",
+  "title": "Kenyan Stuffed Ugali",
+  "description": "A hearty, comforting dish from Kenya, typically served with a variety of stews or soups. This recipe stuffs ugali with a flavorful pilaf.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ugali",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Flaky",
+      "amount": "1/2 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Kenyan spices (e.g. cumin, coriander, turmeric)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "1. Cook the ugali according to package instructions until it forms a thick, sticky dough.",
+    "2. While the ugali is cooking, mix together the pilaf, chopped flaky, Kenyan spices, salt, and water to create a filling.",
+    "3. Once the ugali is cooked, divide it into 4-6 portions, depending on desired size.",
+    "4. Stuff each portion of ugali with the pilaf mixture, forming a ball or cylinder shape.",
+    "5. Serve the stuffed ugali hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "ugali",
+    "pilaf",
+    "comforting",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-comforting-kenyan-ugali-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:39:22.461Z"
+}
