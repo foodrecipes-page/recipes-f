@@ -1,0 +1,74 @@
+{
+  "slug": "floral-creamy-algerian-rosewater-baklava--indian",
+  "title": "Baklava Rosewater Kulfi",
+  "description": "A creamy Indian dessert influenced by North African flavors.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rosewater",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Baklava",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Floral Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rose Petals",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine heavy cream, rosewater, and cardamom in a saucepan.",
+    "Heat over medium heat until warm.",
+    "Add granulated sugar and stir until dissolved.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Combine milk and baklava in a blender and blend until smooth.",
+    "Add floral honey and rose petals to the milk mixture and blend until well combined.",
+    "Pour the warm cream mixture into the milk mixture and blend until well combined.",
+    "Pour into popsicle molds and freeze for at least 4 hours.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "rosewater",
+    "baklava"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-creamy-algerian-rosewater-baklava--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:04:04.045Z"
+}
