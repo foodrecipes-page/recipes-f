@@ -1,0 +1,84 @@
+{
+  "slug": "flaky-fragrant-egyptian-pastry-flatbread--thai",
+  "title": "Thai Flatbread and Pastry Spring Rolls",
+  "description": "A delicious and easy-to-make Thai-inspired snack filled with fragrant flatbread and crispy pastry.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant Egyptian Pastry Filling",
+      "amount": "1 cup",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F.",
+    "Cut flatbread into 2-inch squares.",
+    "Cut pastry into 2-inch squares.",
+    "Mix filling ingredients and fill flatbread squares.",
+    "Brush edges of pastry squares with egg and press on filling.",
+    "Fry spring rolls until golden brown.",
+    "Drain on paper towels and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "spring-rolls",
+    "thai-food",
+    "snack-recipes",
+    "veggie-recipes",
+    "gluten-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fragrant-egyptian-pastry-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:54:29.868Z"
+}
