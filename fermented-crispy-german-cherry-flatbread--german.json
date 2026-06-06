@@ -1,12 +1,13 @@
 {
   "slug": "fermented-crispy-german-cherry-flatbread--german",
-  "title": "German Cherry Strudel Flatbread",
-  "description": "A sweet and crispy flatbread topped with a mix of cherry and german flavors, finished with a tangy fermented note.",
+  "title": "German Cherry Flammkuchen",
+  "description": "A sweet and savory German flatbread topped with a mixture of cherries and crispy bacon.",
   "cuisine": "german",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
-  "meal": "dessert",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Flatbread",
@@ -14,53 +15,50 @@
     },
     {
       "name": "Cherry jam",
-      "amount": "1/2 cup"
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Chopped fresh cherries",
+      "name": "Cherries",
       "amount": "1 cup"
     },
     {
-      "name": "Fermented apple cider vinegar",
-      "amount": "2 tbsp"
+      "name": "Bacon",
+      "amount": "4 slices"
     },
     {
-      "name": "German dark chocolate chips",
+      "name": "Fermented red onion",
       "amount": "1/4 cup"
     },
     {
-      "name": "Crispy chopped pecans",
-      "amount": "1/4 cup"
+      "name": "Fresh basil",
+      "amount": "1 tablespoon"
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "Roll out the flatbread and spread the cherry jam over it.",
-    "Top the jam with chopped fresh cherries.",
-    "Drizzle the fermented apple cider vinegar over the cherries.",
-    "Sprinkle the German dark chocolate chips and crispy chopped pecans over the top.",
-    "Bake for 12-15 minutes or until the flatbread is crispy and the cherries are tender.",
-    "Let the strudel cool for a few minutes before slicing and serving."
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flatbread and top with cherry jam, cherries, and crispy bacon.",
+    "Bake for 12-15 minutes, or until the crust is golden brown.",
+    "Top with fermented red onion and fresh basil.",
+    "Cut into slices and serve immediately."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 12,
-  "totalTimeMin": 22,
-  "servings": 8,
-  "difficulty": "medium",
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
   "tags": [
     "german",
-    "cherry",
     "flatbread",
-    "dessert"
+    "cherry"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 2,
-    "carbs": 35,
-    "fat": 8
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--german",
   "providerUsed": "groq",
-  "createdAt": "2026-06-03T03:25:48.333Z"
+  "createdAt": "2026-06-03T04:38:34.504Z"
 }
