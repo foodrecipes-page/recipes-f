@@ -1,0 +1,97 @@
+{
+  "slug": "fiery-middle-eastern-fish-shakshuka--japanese",
+  "title": "Spicy Shakshuka Bento",
+  "description": "A fusion twist on traditional Japanese bento boxes, featuring spicy shakshuka and seafood.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fiery Middle Eastern Shakshuka Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sushi-grade Fish Fillets",
+      "amount": "2 fillets",
+      "notes": "Salmon or tilapia work well"
+    },
+    {
+      "name": "Japanese Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Japanese-Style Pickled Ginger",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add 1 tbsp of sesame oil and cook the fish fillets for 3-4 minutes per side, until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the shakshuka sauce to the skillet and cook for 2-3 minutes, until heated through.",
+    "Make wells in the sauce and crack 2 eggs into each well.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 10-12 minutes, until the eggs are cooked through.",
+    "While the eggs are cooking, prepare the Japanese rice according to package instructions.",
+    "Divide the rice onto individual plates or bento boxes.",
+    "Top the rice with a piece of cooked fish, a spoonful of shakshuka sauce, and a sprinkle of sesame seeds.",
+    "Serve with a side of pickled ginger, soy sauce, and miso paste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento",
+    "japanese",
+    "fusion",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-middle-eastern-fish-shakshuka--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:08.965Z"
+}
