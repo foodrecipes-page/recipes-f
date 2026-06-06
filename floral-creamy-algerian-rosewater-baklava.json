@@ -1,0 +1,88 @@
+{
+  "slug": "floral-creamy-algerian-rosewater-baklava",
+  "title": "Rosewater Baklava with Floral Cream",
+  "description": "A twist on the classic baklava, this dessert combines Middle Eastern flavors with a sweet floral cream topping. Perfect for special occasions or as a unique treat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "baklava",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rosewater",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "floral extract",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Unroll the pastry and cut into diamond shapes.",
+    "Mix the algerian spice blend with the rosewater and floral extract.",
+    "Brush the pastry with the melted butter and sprinkle with the spice mixture.",
+    "Layer the baklava on top of the pastry, leaving a 1-inch border around the edges.",
+    "Roll up the pastry and cut into 1-inch slices.",
+    "Place the slices on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While the pastry is baking, whip the heavy cream until stiff peaks form.",
+    "Add the granulated sugar and whip until combined.",
+    "Once the pastry is done, let it cool for 5 minutes before serving with the floral cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baklava",
+    "rosewater",
+    "floral",
+    "creamy",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-creamy-algerian-rosewater-baklava",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:02:36.792Z"
+}
