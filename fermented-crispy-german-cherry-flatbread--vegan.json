@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-crispy-german-cherry-flatbread--vegan",
+  "title": "Crispy Flatbread with Cherry Salsa",
+  "description": "A vegan flatbread recipe topped with a sweet and tangy cherry salsa, perfect as a snack or appetizer.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Fresh or Frozen Cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional (omit for vegan)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place flatbread on a baking sheet and toast for 5-7 minutes or until crispy.",
+    "In a bowl, mix together cherries, red onion, cilantro, lime juice, and honey (if using).",
+    "Season with salt to taste.",
+    "Top toasted flatbread with cherry salsa and crispy fried shallots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "flatbread",
+    "cherry-salsa",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-german-cherry-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:05:31.542Z"
+}
