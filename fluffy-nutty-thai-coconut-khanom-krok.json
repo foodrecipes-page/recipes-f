@@ -1,0 +1,84 @@
+{
+  "slug": "fluffy-nutty-thai-coconut-khanom-krok",
+  "title": "Khanom Krok",
+  "description": "A traditional Thai coconut pancake dessert that's crispy on the outside and fluffy on the inside. Serve warm with a sprinkle of powdered sugar.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fluffy rice flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutty palm sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "khanom krok flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "krok coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "In a large bowl, whisk together coconut milk, flour, rice flour, palm sugar, and khanom krok flour.",
+    "Add eggs and whisk until smooth.",
+    "Add krok coconut oil and salt, and whisk until combined.",
+    "Heat a small non-stick pan or khanom krok mold over medium heat.",
+    "Pour 1-2 tablespoons of the batter into the pan.",
+    "Cook for 2-3 minutes or until the edges start to curl and the surface is dry.",
+    "Flip and cook for another 1-2 minutes or until golden brown.",
+    "Serve warm with powdered sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "coconut",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-nutty-thai-coconut-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:10:27.213Z"
+}
