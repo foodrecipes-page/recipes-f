@@ -1,0 +1,93 @@
+{
+  "slug": "fiery-middle-eastern-fish-shakshuka--mexican",
+  "title": "Spicy Shakshuka Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring a spicy shakshuka filling, served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fiery hot peppers",
+      "amount": "2",
+      "notes": "Jalapeños or similar"
+    },
+    {
+      "name": "Middle eastern spices",
+      "amount": "1 tsp",
+      "notes": "Cumin, coriander, and paprika"
+    },
+    {
+      "name": "Eastern eggs",
+      "amount": "4",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Fish free taco seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Shakshuka sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "8-10",
+      "notes": "Crunchy taco shells"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey jack or similar"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro leaves"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the diced hot peppers and cook for 2-3 minutes, until softened.",
+    "Add the middle eastern spices and cook for 1 minute, until fragrant.",
+    "Create 4 wells in the pepper mixture and crack an egg into each well.",
+    "Pour the shakshuka sauce over the eggs and cook for 5-7 minutes, until the eggs are set.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos by spooning the shakshuka mixture into the shells and topping with cheese, cilantro, and sour cream (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "tacos",
+    "shakshuka"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-middle-eastern-fish-shakshuka--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:44:01.835Z"
+}
