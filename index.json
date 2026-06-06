@@ -1814,10 +1814,15 @@
   },
   {
     "slug": "fermented-crispy-german-cherry-flatbread",
-    "title": "Fermented Crispy German Cherry Flatbread",
-    "tags": [],
-    "cuisine": "German",
-    "totalTimeMin": null,
+    "title": "German Cherry Flammkuchen",
+    "tags": [
+      "german",
+      "flatbread",
+      "cherry",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21617,6 +21622,137 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--mexican",
+    "title": "Cherry BBQ Chicken Tacos",
+    "tags": [
+      "tacos",
+      "bbq",
+      "chicken",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--indian",
+    "title": "Cherry and Fermented Flatbread",
+    "tags": [
+      "indian",
+      "german",
+      "flatbread",
+      "fermented",
+      "snack",
+      "dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--french",
+    "title": "French Cherry Tart",
+    "tags": [
+      "french",
+      "tart",
+      "cherry",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--thai",
+    "title": "Thai-Style Cherry Flatbread with Crispy Topping",
+    "tags": [
+      "thaifood",
+      "glutenfree",
+      "snack",
+      "cherryflatbread"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--italian",
+    "title": "Italian Flatbread with Cherry Toppings",
+    "tags": [
+      "italian",
+      "dessert",
+      "flatbread",
+      "cherry"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--chinese",
+    "title": "Crispy Cherry Dumplings",
+    "tags": [
+      "cherry",
+      "dumplings",
+      "sweet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--vegan",
+    "title": "Crispy Flatbread with Cherry Salsa",
+    "tags": [
+      "vegan",
+      "flatbread",
+      "cherry-salsa",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--keto",
+    "title": "German Cherry Keto Flatbread Crust Pizza",
+    "tags": [
+      "keto",
+      "german",
+      "pizza"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--gluten-free",
+    "title": "Fermented Cherry Flatbread Snack",
+    "tags": [
+      "gluten-free",
+      "snack",
+      "fermented",
+      "cherry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-german-cherry-flatbread--japanese",
+    "title": "Crispy Cherry Chicken Gyoza",
+    "tags": [
+      "japanese",
+      "chicken",
+      "crispy",
+      "gyoza"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
