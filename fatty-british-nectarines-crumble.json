@@ -1,0 +1,71 @@
+{
+  "slug": "fatty-british-nectarines-crumble",
+  "title": "Traditional British Nectarine Crumble",
+  "description": "A classic dessert recipe featuring juicy nectarines topped with a crunchy oat and butter crumble. Perfect for warm weather and summer gatherings.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "6-8",
+      "notes": "(any variety, sliced)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "(cut into small pieces)"
+    },
+    {
+      "name": "old-fashioned rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine sliced nectarines, granulated sugar, and a pinch of salt. Let it sit for about 15 minutes to allow the fruit to release its juice.",
+    "In a separate bowl, mix together flour, baking powder, and a pinch of sugar. Add in cold butter and use your fingers or a pastry blender to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Add in oats and stir until they're evenly distributed throughout the crumb mixture.",
+    "Transfer the nectarine mixture to a 9x9-inch baking dish. Top with the crumb mixture, spreading it out evenly.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the fruit is tender and bubbly.",
+    "Remove from the oven and let it cool for a few minutes before serving. Enjoy warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "crumble",
+    "nectarines",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-british-nectarines-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:43.508Z"
+}
