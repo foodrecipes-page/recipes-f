@@ -1,0 +1,97 @@
+{
+  "slug": "flavorful-japanese-noodles-udon",
+  "title": "Japanese Udon Noodle Soup",
+  "description": "A flavorful Japanese soup made with udon noodles and savory vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "250g",
+      "notes": "Japanese wheat flour noodles"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    1,
+    "Bring the vegetable broth to a boil in a large pot.",
+    2,
+    "Add the sliced ginger and carrots to the pot.",
+    3,
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    4,
+    "Add the sliced mushrooms to the pot and continue to simmer for another 5 minutes.",
+    5,
+    "Cook the udon noodles according to package instructions.",
+    6,
+    "Add the cooked noodles to the pot and stir in the soy sauce.",
+    7,
+    "Season with sesame oil and sesame seeds to taste.",
+    8,
+    "Ladle the soup into bowls and garnish with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-noodles",
+    "udon",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-japanese-noodles-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:37:59.667Z"
+}
