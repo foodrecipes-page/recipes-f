@@ -1,0 +1,62 @@
+{
+  "slug": "funky-chewy-egyptian-bread-toast",
+  "title": "Egyptian Toast",
+  "description": "A simple and delicious breakfast dish inspired by Egyptian cuisine, featuring toasted bread topped with a variety of ingredients.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "funky bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Slice the funky bread into 1-inch pieces.",
+    "Place the bread pieces on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "While the bread is toasting, combine the chewy and egyptian in a small bowl.",
+    "Once the bread is done toasting, remove it from the oven and let it cool for a few minutes.",
+    "Spread the chewy-egyptian mixture onto the toasted bread slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egyptian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-chewy-egyptian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:17:28.328Z"
+}
