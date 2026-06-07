@@ -1,0 +1,86 @@
+{
+  "slug": "fermenty-crumbly-uruguayan-ground-meat-empanadas",
+  "title": "Uruguayan Beef Empanadas",
+  "description": "A classic Uruguayan dish featuring savory beef empanadas filled with ground beef and spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fermenty",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Crumbly Cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the cumin, paprika, and salt to the pan and stir to combine.",
+    "If using, add the fermenty and stir to combine.",
+    "If using, sprinkle the crumbly cheese over the top of the beef mixture and stir to combine.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the beef mixture onto the center of each dough circle and fold the dough over the filling, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with egg wash.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "uruguayan-cuisine",
+    "meat-based-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermenty-crumbly-uruguayan-ground-meat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:12:50.862Z"
+}
