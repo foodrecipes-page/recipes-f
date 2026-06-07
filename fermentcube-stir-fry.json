@@ -1,0 +1,56 @@
+{
+  "slug": "fermentcube-stir-fry",
+  "title": "Crispy Fermentcube Stir Fry",
+  "description": "A quick and easy stir fry recipe using fermentcube. This dish is high in protein and can be made in under 20 minutes.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fermentcube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "stir",
+      "amount": "2 cups mixed vegetables",
+      "notes": "Your choice of vegetables, such as broccoli, carrots, and bell peppers"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon oil",
+      "notes": "Any neutral oil, such as canola or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the mixed vegetables and stir-fry until they are tender-crisp.",
+    "Add the fermentcube and stir-fry for another minute.",
+    "Season with any desired spices or seasonings.",
+    "Serve hot over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "quick",
+    "easy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermentcube-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:38:32.771Z"
+}
