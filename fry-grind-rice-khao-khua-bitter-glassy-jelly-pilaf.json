@@ -1,0 +1,66 @@
+{
+  "slug": "fry-grind-rice-khao-khua-bitter-glassy-jelly-pilaf",
+  "title": "Bitter Glassy Pilaf",
+  "description": "A flavorful and colorful pilaf dish showcasing the unique texture of glassy ingredient, complemented by the bitterness of the bitter ingredient.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "khao",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "glassy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jelly",
+      "amount": "2 tbsp",
+      "notes": "clear"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 tsp",
+      "notes": "ground spice"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a pan over medium heat.",
+    "Add chopped bitter and glassy, sauté until tender.",
+    "Add khao, khua, and pilaf. Stir well.",
+    "Add 2 tbsp of water, cover and simmer for 10 minutes.",
+    "Stir in jelly and cook for 2 minutes.",
+    "Turn off heat, let it rest for 5 minutes.",
+    "Fluff the pilaf with a fork and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fry-grind-rice-khao-khua-bitter-glassy-jelly-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:15:14.399Z"
+}
