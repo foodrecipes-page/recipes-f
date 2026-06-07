@@ -1,0 +1,86 @@
+{
+  "slug": "flavorful-ethiopian-potatoes-fir-fir",
+  "title": "Ethiopian Potato Stew",
+  "description": "A flavorful and hearty stew made with potatoes and spices, inspired by Ethiopian cuisine. This dish is perfect for a cold winter's night.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": " peeled and diced"
+    },
+    {
+      "name": "Fir needles",
+      "amount": "1/4 cup",
+      "notes": " fresh or dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": " chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": " grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": " ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": " smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent, about 5 minutes.",
+    "Add potatoes, cumin, paprika, salt, and pepper. Cook for 5 minutes.",
+    "Add fir needles and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until potatoes are tender.",
+    "Serve hot, garnished with additional fir needles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "ethiopian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-ethiopian-potatoes-fir-fir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:15:27.074Z"
+}
