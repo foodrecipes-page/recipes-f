@@ -1,0 +1,100 @@
+{
+  "slug": "fresh-vietnamese-tofu-bun-cha",
+  "title": "Vietnamese-Style Grilled Pork and Noodle Bowl",
+  "description": "A flavorful and nutritious Vietnamese-inspired dish featuring grilled pork, crispy noodles, and fresh vegetables. This recipe is perfect for a quick and easy dinner or lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Vietnamese Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Pork Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cha (Vietnamese Grilled Pork)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Cut the tofu into small cubes and pan-fry until golden brown.",
+    "Grill the pork sausages until cooked through.",
+    "Slice the cha into thin strips and set aside.",
+    "Chop the cilantro, mint, and chilies.",
+    "In a small bowl, whisk together lime juice, soy sauce, hoisin sauce, and sugar.",
+    "Assemble the noodle bowls by placing cooked noodles at the bottom, followed by tofu, pork sausages, cha, and fresh herbs.",
+    "Drizzle the sauce over the top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "noodles",
+    "pork",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-vietnamese-tofu-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:09:35.082Z"
+}
