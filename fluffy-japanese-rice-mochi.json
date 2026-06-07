@@ -1,0 +1,66 @@
+{
+  "slug": "fluffy-japanese-rice-mochi",
+  "title": "Japanese-Style Mochi Rice Bowl",
+  "description": "A simple and flavorful dish made with fluffy Japanese rice and sweet mochi, perfect for a quick and easy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy Japanese Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mochi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Matcha Powder (optional)",
+      "amount": "1 teaspoon",
+      "notes": "For a green tea flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the mochi under cold running water for 10 seconds.",
+    "Soak the mochi in water for at least 4 hours or overnight.",
+    "Drain and rinse the mochi again.",
+    "Combine the rice and water in a medium saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Fluff the rice with a fork and add the sugar and matcha powder (if using).",
+    "Serve the rice in a bowl and top with drained mochi.",
+    "Garnish with additional mochi pieces, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mochi",
+    "rice",
+    "japanese",
+    "dessert",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-japanese-rice-mochi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:49:59.860Z"
+}
