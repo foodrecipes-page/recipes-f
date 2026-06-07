@@ -1,0 +1,75 @@
+{
+  "slug": "floral-irish-prosciutto-pilaf",
+  "title": "Irish Pilaf with Prosciutto",
+  "description": "A flavorful pilaf dish from Ireland, featuring crispy prosciutto and a delicate floral note.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "8 slices"
+    },
+    {
+      "name": "irish",
+      "amount": "1 cup pilaf mix"
+    },
+    {
+      "name": "floral",
+      "amount": "1 tsp dried thyme",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add prosciutto and cook until crispy, about 4-5 minutes.",
+    "Remove prosciutto from skillet and set aside.",
+    "Add pilaf mix to skillet and cook for 1-2 minutes.",
+    "Add water to skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "Stir in thyme (if using).",
+    "Return prosciutto to skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "pilaf",
+    "prosciutto",
+    "herb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-irish-prosciutto-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:12:56.130Z"
+}
