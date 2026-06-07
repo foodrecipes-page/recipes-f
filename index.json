@@ -11470,10 +11470,16 @@
   },
   {
     "slug": "floral-dense-turkish-poppy-seeds-fritters",
-    "title": "Floral Dense Turkish Poppy Seed Fritters",
-    "tags": [],
+    "title": "Turkish Poppy Seed Fritters",
+    "tags": [
+      "turkish",
+      "poppy-seed",
+      "fritters",
+      "snack",
+      "dessert"
+    ],
     "cuisine": "Turkish",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -13308,17 +13314,14 @@
   },
   {
     "slug": "fluffy-croatian-russet-potato-gratin",
-    "title": "Fluffy Croatian Russet Potato Gratin",
+    "title": "Russet and Fluffy Potato Gratin",
     "tags": [
-      "copper-pot",
-      "croatian-cuisine",
-      "date-night",
+      "potatoes",
       "gratin",
-      "keto-friendly",
-      "russet-potatoes"
+      "side dish"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 85,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -19042,17 +19045,16 @@
   },
   {
     "slug": "fresh-vietnamese-tofu-bun-cha",
-    "title": "Fresh Vietnamese Tofu Bun Cha",
+    "title": "Vietnamese-Style Grilled Pork and Noodle Bowl",
     "tags": [
-      "hot-pot",
-      "noodle-dish",
-      "quick-meal",
-      "vegetarian-friendly",
-      "vietnamese-cuisine",
-      "weeknight-dinner"
+      "vietnamese",
+      "grilled",
+      "noodles",
+      "pork",
+      "tofu"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
