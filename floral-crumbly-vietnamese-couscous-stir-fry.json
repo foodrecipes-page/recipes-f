@@ -1,0 +1,63 @@
+{
+  "slug": "floral-crumbly-vietnamese-couscous-stir-fry",
+  "title": "Vietnamese Crispy Floral Fritters",
+  "description": "A sweet and crispy dessert made with floral ingredients, perfect for any occasion.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "floral",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vietnamese rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine floral and crumbly ingredients.",
+    "2. Add the vietnamese rice flour, coconut milk, and stir-fry oil.",
+    "3. Mix well until a dough forms.",
+    "4. Heat oil in a deep frying pan over medium-high heat.",
+    "5. Using a spoon, drop small balls of the dough into the hot oil.",
+    "6. Fry until golden brown and crispy.",
+    "7. Remove from oil and place on a paper towel-lined plate.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "asian",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crumbly-vietnamese-couscous-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:20:19.873Z"
+}
