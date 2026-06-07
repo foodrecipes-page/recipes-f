@@ -1,0 +1,86 @@
+{
+  "slug": "fermented-saudia-dates-crumble",
+  "title": "Saudi Crumble Cake with Dates",
+  "description": "A sweet and moist cake made with fermented milk, crumble topping, and sweet Saudi dates. Perfect for dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fermented milk",
+      "amount": "1 cup",
+      "notes": "Full-fat fermented milk"
+    },
+    {
+      "name": "Saudi dates",
+      "amount": "1 cup",
+      "notes": "Pitted, chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9-inch (23cm) round cake pan and set aside.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "Add the fermented milk and mix until just combined. Do not overmix.",
+    "Stir in chopped dates.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Sprinkle crumble topping evenly over the batter.",
+    "Dot the top with unsalted butter.",
+    "Bake for 40-45 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "dates",
+    "crumble",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-saudia-dates-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:54:13.526Z"
+}
