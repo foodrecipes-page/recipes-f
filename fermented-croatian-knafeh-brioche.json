@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-croatian-knafeh-brioche",
+  "title": "Croatian-Style Cheesecake Knafeh",
+  "description": "A unique dessert that combines the flaky, buttery crust of a brioche with the creamy, cheesy goodness of knafeh, a traditional Middle Eastern dessert, adding a touch of Croatian flair.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brioche dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Knafeh cheese",
+      "amount": "1 cup",
+      "notes": "ricotta or similar cheese"
+    },
+    {
+      "name": "Fermented cream",
+      "amount": "1 cup",
+      "notes": "such as sour cream or buttermilk"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out brioche dough to a thickness of about 1/4 inch (6 mm).",
+    "Cut out circles of dough to fit 6-8 ramekins or small cups.",
+    "Place a circle of dough into each ramekin, pressing it into the bottom and up the sides.",
+    "In a separate bowl, mix together knafeh cheese, fermented cream, and granulated sugar.",
+    "Spoon the cheese mixture into each ramekin, filling to the top.",
+    "Dot the top of each ramekin with melted butter.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the filling is set.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesecake",
+    "knafeh",
+    "brioche",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-croatian-knafeh-brioche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:13:37.857Z"
+}
