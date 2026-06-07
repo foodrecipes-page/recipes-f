@@ -1,0 +1,77 @@
+{
+  "slug": "festive-crunchy-avocado-stir-fry",
+  "title": "Crispy Avocado Fritters",
+  "description": "A delicious and crunchy snack made with ripe avocado, perfect for the festive season.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mashed Avocado",
+      "amount": "2 ripe avocados",
+      "notes": "Mash until smooth"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Crunchy Festive Nuts",
+      "amount": "1/2 cup",
+      "notes": "Pecans or walnuts work well"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together mashed avocado, flour, crunchy festive nuts, egg, salt, and pepper until a thick batter forms.",
+    "2. Heat a non-stick frying pan with stir-fry vegetable oil over medium heat.",
+    "3. Using a spoon, drop small amounts of the avocado mixture into the pan, flattening slightly into patties.",
+    "4. Cook for 2-3 minutes on each side, or until golden brown and crispy.",
+    "5. Remove from heat and drain on paper towels.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "snack",
+    "fritters",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-crunchy-avocado-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:05:35.628Z"
+}
