@@ -1121,15 +1121,16 @@
   },
   {
     "slug": "fermentcube-stir-fry",
-    "title": "FermentCube Stir Fry",
+    "title": "Crispy Fermentcube Stir Fry",
     "tags": [
-      "fermented",
-      "crunchy",
-      "spanish",
-      "paleo"
+      "breakfast",
+      "quick",
+      "easy",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 17,
     "shard": "f"
   },
   {
@@ -9670,18 +9671,15 @@
   },
   {
     "slug": "flavorful-ethiopian-potatoes-fir-fir",
-    "title": "Flavorful Ethiopian Potatoes Fir Fir",
+    "title": "Ethiopian Potato Stew",
     "tags": [
+      "vegetarian",
+      "stew",
       "ethiopian",
-      "flexitarian",
-      "juicy",
-      "one-pan",
-      "post-workout",
-      "resinous",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -9907,13 +9905,12 @@
   },
   {
     "slug": "flavorful-japanese-noodles-udon",
-    "title": "Flavorful Japanese Noodles Udon",
+    "title": "Japanese Udon Noodle Soup",
     "tags": [
-      "copper-mug",
-      "date-night",
-      "japanese-cuisine",
-      "noodle-dish",
-      "shojin-friendly"
+      "japanese-noodles",
+      "udon",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
@@ -14709,19 +14706,17 @@
   },
   {
     "slug": "fluffy-norwegian-rice-noodles-stir-fry",
-    "title": "Fluffy Norwegian Rice Noodle Stir-Fry",
+    "title": "Norwegian Rice Stir Fry",
     "tags": [
+      "easy",
+      "quick",
       "norwegian",
-      "rice-noodles",
+      "rice",
       "stir-fry",
-      "low-calorie",
-      "vegetarian",
-      "fluffy",
-      "cozy",
-      "umami"
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 13,
     "shard": "f"
   },
   {
@@ -20585,16 +20580,15 @@
   },
   {
     "slug": "funky-chewy-egyptian-bread-toast",
-    "title": "Funky Chewy Egyptian Bread Toast",
+    "title": "Egyptian Toast",
     "tags": [
-      "bread",
       "breakfast",
-      "easy-to-make",
       "egyptian",
-      "snack"
+      "snack",
+      "easy"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "egyptian",
+    "totalTimeMin": 17,
     "shard": "f"
   },
   {
