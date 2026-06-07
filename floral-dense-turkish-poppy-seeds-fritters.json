@@ -1,0 +1,81 @@
+{
+  "slug": "floral-dense-turkish-poppy-seeds-fritters",
+  "title": "Turkish Poppy Seed Fritters",
+  "description": "Crispy fritters filled with a sweet poppy seed mixture, perfect for a snack or dessert. These fritters originate from Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish poppy seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dense seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted and crushed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and poppy seeds.",
+    "In a separate bowl, whisk together melted butter, egg, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Using a cookie scoop, drop the dough into the oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "Drain the fritters on paper towels and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "poppy-seed",
+    "fritters",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-dense-turkish-poppy-seeds-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:08:23.460Z"
+}
