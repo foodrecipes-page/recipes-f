@@ -1,0 +1,61 @@
+{
+  "slug": "floral-tender-ethiopian-cabbage-stir-fry",
+  "title": "Floral Ethiopian Stir Fry",
+  "description": "A quick and flavorful stir fry with tender vegetables and a hint of Ethiopian spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "floral",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian flower spice blend"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil for stir-frying"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "sliced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the shredded cabbage and cook until slightly tender, about 3-4 minutes.",
+    "Add the sliced bell peppers and cook for an additional 2-3 minutes.",
+    "Sprinkle the Ethiopian flower spice blend over the vegetables and stir-fry for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-tender-ethiopian-cabbage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:32:13.563Z"
+}
