@@ -1,0 +1,88 @@
+{
+  "slug": "fiery-silky-jamaican-turkey-sushi",
+  "title": "Jamaican Sushi Turkey Burgers",
+  "description": "A unique fusion of Jamaican and sushi flavors in a juicy turkey burger.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sushi Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Fiery Hot Sauce",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Sushi Nori",
+      "amount": "4 sheets",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced Onions",
+      "amount": "1 medium",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced Bell Peppers",
+      "amount": "1 medium",
+      "notes": "Optional"
+    },
+    {
+      "name": "Silky Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "For sauce"
+    },
+    {
+      "name": "Turkey Bacon",
+      "amount": "4 slices",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine ground turkey, Jamaican jerk seasoning, sushi rice vinegar, and fiery hot sauce. Mix well.",
+    "Form the mixture into 4 patties.",
+    "Grill the patties for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, prepare the sushi nori and sliced vegetables (if using).",
+    "Assemble the burgers by placing a patty on a bun, topped with nori, sliced onions, and bell peppers (if using).",
+    "Serve with silky mayonnaise and turkey bacon (if using).",
+    "Optional: wrap the burgers in sushi nori for a unique sushi-burger experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "sushi",
+    "burgers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-silky-jamaican-turkey-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:11:38.693Z"
+}
