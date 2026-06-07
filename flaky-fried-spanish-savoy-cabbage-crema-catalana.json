@@ -1,0 +1,65 @@
+{
+  "slug": "flaky-fried-spanish-savoy-cabbage-crema-catalana",
+  "title": "Catalana Savoy Cabbage Fritters",
+  "description": "A crispy Spanish-inspired fritter filled with cabbage, onions, and a hint of catalana.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Savoy Cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Spanish Onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Catalana Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Savory Crema",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, combine cabbage, onion, and catalana sauce.",
+    "Roll out pastry dough and cut into squares.",
+    "Spoon cabbage mixture onto one square, leaving space around the edges.",
+    "Dampen edges with water and fold pastry squares in half to form triangles.",
+    "Press edges to seal and fry until golden brown, about 3-4 minutes per side.",
+    "Drain on paper towels and serve hot with savory crema.",
+    "Optional: serve with a side of tangy slaw for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "cabbage",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "5g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fried-spanish-savoy-cabbage-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:57:51.233Z"
+}
