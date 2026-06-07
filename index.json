@@ -3957,14 +3957,15 @@
   },
   {
     "slug": "fermented-spicy-tahini-korean-stir-fry",
-    "title": "Fermented Spicy Tahini Korean Stir-fry",
+    "title": "Spicy Korean-Style Stir-Fry",
     "tags": [
-      "fermented-spicy-tahini",
-      "korean-stir-fry",
-      "vegetarian-friendly"
+      "spicy",
+      "korean",
+      "stir-fry",
+      "tahini"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 13,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -4381,16 +4382,15 @@
   },
   {
     "slug": "fermenty-crumbly-uruguayan-ground-meat-empanadas",
-    "title": "Fermenty Crumbly Uruguayan Ground Meat Empanadas",
+    "title": "Uruguayan Beef Empanadas",
     "tags": [
+      "beef",
       "empanadas",
-      "ground-beef",
-      "one-pan",
-      "uruguayan",
-      "weeknight"
+      "uruguayan-cuisine",
+      "meat-based-dish"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -4571,15 +4571,15 @@
   },
   {
     "slug": "festive-crunchy-avocado-stir-fry",
-    "title": "Festive Crunchy Avocado Stir-fry",
+    "title": "Crispy Avocado Fritters",
     "tags": [
-      "festival",
-      "vegan",
-      "quick",
-      "healthy"
+      "avocado",
+      "snack",
+      "fritters",
+      "festive"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Mexican",
+    "totalTimeMin": 18,
     "shard": "f"
   },
   {
@@ -5697,13 +5697,15 @@
   },
   {
     "slug": "fiery-silky-jamaican-turkey-sushi",
-    "title": "Fiery Silky Jamaican Turkey Sushi",
+    "title": "Jamaican Sushi Turkey Burgers",
     "tags": [
       "jamaican",
-      "lunch"
+      "sushi",
+      "burgers",
+      "grilled"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
@@ -10735,17 +10737,16 @@
   },
   {
     "slug": "floral-creamy-arab-chicken-soup",
-    "title": "Floral Creamy Arab Chicken Soup",
+    "title": "Creamy Chicken and Floral Soup",
     "tags": [
-      "floral",
-      "creamy",
-      "sick-day",
-      "middle-eastern",
-      "paleo-friendly",
-      "chicken-soup"
+      "arab",
+      "chicken",
+      "soup",
+      "comforting",
+      "floral"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "arab",
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -20404,15 +20405,14 @@
   },
   {
     "slug": "fry-grind-rice-khao-khua-bitter-glassy-jelly-pilaf",
-    "title": "Fry-Grind-Rice-Khao-Khua Bitter Glassy-jelly Pilaf",
+    "title": "Bitter Glassy Pilaf",
     "tags": [
-      "high-protein",
-      "sauerkraut-based",
-      "vegan-friendly",
-      "vietnamese"
+      "pilaf",
+      "thai",
+      "vegetarian"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
