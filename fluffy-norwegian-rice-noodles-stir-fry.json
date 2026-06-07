@@ -1,0 +1,69 @@
+{
+  "slug": "fluffy-norwegian-rice-noodles-stir-fry",
+  "title": "Norwegian Rice Stir Fry",
+  "description": "A quick and easy rice stir fry dish inspired by Norwegian cuisine. Perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fluffy Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy",
+      "amount": "2 cups",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Norwegian",
+      "amount": "2 tablespoons",
+      "notes": "smoked salmon paste"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1/2 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add 2 cups of chopped fluffy and 1/2 cup of broken noodles to the skillet. Cook for 3-4 minutes.",
+    "Add 1 cup of fluffy rice to the skillet and stir to combine with fluffy and noodles.",
+    "Add 2 tablespoons of Norwegian smoked salmon paste to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the rice is lightly toasted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "norwegian",
+    "rice",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-norwegian-rice-noodles-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:33:13.397Z"
+}
