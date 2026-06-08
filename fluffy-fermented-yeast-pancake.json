@@ -1,0 +1,76 @@
+{
+  "slug": "fluffy-fermented-yeast-pancake",
+  "title": "Fermented Pancake Fluff",
+  "description": "A unique pancake recipe made with fermented ingredients, creating a light and fluffy texture.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "baking powder"
+    },
+    {
+      "name": "fermented",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "pancake",
+      "amount": "1 cup",
+      "notes": "mixed flour"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated sugar"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine fluffy, fermented, and yeast.",
+    "2. Add pancake, water, salt, and sugar to the bowl. Mix until smooth.",
+    "3. Heat a non-stick skillet or griddle over medium heat.",
+    "4. Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "5. Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "6. Flip and cook for an additional 1-2 minutes.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fermented-yeast-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:30:37.857Z"
+}
