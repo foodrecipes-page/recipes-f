@@ -1,0 +1,93 @@
+{
+  "slug": "fantastic-dense-greek-chinese-long-beans-kleftiko",
+  "title": "Greek Kleftiko with Beans",
+  "description": "A classic Greek slow-cooked lamb dish, perfect for a special occasion. This recipe is a variation that includes beans for added nutrition.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup, dried",
+      "notes": "any variety"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "2 lbs",
+      "notes": "bone-in"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the lamb and pat dry with paper towels.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beans, oregano, salt, and pepper to the pot. Stir to combine.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "beans",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-dense-greek-chinese-long-beans-kleftiko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:29:22.292Z"
+}
