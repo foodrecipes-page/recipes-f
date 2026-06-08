@@ -1,0 +1,85 @@
+{
+  "slug": "fragrant-dutch-oven-british-frankfurter-bangers-and-mash",
+  "title": "Traditional British Bangers and Mash",
+  "description": "A hearty British dish featuring sausages and mashed potatoes. Perfect comfort food for a chilly evening.",
+  "cuisine": "british",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bangers (British Sausages)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "4-6 medium-sized potatoes",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gravy Granules",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Boil the potatoes in salted water until tender.",
+    "2. Drain the potatoes and mash with butter, salt, and pepper.",
+    "3. Heat olive oil in a large pan over medium heat.",
+    "4. Add sliced onions and cook until softened.",
+    "5. Add minced garlic and cook for 1 minute.",
+    "6. Add bangers and cook until browned on all sides.",
+    "7. Remove bangers from the pan and set aside.",
+    "8. Sprinkle flour over the pan and cook for 1 minute.",
+    "9. Gradually add milk, whisking continuously, until the gravy thickens.",
+    "10. Add gravy granules and stir to combine.",
+    "11. Serve bangers on top of mashed potatoes with the onion gravy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangers and mash",
+    "british food",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-dutch-oven-british-frankfurter-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:16.527Z"
+}
