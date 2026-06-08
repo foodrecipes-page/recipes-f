@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-tangy-italian-masarepa-grill",
+  "title": "Grilled Italian Chicken and Corn Cakes",
+  "description": "A flavorful and crispy chicken and corn cake dish, grilled to perfection with a tangy twist. This recipe is perfect for a tasty and satisfying meal.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "masarepa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tangy Italian seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grill oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C).",
+    "In a large bowl, combine chicken, masarepa, corn kernels, flaky sea salt, and tangy Italian seasoning.",
+    "Mix well with your hands until just combined.",
+    "Form into 4-6 patties, depending on desired size.",
+    "Brush grill oil onto the grill grates.",
+    "Grill the patties for 5-7 minutes per side, or until cooked through.",
+    "Transfer the patties to a plate and let rest for 2-3 minutes.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "corn",
+    "italian",
+    "grilled",
+    "masarepa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-tangy-italian-masarepa-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:24:01.980Z"
+}
