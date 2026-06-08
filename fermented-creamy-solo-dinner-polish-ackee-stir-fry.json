@@ -1,0 +1,75 @@
+{
+  "slug": "fermented-creamy-solo-dinner-polish-ackee-stir-fry",
+  "title": "Polish Ackee Stir Fry",
+  "description": "A delicious and easy-to-make Polish-inspired dish featuring ackee stir-fried to perfection with a creamy sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fried Onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented Sauerkraut",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Creamy Sour Cream",
+      "amount": "2 tablespoons",
+      "notes": "chilled"
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet over medium-high heat.",
+    "Add the sliced Polish sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped fried onion to the skillet and cook until softened, about 2-3 minutes.",
+    "Add the flaked ackee to the skillet and stir to combine with the onion.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "Add the shredded fermented sauerkraut and stir to combine.",
+    "Reduce heat to low and stir in the chilled creamy sour cream.",
+    "Simmer for an additional 2-3 minutes or until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "stir-fry",
+    "creamy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-solo-dinner-polish-ackee-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:44:46.874Z"
+}
