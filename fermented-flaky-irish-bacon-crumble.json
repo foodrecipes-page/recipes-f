@@ -1,0 +1,64 @@
+{
+  "slug": "fermented-flaky-irish-bacon-crumble",
+  "title": "Irish Bacon Crumble",
+  "description": "A sweet and savory crumble dessert using irish bacon. Perfect for a cold evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Apple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry and place it in a baking dish.",
+    "Cut the irish bacon into small pieces and cook in a pan until crispy.",
+    "Mix the sugar and fermented apple together in a bowl.",
+    "Add the cooked bacon to the apple mixture and stir.",
+    "Pour the apple mixture into the pastry-lined baking dish.",
+    "Top with crumble mixture.",
+    "Bake for 25-30 minutes or until the pastry is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "irish-food",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-flaky-irish-bacon-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:42:28.661Z"
+}
