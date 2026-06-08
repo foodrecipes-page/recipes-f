@@ -1,0 +1,76 @@
+{
+  "slug": "fresh-polish-cheese-pull-frittata",
+  "title": "Polish Frittata",
+  "description": "A hearty, cheesy frittata inspired by Polish cuisine, packed with fresh vegetables and savory goodness.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Bell Pepper",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Spinach",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the sliced sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Stir in the chopped spinach and cook until wilted.",
+    "In a large bowl, whisk together the eggs and shredded cheese.",
+    "Pour the egg mixture over the cooked sausage and vegetables in the skillet.",
+    "Cook for 1-2 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "polish-food",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-polish-cheese-pull-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:21:17.508Z"
+}
