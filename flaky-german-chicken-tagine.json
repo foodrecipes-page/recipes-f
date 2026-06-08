@@ -1,0 +1,89 @@
+{
+  "slug": "flaky-german-chicken-tagine",
+  "title": "German Tagine Chicken",
+  "description": "A flavorful and juicy chicken dish inspired by traditional Moroccan tagine, but with a German twist, using flaky pastry for a crispy crust.",
+  "cuisine": "German",
+  "diet": [
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, melt butter over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken to the pan and cook until browned on all sides, about 5-7 minutes.",
+    "Transfer the chicken to a baking dish and add chicken broth, thyme, salt, and pepper. Stir to combine.",
+    "Roll out the flaky pastry to fit the top of the baking dish.",
+    "Place the pastry on top of the chicken and trim the edges to fit.",
+    "Bake in the preheated oven for 25-30 minutes, or until the pastry is golden brown and the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-german-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:14:25.061Z"
+}
