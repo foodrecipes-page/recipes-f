@@ -1,0 +1,73 @@
+{
+  "slug": "flaky-portuguese-fish-skillet",
+  "title": "Pan-Seared Fish with Portuguese Flaky Crust",
+  "description": "A simple and flavorful dish that combines the crispy texture of Portuguese flaky crust with the delicate taste of pan-seared fish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (any white fish)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese flaky crust mix",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat skillet to 375°F (190°C).",
+    "Season the fish fillets with salt and black pepper.",
+    "Dip each fish fillet into the Portuguese flaky crust mix, coating both sides evenly.",
+    "Heat olive oil in the skillet over medium-high heat.",
+    "Add the coated fish fillets to the skillet and sear for 3-4 minutes on each side.",
+    "Transfer the skillet to the oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Serve the fish hot with a squeeze of lemon juice.",
+    "Repeat with the remaining fish fillets."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "portuguese",
+    "easy",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:53:26.357Z"
+}
