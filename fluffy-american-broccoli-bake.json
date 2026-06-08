@@ -1,0 +1,60 @@
+{
+  "slug": "fluffy-american-broccoli-bake",
+  "title": "Classic American Broccoli Bake",
+  "description": "A comforting and easy-to-make dish that's perfect for a weeknight dinner. This broccoli bake is a twist on the classic American comfort food.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 cups, florets"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "american",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup, shredded cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Steam broccoli florets until tender. Set aside.",
+    "In a separate saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add 1 cup of shredded fluffy to the saucepan and stir until golden brown.",
+    "In a separate bowl, mix together 1 cup of shredded american and 1 cup of shredded bake.",
+    "Add the steamed broccoli to the bowl and stir until well combined.",
+    "Transfer the broccoli mixture to a baking dish.",
+    "Top with the remaining 1/2 cup of shredded bake.",
+    "Bake for 20-25 minutes or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-american-broccoli-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:04:58.945Z"
+}
