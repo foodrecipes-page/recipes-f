@@ -1,0 +1,64 @@
+{
+  "slug": "fresh-crunchy-japanese-potatoes-crumble",
+  "title": "Crunchy Japanese Crumble Potatoes",
+  "description": "A crispy, savory, and aromatic side dish or main course, featuring Japanese flavors and textures.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Fresh",
+      "amount": "2 sprigs of green onions",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup of panko breadcrumbs",
+      "notes": ""
+    },
+    {
+      "name": "Japanese",
+      "amount": "2 tbsp of soy sauce",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and thinly slice the potatoes.",
+    "In a bowl, mix together the sliced potatoes, green onions, and soy sauce.",
+    "Transfer the potato mixture to a baking dish.",
+    "Sprinkle the panko breadcrumbs evenly over the potatoes.",
+    "Bake in the preheated oven for 25-30 minutes or until golden brown.",
+    "Remove from the oven and let it rest for 5-7 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "potatoes",
+    "crunchy",
+    "veggies",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crunchy-japanese-potatoes-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:41:18.392Z"
+}
