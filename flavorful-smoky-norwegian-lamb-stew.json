@@ -1,0 +1,90 @@
+{
+  "slug": "flavorful-smoky-norwegian-lamb-stew",
+  "title": "Smoked Lamb Stew",
+  "description": "A hearty, flavorful stew made with lamb and a blend of spices, perfect for a cold winter's day.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Flavorful spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with the flavorful spice blend, smoked paprika, and a pinch of salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb to the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the lamb is tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "norwegian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "43g",
+    "carbs": "24g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-smoky-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:07:56.022Z"
+}
