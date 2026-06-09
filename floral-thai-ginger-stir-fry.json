@@ -1,0 +1,86 @@
+{
+  "slug": "floral-thai-ginger-stir-fry",
+  "title": "Thai Stir Fry",
+  "description": "Quick and flavorful Thai-style stir fry made with a variety of vegetables and your choice of protein. Serve over rice for a satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Floral jasmine rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the onion, carrots, and broccoli, and cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "Add the ginger and garlic, and cook for 1 minute.",
+    "Add the Thai red chili peppers and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the peppers are slightly softened.",
+    "Season with salt and pepper to taste.",
+    "Serve over jasmine rice and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-thai-ginger-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:43:04.799Z"
+}
