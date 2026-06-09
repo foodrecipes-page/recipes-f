@@ -1,0 +1,73 @@
+{
+  "slug": "freshly-roasted-spanish-vegetable-skillet",
+  "title": "Roasted Vegetable Skillet",
+  "description": "A hearty skillet dish featuring roasted vegetables and a crispy crust. Perfect for any meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Spanish onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Skillet seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced red pepper, onion, zucchini, and eggplant. Cook for 5 minutes, stirring occasionally.",
+    "Reduce heat to medium and add the minced garlic. Cook for an additional 2 minutes.",
+    "Sprinkle the skillet seasoning over the vegetables and stir to combine.",
+    "Transfer the skillet to the oven and roast at 400°F (200°C) for 15-20 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-roasted-spanish-vegetable-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:44:56.338Z"
+}
