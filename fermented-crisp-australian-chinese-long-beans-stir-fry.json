@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-crisp-australian-chinese-long-beans-stir-fry",
+  "title": "Stir Fry with Australian Long Beans",
+  "description": "A simple and flavorful stir fry recipe featuring australian long beans and a variety of other ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Long Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Fermented Bean Paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the australian long beans to the wok and stir-fry for 3-4 minutes, or until they start to soften.",
+    "Add the crisp fermented bean paste and stir-fry for another 2-3 minutes, until the beans are tender.",
+    "Add the soy sauce (if using) and stir-fry for 1 minute, until the sauce has thickened.",
+    "Season the stir fry with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crisp-australian-chinese-long-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:39:41.535Z"
+}
