@@ -1,0 +1,86 @@
+{
+  "slug": "flaky-croatian-plum-tomatoes-stir-fry",
+  "title": "Croatian Plum Tomato Stir Fry",
+  "description": "A delicious and easy to make stir fry dish combining the flavors of Croatia and the sweetness of plums.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for serving"
+    },
+    {
+      "name": "croatian plum",
+      "amount": "2",
+      "notes": "any variety"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "cherry or grape tomatoes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the plums in half and place them on a baking sheet.",
+    "Drizzle the plums with a little bit of oil and season with salt and pepper.",
+    "Bake the plums in the oven for 15-20 minutes, or until they are tender.",
+    "In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cherry tomatoes and cook until they start to release their juices, about 2-3 minutes.",
+    "Add the cooked plums to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the plum tomato mixture over flaky pastry, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "stir-fry",
+    "tomato",
+    "plum"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-croatian-plum-tomatoes-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:36:18.978Z"
+}
