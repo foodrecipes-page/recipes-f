@@ -1,0 +1,89 @@
+{
+  "slug": "flaky-fiery-algerian-skirt-steak-kebabs",
+  "title": "Spicy Algerian Skirt Steak Kebabs",
+  "description": "A flavorful and spicy Algerian-inspired dish featuring skirt steak and vegetables, served as kebabs. Perfect for a quick and delicious dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry or Pita Bread (for serving)",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fiery Harissa Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together harissa sauce, lemon juice, and olive oil.",
+    "Add the skirt steak to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated steak, red onion, red bell pepper, and zucchini onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes per side, or until the steak reaches 130°F for medium-rare.",
+    "Serve the kebabs hot with flaky pastry or pita bread on the side.",
+    "Optional: garnish with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "skirt-steak",
+    "grilled",
+    "kebabs",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fiery-algerian-skirt-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:57:54.424Z"
+}
