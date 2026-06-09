@@ -1,0 +1,85 @@
+{
+  "slug": "floral-luminous-norwegian-salmon-bowl",
+  "title": "Pan-Seared Salmon with Norwegian Salad",
+  "description": "A simple and elegant dish featuring seared salmon and a refreshing Norwegian-inspired salad.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "floral honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "luminous olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "norwegian red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bowl lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and black pepper.",
+    "Heat the luminous olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the salmon for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Meanwhile, combine the chopped bowl lettuce, thinly sliced red onion, and a drizzle of floral honey in a bowl.",
+    "Squeeze the lemon juice over the salad and toss to combine.",
+    "Serve the seared salmon on top of the Norwegian salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "norwegian",
+    "salad",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-luminous-norwegian-salmon-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:54:36.075Z"
+}
