@@ -1,0 +1,86 @@
+{
+  "slug": "fermented-crunchy-italian-pecans-traditional-lasagna",
+  "title": "Italian Pecan Lasagna",
+  "description": "A twist on the classic Italian dish, this lasagna features a crunchy pecan crust and a rich, savory filling.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Fermented Lasagna Noodles",
+      "amount": "8-10, traditional width"
+    },
+    {
+      "name": "Traditional Tomato Sauce",
+      "amount": "2 cups, homemade or store-bought"
+    },
+    {
+      "name": "Italian Ricotta Cheese",
+      "amount": "1 cup, whole-milk"
+    },
+    {
+      "name": "Crunchy Italian Breadcrumbs",
+      "amount": "1/2 cup, panko"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup, chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a food processor, blend pecans until crunchy.",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat tomato sauce over medium heat.",
+    "In a bowl, mix ricotta cheese, Parmesan cheese, and basil.",
+    "Spread a layer of tomato sauce on the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta mixture on top of the noodles.",
+    "Sprinkle half of the crunchy pecans over the ricotta mixture.",
+    "Repeat the layers, starting with the noodles, then the tomato sauce, then the ricotta mixture, and finally the remaining crunchy pecans.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until the top layer is golden brown.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "pecans",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-italian-pecans-traditional-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:10:20.653Z"
+}
