@@ -1,0 +1,72 @@
+{
+  "slug": "floral-gooey-malaysian-dasima-kombu-wood-fired-bake",
+  "title": "Kombu and Dasima Seafood Stew",
+  "description": "A light and flavorful stew from Malaysian cuisine, ideal for a dinner option. The combination of kombu and dasima provides a rich umami taste, while the seafood adds protein and variety.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima",
+      "amount": "2 cups",
+      "notes": "dried kelp"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 piece",
+      "notes": "dried kelp"
+    },
+    {
+      "name": "floral oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "goosefish",
+      "amount": "1 lb",
+      "notes": "or other firm white fish"
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with red pepper flakes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine dasima and kombu in a large pot.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Add goosefish and cook for 5 minutes.",
+    "Add floral oil, chili flakes, and salt. Stir to combine.",
+    "Simmer for an additional 5 minutes or until the fish is cooked through.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "stew",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-gooey-malaysian-dasima-kombu-wood-fired-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:36:07.612Z"
+}
