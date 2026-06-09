@@ -1,0 +1,66 @@
+{
+  "slug": "ferment-ciabatta-wrap",
+  "title": "Italian-Style Fermented Focaccia",
+  "description": "A delicious Italian flatbread infused with the tangy flavor of fermentation. Perfect for a casual dinner or snack.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ferment",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ciabatta",
+      "amount": "1 1/2 cups, torn into small pieces"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ferment, ciabatta, water, yeast, and salt. Mix well to combine.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and shape it into a rectangle.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the dough and use your fingers to create dimples.",
+    "Bake the focaccia for 15-20 minutes, or until it is golden brown.",
+    "Remove the focaccia from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "flatbread",
+    "focaccia",
+    "fermentation"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-ciabatta-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:33:04.215Z"
+}
