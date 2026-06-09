@@ -1,0 +1,86 @@
+{
+  "slug": "fiery-roasted-korean-beef-skewers",
+  "title": "Spicy Korean Beef Skewers",
+  "description": "Grilled skewers of marinated beef, inspired by Korean BBQ. Serve with a side of steamed vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, Gochujang, brown sugar, garlic, and sesame oil.",
+    "Add thinly sliced beef to the marinade and mix well.",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "Brush grill with oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until cooked to desired doneness.",
+    "Sprinkle with green onions and serve immediately.",
+    "Let beef rest for 2-3 minutes before serving.",
+    "Serve with additional soy sauce and Gochujang for dipping.",
+    "Garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "korean",
+    "bbq",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-roasted-korean-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:15:05.970Z"
+}
