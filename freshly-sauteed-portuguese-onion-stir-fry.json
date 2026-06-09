@@ -1,0 +1,57 @@
+{
+  "slug": "freshly-sauteed-portuguese-onion-stir-fry",
+  "title": "Portuguese Stir-Fried Onion Delight",
+  "description": "A simple yet flavorful dish from Portugal, showcasing the beauty of sautéed onions. This recipe is perfect for a quick and easy meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add the sliced onion and sauté for 5 minutes or until translucent.",
+    "Season with salt and black pepper to taste.",
+    "Continue to stir-fry for another 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "onion",
+    "portuguese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-sauteed-portuguese-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:34:24.431Z"
+}
