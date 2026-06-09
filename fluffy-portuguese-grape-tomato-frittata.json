@@ -1,0 +1,71 @@
+{
+  "slug": "fluffy-portuguese-grape-tomato-frittata",
+  "title": "Portuguese Frittata with Fresh Tomato",
+  "description": "A delicious and easy-to-make Portuguese-inspired frittata filled with fresh tomatoes and a hint of portuguese seasonings.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large egg",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": null
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup grated",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "fluffy bread",
+      "amount": "1 small, cubed",
+      "notes": "for croutons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a large bowl and season with salt and pepper.",
+    "Heat a non-stick skillet over medium heat.",
+    "Add cubed bread and cook until lightly toasted, about 3-4 minutes.",
+    "Add grape tomatoes to skillet and cook until they start to release their juices.",
+    "Pour whisked eggs over tomatoes and cook until edges start to set.",
+    "Transfer skillet to preheated oven and bake for 15-20 minutes, or until eggs are set.",
+    "Remove from oven and sprinkle with portuguese cheese and chopped parsley.",
+    "Return to oven and bake for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "breakfast",
+    "eggs",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-portuguese-grape-tomato-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:18:36.778Z"
+}
