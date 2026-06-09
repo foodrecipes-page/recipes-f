@@ -1,0 +1,82 @@
+{
+  "slug": "freshly-fried-kenyan-hazelnut-skewers",
+  "title": "Kenyan Fried Chicken Skewers",
+  "description": "Spicy and flavorful chicken skewers marinated in a mixture of African spices and then fried to perfection.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat-only"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Kenyan chili powder",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with African chili powder"
+    },
+    {
+      "name": "hazelnut oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, whisk together the chili powder, hazelnut oil, onion, garlic, lemon juice, salt, and pepper.",
+    "Add the chicken cubes to the marinade and mix well to coat.",
+    "Thread the marinated chicken onto the skewers, leaving a little space between each piece.",
+    "Fry the skewers in batches until they are golden brown and cooked through, about 5-7 minutes per batch.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried chicken skewers hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fry",
+    "chicken-skewers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-kenyan-hazelnut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:14:07.774Z"
+}
