@@ -1,0 +1,73 @@
+{
+  "slug": "flaky-citrusy-uruguayan-fish-empanadas",
+  "title": "Uruguayan Fish Empanadas",
+  "description": "A classic Uruguayan dish of flaky pastry pockets filled with a zesty fish filling, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry (Empanada Dough)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fish (Cod or Hake)",
+      "amount": "1 pound",
+      "notes": "Diced"
+    },
+    {
+      "name": "Citrus Zest (Lime and Lemon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan Salsa Criolla",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. In a bowl, mix together the fish, citrus zest, Uruguayan salsa criolla, and beaten egg.",
+    "5. Place a tablespoon of the fish mixture onto the center of each dough circle.",
+    "6. Fold the dough over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "7. Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "fish",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-citrusy-uruguayan-fish-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:47:26.406Z"
+}
