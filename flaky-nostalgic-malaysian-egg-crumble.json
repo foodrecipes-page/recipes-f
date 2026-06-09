@@ -1,0 +1,79 @@
+{
+  "slug": "flaky-nostalgic-malaysian-egg-crumble",
+  "title": "Egg Custard Crumble",
+  "description": "A classic malaysian-inspired egg custard pie topped with a crumbly biscuit crust.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "premade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry and place it in a pie dish.",
+    "In a separate bowl, whisk together the eggs, sugar, milk, cinnamon, and cocoa powder.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake for 25 minutes, or until the filling is set.",
+    "While the pie is baking, prepare the crumble topping.",
+    "Sprinkle the crumble topping over the pie.",
+    "Return the pie to the oven and bake for an additional 10-15 minutes, or until the topping is golden brown.",
+    "Remove the pie from the oven and let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "dessert",
+    "egg",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-nostalgic-malaysian-egg-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:19:00.065Z"
+}
