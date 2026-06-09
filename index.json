@@ -11329,10 +11329,15 @@
   },
   {
     "slug": "floral-crunchy-uruguayan-potatoes-salad",
-    "title": "Floral Crunchy Uruguayan Potatoes Salad",
-    "tags": [],
+    "title": "Uruguayan Salad with Crispy Potatoes and Fresh Flowers",
+    "tags": [
+      "salad",
+      "uruguayan",
+      "gluten-free",
+      "vegetarian"
+    ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -12207,19 +12212,15 @@
   },
   {
     "slug": "floral-luminous-norwegian-salmon-bowl",
-    "title": "Floral Luminous Norwegian Salmon Bowl",
+    "title": "Pan-Seared Salmon with Norwegian Salad",
     "tags": [
-      "keto-friendly",
       "salmon",
       "norwegian",
-      "truffle",
-      "steam-cooked",
-      "gluten-free",
-      "floral",
-      "light-dish"
+      "salad",
+      "gluten-free"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -19349,17 +19350,15 @@
   },
   {
     "slug": "freshly-fried-kenyan-hazelnut-skewers",
-    "title": "Freshly Fried Kenyan Hazelnut Skewers",
+    "title": "Kenyan Fried Chicken Skewers",
     "tags": [
-      "air-fryer",
-      "gluten-free",
-      "healthy-snack",
-      "herbal",
-      "kenyan-cuisine",
-      "low-carb"
+      "kenyan",
+      "fry",
+      "chicken-skewers",
+      "snack"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 15,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
