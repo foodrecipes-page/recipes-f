@@ -1,0 +1,75 @@
+{
+  "slug": "flaky-umami-argentinian-squid-stew",
+  "title": "Pan-Seared Squid with Umami Flaky Sauce",
+  "description": "A flavorful and tender squid dish from Argentina, elevated by a rich and savory flaky sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Flaky",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Umami",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the squid under cold water and pat it dry with paper towels.",
+    "2. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "3. Add the garlic and sauté for 1 minute until fragrant.",
+    "4. Add the squid and cook for 2-3 minutes per side, until cooked through.",
+    "5. Remove the squid from the skillet and set it aside.",
+    "6. In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "7. Add the flaky and umami, and stir to combine.",
+    "8. Cook for 1-2 minutes until the sauce is heated through.",
+    "9. Stir in the lemon juice and season with salt and pepper to taste.",
+    "10. Serve the squid with the flaky sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "seafood",
+    "squid",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-umami-argentinian-squid-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:40:58.442Z"
+}
