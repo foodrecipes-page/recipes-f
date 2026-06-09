@@ -1,0 +1,86 @@
+{
+  "slug": "fermented-crisp-argentinian-emulsify-terrine",
+  "title": "Argentinian Fermented Emulsion",
+  "description": "A tangy and creamy emulsion made with argentinian ingredients, fermented for a unique taste.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Lettuce",
+      "amount": "4 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Chimmichurri Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Quinoa",
+      "amount": "1 cup, cooked",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cooked quinoa, chopped lettuce, crumbled feta cheese, and chopped scallions.",
+    "In a small bowl, whisk together the argentinian olive oil, fermented chimmichurri sauce, lime juice, salt, and black pepper.",
+    "Pour the dressing over the quinoa mixture and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fermented",
+    "emulsion",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crisp-argentinian-emulsify-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:48:38.893Z"
+}
