@@ -1,0 +1,105 @@
+{
+  "slug": "floral-caramel-middle-eastern-stir-fry",
+  "title": "Middle Eastern Stir Fry",
+  "description": "A flavorful Middle Eastern inspired stir fry with caramel glazed chicken, served over a bed of fragrant floral herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Floral herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh herbs such as parsley or cilantro"
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Caramel",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the floral herbs, Middle Eastern spice blend, salt, and black pepper to the skillet and cook for 1-2 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the onion and bell pepper and cook until the vegetables are tender, about 5 minutes.",
+    "Return the chicken to the skillet and stir in the caramel, soy sauce, and any accumulated juices.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot over a bed of floral herbs.",
+    "Garnish with additional floral herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "stir-fry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-caramel-middle-eastern-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:42:09.001Z"
+}
