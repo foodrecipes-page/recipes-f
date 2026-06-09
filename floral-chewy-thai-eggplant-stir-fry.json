@@ -1,0 +1,71 @@
+{
+  "slug": "floral-chewy-thai-eggplant-stir-fry",
+  "title": "Thai Stir Fried Eggplant",
+  "description": "A flavorful and spicy Thai-inspired stir fry made with eggplant and various vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Thai Red Chili",
+      "amount": "2-3",
+      "notes": "depending on your desired level of spiciness"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 tablespoon, soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the eggplant and cook until browned, about 3-4 minutes.",
+    "Add the chilies, garlic, and ginger, and cook for 1 minute.",
+    "Stir in the basil and cook until fragrant.",
+    "Add the fry and stir to combine.",
+    "Season with salt to taste.",
+    "Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "eggplant",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-thai-eggplant-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:01:08.800Z"
+}
