@@ -1,0 +1,82 @@
+{
+  "slug": "fresh-filipino-chicken-soup",
+  "title": "Chicken Sinigang Soup",
+  "description": "A traditional Filipino sour soup made with chicken and various vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Tamarind broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sili leaves",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Water spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté the onions and garlic until softened.",
+    "Add the chicken and cook until browned.",
+    "Pour in the tamarind broth and bring to a boil.",
+    "Reduce the heat and add the tomatoes, sili leaves, and water spinach.",
+    "Simmer for 15 minutes or until the chicken is cooked through.",
+    "Serve hot with steamed rice.",
+    "Adjust seasoning to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "soup",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-filipino-chicken-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:48:25.335Z"
+}
