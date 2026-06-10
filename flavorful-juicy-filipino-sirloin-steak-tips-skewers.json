@@ -1,0 +1,76 @@
+{
+  "slug": "flavorful-juicy-filipino-sirloin-steak-tips-skewers",
+  "title": "Grilled Sirloin Steak with Filipino Marinade",
+  "description": "A flavorful and juicy sirloin steak marinated in a traditional Filipino mixture of soy sauce, vinegar, and spices. Perfect for a summer evening.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably 1-1.5 inches thick"
+    },
+    {
+      "name": "filipino marinade",
+      "amount": "1 cup",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, apple cider vinegar, brown sugar, garlic, and black pepper. Blend until smooth.",
+    "Place the sirloin steak in a large ziplock bag or a shallow dish. Pour the marinade over the steak and massage to coat.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Remove the steak from the marinade and let it sit at room temperature for 15 minutes.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F - 135°F for medium-rare.",
+    "Let the steak rest for 5-10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "filipino",
+    "marinade"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-juicy-filipino-sirloin-steak-tips-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:44:42.258Z"
+}
