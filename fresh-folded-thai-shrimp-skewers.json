@@ -1,0 +1,89 @@
+{
+  "slug": "fresh-folded-thai-shrimp-skewers",
+  "title": "Thai Shrimp Skewers",
+  "description": "Quick and delicious Thai-inspired shrimp skewers, perfect for a summer barbecue. Marinated in a mixture of coconut milk, fish sauce, and lime juice, these bite-sized treats are sure to impress.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large shrimp, peeled and deveined",
+      "amount": "12 oz",
+      "notes": "Fresh shrimp are essential for this recipe"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "Full-fat coconut milk for the best flavor"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality fish sauce for the best flavor"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed lime juice is a must"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": "Adjust the amount to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality brown sugar for the best flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Use bamboo skewers for the best results"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a little space between each shrimp.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, curry paste, and brown sugar.",
+    "Add the shrimp skewers to the marinade and toss to coat.",
+    "Let the shrimp marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Grill the shrimp skewers for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve the shrimp skewers hot, garnished with fresh cilantro and mint.",
+    "Serve with your favorite sides, such as steamed rice or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "thai",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-folded-thai-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:05:12.575Z"
+}
