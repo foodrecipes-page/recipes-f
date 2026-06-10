@@ -1,0 +1,70 @@
+{
+  "slug": "fatty-gooey-dutch-cheonggukjang-stamppot",
+  "title": "Cheonggukjang Stamppot",
+  "description": "A hearty Korean stamppot dish made with fermented bean paste, served with a side of fatty goodness.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Stamppot",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Fatty (bacon or pancetta)",
+      "amount": "6 slices, diced",
+      "notes": "optional, for added richness"
+    },
+    {
+      "name": "Gooey (melted butter or cheese)",
+      "amount": "2 tablespoons",
+      "notes": "to taste"
+    },
+    {
+      "name": "Dutch (sour cream)",
+      "amount": "1 cup",
+      "notes": "optional, for added creaminess"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the fatty in a pan over medium heat until crispy.",
+    "Add the diced stamppot and cook until it starts to soften.",
+    "Add the cheonggukjang and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of Dutch and a sprinkle of gooey goodness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-gooey-dutch-cheonggukjang-stamppot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:39:03.641Z"
+}
