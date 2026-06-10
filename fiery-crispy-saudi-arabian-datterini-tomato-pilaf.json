@@ -1,0 +1,68 @@
+{
+  "slug": "fiery-crispy-saudi-arabian-datterini-tomato-pilaf",
+  "title": "Spicy Saudi Pilaf with Datterini Tomatoes",
+  "description": "A flavorful and aromatic Saudi-style pilaf dish infused with the spicy kick of fiery peppers, served with sweet datterini tomatoes.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "datterini tomatoes",
+      "amount": "2 cups, halved",
+      "notes": "or cherry tomatoes"
+    },
+    {
+      "name": "fiery peppers",
+      "amount": "1/4 cup, sliced",
+      "notes": "adjust to desired spiciness"
+    },
+    {
+      "name": "arabian spices",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/2 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add sliced fiery peppers and cook until slightly softened.",
+    "Add pilaf and stir to coat with oil.",
+    "Add datterini tomatoes and stir to combine.",
+    "Sprinkle arabian spices and stir to combine.",
+    "Reduce heat to low and cook, covered, for 15 minutes.",
+    "Fluff pilaf with a fork and serve hot, garnished with crispy onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "pilaf",
+    "spicy",
+    "arabic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-crispy-saudi-arabian-datterini-tomato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:05:39.646Z"
+}
