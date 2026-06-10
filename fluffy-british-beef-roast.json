@@ -1,0 +1,71 @@
+{
+  "slug": "fluffy-british-beef-roast",
+  "title": "Classic British Beef Roast",
+  "description": "A traditional British-inspired roast beef dish with a delicious, savory flavor. This recipe is perfect for a Sunday dinner or special occasion.",
+  "cuisine": "British",
+  "diet": [
+    "meat-only"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef roast (3-4 pounds)",
+      "amount": "1",
+      "notes": "Choose a high-quality roast with good marbling"
+    },
+    {
+      "name": "Fluffy British all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For dusting the roast"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "For basting the roast"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the roast"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the roast"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Season the beef roast with salt and pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat. Sear the roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the beef for 15 minutes per pound, or until it reaches your desired level of doneness.",
+    "Baste the roast with beef broth every 30 minutes.",
+    "Remove the roast from the oven and let it rest for 10-15 minutes before slicing.",
+    "Serve the roast with your choice of sides, such as roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "roast",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 0,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-british-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:37:49.228Z"
+}
