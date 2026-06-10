@@ -1,0 +1,84 @@
+{
+  "slug": "flaky-comforting-korean-rice-pilaf",
+  "title": "Korean-Style Flaky Rice Pilaf",
+  "description": "A comforting and flavorful rice pilaf infused with the bold flavors of Korean cuisine, perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add garlic and ginger; fry until fragrant.",
+    "Add rice and stir to coat with oil and mix with garlic and ginger.",
+    "Cook for 2 minutes.",
+    "Add soy sauce, sesame oil, and Korean chili flakes (if using); stir to combine.",
+    "Cook for 1 minute.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is tender.",
+    "Fluff the rice with a fork and garnish with scallions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rice",
+    "korean",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-comforting-korean-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:52:58.077Z"
+}
