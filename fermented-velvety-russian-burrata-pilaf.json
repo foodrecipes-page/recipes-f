@@ -1,0 +1,85 @@
+{
+  "slug": "fermented-velvety-russian-burrata-pilaf",
+  "title": "Russian-Style Buratta Pilaf",
+  "description": "A creamy and flavorful pilaf dish infused with Russian spices and topped with a decadent velvety burrata.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Burrata",
+      "amount": "1 ball"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup",
+      "notes": "White or brown"
+    },
+    {
+      "name": "Russian sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "Fermented"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Salted"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add Russian sauerkraut and cook until slightly caramelized, about 5 minutes.",
+    "Add pilaf rice and stir to combine with sauerkraut.",
+    "Cook for 2-3 minutes or until rice is lightly toasted.",
+    "Add dill, paprika, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes or until rice is cooked.",
+    "Meanwhile, slice the burrata into 4 equal pieces.",
+    "To serve, place a scoop of pilaf on a plate, top with a piece of sliced burrata, and garnish with additional dill if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "burrata",
+    "russian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-velvety-russian-burrata-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:55:23.249Z"
+}
