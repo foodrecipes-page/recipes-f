@@ -1,0 +1,82 @@
+{
+  "slug": "fruity-middle-eastern-salmon-crumble",
+  "title": "Grilled Salmon with Fruity Crumble",
+  "description": "A sweet and savory dish featuring grilled salmon topped with a crunchy fruity crumble.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced apples",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced pears",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon fillets with salt and pepper.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "In a bowl, mix together oats, brown sugar, almonds, diced apples, and diced pears.",
+    "Add honey and lemon juice to the bowl and mix until well combined.",
+    "Top grilled salmon with the fruity crumble.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "fruity",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fruity-middle-eastern-salmon-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:32:19.747Z"
+}
