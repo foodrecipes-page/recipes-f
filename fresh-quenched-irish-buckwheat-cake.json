@@ -1,0 +1,68 @@
+{
+  "slug": "fresh-quenched-irish-buckwheat-cake",
+  "title": "Buckwheat Pancakes",
+  "description": "A delicious breakfast recipe using buckwheat flour and fresh ingredients. Perfect for a weekend morning.",
+  "cuisine": "irish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "irish buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the buckwheat flour, eggs, buttermilk, melted butter, molasses, and honey.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with your favorite toppings, such as fresh fruit or syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "buckwheat",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-quenched-irish-buckwheat-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:53:24.588Z"
+}
