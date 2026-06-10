@@ -1,0 +1,73 @@
+{
+  "slug": "fiery-charred-tunisian-german-sausages-wrap",
+  "title": "Tunisian Sausage Wrap",
+  "description": "A flavorful and spicy wrap filled with Tunisian sausages, perfect for a quick snack or meal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian Sausages",
+      "amount": "4",
+      "notes": "Char-grilled to perfection"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large, plain wrap"
+    },
+    {
+      "name": "Fiery Sauce",
+      "amount": "2 tbsp",
+      "notes": "Spicy sauce for added heat"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "German Mustard",
+      "amount": "1 tbsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Char-grill the Tunisian sausages for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, grill the sliced onions and bell peppers for 3-4 minutes per side, or until tender.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing the grilled sausages, onions, and bell peppers inside.",
+    "Drizzle with fiery sauce and German mustard.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "wrap",
+    "tunisian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-charred-tunisian-german-sausages-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:15:49.677Z"
+}
