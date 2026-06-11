@@ -1,0 +1,86 @@
+{
+  "slug": "full-fat-norwegian-yogurt-braise",
+  "title": "Nordic Braised Pot Roast",
+  "description": "A hearty, comforting Norwegian-inspired pot roast dish made with slow-cooked beef and root vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pot Roast (full cut)",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Full-fat Norwegian Yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Braising Liquid (beef broth)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4"
+    },
+    {
+      "name": "Onions",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pot roast with salt and black pepper.",
+    "Heat a large Dutch oven over medium-high heat. Sear the pot roast until browned on all sides, then remove it from the pot.",
+    "Reduce heat to medium and sauté the onions and garlic until softened.",
+    "Add the carrots, potatoes, and braising liquid to the pot. Stir to combine.",
+    "Return the pot roast to the pot and bring the liquid to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the pot roast for 2 1/2 to 3 hours, or until it's tender and falling apart.",
+    "Remove the pot from the oven and stir in the full-fat Norwegian yogurt.",
+    "Serve the pot roast with the vegetables and sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "pot-roast",
+    "nordic",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": "54g",
+    "carbs": "30g",
+    "fat": "54g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/full-fat-norwegian-yogurt-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:31:17.736Z"
+}
