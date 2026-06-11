@@ -1,0 +1,82 @@
+{
+  "slug": "fragrant-egyptian-eggplant-stew",
+  "title": "Egyptian Eggplant Stew",
+  "description": "A hearty and flavorful stew made with tender eggplant, fragrant spices, and a rich tomato base.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "fragrant",
+      "amount": "2 tsp",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced eggplant and cook until it starts to brown, about 5 minutes.",
+    "Add the diced tomatoes, ground cumin, and ground coriander. Stir well to combine.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until the eggplant is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-egyptian-eggplant-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:28:44.875Z"
+}
