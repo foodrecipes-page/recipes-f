@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-velvety-ukrainian-mushroom-dumplings",
+  "title": "Ukrainian Mushroom Dumplings",
+  "description": "A hearty and savory dish featuring Ukrainian-style dumplings filled with sautéed mushrooms and served with a side of fermented vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "approximate"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour and warm water in a large mixing bowl to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of sautéed mushroom mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes.",
+    "Remove the dumplings from the water with a slotted spoon and serve with fermented vegetables on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-velvety-ukrainian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:04:52.452Z"
+}
