@@ -1,0 +1,57 @@
+{
+  "slug": "fruity-dutch-currant-broth",
+  "title": "Dutch Currant Fritters",
+  "description": "Sweet fritters filled with currants and a hint of dutch spice, perfect for a snack or dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fruity Dutch Cake Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Currants",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Broth",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F.",
+    "In a large bowl, combine the cake mix and currants.",
+    "Add the chicken broth to the bowl and mix until a dough forms.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel lined plate.",
+    "Serve the fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fritters",
+    "currants",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fruity-dutch-currant-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:51:04.723Z"
+}
