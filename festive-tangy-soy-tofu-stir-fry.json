@@ -1,0 +1,86 @@
+{
+  "slug": "festive-tangy-soy-tofu-stir-fry",
+  "title": "Tangy Tofu Stir Fry",
+  "description": "A quick and easy Asian-inspired dish made with marinated tofu, crunchy vegetables, and a sweet and sour sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Festive Bell Peppers",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Stir Fry Noodles",
+      "amount": "200g",
+      "notes": "rice or wheat"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together vinegar, soy sauce, and cornstarch to make a marinade.",
+    "2. Add the tofu to the marinade and refrigerate for at least 15 minutes.",
+    "3. Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "4. Remove the tofu from the marinade, allowing any excess to drip off.",
+    "5. Add the tofu to the wok and cook for 3-4 minutes on each side, until golden brown.",
+    "6. Add the sliced onion and minced ginger to the wok and cook for 2-3 minutes, until the onion is translucent.",
+    "7. Add the bell peppers to the wok and cook for 2-3 minutes, until tender.",
+    "8. Add the cooked noodles to the wok and stir to combine with the vegetables and tofu.",
+    "9. Serve immediately, garnished with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "quick",
+    "easy",
+    "tofu",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-tangy-soy-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:01:25.716Z"
+}
