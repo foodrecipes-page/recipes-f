@@ -1,0 +1,68 @@
+{
+  "slug": "floral-chewy-olive-stir-fry",
+  "title": "Fried Floral Delight",
+  "description": "A crispy and sweet dessert made with fried floral petals. Perfect as a snack or dessert.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Floral petals",
+      "amount": "1 cup",
+      "notes": "Use edible flowers like rose or lavender"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "Granulated sugar for sweetening"
+    },
+    {
+      "name": "Stir-fry spice",
+      "amount": "1 tsp",
+      "notes": "A blend of spices like cinnamon and cardamom"
+    },
+    {
+      "name": "Chewy rice cereal",
+      "amount": "1 cup",
+      "notes": "For coating"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together the floral petals and sugar.",
+    "2. Add the stir-fry spice and mix well.",
+    "3. Heat the olive oil in a deep frying pan over medium-high heat.",
+    "4. When the oil is hot, add the floral mixture and fry until crispy.",
+    "5. Remove the fried petals from the oil and place them on a paper towel-lined plate.",
+    "6. In a separate bowl, mix together the chewy rice cereal and a pinch of sugar.",
+    "7. Coat the fried petals in the cereal mixture.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-olive-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:22:14.672Z"
+}
