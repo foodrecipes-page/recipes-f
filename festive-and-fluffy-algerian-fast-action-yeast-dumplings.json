@@ -1,0 +1,68 @@
+{
+  "slug": "festive-and-fluffy-algerian-fast-action-yeast-dumplings",
+  "title": "Festive Fluffy Algerian Dumplings",
+  "description": "Delicate and light dumplings, served with a side of savory Algerian spices, perfect for a festive occasion.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "algerian spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour and yeast in a large mixing bowl.",
+    "Gradually add water while mixing until dough forms.",
+    "Knead dough for 10 minutes until smooth.",
+    "Rest dough for 1 hour.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of algerian spices in the center of each circle.",
+    "Fold dough over to form a half moon shape and press edges together.",
+    "Heat a large skillet over medium heat and cook dumplings for 3-4 minutes on each side.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dumplings",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-and-fluffy-algerian-fast-action-yeast-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:57:47.290Z"
+}
