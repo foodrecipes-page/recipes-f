@@ -1,0 +1,64 @@
+{
+  "slug": "flaky-portuguese-zucchini-dish",
+  "title": "Flaky Portuguese Zucchini Fritters",
+  "description": "A crispy, golden delight that combines the flavors of Portugal with the freshness of zucchini. Perfect as a side dish or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Make sure to use gluten-free flour if needed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the flour, salt, and grated zucchini.",
+    "Add the flaky pastry dough to the bowl and mix until well combined.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel to drain excess oil.",
+    "Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fritters",
+    "zucchini",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-zucchini-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:43:32.284Z"
+}
