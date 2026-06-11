@@ -1,0 +1,67 @@
+{
+  "slug": "fatty-crispy-turkish-rice-stuffed-leaves",
+  "title": "Crispy Stuffed Rice Leaves",
+  "description": "Delicious crispy stuffed rice leaves make for a tasty and crunchy Turkish snack. This simple recipe is perfect for a quick bite.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkish rice",
+      "amount": "1 cup",
+      "notes": "preferably uncooked"
+    },
+    {
+      "name": "fatty",
+      "amount": "1/2 cup",
+      "notes": "grated or crumbled"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup",
+      "notes": "crushed or chopped"
+    },
+    {
+      "name": "stuffed",
+      "amount": "1/2 cup",
+      "notes": "preferably with a savory filling"
+    },
+    {
+      "name": "leaves",
+      "amount": "4-6",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Wash and prepare the rice according to the package instructions.",
+    "In a separate bowl, mix the fatty, crispy, and stuffed ingredients together.",
+    "Add the rice to the bowl and stir until well combined.",
+    "Lay the leaves flat and place about 1 tablespoon of the rice mixture in the center of each leaf.",
+    "Fold the leaves to enclose the filling and place seam-side down on a baking sheet.",
+    "Drizzle with a little water and cover with parchment paper.",
+    "Bake for 20-25 minutes or until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "snack",
+    "crispy",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-crispy-turkish-rice-stuffed-leaves",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:36:15.245Z"
+}
