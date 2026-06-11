@@ -1,0 +1,91 @@
+{
+  "slug": "freshly-smoky-indian-broccoli-chana-masala",
+  "title": "Smoky Chana Masala",
+  "description": "A flavorful and spicy Indian dish made with smoky chana masala, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chana masala",
+      "amount": "1 cup",
+      "notes": "smoky"
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic and sauté until onion is translucent.",
+    "Add broccoli and cook until tender.",
+    "Add chana masala, garam masala, cumin powder, and coriander powder. Cook for 1 minute.",
+    "Add salt and lemon juice. Stir well.",
+    "Serve hot.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-smoky-indian-broccoli-chana-masala",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:55:56.968Z"
+}
