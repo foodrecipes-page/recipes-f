@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-peppery-mexican-chicken-tacos",
+  "title": "Chicken Tacos",
+  "description": "A flavorful and easy-to-make Mexican dish featuring juicy chicken and crunchy tacos.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless Chicken Breasts",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Fluffy Tortillas",
+      "amount": "6-8 count",
+      "notes": "For tacos"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Peppery Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "For topping"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Avocado or Sour Cream",
+      "amount": "1",
+      "notes": "For topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Add the chicken to the skillet and cook for 5-6 minutes or until browned and cooked through.",
+    "While the chicken cooks, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the chicken is cooked, season with Mexican seasoning and set aside.",
+    "Assemble the tacos by placing the chicken onto a tortilla, topping with cheese, salsa, and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-peppery-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:15:07.471Z"
+}
