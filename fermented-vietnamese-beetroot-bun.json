@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-vietnamese-beetroot-bun",
+  "title": "Vietnamese Beetroot Salad",
+  "description": "A refreshing salad featuring pickled beets, crunchy bun, and a hint of fermented flavor.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Vietnamese bun",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced beets and a pinch of salt. Let it sit for 10 minutes.",
+    "Drain the beets and mix with rice vinegar, sugar, and fermented fish sauce. Set aside.",
+    "In a separate pan, toast the bun pieces over medium heat until crispy.",
+    "Combine the toasted bun with the pickled beets, chopped cilantro, and a splash of fermented fish sauce.",
+    "Toss well to combine and adjust seasoning with salt as needed.",
+    "Serve immediately and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "salad",
+    "beetroot",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-vietnamese-beetroot-bun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:54:10.328Z"
+}
