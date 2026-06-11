@@ -1,0 +1,87 @@
+{
+  "slug": "fluffy-malaysian-tempeh-bao",
+  "title": "Malaysian Tempeh Bao",
+  "description": "A fusion dish that combines the flavors of Malaysia with the ease of a bao bun. Crispy on the outside and fluffy on the inside, these buns are filled with sautéed tempeh for a delicious and healthy meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy Bao Dough",
+      "amount": "1 package (8 buns)",
+      "notes": "Available in most Asian grocery stores"
+    },
+    {
+      "name": "Tempeh",
+      "amount": "1 block (8 oz)",
+      "notes": "Marinate in soy sauce and spices before cooking"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying the tempeh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped for the filling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for the filling"
+    },
+    {
+      "name": "Malaysian Peanut Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 small",
+      "notes": "Sliced for garnish"
+    },
+    {
+      "name": "Pickled Jalapeño",
+      "amount": "1/4 cup",
+      "notes": "Sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat.",
+    "Add 1 tablespoon of vegetable oil to the pan and swirl to coat.",
+    "Add the chopped onion and minced garlic to the pan and stir-fry until fragrant.",
+    "Add the marinated tempeh to the pan and stir-fry until golden brown.",
+    "Remove the tempeh from the pan and set aside.",
+    "Brush the fluffy bao dough with egg wash and place on a baking sheet.",
+    "Bake the bao in a preheated oven at 400°F (200°C) for 10-12 minutes, or until golden brown.",
+    "Assemble the bao by slicing the tempeh into thin strips and placing them inside the baked bao.",
+    "Drizzle the Malaysian peanut sauce over the tempeh and garnish with sliced cucumber and pickled jalapeño.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "tempeh",
+    "bao",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-malaysian-tempeh-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:11:34.368Z"
+}
