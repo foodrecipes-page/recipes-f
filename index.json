@@ -6368,14 +6368,14 @@
   },
   {
     "slug": "flaky-australian-dumplings-stir-fry",
-    "title": "Flaky Australian Dumplings Stir-fry",
+    "title": "Pan-Seared Australian Dumplings",
     "tags": [
-      "australian-dumplings",
-      "flaky-australian-dumplings-stir-fry",
-      "low-fat-friendly",
-      "one-pot-meal"
+      "australian",
+      "dumplings",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 25,
     "shard": "f"
   },
@@ -8768,19 +8768,15 @@
   },
   {
     "slug": "flaky-spicy-dutch-pork-burger",
-    "title": "Flaky Spicy Dutch Pork Burger",
+    "title": "Spicy Pork Burger",
     "tags": [
-      "high-protein",
-      "dutch",
+      "burger",
       "pork",
       "spicy",
-      "flaky",
-      "midnight-craving",
-      "pineapple",
-      "burger"
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 28,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -10436,16 +10432,15 @@
   },
   {
     "slug": "floral-canadian-cookie-salad",
-    "title": "Floral Canadian Cookie Salad",
+    "title": "Floral Canadian Salad",
     "tags": [
-      "bento",
+      "salad",
       "canadian",
-      "dessert",
       "floral",
-      "quick"
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -15555,15 +15550,16 @@
   },
   {
     "slug": "fluffy-yeasty-algerian-cabbage-tagine",
-    "title": "fluffy yeasty algerian cabbage tagine",
+    "title": "Moroccan Cabbage Tagine",
     "tags": [
       "algerian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "cabbage",
+      "tagine",
+      "pastry",
+      "stew"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 35,
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
