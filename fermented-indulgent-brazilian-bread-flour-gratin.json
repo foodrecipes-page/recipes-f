@@ -1,0 +1,70 @@
+{
+  "slug": "fermented-indulgent-brazilian-bread-flour-gratin",
+  "title": "Brazilian Gratin Bread",
+  "description": "A rich and savory bread dish inspired by Brazilian flavors, topped with a creamy gratin.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fermented",
+      "amount": "1/2 cup",
+      "notes": "milk kefir"
+    },
+    {
+      "name": "Indulgent",
+      "amount": "1/2 cup",
+      "notes": "grated cheddar"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1/4 cup",
+      "notes": "butter and grated parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the bread into 1-inch thick slices.",
+    "In a large bowl, mix together flour, fermented milk kefir, and a pinch of salt.",
+    "Add the grated cheddar to the bowl and mix until well combined.",
+    "In a greased 9x13 inch baking dish, create a layer of bread slices.",
+    "Pour the flour mixture over the bread, followed by another layer of bread slices.",
+    "Top with the grated parmesan and dot with butter.",
+    "Repeat steps 5-7 until all ingredients are used, finishing with a layer of bread on top.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the bread is toasted.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "bread",
+    "brazilian",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indulgent-brazilian-bread-flour-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:55:34.713Z"
+}
