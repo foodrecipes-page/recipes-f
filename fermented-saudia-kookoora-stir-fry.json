@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-saudia-kookoora-stir-fry",
+  "title": "Saudi Kookoora with Fermented Twist",
+  "description": "A unique Saudi dish with a fermented twist. This recipe combines the flavors of traditional kookoora with the tanginess of fermented ingredients.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fermented Turnips",
+      "amount": "1 cup, chopped",
+      "notes": "Use store-bought or homemade fermented turnips"
+    },
+    {
+      "name": "Saudi-Style Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Traditionally made with wheat flour, water, and salt"
+    },
+    {
+      "name": "Kookoora",
+      "amount": "1 cup, chopped",
+      "notes": "A traditional Saudi side dish made with fried onions and sometimes meat"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup, sliced",
+      "notes": "Use yellow or white onions for the best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste based on the fermented turnips"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add freshly ground black pepper for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add sliced onions and cook until golden brown, stirring occasionally.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add chopped kookoora and stir to combine with onions and garlic.",
+    "Add chopped fermented turnips and stir to combine with the kookoora mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot with Saudi-style flatbread.",
+    "Optional: Top with additional chopped fermented turnips and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "fermented",
+    "breakfast",
+    "kookoora"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-saudia-kookoora-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:28:03.572Z"
+}
