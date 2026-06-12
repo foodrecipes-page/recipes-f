@@ -1,0 +1,82 @@
+{
+  "slug": "fluffy-bitter-moroccan-chickpeas-tagine",
+  "title": "Moroccan Chickpea Tagine",
+  "description": "A hearty and flavorful stew originating from Morocco, made with chickpeas, aromatic spices, and a hint of bitterness.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Tagine (Moroccan clay pot)",
+      "amount": "1",
+      "notes": "or a Dutch oven"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bunch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the onion and garlic, cooking until softened.",
+    "Stir in the Moroccan spice blend, cooking for 1 minute.",
+    "Add the chickpeas, cooking until heated through.",
+    "Serve over fluffy rice, garnished with bitter greens if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chickpeas",
+    "vegetarian",
+    "gluten-free",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-bitter-moroccan-chickpeas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:15:12.439Z"
+}
