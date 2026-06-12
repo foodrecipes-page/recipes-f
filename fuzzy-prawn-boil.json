@@ -1,0 +1,56 @@
+{
+  "slug": "fuzzy-prawn-boil",
+  "title": "Prawn and Fuzzy Boil",
+  "description": "A simple and flavorful boil with prawns and fuzzy vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawn",
+      "amount": "500g",
+      "notes": "frozen prawns"
+    },
+    {
+      "name": "fuzzy",
+      "amount": "250g",
+      "notes": "any fuzzy vegetables (such as okra)"
+    },
+    {
+      "name": "boil",
+      "amount": "2L",
+      "notes": "water"
+    }
+  ],
+  "instructions": [
+    "1. Fill a large pot with the boil.",
+    "2. Bring the boil to a boil.",
+    "3. Add the prawn.",
+    "4. Cook the prawn for 2-3 minutes or until pink.",
+    "5. Add the fuzzy.",
+    "6. Cook for another 3-4 minutes or until the fuzzy is tender.",
+    "7. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fuzzy-prawn-boil",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:03:48.629Z"
+}
