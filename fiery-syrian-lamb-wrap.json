@@ -1,0 +1,82 @@
+{
+  "slug": "fiery-syrian-lamb-wrap",
+  "title": "Syrian Lamb Wrap",
+  "description": "A flavorful and spicy wrap filled with lamb, herbs, and spices, inspired by Syrian cuisine.",
+  "cuisine": "syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and thinly sliced"
+    },
+    {
+      "name": "Fiery Pepper Paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Crushed Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Syrian Folded Bread",
+      "amount": "1 large",
+      "notes": "or substitute with pita bread"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together pepper paste, cilantro, garlic, lemon juice, salt, and pepper.",
+    "3. Rub the lamb slices with the spicy mixture, making sure they're evenly coated.",
+    "4. Grill the lamb slices for 3-4 minutes per side, or until cooked through.",
+    "5. Meanwhile, warm the bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "6. Assemble the wrap by placing the grilled lamb slices on the bread, followed by any additional toppings you like.",
+    "7. Fold the bread in half to enclose the filling, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "syrian",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-syrian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:59:59.970Z"
+}
