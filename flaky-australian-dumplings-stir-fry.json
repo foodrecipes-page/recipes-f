@@ -1,0 +1,84 @@
+{
+  "slug": "flaky-australian-dumplings-stir-fry",
+  "title": "Pan-Seared Australian Dumplings",
+  "description": "A simple and delicious dish of pan-seared dumplings served with a side of stir-fried vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Dumplings",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the sliced onion and cook for 2-3 minutes until translucent.",
+    "3. Add the sliced carrots and cook for 3-4 minutes until tender.",
+    "4. Add the sliced zucchini and cook for 2-3 minutes until tender.",
+    "5. Add the grated ginger and minced garlic and cook for 1 minute.",
+    "6. Add the Australian dumplings and cook for 2-3 minutes on each side until golden brown.",
+    "7. If using soy sauce, brush the dumplings with it during the last minute of cooking.",
+    "8. Serve the pan-seared dumplings hot with the stir-fried vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dumplings",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-australian-dumplings-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:25:49.968Z"
+}
