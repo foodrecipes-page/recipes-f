@@ -1,0 +1,70 @@
+{
+  "slug": "fermented-juicy-romantic-spanish-tomato-stir-fry",
+  "title": "Spanish Stir Fry",
+  "description": "A quick and flavorful Spanish-inspired stir fry made with juicy tomatoes and a hint of Spanish flair.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Tomato",
+      "amount": "2 large",
+      "notes": "any variety will work"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "use for stir-frying"
+    },
+    {
+      "name": "Spanish Paprika",
+      "amount": "1 teaspoon",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced, adds depth"
+    },
+    {
+      "name": "Spanish Saffron Rice",
+      "amount": "1 cup",
+      "notes": "cook according to package"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "garnish, adds freshness"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the diced tomato and cook for 3-4 minutes, until tender.",
+    "Stir in the Spanish paprika and cook for an additional minute.",
+    "Serve the tomato mixture over the cooked Spanish saffron rice.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-juicy-romantic-spanish-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:03:35.392Z"
+}
