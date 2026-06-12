@@ -1,0 +1,77 @@
+{
+  "slug": "fluffy-brazilian-cassava-fritters",
+  "title": "Cassava Fritters with Fluffy Brazilian Cheese",
+  "description": "A crispy Brazilian-inspired snack featuring cassava fritters topped with fluffy cheese and a side of tangy sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated cassava",
+      "amount": "1 large"
+    },
+    {
+      "name": "fluffy cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cassava flour, grated cassava, and a pinch of salt.",
+    "In a separate bowl, whisk together eggs, chopped onion, minced garlic, and a pinch of salt.",
+    "Add the egg mixture to the cassava mixture and stir until a dough forms.",
+    "Heat olive oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the fritters until crispy and golden brown, about 3-4 minutes per side.",
+    "Remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with fluffy cheese and a side of tangy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cassava",
+    "brazilian",
+    "fritters",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-brazilian-cassava-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:30:55.649Z"
+}
