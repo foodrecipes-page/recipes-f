@@ -1,0 +1,80 @@
+{
+  "slug": "fermented-mexican-oyster-stir-fry",
+  "title": "Spicy Fermented Oyster Stir Fry",
+  "description": "A spicy and savory stir fry dish featuring fermented oysters, perfect for a quick and flavorful meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented oysters",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Jalapeño pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the onion, bell pepper, and garlic to the wok and stir-fry until the vegetables are tender.",
+    "Add the fermented oysters to the wok and stir-fry for 2-3 minutes.",
+    "Add the chopped jalapeño and cilantro to the wok and stir-fry for another minute.",
+    "Season the stir fry with soy sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "stir-fry",
+    "fermented-oysters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-mexican-oyster-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:54:04.949Z"
+}
