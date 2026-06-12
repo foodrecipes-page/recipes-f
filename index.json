@@ -3393,15 +3393,14 @@
   },
   {
     "slug": "fermented-mexican-oyster-stir-fry",
-    "title": "Fermented Mexican Oyster Stir-Fry",
+    "title": "Spicy Fermented Oyster Stir Fry",
     "tags": [
-      "fermented-oysters",
+      "mexican",
       "stir-fry",
-      "low-fat-friendly",
-      "adventurous-cuisine"
+      "fermented-oysters"
     ],
-    "cuisine": "Mexican (Norteño)",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -5785,18 +5784,16 @@
   },
   {
     "slug": "fiery-smoky-algerian-chickpeas-tagine",
-    "title": "Fiery Smoky Algerian Chickpeas Tagine",
+    "title": "Algerian Chickpea Tagine",
     "tags": [
       "algerian",
       "north-african",
-      "one-pot",
-      "smoky",
-      "spicy",
-      "vegan",
-      "vegetarian"
+      "chickpea",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -12918,19 +12915,16 @@
   },
   {
     "slug": "fluffy-bitter-moroccan-chickpeas-tagine",
-    "title": "Fluffy Bitter Moroccan Chickpeas Tagine",
+    "title": "Moroccan Chickpea Tagine",
     "tags": [
       "moroccan",
-      "tagine",
       "chickpeas",
-      "mustard-seeds",
-      "dairy-free",
-      "fluffy",
-      "bitter",
-      "energizing"
+      "vegetarian",
+      "gluten-free",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -13421,15 +13415,17 @@
   },
   {
     "slug": "fluffy-fermented-moroccan-salmon-tagine",
-    "title": "Fluffy Fermented Moroccan Salmon Tagine",
+    "title": "Moroccan Salmon Tagine",
     "tags": [
-      "fermented",
-      "fish",
       "moroccan",
-      "moroccan-fish"
+      "salmon",
+      "tagine",
+      "rice",
+      "fluffy",
+      "fermented"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 28,
     "shard": "f"
   },
   {
@@ -18875,17 +18871,15 @@
   },
   {
     "slug": "fresh-velvety-lazy-sunday-indian-basil-stir-fry",
-    "title": "Fresh Velvety Lazy Sunday Indian Basil Stir-fry",
+    "title": "Sunday Indian Basil Stir Fry",
     "tags": [
-      "lazy-sunday",
-      "fresh",
-      "velvety",
-      "indian-maharashtrian",
-      "basil-stir-fry",
-      "fermented-ingredients"
+      "basil",
+      "indian",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Indian (Maharashtrian)",
-    "totalTimeMin": 15,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
