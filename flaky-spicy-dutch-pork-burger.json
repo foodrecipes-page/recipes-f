@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-spicy-dutch-pork-burger",
+  "title": "Spicy Pork Burger",
+  "description": "A savory and slightly spicy burger made with pork and topped with a variety of ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Burger Patties",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Mayo",
+      "amount": "1/2 cup",
+      "notes": "Mayo with diced jalapenos"
+    },
+    {
+      "name": "Dutch Gouda Cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the pork burger patties to an internal temperature of 160°F (71°C).",
+    "3. Meanwhile, toast the flaky pastry buns on the grill or in a toaster.",
+    "4. Spread a layer of spicy mayo on the bottom bun.",
+    "5. Add a cooked pork burger patty, a slice of Dutch Gouda cheese, a few leaves of lettuce, a few slices of tomato, and a few slices of onion.",
+    "6. Top with the top bun.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "pork",
+    "spicy",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 42,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-spicy-dutch-pork-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:46:44.673Z"
+}
