@@ -1,0 +1,100 @@
+{
+  "slug": "flambe-saudi-arabian-chives-tagine",
+  "title": "Saudian Lamb Tagine with Chives",
+  "description": "A traditional Middle Eastern stew originating from Saudi Arabia, flavored with aromatic spices and herbs.",
+  "cuisine": "saudi",
+  "diet": [
+    "beef-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Flambe",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Arabian coffee",
+      "amount": "1 cup",
+      "notes": "used for marinade"
+    },
+    {
+      "name": "Chives",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, then set aside.",
+    "Add cumin, cinnamon, cayenne pepper, salt, and black pepper to the pot; cook for 1 minute.",
+    "Add the sliced ginger and cook for 1 minute.",
+    "Add the browned lamb, coffee, and 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake for 2.5 hours or until the lamb is tender.",
+    "Stir in the chopped chives and flambe (if using).",
+    "Serve the tagine hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "saudi",
+    "tagine",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flambe-saudi-arabian-chives-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:06:17.634Z"
+}
