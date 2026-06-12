@@ -1,0 +1,81 @@
+{
+  "slug": "fresh-velvety-lazy-sunday-indian-basil-stir-fry",
+  "title": "Sunday Indian Basil Stir Fry",
+  "description": "A flavorful and aromatic Indian-inspired stir fry made with fresh basil and served on a lazy Sunday.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sunday lazy oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the bell pepper and tomato and continue to stir fry.",
+    "Add the fresh basil and stir well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "basil",
+    "indian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-velvety-lazy-sunday-indian-basil-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:03:52.060Z"
+}
