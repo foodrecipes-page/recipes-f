@@ -1,0 +1,77 @@
+{
+  "slug": "flame-grilled-argentinian-beef-skewers",
+  "title": "Grilled Argentinian Beef Skewers",
+  "description": "A classic South American dish featuring marinated beef skewers grilled to perfection.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (strip loin or ribeye)",
+      "amount": "500g",
+      "notes": "Cut into 30g cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and mix with olive oil"
+    },
+    {
+      "name": "Chimichurri",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat.",
+    "2. Thread 3-4 pieces of beef onto each skewer.",
+    "3. In a small bowl, mix together minced garlic and olive oil.",
+    "4. Brush the garlic and oil mixture onto both sides of the beef cubes.",
+    "5. Season the beef with salt and pepper to taste.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the beef reaches your desired level of doneness.",
+    "7. Remove the skewers from the grill and let them rest for a few minutes.",
+    "8. Serve the skewers hot with chimichurri sauce and lemon wedges on the side.",
+    "9. Garnish with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "beef",
+    "skewers",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flame-grilled-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:00:22.562Z"
+}
