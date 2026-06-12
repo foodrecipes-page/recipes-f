@@ -1,0 +1,83 @@
+{
+  "slug": "fermented-velvety-biryani-masala-stir-fry",
+  "title": "Fermented Biryani Masala Stir Fry",
+  "description": "A flavorful and aromatic vegan stir fry made with fermented ingredients and biryani spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Tofu",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Biryani Masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chopped Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Chopped Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic. Fry until the onion is translucent.",
+    "Add fermented tofu and stir until it's lightly browned.",
+    "Add biryani masala and stir for 1 minute.",
+    "Add bell peppers and carrots. Stir-fry until the vegetables are tender.",
+    "Adjust seasoning as needed.",
+    "Serve hot and garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "indian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-velvety-biryani-masala-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:02:27.239Z"
+}
