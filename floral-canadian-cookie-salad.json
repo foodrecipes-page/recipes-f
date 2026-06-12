@@ -1,0 +1,74 @@
+{
+  "slug": "floral-canadian-cookie-salad",
+  "title": "Floral Canadian Salad",
+  "description": "A refreshing salad made with floral notes and Canadian ingredients. Perfect for a light and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried floral petals",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Canadian walnuts",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salad dressing",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, dried floral petals, Canadian feta cheese, and Canadian walnuts.",
+    "Drizzle the salad dressing over the top and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "canadian",
+    "floral",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-canadian-cookie-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:58:22.513Z"
+}
