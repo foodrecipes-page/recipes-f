@@ -1,0 +1,96 @@
+{
+  "slug": "fresh-juicy-chinese-hake-wonton-soup",
+  "title": "Crispy Wonton Soup with Hake",
+  "description": "A light and flavorful Chinese-inspired soup featuring crispy wontons and pan-seared hake. Perfect for a cold winter day.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh wontons (4-6 pieces)",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Hake fillets (4 oz each)",
+      "amount": "2 fillets",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Chinese soup broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the hake fillets and cook for 2-3 minutes on each side, or until cooked through.",
+    "Remove the hake from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of vegetable oil.",
+    "Add the sliced ginger and minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the Chinese soup broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer for 2-3 minutes.",
+    "Add the wontons to the skillet and cook for 2-3 minutes, or until they float to the surface.",
+    "Stir in the soy sauce and sesame oil.",
+    "Return the hake to the skillet and cook for an additional 1-2 minutes, or until the fish is coated in the sauce.",
+    "Serve the wonton soup hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "wontons",
+    "hake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-juicy-chinese-hake-wonton-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:11:26.697Z"
+}
