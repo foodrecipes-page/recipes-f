@@ -1,0 +1,84 @@
+{
+  "slug": "fresh-crunchy-moroccan-lettuce-roast",
+  "title": "Roasted Lettuce Salad with Crunchy Moroccan Chickpeas",
+  "description": "A refreshing and flavorful salad made with roasted lettuce, crunchy Moroccan chickpeas, and a blend of fresh herbs.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Roast chickpeas",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Moroccan seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley or cilantro"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the roast chickpeas with 1 tablespoon of olive oil and season with Moroccan seasoning. Spread on a baking sheet and roast for 10-12 minutes, or until crispy.",
+    "Toss the fresh lettuce with 2 tablespoons of lemon juice and a pinch of salt and pepper.",
+    "In a large bowl, combine the roasted lettuce and crispy chickpeas.",
+    "Sprinkle the crunchy chopped fresh herbs on top.",
+    "Drizzle with the remaining 1 tablespoon of olive oil and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "moroccan",
+    "chickpeas",
+    "lettuce",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crunchy-moroccan-lettuce-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:02:56.555Z"
+}
