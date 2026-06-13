@@ -1,0 +1,69 @@
+{
+  "slug": "flaky-moroccan-blue-cheese-tagine",
+  "title": "Moroccan Blue Cheese Flaky Pastry",
+  "description": "A savory pastry filled with a tangy blue cheese mixture, inspired by the flavors of Morocco.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "blue cheese",
+      "amount": "100g",
+      "notes": "crumbly, tangy"
+    },
+    {
+      "name": "moroccan spice mix",
+      "amount": "1 tsp",
+      "notes": "ras el hanout or similar blend"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Roll out the flaky pastry dough to a thickness of 3mm.",
+    "In a small bowl, mix together the blue cheese, moroccan spice mix, and salt.",
+    "Spread the blue cheese mixture evenly over one half of the pastry dough, leaving a 1cm border around the edges.",
+    "Fold the other half of the pastry dough over the filling, pressing the edges to seal.",
+    "Use a sharp knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Brush the top of the pastry with a little water and sprinkle with chopped thyme.",
+    "Bake the pastry for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "blue-cheese",
+    "flaky-pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-moroccan-blue-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:43:45.623Z"
+}
