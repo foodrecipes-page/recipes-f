@@ -1,0 +1,86 @@
+{
+  "slug": "fresh-fluffy-indulgent-moroccan-savory-briouat",
+  "title": "Moroccan Briouat Delights",
+  "description": "Indulge in these crispy and savory Moroccan briouats filled with spiced meat, perfect for a snack or appetizer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pork",
+    "poultry-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Briouat pastry",
+      "amount": "1 package, thawed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F.",
+    "In a large skillet, cook the ground meat over medium-high heat until browned, breaking it up into small pieces.",
+    "Add the chopped onion, grated ginger, cumin, cayenne pepper, and salt to the skillet and cook until the onion is translucent.",
+    "Unroll the briouat pastry and cut it into squares.",
+    "Place a tablespoon of the meat mixture in the center of each square.",
+    "Brush the edges with the beaten egg and fold the pastry squares into triangles.",
+    "Press the edges to seal and brush the tops with the beaten egg.",
+    "Fry the briouats in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the briouats on paper towels and serve warm.",
+    "Serve with a side of Moroccan chili sauce or yogurt sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "briouat",
+    "meat",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fluffy-indulgent-moroccan-savory-briouat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:53:10.798Z"
+}
