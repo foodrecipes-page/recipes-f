@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-flaky-irish-potato-bisque",
+  "title": "Irish Potato Cakes with Creamy Bisque",
+  "description": "A hearty, comforting dish featuring crispy Irish potato cakes served alongside a rich and creamy bisque. This recipe is perfect for a cold winter evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Potato",
+      "amount": "3 large"
+    },
+    {
+      "name": "flaky Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Grate the potatoes and squeeze out excess moisture.",
+    "In a large bowl, combine grated potatoes, onion, garlic, flour, and grated cheddar. Mix well.",
+    "Cut the flaky pastry into small squares. Add a tablespoon of butter to each square and fold into a triangle.",
+    "Place the pastry triangles on a baking sheet lined with parchment paper. Bake for 15 minutes, or until golden brown.",
+    "While the pastry is baking, heat the butter in a large saucepan over medium heat. Add the cream and chicken broth. Bring to a simmer and cook until the bisque has thickened slightly.",
+    "Divide the potato mixture among the baked pastry triangles. Serve with the creamy bisque spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "potato-cakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-flaky-irish-potato-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:16:56.761Z"
+}
