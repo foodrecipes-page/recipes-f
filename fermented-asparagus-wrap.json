@@ -1,0 +1,64 @@
+{
+  "slug": "fermented-asparagus-wrap",
+  "title": "Fermented Asparagus Wrap",
+  "description": "A healthy and tasty wrap filled with fermented asparagus, perfect for a quick snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Asparagus",
+      "amount": "4-6 spears"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "handful"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan to medium heat.",
+    "Add a handful of fermented asparagus to the pan and sauté until tender.",
+    "Warm the tortilla wrap in the pan for a few seconds.",
+    "Assemble the wrap by placing the sautéed asparagus, lettuce, tomato, and sliced avocado inside.",
+    "Add a pinch of chili flakes to taste.",
+    "Fold the wrap and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "quick-meal",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-asparagus-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:59:21.004Z"
+}
