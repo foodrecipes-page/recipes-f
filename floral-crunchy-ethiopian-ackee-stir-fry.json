@@ -1,0 +1,71 @@
+{
+  "slug": "floral-crunchy-ethiopian-ackee-stir-fry",
+  "title": "Ethiopian Ackee Stir Fry",
+  "description": "A flavorful stir fry from Ethiopia using ackee fruit, served with crunchy fried onions. This dish is a delicious twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ackee Fruit",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "2 tsp",
+      "notes": "Available at most international grocery stores"
+    },
+    {
+      "name": "Floral Oil",
+      "amount": "2 tbsp",
+      "notes": "Or any neutral oil"
+    },
+    {
+      "name": "Crunchy Fried Onions",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Stir-Fry Seasoning",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat floral oil in a pan over medium-high heat.",
+    "Add chopped onions and stir-fry until golden brown.",
+    "Add ackee fruit and cook for 2-3 minutes.",
+    "Add Ethiopian Berbere Spice and stir-fry for another minute.",
+    "Add stir-fry seasoning if using.",
+    "Serve hot garnished with crunchy fried onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "ackee",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crunchy-ethiopian-ackee-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:21:01.799Z"
+}
