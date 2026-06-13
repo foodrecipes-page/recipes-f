@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-saudia-baguette-wrap",
+  "title": "Saudia-Style Baguette Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with saudia spices, fluffy meat, and crispy baguette.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy ground meat",
+      "amount": "1/2 pound",
+      "notes": "Use a mixture of beef and lamb for an authentic saudia flavor"
+    },
+    {
+      "name": "Saudia spices",
+      "amount": "1 tablespoon",
+      "notes": "A blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "Toasted and crispy for the perfect crunch"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large and soft for wrapping"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Fresh and crunchy for added texture"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Juicy and ripe for a burst of flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add the ground meat to the skillet, breaking it up with a spoon as it cooks.",
+    "3. Once the meat is browned, add the saudia spices and stir to combine.",
+    "4. Reduce heat to medium and simmer for 5 minutes, stirring occasionally.",
+    "5. Meanwhile, toast the baguette until crispy.",
+    "6. Spread a layer of the meat mixture onto the toasted baguette.",
+    "7. Add the lettuce, tomatoes, and wrap ingredients on top of the meat.",
+    "8. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "wrap",
+    "lunch",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-saudia-baguette-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:12:08.087Z"
+}
