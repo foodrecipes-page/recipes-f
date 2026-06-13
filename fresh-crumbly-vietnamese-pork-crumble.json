@@ -1,0 +1,98 @@
+{
+  "slug": "fresh-crumbly-vietnamese-pork-crumble",
+  "title": "Vietnamese Pork Spring Rolls",
+  "description": "Delicious spring rolls filled with pork, vegetables and herbs, perfect for a snack or appetizer. Originating from Vietnam, these fresh rolls are typically served with a sweet and spicy sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork, ground",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Vietnamese mint leaves",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in hot water for 5-7 minutes, or according to package instructions.",
+    "In a large pan, cook the ground pork over medium-high heat, breaking it up with a spoon as it cooks, until it is no longer pink, about 5-7 minutes.",
+    "Add the sugar, salt, and fried shallots to the cooked pork and stir to combine.",
+    "Add the cooked noodles, shredded carrots, cucumber, cabbage, mint leaves, cilantro leaves, and cooked pork mixture to a large bowl.",
+    "Mix well to combine.",
+    "To assemble the spring rolls, lay a rice paper wrapper on a clean surface.",
+    "Place about 1/2 cup of the pork and noodle mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with a sweet and spicy sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "pork",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crumbly-vietnamese-pork-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:49:22.654Z"
+}
