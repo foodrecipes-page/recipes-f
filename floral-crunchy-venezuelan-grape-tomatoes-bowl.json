@@ -1,0 +1,64 @@
+{
+  "slug": "floral-crunchy-venezuelan-grape-tomatoes-bowl",
+  "title": "Venezuelan Grape Salad",
+  "description": "A refreshing salad with sweet grapes and crunchy ingredients. Perfect for a light lunch or snack.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh vegetables or nuts"
+    },
+    {
+      "name": "Floral",
+      "amount": "1 tablespoon",
+      "notes": "honey or flower syrup"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "1 tablespoon",
+      "notes": "piloncillo or brown sugar"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the grapes, crunchy ingredient, and tomatoes.",
+    "Drizzle the floral ingredient and Venezuelan ingredient over the top.",
+    "Gently toss the salad to combine.",
+    "Serve immediately, garnished with additional crunchy ingredients if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "fruit",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crunchy-venezuelan-grape-tomatoes-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:02:45.940Z"
+}
