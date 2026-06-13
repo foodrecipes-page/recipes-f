@@ -1,0 +1,70 @@
+{
+  "slug": "floral-indulgent-malaysian-coconut-crumble",
+  "title": "Crispy Coconut Crumble Pie",
+  "description": "A sweet and indulgent dessert featuring a malaysian-inspired coconut filling topped with a crunchy crumble.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble mixture (see below)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk together coconut milk, sugar, egg, and vanilla extract in a bowl.",
+    "Pour the mixture into a pie crust.",
+    "Top with crumble mixture.",
+    "Bake for 40-45 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "crumble",
+    "malaysian",
+    "dessert",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-indulgent-malaysian-coconut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:39:39.118Z"
+}
