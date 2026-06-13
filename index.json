@@ -1226,13 +1226,12 @@
     "slug": "fermented-asparagus-wrap",
     "title": "Fermented Asparagus Wrap",
     "tags": [
-      "fermented-wrap",
-      "juicy-asparagus",
-      "vegan-friendly",
-      "meal-prep"
+      "vegan",
+      "quick-meal",
+      "healthy"
     ],
-    "cuisine": "vegan",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -5609,17 +5608,15 @@
   },
   {
     "slug": "fiery-roasted-ukrainian-morcilla-paella",
-    "title": "Fiery Roasted Ukrainian Morcilla Paella",
+    "title": "Traditional Ukrainian Paella",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "post-workout",
-      "roasted",
-      "spicy",
-      "ukrainian"
+      "ukrainian",
+      "paella",
+      "duck",
+      "morcilla"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -17757,20 +17754,15 @@
   },
   {
     "slug": "fresh-fluffy-indulgent-moroccan-savory-briouat",
-    "title": "Fresh Fluffy Indulgent Moroccan Savory Briouat",
+    "title": "Moroccan Briouat Delights",
     "tags": [
-      "bhuna",
-      "briouat",
-      "flaky-pastry",
       "moroccan",
-      "one-pan",
-      "savory",
-      "snack",
-      "summer-savory",
-      "weeknight"
+      "briouat",
+      "meat",
+      "savory"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
