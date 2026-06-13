@@ -1,0 +1,77 @@
+{
+  "slug": "fiery-glazed-syrian-sausage-kebabs",
+  "title": "Syrian Sausage Kebabs with Fiery Glaze",
+  "description": "A flavorful and spicy twist on traditional kebabs, featuring syrian sausage and a sweet and spicy glaze.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package",
+      "notes": "12-15 skewers"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Fiery glaze",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sausage pieces, onion, and bell pepper (if using) onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, prepare the fiery glaze by combining all ingredients in a saucepan.",
+    "Bring the glaze to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Brush the glaze over the kebabs during the last 2 minutes of grilling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "sausages",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-glazed-syrian-sausage-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:28:15.380Z"
+}
