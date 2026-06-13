@@ -1,0 +1,63 @@
+{
+  "slug": "flaky-australian-tomato-soup",
+  "title": "Australian Flaky Pastry Tomato Tart",
+  "description": "A savory tart that showcases australian flaky pastry, fresh tomatoes, and a hint of sweetness. Serve as a snack or light lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian flaky pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Soup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the Australian flaky pastry and place in a tart pan.",
+    "Slice the fresh tomatoes and layer them in the pastry shell.",
+    "Drizzle the soup over the tomatoes.",
+    "Season with salt to taste.",
+    "Sprinkle chopped fresh basil over the top.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tart",
+    "pastry",
+    "tomato",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-australian-tomato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:42:50.261Z"
+}
