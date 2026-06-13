@@ -1,0 +1,79 @@
+{
+  "slug": "fantastic-fried-saudi-arabian-ikura-biryani",
+  "title": "Saudi Arabian Ikura Biryani",
+  "description": "A flavorful and aromatic rice dish from Saudi Arabia, featuring the delicate taste of ikura and the spiciness of biryani. This dish is perfect for a special occasion or a dinner party.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arabian Basmati Rice",
+      "amount": "1 cup",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/2 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "Fried Onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, crispy"
+    },
+    {
+      "name": "Fantastic Spice Blend",
+      "amount": "2 tsp",
+      "notes": "custom mix of spices"
+    },
+    {
+      "name": "Saudi Arabian Saffron",
+      "amount": "1/4 tsp",
+      "notes": "threads, soaked in 1 tbsp hot water"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the fried onions and cook until lightly browned.",
+    "Add the Arabian Basmati Rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the Fantastic Spice Blend and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes, or until the rice is cooked and fluffy.",
+    "Fluff the rice with a fork and stir in the soaked saffron threads.",
+    "Transfer the rice to a serving platter or individual plates.",
+    "Top with ikura and garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "ikura",
+    "biryani",
+    "rice",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-fried-saudi-arabian-ikura-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:40:12.178Z"
+}
