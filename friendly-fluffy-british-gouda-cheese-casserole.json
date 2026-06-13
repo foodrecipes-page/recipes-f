@@ -1,0 +1,75 @@
+{
+  "slug": "friendly-fluffy-british-gouda-cheese-casserole",
+  "title": "Classic British Gouda Casserole",
+  "description": "A rich and comforting casserole featuring melted gouda cheese and a blend of British flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British gouda cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "friendly fluffy pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fluffy casserole mix",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "british spices",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme, dried rosemary"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the pastry dough according to package instructions.",
+    "In a large mixing bowl, combine the gouda cheese, casserole mix, spices, and milk. Stir until well combined.",
+    "Add the eggs to the cheese mixture and stir until smooth.",
+    "Roll out the pastry dough to fit a 9x13-inch baking dish.",
+    "Pour the cheese mixture into the pastry-lined dish.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the filling is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gouda",
+    "british",
+    "casserole",
+    "comfort-food",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/friendly-fluffy-british-gouda-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T04:20:06.599Z"
+}
