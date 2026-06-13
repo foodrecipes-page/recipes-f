@@ -1,0 +1,86 @@
+{
+  "slug": "fiery-roasted-ukrainian-morcilla-paella",
+  "title": "Traditional Ukrainian Paella",
+  "description": "A hearty, flavorful dish blending Ukrainian and Spanish influences. This one-pot meal is perfect for a chilly evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Muscovy duck",
+      "amount": "1 whole (3lbs)",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Muscovy broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fired morcilla",
+      "amount": "6 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the Muscovy broth in a large paella pan over medium-high heat.",
+    "2. Add the onion and sauté until translucent.",
+    "3. Add the garlic and red bell pepper, cooking for 2-3 minutes.",
+    "4. Add the paella rice, smoked paprika, and stir to combine.",
+    "5. Add the Muscovy duck, skin side down, and cook for 5 minutes.",
+    "6. Add the fired morcilla slices, nestling them among the rice.",
+    "7. Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "8. Remove from heat and let rest for 5-10 minutes before serving.",
+    "9. Slice the Muscovy duck and serve alongside the paella.",
+    "10. Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ukrainian",
+    "paella",
+    "duck",
+    "morcilla"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-roasted-ukrainian-morcilla-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:43:32.604Z"
+}
