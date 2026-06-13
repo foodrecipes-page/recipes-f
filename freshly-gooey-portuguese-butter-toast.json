@@ -1,0 +1,50 @@
+{
+  "slug": "freshly-gooey-portuguese-butter-toast",
+  "title": "Buttery Toast",
+  "description": "A simple yet delicious breakfast recipe that requires minimal ingredients.",
+  "cuisine": "portuguese",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": "preferably freshly baked"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Butter one side of each slice of toast.",
+    "Place the buttered side down in the pan and cook for 2-3 minutes or until golden brown.",
+    "Flip the toast over and cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "quick",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-gooey-portuguese-butter-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:20:29.813Z"
+}
