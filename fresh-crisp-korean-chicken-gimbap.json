@@ -1,0 +1,89 @@
+{
+  "slug": "fresh-crisp-korean-chicken-gimbap",
+  "title": "Korean-Style Chicken Gimbap",
+  "description": "A delicious and easy-to-make Korean-inspired dish that combines the classic flavors of gimbap with the savory taste of chicken.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Imitation Crab Meat",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gimbap Rice (or Japanese short-grain rice)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "1. Cook the gimbap rice according to the package instructions.",
+    "2. In a small bowl, whisk together the chili flakes, brown sugar, soy sauce, and rice vinegar.",
+    "3. In a separate bowl, whisk together the sesame oil, salt, and black pepper.",
+    "4. Add the chicken to the bowl with the marinade and mix well to coat.",
+    "5. Grill or pan-fry the chicken until it reaches an internal temperature of 165°F (74°C).",
+    "6. Cut the cooked chicken into thin slices.",
+    "7. Cut the cucumber and carrots into thin strips.",
+    "8. In a large bowl, combine the cooked gimbap rice, chicken slices, cucumber strips, carrot strips, and imitation crab meat.",
+    "9. Mix well to combine.",
+    "10. Cut a sheet of gim (or nori seaweed) into a 12-inch square.",
+    "11. Spread a thin layer of the rice mixture onto the center of the gim, leaving a 1-inch border around the edges.",
+    "12. Roll up the gim tightly but gently, applying even pressure to form a compact roll.",
+    "13. Slice the roll into 8 equal pieces.",
+    "14. Serve the Korean-Style Chicken Gimbap immediately, garnished with additional sesame oil and chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chicken",
+    "gimbap",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crisp-korean-chicken-gimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:09:15.070Z"
+}
