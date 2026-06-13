@@ -1,0 +1,95 @@
+{
+  "slug": "flavorful-aerated-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring flavorful pork dumplings served in a rich, aerated broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "slovakian black pepper",
+      "amount": "1 teaspoon",
+      "notes": "for dumpling seasoning"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 teaspoon",
+      "notes": "for dumpling seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 teaspoon",
+      "notes": "for dumpling seasoning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "for dumpling seasoning"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "aerated broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, black pepper, paprika, and salt.",
+    "Gradually add water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into small pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape.",
+    "In a large skillet, cook chopped onion and minced garlic in a little oil until softened.",
+    "Add cooked pork, caraway seeds, and a pinch of salt to the skillet and stir to combine.",
+    "Place a tablespoon of the pork mixture onto the center of each dumpling disk.",
+    "Fold the dough over the filling and press edges together to seal.",
+    "In a large pot of boiling, salted water, cook the dumplings for 10-12 minutes or until they float.",
+    "Serve the dumplings in an aerated broth, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "pork",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-aerated-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:31:36.013Z"
+}
