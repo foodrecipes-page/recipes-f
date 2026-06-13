@@ -1,0 +1,74 @@
+{
+  "slug": "fatty-crunchy-irish-beef-stew",
+  "title": "Beef and Irish Stew",
+  "description": "A hearty beef stew with the flavors of Ireland. Rich, savory, and comforting.",
+  "cuisine": null,
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Irish stout",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Fatty bacon",
+      "amount": "6 slices",
+      "notes": "crispy"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "In a large pot, cook the bacon over medium heat until crispy.",
+    "Remove the bacon and set aside.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Add the onion, carrots, and potatoes to the pot.",
+    "Pour in the Irish stout and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 1/2 hours.",
+    "Return the bacon to the pot and cook for an additional 15 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfortfood",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-crunchy-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T03:22:54.782Z"
+}
