@@ -1,0 +1,98 @@
+{
+  "slug": "fermented-french-lamb-shanks-stir-fry",
+  "title": "French Lamb Shanks with Red Wine Reduction",
+  "description": "A classic French dish featuring tender lamb shanks slow-cooked in red wine and stock, served with crispy garlic and herbs.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "1.5-2 lbs"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp",
+      "notes": "olive or vegetable oil"
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season lamb shanks with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb shanks until browned, then set aside.",
+    "Add onions to pot and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add red wine and broth to pot, scraping up browned bits.",
+    "Return lamb shanks to pot and bring to a boil.",
+    "Cover pot and transfer to preheated oven.",
+    "Braise lamb shanks for 2-3 hours, or until tender.",
+    "Remove pot from oven and stir in thyme and bay leaves.",
+    "Serve lamb shanks with sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "shanks",
+    "red-wine",
+    "french-cuisine",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "13g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-french-lamb-shanks-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:32:03.781Z"
+}
