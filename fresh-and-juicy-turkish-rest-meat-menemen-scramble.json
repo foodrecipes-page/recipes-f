@@ -1,0 +1,83 @@
+{
+  "slug": "fresh-and-juicy-turkish-rest-meat-menemen-scramble",
+  "title": "Turkish Menemen Scramble",
+  "description": "A Turkish-inspired twist on the classic scrambled eggs, featuring juicy sausage and fresh vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Juicy sausage",
+      "amount": "1 pound",
+      "notes": "preferably Turkish-style"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium-high heat.",
+    "2. Remove the sausage from its casing and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "3. Add the chopped onion, bell pepper, and tomato to the skillet and cook until the vegetables are softened, about 5 minutes.",
+    "4. Push the sausage and vegetables to one side of the skillet.",
+    "5. Crack the eggs into the other side of the skillet and scramble them until they are cooked to your liking.",
+    "6. Mix the eggs with the sausage and vegetables.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Garnish with chopped fresh parsley, if desired.",
+    "9. Serve hot.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "turkish",
+    "eggs",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-and-juicy-turkish-rest-meat-menemen-scramble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:29:00.116Z"
+}
