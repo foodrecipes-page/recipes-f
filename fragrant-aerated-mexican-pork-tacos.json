@@ -1,0 +1,95 @@
+{
+  "slug": "fragrant-aerated-mexican-pork-tacos",
+  "title": "Carnitas Tacos",
+  "description": "A flavorful Mexican dish featuring slow-cooked pork, crispy tortillas, and fresh toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the cumin, chili powder, and salt to the pot and stir to combine.",
+    "Add enough water to the pot to cover the pork and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2-1/2 hours, or until the pork is tender.",
+    "Shred the pork with two forks and return it to the pot.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the pork onto a tortilla and topping with salsa, cheese, and any other desired toppings.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tacos",
+    "carnitas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-aerated-mexican-pork-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:53:59.794Z"
+}
