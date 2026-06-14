@@ -1,0 +1,52 @@
+{
+  "slug": "fluffy-fried-venezuelan-bread-bread",
+  "title": "Venezuelan Fried Bread",
+  "description": "A simple fried bread dish inspired by Venezuelan cuisine. It's crispy on the outside and fluffy on the inside.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fluffy bread",
+      "amount": "2 loaves",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "fried",
+      "amount": "vegetable oil for frying",
+      "notes": "about 1-2 inches deep in a pan"
+    }
+  ],
+  "instructions": [
+    "Cut the bread into 1-inch cubes.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil reaches 350°F (180°C), add a few bread cubes to the oil.",
+    "Fry the bread cubes for 2-3 minutes on each side, or until golden brown.",
+    "Drain the fried bread on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "bread",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fried-venezuelan-bread-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:53:46.105Z"
+}
