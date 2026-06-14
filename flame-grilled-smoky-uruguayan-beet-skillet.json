@@ -1,0 +1,83 @@
+{
+  "slug": "flame-grilled-smoky-uruguayan-beet-skillet",
+  "title": "Uruguayan Grilled Skillet Steak with Smoky Beet Sauce",
+  "description": "A classic Uruguayan dish featuring a grilled steak served with a smoky beet sauce, perfect for a hearty dinner.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 lbs",
+      "notes": "ribeye or strip loin work well"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling steak"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds a smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "for beet sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season steak with salt, black pepper, and smoked paprika.",
+    "Grill steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "Let steak rest for 5 minutes before slicing.",
+    "In a skillet, heat olive oil over medium heat.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add chopped beets and cook for 5-7 minutes, until they start to soften.",
+    "Add balsamic vinegar and cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve steak with smoky beet sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skillet",
+    "uruguayan",
+    "beets",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flame-grilled-smoky-uruguayan-beet-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:50:45.081Z"
+}
