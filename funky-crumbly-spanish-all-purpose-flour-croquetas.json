@@ -1,0 +1,84 @@
+{
+  "slug": "funky-crumbly-spanish-all-purpose-flour-croquetas",
+  "title": "Spanish Croquetas",
+  "description": "A classic Spanish dish made with a mixture of ham, fish, and vegetables, coated in a crunchy all-purpose flour batter.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Fish (Cod or Haddock)",
+      "amount": "1 cup, flaked",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "funky, crumbly"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Spanish croquetas mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ham, fish, onion, and croquetas mix.",
+    "In a separate bowl, whisk together the egg and flour.",
+    "Add the breadcrumb mixture to the egg mixture and stir until combined.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Cover the dough with plastic wrap and refrigerate for 30 minutes.",
+    "Heat the oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the dough into the oil.",
+    "Fry the croquetas until they are golden brown, about 3-4 minutes on each side.",
+    "Drain the croquetas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-crumbly-spanish-all-purpose-flour-croquetas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:00:36.212Z"
+}
