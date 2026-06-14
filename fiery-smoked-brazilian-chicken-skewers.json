@@ -1,0 +1,76 @@
+{
+  "slug": "fiery-smoked-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled skewers of marinated chicken, smoked paprika, and fiery spices, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fiery chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Brazilian-style skewers",
+      "notes": "wooden skewers, soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, smoked paprika, fiery chili powder, garlic powder, salt, and black pepper.",
+    "Add the chicken to the marinade and mix well.",
+    "Thread the marinated chicken onto the prepared skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Cook to an internal temperature of 165°F (74°C).",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "brazilian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-smoked-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:35:12.095Z"
+}
