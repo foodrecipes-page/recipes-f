@@ -1,0 +1,75 @@
+{
+  "slug": "fragrant-korean-grape-leaves-roast",
+  "title": "Korean-Style Roast Grape Leaf Wraps",
+  "description": "A sweet and savory wrap filled with the flavors of Korea and the freshness of grape leaves. Perfect for a quick snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Leaves",
+      "amount": "12 leaves",
+      "notes": "fresh or jarred, drained and chopped"
+    },
+    {
+      "name": "Roast",
+      "amount": "1/2 cup, chopped",
+      "notes": "Korean-style roast chicken or beef"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "or regular oil"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "Fragrant Rice",
+      "amount": "1 cup, cooked",
+      "notes": "or substitute with other cooked rice"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "If using jarred grape leaves, rinse and drain them. If using fresh, blanch them in boiling water for 30 seconds, then chop.",
+    "In a large skillet, heat the sesame oil over medium heat. Add the chopped roast and cook until browned, about 5 minutes.",
+    "Add the Korean chili flakes and soy sauce to the skillet and stir to combine. Cook for an additional 1 minute.",
+    "In a large bowl, combine the cooked rice, green onions (if using), and cooked roast mixture. Stir to combine.",
+    "To assemble the wraps, lay a grape leaf flat on a work surface, with the stem end facing you.",
+    "Spoon about 1/4 cup of the rice mixture onto the center of the leaf, leaving a 1-inch border on either side.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Serve the wraps warm, or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "wraps",
+    "snack",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-korean-grape-leaves-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:51:32.220Z"
+}
