@@ -1,0 +1,63 @@
+{
+  "slug": "fluffy-spanish-almonds-torta",
+  "title": "Spanish Torta with Almond Crunch",
+  "description": "A simple, crunchy Spanish-inspired sandwich with fresh ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "torta filling",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup, shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, sliced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Spread torta filling on one slice of bread.",
+    "Top with sliced almonds, lettuce, and tomato (if using).",
+    "Place the second slice of bread on top of the filling.",
+    "Cook in the panini press or grill for 3-4 minutes, or until the bread is toasted and the filling is heated through.",
+    "Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "sandwich",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-spanish-almonds-torta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:47:55.197Z"
+}
