@@ -1,0 +1,72 @@
+{
+  "slug": "floral-dense-canadian-onion-frittata",
+  "title": "Canadian Frittata with Floral Notes",
+  "description": "A savory, slightly sweet frittata filled with the flavors of Canada. Perfect for a quick breakfast or brunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "frittata",
+      "amount": "4 eggs",
+      "notes": ""
+    },
+    {
+      "name": "Canadian",
+      "amount": "2 slices of smoked bacon, diced",
+      "notes": ""
+    },
+    {
+      "name": "floral",
+      "amount": "1 cup mixed wildflowers, chopped",
+      "notes": "such as dandelion, clover, and calendula"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the diced bacon in a skillet over medium heat until crispy.",
+    "Add the diced onion to the skillet and cook until softened.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Add the chopped wildflowers to the bowl and stir to combine.",
+    "Pour the egg mixture over the cooked bacon and onion in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet.",
+    "Slide the frittata out of the skillet onto a plate and serve hot.",
+    "Garnish with additional chopped wildflowers, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "frittata",
+    "wildflowers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-dense-canadian-onion-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:40:31.596Z"
+}
