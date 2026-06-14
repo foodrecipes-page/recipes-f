@@ -1,68 +1,88 @@
 {
   "slug": "festive-and-fluffy-algerian-fast-action-yeast-dumplings",
-  "title": "Festive Fluffy Algerian Dumplings",
-  "description": "Delicate and light dumplings, served with a side of savory Algerian spices, perfect for a festive occasion.",
-  "cuisine": "Algerian",
+  "title": "Algerian Dumplings",
+  "description": "Delicious and traditional Algerian-style dumplings, perfect for a cozy evening. Serve with your favorite dipping sauce.",
+  "cuisine": "algerian",
   "diet": [
     "vegetarian"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
+      "name": "fluffy yeast",
+      "amount": "2 cups",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "festive action",
+      "amount": "1 cup",
+      "notes": "Chopped fresh parsley"
+    },
+    {
+      "name": "algerian dumplings",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "fast and fluffy",
+      "amount": "1 cup",
+      "notes": "Mashed potatoes"
+    },
+    {
+      "name": "and some more festive",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh cilantro"
+    },
+    {
       "name": "flour",
-      "amount": "2 cups"
-    },
-    {
-      "name": "yeast",
-      "amount": "1 teaspoon"
-    },
-    {
-      "name": "algerian spices",
-      "amount": "1 teaspoon"
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
     },
     {
       "name": "water",
-      "amount": "1 cup"
+      "amount": "1 cup",
+      "notes": "Warm water"
     },
     {
       "name": "salt",
-      "amount": "1/2 teaspoon"
+      "amount": "1 tsp",
+      "notes": "Table salt"
     },
     {
-      "name": "fluffy",
-      "amount": "1 tablespoon"
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil"
     }
   ],
   "instructions": [
-    "Combine flour and yeast in a large mixing bowl.",
-    "Gradually add water while mixing until dough forms.",
-    "Knead dough for 10 minutes until smooth.",
-    "Rest dough for 1 hour.",
-    "Divide dough into 8 equal pieces.",
-    "Roll out each piece into a thin circle.",
-    "Place a tablespoon of algerian spices in the center of each circle.",
-    "Fold dough over to form a half moon shape and press edges together.",
-    "Heat a large skillet over medium heat and cook dumplings for 3-4 minutes on each side.",
-    "Serve hot with your favorite dipping sauce."
+    "1. In a large mixing bowl, combine yeast, water, and salt. Let it sit for 5 minutes.",
+    "2. Add flour, mashed potatoes, and chopped parsley. Mix until a dough forms.",
+    "3. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "4. Divide the dough into 4-6 pieces, depending on how large you want your dumplings to be.",
+    "5. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "6. Heat oil in a pan over medium heat.",
+    "7. Place the dumplings in the pan and cook for 2-3 minutes on each side, until they are golden brown.",
+    "8. Serve the dumplings hot with your favorite dipping sauce.",
+    "9. Garnish with chopped cilantro and serve immediately."
   ],
-  "prepTimeMin": 30,
-  "cookTimeMin": 10,
-  "totalTimeMin": 40,
-  "servings": 8,
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
     "algerian",
     "dumplings",
-    "festive"
+    "vegan"
   ],
   "nutrition": {
-    "calories": 400,
-    "protein": 10,
-    "carbs": 60,
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/festive-and-fluffy-algerian-fast-action-yeast-dumplings",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T18:57:47.290Z"
+  "createdAt": "2026-06-10T22:01:35.853Z"
 }
