@@ -1,0 +1,84 @@
+{
+  "slug": "floral-irish-kid-friendly-dish-wrap",
+  "title": "Irish Kid-Friendly Wrap",
+  "description": "A simple and tasty wrap perfect for kids, featuring Irish beef and floral flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef mince",
+      "amount": "500g",
+      "notes": "Irish beef for a traditional flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp",
+      "notes": "To make the wrap dough"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4-6",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cheese",
+      "amount": "100g",
+      "notes": "Shredded for extra flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped for added crunch"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "Optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Prepare the beef mince by cooking it in a pan until browned.",
+    "Add the chopped onion and cook until softened.",
+    "Roll out the wrap dough to desired thickness.",
+    "Place the cooked beef mixture onto one half of the wrap.",
+    "Add the shredded cheese, chopped tomato, and lettuce on top.",
+    "Fold the other half of the wrap over to enclose the filling.",
+    "Brush the edges with a little water and press to seal.",
+    "Place the wrap on a baking sheet and bake for 10-12 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-irish-kid-friendly-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:44:50.241Z"
+}
