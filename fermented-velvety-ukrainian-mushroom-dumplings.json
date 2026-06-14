@@ -1,7 +1,7 @@
 {
   "slug": "fermented-velvety-ukrainian-mushroom-dumplings",
   "title": "Ukrainian Mushroom Dumplings",
-  "description": "A hearty and savory dish featuring Ukrainian-style dumplings filled with sautéed mushrooms and served with a side of fermented vegetables.",
+  "description": "Delicious and comforting Ukrainian-inspired dumplings filled with a savory mushroom and fermented filling.",
   "cuisine": "Ukrainian",
   "diet": [
     "vegetarian"
@@ -13,67 +13,61 @@
       "amount": "2 cups"
     },
     {
-      "name": "warm water",
-      "amount": "1 cup",
-      "notes": "approximate"
+      "name": "velvety sour cream",
+      "amount": "1/2 cup"
     },
     {
-      "name": "mushrooms",
-      "amount": "1 cup",
-      "notes": "sliced"
+      "name": "ukrainian fermented cabbage",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mushroom filling",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "mushrooms (such as cremini or shiitake)",
+      "amount": "1 cup"
     },
     {
       "name": "onion",
-      "amount": "1/2 cup",
-      "notes": "chopped"
+      "amount": "1/2 cup"
     },
     {
       "name": "garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
-    },
-    {
-      "name": "fermented vegetables",
-      "amount": "1 cup",
-      "notes": "sliced"
+      "amount": "2 cloves"
     },
     {
       "name": "salt",
-      "amount": "1 tsp"
+      "amount": "1/2 tsp"
     },
     {
       "name": "black pepper",
-      "amount": "1/2 tsp"
+      "amount": "1/4 tsp"
     }
   ],
   "instructions": [
-    "Combine flour and warm water in a large mixing bowl to form a dough.",
-    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
-    "Divide the dough into 8-10 equal pieces.",
-    "Roll out each piece into a thin circle.",
-    "Place a tablespoon of sautéed mushroom mixture in the center of each dough circle.",
-    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
-    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes.",
-    "Remove the dumplings from the water with a slotted spoon and serve with fermented vegetables on the side."
+    "In a large mixing bowl, combine flour and salt. Gradually add water and mix until dough forms.",
+    "Knead dough for 5-7 minutes until smooth. Cover and let rest for 30 minutes.",
+    "Meanwhile, prepare mushroom filling by sautéing mushrooms, onion, and garlic until softened.",
+    "Add fermented cabbage and mix well. Season with salt and pepper to taste.",
+    "Divide dough into small balls. Roll out each ball into a thin circle.",
+    "Place a tablespoon of mushroom filling in the center of each circle. Fold dough over filling and press edges to seal.",
+    "Bring a large pot of salted water to a boil. Gently add dumplings and cook for 10-12 minutes.",
+    "Serve dumplings hot with a dollop of velvety sour cream."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 20,
-  "totalTimeMin": 40,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "ukrainian",
     "dumplings",
-    "mushrooms"
+    "mushroom",
+    "comfort-food"
   ],
-  "nutrition": {
-    "calories": 320,
-    "protein": 10,
-    "carbs": 40,
-    "fat": 10
-  },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fermented-velvety-ukrainian-mushroom-dumplings",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T02:04:52.452Z"
+  "createdAt": "2026-06-10T21:43:16.011Z"
 }
