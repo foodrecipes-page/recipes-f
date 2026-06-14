@@ -1,0 +1,68 @@
+{
+  "slug": "floral-flaky-jamaican-egg-frittata",
+  "title": "Jamaican Frittata",
+  "description": "A Caribbean twist on the classic Italian egg dish, featuring spicy jamaican seasoning and flaky texture.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Floral Frittata",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of 1/8 inch (3 mm).",
+    "In a large bowl, whisk together eggs, jamaican seasoning, and shredded cheese (if using).",
+    "Pour the egg mixture over one half of the pastry, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the other half of the pastry over the egg mixture, pressing the edges to seal.",
+    "Brush the pastry with a little bit of water and cut a few slits in the top to allow steam to escape.",
+    "Place the frittata on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "caribbean",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-flaky-jamaican-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:16:59.448Z"
+}
