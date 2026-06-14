@@ -1,0 +1,77 @@
+{
+  "slug": "floral-light-ukrainian-tuna-wraps",
+  "title": "Tuna Salad Wrap",
+  "description": "A simple and refreshing salad made with canned tuna, mixed with herbs and spices, served in a crispy Ukrainian-style wrap. Perfect for a quick lunch or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned Tuna",
+      "amount": "120g",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Floral Chopped Cucumber",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Light Mayonnaise",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian-Style Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Drain the canned tuna and flake it into a large bowl.",
+    "2. Add the chopped cucumber, mayonnaise, chopped dill, salt, and pepper to the bowl with the tuna.",
+    "3. Mix well until all the ingredients are fully incorporated.",
+    "4. Lay a Ukrainian-style wrap flat on a clean surface.",
+    "5. Spoon the tuna salad mixture onto the center of the wrap, leaving a small border around the edges.",
+    "6. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "7. Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tuna",
+    "salad",
+    "wrap",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-light-ukrainian-tuna-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:58:24.830Z"
+}
