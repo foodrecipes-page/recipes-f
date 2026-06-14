@@ -1,0 +1,83 @@
+{
+  "slug": "freshly-crispy-algerian-serrano-ham-tagine",
+  "title": "Ham and Serrano Tagine",
+  "description": "A hearty and flavorful North African-inspired stew made with ham, serrano peppers, and crispy Algerian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1 pound boneless ham steak",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Serrano Peppers",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "Algerian Spices",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Crispy Olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Sear the ham until browned, about 2-3 minutes per side.",
+    "Add the sliced serrano peppers and cook until tender, about 3-4 minutes.",
+    "Stir in Algerian spices and cook for 1 minute.",
+    "Add the crispy olives, salt, and black pepper.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "lunch",
+    "ham",
+    "serrano-peppers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-crispy-algerian-serrano-ham-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:50:27.885Z"
+}
