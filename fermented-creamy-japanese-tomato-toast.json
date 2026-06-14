@@ -1,0 +1,69 @@
+{
+  "slug": "fermented-creamy-japanese-tomato-toast",
+  "title": "Japanese Tomato Toast",
+  "description": "A simple and delicious Japanese-inspired toast recipe featuring fresh tomatoes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": "preferably a crusty bread"
+    },
+    {
+      "name": "Fermented Japanese Miso Paste",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Creamy Soft Cheese",
+      "amount": "1 tablespoon",
+      "notes": "such as cream cheese or mascarpone"
+    },
+    {
+      "name": "Fresh Tomato",
+      "amount": "1 medium",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 sprig",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 375°F (190°C).",
+    "Toast the bread slices until lightly browned.",
+    "On each toasted bread slice, spread a thin layer of creamy soft cheese.",
+    "Add a teaspoon of fermented Japanese miso paste on top of the cheese.",
+    "Arrange the fresh tomato pieces on top of the miso paste.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "lunch",
+    "snack",
+    "japanesefood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-japanese-tomato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:34:59.794Z"
+}
