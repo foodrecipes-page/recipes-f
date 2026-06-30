@@ -1,0 +1,81 @@
+{
+  "slug": "freshly-fried-british-peas-cornish-pasty",
+  "title": "Classic British Cornish Pasty",
+  "description": "A traditional British dish originating from Cornwall, this recipe features a flaky pastry crust filled with a savory beef and vegetable mixture.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef (ground)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour and cold butter. Use a pastry blender to work the butter into the flour until it resembles coarse crumbs.",
+    "Gradually add cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until smooth.",
+    "Roll the dough out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Fill the pastry shell with the beef and vegetable mixture.",
+    "Dot the top of the filling with a little butter.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch. Use this to cover the pie and crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Brush the top crust with a little milk or beaten egg.",
+    "Bake the pasty for 40-50 minutes, or until the crust is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cornish",
+    "pasty",
+    "british",
+    "lunch",
+    "beef",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-british-peas-cornish-pasty",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:46:18.109Z"
+}
