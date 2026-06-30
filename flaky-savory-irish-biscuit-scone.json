@@ -1,0 +1,74 @@
+{
+  "slug": "flaky-savory-irish-biscuit-scone",
+  "title": "Irish Scone Biscuit Sandwich",
+  "description": "A twist on traditional scones, sandwiched between flaky biscuit layers for a savory breakfast treat.",
+  "cuisine": "irish",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaky biscuit dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "scone dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out biscuit dough to 1/4-inch thickness.",
+    "3. Cut out circles using a cookie cutter or glass.",
+    "4. Place on a baking sheet and bake for 12-15 minutes.",
+    "5. Meanwhile, prepare scone dough by mixing ingredients.",
+    "6. Roll out scone dough to 1/4-inch thickness.",
+    "7. Cut out circles using a cookie cutter or glass.",
+    "8. Place on a baking sheet and bake for 12-15 minutes.",
+    "9. Assemble sandwiches by spreading butter on a biscuit, then topping with scone, cheese, and scallions.",
+    "10. Drizzle with heavy cream and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "scones",
+    "biscuits"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-savory-irish-biscuit-scone",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:40:30.346Z"
+}
