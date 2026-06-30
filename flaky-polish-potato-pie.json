@@ -1,0 +1,76 @@
+{
+  "slug": "flaky-polish-potato-pie",
+  "title": "Polish Potato Pie",
+  "description": "A traditional polish-style potato pie with a flaky crust, perfect for a cold evening.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of about 1/8 inch.",
+    "In a large bowl, mash the potatoes with a fork until they're mostly smooth.",
+    "Add the chopped onion, minced garlic, caraway seeds (if using), salt, and pepper to the bowl with the potatoes. Mix well.",
+    "Transfer the potato mixture to one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with a little water, then fold the other half of the pastry over the filling.",
+    "Press the edges of the pastry together to seal the pie, then use a knife to cut a few slits in the top.",
+    "Place the pie on a baking sheet lined with parchment paper and brush the top with a little milk or beaten egg.",
+    "Bake the pie in the preheated oven for 35-40 minutes, or until the pastry is golden brown.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "pie",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-polish-potato-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:56:38.202Z"
+}
