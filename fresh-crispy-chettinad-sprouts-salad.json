@@ -1,0 +1,65 @@
+{
+  "slug": "fresh-crispy-chettinad-sprouts-salad",
+  "title": "Chettinad Sprouts Salad",
+  "description": "A flavorful and crunchy salad made with Chettinad spices and fresh sprouts, perfect for a quick snack or lunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sprouts",
+      "amount": "1 cup, cooked and cooled"
+    },
+    {
+      "name": "Chettinad spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salad leaves",
+      "amount": "4 cups, torn"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the cooked sprouts, Chettinad spice mix, chopped cilantro, and lime juice. Mix well.",
+    "2. Add the torn salad leaves to the bowl and toss gently.",
+    "3. Top the salad with crispy onions.",
+    "4. Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chettinad",
+    "sprouts",
+    "salad",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-chettinad-sprouts-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:38:50.151Z"
+}
