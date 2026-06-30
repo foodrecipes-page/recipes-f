@@ -1,0 +1,66 @@
+{
+  "slug": "flaky-umami-irish-cod-sandwich",
+  "title": "Irish Cod Sandwich",
+  "description": "A simple yet flavorful sandwich recipe featuring Irish cod, flaky and umami flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Sea Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Umami Burger Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Tartar Sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Season the cod fillets with flaky sea salt.",
+    "Add oil to the skillet and sear the cod for 3-4 minutes per side.",
+    "Transfer the cod to a plate and cover with foil to keep warm.",
+    "Toast the burger buns in the skillet.",
+    "Assemble the sandwiches with cod, lettuce, and tartar sauce.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-cod",
+    "sandwich",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-umami-irish-cod-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:46:07.054Z"
+}
