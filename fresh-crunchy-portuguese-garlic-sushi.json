@@ -1,0 +1,81 @@
+{
+  "slug": "fresh-crunchy-portuguese-garlic-sushi",
+  "title": "Crunchy Portuguese Garlic Shrimp",
+  "description": "A fast and flavorful Portuguese-inspired shrimp dish with a crunchy garlic crust.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, breadcrumbs, garlic, salt, and pepper.",
+    "2. Pat shrimp dry with paper towels and coat in flour mixture, shaking off excess.",
+    "3. Heat olive oil in a large skillet over medium-high heat.",
+    "4. Add shrimp to skillet and cook for 2-3 minutes per side, until golden brown.",
+    "5. Remove shrimp from skillet and transfer to a plate.",
+    "6. In the same skillet, add a little more oil if necessary and sauté garlic until fragrant.",
+    "7. Serve shrimp hot, garnished with parsley.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "portuguese",
+    "garlic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crunchy-portuguese-garlic-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:58:37.083Z"
+}
