@@ -1,0 +1,64 @@
+{
+  "slug": "fermented-creamy-malaysian-potatoes-curry",
+  "title": "Malaysian Curry Potato Casserole",
+  "description": "A unique casserole that combines the flavors of Malaysian curry with the comfort of mashed potatoes. Perfect for a cold evening.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large potatoes",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "fermented",
+      "amount": "1/4 cup of fermented fish paste",
+      "notes": "optional, omit for vegetarian version"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons of curry powder",
+      "notes": ""
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup of heavy cream",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Boil the potatoes in salted water until tender. Drain and mash.",
+    "In a pan, heat some oil and sauté the curry powder for 1 minute.",
+    "Add the fermented fish paste (if using) and cook for another minute.",
+    "Add the heavy cream and stir until heated through.",
+    "Combine the mashed potatoes and curry sauce. Mix well.",
+    "Transfer the mixture to a baking dish and top with additional grated cheese (if desired).",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve hot and garnish with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-malaysian-potatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:45.372Z"
+}
