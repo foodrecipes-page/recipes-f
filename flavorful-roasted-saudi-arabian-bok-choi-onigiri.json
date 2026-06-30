@@ -1,0 +1,77 @@
+{
+  "slug": "flavorful-roasted-saudi-arabian-bok-choi-onigiri",
+  "title": "Saudi Arabian Bok Choi Stir Fry",
+  "description": "A flavorful and healthy stir fry dish inspired by Saudi Arabian cuisine featuring roasted bok choy and onigiri.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Bok Choi",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Onigiri",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant, about 1 minute.",
+    "Add the bok choy and stir-fry until tender, about 3-4 minutes.",
+    "Add the soy sauce and lemon juice, and stir to combine.",
+    "Add the onigiri and stir-fry until heated through.",
+    "Season with salt to taste.",
+    "Serve over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi arabian",
+    "vegetarian",
+    "stir fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-roasted-saudi-arabian-bok-choi-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:41:58.863Z"
+}
