@@ -1,0 +1,83 @@
+{
+  "slug": "flaky-mediterranean-eggplant-stir-fry",
+  "title": "Eggplant Medley",
+  "description": "A simple yet flavorful dish combining the richness of eggplant with Mediterranean flavors. Serve as a side or main course.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Flaky Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss eggplant cubes with flaky salt to draw out moisture. Let sit for 10 minutes.",
+    "Rinse eggplant cubes under cold water, then pat dry with paper towels.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic and cook for 1 minute.",
+    "Add eggplant cubes and cook until browned, about 5-7 minutes.",
+    "Transfer eggplant to a baking dish and top with basil, thyme, and lemon juice.",
+    "Bake in preheated oven for 15-20 minutes, or until eggplant is tender.",
+    "Season with black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-mediterranean-eggplant-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:37:46.774Z"
+}
