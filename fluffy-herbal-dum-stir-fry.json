@@ -1,0 +1,66 @@
+{
+  "slug": "fluffy-herbal-dum-stir-fry",
+  "title": "Fluffy Stir Fry",
+  "description": "A simple and quick stir fry recipe for a delicious meal. This dish is made with fluffy rice and herbal flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dum vegetables (assorted)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Herbal seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fry sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a pan over medium heat.",
+    "Add the dum vegetables and cook until tender.",
+    "Add the garlic and herbal seasoning, stir well.",
+    "Add the fluffy rice and stir well to combine.",
+    "Add the fry sauce and stir well to combine.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "herbal",
+    "stir",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-herbal-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:53:42.512Z"
+}
