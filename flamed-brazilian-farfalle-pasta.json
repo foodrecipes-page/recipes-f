@@ -1,0 +1,61 @@
+{
+  "slug": "flamed-brazilian-farfalle-pasta",
+  "title": "Brazilian Pasta Flamed Shrimp",
+  "description": "A spicy and flavorful pasta dish with flamed shrimp, great for a quick dinner. The farfalle pasta pairs well with the bold flavors of the Brazilian spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flamed",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tablespoon",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "farfalle",
+      "amount": "8 ounces",
+      "notes": "pasta"
+    },
+    {
+      "name": "pasta",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the farfalle pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the flamed shrimp and cook until pink and cooked through, about 2 minutes per side.",
+    "Add the Brazilian spice blend to the skillet and stir to combine. Cook for 1 minute.",
+    "Add the reserved pasta water to the skillet and stir to combine.",
+    "Add the cooked farfalle pasta to the skillet and toss to combine with the shrimp and sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "shrimp",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flamed-brazilian-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:41:47.557Z"
+}
