@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-canadian-vegetable-crumble",
+  "title": "Vegetable Crumble",
+  "description": "A simple and flavorful vegetable crumble made with a flaky crust and topped with a crunchy crumble. Perfect as a side dish or a light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Flaky Pastry Crust",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Vegetable Crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, toss together the chopped carrots, sliced zucchini, and chopped onions. Drizzle with olive oil and season with salt and pepper.",
+    "Roll out the flaky pastry crust and place it in a 9x9-inch baking dish.",
+    "Add the vegetable mixture to the pastry-lined baking dish.",
+    "Top the vegetables with the vegetable crumble and grated cheese.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the crumble is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetable",
+    "crunchy",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-canadian-vegetable-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:01:32.003Z"
+}
