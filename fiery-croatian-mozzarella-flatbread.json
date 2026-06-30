@@ -1,0 +1,57 @@
+{
+  "slug": "fiery-croatian-mozzarella-flatbread",
+  "title": "Croatian Flatbread Pizza",
+  "description": "A simple and delicious Croatian-inspired flatbread pizza with a spicy twist. Perfect for a quick dinner or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian flatbread",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Fire-roasted mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fiery sauce",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Place the flatbread on a baking sheet.",
+    "Top the flatbread with the shredded mozzarella cheese.",
+    "Drizzle the fiery sauce over the cheese.",
+    "Bake in the preheated oven for 10-12 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "snack",
+    "dinner",
+    "italian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-croatian-mozzarella-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:43:34.506Z"
+}
