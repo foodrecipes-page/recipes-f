@@ -1573,10 +1573,15 @@
   },
   {
     "slug": "fermented-creamy-malaysian-potatoes-curry",
-    "title": "Fermented Creamy Malaysian Potatoes Curry",
-    "tags": [],
-    "cuisine": "Malaysian",
-    "totalTimeMin": null,
+    "title": "Malaysian Curry Potato Casserole",
+    "tags": [
+      "malaysian",
+      "curry",
+      "potatoes",
+      "comfort-food"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -6550,15 +6555,14 @@
   },
   {
     "slug": "flaky-canadian-vegetable-crumble",
-    "title": "Flaky Canadian Vegetable Crumble",
+    "title": "Vegetable Crumble",
     "tags": [
-      "flaky-canadian-vegetable-crumble",
-      "fermented-vegetable-dish",
-      "raw-friendly-cooking",
-      "canadian-breakfast"
+      "vegetable",
+      "crunchy",
+      "flaky"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -9282,18 +9286,14 @@
   },
   {
     "slug": "flamed-brazilian-farfalle-pasta",
-    "title": "Flamed Brazilian Farfalle Pasta",
+    "title": "Brazilian Pasta Flamed Shrimp",
     "tags": [
-      "brazilian",
-      "charred",
-      "creamy",
-      "date-night",
-      "gluten-free",
-      "one-pot",
-      "vegan"
+      "pasta",
+      "shrimp",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -9910,16 +9910,14 @@
   },
   {
     "slug": "flavorful-roasted-saudi-arabian-bok-choi-onigiri",
-    "title": "Flavorful Roasted Saudi Arabian Bok Choi Onigiri",
+    "title": "Saudi Arabian Bok Choi Stir Fry",
     "tags": [
-      "lazy-sunday",
-      "middle-eastern",
-      "one-pan",
+      "saudi arabian",
       "vegetarian",
-      "weeknight"
+      "stir fry"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
