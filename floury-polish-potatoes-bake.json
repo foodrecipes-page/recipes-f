@@ -1,0 +1,71 @@
+{
+  "slug": "floury-polish-potatoes-bake",
+  "title": "Twice-Baked Polish Potatoes",
+  "description": "A delicious and comforting side dish that's easy to make and impressive to serve. Fluffy potatoes are filled with a rich and creamy filling, topped with crispy bacon.",
+  "cuisine": "eastern european",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Scrub the potatoes clean and poke some holes in each with a fork.",
+    "Bake the potatoes for 45-60 minutes, or until they're tender when pierced with a fork.",
+    "While the potatoes are baking, cook the bacon in a pan over medium heat until crispy.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and scoop out most of the flesh, leaving a thin layer to hold the potato together.",
+    "In a bowl, mash the potato flesh with the butter, cheese, sour cream, chives, salt, and pepper.",
+    "Stuff each potato shell with the mashed potato mixture and top with crispy bacon.",
+    "Return the potatoes to the oven and bake for an additional 15-20 minutes, or until the filling is heated through and the potatoes are golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "side-dish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floury-polish-potatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:00:04.012Z"
+}
