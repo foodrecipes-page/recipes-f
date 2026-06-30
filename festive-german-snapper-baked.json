@@ -1,0 +1,83 @@
+{
+  "slug": "festive-german-snapper-baked",
+  "title": "Pan-Seared Snapper with German Festive Flair",
+  "description": "A flavorful and festive dish that combines the delicate taste of snapper with traditional German flavors. Perfect for a special occasion.",
+  "cuisine": "german",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": "fresh, 6 oz each"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Heat the butter in a large oven-safe skillet over medium-high heat.",
+    "Add the onion and garlic to the skillet and sauté until softened.",
+    "Add the snapper fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the snapper is cooked through.",
+    "Remove the skillet from the oven and sprinkle with paprika.",
+    "Serve the snapper hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snapper",
+    "german",
+    "fish",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-german-snapper-baked",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:01:46.006Z"
+}
