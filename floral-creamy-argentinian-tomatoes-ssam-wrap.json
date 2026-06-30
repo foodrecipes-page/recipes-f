@@ -1,0 +1,75 @@
+{
+  "slug": "floral-creamy-argentinian-tomatoes-ssam-wrap",
+  "title": "Argentinian Tomato Wrap",
+  "description": "A flavorful and easy-to-make Argentinian-inspired dish featuring fresh tomatoes and creamy sauce wrapped in a crispy wrap.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour tortilla",
+      "amount": "1",
+      "notes": "wrap"
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "2 tbsp",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2",
+      "notes": "cherry or grape tomatoes"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade mayonnaise-based"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan with a small amount of oil over medium heat.",
+    "2. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "3. Spread the creamy sauce on the tortilla, leaving a 1-inch border around the edges.",
+    "4. Arrange the sliced tomatoes on top of the sauce.",
+    "5. Drizzle the Argentinian chimichurri over the tomatoes.",
+    "6. Sprinkle chopped cilantro on top.",
+    "7. Season with salt and pepper to taste.",
+    "8. Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "9. Cook the wrap in the preheated pan for 2-3 minutes on each side, until crispy and golden brown.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "lunch",
+    "wrap",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-creamy-argentinian-tomatoes-ssam-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:38:41.692Z"
+}
