@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-turkish-potato-crumble",
+  "title": "Turkish Crumble Potato Pie",
+  "description": "A savory pie filled with potatoes, inspired by Turkish cuisine, topped with a crumble mixture for a delicious and satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "crumble mixture",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil the potatoes until tender, then mash.",
+    "In a pan, sauté the chopped onion and minced garlic until softened.",
+    "Add the chopped fermented vegetables and cook for an additional 2 minutes.",
+    "In a large bowl, combine the mashed potatoes, onion and vegetable mixture.",
+    "Roll out the dough to fit a 9-inch pie dish.",
+    "Pour the potato mixture into the pie crust.",
+    "Top with the crumble mixture.",
+    "Bake for 35-40 minutes or until the crust is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pie",
+    "potatoes"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-turkish-potato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:58:15.799Z"
+}
