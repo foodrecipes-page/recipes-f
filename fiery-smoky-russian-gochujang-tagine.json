@@ -1,0 +1,83 @@
+{
+  "slug": "fiery-smoky-russian-gochujang-tagine",
+  "title": "Gochujang Tagine Chicken",
+  "description": "A spicy and smoky North African-inspired chicken dish made with gochujang and served over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon",
+      "notes": "smoky"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the gochujang, tagine spice mix, and 1 cup of water to the tagine.",
+    "Bring the mixture to a simmer, cover the tagine, and cook for 20-25 minutes, or until the chicken is cooked through.",
+    "Fluff the cooked couscous with a fork and serve the chicken and sauce over the top.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "korean-mexican",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-smoky-russian-gochujang-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:22:21.220Z"
+}
