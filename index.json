@@ -4050,14 +4050,14 @@
   },
   {
     "slug": "fermented-tender-kenyan-beef-stir-fry",
-    "title": "Fermented Tender Kenyan Beef Stir-fry",
+    "title": "Kenyan Beef Stir Fry",
     "tags": [
-      "fermented-beef-stir-fry",
-      "low-fat-friendly",
-      "date-night-kenyan-dish"
+      "kenyan",
+      "beef",
+      "stir-fry"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -7538,17 +7538,15 @@
   },
   {
     "slug": "flaky-herbal-kenyan-pasta-pilaf",
-    "title": "Flaky Herbal Kenyan Pasta Pilaf",
+    "title": "Kenyan Pasta Pilaf",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "herbal",
       "kenyan",
-      "one-pan",
-      "weeknight"
+      "pasta",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -7797,17 +7795,14 @@
   },
   {
     "slug": "flaky-jamaican-rigatoni-pasta",
-    "title": "Flaky Jamaican Rigatoni Pasta",
+    "title": "Jamaican Pasta Bake",
     "tags": [
-      "jamaican-cuisine",
-      "paleo-friendly",
-      "gluten-free",
-      "slow-cooked",
-      "floral",
-      "monsoon-inspired"
+      "pasta",
+      "jamaican",
+      "comfort-food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
