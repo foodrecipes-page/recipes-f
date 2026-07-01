@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-crumbly-german-peppers-crumble",
+  "title": "Savory Pepper and Fermented German Crumble",
+  "description": "A hearty, comforting dish blending the flavors of Germany with the crunch of crumble. Perfect for a chilly evening.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented German Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Assorted Peppers",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Fermented Sauerkraut",
+      "amount": "1 cup, drained"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup, homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook sliced sausage over medium-high heat until browned.",
+    "Add sliced peppers and cook until tender. Set aside.",
+    "In a separate pan, cook chopped onion and minced garlic until softened.",
+    "Add sauerkraut, salt, and black pepper to the pan and stir to combine.",
+    "Transfer the sausage and pepper mixture to a 9x13-inch baking dish.",
+    "Top with the sauerkraut mixture and crumble.",
+    "Bake for 25-30 minutes or until the crumble is golden brown.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sauerkraut",
+    "crumble",
+    "peppers",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crumbly-german-peppers-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:22:02.199Z"
+}
