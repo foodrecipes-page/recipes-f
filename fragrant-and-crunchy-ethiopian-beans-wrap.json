@@ -1,0 +1,83 @@
+{
+  "slug": "fragrant-and-crunchy-ethiopian-beans-wrap",
+  "title": "Ethiopian Bean Wrap",
+  "description": "A flavorful and nutritious wrap filled with spicy Ethiopian beans, crunchy vegetables, and fragrant spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ethiopian beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant spices (berbere)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "And",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, tomato, and cucumber. Cook until the vegetables are tender.",
+    "Add Ethiopian beans, fragrant spices, and and. Cook for 5 minutes.",
+    "Warm the crunchy wrap according to package instructions.",
+    "Fill the wrap with the bean mixture, lettuce, and any additional toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "lunch",
+    "wrap",
+    "beans",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-and-crunchy-ethiopian-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:26:32.626Z"
+}
