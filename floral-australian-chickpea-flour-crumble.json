@@ -1,0 +1,62 @@
+{
+  "slug": "floral-australian-chickpea-flour-crumble",
+  "title": "Australian Chickpea Crumble",
+  "description": "A delicious and easy-to-make Australian-inspired dessert made with chickpea flour and topped with a crunchy crumble. Perfect for a warm evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Chickpea flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Australian sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crumble (store-bought or homemade)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together chickpea flour, floral honey, and Australian sugar.",
+    "Press the mixture into a 9x9 inch baking dish.",
+    "In a separate bowl, melt the unsalted butter and pour it over the crumble.",
+    "Sprinkle the crumble evenly over the top of the chickpea flour mixture.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm, topped with additional crumble if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "australian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-australian-chickpea-flour-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:18:27.282Z"
+}
