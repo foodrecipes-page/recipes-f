@@ -1,0 +1,89 @@
+{
+  "slug": "fermented-tender-kenyan-beef-stir-fry",
+  "title": "Kenyan Beef Stir Fry",
+  "description": "A flavorful and spicy beef stir fry inspired by Kenyan cuisine, made with tender beef and a variety of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender beef strips",
+      "amount": "250g",
+      "notes": "Slice the beef into thin strips before using."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion before using."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before using."
+    },
+    {
+      "name": "Fermented Kenyan stir fry paste",
+      "amount": "2 tbsp",
+      "notes": "Use store-bought or homemade stir fry paste."
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chop the tomato before using."
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 tbsp",
+      "notes": "Use low-sodium broth."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "1 tbsp",
+      "notes": "Use vegetable or peanut oil."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the stir fry paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the tomato to the skillet and cook for 2 minutes, stirring occasionally.",
+    "Return the beef to the skillet and stir to combine with the sauce.",
+    "Cook for an additional 2-3 minutes, or until the beef is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-kenyan-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:58:02.963Z"
+}
