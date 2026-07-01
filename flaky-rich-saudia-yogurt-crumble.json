@@ -1,0 +1,70 @@
+{
+  "slug": "flaky-rich-saudia-yogurt-crumble",
+  "title": "Saudi Crumble Pancakes",
+  "description": "A delicious and rich breakfast recipe with a Saudi twist, featuring crumble toppings and yogurt sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "rich honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "saudia dates",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "crumble mix",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry and cut into squares.",
+    "In a small bowl, mix the rich honey and saudia dates.",
+    "Place a spoonful of the honey-date mixture onto each pastry square.",
+    "Fold the pastry squares in half to form triangles.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While the pancakes are baking, mix the plain yogurt with a spoon.",
+    "Top the pancakes with the yogurt mixture and crumble mix.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "middle-eastern",
+    "sweet",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-rich-saudia-yogurt-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:49:45.350Z"
+}
