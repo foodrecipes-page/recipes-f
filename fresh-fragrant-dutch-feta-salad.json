@@ -1,0 +1,66 @@
+{
+  "slug": "fresh-fragrant-dutch-feta-salad",
+  "title": "Dutch Salad",
+  "description": "A refreshing salad featuring fragrant, crisp vegetables and tangy feta cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fragrant Lettuce",
+      "amount": "2 heads",
+      "notes": "Washed and torn into bite-sized pieces"
+    },
+    {
+      "name": "Dutch Salad Cucumbers",
+      "amount": "1 large",
+      "notes": "Sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": "Salad quality or homemade"
+    },
+    {
+      "name": "Salad Dressing",
+      "amount": "2 tbsp olive oil",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fragrant Chives",
+      "amount": "1/4 cup chopped",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lettuce and cucumber slices.",
+    "2. In a small bowl, whisk together salad dressing ingredients.",
+    "3. Drizzle salad dressing over the lettuce mixture and toss to coat.",
+    "4. Sprinkle crumbled feta cheese over the salad.",
+    "5. Garnish with chopped chives, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fragrant-dutch-feta-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:41:37.943Z"
+}
