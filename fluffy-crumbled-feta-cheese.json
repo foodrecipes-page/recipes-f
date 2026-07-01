@@ -1,0 +1,84 @@
+{
+  "slug": "fluffy-crumbled-feta-cheese",
+  "title": "Greek Fluffy Cheese Fritters",
+  "description": "A crispy, savory snack filled with fluffy feta cheese. Perfect for a quick bite or appetizer.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fluffy Feta Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Crumbled Cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 350°F (175°C).",
+    "In a large bowl, combine fluffy feta cheese, crumbled cheese, flour, baking powder, baking soda, salt, and black pepper.",
+    "In a separate bowl, whisk the egg and milk until well combined.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Add the melted butter to the dough and mix until a smooth batter forms.",
+    "Using a spoon, drop small balls of the batter into the preheated oil.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil and place on paper towels to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-crumbled-feta-cheese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:45:41.935Z"
+}
