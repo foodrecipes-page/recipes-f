@@ -1,0 +1,74 @@
+{
+  "slug": "flaky-silky-indian-almond-halwa",
+  "title": "Silky Almond Halwa",
+  "description": "A traditional Indian dessert made with ground almonds and silky texture. This halwa is creamy and sweet, perfect for special occasions.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground Almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Silky Almond Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rose Water",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat ghee in a large pan over medium heat.",
+    "2. Add ground almonds and cook until they are lightly toasted.",
+    "3. Add almond milk and bring to a simmer.",
+    "4. Reduce heat to low and cook for 5-7 minutes or until the mixture thickens.",
+    "5. Add brown sugar and cardamom powder. Mix well.",
+    "6. Cook for another 2-3 minutes or until the sugar dissolves.",
+    "7. Remove from heat and stir in rose water.",
+    "8. Let the mixture cool slightly, then refrigerate for at least 2 hours.",
+    "9. Serve chilled, garnished with sliced almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "indian-cuisine",
+    "almond-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-silky-indian-almond-halwa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:33:07.278Z"
+}
