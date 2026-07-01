@@ -1,0 +1,95 @@
+{
+  "slug": "flaky-herbal-kenyan-pasta-pilaf",
+  "title": "Kenyan Pasta Pilaf",
+  "description": "A flavorful and aromatic Kenyan-inspired pasta dish with pilaf spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for serving"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "kenyan herbs",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic; cook until softened.",
+    "Add pilaf and Kenyan herbs; cook for 1-2 minutes.",
+    "Add chicken broth and bring to a simmer.",
+    "Stir in cooked pasta and cook for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer mixture to a baking dish and top with flaky pastry.",
+    "Bake for 15-20 minutes or until pastry is golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "pasta",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-herbal-kenyan-pasta-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:59.786Z"
+}
