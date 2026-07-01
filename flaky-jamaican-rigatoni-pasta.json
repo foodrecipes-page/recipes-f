@@ -1,0 +1,57 @@
+{
+  "slug": "flaky-jamaican-rigatoni-pasta",
+  "title": "Jamaican Pasta Bake",
+  "description": "A twist on traditional pasta bake, this dish combines the flavors of Jamaica with a comforting classic.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "flaky",
+      "amount": "2 tbsp",
+      "notes": "coconut flakes"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp",
+      "notes": "jamaican jerk seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook rigatoni pasta according to package instructions.",
+    "In a large skillet, heat 1 tbsp of flaky over medium heat.",
+    "Add jamaican jerk seasoning and stir for 1 minute.",
+    "Combine cooked pasta, jamaican jerk mixture, and 1 cup of shredded cheddar cheese. Mix well.",
+    "Transfer pasta mixture to a baking dish and top with remaining 1 cup of shredded cheddar cheese.",
+    "Bake in preheated oven for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "jamaican",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-jamaican-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:20:55.860Z"
+}
