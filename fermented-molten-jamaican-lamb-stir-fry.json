@@ -1,0 +1,68 @@
+{
+  "slug": "fermented-molten-jamaican-lamb-stir-fry",
+  "title": "Stir Fry Lamb",
+  "description": "A simple and flavorful lamb stir fry recipe. This dish is perfect for a quick weeknight dinner. Feel free to adjust the spice level to your liking.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound boneless lamb shoulder or leg, sliced into thin strips",
+      "notes": null
+    },
+    {
+      "name": "Jamaican",
+      "amount": "2 tablespoons Jamaican jerk seasoning",
+      "notes": null
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": null
+    },
+    {
+      "name": "Fry",
+      "amount": "1 onion, sliced",
+      "notes": null
+    },
+    {
+      "name": "Stir",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced lamb and cook until browned, about 3-4 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the sliced onion and minced garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the browned lamb back to the skillet and stir in the Jamaican jerk seasoning.",
+    "Cook for an additional 1-2 minutes, until the lamb is coated in the spice mixture.",
+    "Serve hot over rice or noodles.",
+    "Optional: serve with steamed vegetables or a side salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stir-fry",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-molten-jamaican-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:19:26.156Z"
+}
