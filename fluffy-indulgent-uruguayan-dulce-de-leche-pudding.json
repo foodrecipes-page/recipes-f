@@ -1,0 +1,70 @@
+{
+  "slug": "fluffy-indulgent-uruguayan-dulce-de-leche-pudding",
+  "title": "Uruguayan Dulce de Leche Pudding",
+  "description": "A rich and creamy dessert inspired by traditional Uruguayan dulce de leche, made with a velvety pudding and topped with a fluffy dollop of whipped cream.",
+  "cuisine": "South American",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fluffy whipped cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan dulce de leche",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "indulgent pudding mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the milk, sugar, and pudding mix.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a boil.",
+    "Remove from heat and stir in the dulce de leche and vanilla extract.",
+    "Pour the pudding into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 30 minutes or until chilled.",
+    "Top with fluffy whipped cream before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "dulce-de-leche",
+    "pudding",
+    "dessert",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-indulgent-uruguayan-dulce-de-leche-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:08:37.408Z"
+}
