@@ -1,0 +1,74 @@
+{
+  "slug": "fresh-irish-baguette-sandwich",
+  "title": "Irish Baguette Sandwich",
+  "description": "A delicious and easy-to-make sandwich filled with tender corned beef, crunchy fresh vegetables, and creamy sauce.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cabbage",
+      "amount": "1/4 head",
+      "notes": ""
+    },
+    {
+      "name": "Fresh carrots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the corned beef into thin strips.",
+    "3. Slice the baguette into 1-inch thick slices.",
+    "4. Shred the cabbage and chop the carrots.",
+    "5. In a bowl, mix the mayonnaise and chopped parsley.",
+    "6. Assemble the sandwiches by spreading the mayonnaise mixture on the bottom slice of the baguette, adding a few slices of corned beef, some shredded cabbage, and chopped carrots.",
+    "7. Top with the top slice of the baguette.",
+    "8. Bake the sandwiches in the preheated oven for 10-12 minutes, or until the cheese is melted and the bread is toasted.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-irish-baguette-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:06:23.403Z"
+}
