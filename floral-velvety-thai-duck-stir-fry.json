@@ -1,0 +1,79 @@
+{
+  "slug": "floral-velvety-thai-duck-stir-fry",
+  "title": "Thai Duck Stir Fry",
+  "description": "A flavorful and quick stir fry recipe featuring duck breast cooked in a Thai-inspired sauce. A perfect dish for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add duck breast and cook until browned on both sides, about 2-3 minutes per side.",
+    "Remove duck from the skillet and set aside.",
+    "Add curry paste to the skillet and stir until fragrant, about 1 minute.",
+    "Add bell peppers and cook until tender, about 3-4 minutes.",
+    "Return duck breast to the skillet and stir in fish sauce and soy sauce.",
+    "Cook for an additional 2-3 minutes, until sauce has thickened.",
+    "Garnish with fresh Thai basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "duck",
+    "stir",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-thai-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:42:13.692Z"
+}
