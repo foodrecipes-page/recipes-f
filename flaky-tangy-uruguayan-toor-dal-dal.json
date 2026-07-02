@@ -1,0 +1,88 @@
+{
+  "slug": "flaky-tangy-uruguayan-toor-dal-dal",
+  "title": "Uruguayan Toor Dal Stew",
+  "description": "A hearty, comforting stew from Uruguay made with toor dal, tangy sauce, and flaky pastry.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "Flaky Pie Crust",
+      "amount": "1 sheet",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tangy Sauce (Chimichurri)",
+      "amount": "1/4 cup",
+      "notes": "see note 1"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for stew"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the tangy sauce (chimichurri): mix parsley, oregano, garlic, red pepper flakes, salt, and red wine vinegar in a bowl.",
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, ginger, and cumin. Cook, stirring occasionally, until onion is lightly browned.",
+    "Add dal, tomato, and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until dal is tender.",
+    "To serve, place stew in a flaky pie crust and top with tangy sauce.",
+    "Bake in preheated oven for 20-25 minutes, or until crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "stew",
+    "lentil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-tangy-uruguayan-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:05:31.089Z"
+}
