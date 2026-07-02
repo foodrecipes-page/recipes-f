@@ -1,0 +1,85 @@
+{
+  "slug": "fiery-german-sausage-skillet",
+  "title": "Sausage Skillet",
+  "description": "A hearty german-inspired sausage skillet with a spicy kick. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound, sliced",
+      "notes": "any type of sausage works, such as bratwurst or knockwurst"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": "cast-iron or stainless steel preferred"
+    },
+    {
+      "name": "fiery peppers",
+      "amount": "2, sliced",
+      "notes": "such as jalapenos or banana peppers"
+    },
+    {
+      "name": "onion",
+      "amount": "1, sliced",
+      "notes": "any type of onion works"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "optional, but adds depth of flavor"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2, peeled and sliced",
+      "notes": "optional, but adds substance"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a flaky sea salt for best flavor"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground black pepper is best"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the sliced onion and cook until translucent, about 3 minutes.",
+    "Add the sliced peppers and cook until tender, about 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced potatoes (if using) and cook until they start to brown, about 2 minutes.",
+    "Return the sausage to the skillet and stir to combine with the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast-for-dinner",
+    "skillet-dinner",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-german-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:05:54.976Z"
+}
