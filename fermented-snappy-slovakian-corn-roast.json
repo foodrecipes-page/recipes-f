@@ -1,0 +1,72 @@
+{
+  "slug": "fermented-snappy-slovakian-corn-roast",
+  "title": "Slovakian Roast Pork",
+  "description": "A hearty Slovakian-inspired dish featuring slow-cooked roast pork. This recipe is best served with a side of corn and roasted vegetables.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 (2-3 pound) pork shoulder",
+      "amount": "1",
+      "notes": "fat side up"
+    },
+    {
+      "name": "1 tablespoon caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1 tablespoon brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the pork shoulder with salt, pepper, and caraway seeds.",
+    "In a large Dutch oven, heat a tablespoon of oil over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the corn to the pot and cook for 2-3 minutes, until slightly tender.",
+    "Return the pork shoulder to the pot, fat side up.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 2 1/2 to 3 hours, or until the pork is tender and falls apart easily.",
+    "Remove the pot from the oven and baste the pork with the pan juices.",
+    "Transfer the pork to a cutting board and let rest for 10-15 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-snappy-slovakian-corn-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:27:28.765Z"
+}
