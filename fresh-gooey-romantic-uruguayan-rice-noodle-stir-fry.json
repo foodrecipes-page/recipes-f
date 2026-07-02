@@ -1,0 +1,77 @@
+{
+  "slug": "fresh-gooey-romantic-uruguayan-rice-noodle-stir-fry",
+  "title": "Uruguayan Stir Fry",
+  "description": "A simple and flavorful stir fry dish inspired by Uruguayan cuisine, perfect for a quick and easy dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Noodle",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gooey stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and chopped onion and cook until the onion is translucent.",
+    "Add the sliced bell pepper and cook until tender.",
+    "Add the stir-fry sauce and cook for an additional 1-2 minutes.",
+    "Add the noodle and cooked rice to the skillet and stir-fry until combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-gooey-romantic-uruguayan-rice-noodle-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:55:37.058Z"
+}
