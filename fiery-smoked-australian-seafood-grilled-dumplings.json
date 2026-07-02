@@ -1,0 +1,78 @@
+{
+  "slug": "fiery-smoked-australian-seafood-grilled-dumplings",
+  "title": "Grilled Australian Seafood Skewers",
+  "description": "Quick and easy seafood skewers with a smoky flavor, perfect for a summer dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salmon fillets",
+      "amount": "6",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Fiery mango salsa",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Grilled red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "4",
+      "notes": "halved"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread prawns, salmon, bell pepper, and tomatoes onto skewers.",
+    "Brush with oil and season with sea salt.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "Serve with mango salsa and garnish with parsley.",
+    "Cook to an internal temperature of 145°F (63°C) for fish and seafood.",
+    "Let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "australian",
+    "seafood",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-smoked-australian-seafood-grilled-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:51:37.409Z"
+}
