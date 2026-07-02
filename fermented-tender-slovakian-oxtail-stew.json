@@ -1,0 +1,86 @@
+{
+  "slug": "fermented-tender-slovakian-oxtail-stew",
+  "title": "Braised Oxtail Stew",
+  "description": "A hearty, comforting stew made with tender oxtail and a rich, flavorful broth. Perfect for a cold winter's night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fermented cabbage juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the beef broth, red wine, and fermented cabbage juice to the pot.",
+    "Return the oxtail to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-slovakian-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:20:50.249Z"
+}
