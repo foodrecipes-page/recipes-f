@@ -1,0 +1,69 @@
+{
+  "slug": "funky-flaky-moroccan-mixed-berries-seffa",
+  "title": "Seffa Berry Delight",
+  "description": "A sweet and tangy dessert made with seffa, mixed berries, and a hint of moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "seffa",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "mixed berries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "funky honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine seffa, mixed berries, and moroccan spice blend.",
+    "Mix well and transfer the mixture to a baking dish.",
+    "Sprinkle flaky sea salt over the top of the seffa mixture.",
+    "Drizzle funky honey over the seffa mixture.",
+    "Bake for 20-25 minutes, or until the seffa is lightly toasted and the berries are tender.",
+    "Serve warm, topped with additional mixed berries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seffa",
+    "berries",
+    "moroccan-dessert",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-flaky-moroccan-mixed-berries-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:38:49.817Z"
+}
