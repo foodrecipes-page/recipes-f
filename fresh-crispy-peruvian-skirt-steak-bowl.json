@@ -1,0 +1,94 @@
+{
+  "slug": "fresh-crispy-peruvian-skirt-steak-bowl",
+  "title": "Seared Peruvian Skirt Steak Bowl",
+  "description": "A flavorful and spicy Peruvian-inspired bowl dish featuring a grilled skirt steak, crispy potatoes, and creamy slaw.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1 pound",
+      "notes": "Fresh, peruvian skirt steak"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Fresh, peeled, and cut into wedges"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "Fresh, sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Crispy corn kernels",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the skirt steak with salt and black pepper.",
+    "Grill the steak for 3-4 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Meanwhile, toss the potatoes with olive oil, salt, and black pepper. Grill the potatoes for 5-7 minutes per side, or until crispy.",
+    "In a small bowl, whisk together lime juice and aji amarillo peppers. Pour the dressing over the sliced potatoes.",
+    "In a separate bowl, mix together cilantro, red onion, and lime juice.",
+    "To assemble the bowls, place a portion of grilled steak on the bottom, followed by a scoop of potatoes, and top with the slaw.",
+    "Garnish with crispy corn kernels and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "skirt-steak",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-peruvian-skirt-steak-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:09:15.973Z"
+}
