@@ -1,0 +1,81 @@
+{
+  "slug": "fluffy-pillowy-croatian-duck-confit",
+  "title": "Croatian Duck Confit",
+  "description": "A rich and flavorful dish from Croatia, featuring crispy-skinned duck confit. This recipe is perfect for a special occasion.",
+  "cuisine": "croatian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": "Skin-on, bone-in"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tsp",
+      "notes": "Sweet and mild"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fluffy salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined salt"
+    },
+    {
+      "name": "Pillowy breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "For crispy topping"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Pillowy flour",
+      "amount": "1 tbsp",
+      "notes": "For dredging"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the duck legs with Croatian paprika, garlic, and fluffy salt.",
+    "Dredge the duck legs in pillowy flour, shaking off excess.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and cook for 2 hours, or until the meat is tender and falls off the bone.",
+    "Remove the duck legs from the oven and increase the oven temperature to 400°F (200°C).",
+    "Top each duck leg with pillowy breadcrumbs and return to the oven for an additional 15-20 minutes, or until the breadcrumbs are golden brown.",
+    "Serve the duck confit hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "duck",
+    "confit",
+    "paprika",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-pillowy-croatian-duck-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:16:43.482Z"
+}
