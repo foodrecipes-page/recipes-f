@@ -1,0 +1,90 @@
+{
+  "slug": "fermented-chewy-argentinian-meal-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish, these beef empanadas are filled with tender beef and spices. Serve as a snack or light meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio works well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fermented Chorizo",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced chorizo and cook for an additional 2 minutes.",
+    "Stir in the Worcestershire sauce (if using).",
+    "Let the mixture cool to room temperature.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half over the filling, pressing the edges together to seal.",
+    "Brush the tops of the empanadas with the remaining egg wash.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-chewy-argentinian-meal-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:32:56.094Z"
+}
