@@ -1,0 +1,94 @@
+{
+  "slug": "fermented-indulgent-italian-long-bean-ribollita",
+  "title": "Ribollita Italian Soup",
+  "description": "A hearty, comforting Italian soup made with vegetables, bread, and cannellini beans. Perfect for a cold winter's day.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "carrots, peeled and diced",
+      "amount": "4 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "celery, diced",
+      "amount": "2 stalks",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": "any color"
+    },
+    {
+      "name": "long, crusty bread, torn into bite-sized pieces",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "kale, stems removed and chopped",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "cannellini bean broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "any color"
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": "",
+      "notes": "any color"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion, carrots, and celery, and cook, stirring occasionally, until the vegetables are tender, about 8-10 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cannellini beans, bread, and broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, uncovered, for 10 minutes.",
+    "Stir in the chopped kale and cook until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional kale if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "winter",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indulgent-italian-long-bean-ribollita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:35:01.676Z"
+}
