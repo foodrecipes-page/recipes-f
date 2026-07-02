@@ -1,0 +1,74 @@
+{
+  "slug": "fiery-spicy-ukrainian-cashew-nut-skewers",
+  "title": "Spicy Ukrainian Cashew Skewers",
+  "description": "A fusion of Ukrainian and spicy flavors in a delicious cashew-based appetizer. Perfect for a quick snack or as a side dish.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fiery red pepper",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Spicy Ukrainian sausage",
+      "amount": "8 oz, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12, wooden"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread cashews, sausage, onion, and bell pepper onto skewers.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes, or until sausage is cooked through and vegetables are tender.",
+    "Serve skewers hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "spicy",
+    "cashew",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-spicy-ukrainian-cashew-nut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:44.160Z"
+}
