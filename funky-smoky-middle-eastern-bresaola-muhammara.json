@@ -1,0 +1,78 @@
+{
+  "slug": "funky-smoky-middle-eastern-bresaola-muhammara",
+  "title": "Eastern-Style Bresaola Wrap",
+  "description": "A flavorful and refreshing wrap inspired by the Middle East, featuring bresaola, funky hummus, and spicy muhammara.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "4 oz",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Muhammara",
+      "amount": "2 tbsp",
+      "notes": "spicy pepper paste"
+    },
+    {
+      "name": "Funky Hummus",
+      "amount": "2 tbsp",
+      "notes": "classic with a kick"
+    },
+    {
+      "name": "Eastern Flatbread",
+      "amount": "1 wrap",
+      "notes": "soft and chewy"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Lay the flatbread on a clean surface.",
+    "2. Spread 1 tbsp of funky hummus on the flatbread, leaving a 1-inch border around the edges.",
+    "3. Arrange 2 oz of sliced bresaola on top of the hummus.",
+    "4. Spread 1 tbsp of muhammara on top of the bresaola.",
+    "5. Add sliced cucumber and tomato on top of the muhammara.",
+    "6. Sprinkle chopped parsley over the top.",
+    "7. Fold the bottom edge of the flatbread up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "gluten-free",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-smoky-middle-eastern-bresaola-muhammara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:36:50.190Z"
+}
