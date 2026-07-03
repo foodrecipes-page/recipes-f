@@ -1,0 +1,72 @@
+{
+  "slug": "flavorful-ukrainian-english-muffin-hash",
+  "title": "Ukrainian Hash with English Muffin Crust",
+  "description": "A twist on the classic breakfast dish with a crispy English muffin crust and savory Ukrainian flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "English Muffin",
+      "amount": "1"
+    },
+    {
+      "name": "Flavorful Onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cube the English muffin and toast until crispy.",
+    "3. In a pan, cook the hash until lightly browned.",
+    "4. Add the chopped onion and cook until softened.",
+    "5. In a separate bowl, whisk the eggs until beaten.",
+    "6. Add the salt and pepper to taste.",
+    "7. Combine the cooked hash and onion mixture with the eggs.",
+    "8. Add the toasted English muffin cubes to the egg mixture.",
+    "9. Pour the mixture into a greased baking dish.",
+    "10. Bake for 20-25 minutes or until set.",
+    "11. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ukrainian",
+    "english-muffin",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-ukrainian-english-muffin-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:55:21.603Z"
+}
