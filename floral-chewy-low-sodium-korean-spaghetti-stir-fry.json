@@ -1,0 +1,67 @@
+{
+  "slug": "floral-chewy-low-sodium-korean-spaghetti-stir-fry",
+  "title": "Korean Stir Fry",
+  "description": "A quick and easy Korean-inspired stir fry recipe made with spaghetti and a variety of vegetables. This dish is low in sodium and can be customized to your taste.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "chewy vegetables (such as carrots, bell peppers, and onions)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "floral sauce (such as gochujang or Korean chili paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stir-fry seasonings",
+      "amount": "1 tsp",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped vegetables and stir-fry for 3-4 minutes, or until they are tender.",
+    "Add the spaghetti to the skillet and stir-fry for another 2-3 minutes, or until it is well coated with the vegetables and sauce.",
+    "In a small bowl, whisk together the floral sauce, korean chili flakes, and stir-fry seasonings.",
+    "Pour the sauce over the spaghetti and vegetables, and stir-fry for another minute, or until everything is well coated.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-low-sodium-korean-spaghetti-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:52:34.143Z"
+}
