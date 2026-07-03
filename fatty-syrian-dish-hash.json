@@ -1,0 +1,82 @@
+{
+  "slug": "fatty-syrian-dish-hash",
+  "title": "Syrian Fattoush Salad",
+  "description": "A refreshing Middle Eastern salad made with toasted pita bread, mixed greens, and a tangy dressing.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fattoush mix (lettuce, tomatoes, cucumbers, parsley)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fattoush bread (Syrian pita bread)",
+      "amount": "1 baguette, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fatty olives",
+      "amount": "1/2 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "Hash browns (or fried eggplant)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the pita bread pieces with olive oil and season with salt and pepper. Spread on a baking sheet and bake until crispy, about 10 minutes.",
+    "In a large bowl, combine the mixed greens, toasted pita bread, olives, and hash browns (if using).",
+    "In a small bowl, whisk together the lemon juice, olive oil, and pomegranate molasses.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "salad",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-syrian-dish-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:41:49.567Z"
+}
