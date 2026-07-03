@@ -1,0 +1,75 @@
+{
+  "slug": "flaky-caramelized-brazilian-hake-skillet",
+  "title": "Caramelized Hake with Flaky Crust",
+  "description": "A delicious and easy-to-make dish featuring hake fillets topped with a caramelized crust, perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fish-recipes",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons",
+      "notes": "Any neutral oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt recommended"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the hake fillets with salt and black pepper.",
+    "Roll out the flaky pastry to a thickness of 1/8 inch (3 mm).",
+    "Place the hake fillets on one half of the pastry, leaving a 1/2 inch (1 cm) border.",
+    "Brush the edges of the pastry with skillet oil.",
+    "Fold the other half of the pastry over the hake fillets, pressing gently to seal.",
+    "Brush the top of the pastry with skillet oil and sprinkle with caramelized onions.",
+    "Place the skillet on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the pastry is golden brown and the hake is cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hake-recipes",
+    "caramelized-onions",
+    "flaky-pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-caramelized-brazilian-hake-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:55:53.681Z"
+}
