@@ -1,0 +1,70 @@
+{
+  "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf",
+  "title": "Fried Mediterranean Sweet Potato Pilaf",
+  "description": "A flavorful and easy-to-make pilaf dish featuring sweet potatoes, a mediterranean twist.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and dice the sweet potatoes into 1-inch cubes.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced sweet potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the sweet potatoes are tender.",
+    "While the sweet potatoes are roasting, cook the fluffy rice according to package instructions.",
+    "Once the sweet potatoes are done, fluff them with a fork and stir in chopped parsley.",
+    "Combine the cooked rice and sweet potato mixture in a large serving bowl.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "sweet potato",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fried-mediterranean-sweet-potato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:13:42.419Z"
+}
