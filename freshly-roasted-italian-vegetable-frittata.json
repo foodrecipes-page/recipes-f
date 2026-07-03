@@ -1,0 +1,80 @@
+{
+  "slug": "freshly-roasted-italian-vegetable-frittata",
+  "title": "Roasted Vegetable Frittata",
+  "description": "A delicious and healthy Italian-style omelette filled with roasted vegetables. Perfect for a satisfying breakfast or brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "6",
+      "notes": "Fresh eggs are best for this recipe."
+    },
+    {
+      "name": "Roasted Italian vegetables",
+      "amount": "1 cup",
+      "notes": "Use a mix of zucchini, bell peppers, and onions."
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": "Add some sautéed onion for extra flavor."
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped basil adds a nice Italian touch."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season with salt and pepper to taste."
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Add some grated Parmesan for extra flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk the eggs in a large bowl and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced onion and sauté until softened, about 3-4 minutes.",
+    "Add the roasted Italian vegetables and cook for 2-3 minutes.",
+    "Pour the whisked eggs over the vegetables and cook until the edges start to set.",
+    "Sprinkle the grated Parmesan cheese and chopped basil over the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the eggs are set.",
+    "Remove from the oven and let it rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "breakfast",
+    "brunch",
+    "omelette",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-roasted-italian-vegetable-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:17:34.571Z"
+}
