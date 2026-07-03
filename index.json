@@ -6826,19 +6826,13 @@
   },
   {
     "slug": "flaky-energizing-passata-braise",
-    "title": "Flaky Energizing Passata Braise",
+    "title": "Italian Flaky Chicken Braise",
     "tags": [
-      "breakfast",
-      "brunch",
-      "easier",
-      "homemade",
-      "homestyle",
-      "one-pan",
-      "ovovegetarian",
-      "russian",
-      "weeknight"
+      "italian",
+      "chicken",
+      "braising"
     ],
-    "cuisine": "Russian",
+    "cuisine": "Italian",
     "totalTimeMin": 45,
     "shard": "f"
   },
@@ -10086,14 +10080,12 @@
   },
   {
     "slug": "flavorful-ukrainian-english-muffin-hash",
-    "title": "Flavorful Ukrainian English Muffin Hash",
+    "title": "Ukrainian Hash with English Muffin Crust",
     "tags": [
-      "english-muffin",
-      "nimono-simmer",
-      "one-pot",
-      "salt-block",
+      "breakfast",
       "ukrainian",
-      "vegetarian"
+      "english-muffin",
+      "hash"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
@@ -13501,16 +13493,14 @@
   },
   {
     "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf",
-    "title": "Fluffy Fried Mediterranean Sweet Potato Pilaf",
+    "title": "Fried Mediterranean Sweet Potato Pilaf",
     "tags": [
-      "gluten-free",
-      "mediterranean-diet",
-      "one-pan-meal",
-      "sugar-free",
-      "sweet-potato-recipe"
+      "mediterranean",
+      "sweet potato",
+      "pilaf"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -17213,10 +17203,16 @@
   },
   {
     "slug": "fresh-dense-canadian-fish-soup",
-    "title": "Fresh Dense Canadian Fish Soup",
-    "tags": [],
+    "title": "Pan-Seared Canadian Fish with Fresh Vegetable Soup",
+    "tags": [
+      "canadian-cuisine",
+      "fish-recipe",
+      "soup-recipe",
+      "healthy-recipe",
+      "quick-recipe"
+    ],
     "cuisine": "Canadian",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -17468,17 +17464,16 @@
   },
   {
     "slug": "fresh-filipino-tiger-prawns-pinakbet",
-    "title": "Fresh Filipino Tiger Prawns Pinakbet",
+    "title": "Filipino Tiger Prawns in Pinakbet Sauce",
     "tags": [
-      "easy-dinner",
-      "filipino-food",
-      "healthy",
+      "filipino",
       "seafood",
-      "steamed",
-      "vegetarian"
+      "vegetarian",
+      "pescatarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -19377,17 +19372,15 @@
   },
   {
     "slug": "freshly-pickled-malaysian-water-chestnut-skewers",
-    "title": "Freshly Pickled Malaysian Water Chestnut Skewers",
+    "title": "Grilled Malaysian-Style Skewers",
     "tags": [
-      "citrusy",
-      "date-night",
-      "grilled-vegetables",
-      "malaysian-cuisine",
-      "pickled-vegetables",
-      "vegan-friendly"
+      "grilled",
+      "skewers",
+      "malaysian",
+      "peanut-sauce"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
