@@ -1,0 +1,98 @@
+{
+  "slug": "fresh-dense-canadian-fish-soup",
+  "title": "Pan-Seared Canadian Fish with Fresh Vegetable Soup",
+  "description": "A hearty and flavorful soup paired with pan-seared Canadian fish. Perfect for a chilly evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian fish fillet",
+      "amount": "4",
+      "notes": " Fresh catch of the day"
+    },
+    {
+      "name": "Fresh carrots",
+      "amount": "2",
+      "notes": " Peeled and chopped"
+    },
+    {
+      "name": "Fresh celery",
+      "amount": "2 stalks",
+      "notes": " Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": " Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": " Grated"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": " Low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": " For soup base"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": " Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": " For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": " For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Season the fish fillet with salt and black pepper.",
+    "Add the fish to the skillet and sear for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "In the same skillet, add more oil if necessary, then add the chopped carrots, celery, and onion.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Pour in the chicken broth and water, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Stir in the chopped parsley and season with salt and black pepper to taste.",
+    "Serve the soup hot, with the pan-seared fish on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "fish-recipe",
+    "soup-recipe",
+    "healthy-recipe",
+    "quick-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-dense-canadian-fish-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:24:25.593Z"
+}
