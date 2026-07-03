@@ -1,0 +1,93 @@
+{
+  "slug": "fermented-creamy-syrian-pork-belly-paella",
+  "title": "Syrian-Style Paella with Pork Belly",
+  "description": "A fusion dish that combines the flavors of Syria and Spain. The creamy and fermented notes of the pork belly pair perfectly with the savory paella.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "Score the fat in a crisscross pattern"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice is best for paella"
+    },
+    {
+      "name": "Fermented yogurt",
+      "amount": "1/4 cup",
+      "notes": "Replace with plain yogurt if not fermented"
+    },
+    {
+      "name": "Syrian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "A mix of cumin, coriander, cinnamon, and allspice"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Adds a smoky depth to the dish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before adding"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion before adding"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Use low-sodium broth for best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use extra-virgin for best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the Syrian spice blend, smoked paprika, and chicken broth. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the paella rice and stir to combine.",
+    "Cook for an additional 15-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the fermented yogurt and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "paella",
+    "pork-belly",
+    "fermented",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-syrian-pork-belly-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:33:25.950Z"
+}
