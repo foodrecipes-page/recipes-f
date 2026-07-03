@@ -1,0 +1,80 @@
+{
+  "slug": "floral-fluffy-filipino-chicken-noodles",
+  "title": "Filipino Chicken Noodle Stir Fry",
+  "description": "A simple and flavorful Filipino-inspired stir fry made with chicken, noodles, and various vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "floral rice noodles",
+      "amount": "8 ounces",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "fluffy vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "filipino fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the noodles to the skillet and cook, stirring frequently, until they are slightly browned and fragrant, about 2-3 minutes.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Return the chicken to the skillet and stir in the fish sauce.",
+    "Cook for an additional 2-3 minutes, until the chicken is fully coated in the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "chicken",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fluffy-filipino-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:52:16.519Z"
+}
