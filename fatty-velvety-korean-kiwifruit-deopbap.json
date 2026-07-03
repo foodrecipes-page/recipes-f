@@ -1,0 +1,74 @@
+{
+  "slug": "fatty-velvety-korean-kiwifruit-deopbap",
+  "title": "Korean-Style Kiwifruit Deopbap",
+  "description": "A refreshing and sweet dessert inspired by Korean cuisine, featuring velvety deopbap topped with juicy kiwifruit and a hint of fatty richness.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Korean rice (deopbap)",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Kiwi fruit",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the deopbap thoroughly and heat it in a saucepan over medium heat, stirring occasionally.",
+    "Combine the grated ginger and honey in a small bowl.",
+    "Add the honey-ginger mixture to the deopbap and stir to combine.",
+    "Cook the deopbap for about 5 minutes or until it's lightly toasted.",
+    "Transfer the deopbap to individual serving bowls.",
+    "Top each serving with sliced kiwi fruit.",
+    "Drizzle a small amount of sesame oil over the kiwi fruit.",
+    "Season with a pinch of salt to balance the flavors.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-cuisine",
+    "dessert",
+    "fruit",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-velvety-korean-kiwifruit-deopbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:38:08.742Z"
+}
