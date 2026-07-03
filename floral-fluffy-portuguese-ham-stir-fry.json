@@ -1,0 +1,66 @@
+{
+  "slug": "floral-fluffy-portuguese-ham-stir-fry",
+  "title": "Portuguese Ham Frittata",
+  "description": "A Portuguese-inspired omelette-style frittata filled with ham and spices. Perfect for a quick breakfast or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Portuguese ham",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "floral",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup, shredded cheese"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tsp, cooking oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat oil over medium-high heat.",
+    "Add diced ham and cook until browned.",
+    "In a large bowl, whisk eggs and dried floral.",
+    "Add shredded cheese and stir until combined.",
+    "Pour egg mixture over cooked ham in skillet.",
+    "Transfer skillet to oven and bake for 15-20 minutes.",
+    "Remove from oven and let cool for a few minutes.",
+    "Use a spatula to carefully loosen edges of frittata from skillet.",
+    "Slide frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "portuguese",
+    "frittata",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fluffy-portuguese-ham-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:02:15.972Z"
+}
