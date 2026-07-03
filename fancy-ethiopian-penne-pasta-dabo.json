@@ -1,0 +1,70 @@
+{
+  "slug": "fancy-ethiopian-penne-pasta-dabo",
+  "title": "Spicy Dabo Penne with Ethiopian Spice",
+  "description": "A spicy twist on a classic pasta dish, featuring dabo in place of traditional penne, and infused with the bold flavors of Ethiopian spice.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dabo",
+      "amount": "12 oz"
+    },
+    {
+      "name": "fancy vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garden peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fancy salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fancy black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the dabo according to the package instructions until al dente.",
+    "Heat the fancy vegetable oil in a pan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garden peas and cook until tender.",
+    "Mix in the Ethiopian berbere spice, fancy salt, and fancy black pepper.",
+    "Combine the cooked dabo and the spice mixture.",
+    "Serve hot, garnished with additional fancy vegetables if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "pasta",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fancy-ethiopian-penne-pasta-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:04:36.818Z"
+}
