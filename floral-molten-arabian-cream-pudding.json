@@ -1,0 +1,61 @@
+{
+  "slug": "floral-molten-arabian-cream-pudding",
+  "title": "Creamy Pudding Dessert",
+  "description": "A rich and creamy dessert made with pudding and a touch of floral sweetness.",
+  "cuisine": "dessert",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pudding",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Floral",
+      "amount": "1 tsp",
+      "notes": "rosewater or orange blossom water"
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "Arabian",
+      "amount": "1 tsp",
+      "notes": "ground cardamom"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together pudding and floral notes until well combined.",
+    "In a separate bowl, whip the cream until stiff peaks form.",
+    "Fold the whipped cream into the pudding mixture until no streaks remain.",
+    "Stir in the ground cardamom.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours or until chilled.",
+    "Serve chilled and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cream",
+    "pudding",
+    "dessert",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-molten-arabian-cream-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:18:29.347Z"
+}
