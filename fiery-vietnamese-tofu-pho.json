@@ -1,0 +1,94 @@
+{
+  "slug": "fiery-vietnamese-tofu-pho",
+  "title": "Spicy Tofu Pho",
+  "description": "A Vietnamese-inspired pho recipe featuring spicy tofu and a variety of herbs. Perfect for a quick and flavorful lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "pho broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring pho broth to a boil in a large pot.",
+    "Reduce heat to a simmer and cook noodles according to package instructions.",
+    "Cut tofu into small cubes and pan-fry until golden brown.",
+    "Add soy sauce, sugar, and chili flakes to the pan and stir to combine.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Divide the noodles and tofu mixture among bowls.",
+    "Pour hot pho broth over the top of each bowl.",
+    "Garnish with basil, mint, and lime wedges.",
+    "Serve with sriracha on the side for added heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "tofu",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-vietnamese-tofu-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:48:51.162Z"
+}
