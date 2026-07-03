@@ -1,0 +1,95 @@
+{
+  "slug": "fermented-indian-lamb-curry",
+  "title": "Lamb Curry with Fermented Flavors",
+  "description": "A rich and aromatic lamb curry infused with the depth of fermented spices. Serve with basmati rice or naan bread for a satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fermented curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add curry paste, curry powder, salt, and black pepper. Stir to coat the lamb.",
+    "Add lamb broth and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Stir in yogurt and cook for an additional 10 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "curry",
+    "indian",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indian-lamb-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:08:26.837Z"
+}
