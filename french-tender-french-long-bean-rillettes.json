@@ -1,0 +1,74 @@
+{
+  "slug": "french-tender-french-long-bean-rillettes",
+  "title": "French Bean Casserole",
+  "description": "A hearty, comforting dish featuring tender beans and rich rillettes, perfect for a cold winter's night.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Rillettes",
+      "amount": "2 tablespoons",
+      "notes": "duck or pork"
+    },
+    {
+      "name": "Tender",
+      "amount": "1",
+      "notes": "tenderloin, sliced"
+    },
+    {
+      "name": "Long",
+      "amount": "1",
+      "notes": "long pepper, sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the sliced tender and cook until browned, about 3-4 minutes.",
+    "Add the sliced long pepper and cook for an additional 2 minutes.",
+    "Add the French beans to the skillet and cook until they start to tenderize, about 5 minutes.",
+    "Stir in the rillettes and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the bean mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 20-25 minutes, or until the beans are tender.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/french-tender-french-long-bean-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:05:41.902Z"
+}
