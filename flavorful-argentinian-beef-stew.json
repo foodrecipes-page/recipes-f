@@ -1,0 +1,79 @@
+{
+  "slug": "flavorful-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty stew originating from Argentina, made with flavorful beef and served with crusty bread.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flavorful red wine",
+      "amount": "1 cup",
+      "notes": "such as Malbec"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and add onion. Cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add wine and cook, stirring to scrape up browned bits, until reduced by half, about 5 minutes.",
+    "Add broth, tomato paste, and browned beef. Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:05:44.740Z"
+}
