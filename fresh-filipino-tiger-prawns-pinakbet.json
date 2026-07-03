@@ -1,0 +1,91 @@
+{
+  "slug": "fresh-filipino-tiger-prawns-pinakbet",
+  "title": "Filipino Tiger Prawns in Pinakbet Sauce",
+  "description": "A flavorful and spicy Filipino-inspired dish featuring tiger prawns in a vibrant pinakbet sauce, made with a variety of vegetables and spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen prawns, thawed"
+    },
+    {
+      "name": "Pinakbet vegetables",
+      "amount": "1 cup",
+      "notes": "Combination of eggplant, okra, tomatoes, and long green chili peppers"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the pinakbet vegetables and sauté for 2-3 minutes.",
+    "Add the tomato paste and stir to combine.",
+    "Add the fish sauce and vinegar, and stir to combine.",
+    "Add the tiger prawns and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "seafood",
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-filipino-tiger-prawns-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:12:48.928Z"
+}
