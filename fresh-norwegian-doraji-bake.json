@@ -1,0 +1,73 @@
+{
+  "slug": "fresh-norwegian-doraji-bake",
+  "title": "Baked Cod with Norwegian Fjord Vegetables",
+  "description": "A flavorful and healthy dish featuring fresh cod, Norwegian fjord vegetables, and a hint of doraji. Perfect for a light and easy dinner.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh cod fillet",
+      "amount": "1",
+      "notes": "6 oz"
+    },
+    {
+      "name": "fresh norwegian fjord vegetables",
+      "amount": "1 bunch",
+      "notes": "such as kale, carrots, and beets"
+    },
+    {
+      "name": "doraji flowers",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for baking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the cod fillet and pat it dry with a paper towel.",
+    "Season the cod with salt and pepper.",
+    "In a baking dish, arrange the Norwegian fjord vegetables in a single layer.",
+    "Place the cod fillet on top of the vegetables.",
+    "Drizzle with olive oil and sprinkle with doraji flowers (if using).",
+    "Bake in the preheated oven for 12-15 minutes or until the cod is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked-cod",
+    "norwegian-veggies",
+    "healthy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-norwegian-doraji-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:34:06.912Z"
+}
