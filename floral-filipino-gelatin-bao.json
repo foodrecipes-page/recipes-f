@@ -1,0 +1,67 @@
+{
+  "slug": "floral-filipino-gelatin-bao",
+  "title": "Filipino Bao Dessert",
+  "description": "A Filipino-inspired dessert made with Bao, floral flavors, and gelatin, creating a unique and sweet treat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": "Unflavored gelatin"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Floral Extract (Rose or Jasmine)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes.",
+    "In a saucepan, combine the coconut milk, granulated sugar, and honey. Heat over medium heat, stirring occasionally, until the sugar has dissolved.",
+    "Add the floral extract to the saucepan and remove from heat.",
+    "Add the gelatin mixture to the saucepan and stir until the gelatin is fully dissolved.",
+    "Pour the mixture into a 9x13 inch baking dish and refrigerate until set, about 3-4 hours.",
+    "Cut the Bao into small pieces and use them to garnish the dessert.",
+    "Serve the dessert chilled, garnished with the Bao pieces and additional floral extract if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "baofan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-filipino-gelatin-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:08:49.603Z"
+}
