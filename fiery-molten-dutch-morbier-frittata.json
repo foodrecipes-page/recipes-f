@@ -1,0 +1,84 @@
+{
+  "slug": "fiery-molten-dutch-morbier-frittata",
+  "title": "Morbier Frittata with Fiery Flair",
+  "description": "A spicy twist on a classic French-Italian breakfast dish, featuring a rich morbier cheese and a kick from fiery peppers.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "12 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fiery peppers",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Dutch eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a skillet, melt butter over medium heat.",
+    "Add diced fiery peppers and cook until softened, about 3 minutes.",
+    "In a large bowl, whisk together eggs, milk, and a pinch of salt.",
+    "Add sliced morbier cheese to the bowl and stir to combine.",
+    "Pour the egg mixture over the peppers in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove from oven and sprinkle with chopped parsley.",
+    "Slice into wedges and serve hot.",
+    "Cook time: 20-25 minutes.",
+    "Total time: 35-40 minutes.",
+    "Servings: 4-6."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "morbier",
+    "frittata",
+    "breakfast",
+    "vegetarian",
+    "cheese",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-molten-dutch-morbier-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:36:21.849Z"
+}
