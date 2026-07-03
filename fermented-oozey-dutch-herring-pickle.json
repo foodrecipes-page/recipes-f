@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-oozey-dutch-herring-pickle",
+  "title": "Dutch Herring Pickle Fritters",
+  "description": "A crispy fritter recipe that combines the flavors of the Dutch herring and pickles. Perfect as a snack or appetizer.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch herring",
+      "amount": "1 cup, flaked"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Fermented pickles",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Oozey cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flaked herring, chopped pickles, chopped fermented pickles, and shredded cheese.",
+    "In a separate bowl, whisk together the flour, breadcrumbs, eggs, salt, and black pepper.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Using a spoon, drop small balls of the mixture into a hot skillet with about 1/2 inch of oil.",
+    "Fry the fritters until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "herring",
+    "pickle",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-oozey-dutch-herring-pickle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:14:41.506Z"
+}
