@@ -2160,20 +2160,15 @@
   },
   {
     "slug": "fermented-crunchy-slovakian-tomatoes-salad",
-    "title": "Fermented Crunchy Slovakian Tomatoes Salad",
+    "title": "Slovakian Summer Salad",
     "tags": [
-      "paleo-friendly",
-      "slovakian",
-      "tomato-salad",
-      "broiled",
-      "fermented",
-      "quick",
-      "plant-based",
-      "no-dairy",
-      "healthy"
+      "summer",
+      "salad",
+      "vegetarian",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 736,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -14678,14 +14673,15 @@
   },
   {
     "slug": "fluffy-roasted-mexican-beef-kidney-stir-fry",
-    "title": "Fluffy Roasted Mexican Beef Kidney Stir-fry",
+    "title": "Beef and Kidney Stir Fry",
     "tags": [
-      "fluffy-roasted-beef-kidney-stir-fry",
-      "fermented-spices",
-      "mexican-cookery"
+      "beef",
+      "mexican",
+      "lactose-free",
+      "easy-cooking"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -14874,10 +14870,14 @@
   },
   {
     "slug": "fluffy-slovakian-rice-biryani",
-    "title": "Fluffy Slovakian Rice Biryani",
-    "tags": [],
+    "title": "Slovakian Biryani",
+    "tags": [
+      "slovakian",
+      "vegetarian",
+      "rice"
+    ],
     "cuisine": "Slovakian",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
