@@ -1,0 +1,90 @@
+{
+  "slug": "floral-fragrant-moroccan-tomato-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A traditional North African stew made with chicken, tomatoes, and spices, slow-cooked to perfection in a fragrant tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "floral",
+      "amount": "2 tablespoons",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "fragrant",
+      "amount": "1 tablespoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in the base of the tagine over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned, 5 minutes.",
+    "Add tomato, floral, fragrant, moroccan, salt, and black pepper. Stir to combine.",
+    "Bring to a simmer, then transfer to the top section of the tagine.",
+    "Cover and cook over low heat for 30 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "north-african",
+    "stew",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fragrant-moroccan-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:38:40.534Z"
+}
