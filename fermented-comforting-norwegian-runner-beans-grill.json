@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-comforting-norwegian-runner-beans-grill",
+  "title": "Norwegian-Style Grilled Beans",
+  "description": "A comforting and hearty dish inspired by Norwegian cuisine, featuring grilled beans in a smoky and savory sauce.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Trim the ends of the runner beans and cut into 1-inch pieces.",
+    "In a large bowl, whisk together fermented bean paste, olive oil, salt, black pepper, and garlic.",
+    "Add the runner beans to the bowl and toss to coat with the sauce.",
+    "Thread the bean pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beans are tender and slightly charred.",
+    "Brush the grill seasoning onto the beans during the last minute of grilling.",
+    "Remove the skewers from the grill and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-comforting-norwegian-runner-beans-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:26:19.082Z"
+}
