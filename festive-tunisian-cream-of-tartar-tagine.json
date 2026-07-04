@@ -1,0 +1,92 @@
+{
+  "slug": "festive-tunisian-cream-of-tartar-tagine",
+  "title": "Tunisian Tagine",
+  "description": "A traditional Tunisian dish made with lamb and spices, slow-cooked in a clay pot. This recipe is a twist on the classic, with a creamy twist.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Festive olives",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tartar cream",
+      "amount": "200ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay pot over medium heat.",
+    "Add the lamb shoulder and cook until browned on all sides.",
+    "Add the Tunisian spice blend, garlic, ginger, cumin, coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add the olives and 1 cup of water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Stir in the tartar cream and continue to simmer for another 30 minutes.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-tunisian-cream-of-tartar-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:41:27.202Z"
+}
