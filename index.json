@@ -11618,10 +11618,16 @@
   },
   {
     "slug": "floral-fragrant-moroccan-tomato-tagine",
-    "title": "Floral Fragrant Moroccan Tomato Tagine",
-    "tags": [],
-    "cuisine": "Moroccan",
-    "totalTimeMin": null,
+    "title": "Moroccan Chicken Tagine",
+    "tags": [
+      "chicken",
+      "tagine",
+      "north-african",
+      "stew",
+      "slow-cooker"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -15889,16 +15895,15 @@
   },
   {
     "slug": "fragrant-filipino-pork-skewers",
-    "title": "Fragrant Filipino Pork Skewers",
+    "title": "Pork Skewers with Filipino Flair",
     "tags": [
-      "barbecue",
       "filipino",
-      "grilled",
-      "low-calorie",
-      "weeknight"
+      "grill",
+      "skewers",
+      "pork"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 36,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
