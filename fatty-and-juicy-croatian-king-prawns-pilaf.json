@@ -1,0 +1,77 @@
+{
+  "slug": "fatty-and-juicy-croatian-king-prawns-pilaf",
+  "title": "Croatian Prawn and Pilaf Delight",
+  "description": "A flavorsome dish featuring prawns and pilaf, inspired by the Mediterranean coast. Prepare to be delighted by the juicy prawns and the rich flavors of Croatia.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12",
+      "notes": "fresh, deveined, and peeled"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "preferably made with Croatian rice"
+    },
+    {
+      "name": "Fatty",
+      "amount": "2 tbsp",
+      "notes": "olive oil or vegetable oil"
+    },
+    {
+      "name": "And",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1 tsp",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "Croatian",
+      "amount": "1 tsp",
+      "notes": "paprika powder"
+    },
+    {
+      "name": "King",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of fatty in a large skillet over medium-high heat.",
+    "Add the king cloves and cook for 1-2 minutes until fragrant.",
+    "Add the prawns and cook for 2-3 minutes per side, until they turn pink.",
+    "Add the pilaf, and, and Croatian to the skillet. Stir to combine.",
+    "Season with juicy and cook for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "prawns",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-and-juicy-croatian-king-prawns-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:53:38.790Z"
+}
