@@ -1,0 +1,93 @@
+{
+  "slug": "fermented-croatian-fish-stew",
+  "title": "Brač Stew with Fermented Fish",
+  "description": "A hearty and flavorful stew originating from Brač, Croatia, featuring fermented fish as the main ingredient. This dish is perfect for a chilly evening.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Fish",
+      "amount": "1 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for another 5 minutes.",
+    "Add fermented fish, tomato paste, and white wine. Stir well to combine.",
+    "Pour in vegetable broth and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brač stew",
+    "croatian cuisine",
+    "fermented fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-croatian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:46:54.447Z"
+}
