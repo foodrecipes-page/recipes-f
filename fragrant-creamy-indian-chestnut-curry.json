@@ -1,0 +1,79 @@
+{
+  "slug": "fragrant-creamy-indian-chestnut-curry",
+  "title": "Creamy Indian Chestnut Curry",
+  "description": "A rich and flavorful curry made with roasted chestnuts, fragrant spices, and a creamy sauce. Perfect for a comforting dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup, peeled and chopped"
+    },
+    {
+      "name": "fragrant oil",
+      "amount": "2 tbsp",
+      "notes": "such as coconut or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for another minute.",
+    "Add the curry powder and cumin powder, and cook for 1-2 minutes, until fragrant.",
+    "Add the chestnuts and cook for 2-3 minutes, until they start to brown.",
+    "Add the coconut milk and water, and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the chestnuts are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "chestnut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-creamy-indian-chestnut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:17:49.176Z"
+}
