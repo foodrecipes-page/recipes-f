@@ -1,0 +1,83 @@
+{
+  "slug": "fluffy-roasted-mexican-beef-kidney-stir-fry",
+  "title": "Beef and Kidney Stir Fry",
+  "description": "Quick and easy beef and kidney stir fry with a flavorful mexican twist. Can be served with rice or noodles.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, sliced",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kidney beans, canned",
+      "amount": "1 can, drained",
+      "notes": ""
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil or cooking oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "Add the mexican seasoning and cook for 1 minute.",
+    "Add the kidney beans and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "mexican",
+    "lactose-free",
+    "easy-cooking"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-roasted-mexican-beef-kidney-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:19:14.188Z"
+}
