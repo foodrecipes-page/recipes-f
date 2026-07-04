@@ -1,0 +1,82 @@
+{
+  "slug": "festive-briny-turkish-lamb-corn-husk-manti",
+  "title": "Turkish Corn Manti with Lamb and Festive Touch",
+  "description": "A twist on the traditional Turkish manti, incorporating festive flavors and briny elements.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn husks",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "lamb ground",
+      "amount": "0.5 cup",
+      "notes": ""
+    },
+    {
+      "name": "manti dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "0.25 cup",
+      "notes": "for briny flavor"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "0.1 cup",
+      "notes": "festive touch"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare manti dough according to package instructions.",
+    "In a pan, cook lamb ground over medium heat until browned.",
+    "Add chopped parsley, dried cranberries, and a pinch of salt. Stir well.",
+    "Place a spoonful of lamb mixture onto the center of each manti dough square.",
+    "Fold the dough squares into triangles, and press edges to seal.",
+    "Brush tops with olive oil.",
+    "Place corn husks in a baking dish, and lay manti on top.",
+    "Cover with foil and bake for 20 minutes.",
+    "Remove foil and bake for an additional 5 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "corn",
+    "manti",
+    "lamb",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-briny-turkish-lamb-corn-husk-manti",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:42:17.482Z"
+}
