@@ -1,0 +1,85 @@
+{
+  "slug": "flaky-fried-venezuelan-peas-empanadas",
+  "title": "Venezuelan Empanada Filling with Fried Peas",
+  "description": "A delicious and easy-to-make filling for empanadas, featuring fried peas and a hint of venezuelan spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "fried peas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a pan, heat some oil over medium heat and sauté the onion and garlic until softened.",
+    "Add the fried peas, cumin, paprika, salt, and black pepper to the pan and stir to combine.",
+    "Place a spoonful of the filling in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and cut a few slits in the top to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fried-venezuelan-peas-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:44:32.640Z"
+}
