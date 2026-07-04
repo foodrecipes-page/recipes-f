@@ -1,0 +1,58 @@
+{
+  "slug": "fluffy-slovakian-rice-biryani",
+  "title": "Slovakian Biryani",
+  "description": "A hearty, flavorful dish that combines the rich traditions of Slovakian cuisine with the aromatic spices of Indian biryani.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian",
+      "amount": "1 cup",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "biryani",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fluffy",
+      "amount": "1/2 cup",
+      "notes": "fluffy rice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onions and sauté until translucent.",
+    "Add garlic, ginger, cumin, and coriander; cook for 1 minute.",
+    "Add the slovakian and fluffy rice; stir to coat with oil and spices.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Turn off heat and let rest for 5 minutes.",
+    "Fluff with a fork and serve hot.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "vegetarian",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-slovakian-rice-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:33:58.863Z"
+}
