@@ -1,0 +1,76 @@
+{
+  "slug": "flaky-earthy-malaysian-yeast-extract-crumble",
+  "title": "Crumble Tarts",
+  "description": "Sweet and crumbly tarts with a hint of earthy undertones, perfect for a snack or dessert.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "earthly mushroom jam",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "a pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry and cut into small squares.",
+    "Place a small spoonful of the earthy mushroom jam onto one half of each square.",
+    "Fold the other half over the jam and press the edges to seal.",
+    "In a small bowl, mix together the crumble topping and coconut sugar (if using).",
+    "Sprinkle the crumble mixture over the pastry tarts.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm, dust with vanilla extract and flaky sea salt (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "tarts",
+    "snacks",
+    "desserts",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-earthy-malaysian-yeast-extract-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:18:49.052Z"
+}
