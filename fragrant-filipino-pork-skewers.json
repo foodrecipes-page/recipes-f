@@ -1,0 +1,70 @@
+{
+  "slug": "fragrant-filipino-pork-skewers",
+  "title": "Pork Skewers with Filipino Flair",
+  "description": "Grilled pork skewers infused with the bold flavors of the Philippines, perfect for a summer evening.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "grill",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "500g"
+    },
+    {
+      "name": "Fragrant Filipino marinade (see below)",
+      "amount": "250ml"
+    },
+    {
+      "name": "Wooden skewers, soaked in water for 30 minutes",
+      "amount": "10-12"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "20g"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine 2 cloves garlic, 1 tablespoon fish sauce, 1 tablespoon vinegar, 1 tablespoon brown sugar, and 1 teaspoon black pepper. Blend until smooth.",
+    "In a large bowl, combine the pork cubes and the marinade. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread 5-6 pieces of pork onto each skewer, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through.",
+    "Transfer the skewers to a plate and garnish with chopped cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy!",
+    "Note: If using a charcoal grill, make sure to cook the skewers over medium heat to prevent burning.",
+    "If using a gas grill, cook the skewers over medium-high heat for a nice char."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "grill",
+    "skewers",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-filipino-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:05:52.027Z"
+}
