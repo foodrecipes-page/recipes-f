@@ -1,0 +1,79 @@
+{
+  "slug": "flaky-australian-almond-paste-crumble",
+  "title": "Australian Crumble with Almond Flaky Topping",
+  "description": "A delicious dessert featuring a crumble topping with a flaky texture and almond flavor, served over a bed of sweet fruit.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "australian peaches",
+      "amount": "2 cups",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed, rolled out"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1/4 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "almond slivers",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, combine sliced peaches, granulated sugar, and almond paste. Toss to coat.",
+    "Roll out the flaky pastry and place over the peach mixture.",
+    "Fold the edges of the pastry to create a crust, pressing gently.",
+    "In a separate bowl, combine gluten-free flour and softened butter for crumble topping.",
+    "Spread the crumble mixture evenly over the pastry.",
+    "Bake for 35-40 minutes or until the pastry is golden brown and the fruit is tender.",
+    "Garnish with almond slivers and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fruits",
+    "dessert",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-australian-almond-paste-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:33:22.777Z"
+}
