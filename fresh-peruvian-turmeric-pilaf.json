@@ -1,0 +1,94 @@
+{
+  "slug": "fresh-peruvian-turmeric-pilaf",
+  "title": "Peruvian-Style Chicken and Rice Pilaf",
+  "description": "A flavorful and aromatic dish inspired by Peruvian cuisine, featuring chicken, turmeric, and fresh herbs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Peruvian pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Peruvian pilaf mix and cook according to package instructions.",
+    "Stir in the chopped cilantro, ground turmeric, salt, and black pepper.",
+    "Add the cooked chicken breast back into the skillet and stir to combine.",
+    "Squeeze the fresh lime juice over the top and serve hot.",
+    "Cook the rice according to package instructions.",
+    "Fluff the cooked rice with a fork and serve alongside the chicken and rice pilaf.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "rice-pilaf",
+    "turmeric",
+    "cilantro",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-peruvian-turmeric-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:57:54.169Z"
+}
