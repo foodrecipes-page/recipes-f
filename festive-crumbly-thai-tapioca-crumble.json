@@ -1,0 +1,69 @@
+{
+  "slug": "festive-crumbly-thai-tapioca-crumble",
+  "title": "Thai Crumble Tapioca Dessert",
+  "description": "A unique dessert combining Thai flavors with a crumble topping, featuring tapioca pearls.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tapioca pearls",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Festive crumble (oat, brown sugar, coconut)",
+      "amount": "1 cup",
+      "notes": "crumbly mixture"
+    }
+  ],
+  "instructions": [
+    "Combine tapioca pearls and coconut milk in a saucepan.",
+    "Add Thai red curry paste and stir until combined.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "In a separate bowl, mix granulated sugar and festive crumble.",
+    "Transfer tapioca mixture to individual serving cups.",
+    "Top with crumble mixture.",
+    "Bake at 350°F (180°C) for 15-20 minutes, or until golden brown.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "thaifood",
+    "tapioca",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-crumbly-thai-tapioca-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:23:22.451Z"
+}
