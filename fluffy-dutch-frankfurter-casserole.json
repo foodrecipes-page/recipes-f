@@ -1,0 +1,85 @@
+{
+  "slug": "fluffy-dutch-frankfurter-casserole",
+  "title": "Classic Dutch Casserole",
+  "description": "A hearty and comforting Dutch casserole recipe made with fluffy rice, flavorful frankfurter, and a crispy top.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Frankfurter",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 can",
+      "notes": "condensed cream of mushroom soup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the fluffy rice according to package instructions.",
+    "In a large skillet, sauté the sliced frankfurter and chopped onion until the onion is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a separate saucepan, heat the casserole over medium heat.",
+    "Stir in the milk and bring the mixture to a simmer.",
+    "Add the cooked rice, sautéed frankfurter mixture, and a pinch of salt and pepper to the saucepan.",
+    "Transfer the mixture to a 9x13 inch baking dish and dot the top with butter.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-casserole",
+    "comfort-food",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-dutch-frankfurter-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:17:30.465Z"
+}
