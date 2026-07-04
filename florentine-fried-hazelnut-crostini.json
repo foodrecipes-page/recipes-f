@@ -1,0 +1,75 @@
+{
+  "slug": "florentine-fried-hazelnut-crostini",
+  "title": "Hazelnut Crostini with Spinach Florentine",
+  "description": "A quick and easy appetizer or snack that combines the flavors of hazelnuts and spinach. Perfect for a light meal or as a starter.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Florentine cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "crostini",
+      "amount": "1 baguette",
+      "notes": "sliced into 1/2 inch rounds"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange crostini slices on a baking sheet.",
+    "Drizzle olive oil over crostini and sprinkle with minced garlic.",
+    "Bake for 5-7 minutes or until lightly toasted.",
+    "Meanwhile, combine chopped hazelnuts and crumbled Florentine cheese in a bowl.",
+    "Add fresh spinach to the bowl and toss to combine.",
+    "Once crostini are toasted, let cool for 1 minute.",
+    "Top each crostini with a spoonful of the hazelnut and spinach mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "appetizer",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/florentine-fried-hazelnut-crostini",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:23:00.290Z"
+}
