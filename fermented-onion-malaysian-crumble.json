@@ -1,0 +1,60 @@
+{
+  "slug": "fermented-onion-malaysian-crumble",
+  "title": "Malaysian Crumble Fritters",
+  "description": "A twist on traditional crumble, these fritters combine the flavors of Malaysia with a crunchy texture. Perfect as a snack or side dish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented vegetables",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Malaysian fermented soybean paste (Petai or Belacan)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crumbled crackers (gluten-free)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped fermented vegetables and onion.",
+    "Add the Malaysian fermented soybean paste and mix well.",
+    "In a separate bowl, crush the crumbled crackers into fine crumbs.",
+    "Add the cracker crumbs to the vegetable mixture and stir until well combined.",
+    "Using your hands, shape the mixture into small patties or fritters.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "When the oil is hot, add the fritters and cook for 3-4 minutes on each side, or until golden brown.",
+    "Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "malaysian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-onion-malaysian-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:23:19.311Z"
+}
