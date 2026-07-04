@@ -1,0 +1,96 @@
+{
+  "slug": "fermented-british-dish-roast",
+  "title": "Classic British Roast Beef",
+  "description": "A traditional British roast beef dish, perfect for a special occasion. The slow-cooked beef is tender and flavorful, with a delicious gravy to serve alongside.",
+  "cuisine": "british",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (3-4 pounds)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Horseradish Sauce",
+      "amount": "1/4 cup",
+      "notes": "Available in most supermarkets or make your own"
+    },
+    {
+      "name": "Roast Potatoes",
+      "amount": "2-3 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2-3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "Season the beef with salt and pepper. Heat the olive oil in a large skillet over medium-high heat and sear the beef on all sides until browned.",
+    "Transfer the beef to a large roasting pan and set aside.",
+    "In the same skillet, add the sliced onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the beef broth to the skillet, scraping up any browned bits from the bottom. Bring the mixture to a boil, then pour it over the beef in the roasting pan.",
+    "Add the sliced carrots and potatoes to the roasting pan, tossing them in the juices.",
+    "Roast the beef in the preheated oven for about 2-1/2 hours, or until it reaches your desired level of doneness.",
+    "Baste the beef with the pan juices every 30 minutes or so.",
+    "Once the beef is cooked, let it rest for 15-20 minutes before slicing it thinly against the grain.",
+    "While the beef is resting, prepare the horseradish sauce according to the package instructions.",
+    "To serve, slice the beef against the grain and serve with the roasted vegetables and a dollop of horseradish sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "beef",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": "53g",
+    "carbs": "34g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-british-dish-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:16:13.635Z"
+}
