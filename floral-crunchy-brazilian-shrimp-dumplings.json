@@ -1,0 +1,76 @@
+{
+  "slug": "floral-crunchy-brazilian-shrimp-dumplings",
+  "title": "Brazilian Shrimp Dumpling Delight",
+  "description": "A fusion dish of Brazilian and Asian flavors, featuring succulent shrimp dumplings in a crunchy and floral sauce.",
+  "cuisine": "Brazilian-Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Floral dumplings",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Crunchy sesame seeds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Floral soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brazilian chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add Brazilian chili flakes and sauté for another minute.",
+    "Add floral soy sauce and stir to combine.",
+    "Add Brazilian shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add crunchy sesame seeds and stir to combine.",
+    "Serve with floral dumplings on the side.",
+    "Cook dumplings according to package instructions.",
+    "Serve dumplings with shrimp and sauce.",
+    "Enjoy your Brazilian Shrimp Dumpling Delight!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "asian",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crunchy-brazilian-shrimp-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:33:14.359Z"
+}
