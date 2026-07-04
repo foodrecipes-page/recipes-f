@@ -1,0 +1,85 @@
+{
+  "slug": "flaky-chinese-sea-bass-crumble",
+  "title": "Pan-Seared Bass with Sea Crumble Topping",
+  "description": "A flavorful and easy-to-make dish featuring flaky sea bass topped with a crunchy sea crumble topping, perfect for a quick dinner.",
+  "cuisine": "seafood",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky sea bass",
+      "amount": "2 fillets",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "2 tsp",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "To enhance the natural flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To balance the flavors"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "To add richness and moisture"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "To add a tangy and savory flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "To grease the pan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the bass fillets with Chinese five-spice powder, sea salt, and black pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the bass fillets for 2-3 minutes on each side, until browned and cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes.",
+    "Meanwhile, mix the Panko breadcrumbs and Parmesan cheese in a small bowl.",
+    "Top the cooked bass fillets with the breadcrumb mixture and return to the oven for an additional 2-3 minutes, until golden brown.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "dinner",
+    "fish",
+    "easy-to-make",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-chinese-sea-bass-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:33:16.445Z"
+}
