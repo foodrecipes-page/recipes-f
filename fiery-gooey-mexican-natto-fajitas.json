@@ -1,0 +1,85 @@
+{
+  "slug": "fiery-gooey-mexican-natto-fajitas",
+  "title": "Natto Fajita Stuffed Peppers",
+  "description": "Spicy natto filling wrapped in colorful bell peppers, a fusion of Japanese and Mexican flavors.",
+  "cuisine": "Japanese-Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "natto",
+      "amount": "1/2 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "fajita mix",
+      "amount": "1 packet",
+      "notes": "mexican seasoning blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mexican cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "veggie oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut off the tops of the peppers and remove seeds.",
+    "In a pan, heat oil over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add natto and fajita mix, cook for 2 minutes.",
+    "Stuff each pepper with the natto mixture.",
+    "Top with cheese and cilantro.",
+    "Bake for 20 minutes or until peppers are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "natto",
+    "fajitas",
+    "stuffed-peppers",
+    "mexican-japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-gooey-mexican-natto-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:01:41.781Z"
+}
