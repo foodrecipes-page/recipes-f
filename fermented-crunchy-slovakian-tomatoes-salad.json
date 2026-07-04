@@ -1,0 +1,81 @@
+{
+  "slug": "fermented-crunchy-slovakian-tomatoes-salad",
+  "title": "Slovakian Summer Salad",
+  "description": "A refreshing summer salad with a Slovakian twist, featuring crunchy vegetables and juicy tomatoes.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1/4 cup, chopped fresh parsley",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup, chopped fresh carrots",
+      "notes": ""
+    },
+    {
+      "name": "fermented",
+      "amount": "2 tablespoons, chopped fresh dill",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped tomatoes, parsley, carrots, and dill.",
+    "In a small bowl, whisk together olive oil and lemon juice.",
+    "Pour the dressing over the vegetables and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "salad",
+    "vegetarian",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-slovakian-tomatoes-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:09:36.583Z"
+}
