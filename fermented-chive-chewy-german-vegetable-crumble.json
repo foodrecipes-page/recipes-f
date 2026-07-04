@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-chive-chewy-german-vegetable-crumble",
+  "title": "Fermented German Vegetable Salad",
+  "description": "A hearty salad featuring fermented cabbage and German flavors. Perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fermented cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chewy rye bread",
+      "amount": "1 cup",
+      "notes": "croutons"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, beets, and onions"
+    },
+    {
+      "name": "crumble cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Shred the fermented cabbage and place in a large bowl.",
+    "In a small bowl, whisk together the german mustard and a pinch of salt.",
+    "Pour the mustard mixture over the cabbage and toss to combine.",
+    "Cut the chewy rye bread into small cubes and toast until crispy.",
+    "Add the toasted bread croutons and mixed vegetables to the cabbage mixture.",
+    "Toss to combine and adjust seasoning as needed.",
+    "If desired, top with crumble cheese and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-chive-chewy-german-vegetable-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:31:45.946Z"
+}
