@@ -1,0 +1,59 @@
+{
+  "slug": "freshly-fried-british-rye-toast",
+  "title": "Classic British Toast",
+  "description": "A simple and delicious British-inspired breakfast dish using rye toast and fried ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "Gluten",
+    "Dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fried Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Fresh Scrambled Eggs",
+      "amount": "2 eggs",
+      "notes": "beaten with salt and pepper"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. Cook the bacon in a pan over medium heat until crispy.",
+    "2. In a separate pan, melt the butter over medium heat.",
+    "3. Scramble the eggs in a bowl with salt and pepper, then add to the pan with the melted butter.",
+    "4. Cook the eggs until set, breaking them up with a spatula as they cook.",
+    "5. Toast the rye bread until lightly browned.",
+    "6. Assemble the dish by placing the scrambled eggs on top of the toasted rye bread, then topping with the crispy bacon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-british-rye-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:39:03.747Z"
+}
