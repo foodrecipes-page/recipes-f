@@ -1,0 +1,73 @@
+{
+  "slug": "fresh-turkish-flaky-pastry-borek",
+  "title": "Turkish Borek Pastry",
+  "description": "A traditional Turkish pastry filled with feta cheese and spices. Perfect as a snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package (thawed)",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 block (crumbly)",
+      "notes": "Drained of excess liquid"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup (chopped)",
+      "notes": "Optional for garnish"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt recommended"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp (melted)",
+      "notes": "For brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out 6-8 squares of pastry, depending on desired size.",
+    "Place a tablespoon of feta cheese in the center of each square.",
+    "Brush the edges of the pastry with melted butter.",
+    "Fold the pastry in half to form a triangle, pressing edges to seal.",
+    "Brush the tops of the borek with remaining butter.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "8g",
+    "carbs": "20g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-turkish-flaky-pastry-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:16:23.965Z"
+}
