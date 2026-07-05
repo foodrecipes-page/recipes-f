@@ -1,0 +1,76 @@
+{
+  "slug": "fluffy-soft-tunisian-couscous-pilaf",
+  "title": "Tunisian Couscous",
+  "description": "A flavorful and aromatic couscous dish inspired by Tunisian cuisine, made with fluffy couscous, soft vegetables, and a hint of spice.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fluffy couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soft vegetables (carrots, zucchini, bell peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tunisian spice blend (cumin, coriander, paprika)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add the Tunisian spice blend and cook for 1 minute.",
+    "Add the soft vegetables and cook until tender.",
+    "Add the couscous and pilaf seasoning, and cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 5-7 minutes, or until the couscous is tender.",
+    "Fluff the couscous with a fork and stir in chopped parsley.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "couscous",
+    "north-african",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-soft-tunisian-couscous-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:54:52.976Z"
+}
