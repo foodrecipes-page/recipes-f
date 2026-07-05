@@ -1,0 +1,85 @@
+{
+  "slug": "fresh-juicy-poached-basil-stir-fry",
+  "title": "Poached Chicken and Basil Stir-Fry",
+  "description": "A quick and easy dish that combines the flavors of poached chicken and fresh basil in a tasty stir-fry.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "poached"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Poach the chicken breast in boiling water for 10-12 minutes, or until it reaches an internal temperature of 165°F.",
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced bell pepper and cook for 3-4 minutes, until tender.",
+    "Add the chopped basil leaves and cook for 1 minute, until wilted.",
+    "Add the poached chicken to the wok or skillet and stir in the stir-fry sauce.",
+    "Cook for an additional 2-3 minutes, until the chicken is coated in the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "basil",
+    "stir-fry",
+    "poached"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-juicy-poached-basil-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:15:10.045Z"
+}
