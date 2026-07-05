@@ -1,0 +1,75 @@
+{
+  "slug": "freshly-grilled-uruguayan-trout-whole",
+  "title": "Uruguayan-Style Grilled Trout",
+  "description": "A flavorful and healthy dish that combines the freshness of trout with the bold flavors of Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole trout",
+      "amount": "1",
+      "notes": "freshly caught"
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the trout under cold water and pat dry with paper towels.",
+    "In a small bowl, mix together lemon juice, garlic, parsley, olive oil, salt, and black pepper.",
+    "Place the trout on the grill and brush the lemon mixture evenly over both sides of the fish.",
+    "Grill for 4-5 minutes per side, or until the trout is cooked through and flakes easily with a fork.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-grilled-uruguayan-trout-whole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:59:32.914Z"
+}
