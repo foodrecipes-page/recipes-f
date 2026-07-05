@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-indian-rice-stick-noodles-stir-fry",
+  "title": "Indian Fried Rice",
+  "description": "A simple and flavorful Indian-inspired fried rice dish made with fermented rice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Indian Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and stir-fry until softened.",
+    "Add carrots and peas, and stir-fry for 2-3 minutes.",
+    "Add fermented rice and stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fry",
+    "indian",
+    "fermented",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "4g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indian-rice-stick-noodles-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:57:40.047Z"
+}
