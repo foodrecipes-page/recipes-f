@@ -1,0 +1,73 @@
+{
+  "slug": "flaky-french-cherry-tomato-pasta",
+  "title": "French Cherry Pasta",
+  "description": "A light and flavorful pasta dish featuring cherry tomatoes and a French twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pasta",
+      "amount": "8 oz",
+      "notes": "fettuccine or linguine work well"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved or quartered"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "French olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other mild oil"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the cherry tomatoes and cook for 3-4 minutes until they start to release their juices.",
+    "Add the chopped basil and cook for an additional minute.",
+    "Drain the cooked pasta and add it to the skillet with the tomato mixture.",
+    "Toss to combine, then season with salt and pepper to taste.",
+    "Serve hot, topped with grated Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "italian",
+    "vegetarian",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-french-cherry-tomato-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:41:35.166Z"
+}
