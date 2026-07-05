@@ -1,0 +1,97 @@
+{
+  "slug": "flaky-british-pork-crumble",
+  "title": "Savory British Pork Crumble",
+  "description": "A hearty and comforting dish featuring tender pork in a rich crumble topping.",
+  "cuisine": "British",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, diced",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "British flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Bacon, diced",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and diced",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pearl onions, peeled",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese, grated",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the diced pork over medium-high heat until browned, about 5 minutes.",
+    "Add the diced bacon and cook until crispy, about 3-4 minutes.",
+    "Add the diced onion and carrots, and cook until softened, about 5 minutes.",
+    "Roll out the British flaky pastry to a thickness of about 1/8 inch.",
+    "Transfer the cooked pork mixture to a 9x13 inch baking dish.",
+    "Place the pastry over the pork mixture, pressing the edges to seal.",
+    "Brush the egg wash over the pastry.",
+    "Sprinkle the breadcrumbs and grated cheese over the pastry.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pork",
+    "crumble",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-british-pork-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:30:34.651Z"
+}
