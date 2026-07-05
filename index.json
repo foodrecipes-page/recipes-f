@@ -1622,16 +1622,15 @@
   },
   {
     "slug": "fermented-creamy-tomato-stir-fry",
-    "title": "Fermented Creamy Tomato Stir-fry",
+    "title": "Creamy Fermented Tomato Stir Fry",
     "tags": [
+      "stir-fry",
       "fermented",
-      "creamy",
-      "energizing",
-      "portuguese",
-      "stir-fry"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -17423,16 +17422,15 @@
   },
   {
     "slug": "fresh-filipino-fried-filipino-pork-lechon",
-    "title": "Fresh Filipino Fried Lechon",
+    "title": "Classic Filipino-Style Lechon",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "filipino",
+      "pork",
+      "roasted",
+      "lechon"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 210,
     "shard": "f"
   },
   {
@@ -19032,16 +19030,14 @@
   },
   {
     "slug": "freshly-fried-jamaican-squash-curry",
-    "title": "Freshly Fried Jamaican Squash Curry",
+    "title": "Jamaican Squash Curry",
     "tags": [
-      "brunch",
       "curry",
-      "jamaican",
-      "one-pan",
       "squash",
+      "jamaican",
       "vegan"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "caribbean",
     "totalTimeMin": 45,
     "shard": "f"
   },
