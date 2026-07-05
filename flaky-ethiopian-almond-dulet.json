@@ -1,0 +1,97 @@
+{
+  "slug": "flaky-ethiopian-almond-dulet",
+  "title": "Ethiopian Dulet Stew with Almond and Flaky Flatbread",
+  "description": "A traditional Ethiopian stew made with dulet, served with a side of almond and flaky flatbread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dulet",
+      "amount": "1 pound",
+      "notes": "Available in most Ethiopian markets"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "For flatbread"
+    },
+    {
+      "name": "Flaky flatbread flour",
+      "amount": "1 cup",
+      "notes": "For flatbread"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "For stew"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "For stew"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger, cook until softened.",
+    "Add dulet, cook until browned.",
+    "Add tomato paste, cook for 1 minute.",
+    "Add vegetable broth, bring to a boil.",
+    "Reduce heat, simmer for 20 minutes.",
+    "Meanwhile, mix almond flour and flatbread flour, add water to form a dough.",
+    "Knead dough for 5 minutes, rest for 10 minutes.",
+    "Roll out dough to form flatbread, cook in a pan for 2 minutes on each side.",
+    "Serve dulet stew with flatbread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "flatbread",
+    "dulet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-ethiopian-almond-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:09:30.069Z"
+}
