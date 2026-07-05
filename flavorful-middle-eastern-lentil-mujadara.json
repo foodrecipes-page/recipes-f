@@ -1,0 +1,82 @@
+{
+  "slug": "flavorful-middle-eastern-lentil-mujadara",
+  "title": "Mujadara with Lentil Twist",
+  "description": "A flavorful twist on the classic Middle Eastern dish, featuring lentils and caramelized onions.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils work well"
+    },
+    {
+      "name": "middle eastern rice",
+      "amount": "1 cup",
+      "notes": "preferably long-grain rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "flavorful spice blend",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or oil in a large saucepan over medium heat.",
+    "Add the sliced onion and cook, stirring occasionally, until caramelized and golden brown, about 20-25 minutes.",
+    "Add the cumin and cook for 1 minute, stirring constantly.",
+    "Add the lentils and 2 cups of water to the saucepan. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "While the lentils cook, heat the remaining 1 tablespoon of ghee or oil in a small saucepan over medium heat.",
+    "Add the flavorful spice blend and cook for 1 minute, stirring constantly.",
+    "Fluff the cooked rice with a fork and stir in the spiced ghee or oil.",
+    "To serve, place a scoop of the cooked rice on a plate, followed by a scoop of the lentil mixture.",
+    "Garnish with additional chopped onion and a sprinkle of salt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "middle-eastern",
+    "mujadara",
+    "rice",
+    "onion",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-middle-eastern-lentil-mujadara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:55:31.111Z"
+}
