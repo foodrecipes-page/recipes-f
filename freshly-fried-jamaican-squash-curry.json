@@ -1,0 +1,84 @@
+{
+  "slug": "freshly-fried-jamaican-squash-curry",
+  "title": "Jamaican Squash Curry",
+  "description": "A flavorful and aromatic curry made with roasted squash, Jamaican spices, and fried onions. Serve as a side dish or add to rice or roti for a filling meal.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Squash (acorn or butternut)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fried onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the squash in half and scoop out the seeds. Place on a baking sheet and roast for 30 minutes.",
+    "3. In a large pan, heat the coconut oil over medium heat. Add the onion, garlic, and ginger and cook until the onion is translucent.",
+    "4. Add the curry powder and cook for 1 minute.",
+    "5. Add the roasted squash to the pan and stir to combine with the curry powder mixture.",
+    "6. Add the fried onions and stir to combine.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "squash",
+    "jamaican",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-jamaican-squash-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:56:56.038Z"
+}
