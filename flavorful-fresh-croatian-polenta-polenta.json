@@ -1,0 +1,50 @@
+{
+  "slug": "flavorful-fresh-croatian-polenta-polenta",
+  "title": "Croatian Polenta",
+  "description": "A hearty and comforting traditional Croatian dish made with polenta and flavorful ingredients.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polenta",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of water to a boil in a large pot.",
+    "Gradually whisk in 2 cups of polenta and reduce heat to medium.",
+    "Cook for 5-7 minutes, stirring constantly.",
+    "Add 2 tablespoons of butter and stir until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polenta",
+    "croatian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-fresh-croatian-polenta-polenta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:49:33.095Z"
+}
