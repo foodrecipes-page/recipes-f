@@ -1,0 +1,80 @@
+{
+  "slug": "fermented-creamy-tomato-stir-fry",
+  "title": "Creamy Fermented Tomato Stir Fry",
+  "description": "A quick and easy stir fry recipe using fermented vegetables, creamy sauce, and fresh tomatoes.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Vegetables",
+      "amount": "1 cup",
+      "notes": "Any variety of fermented vegetables, chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Fresh, diced"
+    },
+    {
+      "name": "Creamy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Any store-bought or homemade creamy sauce"
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "1 tablespoon",
+      "notes": "Any neutral-tasting oil, such as vegetable or canola oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy Sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute until fragrant.",
+    "Add the chopped fermented vegetables and cook for 3-4 minutes until they start to soften.",
+    "Add the diced tomatoes and cook for an additional 2-3 minutes until they start to release their juices.",
+    "Pour in the creamy sauce and stir to combine. Bring the sauce to a simmer.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened and the vegetables are coated.",
+    "Taste and adjust the seasoning as needed. If using soy sauce, add it now.",
+    "Serve hot over rice or noodles.",
+    "Optional: Garnish with chopped green onions or sesame seeds for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "fermented",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:59:14.473Z"
+}
