@@ -1,0 +1,60 @@
+{
+  "slug": "floral-velvety-venezulan-porridge-oats-pilaf",
+  "title": "Venezulan Oat Porridge",
+  "description": "A hearty and comforting breakfast dish from Venezuela, featuring oats and porridge.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "porridge",
+      "amount": "1 cup",
+      "notes": "sweetened porridge mix"
+    },
+    {
+      "name": "floral honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "velvety milk",
+      "amount": "1 cup",
+      "notes": "dairy milk or milk alternative"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the velvety milk to a simmer.",
+    "Add the oats and porridge mix, stirring to combine.",
+    "Cook for 5-7 minutes, stirring occasionally, until the oats have absorbed most of the liquid.",
+    "Remove from heat and stir in the floral honey, if using.",
+    "Serve warm, topped with additional floral honey if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "oats",
+    "porridge"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-venezulan-porridge-oats-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:52:49.162Z"
+}
