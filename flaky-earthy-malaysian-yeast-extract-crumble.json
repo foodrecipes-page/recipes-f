@@ -1,76 +1,79 @@
 {
   "slug": "flaky-earthy-malaysian-yeast-extract-crumble",
-  "title": "Crumble Tarts",
-  "description": "Sweet and crumbly tarts with a hint of earthy undertones, perfect for a snack or dessert.",
+  "title": "Malaysian Crumble Cake",
+  "description": "A moist and flavorful cake with a crunchy crumble topping, inspired by Malaysian flavors.",
   "cuisine": "malaysian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": null,
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "flaky pastry",
-      "amount": "1 sheet",
-      "notes": "homemade or store-bought"
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
     },
     {
-      "name": "earthly mushroom jam",
-      "amount": "1/4 cup",
-      "notes": "homemade or store-bought"
-    },
-    {
-      "name": "coconut sugar",
-      "amount": "1/4 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "crumble topping",
+      "name": "Granulated sugar",
       "amount": "1 cup",
-      "notes": "homemade or store-bought"
+      "notes": ""
     },
     {
-      "name": "vanilla extract",
-      "amount": "1 tsp",
-      "notes": "optional"
+      "name": "Unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
     },
     {
-      "name": "flaky sea salt",
-      "amount": "a pinch",
-      "notes": "optional"
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian yeast extract",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 cup",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Roll out the flaky pastry and cut into small squares.",
-    "Place a small spoonful of the earthy mushroom jam onto one half of each square.",
-    "Fold the other half over the jam and press the edges to seal.",
-    "In a small bowl, mix together the crumble topping and coconut sugar (if using).",
-    "Sprinkle the crumble mixture over the pastry tarts.",
-    "Bake for 20-25 minutes, or until the pastry is golden brown.",
-    "Remove from oven and let cool for a few minutes.",
-    "Serve warm, dust with vanilla extract and flaky sea salt (if using)."
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9-inch round cake pan and set aside.",
+    "In a medium bowl, whisk together the flour, sugar, and flaky sea salt.",
+    "In a large bowl, whisk together the butter, eggs, and Malaysian yeast extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Make the crumble topping by combining the crumble mixture in a small bowl.",
+    "Sprinkle the crumble topping evenly over the cake batter.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve warm or at room temperature."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 25,
-  "totalTimeMin": 40,
-  "servings": 12,
-  "difficulty": "easy",
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
   "tags": [
-    "tarts",
-    "snacks",
-    "desserts",
-    "vegan",
-    "gluten-free"
+    "malaysian",
+    "cake",
+    "crumble",
+    "dessert"
   ],
   "nutrition": {
-    "calories": 120,
-    "protein": 2,
-    "carbs": 20,
-    "fat": 6
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "45g",
+    "fat": "14g"
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/flaky-earthy-malaysian-yeast-extract-crumble",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T11:18:49.052Z"
+  "createdAt": "2026-07-03T22:25:14.159Z"
 }
