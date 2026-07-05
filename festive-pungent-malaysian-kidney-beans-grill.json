@@ -1,0 +1,77 @@
+{
+  "slug": "festive-pungent-malaysian-kidney-beans-grill",
+  "title": "Grilled Malaysian Beef Skewers",
+  "description": "A flavorful and colorful dish that combines the spices of Malaysia with the smokiness of grilled beef. Perfect for outdoor gatherings and parties.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (kidney) meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "festival onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "grill sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beans (kidney) beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef cubes, onions, and garlic onto skewers.",
+    "Brush grill sauce onto the beef mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, heat palm sugar in a small saucepan over low heat.",
+    "Add beans to the saucepan and stir to coat with palm sugar.",
+    "Serve skewers over beans and garnish with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "malaysian",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-pungent-malaysian-kidney-beans-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:46:44.881Z"
+}
