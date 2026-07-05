@@ -1,0 +1,89 @@
+{
+  "slug": "fragrant-indian-sardines-curry",
+  "title": "Sardine Curry",
+  "description": "A flavorful and spicy Indian-inspired curry made with sardines, perfect for a quick weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sardines in oil",
+      "amount": "1 can (120g)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fragrant curry powder",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "diluted with 2 tbsp water"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "6-8 leaves",
+      "notes": "or substitute with fresh cilantro"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)"
+    },
+    {
+      "name": "Coconut oil or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic; sauté until onion is translucent.",
+    "Add curry powder and cook for 1-2 minutes, stirring constantly.",
+    "Add tomato paste and stir well.",
+    "Add sardines, curry leaves, and salt. Stir well.",
+    "Simmer for 5-7 minutes or until the sauce thickens.",
+    "Serve hot, garnished with chopped cilantro.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "indian",
+    "curry",
+    "fish",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-indian-sardines-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:08:11.142Z"
+}
