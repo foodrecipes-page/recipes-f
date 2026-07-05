@@ -1,0 +1,90 @@
+{
+  "slug": "ferment-celery-bliss",
+  "title": "Bliss Stew",
+  "description": "A hearty stew made with ferment and bliss. Perfect for a chilly evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ferment",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "3 stalks",
+      "notes": ""
+    },
+    {
+      "name": "bliss",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add celery and sauté for 2 minutes.",
+    "Add potatoes, tomato paste, and vegetable broth. Bring to a boil.",
+    "Reduce heat and add ferment and bliss. Simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-celery-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:59:03.204Z"
+}
