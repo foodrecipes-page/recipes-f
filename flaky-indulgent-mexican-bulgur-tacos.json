@@ -1,0 +1,86 @@
+{
+  "slug": "flaky-indulgent-mexican-bulgur-tacos",
+  "title": "Mexican Bulgur Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring bulgur as the main ingredient. These tacos are perfect for a quick and easy lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "cooking liquid not included"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/2 cup",
+      "notes": "crushed crackers or crumbled cheese"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup",
+      "notes": "chopped onion, bell pepper, or other sautéed vegetables"
+    },
+    {
+      "name": "tacos seasoning",
+      "amount": "1 packet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cook the bulgur according to package instructions. Set aside.",
+    "In a pan, heat the flaky over medium heat until lightly toasted.",
+    "Add the indulgent to the pan and cook for 2-3 minutes, until softened.",
+    "Add the tacos seasoning to the pan and stir to combine.",
+    "Add the cooked bulgur to the pan and stir to combine.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the bulgur mixture into the shells.",
+    "Top with avocado, sour cream, salt, and pepper to taste.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "bulgur",
+    "tacos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-indulgent-mexican-bulgur-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:50:20.603Z"
+}
