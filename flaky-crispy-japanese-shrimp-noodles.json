@@ -1,0 +1,79 @@
+{
+  "slug": "flaky-crispy-japanese-shrimp-noodles",
+  "title": "Japanese Shrimp Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with shrimp, noodles, and Japanese-inspired flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Japanese Noodles",
+      "amount": "8 ounces",
+      "notes": "such as soba or udon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the Japanese noodles and cook for 2-3 minutes, until slightly browned.",
+    "Return the cooked shrimp to the skillet and stir in the soy sauce and sesame oil.",
+    "Cook for an additional 1-2 minutes, until the noodles are well coated with the sauce.",
+    "Stir in the chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "shrimp",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-crispy-japanese-shrimp-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:22:11.466Z"
+}
