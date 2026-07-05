@@ -1,0 +1,64 @@
+{
+  "slug": "fluffy-midnight-craving-vietnamese-prosciutto-pilaf",
+  "title": "Vietnamese Prosciutto Pilaf",
+  "description": "A flavorful and savory pilaf dish infused with the taste of Vietnam, featuring crispy prosciutto and fluffy rice.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vietnamese craving spice blend",
+      "amount": "1 tsp",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "midnight oil",
+      "amount": "2 tbsp",
+      "notes": "olive or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat the midnight oil in a large skillet over medium heat.",
+    "Add the sliced prosciutto and cook until crispy, about 4 minutes.",
+    "Remove the prosciutto from the skillet and set aside.",
+    "Add the fluffy rice to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add the vietnamese craving spice blend to the skillet and stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed.",
+    "Fluff the pilaf with a fork and stir in the cooked prosciutto.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "vietnamese",
+    "rice",
+    "prosciutto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-midnight-craving-vietnamese-prosciutto-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:03:03.980Z"
+}
