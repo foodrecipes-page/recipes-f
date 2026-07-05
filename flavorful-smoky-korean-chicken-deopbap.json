@@ -1,0 +1,81 @@
+{
+  "slug": "flavorful-smoky-korean-chicken-deopbap",
+  "title": "Smoky Korean Chicken Deopbap",
+  "description": "A spicy and savory Korean-style fried chicken served atop a bed of fluffy rice. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "deopbap rice",
+      "amount": "200g",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "flavorful gochujang sauce",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoky gochugaru",
+      "amount": "20g",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "10g",
+      "notes": "additional for extra heat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "20g",
+      "notes": "to marinate the chicken"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "10g",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of soy sauce, garlic, and smoky gochugaru for at least 30 minutes.",
+    "Dredge the marinated chicken in a mixture of gochujang sauce and flour, shaking off excess.",
+    "Deep-fry the coated chicken in hot oil until crispy and golden brown.",
+    "Cook the deopbap rice according to package instructions.",
+    "To assemble, place a scoop of cooked rice on a plate, top with the fried chicken, and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "chicken-recipe",
+    "fried-chicken",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-smoky-korean-chicken-deopbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:42:10.772Z"
+}
