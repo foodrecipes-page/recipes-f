@@ -1,0 +1,69 @@
+{
+  "slug": "festive-croatian-pecorino-croissant",
+  "title": "Croatian Pecorino Croissant Fritters",
+  "description": "A fusion of Croatian and Italian flavors, these crispy fritters are a twist on traditional croissants filled with creamy Pecorino cheese.",
+  "cuisine": "Croatian-Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croissant dough",
+      "amount": "1 package (thawed)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "8 oz, crumbled"
+    },
+    {
+      "name": "Festive cheese",
+      "amount": "4 oz, crumbled"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup (for dusting)"
+    },
+    {
+      "name": "Oil",
+      "amount": "1/2 cup, for frying"
+    }
+  ],
+  "instructions": [
+    "Dust the thawed croissant dough with flour and roll out to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together crumbled Pecorino and Festive cheese.",
+    "Place a spoonful of cheese mixture in the center of each dough circle.",
+    "Brush the edges of the dough with beaten egg and fold in half to form a triangle.",
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Drain on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "croissant",
+    "pecorino",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-croatian-pecorino-croissant",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:41:14.923Z"
+}
