@@ -1,0 +1,80 @@
+{
+  "slug": "floral-silky-light-canadian-dum-stir-fry",
+  "title": "Crêpes with Canadian Filling",
+  "description": "Delicate crêpes filled with a sweet Canadian-inspired filling, perfect for a dessert or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, eggs, milk, and melted butter.",
+    "Let the batter rest for 30 minutes.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour a small amount of batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl.",
+    "Loosen the crêpe with a spatula and flip.",
+    "Cook for another minute.",
+    "Repeat with the remaining batter, until all crêpes are made.",
+    "Mix together maple syrup, sugar, and vanilla extract.",
+    "Fill each crêpe with the sweet Canadian filling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "snack",
+    "canadian",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-silky-light-canadian-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:43:07.685Z"
+}
