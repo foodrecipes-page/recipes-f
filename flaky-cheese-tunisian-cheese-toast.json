@@ -1,0 +1,55 @@
+{
+  "slug": "flaky-cheese-tunisian-cheese-toast",
+  "title": "Cheesy Tunisian Toast",
+  "description": "A simple and flavorful snack or light meal featuring Tunisian cheese and crispy toast.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "for crispy toast"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flaky pastry into 4 equal squares.",
+    "Place a pastry square on each slice of toast.",
+    "Top the pastry with shredded Tunisian cheese.",
+    "Bake for 10-12 minutes, or until the pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "vegetarian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-cheese-tunisian-cheese-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:46:47.568Z"
+}
