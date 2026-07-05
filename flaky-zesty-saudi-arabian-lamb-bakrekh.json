@@ -1,0 +1,73 @@
+{
+  "slug": "flaky-zesty-saudi-arabian-lamb-bakrekh",
+  "title": "Bakrekh Lamb Kebabs",
+  "description": "A flavorful twist on traditional kebabs, featuring tender lamb and a blend of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bakrekh",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flaky",
+      "amount": "1/2 cup",
+      "notes": "flour for dusting"
+    },
+    {
+      "name": "Zesty",
+      "amount": "1/4 cup",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "Saudi",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Arabian spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, Bakrekh, flaky, zesty, and Arabian spice blend. Mix well.",
+    "Thread lamb mixture onto skewers.",
+    "Brush Saudi with olive oil and grill kebabs for 8-10 minutes, turning frequently.",
+    "Cook to an internal temperature of 145°F (63°C) for medium-rare, or 160°F (71°C) for medium.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "grilling",
+    "middle-eastern",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-zesty-saudi-arabian-lamb-bakrekh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:27:18.440Z"
+}
