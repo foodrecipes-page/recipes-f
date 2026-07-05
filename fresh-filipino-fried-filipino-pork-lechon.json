@@ -1,0 +1,86 @@
+{
+  "slug": "fresh-filipino-fried-filipino-pork-lechon",
+  "title": "Classic Filipino-Style Lechon",
+  "description": "A traditional Filipino dish, lechon is a whole roasted pig that's slow-cooked over charcoal, resulting in a tender, flavorful, and crispy-skinned masterpiece.",
+  "cuisine": "filipino",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh lechon pig",
+      "amount": "2 kg",
+      "notes": "whole pig"
+    },
+    {
+      "name": "pork liver",
+      "amount": "1 cup",
+      "notes": "for liver sauce"
+    },
+    {
+      "name": "victoria sauce",
+      "amount": "1 cup",
+      "notes": "for liver sauce"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for marinade"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves",
+      "notes": "for wrapping lechon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together fish sauce, black pepper, and minced garlic to create marinade.",
+    "Rub marinade all over the lechon pig, making sure to get some under the skin as well.",
+    "Wrap lechon pig in banana leaves, securing with kitchen twine.",
+    "Heat cooking oil in a large Dutch oven over medium-high heat.",
+    "Sear lechon pig on all sides until browned, about 5 minutes per side.",
+    "Transfer Dutch oven to preheated oven and roast for 2-3 hours, or until skin is crispy and tender.",
+    "Meanwhile, prepare liver sauce by mixing together pork liver, victoria sauce, and 1 tablespoon of cooking oil.",
+    "Once lechon is done, let it rest for 10 minutes before carving.",
+    "Serve with liver sauce spooned over the top.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "pork",
+    "roasted",
+    "lechon"
+  ],
+  "nutrition": {
+    "calories": 2500,
+    "protein": 120,
+    "carbs": 20,
+    "fat": 180
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-filipino-fried-filipino-pork-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:30:19.372Z"
+}
