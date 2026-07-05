@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-aerated-quick-fix-jamaican-cheddar-bao",
+  "title": "Jamaican Bao Burgers",
+  "description": "A flavorful twist on traditional burgers, featuring Jamaican seasoning and served on a soft bao bun.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4"
+    },
+    {
+      "name": "Quick fix patty mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented hot sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Aerated brioche buns",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, mix together Quick fix patty mix and Jamaican seasoning.",
+    "3. Divide the mixture into 4 equal parts and shape into patties.",
+    "4. Grill the patties for 3-4 minutes per side, or until cooked through.",
+    "5. Meanwhile, toast the Bao buns on the grill or in a toaster.",
+    "6. Assemble the burgers by spreading a slice of Cheddar cheese on the bottom bun, followed by a patty, a dollop of Fermented hot sauce, and finally the top bun.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "bao",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-aerated-quick-fix-jamaican-cheddar-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:08:42.614Z"
+}
