@@ -1,0 +1,77 @@
+{
+  "slug": "fresh-light-croatian-iceberg-lettuce-salad",
+  "title": "Croatian Salad",
+  "description": "A refreshing Croatian-inspired salad made with fresh lettuce, iceberg, and a hint of Croatian spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Lettuce",
+      "amount": "4 cups",
+      "notes": "Any type of fresh lettuce works well"
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "2 cups",
+      "notes": "Add a crunchy texture with iceberg lettuce"
+    },
+    {
+      "name": "Croatian Salad",
+      "amount": "1/2 cup",
+      "notes": "Use a store-bought or homemade Croatian salad mix"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a light olive oil for a refreshing flavor"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Add a tangy flavor with red wine vinegar"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to bring out the flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add a touch of black pepper for extra flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the fresh lettuce and iceberg lettuce.",
+    "2. Add the Croatian salad mix and toss to combine.",
+    "3. In a small bowl, whisk together the light olive oil and red wine vinegar.",
+    "4. Pour the dressing over the salad and toss to coat.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-light-croatian-iceberg-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:44:17.478Z"
+}
