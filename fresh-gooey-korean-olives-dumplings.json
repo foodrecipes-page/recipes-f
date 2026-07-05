@@ -1,0 +1,72 @@
+{
+  "slug": "fresh-gooey-korean-olives-dumplings",
+  "title": "Gooey Korean Dumplings in Olive Oil",
+  "description": "A twist on traditional dumplings by pan-frying them in a mixture of olive oil and gooey sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "Gooey sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together olive oil, gooey sauce, Korean chili flakes, and soy sauce.",
+    "2. Pan-fry the wonton wrappers in the mixture until golden brown.",
+    "3. Remove the wrappers from the pan and place them on a paper towel-lined plate to drain excess oil.",
+    "4. In a separate pan, heat a small amount of olive oil over medium heat.",
+    "5. Add the chopped green onions and grated ginger to the pan and stir-fry for 1 minute.",
+    "6. Add the pan-fried dumplings back into the pan with the green onion mixture and stir-fry for another minute.",
+    "7. Serve the dumplings hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "dumplings",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-gooey-korean-olives-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:59:00.280Z"
+}
