@@ -1,0 +1,91 @@
+{
+  "slug": "fermented-chewy-greek-tamarind-paste-makham-borek",
+  "title": "Makham Greek Borek",
+  "description": "Sweet and chewy Greek borek filled with a tangy makham and tamarind paste.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Makham",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Greek filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fermented yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "Chewy sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "as needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 tablespoon",
+      "notes": "for dusting (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the filo dough according to package instructions.",
+    "Cut the filo dough into 4 equal pieces.",
+    "In a bowl, mix together the makham, tamarind paste, honey, fermented yogurt, chewy sugar, and water.",
+    "Place a piece of filo dough on a flat surface and brush with vegetable oil.",
+    "Place 1/4 cup of the makham mixture in the center of the filo dough.",
+    "Fold the filo dough over the filling to form a triangle and press the edges to seal.",
+    "Repeat with the remaining filo dough and filling.",
+    "Place the borek on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Dust with powdered sugar (if using) and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "greece",
+    "sweet",
+    "snack",
+    "borek"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-chewy-greek-tamarind-paste-makham-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:00:35.732Z"
+}
