@@ -1,0 +1,88 @@
+{
+  "slug": "fresh-floral-ukrainian-beef-tagine",
+  "title": "Beef Tagine Stew",
+  "description": "A hearty and aromatic beef stew inspired by traditional Ukrainian cuisine, slow-cooked in a flavorful tagine. This rich and savory dish is perfect for a cold winter evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat (1 pound)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil (2 tablespoons)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion (1 large)",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds (1 teaspoon)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt (1 teaspoon)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper (1/2 teaspoon)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine (1 cup)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large tagine or Dutch oven over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add caraway seeds, salt, and pepper. Cook for 1 minute.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Add broth, wine, and bring to a boil.",
+    "Cover and transfer to the oven. Braise for 2 hours, or until the beef is tender.",
+    "Stir in parsley. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "ukrainian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-floral-ukrainian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:21:38.938Z"
+}
