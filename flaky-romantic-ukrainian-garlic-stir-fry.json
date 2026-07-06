@@ -1,0 +1,75 @@
+{
+  "slug": "flaky-romantic-ukrainian-garlic-stir-fry",
+  "title": "Ukrainian Flaky Pastry with Garlic Stir Fry",
+  "description": "A classic Ukrainian dish with a twist, combining flaky pastry with a savory garlic stir fry.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "romantic potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1/2 lb",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and peas"
+    },
+    {
+      "name": "fry oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry and place on a baking sheet.",
+    "Bake the pastry for 15-20 minutes, or until golden brown.",
+    "While the pastry is baking, heat the fry oil in a pan over medium-high heat.",
+    "Add the garlic and stir-fry vegetables to the pan and cook for 3-4 minutes.",
+    "Add the ukrainian sausage to the pan and cook for an additional 2-3 minutes.",
+    "Meanwhile, peel and chop the romantic potatoes into bite-sized pieces.",
+    "Add the potatoes to the pan and stir to combine with the garlic and vegetables.",
+    "Remove the pastry from the oven and let cool for 2-3 minutes.",
+    "Spoon the garlic stir fry onto the pastry and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pastries",
+    "garlic",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-romantic-ukrainian-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:14:38.469Z"
+}
