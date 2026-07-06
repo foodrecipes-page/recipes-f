@@ -1,0 +1,76 @@
+{
+  "slug": "fatty-creamy-middle-eastern-green-olives-knafeh",
+  "title": "Middle Eastern Knafeh with Olive Tapenade",
+  "description": "A creamy and savory dessert inspired by Middle Eastern cuisine, featuring a crispy knafeh crust and a rich olive tapenade filling.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh",
+      "amount": "1 package",
+      "notes": "available in most Middle Eastern markets"
+    },
+    {
+      "name": "Green olives",
+      "amount": "1/2 cup pitted",
+      "notes": "use a combination of green and black olives for added flavor"
+    },
+    {
+      "name": "Eastern olives",
+      "amount": "1/4 cup pitted",
+      "notes": "add a salty, savory flavor to the tapenade"
+    },
+    {
+      "name": "Fatty cream",
+      "amount": "1 cup",
+      "notes": "heavy cream or half-and-half work well"
+    },
+    {
+      "name": "Middle cream cheese",
+      "amount": "8 oz",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "garnish the tapenade with fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Crumble the knafeh into a bowl and mix with a pinch of salt.",
+    "Transfer the knafeh mixture to a baking dish and press it into an even layer.",
+    "Bake the knafeh for 10-12 minutes, or until golden brown.",
+    "While the knafeh is baking, make the olive tapenade by combining the green and Eastern olives in a blender or food processor.",
+    "Add the fatty cream and mix until smooth and creamy.",
+    "Stir in the softened cream cheese until well combined.",
+    "Once the knafeh is ready, remove it from the oven and let it cool for a few minutes.",
+    "Spoon the olive tapenade over the knafeh and garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "knafeh",
+    "olive-tapenade",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-creamy-middle-eastern-green-olives-knafeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:43:55.580Z"
+}
