@@ -1,0 +1,71 @@
+{
+  "slug": "flaky-crispy-canadian-beef-skewers",
+  "title": "Beef Skewer Appetizer",
+  "description": "A simple appetizer recipe using beef skewers with a crispy twist. Perfect for a quick snack or dinner starter.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef skewers",
+      "amount": "1 pack (8-10 skewers)"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package (8-10 sheets)"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the pastry dough into 1-inch squares.",
+    "Wrap each beef skewer with a pastry square, pressing edges to seal.",
+    "Brush tops with olive oil and sprinkle with garlic powder.",
+    "Arrange skewers on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until pastry is golden brown.",
+    "Sprinkle crispy fried onions and parsley on top of each skewer.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "appetizer",
+    "snack",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-crispy-canadian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:30:48.786Z"
+}
