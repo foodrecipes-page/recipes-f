@@ -1,0 +1,70 @@
+{
+  "slug": "formidable-charred-italian-leek-panforte",
+  "title": "Panforte with Charred Leek and Italian Herbs",
+  "description": "A classic Italian dessert reimagined with charred leek and a hint of Italian herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Panforte",
+      "amount": "1 (1 pound) package",
+      "notes": ""
+    },
+    {
+      "name": "Leeks",
+      "amount": "2 medium",
+      "notes": "Charred"
+    },
+    {
+      "name": "Italian herbs",
+      "amount": "2 tablespoons fresh",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Char the leeks by grilling them over medium heat for 2-3 minutes per side, or until slightly blackened.",
+    "Slice the charred leeks into thin rings.",
+    "Cut the panforte into 1-inch cubes.",
+    "In a small bowl, mix together the Italian herbs, honey, and lemon zest.",
+    "Add the herb mixture to the panforte cubes and toss to coat.",
+    "Place the panforte cubes on a baking sheet and bake for 5-7 minutes, or until lightly toasted.",
+    "To assemble, place a few slices of charred leek on a serving plate, top with a few cubes of panforte, and drizzle with the herb mixture.",
+    "Repeat the layers one more time, finishing with a layer of panforte on top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "panforte",
+    "leek"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/formidable-charred-italian-leek-panforte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:20:01.682Z"
+}
