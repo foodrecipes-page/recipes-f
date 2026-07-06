@@ -1,0 +1,97 @@
+{
+  "slug": "freshly-crispy-thai-ginger-stir-fry",
+  "title": "Crispy Thai Stir Fry",
+  "description": "A quick and delicious stir fry made with fresh vegetables and crispy elements. Perfect for a weeknight dinner.",
+  "cuisine": "Thailand",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Vegetables (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add mixed vegetables and stir-fry until tender.",
+    "Add crispy fried shallots and stir-fry for an additional 2 minutes.",
+    "Add soy sauce, hoisin sauce, sugar, salt, and pepper. Stir-fry for an additional 2 minutes.",
+    "Stir in fresh Thai basil.",
+    "Serve hot and garnish with additional crispy fried shallots if desired.",
+    "Cook time may vary depending on desired level of crispiness for the fried shallots.",
+    "Adjust seasoning to taste.",
+    "Serve with steamed rice or noodles if desired.",
+    "Garnish with fresh Thai basil leaves for a pop of color and flavor.",
+    "This recipe is easily customizable to suit your taste preferences."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-cuisine",
+    "stir-fry",
+    "vegetarian",
+    "quick-meal",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-crispy-thai-ginger-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:48:33.992Z"
+}
