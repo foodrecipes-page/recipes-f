@@ -1,0 +1,80 @@
+{
+  "slug": "fluffy-french-chicken-casserole",
+  "title": "Chicken Casserole",
+  "description": "A classic comfort food dish featuring chicken, fluffy rice, and a creamy sauce, all baked together in a casserole.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "1 cup fluffy rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed vegetables (such as peas, carrots, corn)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 can (10 3/4 ounces) cream of chicken soup",
+      "amount": "1 can (10 3/4 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup shredded french cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cook the fluffy rice according to package instructions.",
+    "In a large skillet, sauté the mixed vegetables and chicken until the chicken is cooked through.",
+    "Stir in the cream of chicken soup and shredded french cheese until the cheese is melted.",
+    "Add the cooked rice to the skillet and stir until combined.",
+    "Transfer the mixture to a 9x13-inch casserole dish.",
+    "Dot the top of the casserole with butter.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-french-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:51:37.355Z"
+}
