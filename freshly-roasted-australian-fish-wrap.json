@@ -1,0 +1,90 @@
+{
+  "slug": "freshly-roasted-australian-fish-wrap",
+  "title": "Australian Fish Wrap",
+  "description": "A delicious and healthy wrap filled with freshly caught fish, topped with crispy lettuce and creamy avocado.",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Fish Fillets",
+      "amount": "2",
+      "notes": "Freshly caught and cooked to perfection"
+    },
+    {
+      "name": "Roasted Red Onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced and caramelized"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Fresh and crisp"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "Mashed to perfection"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Australian Wrap",
+      "amount": "1",
+      "notes": "Large and fresh"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 teaspoon",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Season the fish fillets with salt and pepper.",
+    "Cook the fish fillets for 3-4 minutes on each side, or until cooked through.",
+    "Meanwhile, toast the wrap in the pan for 1-2 minutes, or until lightly browned.",
+    "Assemble the wrap by spreading the mashed avocado on the base, followed by the cooked fish, roasted red onion, lettuce, and chopped chives.",
+    "Drizzle with lemon juice and olive oil, and season with salt and pepper to taste.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "australian",
+    "healthy",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-roasted-australian-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:38:22.160Z"
+}
