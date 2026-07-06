@@ -1,0 +1,84 @@
+{
+  "slug": "fresh-argentinian-cornmeal-crumble",
+  "title": "Argentinian Corn Fritters",
+  "description": "A delicious fusion of Argentinian flavors and American corn fritters, served with a crunchy crumble topping.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Argentinian crumbled cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Argentinian crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "In a large bowl, whisk together the cornmeal, flour, salt, pepper, and cumin.",
+    "In a separate bowl, whisk together the egg and crumbled cheese.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Add the corn kernels and stir until the mixture is well combined.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into the hot oil.",
+    "Cook the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Serve the fritters hot with a crunchy crumble topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "corn",
+    "fritters",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-argentinian-cornmeal-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:40:00.585Z"
+}
