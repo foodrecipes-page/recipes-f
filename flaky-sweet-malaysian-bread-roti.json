@@ -1,0 +1,56 @@
+{
+  "slug": "flaky-sweet-malaysian-bread-roti",
+  "title": "Sweet Roti Bread Toast",
+  "description": "A simple breakfast recipe that combines the flavors of sweet roti with crispy bread toast.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet Roti",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Cut the sweet roti into small pieces and toast them in the pan for 2-3 minutes.",
+    "Butter the bread slices and toast them in the pan for 2-3 minutes or until golden brown.",
+    "Assemble the toast by placing the sweet roti pieces on top of the bread.",
+    "Drizzle honey over the roti pieces.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "malaysian",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-sweet-malaysian-bread-roti",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:24:42.068Z"
+}
