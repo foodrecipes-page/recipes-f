@@ -1,0 +1,78 @@
+{
+  "slug": "fluffy-poached-dark-chocolate-in-egyptian",
+  "title": "Egyptian Poached Fluffy Chocolate Delight",
+  "description": "A unique dessert featuring dark chocolate, fluffy Egyptian ingredients, and a poached twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Fluffy Egyptian Oats",
+      "amount": "2 cups",
+      "notes": "steel-cut or rolled"
+    },
+    {
+      "name": "Poached Pears",
+      "amount": "2",
+      "notes": "peeled, cored"
+    },
+    {
+      "name": "Egyptian Honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "In Season Fresh Berries",
+      "amount": "1 cup",
+      "notes": "such as strawberries or blueberries"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, combine the Egyptian oats, honey, and water. Cook over low heat, stirring occasionally, until the oats have absorbed most of the liquid and the mixture has reached a thick, porridge-like consistency.",
+    "Stir in the dark chocolate chips until melted and well combined. Remove from heat.",
+    "In a separate saucepan, poach the pears in water until tender. Let cool.",
+    "In a large bowl, whip the coconut cream until smooth. Fold in the vanilla extract, if using.",
+    "To assemble the dessert, place a poached pear half on top of a scoop of the chocolate oat mixture. Spoon whipped coconut cream over the top and garnish with fresh berries.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "chocolate",
+    "poached",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-poached-dark-chocolate-in-egyptian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:07:27.412Z"
+}
