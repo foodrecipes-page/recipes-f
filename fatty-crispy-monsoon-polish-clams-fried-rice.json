@@ -1,0 +1,71 @@
+{
+  "slug": "fatty-crispy-monsoon-polish-clams-fried-rice",
+  "title": "Polish Fried Clams with Crispy Rice",
+  "description": "A European-inspired seafood dish featuring clams fried in a crispy rice coating, a perfect meal for a cold evening.",
+  "cuisine": "European",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "12 oz",
+      "notes": "fresh or frozen, scrubbed and rinsed"
+    },
+    {
+      "name": "fatty",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "crispy",
+      "amount": "2 cups",
+      "notes": "crispy rice coating"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked white rice"
+    },
+    {
+      "name": "monsoon",
+      "amount": "2 tbsp",
+      "notes": "spicy sauce (optional)"
+    }
+  ],
+  "instructions": [
+    "Rinse the clams and scrub them under cold water. Drain and set aside.",
+    "In a large bowl, combine 1 cup of crispy rice coating and 1/2 cup of uncooked white rice.",
+    "Add 1 tablespoon of smoked paprika and mix well.",
+    "Heat 2 tablespoons of fatty in a large skillet over medium-high heat.",
+    "Add the clams to the skillet and sprinkle with the crispy rice mixture.",
+    "Cook for 3-4 minutes or until the rice is golden brown and the clams are cooked through.",
+    "Serve hot with spicy sauce (monsoon) on the side (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "european",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-crispy-monsoon-polish-clams-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:05:25.346Z"
+}
