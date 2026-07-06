@@ -1,0 +1,60 @@
+{
+  "slug": "fresh-fluffy-korean-egg-broth",
+  "title": "Korean Steamed Egg Bites",
+  "description": "A simple and delicate Korean-inspired dish made with steamed egg bites. Perfect as a snack or side dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "fresh",
+      "amount": "2 tablespoons chopped green onions"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 tablespoon cornstarch"
+    },
+    {
+      "name": "broth",
+      "amount": "2 tablespoons chicken broth"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, beat the eggs and set aside.",
+    "2. In a separate bowl, mix together the chopped green onions, cornstarch, and chicken broth.",
+    "3. Add the egg mixture to the bowl and stir to combine.",
+    "4. Pour the mixture into a small steamer basket lined with parchment paper.",
+    "5. Steam the egg mixture over boiling water for 10-12 minutes.",
+    "6. Remove the steamer basket from the heat and let it cool slightly.",
+    "7. Use a small cookie cutter to cut out egg shapes.",
+    "8. Serve the egg bites warm, garnished with additional chopped green onions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "egg",
+    "steamed",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fluffy-korean-egg-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:56:16.025Z"
+}
