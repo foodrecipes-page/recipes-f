@@ -1,0 +1,83 @@
+{
+  "slug": "fresh-australian-cauliflower-paella",
+  "title": "Pan-Seared Cauliflower Paella",
+  "description": "A twist on the classic Spanish dish, using fresh Australian cauliflower. This recipe is a hearty and flavorful vegetarian option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Australian Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garden Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garden peppers and cook for 3-4 minutes, until tender.",
+    "Add the garlic cloves and cook for an additional 1-2 minutes.",
+    "Add the cauliflower and cook for 5 minutes, until tender.",
+    "Add the rice and stir to combine with the vegetables.",
+    "Add the smoked paprika, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and cook for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "vegetarian",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-australian-cauliflower-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:22:42.550Z"
+}
