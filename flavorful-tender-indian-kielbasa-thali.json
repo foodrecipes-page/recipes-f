@@ -1,0 +1,92 @@
+{
+  "slug": "flavorful-tender-indian-kielbasa-thali",
+  "title": "Kielbasa Thali",
+  "description": "A flavorful and easy-to-make thali dish featuring kielbasa and a variety of traditional Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "500g",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "Long-grain rice"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "2 cups",
+      "notes": "Choose your favorite vegetables such as carrots, peas, and corn"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Traditional Indian spice blend"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground coriander"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add sliced onions and cook until they are translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add mixed vegetables and cook until they are tender.",
+    "Add kielbasa and cook until it is browned on all sides.",
+    "Add garam masala, cumin powder, and coriander powder. Mix well.",
+    "Add ginger paste and mix well.",
+    "Cook for 5 minutes.",
+    "Serve with basmati rice.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kielbasa",
+    "thali",
+    "indian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-tender-indian-kielbasa-thali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:53:43.921Z"
+}
