@@ -9964,16 +9964,16 @@
   },
   {
     "slug": "flavorful-tender-indian-kielbasa-thali",
-    "title": "Flavorful Tender Indian Kielbasa Thali",
+    "title": "Kielbasa Thali",
     "tags": [
-      "egg-free",
-      "gluten-free",
-      "indian-inspired",
-      "one-pot",
-      "weeknight-meal"
+      "kielbasa",
+      "thali",
+      "indian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -13399,15 +13399,13 @@
   },
   {
     "slug": "fluffy-french-chicken-casserole",
-    "title": "Fluffy French Chicken Casserole",
+    "title": "Chicken Casserole",
     "tags": [
+      "chicken",
       "casserole",
-      "comfort-food",
-      "fluffy",
-      "one-pan",
-      "paleo-friendly"
+      "comfort food"
     ],
-    "cuisine": "French",
+    "cuisine": "American",
     "totalTimeMin": 50,
     "shard": "f"
   },
@@ -16625,15 +16623,15 @@
   },
   {
     "slug": "fresh-argentinian-cornmeal-crumble",
-    "title": "Fresh Argentinian Cornmeal Crumble",
+    "title": "Argentinian Corn Fritters",
     "tags": [
-      "argentine",
-      "cornmeal",
-      "air-fried",
-      "vegan"
+      "argentinian",
+      "corn",
+      "fritters",
+      "crumble"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 15,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -19814,16 +19812,14 @@
   },
   {
     "slug": "frozen-moroccan-seafood-tagine",
-    "title": "Frozen Moroccan Seafood Tagine",
+    "title": "Seafood Tagine",
     "tags": [
       "moroccan",
       "seafood",
-      "sous-vide",
-      "plant-based",
       "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
