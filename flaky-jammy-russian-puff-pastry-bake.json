@@ -1,0 +1,60 @@
+{
+  "slug": "flaky-jammy-russian-puff-pastry-bake",
+  "title": "Puff Pastry Jam Tarts",
+  "description": "Delicate puff pastry filled with sweet jammy goodness. Perfect for a sweet snack or dessert.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "jammy filling",
+      "amount": "1 cup",
+      "notes": "strawberry or raspberry"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of jam in the center of each circle.",
+    "Brush edges with beaten egg for a golden glaze.",
+    "Fold pastry in half to form a triangle and press edges to seal.",
+    "Place tarts on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Allow tarts to cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "tart",
+    "pastry",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-jammy-russian-puff-pastry-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:14:08.555Z"
+}
