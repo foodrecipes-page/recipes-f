@@ -1,0 +1,84 @@
+{
+  "slug": "flavorful-snappy-french-chicken-rillettes",
+  "title": "French Chicken Rillettes",
+  "description": "A French-inspired dish featuring chicken rillettes made with flavorful chicken and served with crispy, snappy accompaniments.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the chicken thighs with salt and pepper.",
+    "In a large Dutch oven, melt 1 tablespoon of butter over medium heat. Add the sliced onion and cook until caramelized, about 20-25 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the flour and cook for 1 minute.",
+    "Add the white wine and chicken broth. Stir to combine, scraping up any browned bits.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Cook the chicken for 2-1/2 to 3 hours, or until it's tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using two forks, shred the chicken into bite-sized pieces.",
+    "Stir in the remaining 1 tablespoon of butter and the chopped fresh thyme.",
+    "Serve the chicken rillettes with crusty bread for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "rillettes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "42g",
+    "carbs": "14g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-snappy-french-chicken-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:43:49.747Z"
+}
