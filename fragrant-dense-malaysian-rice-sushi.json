@@ -1,0 +1,74 @@
+{
+  "slug": "fragrant-dense-malaysian-rice-sushi",
+  "title": "Nasi Lemak",
+  "description": "Coconut milk-infused rice with spicy sambal and fragrant anchovies. A popular Malaysian dish.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (400ml)",
+      "notes": ""
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "anchovies",
+      "amount": "20 pieces",
+      "notes": "fragrant"
+    },
+    {
+      "name": "sambal",
+      "amount": "2 tablespoons",
+      "notes": "spicy"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and soak it in water for 30 minutes.",
+    "Drain and cook the rice with 2 cups of water in a saucepan.",
+    "In a separate pan, combine coconut milk, sambal, and sushi rice vinegar.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add the cooked rice to the coconut milk mixture and stir-fry for 2-3 minutes.",
+    "Stir in chopped cilantro and salt to taste.",
+    "Serve hot with fragrant anchovies and steamed vegetables on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-dense-malaysian-rice-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:14:28.455Z"
+}
