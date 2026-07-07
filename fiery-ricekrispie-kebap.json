@@ -1,0 +1,68 @@
+{
+  "slug": "fiery-ricekrispie-kebap",
+  "title": "Spicy Kebap Rice Krispie Bites",
+  "description": "A unique fusion of traditional rice krispie treats and spicy kebap inspired flavors.",
+  "cuisine": "Middle Eastern-inspired",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kebap fiery spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large marshmallows",
+      "amount": "10"
+    },
+    {
+      "name": "Chopped walnuts (optional)",
+      "amount": "1/2 cup",
+      "notes": "for added crunch"
+    }
+  ],
+  "instructions": [
+    "Line a 9x9-inch baking dish with parchment paper.",
+    "In a large saucepan, melt the butter over low heat.",
+    "Add the marshmallows and stir until completely melted.",
+    "Remove from heat and stir in the Rice Krispies, kebap spice mix, and sugar until well combined.",
+    "Press the mixture into the prepared baking dish.",
+    "If using walnuts, sprinkle on top.",
+    "Let cool and cut into bars.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "kebap",
+    "ricekrispie",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-ricekrispie-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:05:15.002Z"
+}
