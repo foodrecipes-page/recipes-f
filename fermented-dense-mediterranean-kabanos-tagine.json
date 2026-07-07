@@ -1,0 +1,101 @@
+{
+  "slug": "fermented-dense-mediterranean-kabanos-tagine",
+  "title": "Grilled Kabanos and Mediterranean Vegetables with Fermented Tzatziki",
+  "description": "A flavorful and refreshing dish featuring grilled kabanos, roasted Mediterranean vegetables, and a refreshing fermented tzatziki sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "mediterranean"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Brush the kabanos with olive oil and season with salt and black pepper.",
+    "Grill the kabanos for 2-3 minutes per side, or until slightly charred.",
+    "Meanwhile, toss the zucchini, bell pepper, and onion with olive oil, salt, and black pepper.",
+    "Grill the vegetables for 3-4 minutes per side, or until tender.",
+    "In a bowl, whisk together the yogurt, garlic, lemon juice, and a pinch of salt.",
+    "Stir in the diced cucumber and refrigerate until ready to serve.",
+    "Serve the grilled kabanos and vegetables with the fermented tzatziki sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "tzatziki",
+    "fermented",
+    "vegetarian",
+    "gluten-free",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-mediterranean-kabanos-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:14:24.685Z"
+}
