@@ -1,0 +1,81 @@
+{
+  "slug": "festive-thai-plum-chewy-umami-pilaf",
+  "title": "Thai-Style Festive Pilaf",
+  "description": "A flavorful and colorful one-pot dish that combines the richness of umami flavors with the sweetness of plum and the crunch of festive and chewy ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "festival rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chewy sesame sticks",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "umami soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup, full-fat"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add onion, garlic, and chili pepper. Cook until the onion is translucent.",
+    "Add the plum, soy sauce, and coconut milk. Stir to combine.",
+    "Add the rice, toasted peanuts, and sesame sticks. Stir-fry until the rice is toasted and the ingredients are well combined.",
+    "Transfer the mixture to a serving platter. Garnish with additional sesame sticks and peanuts, if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "one-pot-meal",
+    "vegetarian-recipe",
+    "rice-dish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-thai-plum-chewy-umami-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:42:46.718Z"
+}
