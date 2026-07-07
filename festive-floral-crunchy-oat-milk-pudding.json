@@ -1,0 +1,71 @@
+{
+  "slug": "festive-floral-crunchy-oat-milk-pudding",
+  "title": "Festive Oat Pudding Parfait",
+  "description": "A delicious and visually appealing dessert made with festive and floral flavors, crunchy texture, and creamy pudding.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Festive Spice Mix",
+      "amount": "1 tsp",
+      "notes": "Available in most grocery stores."
+    },
+    {
+      "name": "Floral Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Granola",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Store-bought Pudding",
+      "amount": "2 cups",
+      "notes": "Choose a festive flavor like strawberry or blueberry."
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine oats, festive spice mix, and floral honey. Mix well.",
+    "Add in the milk and stir until the oats are well coated.",
+    "Cover the bowl with a lid or plastic wrap and refrigerate for at least 2 hours.",
+    "Just before serving, layer the chilled oat mixture with store-bought pudding and crunchy granola in a parfait glass or tall clear cup.",
+    "Repeat the layering process until all the ingredients are used up, finishing with a layer of pudding on top.",
+    "Refrigerate for an additional 30 minutes before serving.",
+    "Garnish with extra crunchy granola and a drizzle of floral honey, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "holiday",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-floral-crunchy-oat-milk-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:06:46.251Z"
+}
