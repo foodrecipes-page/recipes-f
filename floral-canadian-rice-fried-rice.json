@@ -1,0 +1,67 @@
+{
+  "slug": "floral-canadian-rice-fried-rice",
+  "title": "Floral Canadian Rice Bowl",
+  "description": "A simple and flavorful dish that combines the freshness of floral flavors with the heartiness of Canadian rice. This recipe is a great option for a quick and easy dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Floral oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh herbs (such as parsley and dill)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the floral oil in a large saucepan over medium heat.",
+    "Add the Canadian rice and stir to coat with the oil.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Simmer for 15-20 minutes, or until the water has been absorbed and the rice is tender.",
+    "Fluff the rice with a fork and stir in the fresh herbs and fried shallots.",
+    "Season with salt and pepper to taste.",
+    "Serve the rice hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-canadian-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:09:41.816Z"
+}
