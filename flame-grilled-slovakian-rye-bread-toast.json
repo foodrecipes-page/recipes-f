@@ -1,0 +1,66 @@
+{
+  "slug": "flame-grilled-slovakian-rye-bread-toast",
+  "title": "Slovakian Toast with Grilled Bread",
+  "description": "A simple Slovakian-inspired recipe featuring grilled bread topped with rye bread and served with a side of toast.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Slice the rye bread into 1-inch thick slices.",
+    "3. Grill the rye bread slices for 2-3 minutes per side, or until toasted.",
+    "4. Meanwhile, slice the bread loaf into 1-inch thick slices.",
+    "5. Butter the toasted rye bread slices.",
+    "6. Optional: drizzle with honey.",
+    "7. Serve with a side of toast.",
+    "8. Season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "grilled",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flame-grilled-slovakian-rye-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:47:48.922Z"
+}
