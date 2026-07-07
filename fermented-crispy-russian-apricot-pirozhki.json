@@ -1,0 +1,84 @@
+{
+  "slug": "fermented-crispy-russian-apricot-pirozhki",
+  "title": "Russian Apricot Pirozhki Filling",
+  "description": "A sweet and tangy filling inspired by russian cuisine, perfect for pirozhki. This recipe combines the flavors of apricot and fermented ingredients, topped with crispy notes.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apricot jam",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fermented cabbage",
+      "amount": "100g",
+      "notes": "shredded and drained"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "50g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large bowl, combine apricot jam, fermented cabbage, crispy fried onions, flour, sugar, cinnamon, and salt. Mix well.",
+    "Add the beaten egg and milk to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and then flatten it slightly.",
+    "Place the flattened dough onto a baking sheet lined with parchment paper.",
+    "Bake the pirozhki in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Allow the pirozhki to cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "apricot",
+    "fermented",
+    "crispy",
+    "pirozhki"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-russian-apricot-pirozhki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:40:04.298Z"
+}
