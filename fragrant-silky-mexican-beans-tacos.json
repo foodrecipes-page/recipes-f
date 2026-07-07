@@ -1,0 +1,66 @@
+{
+  "slug": "fragrant-silky-mexican-beans-tacos",
+  "title": "Fragrant Bean Tacos",
+  "description": "A delicious and flavorful taco recipe featuring fragrant beans, wrapped in a warm tortilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fragrant Beans",
+      "amount": "1 cup",
+      "notes": "Cooked using fragrant spices"
+    },
+    {
+      "name": "Mexican Taco Seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "Sliced Avocado",
+      "amount": "1",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat.",
+    "Add the fragrant beans and Mexican taco seasoning. Stir to combine.",
+    "Cook for 2-3 minutes, until heated through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla, followed by any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "vegetarian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-silky-mexican-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:51:52.637Z"
+}
