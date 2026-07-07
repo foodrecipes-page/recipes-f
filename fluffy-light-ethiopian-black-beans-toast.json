@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-light-ethiopian-black-beans-toast",
+  "title": "Ethiopian Black Bean Toast",
+  "description": "A simple, flavorful breakfast recipe combining the warmth of black beans with the crunch of toast.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "fluffy bread",
+      "amount": "2 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the cooked black beans and Ethiopian spices to the pan, stir to combine.",
+    "Reduce heat to low, let simmer for 2-3 minutes.",
+    "Serve the bean mixture over the toasted bread.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "beans",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-light-ethiopian-black-beans-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:44:00.772Z"
+}
