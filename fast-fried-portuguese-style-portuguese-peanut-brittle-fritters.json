@@ -1,0 +1,74 @@
+{
+  "slug": "fast-fried-portuguese-style-portuguese-peanut-brittle-fritters",
+  "title": "Portuguese Style Peanut Fritters",
+  "description": "A sweet and crispy Portuguese inspired dessert made with peanut brittle and deep-fried to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut brittle",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Add the crushed peanut brittle to the dry ingredients and mix until well combined.",
+    "Pour in the egg mixture and mix until a smooth batter forms.",
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 350°F.",
+    "Using a spoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "portuguese-cuisine",
+    "peanut-brittle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fast-fried-portuguese-style-portuguese-peanut-brittle-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:58:58.593Z"
+}
