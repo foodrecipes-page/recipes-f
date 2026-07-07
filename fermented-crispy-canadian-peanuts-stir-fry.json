@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-crispy-canadian-peanuts-stir-fry",
+  "title": "Crispy Canadian Stir Fry",
+  "description": "A quick and easy stir fry with crispy elements and a hint of Canadian flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Canadian Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Crispy Garlic",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add crispy garlic and sauté for 1 minute.",
+    "Add fermented Canadian peas, peanuts, and fried rice.",
+    "Stir well and cook for 3-4 minutes.",
+    "Add soy sauce and stir well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "stir-fry",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-canadian-peanuts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:09:32.538Z"
+}
