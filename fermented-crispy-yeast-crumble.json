@@ -1,0 +1,62 @@
+{
+  "slug": "fermented-crispy-yeast-crumble",
+  "title": "Fermented Crumble Bites",
+  "description": "A sweet and tangy dessert with a crispy topping, perfect for a snack or dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fermented Apple Compote",
+      "amount": "2 cups",
+      "notes": "Cooked with cinnamon and sugar"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1 1/2 cups",
+      "notes": "Mix of flour, yeast, sugar, and butter"
+    },
+    {
+      "name": "Crispy Oat Topping",
+      "amount": "1/2 cup",
+      "notes": "Rolled oats and brown sugar"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together the crumble topping ingredients until crumbly.",
+    "Add the crispy oat topping to the crumble topping and mix until well combined.",
+    "Press the mixture into a baking dish.",
+    "Add the fermented apple compote on top of the crumble mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "snack",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-yeast-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:40:07.323Z"
+}
