@@ -1,0 +1,90 @@
+{
+  "slug": "fermented-velvety-slovakian-lemon-bake",
+  "title": "Slovakian Lemon Bars",
+  "description": "A tangy and sweet dessert with a velvety crust and a fermented twist, perfect for satisfying your sweet tooth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fermented sour cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Velvety mascarpone cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Slovakian honey",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Bake baking powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, whisk together flour, sugar, and baking powder.",
+    "Add in unsalted butter and mix until a dough forms.",
+    "Press dough into a 9-inch square baking dish.",
+    "Bake for 20-25 minutes or until lightly golden.",
+    "While the crust is baking, mix sour cream, mascarpone cheese, honey, lemon zest, and lemon juice in a separate bowl.",
+    "When the crust is ready, remove from oven and pour in the sour cream mixture.",
+    "Return to oven and bake for an additional 25-30 minutes or until the filling is set.",
+    "Let cool completely before cutting into bars.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "lemon",
+    "dessert",
+    "bars"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-velvety-slovakian-lemon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:28:24.829Z"
+}
