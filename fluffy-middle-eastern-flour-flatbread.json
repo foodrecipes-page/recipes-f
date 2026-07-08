@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-middle-eastern-flour-flatbread",
+  "title": "Fluffy Eastern Flatbread",
+  "description": "A delicious flatbread originating from the Middle East, made with fluffy yeast dough. Perfect for snacking or as a side dish.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "Warm but not hot water"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Table salt"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the dough"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rest in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 425°F (220°C) or a preheated grill to medium-high heat.",
+    "Punch down the dough and divide it into 2-3 equal pieces, depending on the size of flatbread you prefer.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the tops with olive oil and place on a baking sheet or grill.",
+    "Bake or grill the flatbread for 2-3 minutes, or until puffed and lightly browned.",
+    "Serve warm, topped with your favorite herbs or spices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "2-3",
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-middle-eastern-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:13:53.977Z"
+}
