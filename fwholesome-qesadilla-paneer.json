@@ -1,0 +1,86 @@
+{
+  "slug": "fwholesome-qesadilla-paneer",
+  "title": "Paneer Quesadilla",
+  "description": "A fusion dish blending Indian and Mexican flavors. Crispy paneer quesadilla filled with spices and melted cheese.",
+  "cuisine": "Indian-Mexican",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Quesadilla seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut paneer into small cubes and set aside.",
+    "2. Heat 1 tablespoon butter in a large skillet over medium heat.",
+    "3. Add Quesadilla seasoning and cook for 1 minute, until fragrant.",
+    "4. Add paneer to the skillet and cook until golden brown, about 3-4 minutes.",
+    "5. Meanwhile, heat 1 tablespoon butter in a separate skillet over medium heat.",
+    "6. Place a whole wheat tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "7. Place cooked paneer on top of the cheese and fold the tortilla in half.",
+    "8. Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "9. Flip the quesadilla and cook for an additional 2-3 minutes, until crispy and golden brown.",
+    "10. Repeat with remaining ingredients.",
+    "11. Serve hot with chopped cilantro and a squeeze of lime."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paneer",
+    "quesadilla",
+    "indian-mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fwholesome-qesadilla-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:30:13.608Z"
+}
