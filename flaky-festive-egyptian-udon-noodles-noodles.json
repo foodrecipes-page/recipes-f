@@ -1,0 +1,76 @@
+{
+  "slug": "flaky-festive-egyptian-udon-noodles-noodles",
+  "title": "Egyptian Noodle Fritters",
+  "description": "Crispy fritters filled with a flavorful egg and noodle mixture, inspired by Egyptian cuisine. Serve with your favorite dipping sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "festive noodles",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "2. In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "3. Add the chopped noodles and mix well.",
+    "4. Cut the flaky pastry into small pieces and add to the bowl.",
+    "5. Mix until the pastry is evenly distributed.",
+    "6. Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "7. Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "8. Remove the fritters from the oil and place on paper towels to drain excess oil.",
+    "9. Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "noodle-fritters",
+    "egyptian-cuisine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-festive-egyptian-udon-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:01:06.492Z"
+}
