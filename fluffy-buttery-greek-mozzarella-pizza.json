@@ -1,0 +1,63 @@
+{
+  "slug": "fluffy-buttery-greek-mozzarella-pizza",
+  "title": "Greek Mozzarella Pizza",
+  "description": "A classic Greek-inspired pizza topped with mozzarella cheese and a sprinkle of greek seasoning.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fluffy Pizza Dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Buttery Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Greek Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Brush the dough with buttery olive oil.",
+    "Transfer the dough to a baking sheet.",
+    "Sprinkle the mozzarella cheese evenly over the dough.",
+    "Sprinkle the Greek seasoning over the cheese.",
+    "Bake for 15-20 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pizza",
+    "greek",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-buttery-greek-mozzarella-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T14:58:45.609Z"
+}
