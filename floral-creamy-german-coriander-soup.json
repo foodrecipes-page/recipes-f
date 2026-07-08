@@ -1,0 +1,79 @@
+{
+  "slug": "floral-creamy-german-coriander-soup",
+  "title": "Creamy German Floral Soup",
+  "description": "A delicious and comforting soup made with floral notes of German inspiration, served with a side of creamy goodness.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Floral German Broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh Coriander",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "Sliced and sautéed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and sautéed"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the leeks and garlic in a bit of oil until softened.",
+    "Add the diced onion and cook until translucent.",
+    "Add the potatoes, broth, and coriander to the pot.",
+    "Bring to a boil, then reduce heat and let simmer for 15-20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in heavy cream and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped coriander and a dollop of cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "german",
+    "creamy",
+    "comfort-food",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-creamy-german-coriander-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:32:51.257Z"
+}
