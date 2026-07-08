@@ -1,0 +1,68 @@
+{
+  "slug": "fermented-silky-cozy-jasmine-rice-stir-fry",
+  "title": "Cozy Stir Fry with Jasmine Rice",
+  "description": "A simple and comforting stir fry dish served with fragrant jasmine rice. Perfect for a cozy night in.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cozy sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "silky tofu",
+      "amount": "1 block",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped fermented vegetables and cook until they start to soften.",
+    "Add the chopped silky tofu and cook until it's lightly browned.",
+    "Add the cozy sauce and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve the stir fry over jasmine rice.",
+    "Garnish with chopped green onions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "jasmine-rice",
+    "cozy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-cozy-jasmine-rice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:08:42.548Z"
+}
