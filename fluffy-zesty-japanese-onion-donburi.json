@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-zesty-japanese-onion-donburi",
+  "title": "Donburi with Zesty Onion",
+  "description": "A Japanese-inspired dish with a flavorful twist, featuring zesty onion and fluffy rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fluffy oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Zesty sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of fluffy oil in a pan over medium-high heat.",
+    "Add thinly sliced onion and cook until caramelized, about 5 minutes.",
+    "In a separate pot, cook Japanese rice according to package instructions.",
+    "In a small bowl, whisk together zesty sauce and a splash of water to achieve desired consistency.",
+    "To assemble the dish, place cooked rice in a bowl and top with caramelized onion, zesty sauce, and chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanesecuisine",
+    "vegetarian",
+    "onion",
+    "donburi"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-zesty-japanese-onion-donburi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:14:33.816Z"
+}
