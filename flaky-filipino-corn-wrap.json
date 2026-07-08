@@ -1,0 +1,71 @@
+{
+  "slug": "flaky-filipino-corn-wrap",
+  "title": "Filipino Corn Wrap",
+  "description": "A tasty and easy-to-make snack or light meal, perfect for a quick and satisfying bite. Inspired by Filipino cuisine.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry wrapper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1/2 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "any type"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "sliced fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Filipino-style BBQ sauce",
+      "amount": "2 tablespoons",
+      "notes": "or any other sweet and spicy sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium-high heat.",
+    "Place the flaky pastry wrapper in the skillet and cook for 1-2 minutes on each side, until golden brown.",
+    "Transfer the cooked pastry to a plate and spread the BBQ sauce evenly over it.",
+    "Top the sauce with the corn kernels, shredded cheese, scallions, and cilantro.",
+    "Fold the pastry in half to enclose the filling and press the edges to seal.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "filipino",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-filipino-corn-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:50:48.882Z"
+}
