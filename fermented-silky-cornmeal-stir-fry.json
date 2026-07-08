@@ -1,0 +1,69 @@
+{
+  "slug": "fermented-silky-cornmeal-stir-fry",
+  "title": "Silky Corn Fritters",
+  "description": "A crispy and tender corn fritter recipe with a silky twist. Perfect for a snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": "Fine or medium grind"
+    },
+    {
+      "name": "Fermented corn",
+      "amount": "1/2 cup",
+      "notes": "Masa harina or corn flour"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "Adjust as needed"
+    },
+    {
+      "name": "Silky stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, fermented corn, salt, and pepper.",
+    "Add water and stir until combined. The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 2-3 minutes or until the edges start to curl and the surface is dry.",
+    "Flip the fritters and cook for an additional 1-2 minutes or until golden brown.",
+    "Serve warm with silky stir-fry sauce for dipping.",
+    "Note: If the batter is too thick, add a little more water. If it's too thin, add a little more cornmeal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "corn-fritters",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-cornmeal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:03:27.395Z"
+}
