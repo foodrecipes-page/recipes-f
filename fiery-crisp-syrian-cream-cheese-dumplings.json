@@ -1,0 +1,77 @@
+{
+  "slug": "fiery-crisp-syrian-cream-cheese-dumplings",
+  "title": "Fiery Syrian Dumplings",
+  "description": "A spicy twist on traditional dumplings, filled with creamy cheese and crispy onions. Serve with a side of fiery sauce for an added kick.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "2 cups flour",
+      "notes": "use gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/4 cup",
+      "notes": "can be pre-made or store-bought"
+    },
+    {
+      "name": "fiery cheese",
+      "amount": "1 cup shredded cheese",
+      "notes": "spicy cheese or pepper jack work well"
+    },
+    {
+      "name": "cream",
+      "amount": "1/4 cup",
+      "notes": "for cream cheese or cheese sauce"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "12-15 wrappers",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "fiery sauce",
+      "amount": "1/4 cup",
+      "notes": "hot sauce or sriracha work well"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C)",
+    "Make the dough by mixing flour, water, and salt. Knead for 5-7 minutes.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm)",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of crispy onions and fiery cheese in the center of each circle.",
+    "Brush the edges with cream and fold the dough in half to form a triangle or a square.",
+    "Seal the edges by pressing with a fork or your fingers.",
+    "Heat 2-3 inches (5-7.5 cm) of oil in a deep frying pan to 350°F (175°C)",
+    "Fry the dumplings in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the dumplings on paper towels and serve hot with fiery sauce"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "dumplings",
+    "cheese",
+    "fiery",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-crisp-syrian-cream-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:08:40.493Z"
+}
