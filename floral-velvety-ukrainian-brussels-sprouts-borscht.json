@@ -1,0 +1,87 @@
+{
+  "slug": "floral-velvety-ukrainian-brussels-sprouts-borscht",
+  "title": "Borscht with Brussels Sprouts",
+  "description": "A hearty Ukrainian-inspired soup featuring roasted Brussels sprouts and a rich, velvety broth.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "amount": "2 pounds",
+      "notes": "halved and roasted"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "floral salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "velvety vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "borscht",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss Brussels sprouts with salt and roast for 20-25 minutes, or until tender.",
+    "In a large pot, sauté onion, carrots, and celery in a little water until tender.",
+    "Add beets, tomato paste, and borscht. Stir to combine.",
+    "Add roasted Brussels sprouts and velvety vegetable broth. Bring to a boil, then reduce heat.",
+    "Simmer for 20-25 minutes, or until flavors have melded together.",
+    "Season with floral salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-ukrainian-brussels-sprouts-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:41:14.116Z"
+}
