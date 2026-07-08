@@ -1,0 +1,91 @@
+{
+  "slug": "flaky-roasted-turkish-lamb-roast",
+  "title": "Roasted Lamb Leg with Roasted Vegetables",
+  "description": "A classic Mediterranean-inspired dish featuring a tender lamb leg roasted to perfection with a variety of colorful vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1.5-2 kg",
+      "notes": "Bone-in for better flavor"
+    },
+    {
+      "name": "Roasted turkish coffee",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Roast garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-5",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3-4",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chop"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "Chop"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 sprig",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb leg with flaky sea salt, roast garlic, and rosemary.",
+    "Heat the roasted turkish coffee in a small pan over medium heat until fragrant.",
+    "Rub the lamb leg with the coffee mixture, making sure to coat it evenly.",
+    "Place the lamb leg in a large roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per kg, or until it reaches your desired level of doneness.",
+    "While the lamb is cooking, toss the chopped carrots, potatoes, onions, and leeks with a little oil and season with salt and pepper.",
+    "After the lamb has been cooking for 30 minutes, add the vegetables to the roasting pan and continue to roast until the lamb is done and the vegetables are tender.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Serve with the roasted vegetables and a drizzle of pan juices."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roasted",
+    "vegetables",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-roasted-turkish-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:49:55.114Z"
+}
