@@ -1,0 +1,93 @@
+{
+  "slug": "forced-dense-ethiopian-rhubarb-tibs",
+  "title": "Spicy Tibs with Rhubarb Chutney",
+  "description": "A flavorful and spicy tib's dish made with tenderized beef, served with a sweet and tangy rhubarb chutney. This Ethiopian-inspired recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound, thinly sliced",
+      "notes": "Tenderize with a meat mallet or a rolling pin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, minced",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rhubarb",
+      "amount": "1 cup, diced",
+      "notes": "Use the tart variety"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the sliced beef and cook until browned, about 5 minutes.",
+    "Add the berbere spice and cook for 1 minute, until fragrant.",
+    "Transfer the beef mixture to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the diced rhubarb and cook until it starts to soften, about 3 minutes.",
+    "Add the brown sugar, apple cider vinegar, and a pinch of salt. Cook for 2 minutes, until the rhubarb is tender.",
+    "Return the beef mixture to the skillet and stir to combine with the rhubarb chutney.",
+    "Cook for an additional 2 minutes, until the flavors have melded together.",
+    "Serve hot over injera or with some crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "tibs",
+    "rhubarb",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/forced-dense-ethiopian-rhubarb-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:02:05.826Z"
+}
