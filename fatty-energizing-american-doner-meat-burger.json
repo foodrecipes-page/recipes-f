@@ -1,0 +1,94 @@
+{
+  "slug": "fatty-energizing-american-doner-meat-burger",
+  "title": "American Doner Burger",
+  "description": "A twist on the classic doner kebab, with a juicy beef patty and flavorful sauce, all on a toasted bun.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "American burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "doner kebab seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "cheese",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "doner kebab sauce",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "pickles",
+      "amount": "1 jar",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Divide the beef mince into 4 equal portions and shape into patties.",
+    "3. Brush the patties with vegetable oil and season with doner kebab seasoning.",
+    "4. Grill the patties for 4-5 minutes per side, or until cooked to your liking.",
+    "5. Meanwhile, toast the American burger buns on the grill.",
+    "6. Slice the onions and tomatoes.",
+    "7. Assemble the burgers with the cooked patties, onions, tomatoes, lettuce, cheese, and doner kebab sauce.",
+    "8. Serve immediately with pickles on the side.",
+    "9. Cook the doner kebab sauce according to the manufacturer's instructions.",
+    "10. Refrigerate the sauce until ready to use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "doner",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 40,
+    "fat": 52
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-energizing-american-doner-meat-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:46:49.033Z"
+}
