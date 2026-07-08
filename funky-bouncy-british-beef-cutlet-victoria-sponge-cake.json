@@ -1,0 +1,71 @@
+{
+  "slug": "funky-bouncy-british-beef-cutlet-victoria-sponge-cake",
+  "title": "Beef Cutlet with British Flare",
+  "description": "A classic beef cutlet recipe with a twist of British flavors, perfect for a quick dinner.",
+  "cuisine": "british",
+  "diet": [
+    "meat",
+    "sugar-free",
+    "no-gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "2",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "funky mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bouncy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "british seasoning",
+      "amount": "1 tsp",
+      "notes": "salt, pepper, and herbs"
+    },
+    {
+      "name": "victoria sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Season the beef cutlet with British seasoning.",
+    "2. Dip the cutlet in funky mayonnaise, if using.",
+    "3. Coat the cutlet with bouncy breadcrumbs, pressing gently.",
+    "4. Heat a non-stick pan over medium-high heat.",
+    "5. Add 1 tablespoon of oil and sear the cutlet for 2-3 minutes per side.",
+    "6. Transfer the cutlet to a baking sheet and bake at 375°F (190°C) for 10-12 minutes.",
+    "7. Meanwhile, toast the breadcrumbs in a dry pan for 2-3 minutes.",
+    "8. Serve the beef cutlet with toasted breadcrumbs and victoria sauce.",
+    "9. Optional: top with a slice of sponge cake."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "cutlet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-bouncy-british-beef-cutlet-victoria-sponge-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:35:45.098Z"
+}
