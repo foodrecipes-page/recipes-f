@@ -1,0 +1,81 @@
+{
+  "slug": "flaky-squash-stir-fry",
+  "title": "Squash Stir Fry",
+  "description": "A simple and flavorful stir fry dish using flaky pastry and squash.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flaky pastry and cut it into small squares.",
+    "Peel the squash and cut it into small cubes.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the squash and stir-fry for 3-4 minutes.",
+    "Add the soy sauce and sesame oil and stir-fry for another minute.",
+    "Place the pastry squares on a baking sheet and bake for 10-12 minutes.",
+    "Serve the squash stir fry over the baked pastry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "pastry",
+    "squash",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-squash-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:13:53.483Z"
+}
