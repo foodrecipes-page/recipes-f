@@ -1,0 +1,73 @@
+{
+  "slug": "flaky-brazilian-fish-tagine",
+  "title": "Grilled Fish Tagine with Flaky Crust",
+  "description": "A flavorful and moist fish dish wrapped in a crispy, flaky crust, inspired by the traditional North African tagine style.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "2 pounds",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flaky pastry and place the fish fillet in the center.",
+    "Drizzle the Brazilian olive oil over the fish and sprinkle with tagine spice blend.",
+    "Season with salt to taste.",
+    "Fold the pastry over the fish and press the edges to seal.",
+    "Place the fish tagine on a baking sheet and brush with a little more olive oil.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown and the fish is cooked through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "north-african",
+    "grilled",
+    "pastries"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-brazilian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:33:53.547Z"
+}
