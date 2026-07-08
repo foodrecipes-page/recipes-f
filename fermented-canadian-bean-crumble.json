@@ -1,0 +1,71 @@
+{
+  "slug": "fermented-canadian-bean-crumble",
+  "title": "Canadian Bean Crumble",
+  "description": "A hearty, comforting dish featuring Canadian beans in a crispy crumble topping.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fermented cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumble topping (oats, flour, sugar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together Canadian beans, fermented cheese, and a pinch of salt and pepper.",
+    "Transfer the bean mixture to a baking dish.",
+    "In a separate bowl, mix together crumble topping ingredients.",
+    "Add olive oil to the crumble topping and mix until crumbly.",
+    "Spread the crumble topping evenly over the bean mixture.",
+    "Bake for 25-30 minutes or until the topping is golden brown.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-canadian-bean-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:08.510Z"
+}
