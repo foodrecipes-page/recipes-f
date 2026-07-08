@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-fudgy-norwegian-potato-gratin",
+  "title": "Norwegian Potato Gratin",
+  "description": "A rich and creamy side dish originating from Norway, made with thinly sliced potatoes and a blend of cheeses.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Large potatoes",
+      "amount": "2.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Flaky cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fudgy cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated nutmeg",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the potatoes and slice them very thinly.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes.",
+    "Dot the top of the potatoes with butter.",
+    "Sprinkle a third of the flaky cheese and fudgy cheese over the potatoes.",
+    "Repeat the layering process two more times, ending with a layer of cheese on top.",
+    "Sprinkle the grated nutmeg over the cheese.",
+    "Season with salt to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "potato",
+    "gratin",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fudgy-norwegian-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:58:52.790Z"
+}
