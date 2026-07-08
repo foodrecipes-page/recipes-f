@@ -1,0 +1,82 @@
+{
+  "slug": "fragrant-sonoran-avacado-stew",
+  "title": "Sonoran Stew",
+  "description": "A hearty stew from the Sonoran Desert region, perfect for a cold winter day.",
+  "cuisine": "American-Southwestern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fragrant Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sonoran Stew Meat",
+      "amount": "1 lb",
+      "notes": "Beef or Venison"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Fragrant Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fragrant Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the diced avocado, chopped tomato, and minced garlic. Cook for 2 minutes.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sonoran",
+    "stew",
+    "beef",
+    "venison"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-sonoran-avacado-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:01:15.928Z"
+}
