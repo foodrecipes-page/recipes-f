@@ -1,0 +1,111 @@
+{
+  "slug": "fresh-festive-syrian-peanut-skewers",
+  "title": "Syrian Grilled Peanut Chicken Skewers",
+  "description": "A flavorful and colorful dish featuring marinated chicken breast, fresh vegetables, and peanuts, all grilled to perfection on skewers.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "vegetarian-options",
+    "dairy-options"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "250g",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 200°C.",
+    "In a large bowl, whisk together olive oil, lemon juice, cumin, paprika, salt, and black pepper.",
+    "Add the chopped peanuts, parsley, and cilantro to the bowl and mix well.",
+    "Add the chicken breast to the bowl and mix until well coated with the marinade.",
+    "Thread the marinated chicken, bell peppers, onion, and garlic onto the skewers.",
+    "Place the skewers on the preheated grill and cook for 10-12 minutes, turning occasionally.",
+    "Brush the skewers with olive oil and cook for an additional 2-3 minutes.",
+    "Remove the skewers from the grill and let them rest for 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "peanuts",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-festive-syrian-peanut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:18:57.051Z"
+}
