@@ -1,0 +1,85 @@
+{
+  "slug": "fluffy-korean-fermented-wrap",
+  "title": "Spicy Korean Wrap",
+  "description": "A delicious and spicy Korean-inspired wrap filled with fermented kimchi and topped with fluffy rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Korean wrap",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Spicy kimchi",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    }
+  ],
+  "instructions": [
+    "Cook the fluffy rice according to package instructions.",
+    "Cut the Korean wrap into a large rectangle.",
+    "Spread a layer of spicy kimchi on the center of the wrap.",
+    "Top the kimchi with a scoop of cooked fluffy rice.",
+    "Add sliced green onions, chopped cilantro, and sesame seeds on top of the rice.",
+    "Drizzle with soy sauce and gochujang.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean-cuisine",
+    "spicy-food",
+    "wrap-recipe",
+    "lunch-ideas",
+    "gluten-free-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-korean-fermented-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:20:22.833Z"
+}
