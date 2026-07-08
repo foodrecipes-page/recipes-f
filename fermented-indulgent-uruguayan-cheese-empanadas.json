@@ -1,0 +1,76 @@
+{
+  "slug": "fermented-indulgent-uruguayan-cheese-empanadas",
+  "title": "Uruguayan Cheese Empanadas",
+  "description": "A classic Uruguayan dish, these cheese empanadas are flaky and savory, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the flour and cold butter. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "2. Gradually add the Gruyère and Parmesan cheese to the flour mixture, stirring until just combined.",
+    "3. Gradually pour in the beaten egg, stirring with a fork until the dough comes together in a ball.",
+    "4. Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "5. Divide the dough into 8-10 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk.",
+    "6. Place a tablespoon of Gruyère cheese in the center of each disk. Fold the dough over the cheese to form a half-circle, pressing the edges together to seal the empanada.",
+    "7. Use a fork to crimp the edges and create a decorative border.",
+    "8. Brush the tops of the empanadas with a little bit of milk or beaten egg for a golden glaze.",
+    "9. Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "10. Place the empanadas on the prepared baking sheet, leaving about 1 inch of space between each one.",
+    "11. Bake for 20-25 minutes, or until the empanadas are golden brown.",
+    "12. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indulgent-uruguayan-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:26:40.617Z"
+}
