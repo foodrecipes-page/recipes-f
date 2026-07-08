@@ -1,0 +1,92 @@
+{
+  "slug": "fluffy-rich-brazilian-cassava-pacoca",
+  "title": "Brazilian Pacoca Cassava Cake",
+  "description": "A rich and moist cake made with cassava flour and pacoca for a unique flavor and texture.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "1 1/2 cups",
+      "notes": "available at most Latin American grocery stores"
+    },
+    {
+      "name": "palm oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "fluffy milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "rich chocolate chips",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "brazilian nuts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease two 9-inch round cake pans and set aside.",
+    "In a medium bowl, whisk together the cassava flour, sugar, and salt.",
+    "In a large bowl, whisk together the palm oil, eggs, fluffy milk, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until well combined.",
+    "Melt the rich chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Fold the melted chocolate into the batter until well combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center of each cake comes out clean.",
+    "Allow the cakes to cool in the pans for 10 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are cool, you can frost them with your favorite frosting or dust them with powdered sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "latinamerican",
+    "glutenfree",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-rich-brazilian-cassava-pacoca",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:02:01.662Z"
+}
