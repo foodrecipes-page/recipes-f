@@ -1,0 +1,90 @@
+{
+  "slug": "fluffy-uruguayan-chocolate-muffins",
+  "title": "Uruguayan Chocolate Muffins",
+  "description": "A sweet Uruguayan twist on a classic muffin recipe. Moist and delicious with a hint of chocolate.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Gluten-free option: use 1 1/2 cups almond flour instead"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "Can be substituted with coconut sugar for a low-carb option"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup",
+      "notes": "High-quality cocoa powder for best flavor"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "Room temperature eggs for best emulsification"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "Dairy or non-dairy milk, whichever suits your preference"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "Cool slightly before using to avoid scrambling eggs"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "High-quality vanilla extract for best flavor"
+    },
+    {
+      "name": "fluffy whipped cream",
+      "amount": "1/4 cup",
+      "notes": "Optional topping for added indulgence"
+    },
+    {
+      "name": "chopped dark chocolate",
+      "amount": "1/2 cup",
+      "notes": "For garnish or as an added treat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, sugar, and cocoa powder.",
+    "In a large bowl, whisk together eggs, milk, and melted butter.",
+    "Add vanilla extract and whisk until combined.",
+    "Add dry ingredients to wet ingredients and stir until just combined.",
+    "Divide batter evenly among muffin cups.",
+    "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow muffins to cool in tin for 5 minutes before transferring to a wire rack to cool completely.",
+    "Optional: top with fluffy whipped cream and chopped dark chocolate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "muffins",
+    "chocolate",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-uruguayan-chocolate-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:28:39.408Z"
+}
