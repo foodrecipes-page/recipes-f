@@ -1,0 +1,79 @@
+{
+  "slug": "fiery-peruvian-cheese-tacu-tacu",
+  "title": "Fiery Tacu Cheese Fritters",
+  "description": "A spicy twist on traditional Peruvian tacu tacu, these crispy fritters are filled with melted cheese and served with a tangy side of salsa.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taco shells",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Fiery pepper",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Peruvian aji amarillo sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups, for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a large skillet to 350°F (175°C).",
+    "2. In a large bowl, crush the taco shells into fine crumbs.",
+    "3. In a separate bowl, mix the cheese, diced pepper, onion, garlic, and egg.",
+    "4. Add the cheese mixture to the taco shell crumbs and stir until well combined.",
+    "5. Divide the mixture into 8 equal portions and shape each portion into a ball.",
+    "6. Flatten each ball slightly into a disk shape.",
+    "7. Dip each disk into the breadcrumbs, coating both sides evenly.",
+    "8. Fry the fritters in batches until golden brown, about 2-3 minutes per side.",
+    "9. Drain the fritters on paper towels and serve hot with a side of aji amarillo sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-peruvian-cheese-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:08:18.856Z"
+}
