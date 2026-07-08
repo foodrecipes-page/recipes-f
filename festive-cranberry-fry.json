@@ -1,0 +1,58 @@
+{
+  "slug": "festive-cranberry-fry",
+  "title": "Cranberry Festive Fries",
+  "description": "A sweet and crispy twist on traditional fries. Perfect for a holiday side dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "fry potatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "festive sprinkles",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the potatoes into fry shapes and soak in cold water for 30 minutes.",
+    "Dry the potatoes thoroughly and toss with 1 tablespoon of oil.",
+    "Bake the potatoes for 20 minutes or until tender.",
+    "Toss the baked potatoes with cranberry sauce and granulated sugar.",
+    "Sprinkle with festive sprinkles.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "holidays",
+    "sides",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-cranberry-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:31:56.602Z"
+}
