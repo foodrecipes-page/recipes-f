@@ -1,0 +1,83 @@
+{
+  "slug": "fried-tomato-croatian-stew",
+  "title": "Croatian Fried Tomato Stew",
+  "description": "A hearty stew made with fried tomatoes and Croatian spices. This dish is perfect for a cold winter night.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fried Tomatoes",
+      "amount": "2 cups",
+      "notes": "Diced and fried in olive oil"
+    },
+    {
+      "name": "Croatian Stew Spice",
+      "amount": "1 teaspoon",
+      "notes": "A blend of paprika, garlic, and caraway seeds"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "Whole or ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add diced fried tomatoes, tomato paste, Croatian stew spice, caraway seeds, salt, and black pepper.",
+    "Stir well to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 20-25 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-tomato-croatian-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:16:02.739Z"
+}
