@@ -1,0 +1,72 @@
+{
+  "slug": "floral-yogurt-kenyan-stir-fry",
+  "title": "Kenyan Floral Stir Fry",
+  "description": "A quick and flavorful Kenyan-inspired stir fry with floral flavors and a creamy yogurt sauce.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Floral tea",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add bell pepper and carrots and cook until tender, about 5 minutes.",
+    "Stir in Kenyan spices and cook for 1 minute.",
+    "Add floral tea and cook for an additional minute.",
+    "Stir in yogurt and cook until heated through.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "floral",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-yogurt-kenyan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:56:42.634Z"
+}
