@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-tender-chinese-pork-braised",
+  "title": "Braised Pork Belly with Fermented Chili",
+  "description": "A Chinese-inspired dish that combines the richness of pork belly with the depth of fermented chili. Perfect for a comforting and flavorful meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly (2 lbs)",
+      "amount": "2 lbs",
+      "notes": "Score the fat in a crisscross pattern"
+    },
+    {
+      "name": "fermented chili paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "tender shoots (2 cups)",
+      "amount": "2 cups",
+      "notes": "Can substitute with scallions"
+    },
+    {
+      "name": "chinese rice vinegar",
+      "amount": "1 cup",
+      "notes": "Can substitute with white vinegar"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "Can add more to achieve braising liquid consistency"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Can add more to enhance flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "Optional for balance of sweet and savory"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven or heavy pot, combine pork belly, fermented chili paste, tender shoots, chinese rice vinegar, water, soy sauce, and sugar.",
+    "Bring the mixture to a boil, then cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the pork belly for 2 hours or until it reaches an internal temperature of 160°F (71°C).",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using two forks, shred the pork belly into tender pieces.",
+    "Strain the braising liquid and discard the solids.",
+    "Return the shredded pork belly to the pot and simmer in the braising liquid for an additional 10-15 minutes or until heated through.",
+    "Serve the braised pork belly with the braising liquid spooned over the top and garnished with tender shoots."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "pork",
+    "braised",
+    "fermented-chili"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 58
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-chinese-pork-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:57:07.907Z"
+}
