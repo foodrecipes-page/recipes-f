@@ -1,0 +1,88 @@
+{
+  "slug": "funky-american-olives-brunch",
+  "title": "Funky Brunch with American Olives",
+  "description": "A unique twist on a classic brunch dish, featuring the flavors of America and the savory taste of olives.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Funky olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "American corn tortillas",
+      "amount": "4-6",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "American cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "American mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "American sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jalapeños",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large skillet, cook the bacon slices until crispy. Set aside.",
+    "3. Cut the corn tortillas into quarters and place on a baking sheet.",
+    "4. Drizzle with oil and season with salt. Bake for 5-7 minutes, or until crispy.",
+    "5. In a large bowl, combine the sour cream, mayonnaise, and diced olives.",
+    "6. Stir in the chopped cilantro and sliced red onion.",
+    "7. Spoon the sour cream mixture onto a tortilla quarter and top with crispy bacon.",
+    "8. Add a sprinkle of cheddar cheese and a few slices of jalapeño.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "funky",
+    "american",
+    "brunch",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-american-olives-brunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:07:38.215Z"
+}
