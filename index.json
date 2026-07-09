@@ -1519,15 +1519,14 @@
   },
   {
     "slug": "fermented-creamy-green-beans-stir-fry",
-    "title": "Fermented Creamy Green Beans Stir-fry",
+    "title": "Green Bean Stir Fry",
     "tags": [
-      "fermented-green-beans",
-      "creamy-stir-fry",
-      "turkish-dish",
-      "low-sodium-friendly"
+      "stir-fry",
+      "green-beans",
+      "creamy-sauce"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -3942,20 +3941,15 @@
   },
   {
     "slug": "fermented-tender-chinese-pork-braised",
-    "title": "Red Braised Pork Belly with Jasmine Rice, Shandong Style",
+    "title": "Braised Pork Belly with Fermented Chili",
     "tags": [
       "chinese",
-      "shandong",
-      "braised",
       "pork",
-      "fermented",
-      "jasmine rice",
-      "doubanjiang",
-      "fermented soybean paste",
-      "slow-cook"
+      "braised",
+      "fermented-chili"
     ],
-    "cuisine": "Shandong Chinese",
-    "totalTimeMin": 240,
+    "cuisine": "Chinese",
+    "totalTimeMin": 140,
     "shard": "f"
   },
   {
@@ -6958,16 +6952,16 @@
   },
   {
     "slug": "flaky-fragrant-irish-potato-pie",
-    "title": "Flaky Fragrant Irish Potato Pie",
+    "title": "Irish Potato Pie",
     "tags": [
-      "flaky-crust",
-      "irish-cuisine",
-      "one-pot",
-      "pandan-wrapped",
-      "vegetarian-friendly"
+      "irish",
+      "potato",
+      "breakfast",
+      "comfort-food",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -9224,17 +9218,14 @@
   },
   {
     "slug": "flavorful-argentinian-bonito-flatbread",
-    "title": "Flavorful Argentinian Bonito Flatbread",
+    "title": "Argentinian Flatbread with Bonito Topping",
     "tags": [
       "argentinian",
-      "chewy",
-      "flatbread",
-      "gluten-free",
-      "quick",
-      "wine-infused"
+      "bonito",
+      "flatbread"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "argentinian",
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -17174,17 +17165,15 @@
   },
   {
     "slug": "fresh-fermented-vietnamese-pungent-bun-thit-nuong",
-    "title": "Fresh Fermented Vietnamese Pungent Bun Thit Nuong",
+    "title": "Thit Nuong Grilled Pork with Bun",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "grilled",
-      "meal-prep",
-      "vegan",
-      "vietnamese"
+      "vietnamese",
+      "grilled-pork",
+      "bun",
+      "nuoc-cham"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 48,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
