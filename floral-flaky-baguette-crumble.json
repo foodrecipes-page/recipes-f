@@ -1,0 +1,63 @@
+{
+  "slug": "floral-flaky-baguette-crumble",
+  "title": "Crumble Topped Baguette",
+  "description": "A sweet and crunchy dessert with a crumbly topping, perfect for a cold evening.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Floral Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the baguette into 1-inch slices and place on a baking sheet.",
+    "Mix the floral honey with 1 tablespoon of water and brush the mixture on each baguette slice.",
+    "Roll out the flaky pastry and use a pastry cutter or a knife to create strips.",
+    "Place a strip of pastry on top of each baguette slice, pressing gently to adhere.",
+    "Sprinkle the crumble topping evenly over the pastry strips.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the crumble is crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-flaky-baguette-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:38:04.241Z"
+}
