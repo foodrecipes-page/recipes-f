@@ -1,0 +1,88 @@
+{
+  "slug": "fermented-light-filipino-dish-spring-rolls",
+  "title": "Filipino-Style Spring Rolls",
+  "description": "A classic Filipino appetizer or snack made with shrimp, vegetables, and a hint of fermented flavor. Simply roll, fry, and serve!",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring roll wrappers (light)",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": "cooked and chilled"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, grated",
+      "notes": "helps retain crunch in the rolls"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup, shredded",
+      "notes": "adds crunch and flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": "sweet and savory"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "filipino-style seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "add as needed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "for frying",
+      "notes": "use a neutral-tasting oil"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the cooked shrimp, grated carrots, shredded cabbage, and chopped onion.",
+    "2. Add the fermented fish sauce and salt to the bowl and mix well to combine.",
+    "3. Lay a spring roll wrapper on a clean surface with one corner pointing towards you.",
+    "4. Place about 1 tablespoon of the shrimp mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with a little water.",
+    "6. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "9. When the oil is hot, add a few of the spring rolls to the skillet (do not overcrowd).",
+    "10. Fry the spring rolls until they are golden brown and crispy, turning occasionally.",
+    "11. Remove the spring rolls from the oil with a slotted spoon and drain on paper towels."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "appetizer",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-light-filipino-dish-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:21:20.167Z"
+}
