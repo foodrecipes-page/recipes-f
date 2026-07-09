@@ -1,0 +1,55 @@
+{
+  "slug": "flavorful-argentinian-bonito-flatbread",
+  "title": "Argentinian Flatbread with Bonito Topping",
+  "description": "A simple and flavorful flatbread topped with bonito, inspired by Argentinian cuisine.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 (8-inch) piece"
+    },
+    {
+      "name": "Bonito",
+      "amount": "2 (6 oz) cans in water",
+      "notes": "look for bonito in water, not oil"
+    },
+    {
+      "name": "Flavorful",
+      "amount": "1 tsp",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Place the flatbread on a baking sheet.",
+    "3. Open the bonito cans and drain the liquid.",
+    "4. Flake the bonito into small pieces and place on top of the flatbread.",
+    "5. If using, sprinkle flavorful on top of the bonito.",
+    "6. Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy and the bonito is heated through.",
+    "7. Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "bonito",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-argentinian-bonito-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:25:04.246Z"
+}
