@@ -1,0 +1,69 @@
+{
+  "slug": "flaky-fragrant-irish-potato-pie",
+  "title": "Irish Potato Pie",
+  "description": "A traditional Irish dish with a flaky crust and a fragrant filling, perfect for a comforting meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Irish Potatoes",
+      "amount": "2 large, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant Herbs (chopped parsley, thyme, and rosemary)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons, melted",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "In a large bowl, combine the diced potatoes, chopped herbs, salt, and pepper.",
+    "Pour the melted butter over the potato mixture and toss to coat.",
+    "Spoon the potato mixture into the pie crust and smooth the top.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the potatoes are tender.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "potato",
+    "breakfast",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fragrant-irish-potato-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T05:44:49.720Z"
+}
