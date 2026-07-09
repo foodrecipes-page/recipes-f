@@ -1,0 +1,83 @@
+{
+  "slug": "flaky-fresh-mexican-jerusalem-artichokes-tacos",
+  "title": "Jerusalem Artichoke Tacos",
+  "description": "A twist on traditional tacos, featuring roasted Jerusalem artichokes and a blend of Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem Artichokes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Scrub the Jerusalem artichokes clean and chop them into 1-inch pieces.",
+    "3. Place the artichoke pieces on a baking sheet lined with parchment paper.",
+    "4. Drizzle with 1 tablespoon of avocado oil and sprinkle with salt and pepper.",
+    "5. Roast the artichokes in the preheated oven for 20-25 minutes, or until tender.",
+    "6. While the artichokes are roasting, grill the onion over medium heat until caramelized.",
+    "7. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the tacos by placing a few pieces of roasted artichoke onto a warmed tortilla, topping with grilled onion, a sprinkle of cilantro, and a squeeze of lime juice.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "vegetarian",
+    "jerusalem-artichokes"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fresh-mexican-jerusalem-artichokes-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:42:21.767Z"
+}
