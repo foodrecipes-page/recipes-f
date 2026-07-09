@@ -1,0 +1,70 @@
+{
+  "slug": "fluffy-american-beef-stir-fry",
+  "title": "Beef Stir Fry",
+  "description": "A quick and easy beef stir fry recipe with a delicious savory sauce.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "cooked white rice"
+    },
+    {
+      "name": "american",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "mixed bell peppers, onions, snow peas"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned and cooked to 145°F, about 5 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add mixed bell peppers, onions, and snow peas to the skillet and cook until tender, about 3-4 minutes.",
+    "Return beef to the skillet and stir in soy sauce.",
+    "Serve beef and vegetable mixture over cooked white rice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "american",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-american-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:51:12.314Z"
+}
