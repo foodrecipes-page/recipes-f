@@ -11252,15 +11252,14 @@
   },
   {
     "slug": "floral-flaky-baguette-crumble",
-    "title": "Floral Flaky Baguette Crumble",
+    "title": "Crumble Topped Baguette",
     "tags": [
-      "floral",
-      "flaky",
-      "energizing",
-      "filipino"
+      "dessert",
+      "sweet",
+      "easy"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 13,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -12153,16 +12152,14 @@
   },
   {
     "slug": "floral-tender-american-pul-biber-stir-fry",
-    "title": "Floral Tender American Pul Biber Stir-fry",
+    "title": "Delicious Pul Chicken Stir Fry",
     "tags": [
-      "pul-biber",
+      "chicken",
       "stir-fry",
-      "american-dish",
-      "floral",
-      "tender"
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 25,
+    "cuisine": "american",
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
@@ -20135,16 +20132,14 @@
   },
   {
     "slug": "funky-crunchy-thai-southern-coconut-cream-kanom-jeen",
-    "title": "Funky Crunchy Thai Southern Coconut Cream Kanom Jeen",
+    "title": "Kanom Jeen Nam Ngiaw",
     "tags": [
-      "coconut-cream",
-      "crunchy",
-      "kanom-jeen",
-      "noonion",
-      "onigiri",
-      "thai-southern"
+      "thaicurry",
+      "noodlesoup",
+      "vegetarian",
+      "soup"
     ],
-    "cuisine": "Thai (Southern)",
+    "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "f"
   },
