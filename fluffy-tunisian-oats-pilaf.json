@@ -1,0 +1,84 @@
+{
+  "slug": "fluffy-tunisian-oats-pilaf",
+  "title": "Tunisian Oat Pilaf Bowl",
+  "description": "A flavorful and nutritious bowl filled with tunisian spices, fluffy texture, and crunchy oat pilaf.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1 small"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Optional for serving"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add tunisian spice blend, salt, and black pepper. Cook for 1 minute.",
+    "Add oats and pilaf to the saucepan. Cook for 2 minutes.",
+    "Add fluffy to the saucepan and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Stir in lemon juice and cook for 1 minute.",
+    "Serve hot, garnished with chopped parsley.",
+    "Optional: Serve with additional olive oil on top.",
+    "Serve with a side of sliced lemon for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "pilaf",
+    "north-african",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-tunisian-oats-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:24:09.002Z"
+}
