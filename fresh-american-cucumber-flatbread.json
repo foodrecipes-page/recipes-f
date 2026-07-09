@@ -1,0 +1,61 @@
+{
+  "slug": "fresh-american-cucumber-flatbread",
+  "title": "Fresh Flatbread Wrap",
+  "description": "A simple and refreshing flatbread wrap filled with fresh cucumbers, perfect for a quick snack or light meal.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Fresh Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Spread a thin layer of cheese on the flatbread.",
+    "Slice the cucumber into thin rounds.",
+    "Place the cucumber slices on top of the cheese.",
+    "Sprinkle salt and pepper to taste.",
+    "Fold the flatbread in half to create a wrap."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "flatbread",
+    "cucumber",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-american-cucumber-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:00:53.924Z"
+}
