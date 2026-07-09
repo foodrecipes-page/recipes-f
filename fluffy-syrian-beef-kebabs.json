@@ -1,0 +1,77 @@
+{
+  "slug": "fluffy-syrian-beef-kebabs",
+  "title": "Fluffy Beef Kebabs",
+  "description": "Tender beef and fluffy naan, a perfect combination in this easy-to-make recipe.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fluffy",
+      "amount": "4 pieces",
+      "notes": "store-bought naan"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "Brush skewers with oil and season with salt, pepper, and garlic.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Cook to an internal temperature of 63°C (145°F) for medium-rare.",
+    "Serve with fluffy naan, yogurt, and your choice of sides.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "kebabs",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-syrian-beef-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:08:48.975Z"
+}
