@@ -1,0 +1,74 @@
+{
+  "slug": "fluffy-russian-pancakes-pancakes",
+  "title": "Russian Fluffy Pancakes",
+  "description": "Delicious and fluffy pancakes with a Russian twist. Serve warm with your favorite toppings.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together eggs, milk, melted butter, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Let the batter rest for 5 minutes.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes or until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-russian-pancakes-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:34:03.907Z"
+}
