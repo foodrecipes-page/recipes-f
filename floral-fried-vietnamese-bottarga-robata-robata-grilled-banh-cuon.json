@@ -1,0 +1,82 @@
+{
+  "slug": "floral-fried-vietnamese-bottarga-robata-robata-grilled-banh-cuon",
+  "title": "Vietnamese Grilled Pork Banh Cuon",
+  "description": "A Vietnamese-inspired dish featuring grilled pork and banh cuon, served as a snack or light meal. This recipe highlights the flavors of Southeast Asia with a combination of sweet and savory ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "banh cuon",
+      "amount": "1 package",
+      "notes": "Vietnamese spring rolls"
+    },
+    {
+      "name": "floral hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular hoisin sauce"
+    },
+    {
+      "name": "grilled scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill pork slices for 3-4 minutes per side, or until cooked through.",
+    "Warm banh cuon according to package instructions.",
+    "Assemble banh cuon by placing a few slices of grilled pork in the center, along with some lettuce, cucumber, and hoisin sauce.",
+    "Top with roasted peanuts, grilled scallions, and fried shallots.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "banh-cuon"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fried-vietnamese-bottarga-robata-robata-grilled-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:35:24.022Z"
+}
