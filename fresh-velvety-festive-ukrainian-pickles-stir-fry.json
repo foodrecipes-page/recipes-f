@@ -1,0 +1,67 @@
+{
+  "slug": "fresh-velvety-festive-ukrainian-pickles-stir-fry",
+  "title": "Ukrainian Pickle Stir Fry",
+  "description": "A festive and flavorful twist on traditional stir-fry, featuring ukrainian pickles.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian pickles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Festive oil (sesame or sunflower)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat festive oil in a large skillet over medium-high heat.",
+    "Add the Ukrainian pickles and cook for 2-3 minutes on each side, or until slightly caramelized.",
+    "Add the fresh vegetables and cook for 4-5 minutes, or until tender.",
+    "Stir in the fry sauce and cook for an additional minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "stir-fry",
+    "pickles",
+    "festive",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-velvety-festive-ukrainian-pickles-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:13:29.328Z"
+}
