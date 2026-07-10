@@ -1,0 +1,85 @@
+{
+  "slug": "flaky-white-uruguayan-fish-skillet",
+  "title": "Uruguayan Fish Cakes",
+  "description": "A flavorful and crispy fish cake dish inspired by the Uruguayan cuisine, made with fresh fish, flaky white fish, and spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh fish (cod)",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Flaky white fish (hake)",
+      "amount": "1/2 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Skillet oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the fresh fish, flaky white fish, onion, bell pepper, and garlic. Mix well.",
+    "2. Add the beaten egg to the bowl and mix until just combined.",
+    "3. Divide the mixture into 8 equal portions and shape each portion into a patty.",
+    "4. Coat each patty with flour, shaking off excess.",
+    "5. Heat the skillet oil in a large non-stick skillet over medium-high heat.",
+    "6. Add 4 patties to the skillet and cook for 3-4 minutes on each side, until golden brown and cooked through.",
+    "7. Repeat with the remaining patties.",
+    "8. Serve the fish cakes hot with your favorite sides, such as a salad or fries."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "uruguayan",
+    "cakes",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-white-uruguayan-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:28:32.815Z"
+}
