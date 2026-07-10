@@ -1,0 +1,58 @@
+{
+  "slug": "fluffy-dutch-eggs-frittata",
+  "title": "Dutch Frittata",
+  "description": "A delicious and easy-to-make breakfast dish made with eggs, cheese, and vegetables.",
+  "cuisine": "Dutch",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": "use store-bought or homemade frittata"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "fluffy cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheddar or mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Crack the eggs into a bowl and whisk them together.",
+    "Add the shredded cheese to the eggs and stir to combine.",
+    "Pour the egg mixture into the frittata and stir to combine.",
+    "Transfer the frittata to a baking dish and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the frittata from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot.",
+    "Optional: add diced vegetables, such as bell peppers or onions, to the egg mixture for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dutch",
+    "frittata",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-dutch-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:09:55.905Z"
+}
