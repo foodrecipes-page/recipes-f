@@ -1,0 +1,95 @@
+{
+  "slug": "fiery-molten-greek-lentil-casserole",
+  "title": "Greek Lentil Casserole",
+  "description": "A hearty and flavorful casserole featuring Greek lentils and spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek lentils",
+      "amount": "1 cup, rinsed and drained",
+      "notes": ""
+    },
+    {
+      "name": "fiery red pepper",
+      "amount": "1, diced",
+      "notes": ""
+    },
+    {
+      "name": "molten cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1, 9x13 inch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add diced fiery red pepper, cook for an additional 2 minutes.",
+    "Add Greek lentils, cook for 1-2 minutes.",
+    "Stir in tomato paste, dried oregano, and salt.",
+    "Transfer mixture to casserole dish.",
+    "Top with molten cheese.",
+    "Bake for 25-30 minutes, or until cheese is melted and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lentil",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-molten-greek-lentil-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:52:35.152Z"
+}
