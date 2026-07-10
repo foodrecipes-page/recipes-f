@@ -1,0 +1,66 @@
+{
+  "slug": "floral-light-greek-kielbasa-salad",
+  "title": "Greek Salad with Kielbasa",
+  "description": "A refreshing summer salad with the addition of savory kielbasa. Perfect for a light and easy meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Floral",
+      "amount": "2 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "Light",
+      "amount": "1/2 cup",
+      "notes": "red wine vinegar"
+    },
+    {
+      "name": "Greek",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup",
+      "notes": "cherry tomatoes, halved"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill sliced kielbasa for 2-3 minutes per side, or until lightly charred.",
+    "3. In a large bowl, combine mixed greens, sliced kielbasa, cherry tomatoes, and red onion (if using).",
+    "4. In a small bowl, whisk together olive oil, red wine vinegar, salt, and pepper.",
+    "5. Drizzle dressing over salad and toss to combine.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebab",
+    "salad",
+    "grilled",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-light-greek-kielbasa-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:58:59.632Z"
+}
