@@ -1,0 +1,77 @@
+{
+  "slug": "fluffy-garlic-mexican-stir-fry",
+  "title": "Fluffy Mexican Stir Fry",
+  "description": "A flavorful and easy-to-make stir fry dish combining Mexican flavors with fluffy textures.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fluffy chicken breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "2 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "Available in most supermarkets"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the diced onion and bell pepper and cook for 3-4 minutes until tender.",
+    "Add the diced chicken breast and cook for 5-6 minutes until browned and cooked through.",
+    "Add the Mexican oregano and stir-fry sauce, and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "stir-fry",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-garlic-mexican-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:38:45.340Z"
+}
