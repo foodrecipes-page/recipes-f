@@ -1,0 +1,89 @@
+{
+  "slug": "fragrant-uruguayan-cox-apple-stew",
+  "title": "Uruguayan Cox Stew",
+  "description": "A hearty stew originating from Uruguay, made with tender cox potatoes and fragrant spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cox potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "fragrant onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "uruguayan chorizo",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for flavor enhancement"
+    },
+    {
+      "name": "stew beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the sliced chorizo and cook until browned, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chopped cox potatoes, beef broth, and apple cider vinegar.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "stew",
+    "potatoes",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-uruguayan-cox-apple-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:12:24.958Z"
+}
