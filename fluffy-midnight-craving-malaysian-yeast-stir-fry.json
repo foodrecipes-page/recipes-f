@@ -1,0 +1,72 @@
+{
+  "slug": "fluffy-midnight-craving-malaysian-yeast-stir-fry",
+  "title": "Malaysian Yeast Buns",
+  "description": "Soft and fluffy Malaysian-style buns made with yeast, perfect for breakfast or as a snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "midnight",
+      "amount": "1/4 cup",
+      "notes": "warm milk"
+    },
+    {
+      "name": "craving",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "stir",
+      "amount": "3 cups"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine fluffy, midnight, craving, and yeast.",
+    "2. Gradually add stir while mixing until a dough forms.",
+    "3. Knead the dough for 10 minutes until smooth.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "5. Preheat the oven to 375°F (190°C).",
+    "6. Punch down the dough and divide it into 8 equal pieces.",
+    "7. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "8. Place the disks onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each bun.",
+    "9. Brush the tops with fry.",
+    "10. Bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "breakfast",
+    "snack",
+    "buns",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-midnight-craving-malaysian-yeast-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:47:18.637Z"
+}
