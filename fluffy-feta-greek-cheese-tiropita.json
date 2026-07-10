@@ -1,0 +1,76 @@
+{
+  "slug": "fluffy-feta-greek-cheese-tiropita",
+  "title": "Tiropita Fluff Bites",
+  "description": "A twist on the classic Greek cheese pie, these bite-sized tiropita are perfect as an appetizer or snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fluffy",
+      "amount": "1 package (8-10 sheets)"
+    },
+    {
+      "name": "Greek Cheese",
+      "amount": "8 oz, crumbled"
+    },
+    {
+      "name": "Tiropita",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Fluffy sheets into 2-inch squares.",
+    "In a bowl, mix together Greek Cheese, Tiropita, Feta Cheese, Egg, Salt, and Black Pepper.",
+    "Place a spoonful of the cheese mixture onto the center of each Fluffy square.",
+    "Brush the edges with milk and fold the Fluffy squares to form triangles.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greektiropita",
+    "cheese",
+    "appetizer",
+    "snack",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-feta-greek-cheese-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:20:33.635Z"
+}
