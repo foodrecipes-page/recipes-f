@@ -1,0 +1,83 @@
+{
+  "slug": "fermented-ukrainian-dish-pastry-wrapped-pocket",
+  "title": "Varenyky with Meat Filling",
+  "description": "Ukrainian varenyky are boiled dumplings filled with a variety of ingredients, in this case a traditional meat and onion filling. They can be served with sour cream or fried onions.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented cabbage",
+      "amount": "1/2 cup, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "Ground meat",
+      "amount": "1 pound, mixed beef and pork",
+      "notes": "Make sure to cook the meat to an internal temperature of 165°F (74°C)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "2 cups, homemade or store-bought",
+      "notes": "Make sure to thaw the dough according to the package instructions"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large skillet, cook the ground meat over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the chopped fermented cabbage and cook for an additional 2-3 minutes.",
+    "Season the meat mixture with salt and black pepper to taste.",
+    "On a lightly floured surface, roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the meat mixture in the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-circle shape, and press the edges together to seal the varenyky.",
+    "Bring a large pot of salted water to a boil, then reduce the heat to a simmer.",
+    "Carefully add the varenyky to the pot and cook for 5-7 minutes, or until they float to the surface.",
+    "Remove the varenyky from the pot with a slotted spoon and serve hot with sour cream or fried onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "meat-filled",
+    "homemade",
+    "boiled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-ukrainian-dish-pastry-wrapped-pocket",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:21:24.887Z"
+}
