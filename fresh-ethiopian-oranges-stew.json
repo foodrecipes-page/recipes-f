@@ -1,0 +1,88 @@
+{
+  "slug": "fresh-ethiopian-oranges-stew",
+  "title": "Ethiopian Stew with Fresh Vegetables",
+  "description": "A hearty and flavorful stew made with fresh vegetables and spices, inspired by the traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add carrots, potatoes, zucchini, and red bell pepper, cook for 10 minutes.",
+    "Add berbere spice, stir well to combine.",
+    "Cook for another 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-ethiopian-oranges-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:29:32.534Z"
+}
