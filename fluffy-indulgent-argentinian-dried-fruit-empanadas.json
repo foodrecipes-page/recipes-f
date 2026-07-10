@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-indulgent-argentinian-dried-fruit-empanadas",
+  "title": "Argentinian Empanada Delight",
+  "description": "A sweet and indulgent dessert empanada filled with dried fruit, perfect for a snack or dessert.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry (flaky, store-bought)",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Dried Fruit Mix (apricots, raisins, cranberries)",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Argentinian Vanilla Extract",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup",
+      "notes": "For dusting"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the puff pastry sheet to a thickness of about 1/8 inch (3 mm).",
+    "3. In a small bowl, mix together the dried fruit mix, granulated sugar, and argentinian vanilla extract (if using).",
+    "4. Spread the dried fruit mixture onto one half of the puff pastry, leaving a 1/2-inch border around the edges.",
+    "5. Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "6. Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "7. Use a knife to create a decorative edge around the empanada.",
+    "8. Brush the top of the empanada with the remaining egg wash.",
+    "9. Bake the empanada for 25-30 minutes, or until golden brown.",
+    "10. Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "dessert",
+    "empanada",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-indulgent-argentinian-dried-fruit-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:25:18.382Z"
+}
