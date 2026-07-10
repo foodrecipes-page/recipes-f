@@ -1,0 +1,78 @@
+{
+  "slug": "fluffy-lazy-sunday-thai-jerusalem-artichoke-stir-fry",
+  "title": "Lazy Sunday Thai Stir Fry",
+  "description": "A quick and easy Thai stir fry recipe perfect for a lazy Sunday evening.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichoke",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lazy stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add sliced bell peppers and onions and cook for 3-4 minutes.",
+    "Add sliced mushrooms and cook for an additional 2-3 minutes.",
+    "Add Jerusalem artichoke and cook for 2-3 minutes.",
+    "In a small bowl, whisk together lazy stir-fry sauce and 1 tablespoon of water.",
+    "Pour sauce over vegetables and stir to combine.",
+    "Serve over fluffy rice and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-curry",
+    "stir-fry",
+    "easy-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-lazy-sunday-thai-jerusalem-artichoke-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:27:51.546Z"
+}
