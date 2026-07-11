@@ -1,0 +1,77 @@
+{
+  "slug": "floral-creamy-vietnamese-paccheri-pasta",
+  "title": "Creamy Vietnam Pasta",
+  "description": "A simple and flavorful pasta dish combining creamy sauce and vietnamese flavors.",
+  "cuisine": "Italian-Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "Floral water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vietnamese fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "250ml"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook paccheri pasta according to package instructions.",
+    "Melt vegan butter in a pan over medium heat.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add floral water, Vietnamese fish sauce, and soy sauce. Stir well.",
+    "Add creamy sauce and stir until well combined.",
+    "Add cooked paccheri pasta to the sauce and toss well.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped scallions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "italian-vietnamese",
+    "vegetarian",
+    "creamy-sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-creamy-vietnamese-paccheri-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:26:19.939Z"
+}
