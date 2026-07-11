@@ -1,0 +1,93 @@
+{
+  "slug": "fermented-malaysian-dish-noodles",
+  "title": "Malaysian Fermented Noodle Dish",
+  "description": "A spicy and sour Malaysian noodle dish made with fermented ingredients, perfect for a quick and satisfying meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Fermented soybean paste (Tauco)",
+      "amount": "2 tbsp",
+      "notes": "available at Asian grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "1-2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions. Drain and set aside.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the sliced chili peppers and stir-fry for 1 minute.",
+    "Add the fermented soybean paste and stir-fry for 1-2 minutes, until fragrant.",
+    "Add the cooked noodles, bean sprouts, soy sauce, and sambal oelek (if using). Stir-fry for 2-3 minutes, until the noodles are well coated.",
+    "Transfer the noodles to a serving platter. Garnish with chopped scallions and serve immediately.",
+    "Optional: Serve with additional chili peppers or sambal oelek on the side for added heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "fermented",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-malaysian-dish-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:22:27.841Z"
+}
