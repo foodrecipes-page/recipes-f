@@ -1,0 +1,61 @@
+{
+  "slug": "flaky-brazilian-cheese-curds-toast",
+  "title": "Brazilian Toasted Cheese and Curds",
+  "description": "A simple Brazilian-inspired dish featuring melted cheese and curds on toasted bread.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread (toast)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Mild cheese works best"
+    },
+    {
+      "name": "Brazilian Cheese Curds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    }
+  ],
+  "instructions": [
+    "1. Toast the bread until lightly browned.",
+    "2. Butter the toasted bread slices.",
+    "3. Sprinkle shredded cheese over the buttered bread.",
+    "4. Top with cheese curds.",
+    "5. Place under the broiler until the cheese is melted and bubbly.",
+    "6. Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cheese",
+    "curds",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-brazilian-cheese-curds-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:30:01.405Z"
+}
