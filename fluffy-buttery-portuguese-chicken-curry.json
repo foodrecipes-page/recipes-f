@@ -1,0 +1,78 @@
+{
+  "slug": "fluffy-buttery-portuguese-chicken-curry",
+  "title": "Fluffy Chicken Curry",
+  "description": "A delicious and flavorful Portuguese-inspired dish made with tender chicken and a rich curry sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "fluffy all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Season the chicken breasts with salt and pepper. Dredge the chicken in the fluffy flour, shaking off excess.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-6 minutes total. Remove from the skillet and set aside.",
+    "Reduce heat to medium and add the remaining 2 tablespoons of butter to the skillet. Once melted, add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the portuguese red wine (if using) and cook until the liquid has almost completely evaporated, scraping the bottom of the skillet.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook until the chicken is cooked through and the sauce has thickened.",
+    "Serve the chicken and sauce over fluffy rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-buttery-portuguese-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:57:05.899Z"
+}
