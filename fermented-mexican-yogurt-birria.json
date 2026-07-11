@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-mexican-yogurt-birria",
+  "title": "Fermented Birria Tacos",
+  "description": "A twist on traditional birria, this recipe combines fermented flavors with the spices and richness of Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Birria meat (beef or goat)",
+      "amount": "1 pound",
+      "notes": "Shredded or chopped"
+    },
+    {
+      "name": "Fermented cabbage",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried ancho chilies",
+      "amount": "2",
+      "notes": "Stemmed and seeded"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the birria meat in a large pot over medium-high heat.",
+    "Add the Mexican oregano, cumin, and dried ancho chilies to the pot and cook for 1 minute.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Shred the fermented cabbage and add it to the pot.",
+    "Season the birria with salt to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the birria onto a tortilla and topping with yogurt and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fermented",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-mexican-yogurt-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:35:05.329Z"
+}
