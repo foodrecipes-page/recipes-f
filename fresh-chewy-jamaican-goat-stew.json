@@ -1,0 +1,83 @@
+{
+  "slug": "fresh-chewy-jamaican-goat-stew",
+  "title": "Jamaican Goat Stew",
+  "description": "A flavorful and hearty stew from the Caribbean, made with tender goat meat and a blend of aromatic spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "chewy bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1-2, seeded and chopped (optional)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the bacon and cook until crispy, then remove and set aside.",
+    "Add the goat to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, thyme, allspice, and scotch bonnet pepper (if using) to the pot.",
+    "Cook until the onion is translucent, about 5 minutes.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the stew, bacon, and enough stock to cover the goat.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, until the goat is tender, about 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "jamaican",
+    "goat",
+    "stew",
+    "caribbean",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-jamaican-goat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:15:12.334Z"
+}
