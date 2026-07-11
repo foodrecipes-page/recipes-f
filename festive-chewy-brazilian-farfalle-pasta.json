@@ -1,0 +1,79 @@
+{
+  "slug": "festive-chewy-brazilian-farfalle-pasta",
+  "title": "Brazilian Pasta Festa",
+  "description": "A colorful and festive Brazilian-inspired pasta dish that brings a taste of carnival to your table.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz",
+      "notes": "bow-tie pasta"
+    },
+    {
+      "name": "Brazilian-style festive peppers",
+      "amount": "1 cup",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Chewy sweet plantains",
+      "amount": "2",
+      "notes": "ripe, sliced"
+    },
+    {
+      "name": "Brazilian-style salsa",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pesto",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Cook the farfalle pasta according to package instructions; drain and set aside.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced peppers and cook until tender, about 5 minutes.",
+    "Add the sliced plantains and cook for an additional 2-3 minutes, until slightly caramelized.",
+    "Stir in the pesto and cook for 1-2 minutes, until heated through.",
+    "Add the cooked pasta to the skillet and toss to combine with the pepper and plantain mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and top with shredded cheese.",
+    "Serve immediately, garnished with additional festive peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "brazilian",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-chewy-brazilian-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:26:44.603Z"
+}
