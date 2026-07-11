@@ -1,0 +1,75 @@
+{
+  "slug": "flaky-norwegian-salmon-skillet",
+  "title": "Pan-Seared Salmon with Crispy Skin",
+  "description": "A simple yet impressive dish that highlights the delicate flavor of salmon. The crispy skin is a bonus!",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 large",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pat the salmon fillets dry with paper towels.",
+    "Season the salmon with flaky sea salt.",
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil to the preheated skillet.",
+    "Sear the salmon for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven.",
+    "Bake for 8-10 minutes or until cooked through.",
+    "Remove from the oven and brush with butter.",
+    "Serve immediately with lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "fish",
+    "skillet",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-norwegian-salmon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:10:57.062Z"
+}
