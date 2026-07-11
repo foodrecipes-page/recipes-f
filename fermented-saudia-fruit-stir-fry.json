@@ -1,0 +1,62 @@
+{
+  "slug": "fermented-saudia-fruit-stir-fry",
+  "title": "Saudia Fruit Salad",
+  "description": "A refreshing dessert inspired by the flavors of Saudia Arabia. A mix of fresh fruits, perfect for any occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed Fresh Fruits (e.g., strawberries, grapes, pineapple)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Saudia Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Pineapple Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash the fruits and cut them into bite-sized pieces.",
+    "In a large bowl, mix together the honey, lemon juice, and fermented pineapple juice.",
+    "Add the cut fruits to the bowl and toss to coat with the honey and juice mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Before serving, give the salad a good stir and adjust the sweetness and tartness to taste.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "fruit",
+    "salad",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-saudia-fruit-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:54:09.986Z"
+}
