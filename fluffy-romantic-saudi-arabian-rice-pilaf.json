@@ -1,0 +1,68 @@
+{
+  "slug": "fluffy-romantic-saudi-arabian-rice-pilaf",
+  "title": "Saudi Arabian Pilaf",
+  "description": "A flavorful and aromatic dish originating from the Middle East, typically served with a variety of meats or as a side.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saudi Arabian pilaf spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fluffy rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "romantic raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "arabian almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the Saudi Arabian pilaf spice blend and cook for 1 minute, stirring constantly.",
+    "Add the fluffy rice vinegar and cook for another minute.",
+    "Add the rice and water to the saucepan, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is tender.",
+    "Fluff the rice with a fork and stir in the romantic raisins and arabian almonds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "rice",
+    "middle-eastern",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 55,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-romantic-saudi-arabian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:41:18.397Z"
+}
