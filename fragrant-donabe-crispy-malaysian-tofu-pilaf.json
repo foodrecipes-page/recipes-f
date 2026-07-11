@@ -1,0 +1,75 @@
+{
+  "slug": "fragrant-donabe-crispy-malaysian-tofu-pilaf",
+  "title": "Malaysian Tofu Pilaf",
+  "description": "A flavorful and nutritious dish, combining the best of Southeast Asian cuisine with the simplicity of a pilaf.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "cubed"
+    },
+    {
+      "name": "Malaysian Fragrant Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Crispy Shallots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pilaf Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a donabe over medium heat.",
+    "Add pilaf spice blend and stir for 1 minute.",
+    "Add cubed tofu and cook until golden brown.",
+    "Add water to the donabe and bring to a boil.",
+    "Add uncooked rice to the donabe and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff rice with a fork and stir in crispy shallots.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "rice",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-donabe-crispy-malaysian-tofu-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:49:27.956Z"
+}
