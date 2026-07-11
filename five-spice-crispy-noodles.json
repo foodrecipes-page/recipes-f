@@ -1,0 +1,52 @@
+{
+  "slug": "five-spice-crispy-noodles",
+  "title": "Crispy Noodle Stir-Fry",
+  "description": "Quick and easy stir-fry made with crispy noodles and your choice of protein.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crispy Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Five-Spice Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add 1 tsp of five-spice seasoning and cook for 1 minute.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add crispy noodles and stir-fry until combined with the chicken and seasoning.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/five-spice-crispy-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:06:05.229Z"
+}
