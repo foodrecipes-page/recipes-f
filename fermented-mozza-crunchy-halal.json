@@ -1,0 +1,56 @@
+{
+  "slug": "fermented-mozza-crunchy-halal",
+  "title": "Crunchy Mozza Pizza",
+  "description": "A delicious and easy pizza recipe with a crunchy topping. Perfect for a quick dinner or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Mozzarella",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Halal Pizza Dough",
+      "amount": "1 pre-made crust",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pre-made pizza crust.",
+    "Spread the fermented mozzarella cheese evenly over the crust.",
+    "Add the crunchy topping of your choice.",
+    "Bake the pizza in the preheated oven for 12-15 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove the pizza from the oven and let it cool for a few minutes.",
+    "Slice and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pizza",
+    "italian",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-mozza-crunchy-halal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:29:29.193Z"
+}
