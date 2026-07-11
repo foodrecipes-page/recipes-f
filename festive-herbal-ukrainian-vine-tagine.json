@@ -1,0 +1,93 @@
+{
+  "slug": "festive-herbal-ukrainian-vine-tagine",
+  "title": "Vineyard Vine Tagine",
+  "description": "A traditional Moroccan stew originating from the tagine cooking vessel. This recipe combines the flavors of the vine with ukrainian comfort food and a hint of festivity.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "festival onions",
+      "amount": "3",
+      "notes": "chopped"
+    },
+    {
+      "name": "herbal olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "canned, crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the vine leaves and blanch them in boiling water for 30 seconds.",
+    "Drain the leaves and set them aside.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic, tagine spice blend, and cook for 1 minute.",
+    "Add the chicken and beef broths, white wine, and tomatoes.",
+    "Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 30 minutes.",
+    "Add the blanched vine leaves to the pot and continue baking for 15 more minutes.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "moroccan",
+    "ukrainian",
+    "vineyard",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-herbal-ukrainian-vine-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:34:56.811Z"
+}
