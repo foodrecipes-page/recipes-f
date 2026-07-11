@@ -1,0 +1,90 @@
+{
+  "slug": "flavorful-syrian-lamb-wrap",
+  "title": "Syrian Lamb Wrap",
+  "description": "A flavorful and aromatic lamb wrap inspired by Syrian cuisine, perfect for a quick and satisfying meal.",
+  "cuisine": "syrian",
+  "diet": [
+    "pork-free",
+    "lamb-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "Flavorful Wrap",
+      "amount": "4-6",
+      "notes": "large pita bread"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until browned, about 5-6 minutes.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer the lamb mixture for 5 minutes.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the wraps by spooning the lamb mixture onto the pita bread and serving immediately.",
+    "Serve with additional olive oil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "wrap",
+    "syrian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-syrian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:18:18.085Z"
+}
