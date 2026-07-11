@@ -1,0 +1,65 @@
+{
+  "slug": "ferment-vietnamese-cacao-bowl",
+  "title": "Vietnamese Fermented Rice Bowl",
+  "description": "A traditional Vietnamese dish made with fermented rice, fresh herbs, and a variety of flavors. Perfect for a quick and easy lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented rice",
+      "amount": "1 cup",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cacao nibs",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Cook the fermented rice according to the package instructions.",
+    "Chop the cilantro and mint leaves.",
+    "In a small bowl, mix together the chopped herbs and cacao nibs (if using).",
+    "Serve the fermented rice in a bowl and top with the herb mixture.",
+    "Add any desired additional toppings, such as sliced scallions or diced cucumbers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "fermented",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-vietnamese-cacao-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:00:32.141Z"
+}
