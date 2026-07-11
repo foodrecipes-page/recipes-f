@@ -3299,18 +3299,14 @@
   },
   {
     "slug": "fermented-malaysian-dish-noodles",
-    "title": "Kolo Mee with Fermented Shrimp Paste",
+    "title": "Malaysian Fermented Noodle Dish",
     "tags": [
-      "high-protein",
       "malaysian",
-      "one-pan",
-      "quick-meal",
-      "seafood",
-      "snappy-noodles",
-      "stir-fry"
+      "fermented",
+      "noodle-dish"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -3415,15 +3411,14 @@
   },
   {
     "slug": "fermented-mozza-crunchy-halal",
-    "title": "Fermented Mozza Crunchy Halal",
+    "title": "Crunchy Mozza Pizza",
     "tags": [
-      "mozzarella",
-      "crunchy",
-      "fermented",
-      "halal"
+      "pizza",
+      "italian",
+      "veggie"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 17,
     "shard": "f"
   },
   {
@@ -7972,16 +7967,15 @@
   },
   {
     "slug": "flaky-norwegian-salmon-skillet",
-    "title": "Flaky Norwegian Salmon Skillet",
+    "title": "Pan-Seared Salmon with Crispy Skin",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pan-meal",
-      "seafood-lovers"
+      "salmon",
+      "fish",
+      "skillet",
+      "pan-seared"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -8242,16 +8236,14 @@
   },
   {
     "slug": "flaky-roasted-croatian-fish-roast",
-    "title": "Croatian Fish Roast",
+    "title": "Pan-Seared Fish with Roasted Vegetables",
     "tags": [
-      "croatian-cuisine",
-      "date-night",
-      "flaky-fish",
-      "pescatarian-friendly",
-      "seafood"
+      "fish",
+      "vegetables",
+      "mediterranean"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 29,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
