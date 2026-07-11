@@ -1,0 +1,73 @@
+{
+  "slug": "fragrant-crispy-japanese-garlic-bulb-katsudon",
+  "title": "Crispy Katsudon",
+  "description": "Pan-fried pork cutlet topped with a sweet onion sauce and crispy tempura bits, served with steaming hot rice. This Japanese dish is a twist on the classic katsudon recipe.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork cutlet",
+      "amount": "4 slices, 1/4 inch thick"
+    },
+    {
+      "name": "Bulb onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Crispy tempura bits",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fragrant Japanese rice",
+      "amount": "4 cups cooked"
+    },
+    {
+      "name": "Katsudon sauce",
+      "amount": "1 cup",
+      "notes": "see below for sauce recipe"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, beat the eggs and mix with a pinch of salt.",
+    "2. Season the pork cutlets with a pinch of salt and pepper.",
+    "3. Dip the pork cutlets in the egg mixture, coating both sides evenly.",
+    "4. Heat a large non-stick pan with a tablespoon of oil over medium-high heat.",
+    "5. Add the coated pork cutlets and pan-fry until golden brown and crispy, about 3-4 minutes per side.",
+    "6. Transfer the pork cutlets to a plate and set aside.",
+    "7. In the same pan, add another tablespoon of oil and sauté the sliced onions until caramelized, about 8-10 minutes.",
+    "8. Add the garlic and sauté for an additional minute.",
+    "9. Add the katsudon sauce and stir to combine.",
+    "10. Return the pork cutlets to the pan and simmer for about 2-3 minutes, until the sauce has thickened.",
+    "11. Serve the pork cutlets on a bed of cooked Japanese rice and top with crispy tempura bits.",
+    "12. Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "katsudon",
+    "pork",
+    "rice",
+    "onion"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-crispy-japanese-garlic-bulb-katsudon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:22:04.733Z"
+}
