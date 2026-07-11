@@ -1,0 +1,68 @@
+{
+  "slug": "flaky-roasted-croatian-fish-roast",
+  "title": "Pan-Seared Fish with Roasted Vegetables",
+  "description": "A simple and flavorful dish that combines the freshness of fish with the earthiness of roasted vegetables.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky fish",
+      "amount": "4 fillets",
+      "notes": "white fish such as cod or tilapia"
+    },
+    {
+      "name": "roasted croatian potatoes",
+      "amount": "2 cups",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini and bell peppers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the fish with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the fish for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the fish to a baking sheet and roast in the oven for an additional 5-7 minutes.",
+    "Toss the sliced potatoes with olive oil, salt and pepper, and roast in the oven for 15-20 minutes, or until golden brown.",
+    "Add the roasted vegetables to the skillet and cook for an additional 2-3 minutes, or until tender.",
+    "Serve the fish with roasted potatoes and vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "vegetables",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-roasted-croatian-fish-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:12:29.855Z"
+}
