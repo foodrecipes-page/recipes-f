@@ -1,0 +1,89 @@
+{
+  "slug": "flat-smoky-german-rice-noodles",
+  "title": "Smoky German Sausage with Noodles",
+  "description": "A hearty, comforting dish featuring smoky German sausage served with a side of noodles and a crunchy flatbread",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky German Sausage",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen sausage works well"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 slices",
+      "notes": "Crusty bread ideal for serving with the sausage"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 ounces",
+      "notes": "Wide egg noodles or similar"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced onion adds a sweet flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic adds depth to the dish"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "German beer pairs well with the sausage"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons",
+      "notes": "Grainy mustard adds a tangy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for best flavor"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the onion and cook in a pan over medium heat until caramelized.",
+    "3. Slice the garlic and cook for an additional minute.",
+    "4. Slice the sausage and cook in a separate pan over medium-high heat until browned.",
+    "5. Add the beer to the sausage pan and simmer until reduced by half.",
+    "6. Cook the noodles according to package instructions.",
+    "7. Assemble the dish by placing cooked noodles on a plate, topping with sliced sausage and onions, and serving with flatbread on the side.",
+    "8. Drizzle with mustard and season with salt and pepper to taste.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "noodles",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flat-smoky-german-rice-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:55:48.904Z"
+}
