@@ -1,0 +1,89 @@
+{
+  "slug": "fermented-light-cozy-cheese-stir-fry",
+  "title": "Light and Cozy Cheesy Stir-Fry",
+  "description": "A comforting and easy-to-make stir-fry dish loaded with melted cheese and a hint of fermented flavor. Perfect for a cozy evening in.",
+  "cuisine": "asian-fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fermented bean paste",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cheese (cheddar or mozzarella)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the ginger and garlic and stir-fry for 1 minute.",
+    "Add the mixed vegetables and stir-fry for 3-4 minutes or until they start to soften.",
+    "Add the fermented bean paste and stir-fry for another minute.",
+    "Add the light soy sauce and stir-fry for 30 seconds.",
+    "Add the cheese and stir-fry until it's melted and well combined with the vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the stir-fry to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "cheesy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-light-cozy-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:23:43.981Z"
+}
