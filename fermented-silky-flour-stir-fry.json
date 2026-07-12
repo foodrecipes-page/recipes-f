@@ -1,0 +1,60 @@
+{
+  "slug": "fermented-silky-flour-stir-fry",
+  "title": "Savory Stir-Fried Fermented Pancakes",
+  "description": "A crispy fermented pancake recipe with a silky twist, perfect for a satisfying snack. Serve as a side dish or a snack.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Silky Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine fermented flour and salt. Gradually add water and mix until a smooth batter forms.",
+    "Heat a non-stick pan over medium heat.",
+    "Pour 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the pancake and cook for another 1-2 minutes or until the other side is golden brown.",
+    "Repeat with the remaining batter, making 4-6 pancakes.",
+    "Serve the pancakes hot with your favorite stir-fry ingredients.",
+    "For the silky twist, whisk the egg and add it to the batter for an extra silky texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "snack",
+    "pancake",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-flour-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:26:21.599Z"
+}
