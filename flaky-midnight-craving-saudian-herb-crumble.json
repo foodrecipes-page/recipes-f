@@ -1,0 +1,67 @@
+{
+  "slug": "flaky-midnight-craving-saudian-herb-crumble",
+  "title": "Saudian Midnight Crumble",
+  "description": "A delicious dessert featuring a saudian-inspired midnight filling topped with a crumbly herb-infused crust.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry crust",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "midnight filling",
+      "amount": "2 cups",
+      "notes": "mix of dark berries"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "herb-infused sugar"
+    },
+    {
+      "name": "herb",
+      "amount": "2 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry crust and place in a baking dish.",
+    "In a separate bowl, mix the midnight filling and crumble topping.",
+    "Pour the midnight filling mixture over the pastry crust.",
+    "Sprinkle the crumble topping evenly over the filling.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Drizzle with caramel sauce, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "saudian",
+    "midnight",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-midnight-craving-saudian-herb-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:45:45.607Z"
+}
