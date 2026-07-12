@@ -1,0 +1,61 @@
+{
+  "slug": "floral-blaze-raw-wrap",
+  "title": "Wrap Delight",
+  "description": "A simple yet flavorful dish made with fresh wrap, raw ingredients, and a hint of floral essence.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh wrap",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "raw carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "raw bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "floral honey",
+      "amount": "1 tsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over low heat.",
+    "Place the wrap in the pan and warm it for 1-2 minutes.",
+    "Arrange the carrots and bell peppers on one half of the wrap.",
+    "Drizzle with floral honey and fold the wrap to enclose the filling.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "snack",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-blaze-raw-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:46:10.112Z"
+}
