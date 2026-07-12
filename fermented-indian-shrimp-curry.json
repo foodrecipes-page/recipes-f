@@ -1,0 +1,93 @@
+{
+  "slug": "fermented-indian-shrimp-curry",
+  "title": "Shrimp Curry",
+  "description": "A flavorful and spicy curry made with succulent shrimp, perfect for a weeknight dinner. This recipe combines the bold flavors of Indian cuisine with the richness of fermented elements.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fermented red chili peppers",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the onion, ginger, and garlic, and sauté until the onion is translucent.",
+    "Add the curry powder and fermented red chili peppers, and cook for 1 minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the coconut milk, tomatoes, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened.",
+    "Serve the shrimp curry over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "curry",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indian-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:15:15.028Z"
+}
