@@ -1,0 +1,92 @@
+{
+  "slug": "floral-chewy-venezuelan-chicken-bowl",
+  "title": "Venezuelan Chicken Bowl",
+  "description": "A flavorful and nutritious bowl dish inspired by Venezuelan cuisine, featuring tender chicken and a variety of colorful vegetables.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "floral rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chewy plantains",
+      "amount": "2",
+      "notes": "unripe"
+    },
+    {
+      "name": "veggie bowl seasoning",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat it dry with a paper towel. Season with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Sear the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and let it rest for a few minutes.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the diced red onion and cook for 3-4 minutes, or until softened.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Stir in the veggie bowl seasoning and cook for 1 minute.",
+    "Fluff the cooked floral rice with a fork and stir in the chopped cilantro.",
+    "To assemble the bowls, slice the cooked chicken breast and place it on top of the rice mixture.",
+    "Add the sautéed vegetables and sliced avocado to the bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "chicken",
+    "bowl",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-venezuelan-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:09:58.394Z"
+}
