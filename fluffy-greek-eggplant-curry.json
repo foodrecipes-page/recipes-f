@@ -1,0 +1,77 @@
+{
+  "slug": "fluffy-greek-eggplant-curry",
+  "title": "Greek Eggplant Curry",
+  "description": "A flavorful and healthy curry dish made with eggplant, Greek yogurt, and spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add sliced eggplant and cook until tender.",
+    "Mix in curry powder and cook for 1 minute.",
+    "Stir in Greek yogurt and cook until heated through.",
+    "Serve over fluffy rice.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggs",
+    "greek",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-greek-eggplant-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:51:48.032Z"
+}
