@@ -1,0 +1,62 @@
+{
+  "slug": "flaky-spicy-dutch-sourdough-flatbread",
+  "title": "Dutch Flatbread Sticks with Spicy Aioli",
+  "description": "A crispy flatbread snack topped with spicy aioli, inspired by Dutch flavors. Serve with your favorite dipping sauce.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 flatbreads)"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sour dough starter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spicy seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut flatbreads into strips (about 1 inch wide).",
+    "In a bowl, mix sour cream and sourdough starter.",
+    "Add spicy seasoning and flaky sea salt to the sour cream mixture.",
+    "Brush the flatbread strips with the spicy aioli mixture.",
+    "Bake for 10-12 minutes or until crispy and golden brown.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "snack",
+    "aioli",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-spicy-dutch-sourdough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:48:52.409Z"
+}
