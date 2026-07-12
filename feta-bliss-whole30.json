@@ -1,0 +1,82 @@
+{
+  "slug": "feta-bliss-whole30",
+  "title": "Whole30 Feta Stuffed Chicken",
+  "description": "A delicious and healthy Whole30 dish featuring chicken breast stuffed with feta cheese and herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Whole30 compliant"
+    },
+    {
+      "name": "Bliss",
+      "amount": "2 tbsp",
+      "notes": "Diced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the chicken breasts and pat them dry with paper towels.",
+    "In a small bowl, mix together the feta cheese, bliss, parsley, garlic, salt, and pepper.",
+    "Cut a horizontal slit in each chicken breast to create a pocket.",
+    "Stuff each chicken breast with the feta cheese mixture.",
+    "Drizzle the olive oil over the chicken breasts and rub to coat.",
+    "Place the chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "whole30",
+    "paleo",
+    "mediterranean",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/feta-bliss-whole30",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:42:09.556Z"
+}
