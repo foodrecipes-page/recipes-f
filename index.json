@@ -3457,16 +3457,14 @@
   },
   {
     "slug": "fermented-pecorino-crumble",
-    "title": "Fermented Pecorino Crumble",
+    "title": "Pecorino Panna Crumble",
     "tags": [
-      "fermented",
-      "crumbly",
-      "norwegian",
-      "sous-vide",
-      "fodmap-friendly"
+      "dessert",
+      "italian",
+      "cheesecake"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 90,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -8536,10 +8534,15 @@
   },
   {
     "slug": "flaky-spicy-dutch-sourdough-flatbread",
-    "title": "Flaky Spicy Dutch Sourdough Flatbread",
-    "tags": [],
+    "title": "Dutch Flatbread Sticks with Spicy Aioli",
+    "tags": [
+      "crispy",
+      "snack",
+      "aioli",
+      "dutch"
+    ],
     "cuisine": "Dutch",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -19971,18 +19974,15 @@
   },
   {
     "slug": "funky-crumbly-portuguese-anchovy-ceviche",
-    "title": "Funky Crumbly Portuguese Anchovy Ceviche",
+    "title": "Funky Anchovy Tapas",
     "tags": [
-      "adventurous",
-      "ceviche",
-      "fish-curry",
-      "high-protein",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "spanish",
+      "tapas",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
