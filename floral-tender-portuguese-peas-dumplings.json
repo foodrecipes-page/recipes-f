@@ -1,0 +1,68 @@
+{
+  "slug": "floral-tender-portuguese-peas-dumplings",
+  "title": "Delightful Portuguese Dumplings",
+  "description": "A hearty and flavorful Portuguese-inspired dish featuring tender dumplings and a variety of fresh ingredients.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "floral water",
+      "amount": "2 cups",
+      "notes": "used for dumpling dough"
+    },
+    {
+      "name": "tender all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "portuguese salt",
+      "amount": "1 teaspoon",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine floral water, tender all-purpose flour, and portuguese salt.",
+    "Knead the dough until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a few peas in the center of each dough circle.",
+    "Fold the dough over the peas to form a half-moon shape and press the edges together to seal.",
+    "Heat a large skillet over medium heat and cook the dumplings until they are golden brown on both sides.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "dumplings",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-tender-portuguese-peas-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:34:39.348Z"
+}
