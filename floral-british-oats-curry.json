@@ -1,0 +1,81 @@
+{
+  "slug": "floral-british-oats-curry",
+  "title": "British Oat Curry",
+  "description": "A hearty and flavorful British-inspired curry made with oats and a blend of spices. Perfect for a cold winter's day.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Floral Jasmine Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the curry powder and cumin and cook for 1 minute, stirring constantly.",
+    "Add the oats and cook for 2-3 minutes, stirring frequently.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the oats have absorbed most of the liquid and the mixture has thickened.",
+    "Season with salt to taste.",
+    "Serve the curry over jasmine rice, garnished with chopped cilantro.",
+    "Serve hot and enjoy!",
+    "Note: You can also add protein like chicken or tofu to make this a more substantial meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "curry",
+    "oat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-british-oats-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:44:07.794Z"
+}
