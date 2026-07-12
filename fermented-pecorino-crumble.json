@@ -1,0 +1,81 @@
+{
+  "slug": "fermented-pecorino-crumble",
+  "title": "Pecorino Panna Crumble",
+  "description": "A creamy dessert featuring sweetened cream, crunchy pecorino crumble, and a touch of fermented tanginess.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pecorino cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Fermented buttermilk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pecan flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pecorino crumble",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine heavy cream, granulated sugar, and salt. Cook over medium heat, stirring occasionally, until the sugar dissolves and the mixture simmers.",
+    "Remove the mixture from the heat and let it cool slightly. Stir in the fermented buttermilk and vanilla extract.",
+    "In a small bowl, whisk together the flour, pecan flour, and brown sugar.",
+    "Add the cold butter to the flour mixture and use a pastry blender or your fingers to work it into a crumbly mixture.",
+    "Stir in the pecorino crumble.",
+    "Spoon the cooled cream mixture into 4-6 ramekins or small baking dishes.",
+    "Top each ramekin with the crumble mixture.",
+    "Bake for 20-25 minutes, or until the topping is golden brown and the cream is set.",
+    "Serve warm, garnished with additional pecorino crumble if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "italian",
+    "cheesecake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-pecorino-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:47:01.322Z"
+}
