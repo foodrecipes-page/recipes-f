@@ -1,0 +1,76 @@
+{
+  "slug": "flambe-chinese-sugar-snap-peas-ma-la-tang-spring-rolls",
+  "title": "Crispy Spring Rolls with Sweet and Sour Sauce",
+  "description": "Crispy spring rolls filled with vegetables and served with a sweet and sour sauce made with flambe and sugar.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring rolls",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ma la sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "flambe",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "tang",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan over medium heat.",
+    "Add peas and cook until tender, about 2 minutes.",
+    "Add ma la sauce, sugar, and flambe to the pan and stir well.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 2 minutes.",
+    "Add spring rolls to the pan and cook until crispy, about 2-3 minutes per side.",
+    "Serve hot with sweet and sour sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spring-rolls",
+    "sweet-and-sour-sauce",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flambe-chinese-sugar-snap-peas-ma-la-tang-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:44:54.627Z"
+}
