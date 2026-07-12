@@ -1,0 +1,91 @@
+{
+  "slug": "fiery-smoky-peruvian-shrimp-chupe-de-camarones",
+  "title": "Peruvian Shrimp Stir Fry",
+  "description": "A flavorful and spicy stir fry dish from Peru, featuring succulent shrimp and a variety of local ingredients.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fiery Red Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Peruvian Aji Amarillo Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Chupe de Mariscos Broth",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Camarones Seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "De Arbol Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sliced red peppers and cook for 3-4 minutes, or until tender.",
+    "Add the ground paprika and cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Add the aji amarillo sauce, chupe de mariscos broth, and camaronese seasoning. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Add the cooked rice to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "If desired, sprinkle with de arbol chili flakes for extra heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "stir-fry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-smoky-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:27:30.510Z"
+}
