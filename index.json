@@ -2556,17 +2556,14 @@
   },
   {
     "slug": "fermented-gooey-adventurous-chinese-apple-stir-fry",
-    "title": "Fermented Gooey Adventurous Chinese Apple Stir-fry",
+    "title": "Fermented Apple Stir Fry",
     "tags": [
-      "fermented",
-      "gooey",
-      "adventurous",
       "chinese",
-      "stir-fry",
-      "apple"
+      "fermented",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -3152,14 +3149,15 @@
   },
   {
     "slug": "fermented-light-cozy-cheese-stir-fry",
-    "title": "Fermented Light Cozy Cheese Stir-fry",
+    "title": "Light and Cozy Cheesy Stir-Fry",
     "tags": [
-      "cozy",
-      "fermented",
-      "light"
+      "stir-fry",
+      "cheesy",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 18,
+    "cuisine": "asian-fusion",
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -10328,18 +10326,15 @@
   },
   {
     "slug": "floral-chewy-venezuelan-chicken-bowl",
-    "title": "Floral Chewy Venezuelan Chicken Bowl",
+    "title": "Venezuelan Chicken Bowl",
     "tags": [
-      "floral",
-      "chewy",
-      "nut-free",
-      "coconut-milk",
-      "sous-vide",
-      "latin-american",
-      "dinner"
+      "venezuelan",
+      "chicken",
+      "bowl",
+      "gluten-free"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 105,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -18741,16 +18736,14 @@
   },
   {
     "slug": "freshly-fried-irish-potato-stir-fry",
-    "title": "Freshly Fried Irish Potato Stir-fry",
+    "title": "Irish Potato Stir Fry",
     "tags": [
-      "freshly-fried",
-      "irish-dish",
+      "potato",
       "stir-fry",
-      "spicy",
-      "holiday-friendly"
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
