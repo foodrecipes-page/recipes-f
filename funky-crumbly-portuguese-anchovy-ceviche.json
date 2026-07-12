@@ -1,0 +1,62 @@
+{
+  "slug": "funky-crumbly-portuguese-anchovy-ceviche",
+  "title": "Funky Anchovy Tapas",
+  "description": "A Spanish-inspired snack that combines the flavors of funkiness with anchovies. Perfect for a dinner party or a quick snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Funky cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Crumbly crackers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Portuguese olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Anchovy fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Ceviche-grade fish (for garnish)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Arrange the crumbly crackers on a baking sheet.",
+    "Drizzle the Portuguese olive oil over the crackers and toast in the oven for 5 minutes.",
+    "Top each cracker with a slice of funky cheese and an anchovy fillet.",
+    "Serve immediately, garnished with ceviche-grade fish if desired.",
+    "Optional: serve with a side of mixed greens for a light salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "tapas",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-crumbly-portuguese-anchovy-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:25:56.440Z"
+}
