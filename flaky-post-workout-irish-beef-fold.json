@@ -1,0 +1,81 @@
+{
+  "slug": "flaky-post-workout-irish-beef-fold",
+  "title": "Irish Beef Fold Flaky Post Recipe",
+  "description": "A hearty and delicious meal made with tender beef, crispy flaky pastry, and a side of post-workout recovery food.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "sirloin steak"
+    },
+    {
+      "name": "post-workout recovery shake",
+      "amount": "1 cup",
+      "notes": "chocolate flavor"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flaky pastry to a thickness of 1/4 inch (6 mm).",
+    "Season the beef with salt, pepper, and black pepper.",
+    "Heat a large skillet over medium-high heat and sear the beef for 2-3 minutes per side.",
+    "Transfer the beef to a baking sheet and top with a pat of irish butter.",
+    "Place the beef in the oven and cook for 10-12 minutes or until cooked to desired level of doneness.",
+    "While the beef is cooking, mix the post-workout recovery shake according to package instructions.",
+    "Once the beef is done, let it rest for 5 minutes before slicing.",
+    "Serve the beef with a side of the post-workout recovery shake and a slice of flaky pastry.",
+    "Enjoy your delicious and satisfying Irish Beef Fold Flaky Post Recipe!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "pastry",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-post-workout-irish-beef-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:47:04.359Z"
+}
