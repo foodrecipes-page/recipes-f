@@ -1,0 +1,71 @@
+{
+  "slug": "flaky-buttery-uruguayan-one-pot-casserole",
+  "title": "Uruguayan Flaky Casserole",
+  "description": "A hearty, comforting dish inspired by Uruguayan cuisine, featuring flaky pastry and savory beef. Perfect for a cold winter's day.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (Uruguayan style ground beef)",
+      "amount": "1.5 pounds",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the cooked meat mixture to one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Dot the top of the meat mixture with melted butter.",
+    "Fold the other half of the pastry dough over the meat mixture and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the casserole on a baking sheet lined with parchment paper and bake for 35-40 minutes, or until the pastry is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "pastry",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-uruguayan-one-pot-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:13:43.973Z"
+}
