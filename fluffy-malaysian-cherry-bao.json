@@ -1,0 +1,80 @@
+{
+  "slug": "fluffy-malaysian-cherry-bao",
+  "title": "Malaysian Fluffy Bao",
+  "description": "A sweet and fluffy bao filled with a cherry compote, inspired by Malaysian flavors.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for bao dough"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "cherry",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "for cherry compote"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for bao dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing bao"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine fluffy, all-purpose flour, and yeast.",
+    "2. Gradually add water to the dry ingredients and mix until a dough forms.",
+    "3. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "5. Preheat a steamer or a pot with a steamer basket to cook the bao.",
+    "6. Divide the dough into 4 equal portions and shape each portion into a ball.",
+    "7. Flatten each ball into a disk and place it in the steamer basket.",
+    "8. Steam the bao for 10-12 minutes or until they are cooked through.",
+    "9. Meanwhile, combine cherry and sugar in a saucepan and cook over medium heat until the cherry releases its juice and the mixture thickens.",
+    "10. Brush the cooked bao with vegetable oil and split them open.",
+    "11. Fill each bao with cherry compote and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "bao",
+    "cherry",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-malaysian-cherry-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:30:10.689Z"
+}
