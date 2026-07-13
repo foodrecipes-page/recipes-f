@@ -1,0 +1,75 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--german",
+  "title": "Traditional German Borscht with Ukrainian Twist",
+  "description": "A hearty and flavorful beet-based soup with a hint of Ukrainian spices, inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "floral water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "cure salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the beets, carrots, and onion.",
+    "In a large pot, combine the chopped vegetables, floral water, and Ukrainian sausage.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add cure salt and stir to combine.",
+    "Let the soup cool, then refrigerate for at least 2 hours.",
+    "Stir in fresh dill and serve chilled, topped with a dollop of sour cream.",
+    "Serve hot or cold, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "beet",
+    "ukrainian",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:16:01.554Z"
+}
