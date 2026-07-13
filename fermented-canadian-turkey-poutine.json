@@ -1,0 +1,73 @@
+{
+  "slug": "fermented-canadian-turkey-poutine",
+  "title": "Canadian Poutine Stuffed Turkey Breast",
+  "description": "A twist on the classic poutine, this recipe stuffs a turkey breast with the flavors of poutine and fries.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 (1.5-2 pound) boneless, skinless breast"
+    },
+    {
+      "name": "Fermented cheese curds",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Homemade poutine gravy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fries",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the turkey breast with salt and pepper.",
+    "In a pan, cook the Canadian bacon until crispy.",
+    "Stuff the turkey breast with the poutine gravy, Canadian bacon, and shredded cheese curds.",
+    "Close the turkey breast and secure with kitchen twine.",
+    "Place the turkey in a roasting pan and bake for 45-50 minutes or until cooked through.",
+    "While the turkey is cooking, cook the fries in the oven until crispy.",
+    "Slice the turkey and serve with poutine gravy and crispy fries.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "poutine",
+    "turkey",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-canadian-turkey-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:22:05.278Z"
+}
