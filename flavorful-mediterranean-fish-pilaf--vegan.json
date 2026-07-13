@@ -1,0 +1,82 @@
+{
+  "slug": "flavorful-mediterranean-fish-pilaf--vegan",
+  "title": "Vegan Mediterranean Pilaf",
+  "description": "A flavorful and healthy pilaf dish made with Mediterranean spices and vegan ingredients.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add garlic powder and cook for 1 minute.",
+    "Add chickpeas, diced tomatoes, brown rice, oregano, and salt.",
+    "Stir to combine and cook for 2 minutes.",
+    "Add lemon juice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mediterranean",
+    "lunch",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-mediterranean-fish-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:42:34.458Z"
+}
