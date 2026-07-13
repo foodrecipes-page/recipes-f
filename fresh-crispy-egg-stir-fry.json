@@ -1,0 +1,70 @@
+{
+  "slug": "fresh-crispy-egg-stir-fry",
+  "title": "Crispy Egg Stir Fry",
+  "description": "A simple and quick egg stir fry made with fresh ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Fresh eggs"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a non-stick pan over medium heat.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced bell pepper and cook for 2-3 minutes.",
+    "Push the vegetables to one side of the pan.",
+    "Crack in the eggs and scramble them.",
+    "Mix the eggs with the vegetables.",
+    "Season with salt to taste.",
+    "Garnish with chopped green onions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "egg",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-egg-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:58:23.699Z"
+}
