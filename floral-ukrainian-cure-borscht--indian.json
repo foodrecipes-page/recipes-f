@@ -1,0 +1,86 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--indian",
+  "title": "Borscht Shorba",
+  "description": "A flavorful Indian-inspired soup blending the traditional Ukrainian beet-based borscht with a hint of floral notes.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Floral (Rose petals)",
+      "amount": "1/4 cup dried",
+      "notes": "optional"
+    },
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Borscht (beet base)",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté onions, garlic, and ginger until softened.",
+    "Add beets, lentils, and borscht. Cook for 2 minutes.",
+    "Pour in broth and bring to a boil.",
+    "Reduce heat and simmer for 30 minutes.",
+    "Add rose petals (if using).",
+    "Puree the soup with an immersion blender or regular blender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro or scallions (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "soup",
+    "beets",
+    "lentils",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:47:24.342Z"
+}
