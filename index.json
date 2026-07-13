@@ -16666,15 +16666,15 @@
   },
   {
     "slug": "fresh-crispy-egg-stir-fry",
-    "title": "Fresh Crispy Egg Stir-fry",
+    "title": "Crispy Egg Stir Fry",
     "tags": [
-      "fresh",
-      "crispy",
-      "ukrainian",
-      "egg"
+      "breakfast",
+      "easy",
+      "egg",
+      "stir-fry"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 15,
+    "cuisine": "Chinese",
+    "totalTimeMin": 13,
     "shard": "f"
   },
   {
@@ -21126,6 +21126,86 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--vegetarian",
+    "title": "Borscht Beet Salad",
+    "tags": [
+      "beet",
+      "ukrainian",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 20,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--indian",
+    "title": "Borscht Shorba",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "soup",
+      "beets",
+      "lentils",
+      "floral"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--chinese",
+    "title": "Beef and Floral Noodle Soup (Chinese-Inspired)",
+    "tags": [
+      "beef",
+      "soup",
+      "noodles",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--german",
+    "title": "Traditional German Borscht with Ukrainian Twist",
+    "tags": [
+      "soup",
+      "beet",
+      "ukrainian",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--gluten-free",
+    "title": "Borscht with a Twist",
+    "tags": [
+      "ukrainian",
+      "gluten-free",
+      "beets",
+      "soup"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--thai",
+    "title": "Spicy Borscht Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
     "shard": "f"
   }
 ]
