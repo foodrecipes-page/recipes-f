@@ -1,0 +1,58 @@
+{
+  "slug": "floral-monsoon-stoned-dates-flatbread",
+  "title": "Date Flatbread Bites",
+  "description": "Sweet and savory flatbread bites filled with dates and perfect as a snack or dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 cup, torn into bite-sized pieces"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup, pitted"
+    },
+    {
+      "name": "Monsoon",
+      "amount": "2 tablespoons, chopped fresh herbs (such as parsley or cilantro)"
+    },
+    {
+      "name": "Floral",
+      "amount": "1 tablespoon, honey"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the torn flatbread, pitted dates, and chopped monsoon herbs.",
+    "In a small bowl, mix together the floral honey and 1 tablespoon of water.",
+    "Pour the honey mixture over the flatbread mixture and toss until well combined.",
+    "Spoon the mixture into a mini muffin tin, pressing the mixture into the corners.",
+    "Bake for 12-15 minutes, or until the flatbread is crispy and golden brown.",
+    "Remove from the oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dates",
+    "flatbread",
+    "honey",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-monsoon-stoned-dates-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:17:31.166Z"
+}
