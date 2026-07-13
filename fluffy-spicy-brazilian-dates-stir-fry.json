@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-spicy-brazilian-dates-stir-fry",
+  "title": "Spicy Brazilian Stir Fry",
+  "description": "A spicy and flavorful stir fry dish inspired by Brazilian cuisine. Perfect for a quick and delicious meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "spicy stir-fry sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fluffy chicken breast",
+      "amount": "1 pound",
+      "notes": "boned and skinned"
+    },
+    {
+      "name": "brazilian spices",
+      "amount": "2 teaspoons",
+      "notes": "cumin, paprika, and salt"
+    }
+  ],
+  "instructions": [
+    "1. Cook fluffy rice according to package instructions.",
+    "2. In a separate pan, heat 1 tablespoon of oil over medium heat.",
+    "3. Add the brazilian spices and cook for 1 minute, until fragrant.",
+    "4. Add the fluffy chicken breast and cook until browned, about 5 minutes.",
+    "5. Add the pitted dates and cook for an additional 2 minutes.",
+    "6. Stir in the spicy stir-fry sauce and cook for 1 minute, until the sauce is bubbly.",
+    "7. Serve the chicken and date mixture over the cooked fluffy rice.",
+    "8. Garnish with additional dates and brazilian spices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-spicy-brazilian-dates-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:46:09.551Z"
+}
