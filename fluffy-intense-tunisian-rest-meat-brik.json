@@ -1,0 +1,80 @@
+{
+  "slug": "fluffy-intense-tunisian-rest-meat-brik",
+  "title": "Tunisian Meat Brik",
+  "description": "A traditional Tunisian dish featuring a crispy brik pastry filled with spiced meat, perfect for a snack or light meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky puff pastry (brik)",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Ground meat (beef or lamb)",
+      "amount": "500g",
+      "notes": "Mix of beef and lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tunisian spice mix (harissa)",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out squares of pastry, about 3 inches per side.",
+    "In a bowl, mix together ground meat, chopped onion, minced garlic, Tunisian spice mix, salt, and pepper.",
+    "Place a tablespoon of the meat mixture in the center of each pastry square.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the pastry in half to form a triangle, pressing the edges to seal.",
+    "Brush the tops of the brik with the remaining egg.",
+    "Bake for 20-25 minutes, or until crispy and golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "snack",
+    "meat",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-intense-tunisian-rest-meat-brik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:46:55.972Z"
+}
