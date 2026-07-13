@@ -1880,14 +1880,13 @@
     "slug": "fermented-croatian-cabbage-bake",
     "title": "Fermented Croatian Cabbage Bake",
     "tags": [
-      "croatian",
-      "fermented",
-      "one-pan",
-      "post-workout",
-      "sattvic"
+      "croatian-food",
+      "sidedish",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 60,
     "shard": "f"
   },
   {
@@ -5383,16 +5382,15 @@
   },
   {
     "slug": "fiery-post-workout-middle-eastern-lamb-harees",
-    "title": "Fiery Post-Workout Middle Eastern Lamb Harees",
+    "title": "Traditional Middle Eastern Harees",
     "tags": [
-      "high-protein",
-      "low-fat",
-      "middle-eastern",
-      "one-pan",
-      "post-workout"
+      "middle eastern",
+      "lamb",
+      "harees",
+      "ramadan"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 150,
     "shard": "f"
   },
   {
@@ -11644,20 +11642,14 @@
   },
   {
     "slug": "floral-irish-savoy-cabbage-grill",
-    "title": "Floral Irish Savoy Cabbage Grill",
+    "title": "Irish Savoy Cabbage Grill",
     "tags": [
-      "vegetarian",
-      "gluten-free",
-      "low-fat",
-      "irish",
-      "broil",
-      "savoy-cabbage",
-      "sick-day",
-      "floral",
-      "comfort-food"
+      "grilled-cabbage",
+      "irish-recipe",
+      "savoy-cabbage"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "cuisine": "irish",
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -11855,10 +11847,15 @@
   },
   {
     "slug": "floral-monsoon-stoned-dates-flatbread",
-    "title": "Floral Monsoon Stoned Dates Flatbread",
-    "tags": [],
-    "cuisine": "croatian",
-    "totalTimeMin": null,
+    "title": "Date Flatbread Bites",
+    "tags": [
+      "dates",
+      "flatbread",
+      "honey",
+      "herbs"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -12567,17 +12564,16 @@
   },
   {
     "slug": "fluffy-brazilian-pears-toast",
-    "title": "Fluffy Brazilian Pear Toast",
+    "title": "Brazilian Pears Toast",
     "tags": [
-      "brazilian",
       "breakfast",
-      "fluffy",
+      "brunch",
       "pear",
-      "toast",
-      "vegan"
+      "cinnamon",
+      "toast"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 8,
     "shard": "f"
   },
   {
