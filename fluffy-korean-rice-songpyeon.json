@@ -1,0 +1,72 @@
+{
+  "slug": "fluffy-korean-rice-songpyeon",
+  "title": "Korean-Style Songpyeon",
+  "description": "A traditional Korean holiday rice cake filled with sweet fillings, typically steamed over a pot of boiling water.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Korean salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Songpyeon filling (sweet bean paste)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour, Korean salt, and sesame oil in a large mixing bowl.",
+    "Gradually add in water and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small balls.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a small amount of Songpyeon filling in the center of each dough circle.",
+    "Fold the dough over the filling and shape into a triangle.",
+    "Repeat with the remaining dough and filling.",
+    "Steam the Songpyeon over a pot of boiling water for 10-15 minutes.",
+    "Serve warm and dust with sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "dessert",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-korean-rice-songpyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:52:19.454Z"
+}
