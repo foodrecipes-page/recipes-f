@@ -1,0 +1,73 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--chinese",
+  "title": "Beef and Floral Noodle Soup (Chinese-Inspired)",
+  "description": "A hearty and flavorful soup infused with floral notes, inspired by Chinese cuisine. This comforting dish is perfect for a chilly evening.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floral",
+      "amount": "2 cups",
+      "notes": "dried flowers and herbs"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "sirloin, sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice-based, gluten-free"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "Add the floral mixture and cook for an additional 2 minutes.",
+    "Add the noodles and cook according to package instructions.",
+    "Stir in soy sauce and sugar (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional floral notes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "soup",
+    "noodles",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:04:49.965Z"
+}
