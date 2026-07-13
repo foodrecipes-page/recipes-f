@@ -1,0 +1,56 @@
+{
+  "slug": "floral-irish-savoy-cabbage-grill",
+  "title": "Irish Savoy Cabbage Grill",
+  "description": "A hearty and flavorful dish that combines the earthy taste of savoy cabbage with the sweetness of irish ingredients.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "floral honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the grill to medium-high heat.",
+    "Remove tough outer leaves from the savoy cabbage head and separate into individual leaves.",
+    "Brush the grill with irish butter to prevent sticking.",
+    "Add grill seasoning to the leaves and toss to coat.",
+    "Grill the cabbage leaves for 3-4 minutes per side, or until tender and slightly charred.",
+    "Drizzle with floral honey before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cabbage",
+    "irish-recipe",
+    "savoy-cabbage"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-irish-savoy-cabbage-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:24:38.617Z"
+}
