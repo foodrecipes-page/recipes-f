@@ -1,0 +1,78 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--italian",
+  "title": "Italian Borscht Risotto",
+  "description": "A unique twist on the classic Italian risotto, incorporating the flavors of Ukrainian borscht. This hearty dish is perfect for a cold winter night.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Floral Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cure Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Borscht Mix",
+      "amount": "2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef broth and bring to a simmer.",
+    "Add the borscht mix and cook according to the package instructions.",
+    "Add the floral rice to the saucepan and cook according to the package instructions.",
+    "Stir in the shaved parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "borscht"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:28:04.963Z"
+}
