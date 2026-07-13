@@ -1,0 +1,68 @@
+{
+  "slug": "fermented-light-korean-date-stir-fry",
+  "title": "Korean-Style Stir Fried Beef with Dates",
+  "description": "A sweet and savory stir fry made with marinated beef, fermented Korean chili flakes, and caramelized dates.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "1 lb (450g)",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup (120g)",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp (30ml)",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fermented Korean chili flakes (gochugaru)",
+      "amount": "1 tsp (5g)",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cooking oil (vegetable or peanut oil)",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for stir frying"
+    }
+  ],
+  "instructions": [
+    "Heat the cooking oil in a large skillet or wok over medium-high heat.",
+    "Add the beef to the skillet and cook until browned, about 3-4 minutes. Remove the beef from the skillet and set aside.",
+    "Add the sliced dates to the skillet and cook until caramelized, about 2-3 minutes.",
+    "Add the light soy sauce and fermented Korean chili flakes to the skillet and stir to combine.",
+    "Return the beef to the skillet and stir to combine with the soy sauce and chili flakes.",
+    "Cook for an additional 1-2 minutes, until the beef is cooked to your desired level of doneness.",
+    "Serve the Korean-Style Stir Fried Beef with Dates hot, garnished with sliced green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "beef",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-light-korean-date-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:51:04.445Z"
+}
