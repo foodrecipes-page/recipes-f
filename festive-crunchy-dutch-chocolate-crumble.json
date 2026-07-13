@@ -1,0 +1,87 @@
+{
+  "slug": "festive-crunchy-dutch-chocolate-crumble",
+  "title": "Dutch Apple Chocolate Crumble",
+  "description": "A twist on the classic apple crumble with a rich chocolate topping, perfect for a festive dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "6-8",
+      "notes": "mix of sweet and tart varieties"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup",
+      "notes": "dark or milk chocolate, whichever you prefer"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "for the apple filling"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "for the apple filling"
+    },
+    {
+      "name": "crunchy oat topping",
+      "amount": "1 cup",
+      "notes": "optional, for added crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "Mix the sliced apples with cinnamon and nutmeg in a large bowl.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the flour, brown sugar, and cold butter until crumbly.",
+    "Add the chocolate chips to the crumble topping and mix until well combined.",
+    "Spread the crumble topping evenly over the apple filling.",
+    "Bake for 40-45 minutes or until the topping is golden brown and the apples are tender.",
+    "If using crunchy oat topping, sprinkle over the crumble before baking.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "6-8",
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "apple",
+    "chocolate",
+    "crumble",
+    "festive",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-crunchy-dutch-chocolate-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:55:24.402Z"
+}
