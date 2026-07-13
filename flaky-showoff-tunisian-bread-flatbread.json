@@ -1,0 +1,64 @@
+{
+  "slug": "flaky-showoff-tunisian-bread-flatbread",
+  "title": "Tunisian Flatbread",
+  "description": "A simple yet flavorful flatbread originating from Tunisia, perfect for accompanying meals or as a snack.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "1 cup",
+      "notes": "crusty, day-old bread"
+    },
+    {
+      "name": "Flaky",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "Showoff",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine Tunisian and bread.",
+    "Add flaky and mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush with showoff.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "north-african",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-showoff-tunisian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:10:56.668Z"
+}
