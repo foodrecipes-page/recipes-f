@@ -1,0 +1,81 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--vegetarian",
+  "title": "Borscht Beet Salad",
+  "description": "A twist on the traditional ukrainian beet soup, this salad is a refreshing vegetarian take on the classic dish.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "floral watercress",
+      "amount": "4 cups",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "borscht",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine diced beets and chopped watercress.",
+    "In a small bowl, whisk together borscht, apple cider vinegar, and olive oil.",
+    "Pour the borscht mixture over the beet and watercress mixture.",
+    "Toss to combine and season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled and garnish with additional watercress if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beet",
+    "ukrainian",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:41:44.468Z"
+}
