@@ -1,0 +1,67 @@
+{
+  "slug": "fresh-crispy-dutch-toor-dal-dal",
+  "title": "Crispy Dutch-Style Toor Dal Fritters",
+  "description": "A flavorful and crispy snack made with toor dal, inspired by Dutch culinary techniques. Perfect for a quick snack or appetizer.",
+  "cuisine": "Dutch-Indian Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dutch-Style All-Purpose Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine toor dal, Dutch-Style flour, cilantro, crispy onions, salt, and baking powder.",
+    "2. Mix well to combine.",
+    "3. Gradually add water to form a thick batter.",
+    "4. Heat oil in a deep frying pan or a deep fryer to 350°F (180°C).",
+    "5. Using a spoon, drop small balls of the batter into the hot oil.",
+    "6. Fry for 4-5 minutes or until golden brown.",
+    "7. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "8. Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-dutch-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:18:52.472Z"
+}
