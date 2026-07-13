@@ -1,0 +1,71 @@
+{
+  "slug": "fluffy-lazy-ukrainian-green-red-lentils-pilaf",
+  "title": "Ukrainian Lentil Pilaf",
+  "description": "Hearty and flavorful, this Ukrainian-inspired lentil pilaf is a comforting meal for any time of day.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fluffy pilaf rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced red onion and cook until softened, about 5 minutes.",
+    "Add the sliced green carrots and cook for an additional 5 minutes.",
+    "Add the lentils and pilaf rice to the saucepan, stirring to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the water has been absorbed and the lentils and rice are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentils",
+    "pilaf",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-lazy-ukrainian-green-red-lentils-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:31:59.994Z"
+}
