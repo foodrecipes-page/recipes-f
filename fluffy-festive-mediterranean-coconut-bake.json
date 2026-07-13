@@ -1,0 +1,94 @@
+{
+  "slug": "fluffy-festive-mediterranean-coconut-bake",
+  "title": "Coconut Fluffy Bake",
+  "description": "A sweet and festive dessert that combines fluffy coconut and Mediterranean flavors in a delightful bake.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bake",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "festival",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "dairy or non-dairy"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp",
+      "notes": "extract"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, whisk together the fluffy, bake, Mediterranean, and festival ingredients.",
+    "In a separate bowl, whisk together the sugar, eggs, milk, coconut oil, and vanilla.",
+    "Add the wet ingredients to the dry ingredients and mix until combined.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "fluffy",
+    "bake",
+    "mediterranean",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-festive-mediterranean-coconut-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:36:51.872Z"
+}
