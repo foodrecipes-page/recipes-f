@@ -3325,21 +3325,15 @@
   },
   {
     "slug": "fermented-middle-eastern-padron-pepper-pilaf",
-    "title": "Fermented Middle Eastern Padron Pepper Pilaf",
+    "title": "Grilled Padron Peppers with Pilaf",
     "tags": [
-      "fermented",
+      "grilled",
+      "peppers",
       "pilaf",
-      "padron-pepper",
-      "meal-prep",
-      "middle-eastern",
-      "rice",
-      "vegetarian",
-      "fluffy",
-      "steamed",
-      "mediterranean"
+      "middle-eastern"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -4422,14 +4416,17 @@
   },
   {
     "slug": "festive-crunchy-dutch-chocolate-crumble",
-    "title": "Festive Crunchy Dutch Chocolate Crumble",
+    "title": "Dutch Apple Chocolate Crumble",
     "tags": [
+      "dutch",
+      "apple",
+      "chocolate",
+      "crumble",
       "festive",
-      "dutch-chocolate",
-      "crumble"
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
     "shard": "f"
   },
   {
@@ -14754,15 +14751,14 @@
   },
   {
     "slug": "fluffy-spicy-brazilian-dates-stir-fry",
-    "title": "Fluffy Spicy Brazilian Dates Stir-fry",
+    "title": "Spicy Brazilian Stir Fry",
     "tags": [
-      "fluffy",
-      "savory",
       "brazilian",
-      "snack"
+      "stir-fry",
+      "spicy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 17,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
