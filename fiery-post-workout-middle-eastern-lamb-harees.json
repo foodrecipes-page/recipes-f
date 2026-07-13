@@ -1,0 +1,82 @@
+{
+  "slug": "fiery-post-workout-middle-eastern-lamb-harees",
+  "title": "Traditional Middle Eastern Harees",
+  "description": "A classic Middle Eastern dish made with slow-cooked wheat and meat, typically served during Ramadan. This recipe serves 4-6 people and is perfect for a hearty meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "wheat",
+      "amount": "2 cups",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking the wheat"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "for frying the onions"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pot over medium heat.",
+    "Add the chopped onion and cook until golden brown.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb pieces and cook until browned.",
+    "Add the broken wheat, water, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Stir occasionally to prevent the wheat from sticking to the bottom of the pot.",
+    "Once the wheat is cooked and the liquid has been absorbed, fluff the harees with a fork.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "lamb",
+    "harees",
+    "ramadan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-post-workout-middle-eastern-lamb-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:00:07.702Z"
+}
