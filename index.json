@@ -21048,5 +21048,84 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "flavorful-mediterranean-fish-pilaf--vegan",
+    "title": "Vegan Mediterranean Pilaf",
+    "tags": [
+      "vegan",
+      "mediterranean",
+      "lunch",
+      "pilaf"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--french",
+    "title": "Borscht French Fusion",
+    "tags": [
+      "beets",
+      "borscht",
+      "french",
+      "lunch",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--japanese",
+    "title": "Floral Ukrainian Borscht Ramen",
+    "tags": [
+      "japanese",
+      "ukrainian",
+      "fusion",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--keto",
+    "title": "Keto Borscht Stew",
+    "tags": [
+      "keto",
+      "beef",
+      "beets",
+      "soup"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--vegan",
+    "title": "Borscht Beet Soup",
+    "tags": [
+      "vegan",
+      "soup",
+      "beets"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-ukrainian-cure-borscht--italian",
+    "title": "Italian Borscht Risotto",
+    "tags": [
+      "italian",
+      "risotto",
+      "borscht"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "f"
   }
 ]
