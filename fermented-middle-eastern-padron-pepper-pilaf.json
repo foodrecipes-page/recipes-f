@@ -1,0 +1,70 @@
+{
+  "slug": "fermented-middle-eastern-padron-pepper-pilaf",
+  "title": "Grilled Padron Peppers with Pilaf",
+  "description": "A simple Middle Eastern-inspired dish featuring grilled Padron peppers served with a flavorful pilaf.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "4-6",
+      "notes": "any color"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fermented pepper paste",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Middle eastern spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Brush the Padron peppers with olive oil and season with salt.",
+    "3. Grill the peppers for 3-4 minutes per side, or until charred.",
+    "4. Meanwhile, heat 1 tablespoon of olive oil in a pan over medium heat.",
+    "5. Add 1 teaspoon of fermented pepper paste and 1 teaspoon of Middle Eastern spice blend.",
+    "6. Stir to combine and cook for 1-2 minutes.",
+    "7. Add 1 cup of pilaf to the pan and stir to combine.",
+    "8. Cook for 1-2 minutes, or until heated through.",
+    "9. Serve the grilled Padron peppers with the pilaf mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "peppers",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-middle-eastern-padron-pepper-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:22:32.617Z"
+}
