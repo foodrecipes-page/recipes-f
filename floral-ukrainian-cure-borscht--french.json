@@ -1,0 +1,91 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--french",
+  "title": "Borscht French Fusion",
+  "description": "A French twist on the classic Ukrainian beet soup, with a floral touch.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups, peeled and chopped",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "borscht",
+      "amount": "1 cup, store-bought or homemade",
+      "notes": null
+    },
+    {
+      "name": "floral salt",
+      "amount": "1 tsp",
+      "notes": "such as dried lavender or rose petals"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cured bacon",
+      "amount": "4 slices, diced",
+      "notes": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup, halved",
+      "notes": null
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the cured bacon in a large pot over medium heat until crispy.",
+    "Remove the bacon from the pot, leaving the grease behind.",
+    "Add the chopped onions to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped beets, borscht, and floral salt to the pot. Stir to combine.",
+    "Pour in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the soup simmer for 20 minutes, or until the beets are tender.",
+    "Stir in the chopped fresh dill and season with salt and pepper to taste.",
+    "Serve the soup hot, garnished with additional fresh dill and crispy cured bacon if desired.",
+    "Optional: Serve with a dollop of sour cream or a sprinkle of chopped fresh herbs.",
+    "Note: If using dried herbs, use 1/2 the amount called for and adjust to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "borscht",
+    "french",
+    "lunch",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:45:29.555Z"
+}
