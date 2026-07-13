@@ -1,0 +1,60 @@
+{
+  "slug": "fluffy-canadian-garlic-stir-fry",
+  "title": "Canadian Stir Fry",
+  "description": "A quick and flavorful stir fry recipe using Canadian bacon and fluffy rice.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the Canadian bacon and cook until browned, about 3-4 minutes.",
+    "Add the garlic and pepper to the wok.",
+    "Cook for an additional 1 minute.",
+    "Add the fluffy rice to the wok and stir-fry for 2-3 minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-canadian-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:41:13.907Z"
+}
