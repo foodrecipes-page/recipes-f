@@ -1,0 +1,79 @@
+{
+  "slug": "fatty-tender-turkish-corn-flour-lahmacun",
+  "title": "Turkish-Style Lahmacun",
+  "description": "A traditional Turkish dish, this lahmacun recipe features a crispy crust topped with spiced minced meat and onions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fatty ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "lahmacun dough",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "corn",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Roll out the lahmacun dough into a 12-inch circle.",
+    "Place the dough on a baking sheet.",
+    "In a bowl, mix together the ground beef, onion, corn, and red pepper flakes.",
+    "Spread the meat mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling to form a crust.",
+    "Bake the lahmacun in the preheated oven for 12-15 minutes, or until the crust is golden brown.",
+    "Remove the lahmacun from the oven and let it cool for 2-3 minutes.",
+    "Slide the lahmacun onto a plate and serve hot.",
+    "Cut the lahmacun into wedges and serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lahmacun",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-tender-turkish-corn-flour-lahmacun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:45:23.473Z"
+}
