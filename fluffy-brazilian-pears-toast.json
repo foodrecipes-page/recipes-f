@@ -1,0 +1,58 @@
+{
+  "slug": "fluffy-brazilian-pears-toast",
+  "title": "Brazilian Pears Toast",
+  "description": "A simple and delicious breakfast recipe featuring toasted bread, sweet pears, and a hint of Brazilian flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "2 slices of bread"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tsp of cinnamon"
+    },
+    {
+      "name": "pears",
+      "amount": "2 medium ripe pears"
+    },
+    {
+      "name": "toast",
+      "amount": "None (using fluffy)"
+    }
+  ],
+  "instructions": [
+    "1. Toast the fluffy bread until it's lightly browned.",
+    "2. Core the pears and slice them into thin wedges.",
+    "3. Sprinkle the cinnamon over the toasted bread.",
+    "4. Arrange the pear slices on top of the bread.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "pear",
+    "cinnamon",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-brazilian-pears-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:16:04.454Z"
+}
