@@ -1,0 +1,83 @@
+{
+  "slug": "floral-ukrainian-cure-borscht--thai",
+  "title": "Spicy Borscht Stir Fry",
+  "description": "A twist on traditional Thai cuisine, this spicy stir fry combines the flavors of Ukraine with fresh Thai ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borscht",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "floral rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cure (fish sauce)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok or large skillet over medium-high heat.",
+    "Add the Thai red chili peppers and cook for 2 minutes.",
+    "Add the onion and garlic and cook for another 2 minutes.",
+    "Add the borscht and stir-fry for 3-4 minutes.",
+    "Add the floral rice vinegar, cure, and Thai basil.",
+    "Stir-fry for another minute and serve hot.",
+    "Serve with steamed rice or noodles.",
+    "Garnish with additional Thai basil and chili peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:34:41.074Z"
+}
