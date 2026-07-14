@@ -1,0 +1,103 @@
+{
+  "slug": "flavorful-indian-chicken-thali",
+  "title": "Chicken Thali",
+  "description": "A traditional Indian thali dish featuring flavorful chicken and variety of sides.",
+  "cuisine": "Indian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Roasted naan",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber raita",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mix of cumin seeds, coriander powder, red chili powder, and garam masala for 30 minutes.",
+    "Heat oil in a pan and sauté the onion, ginger, and garlic until softened.",
+    "Add the marinated chicken and cook until browned. Add coconut milk and simmer until the chicken is cooked.",
+    "Cook the basmati rice according to package instructions.",
+    "Warm the naan in the oven and serve with melted butter.",
+    "Mix together yogurt and cucumber for the raita.",
+    "Assemble the thali by placing the chicken, rice, naan, and raita on a platter.",
+    "Garnish with cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "thali",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-indian-chicken-thali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:59:53.261Z"
+}
