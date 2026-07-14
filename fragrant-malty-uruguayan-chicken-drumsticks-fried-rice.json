@@ -1,0 +1,73 @@
+{
+  "slug": "fragrant-malty-uruguayan-chicken-drumsticks-fried-rice",
+  "title": "Uruguayan Fried Chicken and Rice",
+  "description": "A flavorful and spicy Uruguayan-inspired fried chicken dish served with a side of savory rice.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "4-6",
+      "notes": "bone-in"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "malty",
+      "amount": "1 tsp",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "fragrant",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a large skillet to 375°F (190°C).",
+    "In a separate bowl, mix together paprika, brown sugar, and cumin.",
+    "Dredge chicken drumsticks in the spice mixture, shaking off excess.",
+    "Carefully place the coated chicken in the preheated oil and fry for 8-10 minutes or until golden brown.",
+    "Remove the fried chicken from the oil and place on paper towels to drain excess oil.",
+    "Cook the rice according to package instructions.",
+    "Serve the fried chicken with a side of cooked rice and your choice of sides.",
+    "Optional: garnish with chopped fresh herbs like parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "uruguayan",
+    "fried",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 42,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-malty-uruguayan-chicken-drumsticks-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:04:52.530Z"
+}
