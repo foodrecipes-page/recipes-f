@@ -1,0 +1,71 @@
+{
+  "slug": "fresh-festive-irish-mung-bean-sprout-stew",
+  "title": "Colcannon with Irish Sausages",
+  "description": "A hearty and flavorful colcannon dish made with Irish sausages, mashed potatoes, and fresh sprouts. Perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausages",
+      "amount": "4",
+      "notes": "look for nitrate-free options"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 lbs",
+      "notes": "preferably Russet or Idaho"
+    },
+    {
+      "name": "sprouts (fresh)",
+      "amount": "1 bunch",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "mung bean stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "festival bread (optional)",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cook the Irish sausages in a pan over medium-high heat until browned on all sides. Remove from heat and set aside.",
+    "3. Boil the mashed potatoes until tender. Drain and mash with butter and milk.",
+    "4. Heat the mung bean stew in a separate pan over medium heat.",
+    "5. Sauté the fresh sprouts in butter until tender and slightly browned.",
+    "6. To assemble the colcannon, place a layer of mashed potatoes in the bottom of a serving dish.",
+    "7. Add a layer of cooked sausages on top of the potatoes.",
+    "8. Spoon the mung bean stew over the sausages.",
+    "9. Garnish with sautéed sprouts and serve hot.",
+    "10. Offer festival bread on the side for dipping in the stew, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "colcannon",
+    "irish-sausage",
+    "mashed-potatoes",
+    "sprouts"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-festive-irish-mung-bean-sprout-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:26.232Z"
+}
