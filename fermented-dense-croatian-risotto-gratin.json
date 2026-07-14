@@ -1,0 +1,90 @@
+{
+  "slug": "fermented-dense-croatian-risotto-gratin",
+  "title": "Croatian Risotto Gratin",
+  "description": "A creamy risotto topped with a crispy gratin crust, inspired by Croatian cuisine. This dish is perfect for a comforting dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Risotto",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1L",
+      "notes": ""
+    },
+    {
+      "name": "Dense Croatska Smetana",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat.",
+    "Add the risotto and cook for 2-3 minutes, stirring constantly.",
+    "Add the beef stock, one ladle at a time, stirring continuously.",
+    "When the risotto is cooked, stir in the Croatian Smetana and Parmesan Cheese.",
+    "Transfer the risotto to a baking dish and top with a layer of grated cheese.",
+    "Bake in a preheated oven at 180°C for 15-20 minutes, or until golden brown.",
+    "While the risotto is baking, mix the fermented paprika with a little water to create a paste.",
+    "Brush the paste over the top of the gratin during the last 5 minutes of baking.",
+    "Remove from the oven and sprinkle with parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "gratin",
+    "croatian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-croatian-risotto-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:31:17.349Z"
+}
