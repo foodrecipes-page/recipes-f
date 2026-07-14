@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-fluffy-adventurous-spring-onion-stir-fry",
+  "title": "Spring Stir Fry",
+  "description": "A quick and easy spring-inspired stir fry made with fluffy onions and a variety of seasonal ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "spring onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup",
+      "notes": "such as kimchi"
+    },
+    {
+      "name": "adventurous spice blend",
+      "amount": "1 tsp",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tbsp",
+      "notes": "such as vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat the cooking oil in a large skillet over medium-high heat.",
+    "Add the sliced fluffy onion and cook for 3-4 minutes, until translucent.",
+    "Add the chopped spring onion and cook for another 2-3 minutes.",
+    "Add the fermented vegetables and adventurous spice blend, and stir-fry for 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-fluffy-adventurous-spring-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:42:55.515Z"
+}
