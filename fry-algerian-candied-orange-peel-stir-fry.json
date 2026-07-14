@@ -1,0 +1,70 @@
+{
+  "slug": "fry-algerian-candied-orange-peel-stir-fry",
+  "title": "Crispy Orange Candied Peel",
+  "description": "A sweet and crunchy snack made by candying orange peel and frying it until crispy.",
+  "cuisine": "western",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Orange Peel",
+      "amount": "1 cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the orange and cut it into thin strips.",
+    "Combine the sugar and water in a saucepan and bring to a boil.",
+    "Add the orange peel strips to the sugar syrup and cook for 10-15 minutes or until the peel is tender and lightly caramelized.",
+    "Remove the peel from the syrup with a slotted spoon and let it cool on a wire rack.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Fry the candied orange peel in batches until crispy and golden brown.",
+    "Drain the fried peel on paper towels and sprinkle with salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "orange",
+    "candied",
+    "peel",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0.5,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fry-algerian-candied-orange-peel-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:42:24.265Z"
+}
