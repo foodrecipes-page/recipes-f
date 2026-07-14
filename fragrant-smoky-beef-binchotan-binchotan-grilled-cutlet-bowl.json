@@ -1,0 +1,86 @@
+{
+  "slug": "fragrant-smoky-beef-binchotan-binchotan-grilled-cutlet-bowl",
+  "title": "Grilled Binchotan Beef Cutlet Bowl",
+  "description": "A hearty bowl dish featuring a smoky grilled beef cutlet, served with a fragrant sauce and garnished with grilled vegetables.",
+  "cuisine": "Japanese-Inspired",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "4 oz",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "or substitute with other high-heat charcoal"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan charcoal grill to 400°F (200°C).",
+    "Season beef cutlet with salt and pepper.",
+    "Grill beef cutlet for 4-5 minutes per side, or until it reaches 130°F (54°C) for medium-rare.",
+    "Let the beef rest for 5 minutes before slicing it thinly against the grain.",
+    "In a small saucepan, whisk together soy sauce, honey, rice vinegar, sesame oil, and grated ginger.",
+    "Bring the sauce to a simmer over medium heat and cook for 2-3 minutes, or until it thickens slightly.",
+    "To assemble the bowl, place a portion of the sliced beef on a bed of greens, then drizzle with the fragrant sauce.",
+    "Garnish with chopped green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "beef",
+    "binchotan",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-smoky-beef-binchotan-binchotan-grilled-cutlet-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:14.393Z"
+}
