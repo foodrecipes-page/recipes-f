@@ -1,0 +1,89 @@
+{
+  "slug": "fluffy-filipino-medjool-date-cake",
+  "title": "Filipino-Style Date Cake",
+  "description": "A moist and flavorful cake infused with the sweetness of dates and the warmth of Filipino spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "medjool dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fluffy cake mix",
+      "amount": "1 package",
+      "notes": "follow package instructions"
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": "large eggs"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease a 9x13-inch baking dish.",
+    "In a blender or food processor, puree the pitted dates until smooth.",
+    "In a large mixing bowl, combine the fluffy cake mix, eggs, coconut milk, vegetable oil, vanilla extract, and baking powder. Mix until well combined.",
+    "Add the date puree to the cake mixture and mix until smooth.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Once the cake is cool, you can frost it with your favorite frosting or glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "cake",
+    "dessert",
+    "date"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-filipino-medjool-date-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:16:35.243Z"
+}
