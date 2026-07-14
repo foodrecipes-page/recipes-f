@@ -1,86 +1,86 @@
 {
   "slug": "floral-ukrainian-cure-borscht--indian",
-  "title": "Borscht Shorba",
-  "description": "A flavorful Indian-inspired soup blending the traditional Ukrainian beet-based borscht with a hint of floral notes.",
+  "title": "Borscht Roulade with Floral Chutney",
+  "description": "A twist on traditional Indian cuisine, this recipe combines the flavors of borscht with the freshness of floral notes. A perfect vegetarian dish for special occasions.",
   "cuisine": "indian",
   "diet": [
     "vegetarian"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Beets",
-      "amount": "2 medium",
-      "notes": null
+      "name": "Floral Chutney",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "Onions",
-      "amount": "1 large",
-      "notes": null
+      "name": "Ukrainian Borscht",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves",
-      "notes": null
-    },
-    {
-      "name": "Ginger",
-      "amount": "1-inch piece",
-      "notes": null
-    },
-    {
-      "name": "Floral (Rose petals)",
-      "amount": "1/4 cup dried",
+      "name": "Cure",
+      "amount": "1 tsp",
       "notes": "optional"
     },
     {
-      "name": "Red Lentils",
-      "amount": "1 cup",
-      "notes": null
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
     },
     {
-      "name": "Vegetable Broth",
-      "amount": "4 cups",
-      "notes": null
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
     },
     {
-      "name": "Borscht (beet base)",
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
       "amount": "2 tbsp",
-      "notes": null
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
     }
   ],
   "instructions": [
-    "Heat oil in a large pot over medium heat.",
-    "Sauté onions, garlic, and ginger until softened.",
-    "Add beets, lentils, and borscht. Cook for 2 minutes.",
-    "Pour in broth and bring to a boil.",
-    "Reduce heat and simmer for 30 minutes.",
-    "Add rose petals (if using).",
-    "Puree the soup with an immersion blender or regular blender.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped cilantro or scallions (if desired)."
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, mix together Floral Chutney and Lime Juice.",
+    "Unroll the Ukrainian Borscht and spread the Floral Chutney mixture evenly.",
+    "Sprinkle grated Ginger and chopped Cilantro over the Chutney.",
+    "Roll the Borscht into a tight log and brush with Vegetable Oil.",
+    "Place the log on a baking sheet, seam-side down, and bake for 20-25 minutes.",
+    "While the Borscht is baking, heat 1 tsp of Vegetable Oil in a pan over medium heat.",
+    "Add chopped Red Onion and cook until translucent, about 5 minutes.",
+    "Add Cure (if using) and cook for an additional minute.",
+    "Remove the Borscht from the oven and serve with the onion mixture.",
+    "Garnish with additional Cilantro, if desired."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 30,
-  "totalTimeMin": 50,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "indian",
     "vegetarian",
-    "soup",
-    "beets",
-    "lentils",
-    "floral"
+    "main-course",
+    "borscht"
   ],
   "nutrition": {
-    "calories": 220,
+    "calories": 250,
     "protein": 10,
-    "carbs": 35,
-    "fat": 8
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--indian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-12T04:47:24.342Z"
+  "createdAt": "2026-07-12T06:45:05.107Z"
 }
