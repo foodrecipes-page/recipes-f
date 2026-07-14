@@ -1,0 +1,86 @@
+{
+  "slug": "flaky-fresh-argentinian-pasta-empanadas",
+  "title": "Empanada Pasta Bake",
+  "description": "A savory empanada-inspired pasta bake with a flaky crust and a fusion of Argentine flavors.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky Pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Cooked and seasoned"
+    },
+    {
+      "name": "Empanada Filling",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta al dente and set aside.",
+    "In a large skillet, heat olive oil and cook the ground beef until browned.",
+    "Add diced onions and bell peppers to the skillet and cook until tender.",
+    "Stir in the empanada filling and cook for an additional 2-3 minutes.",
+    "In a large bowl, combine cooked pasta, beef mixture, and shredded cheese.",
+    "Transfer the mixture to a baking dish and top with additional cheese.",
+    "Bake for 15-20 minutes or until golden brown and bubbly.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fresh-argentinian-pasta-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:56:41.017Z"
+}
