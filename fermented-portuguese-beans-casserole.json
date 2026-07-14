@@ -1,0 +1,96 @@
+{
+  "slug": "fermented-portuguese-beans-casserole",
+  "title": "Portuguese Bean Casserole",
+  "description": "A hearty casserole made with portuguese sausage and beans, perfect for a cold evening. This dish is influenced by traditional portuguese cuisine and is a great alternative for a comforting meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Canned Kidney Beans",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Cheese (optional)",
+      "amount": "1/4 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Portuguese sausage in a large skillet over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "Add the canned kidney beans, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "If using, sprinkle the fermented cheese on top of the bean mixture.",
+    "Drizzle the olive oil over the top and sprinkle with chopped parsley (if using).",
+    "Bake for 25-30 minutes or until the casserole is hot and the cheese is melted (if using).",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "portuguese",
+    "beans",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-portuguese-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:12:04.530Z"
+}
