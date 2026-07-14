@@ -1,0 +1,95 @@
+{
+  "slug": "fluffy-uruguayan-chicken-wrap",
+  "title": "Uruguayan Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with Uruguayan-style chicken, served in a fluffy wrap.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1.5 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "fluffy tortilla wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "uruguayan seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breasts with Uruguayan seasoning, salt, and black pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for a few minutes before slicing.",
+    "In a pan, heat the vegetable oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped cilantro and cook for an additional minute.",
+    "Warm the fluffy tortilla wrap in the microwave or by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the sour cream on the tortilla, followed by the sliced chicken, cooked onion mixture, and shredded cheese.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-uruguayan-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:34:33.253Z"
+}
