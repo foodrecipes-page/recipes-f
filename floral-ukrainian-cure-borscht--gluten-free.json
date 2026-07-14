@@ -1,7 +1,7 @@
 {
   "slug": "floral-ukrainian-cure-borscht--gluten-free",
-  "title": "Borscht with a Twist",
-  "description": "A gluten-free take on the classic Ukrainian beet soup, with a hint of floral sweetness. This recipe adds a cure of fresh dill to give it an extra boost of flavor.",
+  "title": "Traditional Ukrainian Borscht Stew",
+  "description": "A hearty and flavorful Ukrainian-inspired borscht stew made with beets, vegetables, and a hint of floral notes. This gluten-free recipe is perfect for a cold winter's day.",
   "cuisine": "Ukrainian",
   "diet": [
     "gluten-free"
@@ -9,86 +9,85 @@
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Beets",
+      "name": "beets",
       "amount": "2 medium",
-      "notes": "Raw beets"
+      "notes": ""
     },
     {
-      "name": "Onion",
-      "amount": "1 medium",
-      "notes": "Chopped"
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves",
-      "notes": "Minced"
+      "name": "cabbage",
+      "amount": "1 small",
+      "notes": ""
     },
     {
-      "name": "Canned tomatoes",
-      "amount": "1 can (14.5 oz)",
-      "notes": "Crushed"
-    },
-    {
-      "name": "Vegetable broth",
+      "name": "beef broth",
       "amount": "4 cups",
-      "notes": "Gluten-free"
+      "notes": "make sure it's gluten-free"
     },
     {
-      "name": "Fresh dill",
-      "amount": "1/4 cup",
-      "notes": "Chopped"
-    },
-    {
-      "name": "Floral honey",
+      "name": "tomato paste",
       "amount": "2 tbsp",
-      "notes": "Raw honey"
+      "notes": ""
     },
     {
-      "name": "Salt",
+      "name": "floral honey",
       "amount": "1 tsp",
-      "notes": "To taste"
+      "notes": ""
     },
     {
-      "name": "Black pepper",
-      "amount": "1 tsp",
-      "notes": "To taste"
+      "name": "dill",
+      "amount": "1/4 cup chopped",
+      "notes": ""
     },
     {
-      "name": "Cure of fresh dill",
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cure (smoked paprika)",
       "amount": "1 tsp",
-      "notes": "For garnish"
+      "notes": ""
     }
   ],
   "instructions": [
     "Heat oil in a large pot over medium heat.",
-    "Add chopped onion and cook until softened, about 5 minutes.",
-    "Add minced garlic and cook for 1 minute, until fragrant.",
-    "Add crushed tomatoes, vegetable broth, salt, and black pepper. Stir to combine.",
-    "Add raw beets and bring to a boil.",
-    "Reduce heat to low and simmer for 30 minutes, or until beets are tender.",
-    "Stir in chopped fresh dill and raw honey.",
+    "Add carrots and cook until tender, about 5 minutes.",
+    "Add beets and cook for another 5 minutes.",
+    "Add cabbage and cook until wilted.",
+    "Add beef broth, tomato paste, honey, dill, salt, black pepper, and smoked paprika.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
     "Taste and adjust seasoning as needed.",
-    "Serve hot, garnished with a cure of fresh dill."
+    "Serve hot, garnished with additional dill if desired."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 30,
-  "totalTimeMin": 50,
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
     "ukrainian",
-    "gluten-free",
-    "beets",
-    "soup"
+    "borscht",
+    "stew",
+    "gluten-free"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 4,
-    "carbs": 20,
-    "fat": 7
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-07-12T05:25:43.469Z"
+  "createdAt": "2026-07-12T07:26:39.817Z"
 }
