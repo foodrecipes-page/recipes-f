@@ -1,0 +1,83 @@
+{
+  "slug": "fluffy-spicy-peruvian-potatoes-bowl",
+  "title": "Spicy Peruvian Bowl with Crispy Potatoes",
+  "description": "A flavorful and satisfying Peruvian-inspired bowl filled with crispy potatoes, spicy chicken, and fluffy corn. Perfect for a quick and delicious meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1/2-inch wedges"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "fluffy tortilla",
+      "amount": "2",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "such as aji amarillo sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the potato wedges with 1 tablespoon of olive oil, salt, and black pepper on a baking sheet. Roast in the oven for 20-25 minutes, or until crispy.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium-high heat. Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the corn kernels to the skillet and cook for an additional 2-3 minutes, or until tender.",
+    "In a small bowl, whisk together the spicy sauce and 1 tablespoon of water. Pour the sauce over the chicken and corn mixture, and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the bowls by placing a portion of the chicken and corn mixture onto a tortilla, followed by a portion of the roasted potatoes. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "spicy",
+    "potatoes",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-spicy-peruvian-potatoes-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:17:24.073Z"
+}
