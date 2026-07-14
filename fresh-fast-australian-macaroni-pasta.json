@@ -1,0 +1,90 @@
+{
+  "slug": "fresh-fast-australian-macaroni-pasta",
+  "title": "Australian Macaroni Bolognese",
+  "description": "A classic Australian pasta dish featuring ground beef, tomatoes, and herbs. Serve with a side of garlic bread for a comforting meal.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Macaroni",
+      "amount": "400g",
+      "notes": "Dried"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (400g)",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni in boiling, salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large pot or Dutch oven, heat the olive oil over medium-high heat. Add the chopped onion, carrots, and celery and cook until the vegetables are tender.",
+    "Add the ground beef to the pot, breaking it up with a spoon as it cooks. Cook until the beef is browned, then add the tomato paste and cook for 1 minute.",
+    "Add the crushed tomatoes, beef stock, and reserved pasta water to the pot. Stir to combine, then bring the sauce to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally.",
+    "Add the cooked macaroni to the sauce and toss to combine. Season with salt and pepper to taste.",
+    "Serve the macaroni hot, topped with chopped fresh basil.",
+    "Enjoy with a side of garlic bread for a comforting meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "comfort-food",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fast-australian-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T08:48:58.094Z"
+}
