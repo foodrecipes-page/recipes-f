@@ -1,0 +1,62 @@
+{
+  "slug": "floral-velvety-australian-fruit-toast",
+  "title": "Avocado Toast with Fresh Fruit",
+  "description": "A quick and easy breakfast recipe that combines the creaminess of avocado with the sweetness of fresh fruit.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Floral honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Velvety ripe avocado",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Australian whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh fruit (e.g. sliced banana, strawberries)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "Mash the avocado in a bowl until mostly smooth.",
+    "Spread the mashed avocado onto the toasted bread.",
+    "Drizzle with floral honey if using.",
+    "Top with fresh fruit.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "easy",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-australian-fruit-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:18:24.481Z"
+}
