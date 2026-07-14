@@ -1,0 +1,59 @@
+{
+  "slug": "frosty-duck-relish",
+  "title": "Frosty Duck Relish Delight",
+  "description": "A unique fusion of sweet and savory flavors. This dish is perfect for a cold evening.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "Frosty",
+      "amount": "1/2 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "Relish",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and pepper.",
+    "Place the duck in a baking dish and roast for 20 minutes.",
+    "Meanwhile, mix the frosty and relish in a bowl.",
+    "After 20 minutes, remove the duck from the oven and let it rest.",
+    "Slice the duck into thin strips.",
+    "Serve the duck strips with the frosty-relish mixture on top.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cold-snack",
+    "easy-to-make",
+    "unique-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/frosty-duck-relish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:42:48.087Z"
+}
