@@ -1,0 +1,81 @@
+{
+  "slug": "floral-velvety-greek-anchovy-salad",
+  "title": "Greek Salad",
+  "description": "A classic salad originating from Greece, typically made with tomatoes, cucumbers, and feta cheese. This version adds a twist with the addition of anchovies for a salty flavor.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek salad greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Velvety feta cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumbers",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Anchovy fillets",
+      "amount": "6-8",
+      "notes": "chopped"
+    },
+    {
+      "name": "Floral olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salad dressing (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the salad greens, feta cheese, tomatoes, cucumbers, and red onion.",
+    "2. In a small bowl, whisk together the olive oil and chopped anchovy fillets.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Serve immediately and enjoy!",
+    "5. If desired, add salad dressing to taste.",
+    "6. Refrigerate leftovers for up to 2 hours.",
+    "7. Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-greek-anchovy-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:41:14.129Z"
+}
