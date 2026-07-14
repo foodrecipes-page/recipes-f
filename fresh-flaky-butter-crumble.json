@@ -1,0 +1,76 @@
+{
+  "slug": "fresh-flaky-butter-crumble",
+  "title": "Fresh Fruit Crumble",
+  "description": "A delicious dessert made with fresh fruit and a crunchy butter crumble topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh peaches",
+      "amount": "2 cups",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Oat crumble",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the sliced peaches and blueberries. Add the granulated sugar and mix until the fruit is evenly coated.",
+    "Transfer the fruit mixture to a 9x9-inch baking dish.",
+    "In another bowl, mix together the flour and cold butter until the mixture resembles coarse crumbs.",
+    "Add the oat crumble to the flour mixture and mix until well combined.",
+    "Spread the crumble mixture evenly over the fruit filling.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fruit",
+    "dessert",
+    "breakfast",
+    "brunch",
+    "peach",
+    "blueberry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-flaky-butter-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:27:21.188Z"
+}
