@@ -1,0 +1,73 @@
+{
+  "slug": "flaky-solo-dinner-norwegian-butter-crust",
+  "title": "Norwegian Crusted Dinner",
+  "description": "A flavorful dinner featuring a crusty crust topped with butter and served with solo ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crust",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Flaky Fish",
+      "amount": "2 fillets",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Dinner Herbs",
+      "amount": "1 tsp",
+      "notes": "dried thyme and rosemary"
+    },
+    {
+      "name": "Norwegian Salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "Sliced Lemons",
+      "amount": "2 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the crust on the prepared baking sheet.",
+    "Mix the butter, dinner herbs, and Norwegian salt. Brush the mixture on the crust.",
+    "Place the flaky fish fillets on the crust, leaving a 1-inch border around each fillet.",
+    "Bake for 12-15 minutes or until the crust is golden brown and the fish is cooked through.",
+    "Remove from the oven and let it rest for 2-3 minutes.",
+    "Serve with sliced lemons on the side if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "seafood",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-solo-dinner-norwegian-butter-crust",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:31:28.586Z"
+}
