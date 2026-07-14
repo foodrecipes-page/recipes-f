@@ -1,0 +1,71 @@
+{
+  "slug": "fatty-canadian-cocoa-pudding",
+  "title": "Fatty Pudding Pots",
+  "description": "A rich dessert made with cocoa and Canadian pudding, perfect for a sweet treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian Pudding",
+      "amount": "1 (4 oz) package"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fatty Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together pudding mix and fatty milk.",
+    "Add cocoa powder, sugar, and vanilla extract to the saucepan.",
+    "Whisk until well combined and bring to a boil over medium heat.",
+    "Reduce heat to low and simmer for 2 minutes, or until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in a pinch of salt.",
+    "Pour the pudding mixture into individual serving cups or ramekins.",
+    "Chill in the refrigerator for at least 2 hours, or until set.",
+    "Top with whipped cream, if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "canadian",
+    "cocoa"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-canadian-cocoa-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:13:34.435Z"
+}
