@@ -2412,15 +2412,15 @@
   },
   {
     "slug": "fermented-fluffy-adventurous-spring-onion-stir-fry",
-    "title": "Fermented Fluffy Adventurous Spring Onion Stir-fry",
+    "title": "Spring Stir Fry",
     "tags": [
-      "fermented-fluffy-adventurous",
-      "korean-dish",
-      "spring-onion-stir-fry",
-      "nut-free-friendly"
+      "spring",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -7792,13 +7792,13 @@
   },
   {
     "slug": "flaky-mexican-cheddar-cheese-crumble",
-    "title": "Flaky Mexican Cheddar Cheese Crumble with Floral Chinese Cabbage",
+    "title": "Mexican Crumble Cheese Bake",
     "tags": [
-      "flaky",
-      "comforting",
-      "vegan-friendly"
+      "mexican",
+      "cheese",
+      "bake"
     ],
-    "cuisine": "Venezuelan-Chinese",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "f"
   },
@@ -21143,17 +21143,15 @@
   },
   {
     "slug": "floral-ukrainian-cure-borscht--indian",
-    "title": "Borscht Shorba",
+    "title": "Borscht Roulade with Floral Chutney",
     "tags": [
       "indian",
       "vegetarian",
-      "soup",
-      "beets",
-      "lentils",
-      "floral"
+      "main-course",
+      "borscht"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -21184,28 +21182,27 @@
   },
   {
     "slug": "floral-ukrainian-cure-borscht--gluten-free",
-    "title": "Borscht with a Twist",
+    "title": "Traditional Ukrainian Borscht Stew",
     "tags": [
       "ukrainian",
-      "gluten-free",
-      "beets",
-      "soup"
+      "borscht",
+      "stew",
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
     "slug": "floral-ukrainian-cure-borscht--thai",
-    "title": "Spicy Borscht Stir Fry",
+    "title": "Thai Borscht Stir Fry",
     "tags": [
       "thai",
-      "stir-fry",
-      "vegetarian",
-      "spicy"
+      "beetroot",
+      "vegetarian"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 20,
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
