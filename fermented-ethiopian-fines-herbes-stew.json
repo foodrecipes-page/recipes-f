@@ -1,0 +1,97 @@
+{
+  "slug": "fermented-ethiopian-fines-herbes-stew",
+  "title": "Ethiopian Stew with Fermented Fines",
+  "description": "A traditional Ethiopian stew made with fermented fines and a blend of spices. Serves 4-6.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Fines",
+      "amount": "1 cup",
+      "notes": "available at most health food stores"
+    },
+    {
+      "name": "Ethiopian Stew Herbs",
+      "amount": "2 tablespoons",
+      "notes": "a blend of coriander, cumin, and turmeric"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the chopped red pepper and cook for an additional 2-3 minutes.",
+    "Add the Ethiopian stew herbs and tomato paste (if using), and stir to combine.",
+    "Add the fermented fines and cook for 1-2 minutes, stirring constantly.",
+    "Add the water (or vegetable broth) and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fermented",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-ethiopian-fines-herbes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:57:52.551Z"
+}
