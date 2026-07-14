@@ -1,0 +1,83 @@
+{
+  "slug": "flaky-mexican-cheddar-cheese-crumble",
+  "title": "Mexican Crumble Cheese Bake",
+  "description": "A simple Mexican-inspired casserole with a crunchy crumble topping.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup, unsalted butter, melted",
+      "amount": "1/4 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "1/4 cup, all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "1/2 teaspoon, paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "1/4 teaspoon, cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "1/2 teaspoon, salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the flaky pastry sheet according to package instructions.",
+    "In a medium bowl, mix the Mexican cheese blend and cheddar cheese.",
+    "Sprinkle the cheese mixture evenly over the center of the pastry sheet, leaving a 1-inch border around the edges.",
+    "Fold the 1-inch border over the cheese mixture to form a crust.",
+    "In a small bowl, mix the melted butter, flour, paprika, cayenne pepper, and salt.",
+    "Sprinkle the crumble topping mixture evenly over the pastry crust.",
+    "Bake the casserole for 25-30 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "cheese",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-mexican-cheddar-cheese-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:20:35.103Z"
+}
