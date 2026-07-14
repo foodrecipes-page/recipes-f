@@ -1,0 +1,55 @@
+{
+  "slug": "floral-crumbly-filipino-cabbage-casserole",
+  "title": "Filipino Cabbage Casserole",
+  "description": "A hearty and flavorful casserole dish combining the best of Filipino and Western flavors. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "Floral",
+      "amount": "1 tablespoon, dried"
+    },
+    {
+      "name": "Crumbly",
+      "amount": "1 cup, crushed crackers"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup, grated cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the cabbage until tender.",
+    "In a separate bowl, mix the crushed crackers, grated cheese, and dried flowers.",
+    "Combine the cooked cabbage and the cracker mixture in a 9x13 inch baking dish.",
+    "Bake for 25 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crumbly-filipino-cabbage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:48.842Z"
+}
