@@ -1,0 +1,64 @@
+{
+  "slug": "fermented-chewy-polish-fruit-mix-dumplings",
+  "title": "Polish Fruit Dumplings",
+  "description": "A traditional Polish dessert known as 'Paczki' filled with sweet fruit and topped with a sweet icing. This recipe uses a fermented dough to give it a unique texture and flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fermented dough (Paczki dough)",
+      "amount": "1 package",
+      "notes": "Available at most Polish markets or online"
+    },
+    {
+      "name": "Mixed fruit (cherries, blueberries, raspberries)",
+      "amount": "1 cup",
+      "notes": "Can be adjusted to personal preference"
+    },
+    {
+      "name": "Polish mix (powdered sugar, cinnamon)",
+      "amount": "1 tablespoon",
+      "notes": "Available at most Polish markets or online"
+    },
+    {
+      "name": "Chewy sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Mix the fermented dough according to the package instructions.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of mixed fruit in the center of each dough circle.",
+    "Fold the dough over the fruit to form a triangle and press the edges together to seal.",
+    "Bring a large pot of water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 5-7 minutes or until they float to the surface.",
+    "Drain the dumplings and top with powdered sugar and cinnamon.",
+    "Optional: sprinkle with chewy sugar for extra sweetness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "polish",
+    "fruit",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-chewy-polish-fruit-mix-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:58:34.639Z"
+}
