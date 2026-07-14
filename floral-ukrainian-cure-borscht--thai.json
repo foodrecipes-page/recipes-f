@@ -1,83 +1,78 @@
 {
   "slug": "floral-ukrainian-cure-borscht--thai",
-  "title": "Spicy Borscht Stir Fry",
-  "description": "A twist on traditional Thai cuisine, this spicy stir fry combines the flavors of Ukraine with fresh Thai ingredients.",
-  "cuisine": "Thai",
+  "title": "Thai Borscht Stir Fry",
+  "description": "A twist on traditional Ukrainian borscht, this Thai-inspired dish combines the flavors of Asia with the classic Eastern European beetroot.",
+  "cuisine": "thai",
   "diet": [
     "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "borscht",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "beetroot",
+      "amount": "2 medium"
     },
     {
-      "name": "floral rice vinegar",
-      "amount": "2 tablespoons",
-      "notes": ""
+      "name": "floral Thai basil leaves",
+      "amount": "1/4 cup, chopped"
     },
     {
-      "name": "cure (fish sauce)",
-      "amount": "1 tablespoon",
-      "notes": ""
+      "name": "cure-free Thai red curry paste",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Thai red chili peppers",
-      "amount": "2",
-      "notes": ""
+      "name": "uhrainian-style borscht vinegar",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Thai basil",
-      "amount": "1/4 cup",
-      "notes": ""
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "coconut oil",
-      "amount": "2 tablespoons",
-      "notes": ""
+      "name": "water",
+      "amount": "2 cups"
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": ""
+      "name": "sugar",
+      "amount": "1 tablespoon"
     },
     {
-      "name": "onion",
-      "amount": "1",
-      "notes": ""
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
     }
   ],
   "instructions": [
-    "Heat the coconut oil in a wok or large skillet over medium-high heat.",
-    "Add the Thai red chili peppers and cook for 2 minutes.",
-    "Add the onion and garlic and cook for another 2 minutes.",
-    "Add the borscht and stir-fry for 3-4 minutes.",
-    "Add the floral rice vinegar, cure, and Thai basil.",
-    "Stir-fry for another minute and serve hot.",
-    "Serve with steamed rice or noodles.",
-    "Garnish with additional Thai basil and chili peppers if desired."
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1 minute.",
+    "Add beetroot and cook for 5 minutes, stirring occasionally.",
+    "Add vinegar, sugar, salt, and black pepper. Stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 20 minutes.",
+    "Stir in chopped basil leaves and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional basil leaves if desired."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 10,
-  "totalTimeMin": 20,
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
     "thai",
-    "stir-fry",
-    "vegetarian",
-    "spicy"
+    "beetroot",
+    "vegetarian"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 5,
-    "carbs": 30,
-    "fat": 10
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/floral-ukrainian-cure-borscht--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-07-12T05:34:41.074Z"
+  "createdAt": "2026-07-12T07:35:48.169Z"
 }
