@@ -1,0 +1,84 @@
+{
+  "slug": "flaky-roasted-peruvian-potatoes-causa-limena",
+  "title": "Peruvian Causa Rellena",
+  "description": "A traditional Peruvian dish made with boiled potatoes, filled with a delicious chicken and avocado mixture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Flaky chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "Roasted red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "Limena potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the Peruvian potatoes in salted water until tender. Drain and set aside.",
+    "In a large bowl, mix together the cooked chicken, diced onion, diced avocado, and mayonnaise.",
+    "Add the chopped cilantro to the bowl and mix well.",
+    "Cut the boiled Peruvian potatoes in half lengthwise and carefully scoop out the flesh, leaving a shell.",
+    "Spoon the chicken mixture into the potato shells and top with the remaining potato flesh.",
+    "Place the causa rellena on a serving plate and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "causa",
+    "potatoes",
+    "chicken",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-roasted-peruvian-potatoes-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:19:48.239Z"
+}
