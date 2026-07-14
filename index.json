@@ -12256,10 +12256,15 @@
   },
   {
     "slug": "floral-velvety-greek-anchovy-salad",
-    "title": "Floral Velvety Greek Anchovy Salad",
-    "tags": [],
-    "cuisine": "Greek",
-    "totalTimeMin": null,
+    "title": "Greek Salad",
+    "tags": [
+      "greek",
+      "salad",
+      "easy",
+      "lunch"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
