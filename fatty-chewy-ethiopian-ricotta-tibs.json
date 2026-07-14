@@ -1,0 +1,60 @@
+{
+  "slug": "fatty-chewy-ethiopian-ricotta-tibs",
+  "title": "Tibs Tibs with Ethiopian Ricotta Pancakes",
+  "description": "A traditional Ethiopian Tibs dish served with crispy ricotta pancakes, a delicious breakfast or brunch idea.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fatty",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ricotta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tibs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add the fatty and let it melt completely.",
+    "Add the chewy and cook until lightly browned.",
+    "Add the ricotta and mix until well combined.",
+    "Cook the tibs in a separate pan until it reaches 165°F.",
+    "Add the cooked tibs to the ricotta mixture and mix well.",
+    "Using a ladle, drop spoonfuls of the mixture onto a non-stick pan greased with fatty.",
+    "Cook until the bottom is golden brown, flip, and cook the other side.",
+    "Serve hot with a side of tibs.",
+    "Optional: add additional toppings such as spices or herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-chewy-ethiopian-ricotta-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:38:23.382Z"
+}
