@@ -1,0 +1,83 @@
+{
+  "slug": "festive-creamy-jamaican-pineapple-curry",
+  "title": "Jamaican Pineapple Curry Festive Delight",
+  "description": "A sweet and spicy Jamaican curry made with pineapple, perfect for festive gatherings. This curry is a unique blend of flavors and textures that will leave you wanting more.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Festive spice mix",
+      "amount": "1 tsp",
+      "notes": "available in most grocery stores, or make your own mix of cinnamon, nutmeg, and ginger"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Melt the butter in a large skillet over medium heat.",
+    "2. Add the Jamaican curry powder and cook for 1-2 minutes, stirring constantly.",
+    "3. Add the pineapple, coconut milk, brown sugar, and festive spice mix. Stir until the sugar is dissolved.",
+    "4. Bring the mixture to a simmer and cook for 5-7 minutes, or until the pineapple is tender.",
+    "5. Stir in the heavy cream and cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
+    "6. Season with salt to taste.",
+    "7. Serve warm, garnished with additional pineapple if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "pineapple",
+    "curry",
+    "festive",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-creamy-jamaican-pineapple-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:45:46.798Z"
+}
