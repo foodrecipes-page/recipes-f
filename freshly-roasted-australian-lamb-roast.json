@@ -1,0 +1,94 @@
+{
+  "slug": "freshly-roasted-australian-lamb-roast",
+  "title": "Roasted Australian Lamb Roast",
+  "description": "A traditional Australian dish featuring a perfectly roasted lamb roast, served with a side of roasted vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb roast",
+      "amount": "1.5 kg",
+      "notes": null
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "60 ml",
+      "notes": null
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the lamb roast with salt, pepper, rosemary, and thyme.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes.",
+    "Reduce heat to 180°C (350°F) and continue roasting for an additional 40-50 minutes, or until the lamb reaches your desired level of doneness.",
+    "Toss the carrots, potatoes, and onions in a bowl with a little olive oil, salt, and pepper.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast in the oven for 30-40 minutes, or until tender.",
+    "Let the lamb roast rest for 10-15 minutes before slicing and serving with the roasted vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "lamb-roast",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-roasted-australian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:02:39.901Z"
+}
