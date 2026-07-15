@@ -1,0 +1,75 @@
+{
+  "slug": "flaky-indian-apple-crumble",
+  "title": "Indian Apple Crumble",
+  "description": "A delicious dessert combining the sweetness of apples with the crunch of an Indian-inspired crumble topping.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "3 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Indian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples into a 9x9 inch baking dish.",
+    "Mix together the sugar and Indian spice blend, and sprinkle over the apples.",
+    "Roll out the flaky pastry sheet to fit the top of the baking dish.",
+    "Place the pastry on top of the apples, pressing the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "In a separate bowl, mix together the flour and cold butter until crumbly.",
+    "Sprinkle the crumble topping evenly over the pastry.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "crumble",
+    "dessert",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-indian-apple-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:29:14.270Z"
+}
