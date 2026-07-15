@@ -1,0 +1,80 @@
+{
+  "slug": "flavorful-canadian-baby-aubergine-skillet--thai",
+  "title": "Thai Aubergine Skillet",
+  "description": "A flavorful Thai-inspired skillet dish featuring aubergine, perfect for a quick dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "flavorful oil",
+      "amount": "2 tbsp",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "canadian garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "baby shallots",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "1 tsp",
+      "notes": "such as Thai red curry powder"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the skillet over medium heat.",
+    "2. Add the flavorful oil and swirl to coat the bottom of the skillet.",
+    "3. Add the Canadian garlic and cook for 1-2 minutes until fragrant.",
+    "4. Add the baby shallots and cook for 2-3 minutes until they start to soften.",
+    "5. Add the sliced aubergine and cook for 5-7 minutes until tender.",
+    "6. Sprinkle the skillet seasoning and cook for an additional minute.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "aubergine",
+    "skillet",
+    "veggie",
+    "quickdinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-canadian-baby-aubergine-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:18:18.994Z"
+}
