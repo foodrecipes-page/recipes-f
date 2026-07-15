@@ -1,0 +1,80 @@
+{
+  "slug": "flavorful-italian-green-olive-pasta",
+  "title": "Green Olive Pasta",
+  "description": "A simple yet flavorful Italian-inspired dish featuring pasta, green olives, and olive oil.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Green olives",
+      "amount": "1 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flavorful cheese (optional)",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add garlic and cook for 1-2 minutes until fragrant.",
+    "Add green olives and cook for an additional 2-3 minutes.",
+    "Stir in Italian seasoning.",
+    "Drain cooked pasta and add to the skillet with olive mixture.",
+    "Toss to combine.",
+    "Season with salt to taste.",
+    "Serve hot, topped with flavorful cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "green-olives",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-italian-green-olive-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T05:30:13.101Z"
+}
