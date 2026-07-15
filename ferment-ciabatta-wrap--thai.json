@@ -1,0 +1,80 @@
+{
+  "slug": "ferment-ciabatta-wrap--thai",
+  "title": "Thai-Style Fermented Wrap",
+  "description": "A fusion of Thai flavors with fermented goodness wrapped in a crispy ciabatta. Perfect for a quick snack or light meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Vegetables",
+      "amount": "1/2 cup",
+      "notes": "Use store-bought or homemade"
+    },
+    {
+      "name": "Ciabatta Bread",
+      "amount": "1 wrap",
+      "notes": "Split into two halves"
+    },
+    {
+      "name": "Thai Peanut Sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Pickled Carrots",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Split the ciabatta wrap into two halves.",
+    "Spread 1 tablespoon of Thai peanut sauce on each half.",
+    "Add a quarter cup of pickled carrots on each half.",
+    "Top with a quarter cup of chopped cilantro and green onions.",
+    "Add a quarter cup of fermented vegetables.",
+    "Drizzle with the remaining 1 tablespoon of Thai peanut sauce.",
+    "Crush peanuts on top (optional).",
+    "Assemble the wrap by placing the two halves together.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "fusion",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-ciabatta-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:32:17.968Z"
+}
