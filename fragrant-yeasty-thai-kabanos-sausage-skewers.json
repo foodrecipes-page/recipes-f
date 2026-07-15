@@ -1,0 +1,77 @@
+{
+  "slug": "fragrant-yeasty-thai-kabanos-sausage-skewers",
+  "title": "Grilled Kabanos and Sausage Skewers with Thai Peanut Sauce",
+  "description": "Impress your dinner guests with these flavorful and visually appealing skewers, made with succulent kabanos and sausage, served with a creamy Thai peanut sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "1 pound"
+    },
+    {
+      "name": "sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread kabanos and sausage onto skewers, leaving space between each piece.",
+    "In a blender or food processor, combine peanuts, soy sauce, fish sauce, honey, rice vinegar, and brown sugar. Blend until smooth.",
+    "Brush the peanut sauce onto both sides of the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausage is cooked through.",
+    "Serve the skewers with additional peanut sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "thai",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-yeasty-thai-kabanos-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:41:56.024Z"
+}
