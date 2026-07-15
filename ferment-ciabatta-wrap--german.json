@@ -1,0 +1,72 @@
+{
+  "slug": "ferment-ciabatta-wrap--german",
+  "title": "Fermented Bratwurst Ciabatta Sandwich",
+  "description": "A German-inspired sandwich featuring fermented bratwurst, melted cheese, and fresh toppings on a crusty ciabatta roll.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fermented bratwurst",
+      "amount": "2 sausages"
+    },
+    {
+      "name": "ciabatta",
+      "amount": "1 roll, sliced"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caramelized onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill bratwurst for 5-7 minutes, or until browned and cooked through.",
+    "Meanwhile, toast ciabatta slices until lightly browned.",
+    "Assemble sandwiches with grilled bratwurst, melted cheese, caramelized onion, lettuce, tomato, and parsley.",
+    "Drizzle with dijon mustard before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sandwich",
+    "grilled",
+    "bratwurst",
+    "ciabatta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-ciabatta-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:30:22.083Z"
+}
