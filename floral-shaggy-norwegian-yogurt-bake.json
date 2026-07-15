@@ -1,0 +1,62 @@
+{
+  "slug": "floral-shaggy-norwegian-yogurt-bake",
+  "title": "Floral and Shaggy Norwegian Bake",
+  "description": "A sweet and tangy dessert featuring a floral twist on traditional Norwegian baking",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shaggy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "floral",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bake",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, combine shaggy, floral, and Norwegian. Mix well.",
+    "Add yogurt and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until lightly golden.",
+    "Allow to cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "dessert",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-shaggy-norwegian-yogurt-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:00:06.880Z"
+}
