@@ -1,0 +1,69 @@
+{
+  "slug": "fluffy-saudia-pineapple-stir-fry",
+  "title": "Saudia Pineapple Fluffy Delight",
+  "description": "A sweet and savory dish combining the flavors of Saudia with the freshness of pineapple, all wrapped up in fluffy goodness.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy pancakes",
+      "amount": "4",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "saudia spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, cardamom, and ginger"
+    },
+    {
+      "name": "fresh pineapple",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together fluffy pancake mix and Saudia spices.",
+    "2. Add in honey and mix until well combined.",
+    "3. Heat a non-stick pan or griddle over medium heat.",
+    "4. Using a 1/4 cup measuring cup, scoop pancake batter onto the pan.",
+    "5. Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "6. Flip pancakes and cook for an additional 1-2 minutes.",
+    "7. Meanwhile, melt butter in a separate pan over medium heat.",
+    "8. Add cubed pineapple and cook for 2-3 minutes or until caramelized.",
+    "9. Serve fluffy pancakes with caramelized pineapple and a drizzle of honey.",
+    "10. Enjoy your Saudia Pineapple Fluffy Delight!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "middle-eastern",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-saudia-pineapple-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:24.912Z"
+}
