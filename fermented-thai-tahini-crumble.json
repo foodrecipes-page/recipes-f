@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-thai-tahini-crumble",
+  "title": "Thai Crumble Tacos",
+  "description": "A fusion of Thai and Mexican flavors in a crispy taco shell.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Thai Chili Peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup",
+      "notes": "mixed with 2 tbsp water"
+    },
+    {
+      "name": "Crumble Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Canned Black Beans, drained and rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together crumble breadcrumbs, salt, and pepper.",
+    "In a separate bowl, mix together black beans, red onion, cilantro, and lime juice.",
+    "Warm the taco shells according to package instructions.",
+    "Fill the taco shells with the bean mixture, followed by a spoonful of tahini.",
+    "Sprinkle crumble breadcrumbs on top of the tahini.",
+    "Bake in the oven for 5-7 minutes or until the breadcrumbs are crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifusion",
+    "tacos",
+    "veggie",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-thai-tahini-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:48:35.356Z"
+}
