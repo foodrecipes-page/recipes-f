@@ -1,0 +1,89 @@
+{
+  "slug": "flaky-buttery-mediterranean-pasta-bake--mexican",
+  "title": "Mexican Pasta Bake",
+  "description": "A delicious and flavorful Mexican-inspired pasta dish, made with flaky, buttery pasta, rich sauce, and a sprinkle of cheese.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky, buttery pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "mexican blend shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "",
+      "notes": "preheated to 375°F"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat, breaking it up into small pieces, until browned.",
+    "Add the mexican seasoning, salsa, chopped onion, and diced bell pepper to the skillet and cook until the vegetables are tender.",
+    "Stir in the tomato paste and cook for 1-2 minutes.",
+    "In a large bowl, combine the cooked pasta, meat mixture, and mexican blend shredded cheese.",
+    "Transfer the pasta mixture to a baking dish and top with additional cheese.",
+    "Cover with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pastabake",
+    "beef",
+    "cheesy",
+    "easydinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-mediterranean-pasta-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:17:17.114Z"
+}
