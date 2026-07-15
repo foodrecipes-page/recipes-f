@@ -1,0 +1,55 @@
+{
+  "slug": "fluffy-greek-yogurt-casserole",
+  "title": "Greek Yogurt Casserole",
+  "description": "A delicious and healthy breakfast recipe made with Greek yogurt, fluffy, and casserole ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, combine Greek yogurt and casserole.",
+    "In a separate bowl, whisk together fluffy and a pinch of salt.",
+    "Add the fluffy mixture to the yogurt mixture and mix until combined.",
+    "Pour the mixture into a baking dish and bake for 20-25 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "yogurt",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-greek-yogurt-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:02:38.811Z"
+}
