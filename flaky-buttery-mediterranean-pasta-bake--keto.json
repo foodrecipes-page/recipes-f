@@ -1,0 +1,70 @@
+{
+  "slug": "flaky-buttery-mediterranean-pasta-bake--keto",
+  "title": "Mediterranean Keto Pasta Bake",
+  "description": "A rich and flavorful keto pasta bake filled with the tastes of the Mediterranean. Perfect as a weeknight dinner or special occasion meal.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "flaky",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 jar",
+      "notes": "sauce"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "Thaw flaky dough according to package instructions. Roll out into a thin sheet.",
+    "In a large skillet, melt butter over medium heat. Add mediterranean sauce and stir to combine.",
+    "In a large bowl, combine cooked pasta, sauce, and 1/2 cup of the shredded bake.",
+    "Transfer the pasta mixture to the center of the flaky sheet, leaving a 1-inch border around the edges.",
+    "Fold the flaky sheet over the pasta, pressing edges to seal.",
+    "Brush the top of the bake with the remaining melted butter and sprinkle with the remaining 1/2 cup shredded bake.",
+    "Bake in the preheated oven for 20-25 minutes, or until the flaky crust is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-mediterranean-pasta-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:17:14.161Z"
+}
