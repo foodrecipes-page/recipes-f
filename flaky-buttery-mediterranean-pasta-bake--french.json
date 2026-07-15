@@ -1,0 +1,92 @@
+{
+  "slug": "flaky-buttery-mediterranean-pasta-bake--french",
+  "title": "French Mediterranean Pasta Bake",
+  "description": "A delicious, comforting pasta bake infused with the flavors of the Mediterranean, perfect for a French-inspired meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mediterranean pasta",
+      "amount": "8 oz",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "flaky, buttery pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1 minute.",
+    "Stir in the feta cheese until melted and well combined with the garlic.",
+    "Add the cooked pasta to the skillet and toss to combine with the feta mixture.",
+    "In a separate bowl, mix together the grated lemon zest, salt, and black pepper.",
+    "Roll out the flaky, buttery pastry to fit the top of a 9x13-inch baking dish.",
+    "Transfer the pasta mixture to the baking dish and brush the edges with the beaten egg.",
+    "Place the pastry on top of the pasta and brush with the remaining egg.",
+    "Sprinkle the lemon zest mixture over the pastry.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the internal temperature reaches 165°F (74°C).",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "mediterranean",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-mediterranean-pasta-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:17:23.171Z"
+}
