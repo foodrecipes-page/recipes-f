@@ -1,0 +1,82 @@
+{
+  "slug": "freshly-japanese-tuna-sushi",
+  "title": "Tuna Sushi Rolls",
+  "description": "Delicious and easy-to-make tuna sushi rolls, a classic Japanese dish. Perfect for a quick snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup cooked",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cucumber",
+      "notes": "sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2 avocado",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tuna",
+      "amount": "6 oz",
+      "notes": "sushi-grade, sliced into thin pieces"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Sushi Nori",
+      "amount": "1 sheet",
+      "notes": "dried seaweed sheets"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Prepare sushi rice according to package instructions.",
+    "Cut cucumber and avocado into thin slices.",
+    "Cut tuna into thin pieces.",
+    "Lay a sheet of sushi nori flat on a sushi mat.",
+    "Spread a thin layer of sushi rice onto the nori, leaving a 1-inch border at the top.",
+    "Place a few slices of tuna, cucumber, and avocado in the middle of the rice.",
+    "Roll the sushi using the mat, applying gentle pressure.",
+    "Slice the roll into 8 equal pieces using a sharp knife.",
+    "Brush the tops with sesame oil and serve with soy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sushi",
+    "japanese",
+    "tuna",
+    "seafood",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-japanese-tuna-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:49:37.568Z"
+}
