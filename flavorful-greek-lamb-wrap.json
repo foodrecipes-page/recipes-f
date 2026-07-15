@@ -1,0 +1,92 @@
+{
+  "slug": "flavorful-greek-lamb-wrap",
+  "title": "Lamb Wrap",
+  "description": "A classic Greek-inspired dish with tender lamb and fresh flavors, served in a crispy wrap.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "400g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Greek wrap",
+      "amount": "4",
+      "notes": "Large tortilla-style wraps"
+    },
+    {
+      "name": "Flavorful feta cheese",
+      "amount": "150g",
+      "notes": "Crumble the cheese before using"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1",
+      "notes": "Medium-sized cucumber"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Ripe medium-sized tomatoes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced red onion"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add the ground lamb and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "3. Add the Greek seasoning and cook for another minute.",
+    "4. Warm the tortilla-style wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the wraps by spooning the lamb mixture onto the center of each wrap, followed by a sprinkle of crumbled feta cheese, a few slices of cucumber and tomato, and a sprinkle of chopped red onion and parsley.",
+    "6. Drizzle with a squeeze of lemon juice and fold the bottom edge of the wrap up over the filling, then fold in the sides and roll into a tight cylinder.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lamb",
+    "wrap",
+    "easy",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-greek-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:01:50.723Z"
+}
