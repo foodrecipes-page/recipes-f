@@ -1,0 +1,65 @@
+{
+  "slug": "fluffy-hangover-cure-american-lamb-hash",
+  "title": "American Lamb Hash",
+  "description": "A hearty breakfast dish featuring lamb and a crispy hash. Perfect for a hangover cure.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound, diced"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "2 slices, shredded"
+    },
+    {
+      "name": "Fluffy Scrambled Eggs",
+      "amount": "4, beaten"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Add diced lamb to skillet and cook until browned, about 5 minutes.",
+    "Add diced hash to skillet and cook until crispy, about 5 minutes.",
+    "Push lamb and hash mixture to one side of the skillet.",
+    "Add a small amount of oil to the other side of the skillet and pour in beaten eggs.",
+    "Scramble eggs until cooked through.",
+    "Mix eggs with lamb and hash mixture.",
+    "Top with shredded American cheese and cook until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "american",
+    "lamb-hash"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-hangover-cure-american-lamb-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:19:36.307Z"
+}
