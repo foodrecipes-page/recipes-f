@@ -1,0 +1,80 @@
+{
+  "slug": "flaky-quenched-sick-day-chinese-congee-in-dutch-oven",
+  "title": "Dutch Oven Chinese-Style Chicken and Rice",
+  "description": "A hearty, flavorful dish that combines the best of Dutch and Chinese cuisines. Moist chicken, savory rice, and a hint of spices come together in this comforting meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "dutch oven",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chinese rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "congee",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "quenched black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "in olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken with flaky sea salt and quenched black pepper.",
+    "Heat the in olive oil in the Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes.",
+    "Add the chinese rice and congee to the Dutch oven.",
+    "Bring the mixture to a boil, then cover the Dutch oven with a lid.",
+    "Transfer the Dutch oven to the preheated oven and cook for 25-30 minutes.",
+    "Check the chicken for doneness and serve with the flavored rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "dutch-oven",
+    "chinese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-quenched-sick-day-chinese-congee-in-dutch-oven",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:09:31.820Z"
+}
