@@ -1,0 +1,66 @@
+{
+  "slug": "floral-fluffy-croatian-grape-stir-fry",
+  "title": "Floral Croatian Delight",
+  "description": "A simple and delicious dessert made with Croatian ingredients. This dish is perfect for those looking for a unique taste.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "floral",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grape",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "unsweetened almond milk"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 tsp",
+      "notes": "lemon zest"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine floral, grape, fluffy, and fry.",
+    "Stir until well combined.",
+    "Pour into a baking dish.",
+    "Bake for 20-25 minutes, or until set.",
+    "Remove from oven and let cool.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fluffy-croatian-grape-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:59:36.580Z"
+}
