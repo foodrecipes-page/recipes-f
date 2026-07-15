@@ -1,0 +1,82 @@
+{
+  "slug": "fluffy-briny-filipino-shredded-meat-pancit-bihon",
+  "title": "Filipino-Style Pancit Bihon",
+  "description": "A classic Filipino noodle dish made with bihon, meat, and vegetables, stir-fried to perfection.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bihon noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy chicken breast",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-style vegetable mix",
+      "amount": "1 cup",
+      "notes": "includes shredded cabbage and carrots"
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pancit sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the bihon noodles according to package instructions.",
+    "Heat 1 tablespoon of olive oil in a large wok or frying pan over medium-high heat.",
+    "Add the shredded chicken breast and cook until browned, about 5 minutes.",
+    "Add the Filipino-style vegetable mix and cook until tender, about 3-4 minutes.",
+    "Add the cooked bihon noodles, pancit sauce, salt, and pepper. Stir-fry until the noodles are well coated.",
+    "Serve hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "noodles",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-briny-filipino-shredded-meat-pancit-bihon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:33:23.930Z"
+}
