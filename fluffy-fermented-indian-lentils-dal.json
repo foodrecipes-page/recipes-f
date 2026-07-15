@@ -1,0 +1,92 @@
+{
+  "slug": "fluffy-fermented-indian-lentils-dal",
+  "title": "Dal Makhani",
+  "description": "A popular North Indian dish made with black lentils, kidney beans, and a rich creamy sauce. This comforting recipe is perfect for a cold winter's night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "In a large pan, heat the ghee over medium heat. Add the onion and cook until it is translucent.",
+    "Add the ginger and cook for another minute.",
+    "Add the cumin powder, garam masala, and salt. Cook for 1-2 minutes.",
+    "Add the soaked lentils and kidney beans. Cook for 5 minutes.",
+    "Add the water and bring to a boil. Reduce the heat to low and simmer for 20-25 minutes or until the lentils are cooked.",
+    "Using a blender or a hand blender, puree some of the lentils to create a creamy sauce.",
+    "Return the pan to the stovetop and add the pureed lentils. Stir well to combine.",
+    "Simmer the dal for another 10-15 minutes or until it thickens.",
+    "Serve hot with basmati rice or naan."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "dal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fermented-indian-lentils-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:43:09.484Z"
+}
