@@ -1,0 +1,72 @@
+{
+  "slug": "fresh-flaky-carrot-stir-fry",
+  "title": "Carrot Stir Fry",
+  "description": "A simple and delicious stir fry made with fresh carrots, perfect for a quick lunch or dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and stir-fry for 1 minute.",
+    "Add the carrots and stir-fry for 3-4 minutes, or until tender.",
+    "Add the soy sauce, salt, and pepper, and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the carrots are coated in the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "carrots",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-flaky-carrot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:22:21.329Z"
+}
