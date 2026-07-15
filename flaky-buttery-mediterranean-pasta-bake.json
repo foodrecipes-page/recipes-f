@@ -1,0 +1,80 @@
+{
+  "slug": "flaky-buttery-mediterranean-pasta-bake",
+  "title": "Mediterranean Pasta Bake",
+  "description": "A flavorful pasta dish with a crispy top, perfect for a weeknight dinner. The mediterranean flavors of feta cheese, olives, and sun-dried tomatoes add depth and excitement to this easy pasta bake.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky, buttery pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package directions and set aside.",
+    "Cut the flaky pastry into 1-inch squares.",
+    "In a large bowl, combine cooked pasta, feta cheese, olives, sun-dried tomatoes, and butter.",
+    "Stir until the pasta is well coated.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Top with pastry squares, overlapping them slightly.",
+    "Sprinkle with Parmesan cheese.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve hot and enjoy!",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-mediterranean-pasta-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:02:20.827Z"
+}
