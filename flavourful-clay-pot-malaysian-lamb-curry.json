@@ -1,0 +1,78 @@
+{
+  "slug": "flavourful-clay-pot-malaysian-lamb-curry",
+  "title": "Lamb Curry",
+  "description": "A flavorful and aromatic curry dish made with lamb and spices. Serve over rice or with naan bread.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Flavourful oil",
+      "amount": "2 tablespoons",
+      "notes": "Such as coconut or vegetable oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from pan and set aside.",
+    "Add onion, garlic, and ginger to pan and cook until softened, about 3 minutes.",
+    "Add curry and cook for 1 minute.",
+    "Add tomato and cook for 2 minutes.",
+    "Return lamb to pan and stir to combine.",
+    "Bring to a simmer and cook until lamb is cooked through, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-curry",
+    "malaysian-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavourful-clay-pot-malaysian-lamb-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:03:06.338Z"
+}
