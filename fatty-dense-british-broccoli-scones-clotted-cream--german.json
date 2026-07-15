@@ -1,0 +1,60 @@
+{
+  "slug": "fatty-dense-british-broccoli-scones-clotted-cream--german",
+  "title": "German-Style Broccoli and Scone Bake",
+  "description": "A hearty German-inspired dish featuring broccoli, scones, and a creamy topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fatty",
+      "amount": "2 large scones, torn into pieces"
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 cups, steamed"
+    },
+    {
+      "name": "british",
+      "amount": "2 tablespoons, all-purpose flour"
+    },
+    {
+      "name": "clotted",
+      "amount": "1 cup, heavy cream"
+    },
+    {
+      "name": "cream",
+      "amount": "2 tablespoons, unsalted butter, softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine flour, steamed broccoli, and torn scones.",
+    "In a separate bowl, whisk together heavy cream and softened butter until smooth.",
+    "Add cream mixture to the dry ingredients and stir until combined.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes.",
+    "Serve warm, garnished with additional clotted cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-dense-british-broccoli-scones-clotted-cream--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:05:05.340Z"
+}
