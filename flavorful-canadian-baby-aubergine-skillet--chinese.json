@@ -1,0 +1,87 @@
+{
+  "slug": "flavorful-canadian-baby-aubergine-skillet--chinese",
+  "title": "Stir Fried Aubergine with Canadian Skillet Seared Flavorful Meat",
+  "description": "A flavorful Chinese dish featuring seared Canadian meat and stir-fried aubergine, served sizzling in a hot skillet.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flavorful Canadian beef strips",
+      "amount": "250g",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Baby aubergine",
+      "amount": "2",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Canadian skillet oil",
+      "amount": "2 tbsp",
+      "notes": "For searing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinating and stir-frying"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Cooking wine",
+      "amount": "1 tbsp",
+      "notes": "For marinade and cooking"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cut the aubergine into bite-sized pieces and set aside.",
+    "2. Cut the Canadian beef into thin strips and set aside.",
+    "3. In a large skillet or wok, heat 2 tbsp of Canadian skillet oil over medium-high heat.",
+    "4. Add the beef strips and sear until browned, about 3-4 minutes per side.",
+    "5. Remove the beef from the skillet and set aside.",
+    "6. In the same skillet, add the soy sauce, cooking wine, and cornstarch. Stir until the cornstarch is dissolved.",
+    "7. Add the aubergine to the skillet and stir-fry until tender, about 3-4 minutes.",
+    "8. Return the beef to the skillet and stir-fry until coated with the sauce.",
+    "9. Season with black pepper and salt to taste.",
+    "10. Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-canadian-baby-aubergine-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:18:34.085Z"
+}
