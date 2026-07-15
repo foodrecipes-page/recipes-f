@@ -1,0 +1,65 @@
+{
+  "slug": "flaky-pungent-mediterranean-bread-rolls-flatbread",
+  "title": "Grilled Mediterranean Flatbread",
+  "description": "A flavorful flatbread topped with a blend of Mediterranean ingredients, perfect for a quick snack or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Pungent feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Meditteranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Bread, for serving",
+      "amount": "optional",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Slice the flatbread into 2-3 pieces, depending on size.",
+    "3. Brush both sides of the flatbread with olive oil.",
+    "4. Grill the flatbread for 1-2 minutes per side, until crispy and slightly charred.",
+    "5. Top the grilled flatbread with crumbled feta cheese, pitted olives, and chopped parsley.",
+    "6. Serve immediately, with bread on the side if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-pungent-mediterranean-bread-rolls-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:13:53.880Z"
+}
