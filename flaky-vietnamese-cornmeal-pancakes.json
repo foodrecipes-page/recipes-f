@@ -1,0 +1,71 @@
+{
+  "slug": "flaky-vietnamese-cornmeal-pancakes",
+  "title": "Vietnamese Cornmeal Pancakes",
+  "description": "A crispy and flavorful twist on traditional pancakes, infused with the essence of Vietnam. Perfect for a delightful breakfast or brunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Cut the flaky pastry into 4 equal pieces.",
+    "In a large bowl, whisk together the flour, cornmeal, sugar, and salt.",
+    "Add the milk, eggs, and mix until smooth.",
+    "Add the melted butter and mix until combined.",
+    "Place a piece of flaky pastry on the skillet, pour a quarter of the batter, and cook until bubbles appear.",
+    "Flip the pancake and cook for an additional 1-2 minutes.",
+    "Repeat with the remaining batter and pastry."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "vietnamese",
+    "cornmeal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-vietnamese-cornmeal-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:13:34.426Z"
+}
