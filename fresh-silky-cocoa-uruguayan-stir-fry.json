@@ -1,0 +1,71 @@
+{
+  "slug": "fresh-silky-cocoa-uruguayan-stir-fry",
+  "title": "Uruguayan Chocolate Mousse",
+  "description": "A rich, decadent dessert featuring the bold flavors of Uruguay and the creaminess of chocolate mousse.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Uruguayan chocolate",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a double boiler or a heatproof bowl set over a pot of simmering water, melt the chocolate, stirring occasionally.",
+    "Remove the melted chocolate from the heat and let it cool slightly.",
+    "In a separate bowl, whip the heavy cream until it begins to thicken.",
+    "Add the softened butter, granulated sugar, and vanilla extract to the whipped cream and continue whipping until stiff peaks form.",
+    "In a separate bowl, whisk together the egg and a splash of the cooled chocolate until well combined.",
+    "Gently fold the egg mixture into the whipped cream mixture until no white streaks remain.",
+    "Fold the remaining chocolate into the cream mixture until well combined.",
+    "Pour the mousse into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours or until set.",
+    "Serve chilled and garnish with whipped cream or chocolate shavings if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "chocolate",
+    "mousse",
+    "dessert",
+    "rich",
+    "decadent"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-silky-cocoa-uruguayan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:39:15.207Z"
+}
