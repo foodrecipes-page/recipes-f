@@ -1,0 +1,86 @@
+{
+  "slug": "fermented-dense-egyptian-flour-dumplings",
+  "title": "Egyptian Fermented Dumplings",
+  "description": "A traditional Egyptian dish made with fermented ingredients and dense dumplings. Serve with your favorite salad or soup.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fermented Egyptian flour",
+      "amount": "2 cups",
+      "notes": "Make sure to use a fermented flour for the authentic taste"
+    },
+    {
+      "name": "Dense Egyptian flour",
+      "amount": "1 cup",
+      "notes": "Use a high-quality dense flour for the dumpling dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use lukewarm water for the dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a pinch of salt for flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a mild olive oil for frying the dumplings"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion finely for the dumpling filling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for the dumpling filling"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Use a pinch of cumin for flavor"
+    }
+  ],
+  "instructions": [
+    "Combine fermented and dense Egyptian flour in a large mixing bowl.",
+    "Gradually add water and salt to the flour mixture. Mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Divide the dough into small balls, about the size of a golf ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of onion and garlic mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Heat olive oil in a large pan over medium heat.",
+    "Fry the dumplings until they are golden brown, about 2-3 minutes on each side.",
+    "Serve the dumplings hot with your favorite salad or soup.",
+    "Note: Fermented dumplings are best served fresh, but they can be refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "fermented",
+    "dumplings",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-egyptian-flour-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:59:35.315Z"
+}
