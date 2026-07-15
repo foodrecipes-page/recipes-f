@@ -1,0 +1,70 @@
+{
+  "slug": "floral-tender-vietnamese-eggs-stir-fry",
+  "title": "Vietnamese Stir Fry",
+  "description": "A simple and delicious Vietnamese-inspired dish made with stir-fried vegetables and eggs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "floral",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 package",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped bell peppers and stir-fry until tender.",
+    "Add the rice noodles and stir-fry for 2-3 minutes.",
+    "Push the noodles to one side of the wok.",
+    "Crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the noodles and vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped herbs if desired.",
+    "Cook time can be adjusted based on personal preference."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "vietnamese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-tender-vietnamese-eggs-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:25:30.724Z"
+}
