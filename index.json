@@ -3966,13 +3966,15 @@
   },
   {
     "slug": "fermented-thai-tahini-crumble",
-    "title": "Fermented Thai Tahini Crumble",
+    "title": "Thai Crumble Tacos",
     "tags": [
-      "fermented-tahini",
-      "jain-friendly-snack"
+      "thaifusion",
+      "tacos",
+      "veggie",
+      "crunchy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -9387,17 +9389,16 @@
   },
   {
     "slug": "flavorful-greek-lamb-wrap",
-    "title": "Flavorful Greek Lamb Wrap",
+    "title": "Lamb Wrap",
     "tags": [
-      "briny",
-      "flexitarian",
-      "greek-cuisine",
-      "juicy",
-      "midnight-cravings",
-      "slow-cooked"
+      "greek",
+      "lamb",
+      "wrap",
+      "easy",
+      "meat"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 150,
+    "totalTimeMin": 17,
     "shard": "f"
   },
   {
@@ -12092,16 +12093,15 @@
   },
   {
     "slug": "floral-tender-vietnamese-eggs-stir-fry",
-    "title": "Floral Tender Vietnamese Eggs Stir-fry",
+    "title": "Vietnamese Stir Fry",
     "tags": [
-      "floral",
-      "tender",
-      "kid-friendly",
+      "easy",
+      "quick",
       "vietnamese",
-      "paleo"
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -13337,10 +13337,15 @@
   },
   {
     "slug": "fluffy-greek-yogurt-casserole",
-    "title": "Fluffy Greek Yogurt Casserole",
-    "tags": [],
-    "cuisine": "Greek",
-    "totalTimeMin": null,
+    "title": "Greek Yogurt Casserole",
+    "tags": [
+      "breakfast",
+      "healthy",
+      "yogurt",
+      "fluffy"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -15134,15 +15139,15 @@
   },
   {
     "slug": "fold-kenyan-bean-salad",
-    "title": "Fold Kenyan Bean Salad",
+    "title": "Kenyan Bean Salad",
     "tags": [
       "kenyan",
-      "bean",
-      "snack",
+      "salad",
+      "vegan",
       "gluten-free"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -21125,6 +21130,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-mediterranean-fish-pilaf--gluten-free",
+    "title": "Mediterranean Fish Pilaf",
+    "tags": [
+      "mediterranean",
+      "fish",
+      "pilaf",
+      "gluten-free"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
