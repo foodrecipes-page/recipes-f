@@ -1,0 +1,68 @@
+{
+  "slug": "freshly-ground-croatian-pistachios-toast",
+  "title": "Croatian Pistachio Toast",
+  "description": "A delicious and simple snack that combines the flavors of Croatia with toasted goodness. Perfect for a quick pick-me-up on a busy day.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped or slivered"
+    },
+    {
+      "name": "Salted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Slice the Croatian bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "Remove the bread from the oven and let it cool for a minute or two.",
+    "Spread 1 tablespoon of salted butter on each bread slice.",
+    "Sprinkle chopped pistachios and a pinch of freshly ground black pepper over the butter.",
+    "Garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-ground-croatian-pistachios-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:07:26.261Z"
+}
