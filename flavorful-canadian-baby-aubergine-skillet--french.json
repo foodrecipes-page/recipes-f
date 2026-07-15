@@ -1,0 +1,77 @@
+{
+  "slug": "flavorful-canadian-baby-aubergine-skillet--french",
+  "title": "Pan-Seared Aubergine with Garlic and Herbs",
+  "description": "A flavorful French-inspired aubergine dish, perfect for a weeknight dinner. The combination of garlic, herbs, and melted cheese creates a rich and satisfying flavor.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian aubergine",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Flavorful garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Baby herbs (such as thyme and rosemary)",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "large, oven-safe skillet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheese (such as Comté or Gruyère)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the aubergine into 1/2-inch thick slices.",
+    "3. In a small bowl, mix together the minced garlic, chopped herbs, salt, and pepper.",
+    "4. Brush the garlic-herb mixture evenly onto both sides of the aubergine slices.",
+    "5. Heat the skillet over medium heat and add the aubergine slices.",
+    "6. Cook for 2-3 minutes on each side, or until the aubergine is tender and lightly browned.",
+    "7. Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the aubergine is tender and the top is golden brown.",
+    "8. Remove the skillet from the oven and sprinkle the grated cheese over the top of the aubergine.",
+    "9. Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "10. Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-canadian-baby-aubergine-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:18:44.233Z"
+}
