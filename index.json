@@ -13355,18 +13355,14 @@
   },
   {
     "slug": "fluffy-hangover-cure-american-lamb-hash",
-    "title": "fluffy hangover-cure american lamb hash",
+    "title": "American Lamb Hash",
     "tags": [
       "breakfast",
-      "brunch",
-      "comfort-food",
-      "easy-to-make",
-      "hangover-cure",
-      "hash",
-      "lamb"
+      "american",
+      "lamb-hash"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21132,6 +21128,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "ferment-ciabatta-wrap--german",
+    "title": "Fermented Bratwurst Ciabatta Sandwich",
+    "tags": [
+      "german",
+      "sandwich",
+      "grilled",
+      "bratwurst",
+      "ciabatta"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
