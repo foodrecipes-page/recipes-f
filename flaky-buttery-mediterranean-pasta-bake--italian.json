@@ -1,0 +1,111 @@
+{
+  "slug": "flaky-buttery-mediterranean-pasta-bake--italian",
+  "title": "Creamy Mediterranean Pasta Bake",
+  "description": "A rich and satisfying Italian-inspired pasta dish, perfect for a weeknight dinner. This creamy bake is loaded with flavor and texture, making it a crowd-pleaser.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mediterranean pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "flaky, buttery",
+      "amount": "2 tbsp",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Preheat the oven to 375°F (190°C)."
+    },
+    {
+      "step": 2,
+      "description": "Cook the Mediterranean pasta according to package instructions until al dente. Drain and set aside."
+    },
+    {
+      "step": 3,
+      "description": "In a large skillet, melt the flaky, buttery over medium heat. Add the minced garlic and cook for 1-2 minutes until fragrant."
+    },
+    {
+      "step": 4,
+      "description": "Add the dried oregano and cook for 1 minute until fragrant."
+    },
+    {
+      "step": 5,
+      "description": "Add the cooked pasta to the skillet and toss with the garlic and oregano mixture until well combined."
+    },
+    {
+      "step": 6,
+      "description": "In a large bowl, combine the cooked pasta, crumbled feta cheese, chopped parsley, salt, and black pepper. Toss until well combined."
+    },
+    {
+      "step": 7,
+      "description": "Transfer the pasta mixture to a 9x13-inch baking dish and top with grated mozzarella cheese."
+    },
+    {
+      "step": 8,
+      "description": "Bake in the preheated oven for 20-25 minutes until the cheese is melted and bubbly."
+    },
+    {
+      "step": "9",
+      "description": "Remove from the oven and let rest for 5 minutes before serving."
+    }
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-mediterranean-pasta-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:17:52.031Z"
+}
