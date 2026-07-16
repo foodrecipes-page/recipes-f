@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-hangover-egyptian-raspberry-tagine--mexican",
+  "title": "Raspberry Mexican Tagine",
+  "description": "A unique Mexican twist on the traditional Moroccan tagine, featuring sweet and tangy raspberries.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberry",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "1/2 cup",
+      "notes": "dried dates, chopped"
+    },
+    {
+      "name": "hangover",
+      "amount": "2 tbsp",
+      "notes": "hangover-free Mexican hot sauce"
+    },
+    {
+      "name": "fermented",
+      "amount": "2 tbsp",
+      "notes": "fermented cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large",
+      "notes": "ripe plantain, sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together chopped dates, hangover-free hot sauce, and fermented cumin.",
+    "Add sliced plantain to the bowl and mix until coated.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 20 minutes.",
+    "Remove foil and top with fresh or frozen raspberries.",
+    "Return to the oven and bake for an additional 10-15 minutes.",
+    "Serve warm, topped with additional raspberries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "raspberry",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-hangover-egyptian-raspberry-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:33:05.224Z"
+}
