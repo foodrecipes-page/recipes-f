@@ -1,0 +1,75 @@
+{
+  "slug": "ferment-ciabatta-wrap--vegetarian",
+  "title": "Ciabatta Wrap Focaccia",
+  "description": "A simple vegetarian focaccia recipe made in a ciabatta wrap style, topped with fermented flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ferment",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ciabatta",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Chopped herbs (optional)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated mozzarella (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together ferment, olive oil, salt, and minced garlic.",
+    "3. Split the ciabatta in half lengthwise, then cut into 1-inch thick slices.",
+    "4. Place the slices on a baking sheet lined with parchment paper.",
+    "5. Brush the ferment mixture evenly over the ciabatta slices.",
+    "6. If desired, sprinkle chopped herbs and grated mozzarella over the ciabatta.",
+    "7. Bake for 10-12 minutes, or until the ciabatta is golden brown and crispy.",
+    "8. Remove from the oven and let cool for a few minutes.",
+    "9. Serve warm in a wrap, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "focaccia",
+    "wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-ciabatta-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:57:33.497Z"
+}
