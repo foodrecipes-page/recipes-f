@@ -3701,16 +3701,14 @@
   },
   {
     "slug": "fermented-silky-raw-friendly-irish-whole-wheat-stir-fry",
-    "title": "Fermented Silky Raw-friendly Irish Whole Wheat Stir-fry",
+    "title": "Irish Stir Fry",
     "tags": [
-      "fermented-vegetables",
-      "whole-wheat",
-      "raw-friendly",
-      "tandoor-inspired",
-      "one-pot-meal"
+      "irish-stir-fry",
+      "vegetarian-recipe",
+      "quick-dinner"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21464,6 +21462,32 @@
     ],
     "cuisine": "Caribbean",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-jamaican-pears-gaelette--indian",
+    "title": "Jamaican Pears Gaelette",
+    "tags": [
+      "indian",
+      "dessert",
+      "pear",
+      "gaelette"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-canadian-cocoa-pudding--french",
+    "title": "Fancy French Pudding",
+    "tags": [
+      "french",
+      "pudding",
+      "chocolate",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
