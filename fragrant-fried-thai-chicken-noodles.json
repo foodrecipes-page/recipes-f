@@ -1,0 +1,84 @@
+{
+  "slug": "fragrant-fried-thai-chicken-noodles",
+  "title": "Thai Chicken Noodle Stir-Fry",
+  "description": "A quick and flavorful Thai-inspired stir-fry made with protein-rich chicken, fragrant noodles, and crunchy fried shallots.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "Thai-style rice noodles"
+    },
+    {
+      "name": "fragrant vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped shallots",
+      "amount": "1/4 cup",
+      "notes": "fried"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken from the wok and set aside.",
+    "Add curry paste to the wok and cook for 1 minute, stirring constantly.",
+    "Add noodles, fish sauce, and sugar to the wok, and stir-fry for 2-3 minutes.",
+    "Return chicken to the wok and stir-fry for another 2-3 minutes, until noodles are well coated.",
+    "Stir in fried shallots and cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-fried-thai-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:58:58.286Z"
+}
