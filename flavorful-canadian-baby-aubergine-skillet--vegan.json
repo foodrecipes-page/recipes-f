@@ -1,0 +1,80 @@
+{
+  "slug": "flavorful-canadian-baby-aubergine-skillet--vegan",
+  "title": "Vegan Aubergine Skillet",
+  "description": "A flavorful and easy-to-make vegan dish featuring roasted aubergine, perfect for a quick dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Flavorful Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Canadian Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Baby Bell Peppers",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Skillet Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cut the aubergine into 1 cm (0.4 in) slices.",
+    "Place the aubergine slices on a baking sheet.",
+    "Drizzle with flavorful olive oil and sprinkle with garlic.",
+    "Roast in the oven for 20 minutes.",
+    "Heat a skillet over medium heat.",
+    "Add the bell peppers and cook for 5 minutes.",
+    "Add the roasted aubergine and cook for 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley if desired.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "aubergine",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-canadian-baby-aubergine-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:19:03.499Z"
+}
