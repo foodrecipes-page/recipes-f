@@ -21299,5 +21299,84 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "f"
+  },
+  {
+    "slug": "flavorful-canadian-baby-aubergine-skillet--gluten-free",
+    "title": "Gluten-Free Canadian-Style Pan-Seared Aubergine",
+    "tags": [
+      "gluten-free",
+      "canadian",
+      "aubergine",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-canadian-baby-aubergine-skillet--vegan",
+    "title": "Vegan Aubergine Skillet",
+    "tags": [
+      "vegan",
+      "aubergine",
+      "skillet"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-fermented-indian-lentils-dal--thai",
+    "title": "Thai Red Lentil Curry",
+    "tags": [
+      "thaicurry",
+      "lentilcurry",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-russian-apricot-pirozhki--thai",
+    "title": "Thai-Style Pirozhki with Apricot Chutney",
+    "tags": [
+      "thai",
+      "russian",
+      "snack",
+      "appetizer",
+      "chutney"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-dense-british-broccoli-scones-clotted-cream--thai",
+    "title": "Pan-Seared Scones with Broccoli and Clotted Cream",
+    "tags": [
+      "british",
+      "thai",
+      "breakfast",
+      "scones",
+      "broccoli",
+      "clotted-cream"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-buttery-mediterranean-pasta-bake--vegetarian",
+    "title": "Mediterranean Pasta Bake",
+    "tags": [
+      "pasta",
+      "vegetarian",
+      "bake",
+      "mediterranean"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "f"
   }
 ]
