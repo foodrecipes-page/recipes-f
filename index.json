@@ -19978,17 +19978,15 @@
   },
   {
     "slug": "funky-gooey-french-fruits-tarte-tatin",
-    "title": "Funky Gooey French Fruits Tarte Tatin",
+    "title": "Warm Apple Tarte Tatin",
     "tags": [
-      "flexitarian-friendly",
-      "french-dessert",
-      "fruit-based",
-      "shio-koji",
-      "talavera-plate",
-      "yuzu-kosho"
+      "france",
+      "apple",
+      "tarte",
+      "tatin"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -21439,6 +21437,32 @@
       "burgers"
     ],
     "cuisine": "Jamaican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crumbly-indian-nuts--chinese",
+    "title": "Sichuan Crispy Fermented Dumplings",
+    "tags": [
+      "chinese",
+      "fermented",
+      "crispy",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-aerated-quick-fix-jamaican-cheddar-bao--keto",
+    "title": "Jamaican Keto Bao Burgers",
+    "tags": [
+      "keto",
+      "bacon",
+      "cheddar",
+      "burgers"
+    ],
+    "cuisine": "Caribbean",
     "totalTimeMin": 25,
     "shard": "f"
   }
