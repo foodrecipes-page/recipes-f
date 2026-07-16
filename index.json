@@ -1954,16 +1954,17 @@
   },
   {
     "slug": "fermented-crumbly-indian-nuts",
-    "title": "Fermented Crumbly Indian Nuts",
+    "title": "Fermented Naan Bites with Pistachio Chutney",
     "tags": [
-      "fermented",
-      "crumbly",
       "indian",
-      "kerala",
-      "show-off"
+      "naan",
+      "pistachio",
+      "chutney",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Indian (Kerala)",
-    "totalTimeMin": 16,
+    "cuisine": "Indian",
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -21398,6 +21399,46 @@
       "pineapple"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-saudia-pineapple-stir-fry--japanese",
+    "title": "Japanese Pineapple Teriyaki",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "pineapple",
+      "teriyaki",
+      "fluffy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-egyptian-eggplant-stew--mexican",
+    "title": "Mexican Stew with Eggplant",
+    "tags": [
+      "mexican",
+      "stew",
+      "eggplant",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 110,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-aerated-quick-fix-jamaican-cheddar-bao--vegan",
+    "title": "Jamaican Bao Burgers",
+    "tags": [
+      "vegan",
+      "jamaican",
+      "bao",
+      "burgers"
+    ],
+    "cuisine": "Jamaican",
     "totalTimeMin": 25,
     "shard": "f"
   }
