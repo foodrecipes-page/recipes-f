@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-chive-chewy-german-vegetable-crumble--mexican",
+  "title": "German-Mexican Chive Quesadilla",
+  "description": "A twist on traditional quesadillas with the addition of German-inspired flavors and a tangy kick from fermented vegetables.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chive",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "fermented",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "german",
+      "amount": "1/4 cup, crumble"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "chewy",
+      "amount": "2 large tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together chive, fermented, and shredded cheese.",
+    "Place one tortilla in the skillet and sprinkle half of the cheese mixture on half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining ingredients to make a second quesadilla.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "mexican",
+    "german",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-chive-chewy-german-vegetable-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:54:07.683Z"
+}
