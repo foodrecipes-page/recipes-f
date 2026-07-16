@@ -1,0 +1,76 @@
+{
+  "slug": "flaky-fried-spanish-savoy-cabbage-crema-catalana--vegan",
+  "title": "Spanish-Style Savoy Cabbage and Cabbage Fritters",
+  "description": "A crispy vegan fritter filled with sautéed Spanish savoy cabbage, served with a creamy crema sauce. Perfect for a satisfying evening meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package (vegan)",
+      "notes": null
+    },
+    {
+      "name": "fried onions",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crema",
+      "amount": "1 cup (vegan)",
+      "notes": null
+    },
+    {
+      "name": "spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Sauté the savoy cabbage in olive oil until tender.",
+    "Roll out the pastry dough and cut into squares.",
+    "Place a spoonful of cabbage mixture onto one half of each square.",
+    "Fold the other half over to form a triangle and press edges to seal.",
+    "Heat a non-stick skillet and fry the fritters until golden brown.",
+    "Serve with a side of creamy crema sauce.",
+    "Garnish with fried onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "savoy cabbage"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fried-spanish-savoy-cabbage-crema-catalana--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:29:28.809Z"
+}
