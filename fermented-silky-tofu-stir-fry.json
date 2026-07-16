@@ -1,0 +1,83 @@
+{
+  "slug": "fermented-silky-tofu-stir-fry",
+  "title": "Savory Silky Stir Fry",
+  "description": "A quick and easy stir-fry recipe using silky tofu and a variety of ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Silky Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Drained and cut into small cubes"
+    },
+    {
+      "name": "Fermented Soybeans",
+      "amount": "2 tbsp",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 30 seconds.",
+    "Add the sliced bell pepper and stir-fry for 2-3 minutes.",
+    "Add the sliced snow peas and stir-fry for 1-2 minutes.",
+    "Add the silky tofu, fermented soybeans, and soy sauce. Stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "tofu",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:28:02.126Z"
+}
