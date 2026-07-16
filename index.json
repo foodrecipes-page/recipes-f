@@ -2472,14 +2472,15 @@
   },
   {
     "slug": "fermented-german-yeast-soup",
-    "title": "Fermented German Yeast Soup",
+    "title": "Sauerkraut Sauerbraten",
     "tags": [
-      "fermented-german-soup",
-      "creamy-indulgent-dish",
-      "diabetic-friendly"
+      "german",
+      "beef",
+      "sauerkraut",
+      "slow-cooked"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 15,
+    "cuisine": "german",
+    "totalTimeMin": 255,
     "shard": "f"
   },
   {
@@ -6622,17 +6623,14 @@
   },
   {
     "slug": "flaky-dutch-chicken-flatbread",
-    "title": "Flaky Dutch Chicken Flatbread",
+    "title": "Flaky Chicken Flatbread",
     "tags": [
-      "bento-box",
-      "crumbly-crust",
-      "dutch-cuisine",
+      "chicken",
       "flatbread",
-      "high-protein",
-      "long-fermentation"
+      "middle eastern"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -15571,16 +15569,14 @@
   },
   {
     "slug": "fragrant-fried-thai-chicken-noodles",
-    "title": "fragrant fried thai chicken noodles",
+    "title": "Thai Chicken Noodle Stir-Fry",
     "tags": [
-      "bangkok-street",
-      "lacto-vegetarian",
-      "one-pan",
-      "street-food",
       "thai",
-      "weeknight"
+      "chicken",
+      "noodles",
+      "stir-fry"
     ],
-    "cuisine": "thai",
+    "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "f"
   },
@@ -21588,6 +21584,31 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-sauteed-moroccan-cabbage-stir-fry--italian",
+    "title": "Moroccan-Italian Stir Fry",
+    "tags": [
+      "italian",
+      "moroccan",
+      "stir-fry",
+      "cabbage"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-light-ethiopian-black-beans-toast--italian",
+    "title": "Italian Beans and Toast",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
     "shard": "f"
   }
 ]
