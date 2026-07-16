@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-aerated-quick-fix-jamaican-cheddar-bao--keto",
+  "title": "Jamaican Keto Bao Burgers",
+  "description": "A keto twist on traditional bao burgers, featuring a Jamaican-inspired patty and a crispy fermented bun.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "fix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fermented",
+      "amount": "1/2 cup, buns"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp, jerk seasoning"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 equal patties and season with Jamaican jerk seasoning.",
+    "Grill the patties for 5-6 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, toast the fermented bao buns on the grill or in a toaster.",
+    "Assemble the burgers by spreading fix on the bottom bun, followed by a cooked patty, cheddar cheese, and bacon.",
+    "Top with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "bacon",
+    "cheddar",
+    "burgers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 5,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-aerated-quick-fix-jamaican-cheddar-bao--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:29:56.923Z"
+}
