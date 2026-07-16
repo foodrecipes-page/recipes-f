@@ -1,0 +1,93 @@
+{
+  "slug": "fragrant-egyptian-eggplant-stew--mexican",
+  "title": "Mexican Stew with Eggplant",
+  "description": "A hearty and flavorful Mexican stew made with tender eggplant, aromatic spices, and rich beef.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "fragrant onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "egyptian garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef; cook until browned, about 5 minutes. Remove beef from pot.",
+    "Add onion, garlic, and chili powder; cook until onion is softened, about 5 minutes.",
+    "Add eggplant; cook, stirring occasionally, until eggplant is lightly browned, about 5 minutes.",
+    "Stir in cumin, salt, and black pepper. Cook for 1 minute.",
+    "Add diced tomatoes, water, and browned beef. Bring to a boil.",
+    "Reduce heat to low; simmer, covered, until beef is tender, about 1 1/2 hours.",
+    "Serve hot, garnished with fresh cilantro, if desired.",
+    "Serve with warm tortillas, shredded cheese, and sour cream, if desired.",
+    "Serve with steamed vegetables or a side salad, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "eggplant",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-egyptian-eggplant-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:40:46.565Z"
+}
