@@ -1,0 +1,80 @@
+{
+  "slug": "fried-katsuramuki-korean-monterey-jack-cheese-kalguksu--mexican",
+  "title": "Korean Jack Cheese Quesadilla",
+  "description": "A fusion Mexican dish with Korean influences, featuring crispy katsuramuki and melted jack cheese.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean jack cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "katsuramuki",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Monterey jack cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Fried kalguksu noodles",
+      "amount": "1/4 cup, crushed",
+      "notes": null
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Lay the flour tortilla flat and sprinkle the Korean jack cheese on half of the tortilla.",
+    "Top the cheese with katsuramuki, crushed kalguksu noodles, and shredded Monterey jack cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Cut the quesadilla into wedges and serve with salsa, sour cream, and chopped cilantro.",
+    "Repeat with the remaining ingredients to make additional quesadillas."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-mexican",
+    "quesadilla",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-katsuramuki-korean-monterey-jack-cheese-kalguksu--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:27:00.421Z"
+}
