@@ -1,0 +1,85 @@
+{
+  "slug": "fermented-german-yeast-soup",
+  "title": "Sauerkraut Sauerbraten",
+  "description": "A classic German dish made with fermented sauerkraut, beef, and spices. It's a hearty and flavorful meal that's perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef pot roast",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the beef, sauerkraut, brown sugar, black pepper, salt, allspice, and bay leaves.",
+    "Mix well to combine, then cover the bowl with plastic wrap.",
+    "Refrigerate for at least 2 days, or up to 5 days.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the meat from the marinade, letting any excess liquid drip off.",
+    "Place the meat in a large Dutch oven or oven-safe pot.",
+    "Add the marinade to the pot, then cover with a lid.",
+    "Bake for 3-4 hours, or until the meat is tender and falls apart easily.",
+    "Remove the pot from the oven, then let it cool slightly.",
+    "Serve the sauerkraut and meat hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "beef",
+    "sauerkraut",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-german-yeast-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:54:33.314Z"
+}
