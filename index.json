@@ -7547,16 +7547,16 @@
   },
   {
     "slug": "flaky-jamaican-pears-gaelette",
-    "title": "jamaican pear galette",
+    "title": "Jamaican Pear Galette",
     "tags": [
-      "breakfast",
-      "fodmap-friendly",
-      "gluten-free",
-      "vegan",
-      "weeknight"
+      "jamaican",
+      "pear",
+      "galette",
+      "dessert",
+      "homemade"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 85,
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -14268,16 +14268,13 @@
   },
   {
     "slug": "fluffy-portuguese-smoky-paella",
-    "title": "Fluffy Portuguese Smoky Paella",
+    "title": "Smoky Portuguese Paella",
     "tags": [
-      "fluffy",
-      "gluten-free",
-      "one-pan",
+      "paella",
       "portuguese",
-      "smoky",
-      "weeknight"
+      "smoky"
     ],
-    "cuisine": "portuguese",
+    "cuisine": "Portuguese",
     "totalTimeMin": 45,
     "shard": "f"
   },
@@ -21377,6 +21374,18 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "ferment-ciabatta-wrap--vegetarian",
+    "title": "Ciabatta Wrap Focaccia",
+    "tags": [
+      "focaccia",
+      "wrap",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "f"
   }
 ]
