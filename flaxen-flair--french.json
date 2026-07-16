@@ -1,0 +1,88 @@
+{
+  "slug": "flaxen-flair--french",
+  "title": "French Flair Flaxen Crepes",
+  "description": "Thin French crepes filled with a delicious and healthy flaxseed mixture. Perfect for a light and satisfying breakfast or snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed meal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flair (flair seasoning)",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flaxseed meal, flour, and water in a bowl.",
+    "Mix well and let it rest for 10 minutes.",
+    "Heat a non-stick pan over medium heat.",
+    "Add a small amount of coconut oil and swirl it around.",
+    "Pour a small amount of the flaxseed mixture into the pan.",
+    "Tilt the pan to spread the mixture evenly.",
+    "Cook for 1-2 minutes until the edges start to curl.",
+    "Flip the crepe and cook for another minute.",
+    "Repeat with the remaining mixture.",
+    "Serve the crepes warm with a sprinkle of sugar and a pinch of flair."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "crepes",
+    "breakfast",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaxen-flair--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:01:51.232Z"
+}
