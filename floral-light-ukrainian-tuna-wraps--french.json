@@ -1,0 +1,62 @@
+{
+  "slug": "floral-light-ukrainian-tuna-wraps--french",
+  "title": "Tuna Tartine",
+  "description": "A light and refreshing French-inspired open-faced sandwich, perfect for a quick lunch or snack.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna",
+      "amount": "6 oz"
+    },
+    {
+      "name": "floral",
+      "amount": "1 bunch of fresh parsley"
+    },
+    {
+      "name": "light",
+      "amount": "1 baguette"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1/4 cup of crème fraîche"
+    },
+    {
+      "name": "wraps",
+      "amount": "2 lettuce leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the baguette into 1-inch thick rounds.",
+    "Place the baguette slices on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "In a medium bowl, combine the tuna, crème fraîche, and chopped parsley.",
+    "Spread a layer of the tuna mixture onto each toasted baguette slice.",
+    "Top with a lettuce leaf and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "tuna",
+    "tartine",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-light-ukrainian-tuna-wraps--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:59:20.212Z"
+}
