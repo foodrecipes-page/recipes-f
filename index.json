@@ -3713,14 +3713,15 @@
   },
   {
     "slug": "fermented-silky-tofu-stir-fry",
-    "title": "Fermented Silky Tofu Stir-fry",
+    "title": "Savory Silky Stir Fry",
     "tags": [
-      "fermented-tofu",
-      "sick-day-dish",
-      "vietnamese-recipe"
+      "stir-fry",
+      "tofu",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -5929,18 +5930,14 @@
   },
   {
     "slug": "firm-fragrant-fried-moroccan-vegetable-oil-seffa",
-    "title": "Firm Fragrant Fried Moroccan Vegetable Oil Seffa",
+    "title": "Moroccan Vegetable Tagine",
     "tags": [
-      "easy-veggie",
       "moroccan",
-      "one-pan",
-      "pickle",
-      "seffa",
-      "vegetable-oil",
-      "weeknight"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -21488,6 +21485,46 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-light-ethiopian-black-beans-toast--keto",
+    "title": "Ethiopian Keto Black Bean Toast",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "breakfast",
+      "black-beans"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-light-ukrainian-tuna-wraps--french",
+    "title": "Tuna Tartine",
+    "tags": [
+      "french",
+      "tuna",
+      "tartine",
+      "lunch",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-light-ukrainian-tuna-wraps--vegan",
+    "title": "Vegan Ukrainian-Style Cabbage Wrap Filling",
+    "tags": [
+      "vegan",
+      "ukrainian",
+      "cabbage",
+      "wrap"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 20,
     "shard": "f"
   }
 ]
