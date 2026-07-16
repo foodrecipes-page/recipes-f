@@ -1,0 +1,91 @@
+{
+  "slug": "fast-ukrainian-beef-skewers",
+  "title": "Ukrainian Beef Skewers",
+  "description": "A classic Ukrainian dish featuring marinated beef skewers grilled to perfection. Quick and easy to make, perfect for a summer evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "vodka",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": "For marinating"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "To serve (optional)"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, vodka, chopped onion, chopped bell pepper, and chopped garlic.",
+    "2. Add the beef strips to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Remove the beef from the marinade, letting any excess liquid drip off.",
+    "6. Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "9. Let the skewers rest for 5 minutes before serving.",
+    "10. Serve hot, with lemon juice on the side (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "beef",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 6,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fast-ukrainian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:53:38.382Z"
+}
