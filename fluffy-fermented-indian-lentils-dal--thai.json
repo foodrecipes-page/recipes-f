@@ -1,0 +1,84 @@
+{
+  "slug": "fluffy-fermented-indian-lentils-dal--thai",
+  "title": "Thai Red Lentil Curry",
+  "description": "A flavorful and comforting Thai-inspired curry made with red lentils, inspired by the Indian dish dal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented red Thai curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "indian dal broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium heat.",
+    "2. Add onion and sauté for 3-4 minutes until softened.",
+    "3. Add ginger and sauté for an additional 1 minute.",
+    "4. Add curry paste and sauté for 1-2 minutes until fragrant.",
+    "5. Add dal broth and bring to a simmer.",
+    "6. Add lentils and cook for 20-25 minutes until tender.",
+    "7. Stir in sugar, fish sauce, and salt.",
+    "8. Serve over fluffy jasmine rice.",
+    "9. Garnish with fresh herbs if desired.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "lentilcurry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fermented-indian-lentils-dal--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:50.255Z"
+}
