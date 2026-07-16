@@ -21553,5 +21553,41 @@
     "cuisine": "french",
     "totalTimeMin": 20,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-fried-spanish-savoy-cabbage-crema-catalana--vegan",
+    "title": "Spanish-Style Savoy Cabbage and Cabbage Fritters",
+    "tags": [
+      "vegan",
+      "spanish",
+      "savoy cabbage"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-grilled-italian-sirloin-steak-stir-fry--vegan",
+    "title": "Stir Fry with Grilled Vegetables",
+    "tags": [
+      "stir-fry",
+      "grilled-vegetables",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "flaxen-flair--vegan",
+    "title": "Flaxen Flair Bowl",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "f"
   }
 ]
