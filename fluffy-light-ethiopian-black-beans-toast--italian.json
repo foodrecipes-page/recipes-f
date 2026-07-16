@@ -1,0 +1,64 @@
+{
+  "slug": "fluffy-light-ethiopian-black-beans-toast--italian",
+  "title": "Italian Beans and Toast",
+  "description": "A simple Italian-inspired dish using black beans, perfect for a quick snack or meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 can (150g)",
+      "notes": ""
+    },
+    {
+      "name": "fluffy bread (for toast)",
+      "amount": "2 slices",
+      "notes": "preferably Italian bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the black beans to the pan and cook for about 5 minutes, or until heated through.",
+    "Toast the fluffy bread until lightly browned.",
+    "Serve the black beans on top of the toasted bread.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-light-ethiopian-black-beans-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:37:33.030Z"
+}
