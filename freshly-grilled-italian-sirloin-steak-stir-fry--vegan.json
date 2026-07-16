@@ -1,0 +1,88 @@
+{
+  "slug": "freshly-grilled-italian-sirloin-steak-stir-fry--vegan",
+  "title": "Stir Fry with Grilled Vegetables",
+  "description": "A flavorful stir fry dish made with a variety of grilled vegetables and served with a side of steamed rice. This vegan recipe is perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "Any color bell pepper works well for this recipe."
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "You can use any type of onion, but yellow onions work best."
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "You can use any variety of mushroom, but button mushrooms work well."
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "You can use fresh or dried basil for this recipe."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "You can use fresh or dried garlic for this recipe."
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "You can use any type of rice for this recipe."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "You can use any type of soy sauce for this recipe."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "You can use any type of oil for this recipe."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Begin by preheating your grill to medium-high heat.",
+    "Grill the bell peppers, onions, and mushrooms for 5-7 minutes on each side, or until they are tender.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add the soy sauce and stir to combine.",
+    "Add the grilled vegetables and stir to combine.",
+    "Serve the stir fry over steamed rice and garnish with fresh basil.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "grilled-vegetables",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-grilled-italian-sirloin-steak-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:32:06.533Z"
+}
