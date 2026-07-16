@@ -1,0 +1,72 @@
+{
+  "slug": "fatty-dense-british-broccoli-scones-clotted-cream--thai",
+  "title": "Pan-Seared Scones with Broccoli and Clotted Cream",
+  "description": "A unique twist on traditional British scones, inspired by Thai flavors. Pan-seared scones are served with steamed broccoli and a dollop of clotted cream.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British scones",
+      "amount": "4",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fatty",
+      "amount": "1/2 teaspoon",
+      "notes": "British, used for added depth"
+    },
+    {
+      "name": "dense",
+      "amount": "1/2 teaspoon",
+      "notes": "helps bind flavors"
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": "fresh, steamed to perfection"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add 1 tablespoon of coconut oil, once melted add scones and pan-fry for 2 minutes on each side.",
+    "Meanwhile, steam broccoli florets until tender.",
+    "Serve scones hot with steamed broccoli and a dollop of clotted cream.",
+    "Garnish with a sprinkle of fatty and dense, adding a touch of British flair."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "thai",
+    "breakfast",
+    "scones",
+    "broccoli",
+    "clotted-cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-dense-british-broccoli-scones-clotted-cream--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:58.779Z"
+}
