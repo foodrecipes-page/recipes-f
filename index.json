@@ -21610,5 +21610,43 @@
     "cuisine": "italian",
     "totalTimeMin": 10,
     "shard": "f"
+  },
+  {
+    "slug": "fresh-peruvian-mussel-stew--german",
+    "title": "German-Style Mussel Stew",
+    "tags": [
+      "german",
+      "stew",
+      "mussels",
+      "beer",
+      "seafood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-buttery-greek-mozzarella-pizza--thai",
+    "title": "Thai Mozzarella Pizza",
+    "tags": [
+      "thai-pizza",
+      "mozzarella-cheese",
+      "pizza-sauce"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "fried-katsuramuki-korean-monterey-jack-cheese-kalguksu--mexican",
+    "title": "Korean Jack Cheese Quesadilla",
+    "tags": [
+      "korean-mexican",
+      "quesadilla",
+      "fusion"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 16,
+    "shard": "f"
   }
 ]
