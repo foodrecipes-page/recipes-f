@@ -1,0 +1,64 @@
+{
+  "slug": "floral-light-ukrainian-tuna-wraps--vegan",
+  "title": "Vegan Ukrainian-Style Cabbage Wrap Filling",
+  "description": "A flavorful and refreshing vegan filling inspired by Ukrainian cuisine, served in a crunchy light wrap.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "floral rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "light sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "wraps",
+      "amount": "4-6 light wraps"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and set aside.",
+    "In a large pan, heat the sesame oil over medium heat.",
+    "Add the shredded cabbage and cook for 5 minutes.",
+    "Stir in the floral rice vinegar and cook for another minute.",
+    "Stir in the chopped dill.",
+    "Warm the light wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the cabbage mixture onto the center of each wrap.",
+    "Serve immediately and enjoy!",
+    "Optional: Add your favorite vegan toppings, such as sliced cucumbers or pickled carrots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "ukrainian",
+    "cabbage",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-light-ukrainian-tuna-wraps--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:00:40.906Z"
+}
