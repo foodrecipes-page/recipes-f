@@ -1,0 +1,65 @@
+{
+  "slug": "firm-fragrant-fried-moroccan-vegetable-oil-seffa",
+  "title": "Moroccan Vegetable Tagine",
+  "description": "A hearty and flavorful Moroccan stew made with aromatic spices and tender vegetables. This recipe is perfect for a chilly evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm Seffa",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fragrant Vegetable",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Fried Seffa",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most Middle Eastern markets"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the Moroccan spice blend and cook for 1 minute.",
+    "Add the firm seffa and cook for 2-3 minutes, or until lightly browned.",
+    "Add the fragrant vegetable and cook for an additional 5 minutes.",
+    "Add the fried seffa, salt, and pepper to taste. Continue to cook for 10-15 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/firm-fragrant-fried-moroccan-vegetable-oil-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:26:37.679Z"
+}
