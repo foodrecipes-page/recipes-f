@@ -1,0 +1,80 @@
+{
+  "slug": "fry-algerian-candied-orange-peel-stir-fry--mexican",
+  "title": "Mexican Orange Stir Fry",
+  "description": "A flavorful and spicy Mexican-inspired stir-fry dish made with orange peel and candied orange.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Orange peel",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Candied orange",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Algerian fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger, cook for 1 minute.",
+    "Add Algerian fry, cook for 2-3 minutes.",
+    "Add orange peel, cumin, and cayenne pepper, cook for another minute.",
+    "Add candied orange, stir to combine.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-inspired",
+    "orange",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fry-algerian-candied-orange-peel-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:22:22.592Z"
+}
