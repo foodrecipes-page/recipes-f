@@ -1,0 +1,68 @@
+{
+  "slug": "fluffy-buttery-greek-mozzarella-pizza--thai",
+  "title": "Thai Mozzarella Pizza",
+  "description": "A Thai-inspired take on the classic pizza, featuring mozzarella cheese and a crispy crust.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fluffy pizza dough",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "buttery mozzarella cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "greek tomato sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pizza sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pizza dough and place on a baking sheet.",
+    "Spread the greek tomato sauce over the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the pizza sauce over the tomato sauce.",
+    "Top with the buttery mozzarella cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted.",
+    "Remove from the oven and sprinkle with green onions.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the onions are slightly caramelized.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai-pizza",
+    "mozzarella-cheese",
+    "pizza-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-buttery-greek-mozzarella-pizza--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:50:42.314Z"
+}
