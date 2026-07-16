@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-silky-raw-friendly-irish-whole-wheat-stir-fry",
+  "title": "Irish Stir Fry",
+  "description": "A hearty and flavorful Irish-inspired stir fry made with whole wheat and friendly ingredients. Perfect for a quick dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole Wheat",
+      "amount": "1 cup",
+      "notes": "for the stir fry base"
+    },
+    {
+      "name": "Friendly Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Irish Spinach",
+      "amount": "1 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Silky Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fermented Ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Raw Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir Fry Peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sliced peppers and cook until tender.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the minced garlic and ginger and cook for 1 minute.",
+    "Add the chopped spinach and cook until wilted.",
+    "Stir in the soy sauce and cook for an additional 1-2 minutes.",
+    "Serve the stir fry over the whole wheat base.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-stir-fry",
+    "vegetarian-recipe",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-raw-friendly-irish-whole-wheat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:13:33.206Z"
+}
