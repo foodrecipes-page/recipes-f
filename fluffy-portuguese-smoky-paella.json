@@ -1,0 +1,91 @@
+{
+  "slug": "fluffy-portuguese-smoky-paella",
+  "title": "Smoky Portuguese Paella",
+  "description": "A twist on the classic Spanish dish, this smoky paella is infused with the flavors of Portugal. Perfect for a hearty dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fluffy White Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1/2 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/4 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the chorizo and cook until browned, about 2 minutes.",
+    "Add the Portuguese sausage and cook until browned, about 2 minutes.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the garlic, smoked paprika, and red bell pepper. Cook for 1 minute.",
+    "Add the white wine and cook until the liquid is almost completely reduced, about 2-3 minutes.",
+    "Add the fluffy white rice and stir to coat the rice in the oil and mix with the other ingredients.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "portuguese",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-portuguese-smoky-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:35:15.897Z"
+}
