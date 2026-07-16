@@ -1,0 +1,79 @@
+{
+  "slug": "flaxen-flair--vegan",
+  "title": "Flaxen Flair Bowl",
+  "description": "A nutritious and delicious vegan bowl filled with the perfect combination of flaxen and flair.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaxen",
+      "amount": "1 cup",
+      "notes": "Ground flaxseed"
+    },
+    {
+      "name": "Flair",
+      "amount": "2 tablespoons",
+      "notes": "Hemp seeds"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": "Rolled oats for added crunch"
+    },
+    {
+      "name": "Banana",
+      "amount": "1 medium",
+      "notes": "Mash for topping"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "Sweetener of choice"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": "Non-dairy milk alternative"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "For greasing the bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 6-inch bowl with coconut oil.",
+    "Mix flaxen, oats, and flair in a bowl.",
+    "In a separate bowl, mash the banana.",
+    "Pour almond milk over the flaxen mixture and stir until combined.",
+    "Top with the mashed banana.",
+    "Transfer the mixture to the greased bowl.",
+    "Bake for 20-25 minutes or until lightly toasted.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, topped with maple syrup as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaxen-flair--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:00:13.742Z"
+}
