@@ -1,0 +1,82 @@
+{
+  "slug": "fluffy-saudia-pineapple-stir-fry--indian",
+  "title": "Saffron Pineapple Indian Stir Fry",
+  "description": "A flavorful and aromatic Indian-inspired stir fry made with saffron-infused fluffy rice, sautéed pineapple, and spices. A perfect vegetarian dish for a quick dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "soaked in 1 tablespoon hot water"
+    },
+    {
+      "name": "palm oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add cumin powder and turmeric powder. Cook for 1 minute.",
+    "Add chopped onion and minced garlic. Cook until onion is translucent.",
+    "Add pineapple chunks and cook for 3-4 minutes.",
+    "Add soaked saffron and its liquid. Stir well.",
+    "Add fluffy rice to the skillet and stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serves hot garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stir-fry",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-saudia-pineapple-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:50:37.130Z"
+}
