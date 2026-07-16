@@ -1,0 +1,95 @@
+{
+  "slug": "fresh-peruvian-mussel-stew--german",
+  "title": "German-Style Mussel Stew",
+  "description": "A hearty and flavorful stew from Germany, featuring fresh mussels and a variety of spices. Perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Mussels",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Stew Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "German Beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium heat.",
+    "Add the sliced onions and cook until softened, about 5 minutes.",
+    "Add the sliced Peruvian stew pepper and cook for an additional 2 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mussels, chicken broth, beer, white wine, salt, and pepper.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 10-12 minutes, or until the mussels are cooked through.",
+    "Remove the pot from the oven and stir in the chopped parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Discard any unopened mussels before serving.",
+    "Serve with crusty bread or over egg noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "mussels",
+    "beer",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-peruvian-mussel-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:46:11.560Z"
+}
