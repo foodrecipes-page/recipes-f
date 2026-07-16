@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-crispy-russian-apricot-pirozhki--thai",
+  "title": "Thai-Style Pirozhki with Apricot Chutney",
+  "description": "A sweet and savory twist on traditional Russian pirozhki, inspired by the bold flavors of Thai cuisine. Serve as a snack or appetizer.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pirozhki dough",
+      "amount": "1 package (8-10 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "1/4 cup",
+      "notes": "or substitute with apricot chutney"
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fermented Thai chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "Russian-style ground beef",
+      "amount": "1 pound",
+      "notes": "or ground pork or chicken"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush pirozhki dough with sesame oil and bake for 10-12 minutes, or until golden brown.",
+    "In a pan, cook ground beef over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "Add fermented Thai chili sauce and stir to combine.",
+    "Add green onions and stir-fry until wilted.",
+    "Spoon a small amount of the beef mixture onto each pirozhki.",
+    "Top with a dollop of apricot jam and a sprinkle of crispy fried shallots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "russian",
+    "snack",
+    "appetizer",
+    "chutney"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-russian-apricot-pirozhki--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:33.001Z"
+}
