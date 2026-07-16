@@ -1,0 +1,70 @@
+{
+  "slug": "flaky-dutch-chicken-flatbread",
+  "title": "Flaky Chicken Flatbread",
+  "description": "A simple flatbread dish topped with flaky chicken and spices.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flaky pastry dough and cut into 4-6 pieces.",
+    "Place the chicken breast on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the chicken and sprinkle with salt and pepper.",
+    "Bake the chicken in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is baking, bake the flatbread in the oven for 5-7 minutes, or until crispy.",
+    "Assemble the flatbread by topping each piece with a slice of chicken, a sprinkle of dutch cheese, and a sprinkle of salt and pepper.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "flatbread",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-dutch-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:53:34.763Z"
+}
