@@ -1,0 +1,74 @@
+{
+  "slug": "freshly-sauteed-moroccan-cabbage-stir-fry--italian",
+  "title": "Moroccan-Italian Stir Fry",
+  "description": "A fusion of Italian and Moroccan flavors in a quick and easy stir fry. This dish combines the freshness of the Mediterranean with the spices of the Moroccan souk.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cabbage",
+      "amount": "1 head, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the cumin, oregano, and salt. Cook for 1 minute.",
+    "Add the sliced cabbage and cook for 3-4 minutes, or until slightly tender.",
+    "Stir in the Moroccan spice blend and cook for an additional minute.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "moroccan",
+    "stir-fry",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-sauteed-moroccan-cabbage-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:35:21.365Z"
+}
