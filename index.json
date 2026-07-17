@@ -3589,15 +3589,15 @@
   },
   {
     "slug": "fermented-saudic-bean-stir-fry",
-    "title": "Fermented Saudic Bean Stir-fry",
+    "title": "Fermented Bean Stir Fry",
     "tags": [
+      "fermented",
       "stir-fry",
-      "saudi-arabian",
-      "fermented-lentil",
-      "plant-based"
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -21697,6 +21697,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-fragrant-turkish-chicken-drumsticks-manti--japanese",
+    "title": "Japanese-Style Chicken Manti",
+    "tags": [
+      "japanese",
+      "chicken",
+      "steamed",
+      "manti"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-springy-egyptian-hake-tagine--italian",
+    "title": "Baked Hake with Egyptian Spices",
+    "tags": [
+      "italian",
+      "fish",
+      "asparagus",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
