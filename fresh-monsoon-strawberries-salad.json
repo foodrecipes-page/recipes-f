@@ -1,0 +1,71 @@
+{
+  "slug": "fresh-monsoon-strawberries-salad",
+  "title": "Monsoon Strawberry Salad",
+  "description": "A refreshing summer salad featuring fresh strawberries and a tangy monsoon dressing.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh strawberries",
+      "amount": "2 cups, hulled and sliced"
+    },
+    {
+      "name": "Monsoon dressing",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Crushed pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, sliced strawberries, and crushed pistachios.",
+    "In a small bowl, whisk together the monsoon dressing and chopped fresh mint.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt to taste.",
+    "Serve immediately, garnished with additional fresh mint leaves if desired.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "salad",
+    "strawberries",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-monsoon-strawberries-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:00:12.538Z"
+}
