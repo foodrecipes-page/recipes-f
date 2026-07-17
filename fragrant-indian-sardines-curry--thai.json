@@ -1,0 +1,95 @@
+{
+  "slug": "fragrant-indian-sardines-curry--thai",
+  "title": "Thai Sardine Curry",
+  "description": "A flavorful and spicy Thai-inspired curry made with sardines, fragrant spices, and Indian curry powder. This dish is a unique twist on traditional Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sardines in Water",
+      "amount": "1 can (4 oz)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Indian Curry Powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fragrant Curry Paste",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry paste and sauté for 1 minute.",
+    "Add curry powder and stir for 1 minute.",
+    "Add coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Add water and bring to a simmer.",
+    "Add sardines and cook for 2-3 minutes.",
+    "Stir in fresh basil and cilantro.",
+    "Season with salt to taste.",
+    "Serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "seafood",
+    "curry",
+    "indian-spiced"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-indian-sardines-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:50:41.470Z"
+}
