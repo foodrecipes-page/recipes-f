@@ -1,0 +1,76 @@
+{
+  "slug": "fantastic-smoked-brazilian-asparagus-skillet--chinese",
+  "title": "Smoked Asparagus Stir Fry",
+  "description": "A Chinese-inspired stir fry featuring smoky flavors and tender asparagus.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": "for sautéing"
+    },
+    {
+      "name": "smoked soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "brazilian chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "or red pepper flakes"
+    },
+    {
+      "name": "fantastic sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or regular sesame oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat skillet over medium-high heat.",
+    "Add 1 tablespoon of sesame oil and swirl to coat.",
+    "Add asparagus and cook for 3-4 minutes, until tender.",
+    "Add smoked soy sauce, chili flakes, salt, and pepper. Stir to combine.",
+    "Continue cooking for an additional 1-2 minutes, until asparagus is coated in the sauce.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "chinese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-smoked-brazilian-asparagus-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:14:34.824Z"
+}
