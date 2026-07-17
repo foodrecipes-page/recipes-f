@@ -1,0 +1,65 @@
+{
+  "slug": "fermented-springy-saudi-arabian-red-bean-paste-tagine",
+  "title": "Saudi Arabian Red Bean Tagine",
+  "description": "A hearty and flavorful tagine made with red beans, inspired by traditional Saudi Arabian cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bean paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented red bean",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Springy wheat",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Arabian spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tagine or large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the red bean paste, fermented red bean, and Arabian spices; stir to combine.",
+    "Add the wheat and stir to combine.",
+    "Add water to cover the mixture and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Serve with a side of flatbread or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "red-bean",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-springy-saudi-arabian-red-bean-paste-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:16:51.278Z"
+}
