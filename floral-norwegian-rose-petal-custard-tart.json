@@ -1,0 +1,91 @@
+{
+  "slug": "floral-norwegian-rose-petal-custard-tart",
+  "title": "Rose Petal Tart",
+  "description": "A sweet dessert featuring a rose petal-infused custard filling on a floral-flavored tart base.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rose Petal Jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Custard",
+      "amount": "2 cups",
+      "notes": "rose petal-infused"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tart Pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Rose Petals",
+      "amount": "1/4 cup",
+      "notes": "dried and crumbled"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the tart pastry and place it in a 9-inch tart pan with a removable bottom.",
+    "In a medium bowl, whisk together the flour, granulated sugar, and melted butter until well combined.",
+    "Press the mixture into the tart shell and bake for 20-25 minutes, or until lightly golden.",
+    "In a separate bowl, whisk together the custard, rose petal jam, and confectioners' sugar until smooth.",
+    "Pour the custard mixture into the baked tart shell and smooth the top.",
+    "Bake for an additional 25-30 minutes, or until the filling is set and the edges are lightly golden.",
+    "Allow the tart to cool completely on a wire rack.",
+    "Dust with confectioners' sugar and garnish with crumbled rose petals, if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "rose-petal",
+    "tart",
+    "dessert",
+    "custard",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-norwegian-rose-petal-custard-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:41:53.655Z"
+}
