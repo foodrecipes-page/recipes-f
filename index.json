@@ -8640,17 +8640,15 @@
   },
   {
     "slug": "flaky-turkish-bread-flatbread",
-    "title": "Flaky Turkish Bread Flatbread",
+    "title": "Turkish-Style Flatbread",
     "tags": [
+      "turkish",
       "flatbread",
-      "homemade-bread",
-      "pressure-cooker",
-      "sugar-free",
-      "turkish-cuisine",
-      "vegetarian"
+      "bread",
+      "snack"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -9514,14 +9512,12 @@
   },
   {
     "slug": "flavorful-light-indian-mushroom-lassi",
-    "title": "Flavorful Light Indian Mushroom Lassi",
+    "title": "Mushroom and Lassi Indian Curry",
     "tags": [
-      "easy-to-make",
-      "indian-inspired",
-      "light-snack",
-      "mushroom-based",
-      "refreshing-drink",
-      "vegan-friendly"
+      "indian",
+      "curry",
+      "mushroom",
+      "vegetarian"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
@@ -21672,6 +21668,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-canadian-cookie-salad--gluten-free",
+    "title": "Canadian Salad",
+    "tags": [
+      "gluten-free",
+      "canadian",
+      "salad"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 10,
     "shard": "f"
   }
 ]
