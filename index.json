@@ -3948,14 +3948,14 @@
   },
   {
     "slug": "fermented-tendy-brazilian-rice-stick-noodles-stir-fry",
-    "title": "Fermented Tendy Brazilian Rice Stick Noodles Stir-fry",
+    "title": "Brazilian Stir Fry Noodles",
     "tags": [
-      "fermented-rice-stick-noodles",
       "stir-fry",
-      "low-calorie-friendly-brazilian-dish"
+      "noodles",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -10202,18 +10202,14 @@
   },
   {
     "slug": "floral-chewy-slovak-leek-soup",
-    "title": "Floral Chewy Slovak Leek Soup",
+    "title": "Slovak Leek Soup",
     "tags": [
-      "slovakian",
-      "leek-soup",
-      "floral",
-      "chewy",
-      "weeknight",
-      "mediterranean-friendly",
+      "soup",
+      "slovak",
       "vegetarian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "Slovak",
+    "totalTimeMin": 45,
     "shard": "f"
   },
   {
@@ -17828,15 +17824,16 @@
   },
   {
     "slug": "fresh-monsoon-strawberries-salad",
-    "title": "Fresh Monsoon Strawberries Salad",
+    "title": "Monsoon Strawberry Salad",
     "tags": [
-      "fresh-strawberries",
-      "monsoon-dutch",
-      "roasted-fruit",
-      "halal-friendly"
+      "summer",
+      "salad",
+      "strawberries",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 17,
+    "cuisine": "Indian",
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -18022,17 +18019,15 @@
   },
   {
     "slug": "fresh-spicy-australian-onion-skewers",
-    "title": "Fresh Spicy Australian Onion Skewers",
+    "title": "Spicy Australian Shrimp Skewers",
     "tags": [
       "australian",
-      "gluten-free",
+      "seafood",
       "grilled",
-      "healthy",
-      "quick",
-      "vegetarian"
+      "spicy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 38,
     "shard": "f"
   },
   {
@@ -21677,6 +21672,31 @@
     ],
     "cuisine": "canadian",
     "totalTimeMin": 10,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-light-ethiopian-black-beans-toast--vegan",
+    "title": "Ethiopian Fluffy Bean Toast",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "breakfast"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 10,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-fragrant-turkish-chicken-drumsticks-manti--indian",
+    "title": "Chicken Manti with Indian Twist",
+    "tags": [
+      "indian",
+      "turkish",
+      "chicken",
+      "manti"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "f"
   }
 ]
