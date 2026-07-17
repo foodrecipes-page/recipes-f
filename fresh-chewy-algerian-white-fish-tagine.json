@@ -1,0 +1,95 @@
+{
+  "slug": "fresh-chewy-algerian-white-fish-tagine",
+  "title": "Algerian Fish Tagine",
+  "description": "A traditional Algerian dish made with fish and spices, slow-cooked in a flavorful tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (white fish such as cod or tilapia)",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chewy Algerian dates",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "White onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend (ras el hanout)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the fish and pat it dry with paper towels.",
+    "Heat the olive oil in the bottom of a tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the Algerian spice blend, salt, and black pepper, and cook for 1 minute.",
+    "Add the dates and cook for 1 minute.",
+    "Add the fish and cook for 2-3 minutes per side, or until it is cooked through.",
+    "Add the white wine and water to the tagine, and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10-15 minutes, or until the fish is cooked through.",
+    "Serve the fish hot, garnished with parsley and served with couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fish",
+    "tagine",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-algerian-white-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:24:19.009Z"
+}
