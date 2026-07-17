@@ -1,0 +1,85 @@
+{
+  "slug": "flavorful-chinese-wood-ear-mushrooms-noodles",
+  "title": "Spicy Chinese Mushroom Noodle Stir Fry",
+  "description": "A flavorful and spicy stir fry made with Chinese noodles, mushrooms, and ear of corn. A delicious and quick meal option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ear of Corn",
+      "amount": "1 ear"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced ginger and garlic and stir-fry for 1 minute.",
+    "Add the mushrooms and ear of corn and stir-fry for 3-4 minutes.",
+    "Add the soy sauce, sesame oil, and red pepper flakes and stir-fry for another minute.",
+    "Add the Chinese noodles and stir-fry for 2-3 minutes or until they are well coated with the sauce.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "quick",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-chinese-wood-ear-mushrooms-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:14:42.163Z"
+}
