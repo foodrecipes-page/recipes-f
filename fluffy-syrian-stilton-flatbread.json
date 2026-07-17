@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-syrian-stilton-flatbread",
+  "title": "Syrian Stilton Bruschetta",
+  "description": "A flavorful appetizer combining the richness of Stilton cheese with the crunch of Syrian flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian flatbread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 tablespoons olive oil",
+      "notes": "for brushing the flatbread"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the Syrian flatbread slices with olive oil and season with salt.",
+    "Cut the flatbread into 1-inch squares.",
+    "Transfer the flatbread squares to a baking sheet and bake for 5 minutes.",
+    "Remove the flatbread from the oven and top each square with crumbled Stilton cheese.",
+    "Return the flatbread to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "cheese",
+    "flatbread",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-syrian-stilton-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:30:03.100Z"
+}
