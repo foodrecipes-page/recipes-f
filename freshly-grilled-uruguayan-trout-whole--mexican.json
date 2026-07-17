@@ -1,0 +1,85 @@
+{
+  "slug": "freshly-grilled-uruguayan-trout-whole--mexican",
+  "title": "Mexican Grilled Trout",
+  "description": "A flavorful and healthy Mexican-inspired dish featuring grilled trout as the main ingredient. This recipe is perfect for a quick and delicious dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole trout",
+      "amount": "1",
+      "notes": "freshly caught"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the trout under cold water and pat dry with paper towels.",
+    "In a small bowl, mix together lime juice, olive oil, cumin, chili powder, and garlic powder.",
+    "Season the trout with salt and pepper.",
+    "Brush the trout with the lime juice mixture and place on the grill.",
+    "Grill the trout for 4-5 minutes per side, or until cooked through.",
+    "Serve the trout hot, garnished with chopped cilantro.",
+    "Serve with your favorite Mexican sides, such as rice, beans, or tortillas."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "mexican",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-grilled-uruguayan-trout-whole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:02:00.368Z"
+}
