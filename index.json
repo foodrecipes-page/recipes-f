@@ -3820,16 +3820,15 @@
   },
   {
     "slug": "fermented-springy-saudi-arabian-red-bean-paste-tagine",
-    "title": "Fermented Springy Saudi-Arabian Red Bean Paste Tagine",
+    "title": "Saudi Arabian Red Bean Tagine",
     "tags": [
-      "anko-red-bean-paste",
-      "fermented",
-      "fodmap-friendly",
       "saudi-arabian",
-      "slow-cooked"
+      "red-bean",
+      "tagine",
+      "vegetarian"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 460,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 60,
     "shard": "f"
   },
   {
@@ -21834,6 +21833,19 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-buttery-uruguayan-one-pot-casserole--vegetarian",
+    "title": "Flaky Uruguayan-Style Vegetable Casserole",
+    "tags": [
+      "vegetarian",
+      "latin-american",
+      "casserole",
+      "pastry"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 55,
     "shard": "f"
   }
 ]
