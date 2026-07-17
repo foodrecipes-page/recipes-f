@@ -1,0 +1,80 @@
+{
+  "slug": "fresh-crumbly-japanese-bulgur-pilaf",
+  "title": "Japanese Bulgur Pilaf",
+  "description": "A healthy and flavorful Japanese-inspired pilaf made with bulgur, fresh vegetables, and a hint of sesame.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "medium grain"
+    },
+    {
+      "name": "fresh sesame oil",
+      "amount": "2 tbsp",
+      "notes": "used for cooking"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking bulgur"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat sesame oil over medium heat.",
+    "Add grated carrots and cook until tender, about 3-4 minutes.",
+    "Add bulgur, water, and soy sauce to the saucepan.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "Fluff cooked bulgur with a fork and stir in green onions.",
+    "Season with salt to taste.",
+    "Transfer to a serving dish and garnish with toasted sesame seeds, if desired.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "bulgur",
+    "japanese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crumbly-japanese-bulgur-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:22:51.447Z"
+}
