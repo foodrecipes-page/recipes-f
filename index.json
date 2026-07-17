@@ -724,15 +724,16 @@
   },
   {
     "slug": "fatty-juicy-slovakian-turnips-roast",
-    "title": "Fatty Juicy Slovakian Turnips Roast",
+    "title": "Pan-Seared Slovakian Pork Chops with Roast Turnips",
     "tags": [
-      "date-night",
-      "fatty",
-      "juicy",
-      "slovakian"
+      "slovakian",
+      "pork",
+      "turnips",
+      "roast",
+      "comfort-food"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -16654,14 +16655,13 @@
   },
   {
     "slug": "fresh-crumbly-japanese-bulgur-pilaf",
-    "title": "Fresh Crumbly Japanese Bulgur Pilaf",
+    "title": "Japanese Bulgur Pilaf",
     "tags": [
-      "fresh",
-      "crumbly",
-      "monsoon",
+      "pilaf",
+      "bulgur",
       "japanese",
-      "paleo-friendly",
-      "pilaf"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 30,
@@ -21788,6 +21788,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 28,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-grilled-uruguayan-trout-whole--mexican",
+    "title": "Mexican Grilled Trout",
+    "tags": [
+      "grilled",
+      "mexican",
+      "seafood"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "f"
   }
 ]
