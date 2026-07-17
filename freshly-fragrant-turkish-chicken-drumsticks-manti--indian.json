@@ -1,0 +1,98 @@
+{
+  "slug": "freshly-fragrant-turkish-chicken-drumsticks-manti--indian",
+  "title": "Chicken Manti with Indian Twist",
+  "description": "A fusion of Indian spices and Turkish manti, this dish is a flavorful and exotic take on traditional chicken manti. The combination of spices and herbs adds a unique twist to this popular Turkish dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "4",
+      "notes": "bone-in"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "manti dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the cumin powder, coriander powder, garam masala, and salt.",
+    "Add the chopped onion, grated ginger, and minced garlic to the bowl and mix well.",
+    "Add the chicken drumsticks to the bowl and toss them in the spice mixture until they are evenly coated.",
+    "Brush the chicken drumsticks with ghee or vegetable oil and place them on a baking sheet.",
+    "Bake the chicken in the preheated oven for 20-25 minutes, or until it is cooked through.",
+    "Meanwhile, prepare the manti dough according to the package instructions.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it into bite-sized pieces.",
+    "To assemble the manti, place a spoonful of the chicken mixture onto the center of a manti dough circle.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal the manti.",
+    "Repeat with the remaining dough and chicken mixture.",
+    "Serve the manti hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "turkish",
+    "chicken",
+    "manti"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fragrant-turkish-chicken-drumsticks-manti--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:42:54.720Z"
+}
