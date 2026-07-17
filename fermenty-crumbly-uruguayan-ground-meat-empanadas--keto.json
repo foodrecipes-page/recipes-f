@@ -1,0 +1,83 @@
+{
+  "slug": "fermenty-crumbly-uruguayan-ground-meat-empanadas--keto",
+  "title": "Uruguayan Beef Empanadas",
+  "description": "Delicious beef empanadas in the style of Uruguay, adapted for a keto diet.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio for optimal flavor"
+    },
+    {
+      "name": "Ground uruguayan meat",
+      "amount": "1/2 pound",
+      "notes": "Adds a nice depth of flavor"
+    },
+    {
+      "name": "Fermenty cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "A keto-friendly alternative to traditional cheese"
+    },
+    {
+      "name": "Crumbly fat",
+      "amount": "2 tablespoons",
+      "notes": "Optional, but adds a nice texture"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package, store-bought or homemade",
+      "notes": "Keto-friendly ingredients recommended"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the empanada dough according to package instructions or make your own using keto-friendly ingredients.",
+    "In a large skillet, cook the ground beef and uruguayan meat over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the crumbled fermenty cheese and cook until melted and combined with the meat mixture.",
+    "Season the meat mixture with salt and pepper to taste.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the meat mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "uruguayan",
+    "beef",
+    "empanadas",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermenty-crumbly-uruguayan-ground-meat-empanadas--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:06:01.537Z"
+}
