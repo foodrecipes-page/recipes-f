@@ -1,0 +1,72 @@
+{
+  "slug": "fermented-saudic-bean-stir-fry",
+  "title": "Fermented Bean Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with fermented beans and saudic as the main ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Beans",
+      "amount": "1 cup",
+      "notes": "Available at most health food stores"
+    },
+    {
+      "name": "Saudic",
+      "amount": "1/2 cup",
+      "notes": "Available at most health food stores"
+    },
+    {
+      "name": "Bean Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for added flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added umami"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the bean oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and saute for 1 minute.",
+    "Add the fermented beans and saudic, stir-frying for 2-3 minutes.",
+    "Add the soy sauce and salt to taste, stir-frying for an additional minute.",
+    "Serve hot over rice or noodles.",
+    "Optional: add additional stir-fry ingredients such as vegetables or tofu."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "stir-fry",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-saudic-bean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:36:22.271Z"
+}
