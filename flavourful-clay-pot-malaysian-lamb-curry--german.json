@@ -1,0 +1,81 @@
+{
+  "slug": "flavourful-clay-pot-malaysian-lamb-curry--german",
+  "title": "Lamb Curry with a German Twist",
+  "description": "A flavorful and aromatic curry dish made with lamb, inspired by traditional Malaysian flavors, given a unique twist with a hint of German spices.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tbsp",
+      "notes": "curry powder"
+    },
+    {
+      "name": "flavoursome oil",
+      "amount": "1 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium-sized onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pot",
+      "amount": "1",
+      "notes": "large pot"
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the lamb and cook until browned.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "curry",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavourful-clay-pot-malaysian-lamb-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:22:46.588Z"
+}
