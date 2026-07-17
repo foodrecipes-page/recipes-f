@@ -2059,14 +2059,16 @@
   },
   {
     "slug": "fermented-crunchy-portuguese-peach-pilaf",
-    "title": "Fermented Crunchy Portuguese Peach Pilaf",
+    "title": "Seared Peach with Fermented Pilaf",
     "tags": [
-      "fermented-peach-pilaf",
-      "low-carb-portuguese",
-      "crunchy-peach-mixture"
+      "peach",
+      "fermented-pilaf",
+      "portuguese-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -9195,18 +9197,15 @@
   },
   {
     "slug": "flavorful-chinese-wood-ear-mushrooms-noodles",
-    "title": "Flavorful Chinese Wood Ear Mushrooms Noodles",
+    "title": "Spicy Chinese Mushroom Noodle Stir Fry",
     "tags": [
       "chinese",
-      "mushrooms",
-      "noodles",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "quick",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -14767,17 +14766,15 @@
   },
   {
     "slug": "fluffy-syrian-stilton-flatbread",
-    "title": "Fluffy Syrian Stilton Flatbread",
+    "title": "Syrian Stilton Bruschetta",
     "tags": [
-      "air-fryer-recipes",
-      "cheesy-goodness",
-      "fluffy-flatbreads",
-      "paleo-friendly",
-      "romantic-dinner",
-      "syrian-cuisine"
+      "appetizer",
+      "cheese",
+      "flatbread",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 17,
     "shard": "f"
   },
   {
@@ -21824,6 +21821,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fantastic-smoked-brazilian-asparagus-skillet--vegan",
+    "title": "Skillet Brazilian Asparagus",
+    "tags": [
+      "vegan",
+      "asparagus",
+      "brazilian",
+      "skillet"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 15,
     "shard": "f"
   }
 ]
