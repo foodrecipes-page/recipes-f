@@ -1,0 +1,72 @@
+{
+  "slug": "fatty-tender-mexican-beef-barbacoa",
+  "title": "Barbacoa Beef Tacos",
+  "description": "A flavorful and tender Mexican-inspired dish made with slow-cooked barbacoa beef, perfect for tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "fatty",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "tender",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 packet",
+      "notes": "taco seasoning"
+    },
+    {
+      "name": "barbacoa",
+      "amount": "1 cup",
+      "notes": "barbacoa sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the fatty over medium-high heat.",
+    "Add the beef and sear until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the tender to the pot and cook until fragrant, about 1 minute.",
+    "Add the mexican (taco seasoning) to the pot and cook for 1 minute.",
+    "Add the barbacoa sauce to the pot and stir to combine.",
+    "Return the beef to the pot and stir to coat with the sauce.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the beef for 2-1/2 hours, or until tender and easily shredded.",
+    "Shred the beef with two forks and season with salt and pepper to taste.",
+    "Serve the barbacoa beef in tacos with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbacoa",
+    "beef",
+    "mexican",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-tender-mexican-beef-barbacoa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:29:05.237Z"
+}
