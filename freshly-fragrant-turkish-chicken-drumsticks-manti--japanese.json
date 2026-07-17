@@ -1,0 +1,82 @@
+{
+  "slug": "freshly-fragrant-turkish-chicken-drumsticks-manti--japanese",
+  "title": "Japanese-Style Chicken Manti",
+  "description": "A Japanese twist on the traditional Turkish dish, manti. Chicken drumsticks are wrapped in a delicate dough and steamed to perfection.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "manti dough",
+      "amount": "1 package",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat steamer to high heat.",
+    "Prepare manti dough according to package instructions.",
+    "Wrap each chicken drumstick with a piece of dough, making sure to seal the edges.",
+    "Steam the manti for 8-10 minutes, or until the dough is cooked and the chicken is heated through.",
+    "Heat sesame oil in a small pan over medium heat.",
+    "Add grated ginger and soy sauce to the pan and stir to combine.",
+    "Brush the sauce over the steamed manti.",
+    "Garnish with green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "steamed",
+    "manti"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fragrant-turkish-chicken-drumsticks-manti--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:47:46.502Z"
+}
