@@ -21735,5 +21735,45 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "f"
+  },
+  {
+    "slug": "fragrant-indian-sardines-curry--thai",
+    "title": "Thai Sardine Curry",
+    "tags": [
+      "thai",
+      "seafood",
+      "curry",
+      "indian-spiced"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermenty-crumbly-uruguayan-ground-meat-empanadas--keto",
+    "title": "Uruguayan Beef Empanadas",
+    "tags": [
+      "keto",
+      "uruguayan",
+      "beef",
+      "empanadas",
+      "dinner"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fantastic-smoked-brazilian-asparagus-skillet--chinese",
+    "title": "Smoked Asparagus Stir Fry",
+    "tags": [
+      "asparagus",
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
+    "shard": "f"
   }
 ]
