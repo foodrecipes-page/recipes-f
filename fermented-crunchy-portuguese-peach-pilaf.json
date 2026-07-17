@@ -1,0 +1,80 @@
+{
+  "slug": "fermented-crunchy-portuguese-peach-pilaf",
+  "title": "Seared Peach with Fermented Pilaf",
+  "description": "A sweet and savory Portuguese-inspired dish combining seared peaches with a fermented pilaf.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peach",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "fermented and cooked"
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "1 slice",
+      "notes": "toasted and crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "crunchy garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add sliced peaches and sear for 2-3 minutes per side.",
+    "Remove peaches from skillet and set aside.",
+    "Add toasted bread crumbs and cook for 1 minute.",
+    "Add fermented pilaf, salt, and pepper to skillet. Stir to combine.",
+    "Return seared peaches to skillet and toss with pilaf mixture.",
+    "Sprinkle with minced garlic and serve immediately.",
+    " Garnish with additional pilaf and bread crumbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peach",
+    "fermented-pilaf",
+    "portuguese-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-portuguese-peach-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:47:24.557Z"
+}
