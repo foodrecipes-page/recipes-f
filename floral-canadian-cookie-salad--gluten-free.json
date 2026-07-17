@@ -1,0 +1,63 @@
+{
+  "slug": "floral-canadian-cookie-salad--gluten-free",
+  "title": "Canadian Salad",
+  "description": "A delicious and refreshing salad featuring Canadian ingredients. Perfect for a light gluten-free meal.",
+  "cuisine": "canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens (salad)",
+      "amount": "4 cups",
+      "notes": "Choose your favorite greens"
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free and Canadian"
+    },
+    {
+      "name": "Feta cheese (Canadian)",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free and Canadian"
+    },
+    {
+      "name": "Chopped pecans",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds a nice crunch"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, floral honey"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens, dried cranberries, and feta cheese.",
+    "2. Sprinkle the chopped pecans on top of the salad, if using.",
+    "3. Drizzle the floral honey over the salad and toss to combine.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "canadian",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-canadian-cookie-salad--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:18:48.550Z"
+}
