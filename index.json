@@ -866,17 +866,15 @@
   },
   {
     "slug": "fatty-tender-mexican-beef-barbacoa",
-    "title": "Fatty Tender Mexican Beef Barbacoa",
+    "title": "Barbacoa Beef Tacos",
     "tags": [
+      "barbacoa",
       "beef",
-      "braised",
-      "crowd-pleaser",
       "mexican",
-      "one-pot",
-      "weeknight"
+      "tacos"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 210,
+    "totalTimeMin": 165,
     "shard": "f"
   },
   {
@@ -21723,6 +21721,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-russian-pancakes-pancakes--italian",
+    "title": "Italian Cream-Flapjacked Pancake",
+    "tags": [
+      "italian",
+      "breakfast",
+      "pancakes",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
