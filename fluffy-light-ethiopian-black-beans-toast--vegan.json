@@ -1,0 +1,72 @@
+{
+  "slug": "fluffy-light-ethiopian-black-beans-toast--vegan",
+  "title": "Ethiopian Fluffy Bean Toast",
+  "description": "A vegan twist on toast with fluffy beans and a touch of Ethiopian spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "canned beans"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "light",
+      "amount": "2 slices",
+      "notes": "whole wheat bread"
+    },
+    {
+      "name": "black",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread for 2 minutes.",
+    "In a pan, heat the black olive oil over medium heat.",
+    "Add the ground Ethiopian spices and cook for 1 minute.",
+    "Add the cooked black beans and cook for 2 minutes.",
+    "Add the fluffy beans and stir for 1 minute.",
+    "Season with salt to taste.",
+    "Serve the bean mixture on top of the toasted bread.",
+    "Garnish with additional Ethiopian spices if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-light-ethiopian-black-beans-toast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:13:06.892Z"
+}
