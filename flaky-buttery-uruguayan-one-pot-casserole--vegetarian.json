@@ -1,0 +1,92 @@
+{
+  "slug": "flaky-buttery-uruguayan-one-pot-casserole--vegetarian",
+  "title": "Flaky Uruguayan-Style Vegetable Casserole",
+  "description": "A vegetarian take on the classic Uruguayan dish, this casserole features flaky pastry and a variety of roasted vegetables.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Uruguayan Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the onion, eggplant, zucchini, and mushrooms.",
+    "In a large skillet, sauté the vegetables in butter until tender.",
+    "Add garlic and cook for an additional minute.",
+    "In a separate bowl, mix the sliced tomato and cheddar cheese (if using).",
+    "Roll out the flaky pastry and place in a one-pot casserole dish.",
+    "Add the vegetable mixture to the pastry-lined dish.",
+    "Top with the tomato and cheese mixture.",
+    "Cover the dish with another sheet of pastry and crimp the edges.",
+    "Brush the top of the pastry with butter and cut a few slits for ventilation.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "latin-american",
+    "casserole",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-buttery-uruguayan-one-pot-casserole--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:14:50.362Z"
+}
