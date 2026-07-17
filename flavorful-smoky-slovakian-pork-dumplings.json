@@ -1,0 +1,96 @@
+{
+  "slug": "flavorful-smoky-slovakian-pork-dumplings",
+  "title": "Slovakian Smoked Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring smoked pork and traditional dumplings, perfect for a chilly evening.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Pork Shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Bacon Bits",
+      "amount": "1/4 cup",
+      "notes": "for added smokiness"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Slovakian Dumpling Seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, salt, and pepper.",
+    "Add the beaten egg and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly.",
+    "Heat a large skillet over medium heat.",
+    "Add the butter and cook until melted.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked pork shoulder and cook until browned.",
+    "Add the bacon bits and cook for 1 minute.",
+    "Add the dumplings to the skillet and cook for 5-7 minutes, or until cooked through.",
+    "Serve the dumplings hot with the smoked pork and onion mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "smoked-pork",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-smoky-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:20:41.766Z"
+}
