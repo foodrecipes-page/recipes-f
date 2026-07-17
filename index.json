@@ -9702,18 +9702,15 @@
   },
   {
     "slug": "flavorful-smoky-slovakian-pork-dumplings",
-    "title": "Flavorful Smoky Slovakian Pork Dumplings",
+    "title": "Slovakian Smoked Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "home-cooking",
-      "pandan-wrapped",
-      "pork-dumplings",
-      "slovakian-cuisine",
-      "smoky"
+      "slovakian",
+      "smoked-pork",
+      "dumplings",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -11769,14 +11766,15 @@
   },
   {
     "slug": "floral-norwegian-rose-petal-custard-tart",
-    "title": "Floral Norwegian Rose Petal Custard Tart",
+    "title": "Rose Petal Tart",
     "tags": [
-      "norwegian",
       "rose-petal",
-      "custard-tart",
-      "jain-friendly"
+      "tart",
+      "dessert",
+      "custard",
+      "floral"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "French",
     "totalTimeMin": 60,
     "shard": "f"
   },
@@ -21800,6 +21798,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "flavourful-clay-pot-malaysian-lamb-curry--german",
+    "title": "Lamb Curry with a German Twist",
+    "tags": [
+      "german",
+      "lamb",
+      "curry",
+      "malaysian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-spicy-australian-onion-skewers--thai",
+    "title": "Spicy Thai Satay",
+    "tags": [
+      "thai",
+      "grilled",
+      "lamb",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
