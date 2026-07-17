@@ -1,0 +1,78 @@
+{
+  "slug": "fresh-spicy-australian-onion-skewers",
+  "title": "Spicy Australian Shrimp Skewers",
+  "description": "A flavorful and spicy dish inspired by Australian cuisine, featuring succulent shrimp cooked to perfection on skewers.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Australian Sweet Chili Sauce",
+      "amount": "1/2 cup",
+      "notes": "spicy"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Sweet Chili Sauce, Soy Sauce, and Brown Sugar.",
+    "Add the shrimp to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated shrimp onto the skewers, leaving a little space between each shrimp.",
+    "Brush the skewers with Vegetable Oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the shrimp are pink and cooked through.",
+    "Serve immediately, garnished with Green Onion and additional Sweet Chili Sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "seafood",
+    "grilled",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-spicy-australian-onion-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:46:10.188Z"
+}
