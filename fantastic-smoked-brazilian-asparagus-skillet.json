@@ -1,0 +1,59 @@
+{
+  "slug": "fantastic-smoked-brazilian-asparagus-skillet",
+  "title": "Brazilian Asparagus Skillet Delight",
+  "description": "A flavorful and nutritious skillet dish that combines the freshness of asparagus with the smokiness of Brazilian spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "any size"
+    },
+    {
+      "name": "fantastic spices",
+      "amount": "1 teaspoon",
+      "notes": "Brazilian blend"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "adds depth"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the fantastic spices and smoked paprika, cook for 1 minute.",
+    "Add the asparagus, cook for 3-4 minutes or until slightly tender.",
+    "Stir occasionally to prevent burning.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "skillet-dinner",
+    "brazilian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-smoked-brazilian-asparagus-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:02:11.920Z"
+}
