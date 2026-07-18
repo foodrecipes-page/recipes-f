@@ -1,0 +1,98 @@
+{
+  "slug": "fiery-korean-tofu-stir-fry",
+  "title": "Spicy Korean Tofu Stir Fry",
+  "description": "A quick and flavorful stir fry made with crispy tofu, spicy Korean chili flakes, and a variety of vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Fiery",
+      "amount": "2 tsp",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the onion, bell pepper, and snow peas to the skillet.",
+    "Cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Add the ginger and garlic to the skillet and cook for 1 minute.",
+    "Add the soy sauce to the skillet and stir to combine.",
+    "Return the tofu to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 1-2 minutes, until the tofu is coated in the sauce.",
+    "Season with fiery Korean chili flakes to taste.",
+    "Transfer the stir fry to a serving dish and drizzle with sesame oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "tofu",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-korean-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:12:52.371Z"
+}
