@@ -1,0 +1,80 @@
+{
+  "slug": "fresh-crunchy-australian-turkey-neck-grill",
+  "title": "Grilled Australian Turkey Neck",
+  "description": "A flavorful and tender turkey neck dish, marinated in a blend of Australian herbs and spices, then grilled to perfection. Serve with your favorite sides for a delicious and satisfying meal.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (175°C).",
+    "Rinse the turkey neck and pat it dry with paper towels.",
+    "In a small bowl, mix together olive oil, chopped rosemary, chopped thyme, garlic powder, salt, and pepper.",
+    "Place the turkey neck in a large ziplock bag or a shallow dish. Pour the marinade over the turkey neck, turning to coat evenly.",
+    "Seal the bag or cover the dish with plastic wrap. Refrigerate for at least 2 hours or overnight.",
+    "Remove the turkey neck from the marinade, letting any excess liquid drip off.",
+    "Place the turkey neck on the grill, bone side down. Close the grill lid and cook for 5 minutes.",
+    "Flip the turkey neck over and cook for an additional 5-7 minutes, or until the internal temperature reaches 74°C.",
+    "Remove the turkey neck from the grill and let it rest for 5 minutes before slicing.",
+    "Serve the grilled turkey neck hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grill",
+    "meat",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crunchy-australian-turkey-neck-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:08:12.432Z"
+}
