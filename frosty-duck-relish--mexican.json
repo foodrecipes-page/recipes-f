@@ -1,0 +1,93 @@
+{
+  "slug": "frosty-duck-relish--mexican",
+  "title": "Duck Tacos with Frosty Slaw",
+  "description": "A twist on traditional tacos, featuring crispy duck, topped with a refreshing frosty slaw and spicy relish.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "4",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Frosty",
+      "amount": "2",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Relish",
+      "amount": "2 tbsp",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and black pepper.",
+    "Sear the duck breast in a skillet over medium-high heat for 2-3 minutes per side.",
+    "Transfer the duck to the oven and cook for 12-15 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Meanwhile, combine the shredded cabbage, lime juice, and chopped cilantro in a bowl.",
+    "Add the shredded frosty to the bowl and toss to combine.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Slice the cooked duck breast into thin strips.",
+    "Assemble the tacos by placing a few strips of duck onto a tortilla, topping with a spoonful of the frosty slaw, and finishing with a dollop of relish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-tacos",
+    "frosty-slaw",
+    "duck-breast",
+    "tacos-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/frosty-duck-relish--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:05:36.752Z"
+}
