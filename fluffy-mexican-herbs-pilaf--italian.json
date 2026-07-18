@@ -1,0 +1,64 @@
+{
+  "slug": "fluffy-mexican-herbs-pilaf--italian",
+  "title": "Italian Pilaf with Herbs",
+  "description": "A flavorful Italian dish featuring pilaf, herbs, and a hint of Mexican spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Italian Herbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fluffy Bread Crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mexican Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine pilaf, herbs, bread crumbs, Mexican oregano, and salt in a bowl.",
+    "Transfer the mixture to a baking dish.",
+    "Top with grated Parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes, until golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "herb-crusted",
+    "italian-pilaf"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-mexican-herbs-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:39:16.831Z"
+}
