@@ -16921,17 +16921,15 @@
   },
   {
     "slug": "fresh-festive-korean-greens-muchim",
-    "title": "Fresh Festive Korean Greens Muchim",
+    "title": "Korean-Style Muchim Greens Salad",
     "tags": [
-      "festive-dish",
-      "healthy-snack",
-      "korean-food",
-      "low-sodium",
-      "quick-and-easy",
-      "vegetarian"
+      "korean",
+      "salad",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -22112,6 +22110,69 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-silky-croatian-doner-broth--french",
+    "title": "French Fermented Broth Soup",
+    "tags": [
+      "soup",
+      "french-cuisine",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fermentcube-stir-fry--mexican",
+    "title": "Fry Cubes with a Twist",
+    "tags": [
+      "fermentcube",
+      "stir-fry",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-dense-polish-millet-pilaf--italian",
+    "title": "Italian Millet Pilaf",
+    "tags": [
+      "italian",
+      "millet",
+      "pilaf",
+      "sausage",
+      "herbs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-syrian-mayonnaise-flatbread--japanese",
+    "title": "Syrian Gyro-Style Ramen",
+    "tags": [
+      "fusion",
+      "noodles",
+      "meat",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-springy-egyptian-hake-tagine--gluten-free",
+    "title": "Pan-Seared Hake with Egyptian Spices",
+    "tags": [
+      "gluten-free",
+      "fish",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
