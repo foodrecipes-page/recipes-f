@@ -1,0 +1,84 @@
+{
+  "slug": "fragrant-earthy-portuguese-lamb-stew--japanese",
+  "title": "Japanese-Style Lamb Stew",
+  "description": "A unique fusion of Japanese and Portuguese flavors, this hearty lamb stew is perfect for a chilly evening. The fragrant and earthy notes of the lamb pair perfectly with the savory broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1 cup",
+      "notes": "or substitute with Japanese red wine"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use Japanese soy sauce for authentic flavor"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "adds depth and umami"
+    },
+    {
+      "name": "fragrant ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté ginger until fragrant, about 1 minute.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add wine, soy sauce, mirin, and sushi rice vinegar. Stir to combine, scraping up browned bits from bottom of pot.",
+    "Return lamb to pot, cover, and transfer to oven. Braise at 300°F (150°C) for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste. Garnish with green onions and serve over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "stew",
+    "portuguese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-earthy-portuguese-lamb-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:08:51.647Z"
+}
