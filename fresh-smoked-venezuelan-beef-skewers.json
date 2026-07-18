@@ -1,0 +1,83 @@
+{
+  "slug": "fresh-smoked-venezuelan-beef-skewers",
+  "title": "Grilled Beef Skewers with Aji Amarillo",
+  "description": "A classic Venezuelan dish featuring marinated beef skewers grilled to perfection and served with a spicy kick from aji amarillo peppers.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Venezuelan aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and smoked paprika.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to your desired level of doneness.",
+    "Meanwhile, mix together the chopped aji amarillo peppers and cilantro in a small bowl.",
+    "Once the skewers are cooked, brush them with the aji amarillo-cilantro mixture during the last minute of grilling.",
+    "Serve the skewers hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "venezuelan",
+    "grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-smoked-venezuelan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:26:52.038Z"
+}
