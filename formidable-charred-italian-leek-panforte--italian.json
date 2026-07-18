@@ -1,0 +1,89 @@
+{
+  "slug": "formidable-charred-italian-leek-panforte--italian",
+  "title": "Panforte Italian Dessert",
+  "description": "A traditional Italian dessert made with fruit and nuts, typically served during the holidays.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1 cup",
+      "notes": "such as cranberries and cherries"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "panforte pan",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "leek",
+      "amount": "1 medium",
+      "notes": "minced"
+    },
+    {
+      "name": "italian spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Grease the panforte pan and dust it with powdered sugar.",
+    "In a large mixing bowl, combine the almonds, dried fruit, honey, leek, and italian spices.",
+    "Mix well until all the ingredients are well combined.",
+    "Add the chopped nuts and mix until they are evenly distributed.",
+    "Pour the mixture into the prepared panforte pan and smooth the top.",
+    "Bake for 25-30 minutes or until the panforte is firm to the touch.",
+    "Remove the panforte from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the panforte to a wire rack to cool completely.",
+    "Once the panforte is cool, dust it with powdered sugar and serve."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "holiday",
+    "fruit",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/formidable-charred-italian-leek-panforte--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:53:28.827Z"
+}
