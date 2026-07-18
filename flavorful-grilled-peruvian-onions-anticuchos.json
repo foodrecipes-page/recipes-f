@@ -1,0 +1,94 @@
+{
+  "slug": "flavorful-grilled-peruvian-onions-anticuchos",
+  "title": "Peruvian Grilled Anticuchos",
+  "description": "A traditional Peruvian dish of grilled beef heart skewers, marinated in a flavorful mixture of onions and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "2",
+      "notes": "diced (or substitute with jalapeño)"
+    },
+    {
+      "name": "peruvian aji panca pepper powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grilled",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak 20-25 bamboo skewers in water for at least 30 minutes.",
+    "Cut the beef heart into 1-inch cubes and thread onto the skewers.",
+    "In a bowl, mix together sliced onions, minced garlic, diced aji amarillo pepper, Peruvian aji panca pepper powder, cumin, chili powder, black pepper, and salt.",
+    "Add the onion mixture to the skewers and toss to coat.",
+    "Let the skewers sit at room temperature for 30 minutes to allow the marinade to penetrate.",
+    "Preheat a grill to medium-high heat.",
+    "Grill the skewers for 2-3 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with a side of grilled onions or chimichurri sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "beef",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-grilled-peruvian-onions-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:21:11.031Z"
+}
