@@ -1,0 +1,74 @@
+{
+  "slug": "fiery-molten-dutch-morbier-frittata--japanese",
+  "title": "Japanese Frittata with Melted Morbier",
+  "description": "A Japanese-inspired twist on the classic frittata, featuring melted morbier cheese and a spicy kick.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dutch potatoes",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "morbier cheese",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "fiery sauce",
+      "amount": "2 tbsp",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté diced potatoes over medium heat until tender.",
+    "In a separate bowl, whisk together eggs, soy sauce, and a pinch of salt.",
+    "Add beaten eggs to the skillet with potatoes and cook until the edges start to set.",
+    "Transfer skillet to the preheated oven and bake for 10-12 minutes.",
+    "Remove skillet from the oven and top with sliced morbier cheese.",
+    "Return skillet to the oven and bake for an additional 2-3 minutes, until cheese is melted.",
+    "Remove skillet from the oven and sprinkle with chopped green onions.",
+    "Add a drizzle of fiery sauce, if desired, for an extra kick.",
+    "Slice frittata into wedges and serve hot, with a side of soy sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "frittata",
+    "morbier"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-molten-dutch-morbier-frittata--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:34:04.047Z"
+}
