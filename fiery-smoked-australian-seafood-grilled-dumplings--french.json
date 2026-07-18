@@ -1,0 +1,85 @@
+{
+  "slug": "fiery-smoked-australian-seafood-grilled-dumplings--french",
+  "title": "Smoked Seafood Dumplings",
+  "description": "A French-inspired seafood take on traditional dumplings, with a smoky twist.",
+  "cuisine": "French",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian rock lobster meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "add smokiness to the dish"
+    },
+    {
+      "name": "Fiery harissa",
+      "amount": "1 teaspoon",
+      "notes": "for a spicy kick"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling wrappers"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "for dough hydration"
+    },
+    {
+      "name": "Grilled asparagus",
+      "amount": "4 spears",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine rock lobster meat, smoked paprika, and harissa.",
+    "Mix well and set aside.",
+    "In a separate bowl, combine flour and egg.",
+    "Gradually add water to the flour mixture and knead until a dough forms.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the rock lobster mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, pressing the edges to seal.",
+    "Boil the dumplings in salted water for 5-7 minutes, or until they float to the surface.",
+    "Serve the dumplings with grilled asparagus and a dollop of your favorite sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "dumplings",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-smoked-australian-seafood-grilled-dumplings--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:49:36.018Z"
+}
