@@ -1,0 +1,73 @@
+{
+  "slug": "fresh-syrian-mayonnaise-flatbread",
+  "title": "Syrian-Style Flatbread with Fresh Tzatziki",
+  "description": "A refreshing twist on traditional flatbread, featuring a creamy tzatziki sauce made with fresh cucumber and mayonnaise.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "fresh cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Brush the flatbread with a little water and bake for 5 minutes.",
+    "In a bowl, mix together the grated cucumber, chopped fresh dill, mayonnaise, minced garlic, and lemon juice.",
+    "Season the tzatziki sauce with salt to taste.",
+    "Serve the baked flatbread with the tzatziki sauce.",
+    "Garnish with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tzatziki",
+    "flatbread",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-syrian-mayonnaise-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:41:11.489Z"
+}
