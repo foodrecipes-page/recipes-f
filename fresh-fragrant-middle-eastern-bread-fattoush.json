@@ -1,0 +1,77 @@
+{
+  "slug": "fresh-fragrant-middle-eastern-bread-fattoush",
+  "title": "Classic Fattoush Salad",
+  "description": "A traditional Middle Eastern salad featuring toasted bread, mixed greens, and a variety of fresh vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "such as romaine, arugula, and parsley"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast pita bread cubes in the oven for 5-7 minutes, or until lightly browned.",
+    "In a large bowl, combine mixed greens, mint, parsley, feta cheese (if using), red onion, and cherry tomatoes.",
+    "Add toasted pita bread to the bowl and toss to combine.",
+    "Drizzle with your favorite dressing (such as olive oil and lemon juice) and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fattoush",
+    "salad",
+    "middle eastern",
+    "vegetarian",
+    "gluten"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fragrant-middle-eastern-bread-fattoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:15:23.745Z"
+}
