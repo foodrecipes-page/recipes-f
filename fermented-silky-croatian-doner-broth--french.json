@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-silky-croatian-doner-broth--french",
+  "title": "French Fermented Broth Soup",
+  "description": "A hearty French soup made with fermented broth and silky ingredients. This comforting dish is perfect for a cold evening.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Silky Croation Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream alternative"
+    },
+    {
+      "name": "Dona Kebap Meat",
+      "amount": "1 pound",
+      "notes": "Ground meat"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the fermented broth in a large pot over medium heat.",
+    "Add ground meat and cook until browned, breaking it apart as it cooks.",
+    "Season with salt and pepper to taste.",
+    "Stir in the silky cream and let simmer for 5 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped parsley.",
+    "Serve with crusty bread or over rice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "french-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-croatian-doner-broth--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:17:19.779Z"
+}
