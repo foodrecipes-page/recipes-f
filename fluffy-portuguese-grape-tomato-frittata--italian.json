@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-portuguese-grape-tomato-frittata--italian",
+  "title": "Grape and Tomato Frittata",
+  "description": "A simple Italian-style omelette filled with fresh grapes and tomatoes. Perfect for brunch or breakfast.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": "Large eggs for the frittata"
+    },
+    {
+      "name": "Fluffy portuguese bread",
+      "amount": "2 slices",
+      "notes": "For making breadcrumbs"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "Red or green grapes, halved"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "Cherry or grape tomatoes, halved"
+    },
+    {
+      "name": "Frittata",
+      "amount": "1",
+      "notes": "For inspiration"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the fluffy portuguese bread into small pieces and toast until crispy.",
+    "In a large bowl, whisk the eggs and season with salt and pepper.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add the toasted bread to the pan and cook for 2-3 minutes.",
+    "Add the halved grapes and tomatoes to the pan and cook for another 2-3 minutes.",
+    "Pour the whisked eggs over the bread, grapes, and tomatoes.",
+    "Transfer the pan to the preheated oven and bake for 15-20 minutes or until the eggs are set.",
+    "Remove the pan from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata and slide it onto a plate.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "omelette",
+    "frittata",
+    "grapes",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-portuguese-grape-tomato-frittata--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:50:09.908Z"
+}
