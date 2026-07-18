@@ -1,0 +1,83 @@
+{
+  "slug": "flavorful-mediterranean-fish-pilaf--chinese",
+  "title": "Mediterranean Fish Pilaf",
+  "description": "A flavorful and aromatic Chinese-inspired dish combining the freshness of Mediterranean ingredients with the delicacy of fish.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flavorful Oyster Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mediterranean Feta Cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Fish Fillets (Cod or Tilapia)",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Mediterranean Pilaf Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together oyster sauce, rice vinegar, and ginger paste. Set aside.",
+    "2. In a medium skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "3. Add the fish fillets and cook for 3-4 minutes per side, or until cooked through. Transfer the fish to a plate and cover with foil.",
+    "4. In the same skillet, add the remaining 1 tablespoon of sesame oil.",
+    "5. Add the pilaf mix and cook for 2-3 minutes, or until lightly toasted.",
+    "6. Stir in the feta cheese and cook for an additional minute.",
+    "7. Add the garlic and scallions, and cook for 1 minute.",
+    "8. Return the cooked fish to the skillet and stir to combine with the pilaf mixture.",
+    "9. Pour the reserved oyster sauce mixture over the fish and pilaf, and toss to coat.",
+    "10. Serve immediately, garnished with additional scallions if desired.",
+    "11. Enjoy your Mediterranean Fish Pilaf!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-mediterranean-fish-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:35:05.394Z"
+}
