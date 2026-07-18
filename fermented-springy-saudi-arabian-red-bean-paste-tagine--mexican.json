@@ -1,0 +1,90 @@
+{
+  "slug": "fermented-springy-saudi-arabian-red-bean-paste-tagine--mexican",
+  "title": "Saudi Arabian Tagine Beef Tacos",
+  "description": "A fusion of Mexican and Saudi cuisines, this dish brings the rich flavors of tagine to traditional tacos. The fermented red bean paste adds a depth of flavor that pairs perfectly with the springy beef.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Springy Beef",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Red Bean Paste",
+      "amount": "1/4 cup",
+      "notes": "Fermented"
+    },
+    {
+      "name": "Tagine Spice",
+      "amount": "2 teaspoons",
+      "notes": "A mix of saudi and arabian spices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the red bean paste and cook for 1 minute.",
+    "Add the tagine spice, cumin, and chili powder and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with a lime wedge.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "saudi-arabian",
+    "tacos",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-springy-saudi-arabian-red-bean-paste-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:55:20.298Z"
+}
