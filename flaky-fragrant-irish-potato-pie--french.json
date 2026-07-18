@@ -1,0 +1,84 @@
+{
+  "slug": "flaky-fragrant-irish-potato-pie--french",
+  "title": "French Shepherd's Pie",
+  "description": "A classic French-inspired dish made with ground beef, vegetables, and topped with a flaky crust.",
+  "cuisine": "french",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish potato",
+      "amount": "1.5 pounds",
+      "notes": "diced"
+    },
+    {
+      "name": "Flaky pie crust",
+      "amount": "1 store-bought or homemade",
+      "notes": "thawed"
+    },
+    {
+      "name": "Fragrant onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the diced potatoes to the pan and stir to combine with the meat mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the meat and potato mixture to a 9x13 inch baking dish.",
+    "Roll out the flaky pie crust to fit the top of the baking dish and place it on top of the filling.",
+    "Dot the top of the pie crust with the unsalted butter.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "shepherd's-pie",
+    "beef",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fragrant-irish-potato-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:41:31.298Z"
+}
