@@ -1317,19 +1317,16 @@
   },
   {
     "slug": "fermented-chewy-argentinian-tomatoes-stir-fry",
-    "title": "Fermented Chewy Argentinian Tomatoes Stir-fry",
+    "title": "Argentinian Stir-Fried Empanadas",
     "tags": [
-      "whole30",
-      "fermented",
-      "stew",
-      "stir-fry",
+      "empanadas",
       "argentinian",
-      "chewy",
-      "quick",
-      "low-carb"
+      "stir-fry",
+      "fermented",
+      "chewy"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 20,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -21846,6 +21843,44 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-german-custard-skillet--thai",
+    "title": "Thai Custard Crepes",
+    "tags": [
+      "thai",
+      "crepes",
+      "dessert",
+      "custard"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-mediterranean-fish-pilaf--chinese",
+    "title": "Mediterranean Fish Pilaf",
+    "tags": [
+      "chinese",
+      "fish",
+      "pilaf",
+      "mediterranean"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crunchy-japanese-potatoes-crumble--german",
+    "title": "German Potato Panke",
+    "tags": [
+      "german-food",
+      "potato-pancake",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
