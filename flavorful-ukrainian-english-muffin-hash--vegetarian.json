@@ -1,0 +1,66 @@
+{
+  "slug": "flavorful-ukrainian-english-muffin-hash--vegetarian",
+  "title": "Hash Brown Breakfast",
+  "description": "A delicious and easy vegetarian breakfast with crispy hash browns and a fluffy muffin.",
+  "cuisine": "english",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "English Muffin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Flavorful",
+      "amount": "1 tsp",
+      "notes": "any type of flavorful seasoning or herbs"
+    },
+    {
+      "name": "Ukrainian",
+      "amount": "1 tsp",
+      "notes": "any type of Ukrainian spice or herbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and grate the hash.",
+    "Squeeze out excess moisture from the grated hash.",
+    "Mix in flavorful and Ukrainian seasonings.",
+    "Divide the hash mixture into 2 equal portions.",
+    "Shape each portion into a patty.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Toast the English Muffin.",
+    "Serve a hash brown patty on top of a toasted English Muffin."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "english",
+    "muffin",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-ukrainian-english-muffin-hash--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:34:18.436Z"
+}
