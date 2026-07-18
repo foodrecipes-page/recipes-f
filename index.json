@@ -146,16 +146,15 @@
   },
   {
     "slug": "fantastic-moroccan-oysters-seffa",
-    "title": "Fantastic Moroccan Oysters Seffa",
+    "title": "Moroccan Seffa with Oysters",
     "tags": [
-      "chocolate",
-      "kosher-friendly",
-      "moroccan-cuisine",
-      "pasta",
-      "seafood"
+      "moroccan",
+      "seafood",
+      "couscous",
+      "oysters"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -17780,17 +17779,15 @@
   },
   {
     "slug": "fresh-mediterranean-baby-lettuce-leaves-salad",
-    "title": "Fresh Mediterranean Baby Lettuce Leaves Salad",
+    "title": "Fresh Mediterranean Salad",
     "tags": [
-      "easy-to-make",
-      "lunch",
       "mediterranean",
       "salad",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -18044,16 +18041,15 @@
   },
   {
     "slug": "fresh-syrian-mayonnaise-flatbread",
-    "title": "Fresh Syrian Mayonnaise Flatbread",
+    "title": "Syrian-Style Flatbread with Fresh Tzatziki",
     "tags": [
+      "tzatziki",
       "flatbread",
-      "mayonnaise",
-      "snack",
-      "syrian",
-      "vegetarian"
+      "middle-eastern",
+      "snack"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -22070,6 +22066,31 @@
       "vegetarian"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-dense-turkish-poppy-seeds-fritters--thai",
+    "title": "Thai Poppy Seed Fritters",
+    "tags": [
+      "thai",
+      "snack",
+      "deep-fried"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "frosty-duck-relish--mexican",
+    "title": "Duck Tacos with Frosty Slaw",
+    "tags": [
+      "mexican-tacos",
+      "frosty-slaw",
+      "duck-breast",
+      "tacos-recipe"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "f"
   }
