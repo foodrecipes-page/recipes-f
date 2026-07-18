@@ -1,0 +1,54 @@
+{
+  "slug": "fluffy-german-custard-skillet--thai",
+  "title": "Thai Custard Crepes",
+  "description": "Delicate Thai-style crepes filled with a rich custard filling. A sweet and indulgent treat.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fluffy german custard",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "skillet",
+      "amount": null,
+      "notes": "for cooking the crepes"
+    }
+  ],
+  "instructions": [
+    "Make crepe batter by mixing eggs, sugar, and flour.",
+    "Heat skillet over medium heat.",
+    "Pour 1/4 cup of batter into skillet and tilt to coat.",
+    "Cook for 1-2 minutes until crepe is lightly browned.",
+    "Flip crepe and cook for another 30 seconds.",
+    "Repeat for remaining batter.",
+    "Prepare custard filling by mixing custard powder with milk and sugar.",
+    "Heat the mixture over medium heat, stirring constantly.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 2-3 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Fill crepes with custard filling and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "crepes",
+    "dessert",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-german-custard-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:08:29.025Z"
+}
