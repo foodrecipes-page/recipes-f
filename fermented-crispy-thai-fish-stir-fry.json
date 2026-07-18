@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-crispy-thai-fish-stir-fry",
+  "title": "Crispy Fish Stir Fry",
+  "description": "A Thai-inspired dish with crispy fish and a variety of vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (cod or tilapia)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fermented soybeans (such as nam pla)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry vegetables (such as bell peppers, carrots, and broccoli)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the fermented soybeans and cook for 1-2 minutes, until fragrant.",
+    "Add the crispy fried shallots and cook for another minute.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the fish fillets and cook for 2-3 minutes per side, until cooked through.",
+    "Add the stir-fry vegetables and cook until they are tender-crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "crispy",
+    "fish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-thai-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:19:14.092Z"
+}
