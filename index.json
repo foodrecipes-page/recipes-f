@@ -7571,15 +7571,15 @@
   },
   {
     "slug": "flaky-japanese-tangerine-peel-crumble",
-    "title": "Flaky Japanese Tangerine Peel Crumble",
+    "title": "Tangerine Crumble",
     "tags": [
-      "flaky",
-      "tangy",
-      "japanese",
-      "hangover-cure",
-      "low-sodium"
+      "tangerine",
+      "crumble",
+      "dessert",
+      "fruit",
+      "sweet"
     ],
-    "cuisine": "Japanese",
+    "cuisine": null,
     "totalTimeMin": 40,
     "shard": "f"
   },
@@ -22046,6 +22046,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-molten-dutch-morbier-frittata--japanese",
+    "title": "Japanese Frittata with Melted Morbier",
+    "tags": [
+      "japanese",
+      "frittata",
+      "morbier"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crumbly-japanese-bulgur-pilaf--italian",
+    "title": "Italian Bulgur Pilaf",
+    "tags": [
+      "italian",
+      "pilaf",
+      "bulgur",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
