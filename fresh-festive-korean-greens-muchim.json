@@ -1,0 +1,75 @@
+{
+  "slug": "fresh-festive-korean-greens-muchim",
+  "title": "Korean-Style Muchim Greens Salad",
+  "description": "A refreshing and flavorful salad made with Korean-style pickled greens, crunchy fresh ingredients, and a hint of festive spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Muchim greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fresh green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Festive sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine muchim greens, green onions, sesame seeds, and chili flakes.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, sugar, and ginger until well combined.",
+    "Pour the dressing over the greens mixture and toss to coat.",
+    "Season with salt to taste.",
+    "Serve immediately and garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salad",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-festive-korean-greens-muchim",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:04:30.342Z"
+}
