@@ -1,0 +1,83 @@
+{
+  "slug": "fiery-syrian-chorizo-kebabs--japanese",
+  "title": "Syrian-Style Japanese Chorizo Kebabs",
+  "description": "A fusion of flavors combining Japanese grilled kebabs with spicy Syrian chorizo.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian Chorizo",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fiery Kebab Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together sesame oil, ginger, garlic, soy sauce, and honey.",
+    "Thread chorizo and green onions onto kebab skewers.",
+    "Brush the sesame oil mixture onto the kebab skewers.",
+    "Season with sesame seeds.",
+    "Grill kebabs for 8-10 minutes per side, or until the chorizo is cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "kebabs",
+    "chorizo",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-syrian-chorizo-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:29:50.473Z"
+}
