@@ -5236,14 +5236,12 @@
   },
   {
     "slug": "fiery-korean-tofu-stir-fry",
-    "title": "Fiery Korean Tofu Stir-fry",
+    "title": "Spicy Korean Tofu Stir Fry",
     "tags": [
       "korean",
-      "macrobiotic",
-      "one-pan",
-      "quick",
-      "spicy",
-      "tofu"
+      "tofu",
+      "stir-fry",
+      "spicy"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -9377,17 +9375,15 @@
   },
   {
     "slug": "flavorful-grilled-peruvian-onions-anticuchos",
-    "title": "Flavorful Grilled Peruvian Onions Anticuchos",
+    "title": "Peruvian Grilled Anticuchos",
     "tags": [
-      "comfort-food",
+      "peruvian",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "plant-based-friendly",
-      "weeknight"
+      "beef",
+      "snack"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 32,
     "shard": "f"
   },
   {
@@ -21906,6 +21902,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-ukrainian-english-muffin-hash--vegetarian",
+    "title": "Hash Brown Breakfast",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "english",
+      "muffin",
+      "hash"
+    ],
+    "cuisine": "english",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
