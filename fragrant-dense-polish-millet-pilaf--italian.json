@@ -1,0 +1,70 @@
+{
+  "slug": "fragrant-dense-polish-millet-pilaf--italian",
+  "title": "Italian Millet Pilaf",
+  "description": "A flavorful and nutritious Italian-inspired side dish made with millet, fragrant herbs, and polish sausage.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "2 sausages, sliced",
+      "notes": "any variety, such as kielbasa"
+    },
+    {
+      "name": "Fragrant Herbs",
+      "amount": "1/4 cup, chopped fresh parsley and basil"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet over medium-high heat.",
+    "2. Add sliced polish sausage and cook until browned, about 2-3 minutes.",
+    "3. Add chopped fragrant herbs and cook for 1 minute.",
+    "4. Add millet to the skillet and stir to combine with sausage and herbs.",
+    "5. Cook for 2-3 minutes, stirring frequently.",
+    "6. Add salt and pepper to taste.",
+    "7. Reduce heat to low and simmer, covered, for 15-20 minutes or until millet is tender.",
+    "8. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "millet",
+    "pilaf",
+    "sausage",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-dense-polish-millet-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:39:19.412Z"
+}
