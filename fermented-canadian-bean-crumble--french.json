@@ -1,0 +1,90 @@
+{
+  "slug": "fermented-canadian-bean-crumble--french",
+  "title": "Pâté de Cassoulet",
+  "description": "A classic French dish made with pork sausage, white beans, and a crispy crumble topping. Perfect for a hearty dinner.",
+  "cuisine": "french",
+  "diet": [
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fermented beans (cannellini beans)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large Dutch oven, cook the Canadian bacon over medium heat until browned, about 5 minutes.",
+    "Add the olive oil, onion, and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Stir in the fermented beans, thyme, salt, and black pepper. Bring to a simmer.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes.",
+    "While the cassoulet is baking, prepare the crumble topping by mixing the crumble topping with a pinch of salt.",
+    "After the cassoulet has baked for 20 minutes, remove it from the oven and top with the crumble topping.",
+    "Return the pot to the oven and bake for an additional 10-15 minutes, or until the crumble topping is golden brown.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cassoulet",
+    "french",
+    "beans",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-canadian-bean-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:37:01.813Z"
+}
