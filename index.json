@@ -1821,15 +1821,15 @@
   },
   {
     "slug": "fermented-crispy-thai-fish-stir-fry",
-    "title": "Fermented Crispy Thai Fish Stir-fry",
+    "title": "Crispy Fish Stir Fry",
     "tags": [
-      "fermented",
+      "thai",
       "crispy",
-      "sick-day",
-      "thai"
+      "fish",
+      "stir-fry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -21880,6 +21880,31 @@
       "snack"
     ],
     "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-chewy-jamaican-goat-stew--indian",
+    "title": "Jamaican Goat Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "goat",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-mediterranean-fish-pilaf--japanese",
+    "title": "Mediterranean-Style Fish Pilaf",
+    "tags": [
+      "japanese",
+      "fish",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "f"
   }
