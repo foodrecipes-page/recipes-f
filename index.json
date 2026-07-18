@@ -3046,17 +3046,14 @@
   },
   {
     "slug": "fermented-kenyan-garlic-crispy-stir-fry",
-    "title": "Fermented Kenyan Garlic Crispy Stir-fry",
+    "title": "Kenyan Fried Chicken",
     "tags": [
       "kenyan",
-      "garlicky",
       "crispy",
-      "fermented",
-      "date-night",
-      "keto-friendly"
+      "fried-chicken"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 15,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -17985,17 +17982,15 @@
   },
   {
     "slug": "fresh-smoked-venezuelan-beef-skewers",
-    "title": "Fresh Smoked Venezuelan Beef Skewers",
+    "title": "Grilled Beef Skewers with Aji Amarillo",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "grilled-meats",
-      "smoked-beef",
-      "south-american-food",
-      "venezuelan-cuisine"
+      "beef",
+      "venezuelan",
+      "grill",
+      "skewers"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -22092,6 +22087,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-korean-tofu-stir-fry--keto",
+    "title": "Spicy Korean Tofu Stir Fry",
+    "tags": [
+      "keto",
+      "spicy",
+      "korean",
+      "stirfry",
+      "tofu"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-molten-indian-kidney-beans-rajma--japanese",
+    "title": "Japanese Rajma Curry",
+    "tags": [
+      "japanese",
+      "curry",
+      "lunch",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
