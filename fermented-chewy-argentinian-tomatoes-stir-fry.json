@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-chewy-argentinian-tomatoes-stir-fry",
+  "title": "Argentinian Stir-Fried Empanadas",
+  "description": "A twist on traditional empanadas, these Argentinian-style stir-fried empanadas are filled with fermented and chewy ingredients for a unique flavor and texture.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Empanada Dough",
+      "amount": "1 package",
+      "notes": "available at most specialty stores"
+    },
+    {
+      "name": "Chewy Filling",
+      "amount": "1 cup",
+      "notes": "made from fermented soybeans"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Argentinian Stir-Fry Sauce",
+      "amount": "1/4 cup",
+      "notes": "available at most international stores"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of vegetable oil to the skillet and swirl it around to coat the bottom.",
+    "Add the diced tomatoes and stir-fry for 2-3 minutes, or until they start to soften.",
+    "Add the chewy filling and stir-fry for another 2-3 minutes, or until it's lightly browned.",
+    "Add the fermented empanada dough and stir-fry for 1-2 minutes, or until it's lightly browned and crispy.",
+    "Add the Argentinian stir-fry sauce and stir-fry for another minute, or until everything is coated in the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the empanadas hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "argentinian",
+    "stir-fry",
+    "fermented",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-chewy-argentinian-tomatoes-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:27:10.740Z"
+}
