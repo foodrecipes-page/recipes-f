@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-kenyan-garlic-crispy-stir-fry",
+  "title": "Kenyan Fried Chicken",
+  "description": "A crispy fried chicken dish inspired by Kenyan flavors. This recipe combines spicy fermented flavors with a crunchy exterior.",
+  "cuisine": "kenyan",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fermented Kenyan hot sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crispy fried onion rings",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the hot sauce and garlic.",
+    "Add the chicken pieces to the bowl and toss to coat.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a separate bowl, mix together the flour and eggs.",
+    "Dip each chicken piece into the flour mixture, then the egg mixture, and finally the flour mixture again.",
+    "Fry the chicken pieces in batches until golden brown and crispy.",
+    "Drain the fried chicken on paper towels.",
+    "Serve the fried chicken hot, topped with crispy fried onion rings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "crispy",
+    "fried-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-kenyan-garlic-crispy-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:57:07.705Z"
+}
