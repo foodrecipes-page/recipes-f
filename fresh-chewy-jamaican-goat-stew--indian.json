@@ -1,0 +1,92 @@
+{
+  "slug": "fresh-chewy-jamaican-goat-stew--indian",
+  "title": "Jamaican Goat Stew",
+  "description": "A hearty and flavorful Indian-inspired stew made with tender goat meat and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "chewy brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the goat meat and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the curry powder, thyme, and brown sugar, and stir for 1 minute.",
+    "Add the stew tomatoes, water, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "goat",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-chewy-jamaican-goat-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:08:50.562Z"
+}
