@@ -1,0 +1,70 @@
+{
+  "slug": "fresh-syrian-mayonnaise-flatbread--japanese",
+  "title": "Syrian Gyro-Style Ramen",
+  "description": "A fusion of Japanese ramen and Syrian gyros, this dish combines the rich flavors of the Middle East with the comforting warmth of a bowl of noodles.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Ramen Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Syrian Kofta Meat (beef/lamb mix)",
+      "amount": "250g"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "50g",
+      "notes": "for serving"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to package instructions. Typically 3-5 minutes.",
+    "Preheat a pan or grill to medium-high heat.",
+    "Season the Syrian kofta with salt and pepper. Cook for 5-7 minutes per side, or until the internal temperature reaches 63°C (145°F) for medium-rare.",
+    "Slice the cooked kofta into thin strips.",
+    "In a separate pan, heat some oil over medium heat. Add the sliced green onions and cook for 1-2 minutes.",
+    "To assemble the dish, place a portion of cooked noodles in a bowl, followed by a few slices of the cooked kofta. Drizzle with soy sauce and garnish with additional green onions.",
+    "Serve the mayonnaise on the side for those who prefer.",
+    "Warm the flatbread in a toaster or oven for a few minutes. Slice into thin strips and serve alongside.",
+    "Garnish with additional green onions and a sprinkle of toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "noodles",
+    "meat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-syrian-mayonnaise-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:43:12.900Z"
+}
