@@ -1,0 +1,69 @@
+{
+  "slug": "flaky-japanese-tangerine-peel-crumble",
+  "title": "Tangerine Crumble",
+  "description": "A sweet and tangy dessert made with tangerine and topped with a crunchy crumble.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tangerine",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the tangerine, removing seeds.",
+    "In a bowl, mix together the granulated sugar, all-purpose flour, and unsalted butter until crumbly.",
+    "Press half of the crumble mixture into the bottom of a baking dish.",
+    "Arrange the tangerine slices on top of the crumble mixture.",
+    "Top with the remaining crumble mixture.",
+    "Bake for 25-30 minutes or until the crumble is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangerine",
+    "crumble",
+    "dessert",
+    "fruit",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-japanese-tangerine-peel-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:03:29.922Z"
+}
