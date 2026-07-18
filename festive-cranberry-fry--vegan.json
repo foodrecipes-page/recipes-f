@@ -1,0 +1,65 @@
+{
+  "slug": "festive-cranberry-fry--vegan",
+  "title": "Cranberry Festive Fry Bites",
+  "description": "A vegan twist on the classic fry, these bite-sized treats are perfect for snacking on the go. Made with cranberry sauce and festive spices, they're a delicious and easy-to-make treat.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cranberry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "festival spice blend",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the fry and cook until golden brown, about 3-4 minutes.",
+    "In a separate saucepan, combine the cranberry, festival spice blend, apple cider vinegar, and maple syrup.",
+    "Bring the mixture to a simmer over medium heat and cook for 5-7 minutes or until the cranberry sauce has thickened.",
+    "Once the fry is cooked, remove it from the heat and toss with the cranberry sauce.",
+    "Season with salt to taste.",
+    "Serve the cranberry festive fry bites warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-cranberry-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:35:50.692Z"
+}
