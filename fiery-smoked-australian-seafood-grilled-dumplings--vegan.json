@@ -1,0 +1,96 @@
+{
+  "slug": "fiery-smoked-australian-seafood-grilled-dumplings--vegan",
+  "title": "Australian Vegan Dumplings",
+  "description": "A hearty, plant-based Australian-inspired dumpling dish with a flavorful filling. Perfect for a cozy night in.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fiery Vegan Dumpling Wrappers",
+      "amount": "12-15 wrappers",
+      "notes": null
+    },
+    {
+      "name": "Grilled Portobello Mushrooms",
+      "amount": "1 large mushroom",
+      "notes": "Grilled until tender"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Australian-Style Vegan BBQ Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce (make sure it's vegan)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat coconut oil over medium heat.",
+    "Add the grilled portobello mushrooms and cook until tender.",
+    "Add the smoked paprika, Australian-Style Vegan BBQ Sauce, soy sauce, and rice vinegar to the pan.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Meanwhile, cook the vegan dumpling wrappers according to package instructions.",
+    "Assemble the dumplings by placing a tablespoon of the mushroom mixture onto a wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Heat a large skillet over medium-high heat and add a small amount of oil.",
+    "When the oil is hot, add the dumplings to the pan and cook until golden brown on the bottom.",
+    "Flip the dumplings and cook for an additional 2-3 minutes.",
+    "Serve the dumplings hot with chopped cilantro, scallions, and crispy fried shallots on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegan",
+    "dumplings",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-smoked-australian-seafood-grilled-dumplings--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:31:48.350Z"
+}
