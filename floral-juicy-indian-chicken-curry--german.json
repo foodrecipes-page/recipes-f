@@ -1,0 +1,94 @@
+{
+  "slug": "floral-juicy-indian-chicken-curry--german",
+  "title": "Chicken Schnitzel Curry",
+  "description": "A German twist on traditional chicken schnitzel, topped with an Indian-inspired curry sauce.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "indian curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 cup",
+      "notes": "canned, diced"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the breading station by mixing flour, curry powder, and a pinch of salt in a shallow dish.",
+    "2. Season the chicken breasts with salt and pepper.",
+    "3. Dip each chicken breast in the flour mixture, coating both sides evenly.",
+    "4. Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "5. Add the chicken breasts to the skillet and cook for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "6. Remove the chicken from the skillet and set aside.",
+    "7. In the same skillet, add the butter and sauté until melted.",
+    "8. Add the grated ginger and minced garlic and cook for 1 minute, until fragrant.",
+    "9. Stir in the curry sauce and diced tomatoes.",
+    "10. Bring the sauce to a simmer and cook for 2-3 minutes, until heated through.",
+    "11. Return the chicken breasts to the skillet and coat with the curry sauce.",
+    "12. Serve hot and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "german",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-juicy-indian-chicken-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:44:47.315Z"
+}
