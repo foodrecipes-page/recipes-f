@@ -17265,17 +17265,16 @@
   },
   {
     "slug": "fresh-fragrant-middle-eastern-bread-fattoush",
-    "title": "Fresh Fragrant Middle Eastern Bread Fattoush",
+    "title": "Classic Fattoush Salad",
     "tags": [
-      "fodmap-friendly",
-      "healthy",
-      "lunch",
-      "middle-eastern",
-      "snack",
-      "vegetarian"
+      "fattoush",
+      "salad",
+      "middle eastern",
+      "vegetarian",
+      "gluten"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -21916,6 +21915,46 @@
     ],
     "cuisine": "english",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-smoked-australian-seafood-grilled-dumplings--vegan",
+    "title": "Australian Vegan Dumplings",
+    "tags": [
+      "australian",
+      "vegan",
+      "dumplings",
+      "mushrooms"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "formidable-charred-italian-leek-panforte--italian",
+    "title": "Panforte Italian Dessert",
+    "tags": [
+      "italian",
+      "dessert",
+      "holiday",
+      "fruit",
+      "nuts"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-russian-eggs-frittata--chinese",
+    "title": "Egg Frittata with Russian Twist",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "egg",
+      "pastry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
