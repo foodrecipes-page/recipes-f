@@ -1,0 +1,69 @@
+{
+  "slug": "flaky-jamaican-cherries-crumble--german",
+  "title": "German Cherry Crumble",
+  "description": "A traditional German dessert featuring fresh cherries topped with a crunchy oat and butter crumble.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together cherries and sugar. Let it sit for 15 minutes.",
+    "In a separate bowl, combine flour, oats, brown sugar, and cinnamon.",
+    "Add the unsalted butter to the dry ingredients and mix until crumbly.",
+    "Transfer the cherry mixture to a 9x9 inch baking dish.",
+    "Evenly top the cherries with the crumble mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the fruit is bubbly.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "cherry",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-jamaican-cherries-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:03:46.016Z"
+}
