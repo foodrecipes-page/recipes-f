@@ -286,17 +286,16 @@
   },
   {
     "slug": "fast-fried-australian-manchego-skewers",
-    "title": "Fast Fried Australian Manchego Skewers",
+    "title": "Australian-Style Fried Manchego Skewers",
     "tags": [
-      "australian-cuisine",
-      "binchotan-grill",
-      "grilled",
-      "quick-snack",
-      "sweet-and-savory",
-      "vegan-friendly"
+      "australian",
+      "fried",
+      "skewers",
+      "manchego",
+      "cheese"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -22528,6 +22527,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-american-cucumber-flatbread--japanese",
+    "title": "Cucumber Tempura Flatbread",
+    "tags": [
+      "japanese",
+      "cucumber",
+      "tempura",
+      "flatbread"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-middle-eastern-lentil-mujadara--chinese",
+    "title": "Lentil Mujadara Stir Fry",
+    "tags": [
+      "chinese",
+      "middle-eastern",
+      "lentil",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "f"
   }
 ]
