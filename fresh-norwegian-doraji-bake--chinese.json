@@ -1,0 +1,95 @@
+{
+  "slug": "fresh-norwegian-doraji-bake--chinese",
+  "title": "Doraji and Norwegian Salmon Stir Fry",
+  "description": "Quick and easy Chinese-inspired stir fry with doraji and Norwegian salmon. Serve with steamed vegetables for a nutritious meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doraji flowers",
+      "amount": "1 bunch",
+      "notes": "fresh and cleaned"
+    },
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "Chinese-style egg noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "2",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook the bake according to package instructions and set aside.",
+    "2. In a large bowl, whisk together soy sauce, oyster sauce (if using), and 1 tablespoon vegetable oil.",
+    "3. Add the salmon fillets to the marinade and refrigerate for at least 15 minutes.",
+    "4. Heat 1 tablespoon vegetable oil in a large skillet or wok over medium-high heat.",
+    "5. Add the garlic and ginger to the skillet and stir-fry for 1 minute.",
+    "6. Remove the salmon from the marinade and add to the skillet. Cook for 3-4 minutes per side, or until cooked through.",
+    "7. Add the cooked bake to the skillet and stir-fry for 1-2 minutes.",
+    "8. Add the doraji flowers to the skillet and stir-fry for 1-2 minutes, or until wilted.",
+    "9. Season with sesame oil and serve hot.",
+    "10. Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-norwegian-doraji-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:12:27.146Z"
+}
