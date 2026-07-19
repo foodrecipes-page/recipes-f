@@ -1,0 +1,59 @@
+{
+  "slug": "fiery-greek-yellow-pepper-flatbread--vegan",
+  "title": "Fiery Yellow Pepper Flatbread",
+  "description": "A flavorful vegan flatbread topped with a spicy yellow pepper sauce, perfect for a quick snack or meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "fiery pepper",
+      "amount": "1-2 teaspoons, depending on desired heat level"
+    },
+    {
+      "name": "greek yogurt (substitute with vegan alternative)",
+      "amount": "1/4 cup (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the yellow pepper into thin strips.",
+    "In a blender or food processor, blend the sliced yellow pepper, fiery pepper, and a pinch of salt until smooth.",
+    "Transfer the pepper sauce to a bowl and stir in the Greek yogurt (if using).",
+    "Arrange the flatbread pieces on a baking sheet.",
+    "Brush the pepper sauce evenly onto the flatbread pieces.",
+    "Bake in the preheated oven for 12-15 minutes, or until the flatbread is crispy and the sauce is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "flatbread",
+    "snack",
+    "pepper"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-greek-yellow-pepper-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:48:53.913Z"
+}
