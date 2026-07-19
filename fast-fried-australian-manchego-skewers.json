@@ -1,0 +1,85 @@
+{
+  "slug": "fast-fried-australian-manchego-skewers",
+  "title": "Australian-Style Fried Manchego Skewers",
+  "description": "Delicious and crispy fried skewers filled with Australian flavors and melted Manchego cheese, perfect as a snack or appetizer.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 block (120g)",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Australian-style breaded coating mix",
+      "amount": "1 packet",
+      "notes": "follow instructions for preparation"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Australian skewers",
+      "amount": "10-12",
+      "notes": "wooden or bamboo"
+    },
+    {
+      "name": "Fried onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fast onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 350°F (180°C) in a deep frying pan.",
+    "Prepare the Manchego cheese cubes according to package instructions.",
+    "Thread the cheese cubes and fried onion onto the skewers.",
+    "Dip the skewers in the breaded coating mix, making sure to coat evenly.",
+    "Carefully place the skewers in the hot oil and fry for 3-4 minutes or until golden brown.",
+    "Remove the skewers from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "fried",
+    "skewers",
+    "manchego",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fast-fried-australian-manchego-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:15:54.427Z"
+}
