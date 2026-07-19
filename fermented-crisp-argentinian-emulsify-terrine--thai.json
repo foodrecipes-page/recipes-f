@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-crisp-argentinian-emulsify-terrine--thai",
+  "title": "Thai Emulsified Fermented Shrimp Salad",
+  "description": "A refreshing Thai-inspired salad with fermented shrimp, crunchy vegetables, and a zesty emulsified dressing.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented shrimp paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crisp rice noodles",
+      "amount": "1/4 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "argentinian red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "emulsify oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine fermented shrimp paste, fish sauce, and lime juice. Blend until smooth.",
+    "In a large bowl, combine cucumber, carrots, cabbage, and crisp rice noodles.",
+    "Add the emulsified shrimp paste mixture to the bowl and toss to combine.",
+    "Add argentinian red pepper flakes to taste and toss to combine.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Before serving, garnish with additional cucumber slices, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "salad",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crisp-argentinian-emulsify-terrine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:03:14.477Z"
+}
