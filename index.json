@@ -9282,17 +9282,15 @@
   },
   {
     "slug": "flavorful-fluffy-ethiopian-lentils-azifa",
-    "title": "Flavorful Fluffy Ethiopian Lentils Azifa",
+    "title": "Ethiopian Lentil Azifa",
     "tags": [
-      "high-fiber",
-      "lazy-sunday",
-      "one-pot",
-      "vegan",
+      "lentil",
+      "ethiopian",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -22493,6 +22491,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-silky-cornmeal-stir-fry--italian",
+    "title": "Italian Corn Fritters",
+    "tags": [
+      "italian",
+      "corn",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "f"
   }
 ]
