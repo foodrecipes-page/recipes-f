@@ -1,0 +1,65 @@
+{
+  "slug": "fluffy-spicy-peruvian-potatoes-bowl--chinese",
+  "title": "Spicy Peruvian Potatoes",
+  "description": "A fusion of Chinese and Peruvian flavors, these spicy potatoes are easy to make and perfect for a quick snack.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fluffy flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Spicy chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Peruvian aji amarillo paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a wok or deep frying pan to 350°F (175°C).",
+    "2. Peel and cut the potatoes into wedges.",
+    "3. In a bowl, mix the flour, chili peppers, and aji amarillo paste.",
+    "4. Add the potato wedges to the bowl and toss to coat with the spice mixture.",
+    "5. Fry the potatoes in batches until golden brown, about 3-4 minutes.",
+    "6. Drain the potatoes on paper towels.",
+    "7. Serve the spicy potatoes hot with your favorite dipping sauce.",
+    "8. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-fusion",
+    "peruvian-chinese",
+    "spicy-sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-spicy-peruvian-potatoes-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:34:59.017Z"
+}
