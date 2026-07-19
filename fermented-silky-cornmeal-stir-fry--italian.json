@@ -1,0 +1,61 @@
+{
+  "slug": "fermented-silky-cornmeal-stir-fry--italian",
+  "title": "Italian Corn Fritters",
+  "description": "A crispy and savory Italian-inspired corn fritter recipe, perfect as a snack or side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "silky eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "fry the fritters in",
+      "amount": "vegetable oil",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Combine cornmeal and fermented corn in a bowl.",
+    "In a separate bowl, whisk together eggs and a pinch of salt.",
+    "Add the egg mixture to the corn mixture and stir until just combined.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the corn mixture into the oil.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "corn",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-cornmeal-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:06:24.371Z"
+}
