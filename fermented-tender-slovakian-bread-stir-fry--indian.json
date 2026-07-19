@@ -1,0 +1,75 @@
+{
+  "slug": "fermented-tender-slovakian-bread-stir-fry--indian",
+  "title": "Slovakian-Style Stir Fry with Fermented Bread",
+  "description": "A fusion of Indian and Slovakian flavors, this stir fry features tender meat and fermented bread. A unique and delicious twist on a classic dish.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian Bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Tender Beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Fermented Vegetable",
+      "amount": "1 cup",
+      "notes": "such as kimchi or sauerkraut"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "1 teaspoon",
+      "notes": "garam masala, cumin, coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the Slovakian bread into small cubes and set aside.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the tender beef and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "Add the fermented vegetable to the skillet and cook until slightly caramelized, about 4-5 minutes.",
+    "Add the Indian spices to the skillet and cook for 1 minute, until fragrant.",
+    "Add the cooked beef back to the skillet and stir to combine with the fermented vegetable and spices.",
+    "Add the cubed bread to the skillet and stir to combine with the beef and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "slovakian",
+    "stir-fry",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-slovakian-bread-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:32:30.260Z"
+}
