@@ -1,0 +1,73 @@
+{
+  "slug": "floral-chewy-thai-eggplant-stir-fry--thai",
+  "title": "Thai-Style Eggplant Stir Fry",
+  "description": "A simple and flavorful Thai-inspired stir fry made with eggplant, stir-fry sauce, and your choice of protein.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Floral oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Chewy rice noodles",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garnish options",
+      "amount": "null",
+      "notes": "Sliced chili peppers, lime wedges, or chopped peanuts"
+    }
+  ],
+  "instructions": [
+    "Heat the floral oil in a wok or large skillet over medium-high heat.",
+    "Add the eggplant and cook until it starts to soften, about 3-4 minutes.",
+    "Add the stir-fry sauce and cook for an additional 2-3 minutes, until the eggplant is coated.",
+    "Add the cooked noodles to the wok and stir-fry for about 2 minutes, until well combined.",
+    "Stir in the chopped Thai basil and cook for an additional 30 seconds.",
+    "Serve hot, garnished with your choice of options."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "eggplant",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-thai-eggplant-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:22:03.946Z"
+}
