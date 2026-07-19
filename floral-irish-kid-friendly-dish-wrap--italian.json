@@ -1,0 +1,77 @@
+{
+  "slug": "floral-irish-kid-friendly-dish-wrap--italian",
+  "title": "Italian Wrap",
+  "description": "A kid-friendly, irish-approved Italian-inspired dish wrapped in a friendly floral dish wrap.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Floral Dish Wrap",
+      "amount": "4-6 wraps",
+      "notes": null
+    },
+    {
+      "name": "Italian Sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Provolone Cheese",
+      "amount": "8 ounces, shredded",
+      "notes": null
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the Italian sausage and cook, breaking it up with a spoon, until no longer pink, about 5-7 minutes.",
+    "Add the garlic, Italian seasoning, salt, and pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chopped basil and cook for 1 minute, stirring constantly.",
+    "Warm the floral dish wraps in the microwave or in a dry skillet.",
+    "Assemble the wraps by spooning the sausage mixture onto the center of each wrap, followed by some shredded provolone cheese.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sausage",
+    "wrap",
+    "kid-friendly",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-irish-kid-friendly-dish-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:40:56.714Z"
+}
