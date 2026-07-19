@@ -1,0 +1,56 @@
+{
+  "slug": "fermented-irish-chicken-drumsticks-skewers--french",
+  "title": "French Chicken Drumstick Skewers",
+  "description": "Tender chicken drumsticks marinated in a French-inspired fermented blend, grilled to perfection on skewers.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "irish fermented butter blend",
+      "amount": "2 tablespoons",
+      "notes": "such as Kerrygold"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a bowl, whisk together the Irish fermented butter blend, olive oil, and a pinch of salt.",
+    "3. Add the chicken drumsticks to the bowl and toss to coat evenly with the marinade.",
+    "4. Thread the marinated drumsticks onto skewers, leaving a little space between each piece.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "6. Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-irish-chicken-drumsticks-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:26:09.314Z"
+}
