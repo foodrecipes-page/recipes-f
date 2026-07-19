@@ -1,0 +1,79 @@
+{
+  "slug": "flaky-spicy-saudi-arabian-almonds-bake",
+  "title": "Spicy Arabian Almond Baklava",
+  "description": "A Middle Eastern-inspired dessert that combines crunchy phyllo, sweet almond paste, and a hint of heat from the spicy nuts.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry (Phyllo)",
+      "amount": "1 package (usually 20-24 sheets)"
+    },
+    {
+      "name": "Spicy Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saudi Arabian Almond Paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Bake",
+      "amount": "Preheated oven"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Thaw the phyllo pastry according to the package instructions.",
+    "Mix together almond paste, sugar, cardamom, and salt in a bowl.",
+    "Arrange 4-5 sheets of phyllo in a baking dish, brushing with melted butter.",
+    "Spread a quarter of the almond paste mixture over the phyllo.",
+    "Repeat the phyllo and almond paste layers 2 more times.",
+    "Top with the remaining phyllo sheets, brushing with melted butter.",
+    "Cut the baklava into diamond-shaped pieces and bake for 35-40 minutes, or until golden brown.",
+    "While still warm, sprinkle with spicy almonds and let cool completely.",
+    "Serve at room temperature, or warm if preferred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "baklava",
+    "almonds",
+    "spicy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-spicy-saudi-arabian-almonds-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:07:16.075Z"
+}
