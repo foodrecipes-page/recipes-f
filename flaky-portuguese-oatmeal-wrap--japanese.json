@@ -1,0 +1,87 @@
+{
+  "slug": "flaky-portuguese-oatmeal-wrap--japanese",
+  "title": "Portuguese Oatmeal Wrap",
+  "description": "A unique and tasty fusion of Japanese and Portuguese flavors in a crispy oatmeal wrap.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "portuguese oatmeal",
+      "amount": "1/2 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "used to make the oatmeal wrap"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "edamame",
+      "amount": "1 cup",
+      "notes": "shelled and cooked"
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the oatmeal according to package instructions.",
+    "Warm the flaky pastry sheet in the microwave for 10-15 seconds.",
+    "Spread a thin layer of soy sauce on the center of the pastry.",
+    "Add a layer of sushi rice vinegar on top of the soy sauce.",
+    "Add the cooked edamame, shredded daikon, sliced scallions, sesame seeds, and pickled ginger on top of the rice vinegar.",
+    "Fold the pastry in half to enclose the filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "portuguese",
+    "breakfast",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-oatmeal-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:00:35.496Z"
+}
