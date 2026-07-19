@@ -1,0 +1,90 @@
+{
+  "slug": "flaky-caramelized-brazilian-hake-skillet--italian",
+  "title": "Baked Hake with Caramelized Brazilian Skillet Sauce",
+  "description": "A twist on traditional Italian cuisine, this baked hake dish features a sweet and savory caramelized sauce made with Brazilian ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "Brazilian, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for baking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season hake fillets with salt and pepper.",
+    "Heat 1 tablespoon olive oil in a skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add diced skillet and cook for 2-3 minutes.",
+    "Stir in caramelized onions, white wine (if using), and salt and pepper to taste.",
+    "Transfer hake fillets to the skillet and spoon some of the sauce over the top.",
+    "Bake for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "brazilian",
+    "seafood",
+    "hake"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-caramelized-brazilian-hake-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:22:47.910Z"
+}
