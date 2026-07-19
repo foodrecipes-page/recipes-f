@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-juicy-adventurous-dutch-ackee-stir-fry",
+  "title": "Dutch Ackee Fry",
+  "description": "A unique ackee dish inspired by Dutch cuisine, with a twist of adventurous flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fry's Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Juice",
+      "amount": "1/4 cup",
+      "notes": "Pineapple juice or similar"
+    },
+    {
+      "name": "Adventurous Spices",
+      "amount": "1 tsp",
+      "notes": "Cayenne pepper or similar"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, stir-fry the onion, bell pepper, and tomato until softened.",
+    "2. Add the ackee to the pan and stir well.",
+    "3. Add the fermented soy sauce and adventurous spices to the pan and stir-fry for 2 minutes.",
+    "4. Meanwhile, toast the fry's bread in a toaster or under the broiler.",
+    "5. Assemble the dish by placing the toasted bread on a plate, topping it with the ackee mixture, and drizzling with juicy juice.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "ackee",
+    "stir-fry",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-juicy-adventurous-dutch-ackee-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:10:59.786Z"
+}
