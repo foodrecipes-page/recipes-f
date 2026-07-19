@@ -1,0 +1,87 @@
+{
+  "slug": "fermented-malaysian-dish-noodles--vegan",
+  "title": "Malaysian Vegan Noodle Stir Fry",
+  "description": "A flavorful and spicy vegan noodle dish inspired by Malaysian cuisine. This recipe is quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2 tbsp",
+      "notes": "also known as belacan"
+    },
+    {
+      "name": "vegan oil",
+      "amount": "1 tbsp",
+      "notes": "such as coconut or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegan soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions. Drain and set aside.",
+    "Heat the vegan oil in a wok or large skillet over medium-high heat.",
+    "Add the fermented bean paste and cook for 1-2 minutes, until fragrant.",
+    "Add the onion, garlic, and bell pepper. Cook for 3-4 minutes, until the vegetables are tender.",
+    "Add the cooked noodles, vegan soy sauce, sugar, and chili flakes (if using). Stir-fry for 2-3 minutes, until everything is well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro or scallions (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "vegan",
+    "noodle",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-malaysian-dish-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:15:35.160Z"
+}
