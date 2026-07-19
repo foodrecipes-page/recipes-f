@@ -1,0 +1,95 @@
+{
+  "slug": "fermented-flaky-argentinian-snapper-wrap--japanese",
+  "title": "Argentinian Snapper with Fermented Rice",
+  "description": "A Japanese-inspired dish featuring pan-seared Argentinian snapper served with a fermented rice and flaky pastry wrap.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Snapper Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Japanese Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Pastry Wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the snapper fillets with salt and pepper.",
+    "3. Heat a skillet over medium-high heat. Add sesame oil and cook for 1 minute.",
+    "4. Sear the snapper fillets for 2-3 minutes on each side, or until cooked through.",
+    "5. Meanwhile, prepare the fermented rice by mixing it with soy sauce, ginger, and sesame seeds.",
+    "6. Wrap the flaky pastry wraps around the fermented rice, forming small pouches.",
+    "7. Place the pastry pouches on a baking sheet and bake for 5-7 minutes, or until golden brown.",
+    "8. Serve the snapper fillets with the fermented rice and pastry wraps.",
+    "9. Garnish with green onions and serve with a side of sriracha and lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "seafood",
+    "fish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-flaky-argentinian-snapper-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:46:48.183Z"
+}
