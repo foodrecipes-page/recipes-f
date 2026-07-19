@@ -4706,16 +4706,16 @@
   },
   {
     "slug": "fierce-canadian-yellow-curry-bowl",
-    "title": "fierce canadian yellow curry bowl",
+    "title": "Canadian Curry Bowl",
     "tags": [
       "canadian",
+      "fish",
       "curry",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "wild-salmon",
+      "bowls"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 65,
+    "cuisine": "Canadian",
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
@@ -8473,18 +8473,16 @@
   },
   {
     "slug": "flaky-spicy-saudi-arabian-almonds-bake",
-    "title": "Saudi Arabian Spicy Almond Bake",
+    "title": "Spicy Arabian Almond Baklava",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "healthy-snacks",
-      "jain-friendly",
-      "saudi-arabian",
-      "snack",
-      "spicy"
+      "middle-eastern",
+      "baklava",
+      "almonds",
+      "spicy",
+      "dessert"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 30,
+    "cuisine": "Arabian",
+    "totalTimeMin": 70,
     "shard": "f"
   },
   {
@@ -22315,6 +22313,19 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-flaky-argentinian-snapper-wrap--japanese",
+    "title": "Argentinian Snapper with Fermented Rice",
+    "tags": [
+      "japanese",
+      "seafood",
+      "fish",
+      "dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
