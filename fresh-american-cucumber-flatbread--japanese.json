@@ -1,0 +1,90 @@
+{
+  "slug": "fresh-american-cucumber-flatbread--japanese",
+  "title": "Cucumber Tempura Flatbread",
+  "description": "A crispy Japanese-inspired flatbread topped with a refreshing cucumber tempura.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1",
+      "notes": "1 1/2 inches in diameter"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for tempura coating"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for tempura coating"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for dipping"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for dipping"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "for dipping"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together flour and cornstarch.",
+    "Dredge cucumber slices in the flour mixture, shaking off excess.",
+    "Fry the tempura coated cucumber slices in batches until golden brown.",
+    "Drain the tempura on paper towels.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the flatbread for 2-3 minutes on each side, until crispy.",
+    "Serve the grilled flatbread topped with tempura cucumber slices.",
+    "Dip the flatbread in a mixture of soy sauce, rice vinegar, and grated ginger.",
+    "Garnish with sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "cucumber",
+    "tempura",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-american-cucumber-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:40:47.161Z"
+}
