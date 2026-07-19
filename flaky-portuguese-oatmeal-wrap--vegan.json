@@ -1,0 +1,81 @@
+{
+  "slug": "flaky-portuguese-oatmeal-wrap--vegan",
+  "title": "Vegan Portuguese Flaky Oatmeal Wrap",
+  "description": "A delicious and healthy vegan wrap filled with crispy oatmeal and flaky portuguese ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Portuguese Crostini",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rolled Oatmeal",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tablespoons",
+      "notes": "such as earth balance"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "flour or whole wheat"
+    },
+    {
+      "name": "Sliced Avocado",
+      "amount": "1/2 avocado",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add vegan butter and spread evenly.",
+    "Place flaky crostini in the pan and toast until crispy.",
+    "In a separate bowl, mix oatmeal and salt.",
+    "Add oatmeal mixture on top of the crostini.",
+    "Wash and slice the avocado.",
+    "Place sliced avocado on top of the oatmeal mixture.",
+    "Sprinkle chopped cilantro over the avocado.",
+    "Warm the wrap in the microwave for 10 seconds.",
+    "Assemble the wrap by placing the oatmeal mixture in the center.",
+    "Fold the wrap and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "portuguese",
+    "snack",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-oatmeal-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:58:52.559Z"
+}
