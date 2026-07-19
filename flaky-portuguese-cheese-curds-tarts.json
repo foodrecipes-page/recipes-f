@@ -1,0 +1,70 @@
+{
+  "slug": "flaky-portuguese-cheese-curds-tarts",
+  "title": "Cheesy Flaky Tarts",
+  "description": "A simple yet elegant dessert featuring flaky pastry crusts filled with a rich cheese curd mixture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet (homemade or store-bought)",
+      "notes": "Thawed if frozen"
+    },
+    {
+      "name": "Cheese Curds",
+      "amount": "1 cup",
+      "notes": "Fresh or pasteurized"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the pastry dough to 1/4 inch thickness.",
+    "3. Cut out circles of pastry dough using a cookie cutter or the rim of a glass.",
+    "4. Place the dough circles into a muffin tin, pressing them into the corners and edges.",
+    "5. In a bowl, mix together the cheese curds, confectioners' sugar, vanilla extract, and lemon zest (if using).",
+    "6. Fill each pastry shell with the cheese curd mixture, dividing it evenly among the tarts.",
+    "7. Bake the tarts for 20-25 minutes, or until the pastry is golden brown and the filling is set.",
+    "8. Allow the tarts to cool in the pan for 5 minutes, then transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "cheese",
+    "dessert",
+    "tarts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-cheese-curds-tarts",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:22:00.080Z"
+}
