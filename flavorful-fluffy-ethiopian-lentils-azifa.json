@@ -1,0 +1,79 @@
+{
+  "slug": "flavorful-fluffy-ethiopian-lentils-azifa",
+  "title": "Ethiopian Lentil Azifa",
+  "description": "A flavorful and nutritious Ethiopian-inspired dish made with lentils and azifa. Fluffy and aromatic, this recipe is perfect for a comforting meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "red or brown lentils"
+    },
+    {
+      "name": "azifa",
+      "amount": "1 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "flavorful",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking lentils"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lentils, water, and Ethiopian spice blend. Bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Stir in the chopped azifa and cook for an additional 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional azifa if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "ethiopian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-fluffy-ethiopian-lentils-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:36:18.443Z"
+}
