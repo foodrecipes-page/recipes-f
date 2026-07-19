@@ -1,0 +1,76 @@
+{
+  "slug": "fatty-dense-american-runner-beans-stew",
+  "title": "Fatty Bean Stew",
+  "description": "A hearty, comforting stew made with fatty and dense American beans. Great for a cold winter's night.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American beans",
+      "amount": "1 cup",
+      "notes": "Dense and filling"
+    },
+    {
+      "name": "fatty",
+      "amount": "2 tablespoons",
+      "notes": "Adds richness to the stew"
+    },
+    {
+      "name": "runner beans",
+      "amount": "1 cup",
+      "notes": "Adds a bit of crunch"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "The base of the stew"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "To cook the stew"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the American beans, runner beans, and stew to the pot.",
+    "Add the fatty, salt, and pepper to the pot.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook the stew to an internal temperature of 190°F (88°C) to ensure food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-stew",
+    "american-cuisine",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-dense-american-runner-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:44:26.581Z"
+}
