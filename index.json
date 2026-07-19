@@ -15600,10 +15600,15 @@
   },
   {
     "slug": "fragrant-indian-onion-crumble",
-    "title": "Fragrant Indian Onion Crumble",
-    "tags": [],
-    "cuisine": "Indian",
-    "totalTimeMin": null,
+    "title": "Crumble and Onion Indian Omelette",
+    "tags": [
+      "indian",
+      "breakfast",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
     "shard": "f"
   },
   {
@@ -18242,15 +18247,11 @@
   },
   {
     "slug": "fresh-zesty-ukrainian-cucumber-stir-fry",
-    "title": "Fresh Zesty Ukrainian Cucumber Stir-Fry",
+    "title": "Cucumber Stir Fry",
     "tags": [
-      "vegetarian",
-      "kosher-friendly",
-      "stir-fry",
-      "quick",
-      "summer",
-      "lazy-sunday",
-      "healthy"
+      "cucumber-stir-fry",
+      "ukrainian-cuisine",
+      "easy-recipe"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 15,
