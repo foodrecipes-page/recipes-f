@@ -1,0 +1,53 @@
+{
+  "slug": "flaky-warm-german-bread-baedekas",
+  "title": "Baedekas Sandwich",
+  "description": "A German-inspired sandwich recipe featuring warm baedekas and crispy bread.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warm baedekas",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Flaky bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Butter or spread",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a toaster or toaster oven to 350°F (180°C).",
+    "2. Toast the flaky bread slices until lightly browned.",
+    "3. Spread butter or your preferred spread on each toasted bread slice.",
+    "4. Assemble the baedekas sandwich by placing 1-2 pieces on top of the buttered bread.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "sandwich",
+    "baedekas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-warm-german-bread-baedekas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:46:37.034Z"
+}
