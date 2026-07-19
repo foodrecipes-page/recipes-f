@@ -1,0 +1,78 @@
+{
+  "slug": "floral-silky-canadian-meal-bake",
+  "title": "Canadian Silky Bake",
+  "description": "A moist and silky dessert, infused with floral notes, featuring a Canadian twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "floral honey",
+      "amount": "1 cup",
+      "notes": "raw and unpasteurized"
+    },
+    {
+      "name": "silk tofu",
+      "amount": "1 block",
+      "notes": "soft and creamy"
+    },
+    {
+      "name": "canadian maple syrup",
+      "amount": "1/2 cup",
+      "notes": "grade A amber"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9-inch round cake pan with butter.",
+    "In a medium bowl, whisk together flour, baking powder, and salt.",
+    "In a large bowl, combine honey, tofu, maple syrup, and vanilla extract.",
+    "Add the flour mixture to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "canadian",
+    "floral",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-silky-canadian-meal-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:21:03.399Z"
+}
