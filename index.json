@@ -8751,18 +8751,15 @@
   },
   {
     "slug": "flaky-warm-german-bread-baedekas",
-    "title": "Flaky Warm German Bread Baedekas",
+    "title": "Baedekas Sandwich",
     "tags": [
-      "bread",
-      "breakfast",
       "german",
-      "gluten-free",
-      "snack",
-      "steam",
-      "weeknight"
+      "sandwich",
+      "baedekas",
+      "snack"
     ],
     "cuisine": "german",
-    "totalTimeMin": 55,
+    "totalTimeMin": 7,
     "shard": "f"
   },
   {
@@ -22304,6 +22301,19 @@
       "veggie"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-greek-yellow-pepper-flatbread--vegan",
+    "title": "Fiery Yellow Pepper Flatbread",
+    "tags": [
+      "vegan",
+      "flatbread",
+      "snack",
+      "pepper"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 25,
     "shard": "f"
   }
