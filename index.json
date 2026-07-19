@@ -584,17 +584,14 @@
   },
   {
     "slug": "fatty-dense-american-runner-beans-stew",
-    "title": "Fatty Dense American Runner Beans Stew",
+    "title": "Fatty Bean Stew",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "high-calorie",
-      "one-pan",
-      "stew",
-      "weeknight"
+      "bean-stew",
+      "american-cuisine",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -8006,15 +8003,14 @@
   },
   {
     "slug": "flaky-portuguese-cheese-curds-tarts",
-    "title": "Flaky Portuguese Cheese Curds Tarts",
+    "title": "Cheesy Flaky Tarts",
     "tags": [
+      "portuguese",
       "cheese",
       "dessert",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "tarts"
     ],
-    "cuisine": "portuguese",
+    "cuisine": "Portuguese",
     "totalTimeMin": 40,
     "shard": "f"
   },
@@ -9525,17 +9521,15 @@
   },
   {
     "slug": "flavorful-mexican-chicken-curry",
-    "title": "Flavorful Mexican Chicken Curry",
+    "title": "Mexican Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "indulgent",
-      "low-sodium",
-      "mexican-cuisine",
-      "one-pan"
+      "mexican",
+      "chicken",
+      "curry",
+      "coconut-milk"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -11851,18 +11845,15 @@
   },
   {
     "slug": "floral-silky-canadian-meal-bake",
-    "title": "Floral Silky Canadian Meal Bake",
+    "title": "Canadian Silky Bake",
     "tags": [
+      "dessert",
       "canadian",
-      "silky",
       "floral",
-      "meal-prep",
-      "egg-free-friendly",
-      "vegan",
-      "gluten-free"
+      "silky"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -22581,6 +22572,19 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-jamaican-cherries-crumble--german",
+    "title": "German Cherry Crumble",
+    "tags": [
+      "german",
+      "dessert",
+      "cherry",
+      "crumble"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "f"
   }
 ]
