@@ -1,0 +1,91 @@
+{
+  "slug": "fermented-mozza-crunchy-halal--japanese",
+  "title": "Japanese Crispy Fermented Mozzarella",
+  "description": "A unique and savory fusion of Japanese and Italian flavors. This crispy fermented mozzarella is perfect as a snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented mozzarella",
+      "amount": "8 oz",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "peanut or rice flour for coating"
+    },
+    {
+      "name": "halal soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the fermented mozzarella into 1-inch cubes.",
+    "In a shallow dish, mix together the halal soy sauce and mirin.",
+    "Dip each cube of mozzarella into the soy sauce mixture, coating completely.",
+    "Then, roll the coated mozzarella in the crunchy coating until evenly covered.",
+    "Heat about 1/2 inch of sesame oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the coated mozzarella cubes to the skillet (do not overcrowd).",
+    "Fry the mozzarella until golden brown and crispy on all sides, about 2-3 minutes.",
+    "Remove the fried mozzarella from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining mozzarella cubes.",
+    "Serve the crispy fermented mozzarella hot, garnished with chopped green onions and toasted sesame seeds. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "italian",
+    "snack",
+    "appetizer",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-mozza-crunchy-halal--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:45:06.263Z"
+}
