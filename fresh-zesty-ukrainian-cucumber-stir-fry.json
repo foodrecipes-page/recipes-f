@@ -1,0 +1,76 @@
+{
+  "slug": "fresh-zesty-ukrainian-cucumber-stir-fry",
+  "title": "Cucumber Stir Fry",
+  "description": "A simple Ukrainian-inspired dish perfect for a quick lunch or dinner. Refreshing cucumber and zesty flavors come together in this easy-to-make stir fry.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced cucumber and cook for 3-4 minutes, until slightly tender.",
+    "Stir in chopped fresh dill, salt, and pepper.",
+    "Squeeze the lemon juice over the top and serve hot.",
+    "Adjust seasoning as needed and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cucumber-stir-fry",
+    "ukrainian-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-zesty-ukrainian-cucumber-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:47:08.826Z"
+}
