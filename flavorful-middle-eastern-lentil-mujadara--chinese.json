@@ -1,0 +1,88 @@
+{
+  "slug": "flavorful-middle-eastern-lentil-mujadara--chinese",
+  "title": "Lentil Mujadara Stir Fry",
+  "description": "A unique fusion of Middle Eastern lentil mujadara and Chinese stir fry, perfect for a quick weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentil mujadara",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "flavorful oil",
+      "amount": "2 tablespoons",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 teaspoon",
+      "notes": "such as cumin, coriander, and paprika"
+    },
+    {
+      "name": "chinese five-spice",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the flavorful oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the cooked lentil mujadara and stir-fry for 2-3 minutes.",
+    "Add the middle eastern spices and Chinese five-spice (if using) and stir-fry for another minute.",
+    "Add the soy sauce and sesame oil (if using) and stir-fry for a final minute.",
+    "Transfer the mixture to a serving platter and garnish with chopped scallions.",
+    "Serve hot and enjoy!",
+    "If desired, serve with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "middle-eastern",
+    "lentil",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-middle-eastern-lentil-mujadara--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:30:20.676Z"
+}
