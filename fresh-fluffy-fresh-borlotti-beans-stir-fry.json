@@ -1,0 +1,78 @@
+{
+  "slug": "fresh-fluffy-fresh-borlotti-beans-stir-fry",
+  "title": "Borlotti Bean Stir Fry",
+  "description": "A simple and delicious stir fry made with borlotti beans, perfect for a quick and easy meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Borlotti beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fluffy",
+      "amount": "1 cup",
+      "notes": "chopped (e.g. bell peppers)"
+    },
+    {
+      "name": "Fresh",
+      "amount": "1 cup",
+      "notes": "chopped (e.g. spinach)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook for 3-4 minutes, until softened.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chopped borlotti beans, fluffy, and fresh, and cook for 4-5 minutes, until the vegetables are tender.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "quick",
+    "easy",
+    "bean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fluffy-fresh-borlotti-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:51:34.475Z"
+}
