@@ -1,0 +1,72 @@
+{
+  "slug": "fatty-crispy-turkish-rice-stuffed-leaves--italian",
+  "title": "Italian Stuffed Leaves",
+  "description": "A Mediterranean twist on traditional stuffed leaves, featuring crispy turkey and rice.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey Breast",
+      "amount": "1 pound",
+      "notes": "fatty"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Turkish Leaves",
+      "amount": "1 bunch",
+      "notes": "stuffed"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the stuffed leaves and remove any stems.",
+    "In a bowl, mix together cooked rice, Italian seasoning, and parmesan cheese.",
+    "Place a tablespoon of the rice mixture onto the center of each leaf.",
+    "Slice the turkey breast into thin strips and place on top of the rice mixture.",
+    "Drizzle with olive oil and fold the leaves over to enclose the filling.",
+    "Place the stuffed leaves on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the leaves are crispy and the turkey is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mediterranean",
+    "stuffed-leaves",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-crispy-turkish-rice-stuffed-leaves--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:05:37.919Z"
+}
