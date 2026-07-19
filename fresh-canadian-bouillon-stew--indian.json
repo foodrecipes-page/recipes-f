@@ -1,0 +1,81 @@
+{
+  "slug": "fresh-canadian-bouillon-stew--indian",
+  "title": "Chicken Stew",
+  "description": "A hearty and flavorful Indian-inspired chicken stew made with tender chunks of chicken and a rich, aromatic spice blend.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "Fresh onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bouillon cubes (beef or chicken)",
+      "amount": "2 cubes",
+      "notes": ""
+    },
+    {
+      "name": "Stew (beef or chicken)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook, stirring occasionally, until lightly browned, about 8 minutes.",
+    "Add the ginger and cook, stirring constantly, for 1 minute.",
+    "Add the chicken and cook, stirring occasionally, until browned on all sides and cooked through, about 6-8 minutes.",
+    "Add the bouillon cubes, stew, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the flavors have melded together and the chicken is tender, about 20-25 minutes.",
+    "Stir in the chopped cilantro.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "indian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-canadian-bouillon-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:47:10.526Z"
+}
