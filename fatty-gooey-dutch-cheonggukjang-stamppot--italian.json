@@ -1,0 +1,73 @@
+{
+  "slug": "fatty-gooey-dutch-cheonggukjang-stamppot--italian",
+  "title": "Gooey Stamppot Frittata",
+  "description": "An Italian-inspired twist on the traditional Dutch dish, this gooey frittata is perfect for breakfast or brunch.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "stamppot",
+      "amount": "1 (cooked)"
+    },
+    {
+      "name": "fatty pancetta",
+      "amount": "4 slices"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pancetta in a skillet over medium heat until crispy.",
+    "Add stamppot to skillet and cook until heated through.",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Add cooked pancetta and stamppot to bowl and stir to combine.",
+    "Pour egg mixture into a greased 9-inch skillet.",
+    "Top with goat cheese and sprinkle with parsley.",
+    "Transfer skillet to oven and bake for 15-20 minutes or until eggs are set.",
+    "Remove from oven and sprinkle with minced garlic.",
+    "Serve warm, sliced into wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "stamppot"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-gooey-dutch-cheonggukjang-stamppot--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:16:00.635Z"
+}
