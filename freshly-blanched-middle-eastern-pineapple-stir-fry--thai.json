@@ -1,0 +1,90 @@
+{
+  "slug": "freshly-blanched-middle-eastern-pineapple-stir-fry--thai",
+  "title": "Thai Pineapple Stir Fry",
+  "description": "A simple and flavorful Thai dish made with fresh pineapple, vegetables, and a blend of spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion and bell pepper; stir-fry for 3 minutes.",
+    "Add mushrooms and cook for 2 minutes.",
+    "Add curry paste and cook for 1 minute.",
+    "Add pineapple, fish sauce, soy sauce, and brown sugar; stir-fry for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Add Thai basil and stir-fry for 1 minute.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-blanched-middle-eastern-pineapple-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:35:29.414Z"
+}
