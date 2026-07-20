@@ -1,0 +1,69 @@
+{
+  "slug": "fluffy-greek-lamb-lahana-moussaka--vegetarian",
+  "title": "Lahanas Moussaka",
+  "description": "A vegetarian take on the classic Greek dish, featuring layered eggplant and a rich tomato sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "launa (or other tomato sauce)",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "greek feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fluffy breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "optional for topping"
+    },
+    {
+      "name": "launa (or other olive oil)",
+      "amount": "2 tbsp",
+      "notes": "for brushing eggplant"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush both sides of the eggplant slices with olive oil and season with salt and pepper.",
+    "Layer half of the eggplant slices in a baking dish.",
+    "Spread half of the tomato sauce over the eggplant.",
+    "Sprinkle with half of the feta cheese.",
+    "Repeat the layers: eggplant, tomato sauce, and feta cheese.",
+    "Top with breadcrumbs, if using.",
+    "Bake for 30-40 minutes, or until the eggplant is tender and the top is golden brown.",
+    "Remove from the oven and let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "eggplant",
+    "moussaka"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-greek-lamb-lahana-moussaka--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:06:56.984Z"
+}
