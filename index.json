@@ -2993,12 +2993,15 @@
   },
   {
     "slug": "fermented-juicy-turkish-quinoa-stir-fry",
-    "title": "Fermented Juicy Turkish Quinoa Stir-fry",
+    "title": "Turkish Quinoa Bowl",
     "tags": [
-      "fermented-juicy-turkish-quinoa-stir-fry"
+      "turkish",
+      "quinoa",
+      "fermented",
+      "lunch"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -22610,6 +22613,45 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crumbly-japanese-bulgur-pilaf--indian",
+    "title": "Spiced Bulgur Pilaf",
+    "tags": [
+      "indian",
+      "pilaf",
+      "bulgur",
+      "veggie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-roasted-saudi-arabian-bok-choi-onigiri--gluten-free",
+    "title": "Roasted Bok Choi with Arabian Onigiri",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "lunch",
+      "veggie"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-greek-lamb-lahana-moussaka--vegetarian",
+    "title": "Lahanas Moussaka",
+    "tags": [
+      "greek",
+      "vegetarian",
+      "eggplant",
+      "moussaka"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
     "shard": "f"
   }
 ]
