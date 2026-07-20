@@ -1,0 +1,93 @@
+{
+  "slug": "fresh-fermented-vietnamese-pungent-bun-thit-nuong--chinese",
+  "title": "Vietnamese-Style Grilled Pork (Thit Nuong)",
+  "description": "A Chinese-inspired take on the classic Vietnamese dish, featuring grilled pork served with fresh Vietnamese bun and fermented chili sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "preferably with a good balance of fat and lean meat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality, fermented fish sauce for depth of flavor"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "optional, adds a touch of sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced, for marinade"
+    },
+    {
+      "name": "pungent onion",
+      "amount": "1 small",
+      "notes": "minced, for marinade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine fish sauce, honey, garlic, onion, lime juice, and rice vinegar. Blend until smooth.",
+    "Place the pork shoulder in a large zip-top plastic bag or a shallow dish. Pour the marinade over the pork and massage to coat.",
+    "Refrigerate for at least 2 hours or overnight, turning the pork occasionally.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "Transfer the pork to a cutting board and let it rest for 5 minutes.",
+    "Thinly slice the pork against the grain.",
+    "Serve the pork with fresh cilantro, black pepper, and a side of steamed bun (Vietnamese-style rice noodles).",
+    "For added flavor, serve with a drizzle of fermented chili sauce (optional).",
+    "Enjoy your delicious Thit Nuong!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chinese",
+    "grilled",
+    "pork",
+    "marinade",
+    "fish sauce",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fermented-vietnamese-pungent-bun-thit-nuong--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:30:57.154Z"
+}
