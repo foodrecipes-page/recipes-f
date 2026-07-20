@@ -10659,14 +10659,14 @@
   },
   {
     "slug": "floral-crumbly-american-puff-pastry-crumble",
-    "title": "Floral Crumbly American Puff Pastry Crock",
+    "title": "Floral Pastry Crumble",
     "tags": [
-      "puff pastry",
-      "pickle",
-      "halal-friendly"
+      "pastry",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "f"
   },
   {
@@ -22652,6 +22652,32 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-kid-friendly-australian-corn-tortillas-tacos--italian",
+    "title": "Italian-Style Tortilla Tacos",
+    "tags": [
+      "italian",
+      "mexican",
+      "tacos",
+      "corn",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-tender-mexican-beef-barbacoa--japanese",
+    "title": "Japanese-Style Barbacoa Beef Tacos",
+    "tags": [
+      "japanesefusion",
+      "tacos",
+      "barbacoabeef"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
