@@ -1,0 +1,73 @@
+{
+  "slug": "flavorful-roasted-saudi-arabian-bok-choi-onigiri--gluten-free",
+  "title": "Roasted Bok Choi with Arabian Onigiri",
+  "description": "A flavorful and nutritious gluten-free dish combining roasted bok choi with crispy Arabian-style onigiri.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "1 bunch",
+      "notes": "trim ends and separate leaves"
+    },
+    {
+      "name": "Onigiri Rice",
+      "amount": "1 cup",
+      "notes": "glutinous rice for onigiri"
+    },
+    {
+      "name": "Saudi Arabian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Flavorful Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss bok choi with olive oil, minced garlic, and salt. Spread on a baking sheet.",
+    "Roast in the oven for 15-20 minutes or until tender and slightly caramelized.",
+    "Meanwhile, prepare onigiri by mixing glutinous rice with a pinch of salt and shaping into triangular patties.",
+    "Heat a non-stick pan with a small amount of olive oil over medium heat.",
+    "Pan-fry onigiri until crispy and golden brown on both sides.",
+    "To assemble the dish, place roasted bok choi on a plate and serve with pan-fried onigiri on top.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "lunch",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-roasted-saudi-arabian-bok-choi-onigiri--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:50:27.714Z"
+}
