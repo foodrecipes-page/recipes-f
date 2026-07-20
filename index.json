@@ -19592,14 +19592,15 @@
   },
   {
     "slug": "fry-white-delight",
-    "title": "Fry-White Delight",
+    "title": "Crispy White Delight Fritters",
     "tags": [
-      "fried-dish",
-      "uhrukinain-snack",
-      "low-calorie"
+      "snack",
+      "american",
+      "easy",
+      "veggie"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -22693,6 +22694,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-ayurvedic-middle-eastern-red-rice-pilaf--gluten-free",
+    "title": "Middle Eastern Red Rice Pilaf",
+    "tags": [
+      "middle-eastern",
+      "gluten-free",
+      "pilaf",
+      "rice",
+      "dairy-free"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
