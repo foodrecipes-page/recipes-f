@@ -1,0 +1,67 @@
+{
+  "slug": "floral-crumbly-american-puff-pastry-crumble",
+  "title": "Floral Pastry Crumble",
+  "description": "A sweet and crumbly pastry dessert, perfect for snacking. The floral notes add a unique twist to this classic crumble.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Floral Pastry",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "American Crumble",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the floral pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into a rectangle, about 9x13 inches.",
+    "Mix the crumble, sugar, and melted butter together until well combined.",
+    "Spread the crumble mixture evenly over the pastry, leaving a 1-inch border around the edges.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the crumble is crispy.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into squares or rectangles and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pastry",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crumbly-american-puff-pastry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:08:31.300Z"
+}
