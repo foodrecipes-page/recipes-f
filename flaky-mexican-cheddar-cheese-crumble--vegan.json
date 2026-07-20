@@ -1,0 +1,63 @@
+{
+  "slug": "flaky-mexican-cheddar-cheese-crumble--vegan",
+  "title": "Roasted Vegetable Crumble",
+  "description": "A delicious vegan crumble recipe featuring roasted vegetables topped with a crunchy cheese-free crumble.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasting vegetables (such as sweet potatoes, carrots, and broccoli)",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Flaky vegan pastry",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Mexican cheese substitute (such as Daiya)",
+      "amount": "1 cup",
+      "notes": "crumbly shredded cheese alternative"
+    },
+    {
+      "name": "Cheddar cheese substitute (such as nutritional yeast)",
+      "amount": "1/2 cup",
+      "notes": "nutritional yeast for cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the sweet potatoes, carrots, and broccoli into bite-sized pieces.",
+    "Toss the vegetables with 1 tablespoon of olive oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, crumble the flaky pastry into small pieces and set aside.",
+    "In a separate bowl, mix together the Mexican cheese substitute and cheddar cheese substitute.",
+    "When the vegetables are done, transfer them to a baking dish and top with the cheese mixture.",
+    "Top with the crumbled pastry and bake for an additional 15-20 minutes, or until the pastry is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "roasted-vegetables",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-mexican-cheddar-cheese-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:44:45.835Z"
+}
