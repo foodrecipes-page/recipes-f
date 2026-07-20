@@ -1,0 +1,79 @@
+{
+  "slug": "freshly-baked-american-chicken-casserole",
+  "title": "American Chicken Casserole",
+  "description": "A classic American comfort food dish featuring chicken, pasta, and a creamy sauce.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "elbow macaroni"
+    },
+    {
+      "name": "baked, shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned cream of chicken soup",
+      "amount": "1 can (10 1/2 ounces)"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook pasta according to package directions; set aside.",
+    "In a large skillet, sauté chopped onion until softened.",
+    "Add frozen peas and carrots and cook until thawed.",
+    "In a large mixing bowl, combine cooked pasta, chicken, soup, sour cream, salt, and pepper. Stir until well combined.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Sprinkle shredded cheddar cheese on top.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until cheese is golden brown.",
+    "Let casserole rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pasta",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-baked-american-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:00:23.747Z"
+}
