@@ -1,0 +1,60 @@
+{
+  "slug": "fluffy-onion-tango",
+  "title": "Tango Fluffy Scramble",
+  "description": "A simple and flavorful breakfast dish made with fluffy eggs, tango sauce, and caramelized onions.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "4 eggs",
+      "notes": "fresh eggs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tango",
+      "amount": "2 tbsp",
+      "notes": "sauce"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat a non-stick pan over medium heat.",
+    "Add the chopped onion and cook until caramelized.",
+    "Pour in the eggs and cook until the edges start to set.",
+    "Add the tango sauce and stir to combine.",
+    "Use a spatula to gently scramble the eggs.",
+    "Cook for an additional 2-3 minutes or until the eggs are cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "scramble",
+    "eggs",
+    "onion",
+    "tango"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-onion-tango",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:35:56.540Z"
+}
