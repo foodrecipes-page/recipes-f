@@ -1,0 +1,73 @@
+{
+  "slug": "fiery-crispy-uruguayan-tuna-skewers",
+  "title": "Uruguayan Tuna Skewers",
+  "description": "A flavorful and spicy Uruguayan-inspired dish featuring tuna skewers with a crispy crust.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Fiery Uruguayan Sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Crispy Garlic",
+      "amount": "1/4 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread tuna steaks onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until tuna reaches an internal temperature of 145°F.",
+    "While tuna is cooking, heat fiery Uruguayan sauce in a small saucepan over low heat.",
+    "Brush sauce onto tuna during the last 2 minutes of cooking.",
+    "Remove skewers from grill and top with crispy garlic and chopped cilantro.",
+    "Serve immediately with additional fiery Uruguayan sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "tuna",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-crispy-uruguayan-tuna-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:01:25.917Z"
+}
