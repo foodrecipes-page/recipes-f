@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-juicy-turkish-quinoa-stir-fry",
+  "title": "Turkish Quinoa Bowl",
+  "description": "A flavorful and nutritious bowl filled with quinoa, juicy turkey, and fermented vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound",
+      "notes": "Juicy breast, sliced"
+    },
+    {
+      "name": "Fermented red cabbage",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Fermented carrots",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add sliced turkey breast and cook until browned and cooked through, about 5 minutes.",
+    "In a separate pan, stir-fry the shredded cabbage and carrots with the remaining 1 tablespoon of olive oil until slightly caramelized.",
+    "Cook quinoa according to package instructions.",
+    "To assemble the bowls, place a scoop of cooked quinoa at the bottom, followed by sliced turkey and a spoonful of fermented vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "quinoa",
+    "fermented",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-juicy-turkish-quinoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:03:40.185Z"
+}
