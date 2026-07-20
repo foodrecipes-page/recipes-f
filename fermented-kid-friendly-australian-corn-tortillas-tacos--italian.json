@@ -1,0 +1,72 @@
+{
+  "slug": "fermented-kid-friendly-australian-corn-tortillas-tacos--italian",
+  "title": "Italian-Style Tortilla Tacos",
+  "description": "A fusion twist on traditional tacos, this dish brings together Italian and Mexican flavors with crispy tortillas, savory meats, and a hint of Aussie corn.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup, fresh or canned"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "6-8, corn or flour"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound, lean"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 teaspoons, dried"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon, dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "Add the Italian seasoning, garlic powder, and salt. Stir to combine.",
+    "While the meat cooks, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a separate pan, cook the corn over medium heat until lightly toasted.",
+    "Assemble the tacos by spooning the meat mixture onto a tortilla and topping with toasted corn and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mexican",
+    "tacos",
+    "corn",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-kid-friendly-australian-corn-tortillas-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:47:15.529Z"
+}
