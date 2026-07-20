@@ -22707,5 +22707,31 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "f"
+  },
+  {
+    "slug": "fresh-festive-syrian-peanut-skewers--german",
+    "title": "German-Style Shish Taouk",
+    "tags": [
+      "german",
+      "chicken",
+      "skewers",
+      "marinated"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 26,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-mexican-cheddar-cheese-crumble--vegan",
+    "title": "Roasted Vegetable Crumble",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "roasted-vegetables",
+      "crumble"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "f"
   }
 ]
