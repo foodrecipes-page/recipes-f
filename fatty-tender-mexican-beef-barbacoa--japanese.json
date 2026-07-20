@@ -1,0 +1,87 @@
+{
+  "slug": "fatty-tender-mexican-beef-barbacoa--japanese",
+  "title": "Japanese-Style Barbacoa Beef Tacos",
+  "description": "A fusion twist on traditional tacos, featuring tender barbacoa beef and authentic Japanese flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Barbacoa beef",
+      "amount": "1 pound",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "For tacos"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together soy sauce, ginger, and sesame oil.",
+    "3. Add the pre-cooked barbacoa beef to the bowl and marinate for at least 10 minutes.",
+    "4. Grill the beef for 2-3 minutes per side, or until slightly charred.",
+    "5. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble tacos by slicing the grilled beef and placing it onto a warmed tortilla.",
+    "7. Top with green onions, sesame seeds, and cilantro.",
+    "8. Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanesefusion",
+    "tacos",
+    "barbacoabeef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-tender-mexican-beef-barbacoa--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:24:00.489Z"
+}
