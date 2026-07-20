@@ -1,0 +1,78 @@
+{
+  "slug": "flavorful-umami-middle-eastern-kippers-warak-enab",
+  "title": "Warak Enab with Middle Eastern Kipper Kebabs",
+  "description": "A unique fusion dish that combines the flavors of the Middle East with the bold taste of kippers.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kippers (smoked herring)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Warak Enab (stuffed grape leaves)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Flavorful oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Umm Ali (middle eastern rice pudding)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season kippers with Middle Eastern seasoning and brush with flavorful oil.",
+    "3. Grill kippers for 2-3 minutes per side or until cooked through.",
+    "4. Meanwhile, cook Warak Enab according to package instructions.",
+    "5. Warm Umm Ali in a saucepan over low heat.",
+    "6. To assemble, place a cooked kipper on each Warak Enab leaf.",
+    "7. Spoon warmed Umm Ali over the kippers.",
+    "8. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "breakfast",
+    "kebabs",
+    "grape-leaves"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-umami-middle-eastern-kippers-warak-enab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:55:45.332Z"
+}
