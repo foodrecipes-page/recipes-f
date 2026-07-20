@@ -1,0 +1,82 @@
+{
+  "slug": "fresh-festive-syrian-peanut-skewers--german",
+  "title": "German-Style Shish Taouk",
+  "description": "A German twist on the classic Middle Eastern dish, featuring marinated chicken breast on festive skewers.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "festive skewers",
+      "amount": "10",
+      "notes": null
+    },
+    {
+      "name": "syrian spices",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together peanut oil, lemon juice, syrian spices, salt, and pepper.",
+    "Add the chicken cubes to the marinade and mix well to coat.",
+    "Thread the marinated chicken onto the festive skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "skewers",
+    "marinated"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-festive-syrian-peanut-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:29:49.264Z"
+}
