@@ -9134,16 +9134,15 @@
   },
   {
     "slug": "flavorful-canadian-red-onion-en-croute",
-    "title": "Flavorful Canadian Red Onion En Croute",
+    "title": "Canadian Flavored Croustade",
     "tags": [
-      "canadian-cuisine",
-      "caramelized-onions",
-      "date-night",
-      "flaky-pastry",
-      "low-sodium"
+      "canadian",
+      "breakfast",
+      "croustade",
+      "omelette"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -22678,6 +22677,22 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-fermented-vietnamese-pungent-bun-thit-nuong--chinese",
+    "title": "Vietnamese-Style Grilled Pork (Thit Nuong)",
+    "tags": [
+      "vietnamese",
+      "chinese",
+      "grilled",
+      "pork",
+      "marinade",
+      "fish sauce",
+      "honey"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
