@@ -1,0 +1,77 @@
+{
+  "slug": "flavorful-canadian-red-onion-en-croute",
+  "title": "Canadian Flavored Croustade",
+  "description": "A flavorful twist on a classic croustade, featuring Canadian bacon, caramelized onions, and a hint of spice.",
+  "cuisine": "Canadian",
+  "diet": [
+    "omnivore",
+    "western"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "flavorful croute",
+      "amount": "1 (10 oz) package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "en croûte pastry",
+      "amount": "1 (14 oz) package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup grated",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the en croûte pastry to a thickness of about 1/8 inch.",
+    "In a skillet, cook the Canadian bacon over medium heat until lightly browned.",
+    "Add the sliced red onion to the skillet and cook until caramelized.",
+    "Place the cooked Canadian bacon and onion mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the grated cheddar cheese over the top of the bacon and onion mixture.",
+    "Brush the edges of the pastry with the beaten eggs.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the croustade on a baking sheet and bake for 25-30 minutes, or until golden brown.",
+    "Let the croustade cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "breakfast",
+    "croustade",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-canadian-red-onion-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:12:20.510Z"
+}
