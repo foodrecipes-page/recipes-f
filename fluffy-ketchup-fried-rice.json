@@ -1,0 +1,65 @@
+{
+  "slug": "fluffy-ketchup-fried-rice",
+  "title": "Fried Rice with Fluffy Twist",
+  "description": "A simple and delicious fried rice dish with a fluffy twist, perfect for a quick weeknight meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "1 cup",
+      "notes": "preferably leftover rice"
+    },
+    {
+      "name": "Scrambled fluffy eggs",
+      "amount": "1 cup",
+      "notes": "adds a fluffy twist"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the leftover fried rice and stir-fry until heated through.",
+    "In a separate bowl, scramble 2 eggs and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Push the fried rice to one side of the skillet.",
+    "Add the scrambled eggs to the empty side of the skillet and scramble until cooked through.",
+    "Mix the eggs with the fried rice.",
+    "Add the day-old fluffy rice to the skillet and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "chinese-cuisine",
+    "quick-meal",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-ketchup-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:50:54.020Z"
+}
