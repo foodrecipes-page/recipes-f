@@ -22741,5 +22741,44 @@
     "cuisine": "Indian",
     "totalTimeMin": 60,
     "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-malaysian-potatoes-curry--japanese",
+    "title": "Japanese Curry Potatoes",
+    "tags": [
+      "comfortfood",
+      "curry",
+      "japanesefusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crispy-chettinad-sprouts-salad--mexican",
+    "title": "Crispy Chettinad Salad",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "salad",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "f"
+  },
+  {
+    "slug": "five-herb-quick-curry--vegan",
+    "title": "Quick Five-Spiced Vegan Curry",
+    "tags": [
+      "vegan",
+      "curry",
+      "indian",
+      "five-spice",
+      "quick"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "f"
   }
 ]
