@@ -1,0 +1,78 @@
+{
+  "slug": "freshly-crispy-algerian-serrano-ham-tagine--thai",
+  "title": "Thai-Style Ham and Tagine Wrap",
+  "description": "A fusion of Thai flavors with crispy ham and spicy tagine. Perfect for a quick lunch or snack.",
+  "cuisine": "thai",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Algerian Crispy Bread",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "Serrano Peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tsp of sesame oil over medium heat.",
+    "2. Add 2 slices of ham and cook until crispy, about 2-3 minutes.",
+    "3. Add 1 tbsp of tagine and stir to combine.",
+    "4. Add 2 serrano peppers, sliced, and cook for an additional 1 minute.",
+    "5. Warm the crispy bread by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "6. Assemble the wrap by placing the ham mixture onto the bread, followed by a sprinkle of cilantro.",
+    "7. Drizzle with rice vinegar and serve immediately.",
+    "8. Repeat with remaining ingredients to serve 4."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "ham",
+    "tagine",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-crispy-algerian-serrano-ham-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:13:32.121Z"
+}
