@@ -1,0 +1,61 @@
+{
+  "slug": "fermented-creamy-malaysian-potatoes-curry--japanese",
+  "title": "Japanese Curry Potatoes",
+  "description": "A fusion of Japanese and Indian flavors, this potato curry is a comforting and satisfying dish. The malaysian curry adds a rich and slightly spicy note to the dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "milk or heavy cream"
+    },
+    {
+      "name": "malaysian curry",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fermented",
+      "amount": "1 tsp",
+      "notes": "rice vinegar or miso paste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a pan over medium heat.",
+    "Add the malaysian curry and sauté for 1 minute.",
+    "Add the potatoes and cook for 5 minutes.",
+    "Add the creamy and fermented ingredients. Stir well.",
+    "Reduce heat to low and simmer for 15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "curry",
+    "japanesefusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-creamy-malaysian-potatoes-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:36:22.110Z"
+}
