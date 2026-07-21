@@ -1,0 +1,63 @@
+{
+  "slug": "fizzy-lebanese-butter-beans-tagine--keto",
+  "title": "Spicy Bean Tagine",
+  "description": "A spicy and flavorful keto-friendly tagine dish made with beans and tagine spice.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lebanese",
+      "amount": "1/4 cup",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pan over medium heat.",
+    "Add the tagine spice and cook for 1 minute, stirring constantly.",
+    "Add the beans and cook for 5 minutes, stirring occasionally.",
+    "Add the lebanese and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot and enjoy!",
+    "Note: You can serve with a side of keto-friendly vegetables or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "spicy",
+    "tagine",
+    "beans",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fizzy-lebanese-butter-beans-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:30:54.210Z"
+}
