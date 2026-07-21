@@ -1,0 +1,65 @@
+{
+  "slug": "funky-delight-mediterranean-vegetables-skillet",
+  "title": "Delightful Mediterranean Skillet",
+  "description": "A flavorful and easy-to-make skillet dish inspired by the Mediterranean diet, perfect for a quick weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "funky olives",
+      "amount": "1/4 cup pitted and sliced"
+    },
+    {
+      "name": "delight cherry tomatoes",
+      "amount": "1 pint, halved"
+    },
+    {
+      "name": "mediterranean feta cheese",
+      "amount": "1 block, crumbled"
+    },
+    {
+      "name": "vegetables bell pepper",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "skillet cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "skillet salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add bell pepper and cook for 3-4 minutes, or until tender.",
+    "Add cherry tomatoes and olives; cook for 2 minutes, or until the vegetables are tender.",
+    "Stir in feta cheese and cook until melted.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-delight-mediterranean-vegetables-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:20:00.474Z"
+}
