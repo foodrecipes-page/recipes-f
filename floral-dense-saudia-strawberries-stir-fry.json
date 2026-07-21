@@ -1,0 +1,55 @@
+{
+  "slug": "floral-dense-saudia-strawberries-stir-fry",
+  "title": "Strawberry Floral Dessert",
+  "description": "A sweet dessert made with fresh strawberries and a floral twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "floral",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup, granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Mix together strawberries and floral in a bowl until well combined.",
+    "In a separate bowl, mix together sugar and a pinch of salt.",
+    "Add the sugar mixture to the strawberry mixture and stir until dissolved.",
+    "Spoon the mixture onto the prepared baking sheet.",
+    "Bake for 20-25 minutes or until the mixture is lightly caramelized.",
+    "Remove from the oven and let cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "easy",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-dense-saudia-strawberries-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:07:00.483Z"
+}
