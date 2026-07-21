@@ -1,0 +1,90 @@
+{
+  "slug": "fragrant-light-chinese-garam-masala-wrap",
+  "title": "Chicken Tikka Wrap",
+  "description": "A flavorful and aromatic Indian-inspired wrap filled with marinated chicken, crunchy vegetables, and creamy sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 tsp",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "Fragrant Indian wrap",
+      "amount": "4-6",
+      "notes": "Large and soft"
+    },
+    {
+      "name": "Light sour cream",
+      "amount": "1 cup",
+      "notes": "Plain yogurt works as a substitute"
+    },
+    {
+      "name": "Crunchy cucumber",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1/2 cup",
+      "notes": "Grated or shredded"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Ground salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Ground black pepper"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together 2 tsp of garam masala, 1 tsp of salt, and 1/2 tsp of black pepper.",
+    "2. Add 1 lb of chicken breast to the bowl and mix well to coat with the spice mixture. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "5. Meanwhile, toast the wraps on the grill or in a toaster.",
+    "6. In a separate bowl, mix together 1 cup of light sour cream and 1 tsp of garam masala.",
+    "7. Slice the cooked chicken into thin strips and place on the toasted wraps.",
+    "8. Top with crunchy cucumber, shredded carrot, and chopped cilantro.",
+    "9. Drizzle the sour cream mixture over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-light-chinese-garam-masala-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:38:17.848Z"
+}
