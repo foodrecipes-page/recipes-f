@@ -1,0 +1,86 @@
+{
+  "slug": "flaky-fresh-argentinian-pasta-empanadas--french",
+  "title": "French Empanada Pasta Bake",
+  "description": "A creative twist on classic pasta, featuring empanadas filled with beef and topped with a flaky crust.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "empanadas (argentinian beef)",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 or 70/30 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "grated cheese (such as cheddar or parmesan)",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add empanadas to the skillet and cook for 2-3 minutes on each side, until lightly browned.",
+    "In a large bowl, combine cooked pasta, empanada mixture, and chopped parsley (if using).",
+    "Transfer the pasta mixture to a baking dish and top with flaky pastry.",
+    "If using cheese, sprinkle it evenly over the top of the pastry.",
+    "Bake in the preheated oven for 20-25 minutes, or until the pastry is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "empanada",
+    "pasta",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fresh-argentinian-pasta-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:52:00.698Z"
+}
