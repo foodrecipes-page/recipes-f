@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-kenyan-garlic-crispy-stir-fry--japanese",
+  "title": "Crispy Kenyan-Style Fried Garlic Gyoza",
+  "description": "A twist on traditional Japanese gyoza, these crispy fried dumplings are filled with a flavorful Kenyan-inspired garlic mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pancake wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "kenyan garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced fermented cabbage",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crispy garlic flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "stir-fry vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add the kenyan garlic paste and stir-fry for 1 minute.",
+    "Add the fermented cabbage and stir-fry until heated through.",
+    " Lay a pancake wrapper on a flat surface and place a tablespoon of the garlic cabbage mixture in the center.",
+    "Fold the wrapper into a triangle and press the edges to seal the gyoza.",
+    "Heat 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the gyoza and fry until golden brown and crispy.",
+    "Remove the gyoza from the oil and drain on paper towels.",
+    "Sprinkle the crispy garlic flakes on top of the gyoza and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "kenyan",
+    "fried",
+    "garlic",
+    "gyoza",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-kenyan-garlic-crispy-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:11:04.365Z"
+}
