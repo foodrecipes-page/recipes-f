@@ -1,0 +1,87 @@
+{
+  "slug": "fragrant-rich-french-mushroom-stew",
+  "title": "French Stew with Fragrant Mushrooms",
+  "description": "A hearty French stew featuring rich flavors and fragrant mushrooms, perfect for a cold winter night.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fragrant Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": "Assorted varieties (e.g., button, cremini, shiitake)"
+    },
+    {
+      "name": "French Onion",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Stew Meat",
+      "amount": "1 pound beef or venison",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs fresh",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Dry, full-bodied (e.g., Cabernet Sauvignon)"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the stew meat with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Sear the stew meat until browned, then remove and set aside.",
+    "Reduce heat to medium and add more oil if necessary. Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the browned stew meat, thyme, and red wine to the pot. Stir to combine.",
+    "Add the beef broth and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the stew at 300°F (150°C) for 2-3 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the flour to thicken the stew.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stew",
+    "mushrooms",
+    "beef",
+    "venison",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-rich-french-mushroom-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:50:02.525Z"
+}
