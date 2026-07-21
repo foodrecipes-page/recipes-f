@@ -1,0 +1,97 @@
+{
+  "slug": "fiery-charred-peruvian-lamb-stew",
+  "title": "Charred Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb and a blend of Peruvian spices. Perfect for a cold winter's night.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "for some heat"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "2",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "Stew beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Charred tomatoes",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with cumin, coriander, and red pepper flakes.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil to the pot if necessary, then sauté the onions and garlic until softened, about 5 minutes.",
+    "Add the Peruvian aji amarillo pepper, if using, and cook for 1 minute.",
+    "Add the beef broth, tomato paste, and charred tomatoes to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and serve hot.",
+    "Serve with additional charred tomatoes, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "peruvian",
+    "charred",
+    "fiery"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-charred-peruvian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:27:44.356Z"
+}
