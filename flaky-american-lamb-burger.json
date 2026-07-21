@@ -1,0 +1,78 @@
+{
+  "slug": "flaky-american-lamb-burger",
+  "title": "Lamb Burger",
+  "description": "A flavorful lamb burger with a crispy crust and a hint of spices. Perfect for a quick dinner",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": "for making the burger buns"
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": "you can also use store-bought buns"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Divide the lamb into 4 equal portions and shape each into a ball.",
+    "Flatten each ball slightly into a patty.",
+    "Season the lamb patties with salt and black pepper.",
+    "Add the olive oil to the grill and cook the lamb patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "While the lamb is cooking, toast the flaky pastry on the grill or in a toaster.",
+    "Assemble the burgers by spreading a layer of your favorite toppings on the toasted pastry.",
+    "Top with a cooked lamb patty and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "burger",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-american-lamb-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:49:11.761Z"
+}
