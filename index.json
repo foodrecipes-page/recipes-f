@@ -2620,17 +2620,16 @@
   },
   {
     "slug": "fermented-gooey-romantic-uruguayan-white-fish-stir-fry",
-    "title": "Fermented Gooey Romantic Uruguayan White Fish Stir-fry",
+    "title": "Uruguayan Stir Fry with Fish",
     "tags": [
-      "fermented",
-      "goey",
-      "romantic",
       "uruguayan",
-      "white fish",
-      "stir-fry"
+      "fish",
+      "stir-fry",
+      "dinner",
+      "quick"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -4743,17 +4742,16 @@
   },
   {
     "slug": "fiery-charred-peruvian-lamb-stew",
-    "title": "Fiery Charred Peruvian Lamb Stew",
+    "title": "Charred Lamb Stew",
     "tags": [
-      "comfort-food",
-      "family-dinner",
-      "gluten-free",
-      "lamb-recipes",
-      "one-pot",
-      "peruvian-cuisine"
+      "lamb",
+      "stew",
+      "peruvian",
+      "charred",
+      "fiery"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "f"
   },
   {
@@ -6076,17 +6074,14 @@
   },
   {
     "slug": "flaky-american-lamb-burger",
-    "title": "Flaky American Lamb Burger",
+    "title": "Lamb Burger",
     "tags": [
-      "flaky",
-      "american",
-      "spicy",
-      "hangover-cure",
       "lamb",
-      "halal"
+      "burger",
+      "american"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 12,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -19812,16 +19807,14 @@
   },
   {
     "slug": "funky-delight-mediterranean-vegetables-skillet",
-    "title": "Funky Delight Mediterranean Vegetables Skillet",
+    "title": "Delightful Mediterranean Skillet",
     "tags": [
-      "crispy",
       "mediterranean",
-      "one-pan",
-      "veggie-packed",
-      "weeknight"
+      "vegetarian",
+      "quick-dinner"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -22904,6 +22897,19 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "festive-thai-plum-chewy-umami-pilaf--gluten-free",
+    "title": "Gluten-Free Thai Plum Pilaf",
+    "tags": [
+      "gluten-free",
+      "thai",
+      "pilaf",
+      "quick-dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
