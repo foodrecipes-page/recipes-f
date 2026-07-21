@@ -1,0 +1,77 @@
+{
+  "slug": "fiery-crispy-uruguayan-tuna-skewers--keto",
+  "title": "Uruguayan Grilled Tuna Skewers",
+  "description": "A simple and flavorful keto recipe inspired by Uruguayan cuisine, featuring grilled tuna skewers with a crispy twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna steak",
+      "amount": "4 steaks, 6 oz each"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Fire-roasted red pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together parsley, lime zest, garlic powder, salt, and black pepper.",
+    "3. Brush tuna steaks with olive oil and season with the parsley mixture.",
+    "4. Thread tuna steaks onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 4-5 minutes per side, or until tuna reaches 145°F.",
+    "6. Meanwhile, grill red pepper slices for 2-3 minutes per side, or until slightly charred.",
+    "7. Once tuna is cooked, top each skewer with a grilled red pepper slice.",
+    "8. Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "tuna",
+    "skewers",
+    "uruguayan",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-crispy-uruguayan-tuna-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:23:59.769Z"
+}
