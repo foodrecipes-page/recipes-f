@@ -10902,16 +10902,14 @@
   },
   {
     "slug": "floral-dense-saudia-strawberries-stir-fry",
-    "title": "Floral Dense Saudia Strawberries Stir-fry",
+    "title": "Strawberry Floral Dessert",
     "tags": [
-      "floral",
-      "dense",
-      "stir-fry",
-      "strawberries",
-      "arabic"
+      "sweet",
+      "easy",
+      "summer"
     ],
-    "cuisine": "Saudia",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -22880,6 +22878,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 140,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-crispy-uruguayan-tuna-skewers--keto",
+    "title": "Uruguayan Grilled Tuna Skewers",
+    "tags": [
+      "grilled",
+      "tuna",
+      "skewers",
+      "uruguayan",
+      "keto"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-silky-portuguese-dates-casserole--mexican",
+    "title": "Mexican Date Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
