@@ -1,0 +1,78 @@
+{
+  "slug": "floral-creamy-portuguese-cheese-grill",
+  "title": "Grilled Cheese Fritters with Floral Aioli",
+  "description": "A sweet and savory Portuguese-inspired dish featuring crispy grilled cheese fritters served with a creamy floral aioli. Perfect for a quick snack or light meal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "portuguese bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "sharp or mild, whichever you prefer"
+    },
+    {
+      "name": "floral honey",
+      "amount": "2 tbsp",
+      "notes": "such as lavender or chamomile"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "cream",
+      "amount": "1/4 cup",
+      "notes": "heavy or whipping cream"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 tsp",
+      "notes": "such as paprika or garlic powder"
+    }
+  ],
+  "instructions": [
+    "Cut the bread into 1-inch cubes and set aside.",
+    "In a separate bowl, mix together the shredded cheese, honey, and a pinch of salt.",
+    "Dip each bread cube into the beaten eggs, coating completely, then roll in the cheese-honey mixture to coat.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few bread cubes to the skillet and flatten slightly with a spatula.",
+    "Cook for about 2-3 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot.",
+    "To make the floral aioli, mix together the cream, a pinch of salt, and a few drops of floral extract (such as lavender or chamomile).",
+    "Serve the fritters with a dollop of the aioli on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "grill",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-creamy-portuguese-cheese-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:21:38.273Z"
+}
