@@ -1,0 +1,70 @@
+{
+  "slug": "fatty-dense-american-runner-beans-stew--keto",
+  "title": "American Bacon and Bean Stew",
+  "description": "A hearty keto stew made with bacon, beans, and a variety of dense ingredients. Perfect for a cold winter night.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Dense American Runner Beans",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fatty Stew Meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the bacon and cook until crispy, about 5 minutes.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the beans and bacon back to the pot.",
+    "Add 2 cups of beef broth and bring to a simmer.",
+    "Reduce the heat to low and let cook for 2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "stew",
+    "bacon",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-dense-american-runner-beans-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:13:51.586Z"
+}
