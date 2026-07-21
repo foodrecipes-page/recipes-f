@@ -396,15 +396,14 @@
   },
   {
     "slug": "fatty-bouncy-syrian-pork-tenderloin-bake",
-    "title": "fatty bouncy syrian pork tenderloin bake",
+    "title": "Baked Pork Tenderloin with Fatty Bouncy Crust",
     "tags": [
-      "one-pan",
       "pork",
-      "potatoes",
-      "syrian",
-      "weeknight"
+      "tenderloin",
+      "fatty",
+      "bouncy"
     ],
-    "cuisine": "syrian",
+    "cuisine": "American",
     "totalTimeMin": 35,
     "shard": "f"
   },
@@ -22818,6 +22817,19 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-crispy-algerian-serrano-ham-tagine--thai",
+    "title": "Thai-Style Ham and Tagine Wrap",
+    "tags": [
+      "thai",
+      "ham",
+      "tagine",
+      "wrap"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
     "shard": "f"
   }
 ]
