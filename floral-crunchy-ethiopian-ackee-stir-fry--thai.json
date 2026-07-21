@@ -1,0 +1,71 @@
+{
+  "slug": "floral-crunchy-ethiopian-ackee-stir-fry--thai",
+  "title": "Thai Stir-Fried Ackee",
+  "description": "A Thai twist on Jamaican ackee, stir-frying it with crunchy elements and ethiopian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "floral jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crunchy fried onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ethiopian berbere spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a wok over medium-high heat.",
+    "Add the crunchy fried onions and stir-fry for 2 minutes.",
+    "Add the ackee and stir-fry for 3-4 minutes.",
+    "Add the ethiopian berbere spice and stir-fry for another minute.",
+    "Season with salt and sugar to taste.",
+    "Serve over floral jasmine rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "breakfast",
+    "ackee",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crunchy-ethiopian-ackee-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:32:37.399Z"
+}
