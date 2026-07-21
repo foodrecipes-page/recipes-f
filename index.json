@@ -22925,5 +22925,31 @@
     "cuisine": "North African",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-fresh-argentinian-pasta-empanadas--french",
+    "title": "French Empanada Pasta Bake",
+    "tags": [
+      "french",
+      "empanada",
+      "pasta",
+      "beef"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-crunchy-ethiopian-ackee-stir-fry--thai",
+    "title": "Thai Stir-Fried Ackee",
+    "tags": [
+      "thaifood",
+      "breakfast",
+      "ackee",
+      "stirfry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "f"
   }
 ]
