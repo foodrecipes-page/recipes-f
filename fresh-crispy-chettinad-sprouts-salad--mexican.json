@@ -1,0 +1,77 @@
+{
+  "slug": "fresh-crispy-chettinad-sprouts-salad--mexican",
+  "title": "Crispy Chettinad Salad",
+  "description": "A Mexican twist on the Indian classic, combining crispy sprouts with fresh chettinad flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Fried Sprouts",
+      "amount": "1 cup",
+      "notes": "Seasoned with salt and chili powder"
+    },
+    {
+      "name": "Fresh Chettinad Coleslaw",
+      "amount": "2 cups",
+      "notes": "Mix of shredded cabbage, carrots, and cilantro"
+    },
+    {
+      "name": "Mexican Salad Dressing",
+      "amount": "1/4 cup",
+      "notes": "Homemade with lime juice and olive oil"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh and juicy"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tablespoon of oil over medium heat. Add 1/2 cup of crispy fried sprouts and cook for 2-3 minutes.",
+    "2. In a separate bowl, mix the fresh chettinad coleslaw, diced tomatoes, and Mexican salad dressing.",
+    "3. Add the cooked crispy fried sprouts to the bowl and toss to combine.",
+    "4. Season with salt and pepper to taste.",
+    "5. Garnish with chopped cilantro and serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "salad",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-chettinad-sprouts-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:12:19.273Z"
+}
