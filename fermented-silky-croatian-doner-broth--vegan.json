@@ -1,0 +1,51 @@
+{
+  "slug": "fermented-silky-croatian-doner-broth--vegan",
+  "title": "Creamy Fermented Broth Soup",
+  "description": "A comforting, creamy soup made with fermented broth, silky texture, and a hint of Croatian spices.",
+  "cuisine": "European",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Croatian Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the fermented broth in a pan over medium heat.",
+    "Add the silky and stir until combined.",
+    "Add the Croatian paprika and stir for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "comfort-food",
+    "european-cuisine"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-silky-croatian-doner-broth--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:55:52.166Z"
+}
