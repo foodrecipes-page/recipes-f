@@ -1,0 +1,89 @@
+{
+  "slug": "flaky-spicy-dutch-pork-burger--vegan",
+  "title": "Spicy Dutch Burger",
+  "description": "A plant-based burger alternative made with flaky pastry and spicy dutch flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Spicy Dutch Sauce",
+      "amount": "1/2 cup",
+      "notes": "Make sure to choose a vegan option"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegan Burger Patty",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan with a small amount of oil over medium heat.",
+    "Add the chopped onions and cook until they're translucent.",
+    "Add the mushrooms and cook until they're tender.",
+    "Add the lentils and cook until they're heated through.",
+    "Add the vegan burger patty and cook until it's browned on both sides.",
+    "Assemble the burger by placing the patty on the flaky pastry.",
+    "Add the spicy dutch sauce, lettuce, tomatoes, and vegan mayo on top.",
+    "Cook the pastry in the pan for an additional 2-3 minutes or until it's golden brown.",
+    "Serve the burger hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "plant-based",
+    "burger",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-spicy-dutch-pork-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:18:24.217Z"
+}
