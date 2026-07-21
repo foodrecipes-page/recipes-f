@@ -1,0 +1,74 @@
+{
+  "slug": "fatty-bouncy-syrian-pork-tenderloin-bake",
+  "title": "Baked Pork Tenderloin with Fatty Bouncy Crust",
+  "description": "A flavorful and juicy pork tenderloin baked to perfection with a crispy fatty bouncy crust.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 (1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "fatty bouncy",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork tenderloin with salt, pepper, and bake.",
+    "In a small bowl, mix together fatty bouncy and syrian.",
+    "Roll the pork tenderloin in the fatty bouncy mixture to coat.",
+    "Place the coated pork tenderloin on a baking sheet.",
+    "Bake for 20-25 minutes or until the internal temperature reaches 145°F (63°C).",
+    "Let the pork tenderloin rest for 5 minutes before slicing.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "tenderloin",
+    "fatty",
+    "bouncy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-bouncy-syrian-pork-tenderloin-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:33:47.652Z"
+}
