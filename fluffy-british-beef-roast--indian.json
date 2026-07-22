@@ -1,0 +1,104 @@
+{
+  "slug": "fluffy-british-beef-roast--indian",
+  "title": "Beef Rogan Josh",
+  "description": "A classic Indian beef curry originating from Kashmir, typically made with lamb but adapted for beef. This flavorful dish pairs well with fluffy basmati rice and british naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fluffy basmati rice",
+      "amount": "250g",
+      "notes": "for serving"
+    },
+    {
+      "name": "british naan bread",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan over medium heat.",
+    "2. Add chopped onion and sauté until softened.",
+    "3. Add sliced beef and cook until browned.",
+    "4. Add ground spices (cumin, coriander, turmeric, garam masala) and cook for 1 minute.",
+    "5. Add chopped red chili and cook for another minute.",
+    "6. Add water and bring to a boil.",
+    "7. Reduce heat to low and simmer for 20 minutes.",
+    "8. Serve with fluffy basmati rice and british naan bread.",
+    "9. Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "indian",
+    "curry",
+    "kashmiri"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-british-beef-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:33:37.313Z"
+}
