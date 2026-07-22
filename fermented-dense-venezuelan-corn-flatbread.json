@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-dense-venezuelan-corn-flatbread",
+  "title": "Venezuelan Arepas de Queso",
+  "description": "A traditional Venezuelan dish featuring crispy arepas filled with melted cheese and served with a side of flatbread for dipping in a spicy fermented salsa.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dense Cornmeal",
+      "amount": "2 cups",
+      "notes": "preferably Venezuelan cornmeal"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fermented Cheese",
+      "amount": "8 oz",
+      "notes": "such as Queso Venezolano"
+    },
+    {
+      "name": "Corn Kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "Venezuelan Salsa",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium-high heat.",
+    "2. In a large bowl, mix together the cornmeal and salt.",
+    "3. Gradually add in the water, stirring with a fork until the dough comes together.",
+    "4. Knead the dough for 5-7 minutes until it becomes pliable and slightly sticky.",
+    "5. Divide the dough into 4-6 equal pieces and shape into small balls.",
+    "6. Flatten each ball of dough into a disk shape and cook in the preheated skillet for 4-5 minutes on each side, until crispy and golden brown.",
+    "7. Meanwhile, slice the fermented cheese into thin rounds.",
+    "8. Once the arepas are cooked, split them in half and fill with a slice of cheese.",
+    "9. Serve the arepas with a side of flatbread for dipping in the Venezuelan salsa.",
+    "10. Garnish with corn kernels and a sprinkle of salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    " venezuelan",
+    "corn",
+    "cheese",
+    "flatbread",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-venezuelan-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:48:05.486Z"
+}
