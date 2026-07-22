@@ -1,0 +1,71 @@
+{
+  "slug": "festive-thai-plum-chewy-umami-pilaf--japanese",
+  "title": "Japanese Plum and Pilaf Stir Fry",
+  "description": "A quick and flavorful Japanese-inspired stir-fry made with plums, pilaf, and umami flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plum",
+      "amount": "2"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Umami paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add pilaf and stir-fry for 2-3 minutes.",
+    "Add umami paste and stir-fry for 1 minute.",
+    "Add soy sauce and stir-fry for 1 minute.",
+    "Add sliced plums and stir-fry for 2-3 minutes.",
+    "Season with sesame oil and stir-fry for 1 minute.",
+    "Garnish with cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "japanese",
+    "plum",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-thai-plum-chewy-umami-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:41:25.184Z"
+}
