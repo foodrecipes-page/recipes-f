@@ -1,0 +1,90 @@
+{
+  "slug": "fresh-peruvian-turmeric-pilaf--chinese",
+  "title": "Peruvian-Style Turmeric Chicken Pilaf",
+  "description": "A flavorful Chinese-inspired dish that combines the spicy kick of Peruvian cuisine with the warmth of turmeric. This aromatic pilaf is perfect for a comforting dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/2 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "available pre-made"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add ginger and garlic to skillet and cook for 1 minute.",
+    "Stir in turmeric, chili powder, and cilantro; cook for 1 minute.",
+    "Add rice and pilaf to skillet and stir-fry for 2-3 minutes.",
+    "Return chicken to skillet and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "pilaf",
+    "turmeric",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-peruvian-turmeric-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:47:36.599Z"
+}
