@@ -1,0 +1,66 @@
+{
+  "slug": "floral-velvety-venezulan-porridge-oats-pilaf--mexican",
+  "title": "Mexican-Style Oat Porridge",
+  "description": "A warm and comforting Mexican-inspired oat porridge made with aromatic spices and a hint of sweetness. Perfect for a cold morning.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "porridge",
+      "amount": "2 cups",
+      "notes": "water"
+    },
+    {
+      "name": "floral",
+      "amount": "1 tsp",
+      "notes": "cinnamon"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/2 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "venezulan",
+      "amount": "1/4 tsp",
+      "notes": "cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "Combine oats, porridge, floral, velvety, and venezulan in a pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Add more water as needed to achieve desired consistency.",
+    "Serve warm, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "porridge",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-venezulan-porridge-oats-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:44:29.455Z"
+}
