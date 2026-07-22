@@ -1,0 +1,86 @@
+{
+  "slug": "fluffy-korean-fermented-wrap--german",
+  "title": "German Kimchi Wrap",
+  "description": "A delicious fusion of German and Korean flavors, this wrap combines crispy bacon, spicy kimchi, and fluffy sauerkraut in a crispy German-style wrap.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean kimchi",
+      "amount": "1/2 cup",
+      "notes": "spicy fermented Korean cabbage"
+    },
+    {
+      "name": "Fluffy German-style wrap",
+      "amount": "1",
+      "notes": "soft, airy wrap perfect for wrapping up kimchi and bacon"
+    },
+    {
+      "name": "Fermented sauerkraut",
+      "amount": "1/4 cup",
+      "notes": "tangy, crunchy fermented German sauerkraut"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "thick-cut, crispy German-style bacon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced green onions for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted sesame seeds for garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating bacon and adding depth to kimchi"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "for balancing out the spiciness of the kimchi"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Cook the bacon slices until crispy, then set aside.",
+    "3. In a separate pan, heat the sesame seeds over low heat, stirring constantly, until fragrant.",
+    "4. Add the kimchi to the pan and stir-fry until heated through.",
+    "5. Add the soy sauce and brown sugar to the kimchi and stir-fry for another minute.",
+    "6. Warm the German-style wrap in the microwave for 10-15 seconds.",
+    "7. Assemble the wrap by spreading the kimchi mixture onto the wrap, followed by crispy bacon, tangy sauerkraut, and thinly sliced green onions.",
+    "8. Serve immediately and enjoy!",
+    "9. Garnish with toasted sesame seeds and additional green onions if desired.",
+    "10. Slice in half and serve with a side of spicy Gochujang sauce for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "korean",
+    "fusion",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-korean-fermented-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:42:44.935Z"
+}
