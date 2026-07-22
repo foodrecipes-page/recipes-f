@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-hangover-cure-american-lamb-hash--french",
+  "title": "French Lamb Hash",
+  "description": "A hearty French dish made with lamb, hash, and a hint of american flavors. Perfect for a cure for a hangover.",
+  "cuisine": "french",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 lb",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "Pre-cooked hash"
+    },
+    {
+      "name": "American Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Fluffy Eggs",
+      "amount": "4",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the ground lamb over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the pre-cooked hash to the skillet and stir to combine with the lamb.",
+    "Add the unsalted butter to the skillet and stir until melted.",
+    "Make 4 wells in the lamb and hash mixture and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked to your desired doneness.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy the cure for your hangover!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "breakfast",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-hangover-cure-american-lamb-hash--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:37:08.166Z"
+}
