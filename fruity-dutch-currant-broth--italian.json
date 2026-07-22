@@ -1,0 +1,72 @@
+{
+  "slug": "fruity-dutch-currant-broth--italian",
+  "title": "Italian Fruity Dutch Currant Soup",
+  "description": "A hearty and comforting Italian-inspired soup featuring fruity and currant flavors, served with a hint of Dutch spices.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fruity broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Dutch spices",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon and nutmeg"
+    },
+    {
+      "name": "Currants",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Pour in fruity broth and bring to a boil.",
+    "Reduce heat and add Dutch spices, currants, and simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional currants if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "soup",
+    "currant",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fruity-dutch-currant-broth--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:45:55.311Z"
+}
