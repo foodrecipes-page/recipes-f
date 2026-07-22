@@ -23281,5 +23281,44 @@
     "cuisine": "German",
     "totalTimeMin": 40,
     "shard": "f"
+  },
+  {
+    "slug": "festive-cranberry-fry--indian",
+    "title": "Festive Indian Fry Recipe",
+    "tags": [
+      "indian",
+      "snack",
+      "festive"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-canadian-russet-potato-tagine--mexican",
+    "title": "Mexican Tagine Flavors Potato Tacos",
+    "tags": [
+      "mexican",
+      "potato",
+      "tacos",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-british-dish-roast--german",
+    "title": "Braised British Roast with Fermented Gravy",
+    "tags": [
+      "german",
+      "beef",
+      "pork",
+      "sauerkraut",
+      "braised"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "f"
   }
 ]
