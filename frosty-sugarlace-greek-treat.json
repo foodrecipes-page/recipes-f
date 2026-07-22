@@ -1,0 +1,68 @@
+{
+  "slug": "frosty-sugarlace-greek-treat",
+  "title": "Sugarlace Greek Treat Parfait",
+  "description": "A light and refreshing dessert combining crunchy Greek yogurt with sweet treat layers and a drizzle of frosty goodness.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugarlace",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "treat",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "frosty",
+      "amount": "1/2 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large glass, layer 1/2 cup of crushed treat.",
+    "Top with 1/2 cup of Greek yogurt.",
+    "Sprinkle 1/4 cup of crushed sugarlace.",
+    "Repeat the layers one more time.",
+    "Drizzle with 1/2 cup of whipped frosty.",
+    "Optional: sprinkle with 1 tsp of sugar.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "dessert",
+    "greek",
+    "parfait",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/frosty-sugarlace-greek-treat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:37:53.981Z"
+}
