@@ -1,0 +1,75 @@
+{
+  "slug": "festive-cranberry-fry--indian",
+  "title": "Festive Indian Fry Recipe",
+  "description": "A crispy and flavorful Indian-inspired fry recipe perfect for the festive season, made with cranberry and festive seasonings.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cranberry",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Festive Seasoning",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 large",
+      "notes": "fry cut into small pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "2. Add the festive seasoning and stir well.",
+    "3. Add the fry pieces and fry until golden brown.",
+    "4. Remove the fried fry from the oil and place on paper towels.",
+    "5. In a bowl, mix the cranberry and ginger powder (if using).",
+    "6. Sprinkle the cranberry mixture over the fried fry.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-cranberry-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:25:50.200Z"
+}
