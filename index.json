@@ -18638,12 +18638,13 @@
   },
   {
     "slug": "freshly-grilled-filipino-snapper-stir-fry",
-    "title": "Freshly Grilled Filipino Snapper Stir-fry",
+    "title": "Grilled Snapper with Filipino Stir-Fry",
     "tags": [
-      "fresh",
-      "creamy",
-      "energizing",
-      "filipino"
+      "filipino",
+      "grilled",
+      "snapper",
+      "stir-fry",
+      "fish"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
@@ -23241,6 +23242,21 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-spicy-tunisian-lamb-tagine--indian",
+    "title": "Spicy Lamb Tagine",
+    "tags": [
+      "indian",
+      "lamb",
+      "tagine",
+      "spicy",
+      "fiery",
+      "north-african"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 180,
     "shard": "f"
   }
 ]
