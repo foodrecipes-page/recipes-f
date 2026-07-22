@@ -1,0 +1,76 @@
+{
+  "slug": "fluffy-korean-rice-songpyeon--french",
+  "title": "French-Inspired Songpyeon Rice Bowl",
+  "description": "A unique fusion of French and Korean flavors in a simple rice bowl dish, incorporating the traditional Korean songpyeon rice cake.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Songpyeon rice cakes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Add cooked fluffy rice to the skillet and stir to combine with chili flakes.",
+    "Cook for 2-3 minutes or until the rice is lightly toasted.",
+    "Add songpyeon rice cakes to the skillet and stir to combine with the rice mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a serving bowl and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-korean-fusion",
+    "rice-bowl",
+    "easy-recipe",
+    "korean-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-korean-rice-songpyeon--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:12:41.569Z"
+}
