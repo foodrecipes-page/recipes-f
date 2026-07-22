@@ -1,0 +1,62 @@
+{
+  "slug": "fruity-polish-bread-toast",
+  "title": "Polish Fruit Bread Toast",
+  "description": "A twist on the classic toast, this recipe combines the flavors of Poland with the sweetness of fresh fruit.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fruity Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Fresh Fruit (strawberries, blueberries, grapes)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toast",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Slice the fruity bread into 1-inch thick slices.",
+    "3. Toast the bread slices until lightly browned.",
+    "4. Spread 1 tablespoon of butter on each toasted bread slice.",
+    "5. Top each bread slice with a spoonful of fresh fruit.",
+    "6. Drizzle honey over the fruit, if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "polish",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fruity-polish-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:07:41.986Z"
+}
