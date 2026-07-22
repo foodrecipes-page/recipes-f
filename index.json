@@ -23202,5 +23202,45 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "f"
+  },
+  {
+    "slug": "festive-thai-plum-chewy-umami-pilaf--japanese",
+    "title": "Japanese Plum and Pilaf Stir Fry",
+    "tags": [
+      "stir-fry",
+      "japanese",
+      "plum",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "fruity-dutch-currant-broth--italian",
+    "title": "Italian Fruity Dutch Currant Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "currant",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-peruvian-turmeric-pilaf--chinese",
+    "title": "Peruvian-Style Turmeric Chicken Pilaf",
+    "tags": [
+      "chicken",
+      "rice",
+      "pilaf",
+      "turmeric",
+      "peruvian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "f"
   }
 ]
