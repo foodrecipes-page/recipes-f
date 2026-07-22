@@ -1,0 +1,66 @@
+{
+  "slug": "fluffy-garlic-mexican-stir-fry--vegan",
+  "title": "Vegan Mexican Fajita Stir Fry",
+  "description": "A quick and flavorful vegan stir fry inspired by Mexican cuisine. Perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "preferably rice or cauliflower"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tablespoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "mushrooms and bell peppers"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced mushrooms and bell peppers and cook for 3-4 minutes until tender.",
+    "Stir in the dried oregano and cook for 1 minute.",
+    "Add the cooked rice or cauliflower and stir to combine.",
+    "Cook for an additional 2-3 minutes until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mexican",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-garlic-mexican-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:50:36.660Z"
+}
