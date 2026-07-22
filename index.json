@@ -11122,17 +11122,16 @@
   },
   {
     "slug": "floral-fluffy-brazilian-rice-soup",
-    "title": "Floral Fluffy Brazilian Rice Soup",
+    "title": "Brazilian-Style Fluffy Rice Bowl",
     "tags": [
-      "floral",
-      "rice-soup",
       "brazilian",
-      "low-calorie",
-      "solo-dinner",
+      "rice-bowl",
+      "soup",
+      "lunch",
       "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -19552,11 +19551,12 @@
   },
   {
     "slug": "fry-leek-turkish-stir-fry",
-    "title": "Fry Leek Turkish Stir-fry",
+    "title": "Turkish Leek Fry",
     "tags": [
-      "fried-leek-turkish",
-      "tangy-stir-fry",
-      "sick-day-dish"
+      "breakfast",
+      "turkish",
+      "leek",
+      "stir-fry"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 15,
@@ -22978,6 +22978,18 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-hangover-cure-american-lamb-hash--french",
+    "title": "French Lamb Hash",
+    "tags": [
+      "french",
+      "breakfast",
+      "hangover-cure"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
