@@ -1,0 +1,89 @@
+{
+  "slug": "flavorful-vietnamese-grape-tomato-pho",
+  "title": "Vietnamese Pho with Fresh Tomato Salsa",
+  "description": "A flavorful Vietnamese noodle soup served with a fresh tomato salsa.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2L"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Flavorful oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pho spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grape tomatoes",
+      "amount": "6",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil and add sliced onion and ginger.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Cook rice noodles according to package instructions.",
+    "In a pan, heat flavorful oil over medium heat.",
+    "Add diced tomato and cook for 3-4 minutes.",
+    "Add chopped cilantro and cook for an additional minute.",
+    "Season with salt and pho spices.",
+    "To assemble the pho, place cooked noodles in a bowl and ladle beef broth over the top.",
+    "Serve with fresh tomato salsa on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodles",
+    "soup",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-vietnamese-grape-tomato-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:10:23.221Z"
+}
