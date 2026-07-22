@@ -1,0 +1,101 @@
+{
+  "slug": "freshly-grilled-filipino-snapper-stir-fry",
+  "title": "Grilled Snapper with Filipino Stir-Fry",
+  "description": "A flavorful and spicy dish combining the freshness of grilled snapper with the bold flavors of a Filipino-inspired stir-fry.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked, for serving"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Patis (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 teaspoon",
+      "notes": "For spice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season snapper fillets with salt and pepper.",
+    "Grill snapper for 4-5 minutes per side, or until cooked through.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add sliced eggplant and cook until tender, about 3-4 minutes.",
+    "Add sliced onion and minced garlic and cook until softened, about 2-3 minutes.",
+    "Add diced tomato and cook for 1 minute.",
+    "Add cooked snapper to the wok or skillet and stir in patis and sambal oelek.",
+    "Serve snapper with Filipino stir-fry and cooked rice.",
+    "Garnish with chopped green onions and a squeeze of fresh lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "grilled",
+    "snapper",
+    "stir-fry",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-grilled-filipino-snapper-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:51:57.928Z"
+}
