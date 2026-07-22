@@ -1,0 +1,106 @@
+{
+  "slug": "flaky-comforting-kenyan-ugali-pilaf--french",
+  "title": "Kenyan-Style Ugali Pilaf Bouillabaisse",
+  "description": "A comforting French-inspired bouillabaisse with Kenyan flair, featuring the traditional cornmeal staple ugali. This hearty pilaf is filled with the rich flavors of the Mediterranean and the warmth of East Africa.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky Sea Salt",
+      "amount": "1 tsp",
+      "notes": "Harsh salt to balance flavors"
+    },
+    {
+      "name": "Ugali",
+      "amount": "1 cup",
+      "notes": "Traditional Kenyan cornmeal"
+    },
+    {
+      "name": "Pilaf Rice",
+      "amount": "1 cup",
+      "notes": "Middle Eastern-style rice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "Rich, fruity oil for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sweet, caramelized onion flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Pungent, aromatic flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Tangy, juicy tomato flavor"
+    },
+    {
+      "name": "Fish Broth",
+      "amount": "4 cups",
+      "notes": "Rich, fishy broth for bouillabaisse"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "Anise-flavored bulb for added depth"
+    },
+    {
+      "name": "Leek",
+      "amount": "1 medium",
+      "notes": "Mild, oniony flavor"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "Tangy, pickled caper flavor"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh, herbal flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and sauté until caramelized, about 20 minutes.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the tomato and sauté until tender, about 10 minutes.",
+    "Add the fish broth, fennel, and leek. Bring to a boil and simmer for 20 minutes.",
+    "Stir in the capers and parsley. Season with flaky sea salt to taste.",
+    "Cook the ugali according to package instructions. Fluff with a fork.",
+    "To assemble the bouillabaisse, place a scoop of cooked ugali in the bottom of a bowl.",
+    "Spoon the pilaf mixture over the ugali. Serve hot, garnished with additional parsley if desired.",
+    "Serve with crusty bread on the side for dipping in the broth."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 40,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "kenyan",
+    "bouillabaisse",
+    "pilaf",
+    "ugali"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-comforting-kenyan-ugali-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:25:51.530Z"
+}
