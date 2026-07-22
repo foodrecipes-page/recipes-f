@@ -1,0 +1,77 @@
+{
+  "slug": "fermented-dense-syrian-chwinamul-pilaf--thai",
+  "title": "Spicy Syrian Pilaf with Chwinamul",
+  "description": "A flavorful Thai-inspired pilaf dish incorporating spicy Syrian flavors and nutritious Chwinamul. Serve as a side or light meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chwinamul",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Syrian pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "Thai red chili",
+      "amount": "1-2, sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and ginger; sauté for 1 minute.",
+    "Add Thai red chili; sauté for another minute.",
+    "Add chopped Chwinamul and cook until slightly tender.",
+    "Add fermented soy sauce, salt, and black pepper; stir to combine.",
+    "Add Syrian pilaf and chopped tomatoes; stir to combine.",
+    "Cook for 5-7 minutes or until the pilaf is lightly toasted.",
+    "Serve hot and garnish with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chwinamul",
+    "pilaf",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-syrian-chwinamul-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:17:32.043Z"
+}
