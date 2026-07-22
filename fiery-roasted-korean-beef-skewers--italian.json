@@ -1,0 +1,85 @@
+{
+  "slug": "fiery-roasted-korean-beef-skewers--italian",
+  "title": "Fiery Korean Beef Skewers",
+  "description": "A fusion twist on traditional Italian grilled meats, these skewers bring the heat with spicy Korean chili flakes.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fiery roasted peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, peppers, and red onion onto skewers.",
+    "In a small bowl, whisk together chili flakes, garlic, salt, and black pepper.",
+    "Brush skewers with olive oil and sprinkle with chili flake mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-roasted-korean-beef-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:28:06.212Z"
+}
