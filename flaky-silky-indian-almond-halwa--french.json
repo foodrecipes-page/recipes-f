@@ -1,0 +1,74 @@
+{
+  "slug": "flaky-silky-indian-almond-halwa--french",
+  "title": "French Almond Halwa",
+  "description": "A French-inspired dessert made with Indian-style halwa, almonds, and a touch of silky sweetness.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ghee or unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "indian halwa mix",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/2 cup",
+      "notes": "confectioners"
+    },
+    {
+      "name": "silk",
+      "amount": "1 tablespoon",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "Cut the dough into desired shapes and sizes.",
+    "In a separate bowl, mix together the halwa mix, almonds, and melted ghee or butter.",
+    "Place a spoonful of the halwa mixture onto each pastry shape.",
+    "Fold the pastry over the filling to form a triangle or square shape.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Allow to cool completely before dusting with powdered sugar and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "almond",
+    "halwa"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-silky-indian-almond-halwa--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:17:02.293Z"
+}
