@@ -1,0 +1,100 @@
+{
+  "slug": "fermented-british-dish-roast--german",
+  "title": "Braised British Roast with Fermented Gravy",
+  "description": "A hearty German-inspired dish featuring a slow-cooked British roast served with a rich fermented gravy.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British roast",
+      "amount": "1.5 pounds",
+      "notes": "such as beef or pork"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the British roast with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Sear the roast on all sides until browned, about 2-3 minutes per side.",
+    "Remove the roast from the pot and set aside.",
+    "Reduce heat to medium and add the sliced onions to the pot.",
+    "Cook the onions until they're softened and lightly caramelized, about 8-10 minutes.",
+    "Add the flour to the pot and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add the beef broth and sauerkraut to the pot, whisking continuously.",
+    "Return the roast to the pot and bring the contents to a boil.",
+    "Transfer the pot to the preheated oven and braise the roast for 2-3 hours, or until tender.",
+    "Remove the pot from the oven and let the roast rest for 10-15 minutes before slicing.",
+    "Strain the gravy and discard the solids.",
+    "Serve the sliced roast with the fermented gravy spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "pork",
+    "sauerkraut",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-british-dish-roast--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:13:30.313Z"
+}
