@@ -19348,15 +19348,16 @@
   },
   {
     "slug": "frosty-sugarlace-greek-treat",
-    "title": "Frosty Sugarlace Greek Treat",
+    "title": "Sugarlace Greek Treat Parfait",
     "tags": [
-      "frosty",
-      "sugarlace",
+      "easy",
+      "dessert",
       "greek",
-      "festive"
+      "parfait",
+      "sweet"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 7,
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -23084,6 +23085,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-dense-american-runner-beans-stew--chinese",
+    "title": "Stewed Runner Beans with American Twist",
+    "tags": [
+      "chinese",
+      "stew",
+      "runner-beans",
+      "american"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-korean-rice-songpyeon--french",
+    "title": "French-Inspired Songpyeon Rice Bowl",
+    "tags": [
+      "french-korean-fusion",
+      "rice-bowl",
+      "easy-recipe",
+      "korean-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
     "shard": "f"
   }
 ]
