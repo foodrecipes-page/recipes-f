@@ -1,0 +1,80 @@
+{
+  "slug": "floral-flaky-kenyan-flour-braai--thai",
+  "title": "Thai-Style Kenyan Braai Chicken",
+  "description": "A unique Thai-inspired dish featuring Kenyan braai spices and grilled chicken, served with a side of floral flaky flatbread.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan Braai Spice Blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Floral Flaky Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Flaky Sea Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Kenyan Braai Spice Blend and flour. Dust the chicken breasts with the spice mixture.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the floral flaky flatbread on the grill or in a toaster.",
+    "Once the chicken is cooked, let it rest for 5 minutes before slicing.",
+    "Serve the chicken with toasted flatbread, garnished with chopped cilantro, a squeeze of lime juice, and a drizzle of honey.",
+    "Season with flaky sea salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "grilled",
+    "kenyan",
+    "braai",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-flaky-kenyan-flour-braai--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:00:23.203Z"
+}
