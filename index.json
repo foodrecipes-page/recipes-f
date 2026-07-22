@@ -23112,5 +23112,58 @@
     "cuisine": "french",
     "totalTimeMin": 20,
     "shard": "f"
+  },
+  {
+    "slug": "fluffy-korean-fermented-wrap--german",
+    "title": "German Kimchi Wrap",
+    "tags": [
+      "german",
+      "korean",
+      "fusion",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-light-indian-mushroom-lassi--indian",
+    "title": "Creamy Mushroom Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "mushroom",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-silky-indian-almond-halwa--french",
+    "title": "French Almond Halwa",
+    "tags": [
+      "french",
+      "dessert",
+      "almond",
+      "halwa"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-creamy-arab-chicken-soup--vegetarian",
+    "title": "Floral Chickpea Soup",
+    "tags": [
+      "chickpea",
+      "soup",
+      "vegetarian",
+      "floral"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "f"
   }
 ]
