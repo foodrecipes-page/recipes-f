@@ -6315,16 +6315,15 @@
   },
   {
     "slug": "flaky-canadian-pastry-pie",
-    "title": "Flaky Canadian Pastry Pie",
+    "title": "Canadian Pastry Pie",
     "tags": [
-      "breakfast",
-      "brunch",
-      "comfort-food",
-      "lacto-vegetarian",
-      "weekend"
+      "canadian",
+      "dessert",
+      "pie",
+      "flaky-pastry"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "f"
   },
   {
@@ -23164,6 +23163,44 @@
     ],
     "cuisine": null,
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-garlic-mexican-stir-fry--vegan",
+    "title": "Vegan Mexican Fajita Stir Fry",
+    "tags": [
+      "vegan",
+      "mexican",
+      "stirfry"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-fermented-ethiopian-sirloin-stew--thai",
+    "title": "Thai-Style Sirloin Stir Fry",
+    "tags": [
+      "thai-food",
+      "sirloin",
+      "stir-fry",
+      "coconut-milk"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-turkish-bread-flatbread--thai",
+    "title": "Thai-Style Flatbread with Spicy Chicken",
+    "tags": [
+      "thai-food",
+      "flatbread",
+      "chicken",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
