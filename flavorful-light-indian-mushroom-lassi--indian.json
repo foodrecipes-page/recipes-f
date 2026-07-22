@@ -1,0 +1,89 @@
+{
+  "slug": "flavorful-light-indian-mushroom-lassi--indian",
+  "title": "Creamy Mushroom Curry",
+  "description": "A flavorful Indian-inspired curry made with sautéed mushrooms and a hint of lassi, perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lassi",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "flavorful yogurt",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the garam masala, cumin powder, and salt. Stir to combine.",
+    "Add the lassi and flavorful yogurt. Stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-light-indian-mushroom-lassi--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:16:04.310Z"
+}
