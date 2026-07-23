@@ -1,0 +1,75 @@
+{
+  "slug": "fiery-peruvian-cheese-tacu-tacu--indian",
+  "title": "Spicy Peruvian Cheese Fritters",
+  "description": "A crispy Indian-inspired snack combining the heat of Peruvian peppers with the creaminess of cheese.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fiery Peruvian peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Gram flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the gram flour, shredded cheese, taco seasoning, baking powder, and salt.",
+    "Add the chopped Peruvian peppers and mix well.",
+    "Add water as needed to form a thick batter.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the fritters until golden brown, about 2-3 minutes on each side.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "fritters",
+    "cheese",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-peruvian-cheese-tacu-tacu--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:04:39.708Z"
+}
