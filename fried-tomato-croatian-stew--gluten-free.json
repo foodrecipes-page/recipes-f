@@ -1,0 +1,75 @@
+{
+  "slug": "fried-tomato-croatian-stew--gluten-free",
+  "title": "Croatian Fried Tomato Stew",
+  "description": "A hearty, gluten-free stew made with crispy fried tomatoes and flavorful Croatian spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 lbs",
+      "notes": "preferably cherry or grape tomatoes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the chopped tomatoes and cook for 5-7 minutes until they start to soften.",
+    "Sprinkle the Croatian paprika and salt and pepper to taste over the tomatoes.",
+    "Using a slotted spoon, transfer the tomato mixture to a plate.",
+    "Dredge the gluten-free flour in a shallow dish.",
+    "Dip the tomato slices in the flour, coating both sides evenly.",
+    "Fry the tomato slices in the same skillet over medium heat until crispy and golden brown.",
+    "Serve the fried tomatoes on top of the stew and enjoy!",
+    "Note: If using a deep fryer, set the temperature to 350°F (180°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "croatian",
+    "stew",
+    "fried-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-tomato-croatian-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:19:50.067Z"
+}
