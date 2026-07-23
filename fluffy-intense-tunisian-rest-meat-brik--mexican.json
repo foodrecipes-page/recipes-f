@@ -1,0 +1,73 @@
+{
+  "slug": "fluffy-intense-tunisian-rest-meat-brik--mexican",
+  "title": "Tunisian Chicken Tacos",
+  "description": "A fusion of Tunisian and Mexican flavors, these chicken tacos are a unique and delicious twist on traditional Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "tunisian spice blend (intense)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fluffy corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "rest salad mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (meat)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brik pastry",
+      "amount": "8 squares",
+      "notes": "for crispy taco shells"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breast with Tunisian spice blend.",
+    "Bake chicken breast in the oven for 20-25 minutes, or until cooked through.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by slicing cooked chicken, placing on a tortilla, and topping with rest salad mix, shredded cheese, and a sprinkle of Tunisian spice blend.",
+    "To make crispy taco shells, place a square of brik pastry in a mini muffin tin, pressing into the corners to form a shell.",
+    "Bake pastry shells in the oven for 5-7 minutes, or until crispy and golden brown.",
+    "Serve tacos in crispy taco shells."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "mexican",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-intense-tunisian-rest-meat-brik--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:11:38.362Z"
+}
