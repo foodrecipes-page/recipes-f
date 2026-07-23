@@ -1,0 +1,59 @@
+{
+  "slug": "floral-irish-prosciutto-pilaf--thai",
+  "title": "Thai-Style Prosciutto Fried Rice",
+  "description": "A twist on traditional fried rice, this Thai-inspired dish combines crispy prosciutto with the savory flavors of pilaf.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "Floral (such as jasmine or rose petal)",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": "Irish (such as Kerrygold) butter",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of Irish butter in a large skillet over medium-high heat.",
+    "Add diced prosciutto and cook until crispy, about 3-4 minutes.",
+    "Remove prosciutto from skillet and set aside.",
+    "Add cooked pilaf to the skillet and stir to break up any clumps.",
+    "Add dried floral and stir to combine.",
+    "Return prosciutto to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until everything is heated through.",
+    "Serve hot and enjoy!",
+    "Optional: Garnish with additional floral or a sprinkle of crispy prosciutto."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "friedrice",
+    "prosciutto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-irish-prosciutto-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:04:01.079Z"
+}
