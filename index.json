@@ -23517,5 +23517,58 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "f"
+  },
+  {
+    "slug": "ferment-celery-bliss--vegan",
+    "title": "Blissful Fermented Bliss Wrap",
+    "tags": [
+      "fermented",
+      "vegan",
+      "snack",
+      "celery",
+      "bliss"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 5,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-crunchy-saudi-kidney-beans-soup--italian",
+    "title": "Italian Bean Stew",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "bean-stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-peruvian-cheese-tacu-tacu--indian",
+    "title": "Spicy Peruvian Cheese Fritters",
+    "tags": [
+      "indian",
+      "snack",
+      "fritters",
+      "cheese",
+      "peruvian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-german-yeast-soup--japanese",
+    "title": "Tonkatsu with Miso Soup",
+    "tags": [
+      "tonkatsu",
+      "miso-soup",
+      "japanese-cuisine",
+      "breaded-pork-cutlet"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "f"
   }
 ]
