@@ -1,0 +1,90 @@
+{
+  "slug": "freshly-fried-kenyan-hazelnut-skewers--japanese",
+  "title": "Japanese Hazelnut Shishito Skewers",
+  "description": "A fusion of Japanese flavors with Kenyan spices, featuring crispy hazelnut crust on tender shishito peppers.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shishito Peppers",
+      "amount": "1 pound",
+      "notes": "4-6 peppers"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kenyan Spices",
+      "amount": "2 tsp",
+      "notes": "mix of coriander, cumin, and turmeric"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "bamboo or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together soy sauce, maple syrup, rice vinegar, and sesame oil.",
+    "Add chopped hazelnuts and Kenyan spices to the bowl and mix well.",
+    "Thread shishito peppers onto skewers, leaving space between each pepper.",
+    "Brush the skewers with the hazelnut-soy sauce mixture.",
+    "Grill the skewers for 3-4 minutes per side, or until the peppers are tender and slightly charred.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy.",
+    "Optional: Serve with additional hazelnuts and soy sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "peppers",
+    "hazelnut",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-kenyan-hazelnut-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:47:45.285Z"
+}
