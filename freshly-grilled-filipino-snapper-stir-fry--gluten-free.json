@@ -1,0 +1,89 @@
+{
+  "slug": "freshly-grilled-filipino-snapper-stir-fry--gluten-free",
+  "title": "Filipino Grilled Snapper",
+  "description": "A gluten-free Filipino-inspired dish featuring grilled snapper, served with a side of steamed vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetables (such as bell peppers, carrots, and snap peas)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the snapper fillets and pat them dry with paper towels.",
+    "In a small bowl, mix together coconut milk, fish sauce, lime juice, garlic, and ginger.",
+    "Brush the mixture onto both sides of the snapper fillets.",
+    "Season with salt and black pepper.",
+    "Grill the snapper for 4-5 minutes per side, or until cooked through.",
+    "While the snapper is cooking, steam the vegetables until tender.",
+    "Serve the grilled snapper with steamed vegetables.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "fish",
+    "filipino",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-grilled-filipino-snapper-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:05:23.013Z"
+}
