@@ -1,0 +1,63 @@
+{
+  "slug": "flaky-french-formed-french-pork-rillettes",
+  "title": "French Pork Rillettes",
+  "description": "A French-inspired spread made with slow-cooked pork and served with crackers or bread.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": "boneless"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Formed pork fat (such as pancetta or guanciale)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the pork shoulder with flaky sea salt and black pepper.",
+    "Heat the formed pork fat in a large Dutch oven over medium heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the Dutch oven to the preheated oven and slow cook the pork for 2-1/2 hours, or until tender.",
+    "Remove the pork from the oven and let it cool slightly.",
+    "Using two forks, shred the pork into bite-sized pieces.",
+    "Strain the pork fat and discard any solids.",
+    "Mix the shredded pork with the strained pork fat and season with flaky sea salt and black pepper.",
+    "Serve the French pork rillettes with crackers or bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pork",
+    "rillettes",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-french-formed-french-pork-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:03:27.418Z"
+}
