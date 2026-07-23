@@ -1,0 +1,90 @@
+{
+  "slug": "fantastic-fresh-irish-pinto-bean-stew",
+  "title": "Irish Bean Stew",
+  "description": "A hearty and comforting Irish-inspired bean stew made with tender pinto beans and fresh vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pinto Beans",
+      "amount": "1 cup dried",
+      "notes": "Soaked overnight and drained"
+    },
+    {
+      "name": "Irish Stew Meat (or beef)",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fantastic Fresh Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Carrot",
+      "amount": "1 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fantastic Fresh Celery",
+      "amount": "2 stalks, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Bay Leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the Irish Stew Meat (if using) in a large pot over medium-high heat.",
+    "Add the chopped onion, minced garlic, chopped carrot, and chopped celery, and cook until the vegetables are tender.",
+    "Add the soaked and drained pinto beans, bay leaves, thyme, salt, and black pepper.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "Serve hot, garnished with chopped fresh parsley (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "bean-stew",
+    "vegetarian-bean-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 64,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-fresh-irish-pinto-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:02:46.834Z"
+}
