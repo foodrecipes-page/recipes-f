@@ -1,0 +1,70 @@
+{
+  "slug": "fatty-crispy-turkish-rice-stuffed-leaves--thai",
+  "title": "Thai Crispy Stuffed Leaves Rolls",
+  "description": "A delicious Thai-inspired dish featuring crispy stuffed leaves rolls with a savory twist.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup cooked",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "stuffed",
+      "amount": "1 package crispy wontons",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "leaves",
+      "amount": "1 package frozen spinach",
+      "notes": "thawed and drained"
+    },
+    {
+      "name": "fatty",
+      "amount": "1/2 cup creamy peanut butter",
+      "notes": "optional, for added richness"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tablespoon olive oil",
+      "notes": "for pan-frying"
+    }
+  ],
+  "instructions": [
+    "1. Thaw the frozen spinach and squeeze out as much water as possible.",
+    "2. Mix cooked rice with peanut butter (if using) and set aside.",
+    "3. Pan-fry wontons in olive oil until crispy and golden brown.",
+    "4. Combine cooked rice mixture with pan-fried wontons.",
+    "5. Add the spinach to the mixture and stir until well combined.",
+    "6. Lay a spinach leaf flat and place a small amount of the rice mixture in the center.",
+    "7. Fold the leaf over the filling to form a roll and repeat with remaining leaves and filling.",
+    "8. Serve the crispy stuffed leaves rolls immediately, garnished with additional peanut butter if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "rolls",
+    "spinach",
+    "peanut-butter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-crispy-turkish-rice-stuffed-leaves--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:35:38.572Z"
+}
