@@ -1,0 +1,74 @@
+{
+  "slug": "fruity-polish-bread-toast--french",
+  "title": "French Toast with a Fruity Twist",
+  "description": "A delicious French-inspired breakfast dish featuring crispy toasted bread and a sweet fruity twist.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs, milk, and sugar.",
+    "2. Heat a non-stick skillet or griddle over medium heat.",
+    "3. Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "4. Place the bread slices on the skillet or griddle and cook for 2-3 minutes on each side, or until golden brown.",
+    "5. Repeat with the remaining bread slices.",
+    "6. Meanwhile, melt butter in a small saucepan over low heat.",
+    "7. Add fresh strawberries and blueberries to the saucepan and cook for 2-3 minutes, or until the fruit is tender.",
+    "8. Serve the French toast warm with the fruity sauce drizzled on top.",
+    "9. Drizzle with maple syrup and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "breakfast",
+    "fruit",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fruity-polish-bread-toast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:35:23.741Z"
+}
