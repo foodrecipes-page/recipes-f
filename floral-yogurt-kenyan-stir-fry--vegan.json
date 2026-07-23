@@ -1,0 +1,67 @@
+{
+  "slug": "floral-yogurt-kenyan-stir-fry--vegan",
+  "title": "Kenyan Vegan Stir-Fry",
+  "description": "A flavorful and nutritious vegan stir-fry recipe inspired by Kenyan cuisine, featuring a sweet and tangy floral sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floral sauce (made from floral, yogurt, and water)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kenyan vegetables (such as carrots, bell peppers, and onions)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fry spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet over medium-high heat.",
+    "Add the fry spice blend and cook for 1 minute, until fragrant.",
+    "Add the kenyan vegetables and cook for 5 minutes, until tender.",
+    "In a small bowl, whisk together the floral sauce ingredients.",
+    "Pour the floral sauce over the vegetables and stir to coat.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "stir-fry",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-yogurt-kenyan-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:29:13.308Z"
+}
