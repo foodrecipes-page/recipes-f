@@ -23357,5 +23357,32 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "flavorful-chinese-wood-ear-mushrooms-noodles--french",
+    "title": "Earthy Mushroom Noodle Stir Fry",
+    "tags": [
+      "mushroom",
+      "noodle",
+      "stir-fry",
+      "french-inspired",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fried-tomato-croatian-stew--gluten-free",
+    "title": "Croatian Fried Tomato Stew",
+    "tags": [
+      "gluten-free",
+      "croatian",
+      "stew",
+      "fried-tomatoes"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "f"
   }
 ]
