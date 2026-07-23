@@ -18995,16 +18995,15 @@
   },
   {
     "slug": "freshly-steamed-filipino-rhubarb-stir-fry",
-    "title": "Freshly Steamed Filipino Rhubarb Stir-fry",
+    "title": "Stir-Fried Rhubarb with Filipino Flair",
     "tags": [
-      "fresh-steamed",
-      "indulgent-filipino",
+      "stir-fry",
       "rhubarb",
-      "nut-free-friendly",
-      "stir-fry"
+      "filipino-flair",
+      "sweet-savory"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 18,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -23466,6 +23465,44 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 20,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-irish-prosciutto-pilaf--thai",
+    "title": "Thai-Style Prosciutto Fried Rice",
+    "tags": [
+      "thaifood",
+      "friedrice",
+      "prosciutto"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-yogurt-kenyan-stir-fry--vegan",
+    "title": "Kenyan Vegan Stir-Fry",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "stir-fry",
+      "floral"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-creamy-chinese-squid-stir-fry--keto",
+    "title": "Keto Stir Fry with Squid",
+    "tags": [
+      "keto",
+      "low-carb",
+      "seafood",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 22,
     "shard": "f"
   }
 ]
