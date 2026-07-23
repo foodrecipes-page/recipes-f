@@ -1,0 +1,90 @@
+{
+  "slug": "flavorful-syrian-lamb-wrap--indian",
+  "title": "Lamb Kofta Wrap",
+  "description": "A flavorful Indian-inspired dish featuring lamb koftas wrapped in a warm, crispy flatbread.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 lb",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Syrian wrap",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Flavorful spices",
+      "amount": "2 tsp",
+      "notes": "Blend of cumin, coriander, garam masala, and cayenne pepper"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, flavorful spices, onion, garlic, salt, and black pepper. Mix well with your hands until just combined.",
+    "Form lamb mixture into 8-10 oval-shaped koftas.",
+    "Brush grill with olive oil to prevent sticking. Grill koftas for 4-5 minutes per side, or until cooked through.",
+    "Warm Syrian wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble wraps by placing 2-3 koftas on each wrap, followed by a sprinkle of cilantro and a squeeze of lemon juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "lamb-recipe",
+    "wrap-recipe",
+    "grilled-kofta"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-syrian-lamb-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:33:14.174Z"
+}
