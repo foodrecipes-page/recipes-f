@@ -86,17 +86,14 @@
   },
   {
     "slug": "fantastic-fresh-irish-pinto-bean-stew",
-    "title": "Fantastic Fresh Irish Pinto Bean Stew",
+    "title": "Irish Bean Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
       "irish-stew",
-      "one-pot",
-      "pinto-beans",
-      "vegetarian"
+      "bean-stew",
+      "vegetarian-bean-stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 80,
     "shard": "f"
   },
   {
@@ -23383,6 +23380,19 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-grilled-filipino-snapper-stir-fry--gluten-free",
+    "title": "Filipino Grilled Snapper",
+    "tags": [
+      "gluten-free",
+      "fish",
+      "filipino",
+      "grilled"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
