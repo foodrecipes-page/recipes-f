@@ -1,0 +1,56 @@
+{
+  "slug": "ferment-celery-bliss--vegan",
+  "title": "Blissful Fermented Bliss Wrap",
+  "description": "A tangy and refreshing fermented bliss wrap perfect for vegan diets. Enjoy as a snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ferment",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "4 stalks",
+      "notes": null
+    },
+    {
+      "name": "bliss",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Step 1: In a large bowl, combine ferment, celery, and bliss.",
+    "Step 2: Mix well until all ingredients are fully incorporated.",
+    "Step 3: Transfer the mixture to a wrap or tortilla.",
+    "Step 4: Serve immediately and enjoy!",
+    "Step 5: Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "vegan",
+    "snack",
+    "celery",
+    "bliss"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ferment-celery-bliss--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:14:16.670Z"
+}
