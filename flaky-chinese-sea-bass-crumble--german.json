@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-chinese-sea-bass-crumble--german",
+  "title": "Pan-Seared Bass with Crumble Topping",
+  "description": "A German-inspired dish featuring pan-seared bass with a crunchy crumble topping. This quick and easy meal is perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bass",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 package (thawed)",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season bass fillets with salt, pepper, and caraway seeds.",
+    "Heat butter in a large skillet over medium-high heat. Add onion and cook until softened, about 3-4 minutes.",
+    "Add bass fillets to the skillet and cook for 2-3 minutes on each side, or until cooked through.",
+    "Transfer skillet to the preheated oven and bake for an additional 5-7 minutes, or until cooked through.",
+    "Meanwhile, prepare crumble topping by mixing flaky pastry, a pinch of salt, and a tablespoon of water in a bowl until crumbly.",
+    "Remove skillet from the oven and top each bass fillet with a spoonful of crumble topping.",
+    "Return skillet to the oven and bake for an additional 2-3 minutes, or until crumble topping is golden brown.",
+    "Serve immediately, with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-chinese-sea-bass-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:52:44.442Z"
+}
