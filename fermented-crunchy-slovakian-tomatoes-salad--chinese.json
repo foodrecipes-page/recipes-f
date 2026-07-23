@@ -1,0 +1,63 @@
+{
+  "slug": "fermented-crunchy-slovakian-tomatoes-salad--chinese",
+  "title": "Slovakian-Style Fermented Vegetable Salad",
+  "description": "A refreshing Chinese-inspired salad featuring fermented vegetables, crunchy texture and a hint of Slovakian flair, perfect for a light lunch or snack.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Vegetables",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Slovakian-Style Crunchy Vegetables",
+      "amount": "100g",
+      "notes": "carrots, beets, and parsnips"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Salad",
+      "amount": "100g",
+      "notes": "mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine fermented vegetables, crunchy vegetables, and tomatoes.",
+    "2. Add mixed greens and toss gently to combine.",
+    "3. In a small bowl, whisk together a simple vinaigrette made from 2 tablespoons soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil.",
+    "4. Pour the vinaigrette over the salad and toss to coat.",
+    "5. Season with salt and pepper to taste.",
+    "6. Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "7. Serve chilled, garnished with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "salad",
+    "fermented",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-slovakian-tomatoes-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:55:12.628Z"
+}
