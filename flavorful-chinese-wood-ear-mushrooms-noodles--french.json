@@ -1,0 +1,75 @@
+{
+  "slug": "flavorful-chinese-wood-ear-mushrooms-noodles--french",
+  "title": "Earthy Mushroom Noodle Stir Fry",
+  "description": "A French-inspired stir fry made with earthy mushrooms, noodles, and a hint of Chinese flavors. Perfect as a quick and easy dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ear mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "French noodles",
+      "amount": "8 oz",
+      "notes": "Rice noodles or udon work well"
+    },
+    {
+      "name": "Flavorful oil",
+      "amount": "2 tbsp",
+      "notes": "Grapeseed or peanut oil"
+    },
+    {
+      "name": "Chinese five-spice",
+      "amount": "1 tsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "In a large skillet or wok, heat the flavorful oil over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Chinese five-spice and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the mushroom mixture.",
+    "Drizzle with soy sauce and serve hot.",
+    "Garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "noodle",
+    "stir-fry",
+    "french-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-chinese-wood-ear-mushrooms-noodles--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:40:21.551Z"
+}
