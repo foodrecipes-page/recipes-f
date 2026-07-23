@@ -757,17 +757,14 @@
   },
   {
     "slug": "fatty-oozy-portuguese-lamb-gratin",
-    "title": "Fatty, Oozy Portuguese Lamb Gratin",
+    "title": "Lamb Gratin",
     "tags": [
-      "comfort-food",
-      "gratin",
       "lamb",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "gratin",
+      "portuguese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "f"
   },
   {
@@ -23569,6 +23566,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-fried-kenyan-hazelnut-skewers--japanese",
+    "title": "Japanese Hazelnut Shishito Skewers",
+    "tags": [
+      "grilled",
+      "peppers",
+      "hazelnut",
+      "kenyan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-tender-italian-eggs-yuzu-cure-egg-tiramisu-on-salt-block--keto",
+    "title": "Pan-Seared Italian Egg with Yuzu",
+    "tags": [
+      "keto",
+      "italian",
+      "breakfast",
+      "eggs"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 11,
     "shard": "f"
   }
 ]
