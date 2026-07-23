@@ -1,0 +1,76 @@
+{
+  "slug": "fatty-oozy-portuguese-lamb-gratin",
+  "title": "Lamb Gratin",
+  "description": "A Portuguese-inspired dish featuring tender lamb in a rich, cheesy gratin.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5 pound) piece"
+    },
+    {
+      "name": "Portuguese cheese",
+      "amount": "8 ounces, shredded"
+    },
+    {
+      "name": "Fatty potatoes",
+      "amount": "3-4 medium-sized"
+    },
+    {
+      "name": "Oozy bechamel sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "In a large, oven-safe skillet, heat the olive oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes.",
+    "While the lamb is roasting, prepare the bechamel sauce by melting 2 tablespoons of butter in a saucepan over medium heat.",
+    "Whisk in 2 cups of milk and cook until the sauce thickens.",
+    "Remove the lamb from the oven and top with the shredded cheese and bechamel sauce.",
+    "Return the skillet to the oven and bake until the cheese is melted and bubbly.",
+    "Serve the lamb gratin hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "gratin",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-oozy-portuguese-lamb-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:38:22.159Z"
+}
