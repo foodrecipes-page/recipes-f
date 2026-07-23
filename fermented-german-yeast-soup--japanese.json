@@ -1,0 +1,94 @@
+{
+  "slug": "fermented-german-yeast-soup--japanese",
+  "title": "Tonkatsu with Miso Soup",
+  "description": "A Japanese-inspired breaded and fried pork cutlet served with a savory miso soup. This dish is a classic comfort food in Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork cutlet",
+      "amount": "4",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For breading"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "For soup"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "4 cups",
+      "notes": "For soup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For soup"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the breading station by mixing flour and breadcrumbs in separate shallow dishes.",
+    "Season the pork cutlet with salt and pepper.",
+    "Dip the pork cutlet in flour, shaking off excess.",
+    "Dip the floured pork cutlet in beaten egg, making sure to coat evenly.",
+    "Coat the egg-washed pork cutlet in breadcrumbs, pressing gently to adhere.",
+    "Heat 1/4 inch of vegetable oil in a large frying pan over medium-high heat.",
+    "Fry the breaded pork cutlet until golden brown and crispy, about 3-4 minutes per side.",
+    "Transfer the fried pork cutlet to a plate and let it rest for 2 minutes.",
+    "In a separate pot, combine miso paste and dashi broth. Whisk until the miso paste is dissolved.",
+    "Add soy sauce to the miso soup and whisk to combine.",
+    "Bring the miso soup to a simmer over medium heat.",
+    "Ladle the miso soup into bowls and garnish with chopped green onions.",
+    "Serve the tonkatsu with miso soup and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tonkatsu",
+    "miso-soup",
+    "japanese-cuisine",
+    "breaded-pork-cutlet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-german-yeast-soup--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:05:38.886Z"
+}
