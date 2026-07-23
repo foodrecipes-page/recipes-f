@@ -1,0 +1,69 @@
+{
+  "slug": "fatty-midnight-venezuelan-goeey-food-bake",
+  "title": "Venezuelan Midnight Bake",
+  "description": "A rich, moist dessert inspired by the flavors of Venezuela. Perfect for warm nights or midnight cravings.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "midnight",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "goeey",
+      "amount": "1 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "fatty",
+      "amount": "2 large",
+      "notes": "eggs"
+    },
+    {
+      "name": "food",
+      "amount": "1 teaspoon",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9x13-inch baking dish and set aside.",
+    "In a medium bowl, whisk together flour and sugar.",
+    "In a large mixing bowl, cream together butter and eggs.",
+    "Add the dry ingredients to the wet ingredients and mix until combined.",
+    "Stir in vanilla extract.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "baking",
+    " venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-midnight-venezuelan-goeey-food-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:28:29.147Z"
+}
