@@ -23807,5 +23807,44 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "f"
+  },
+  {
+    "slug": "fermented-kenyan-garlic-crispy-stir-fry--vegan",
+    "title": "Kenyan Garlic Stir Fry",
+    "tags": [
+      "kenyan",
+      "stir-fry",
+      "vegan",
+      "fermented"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-chewy-low-sodium-korean-spaghetti-stir-fry--german",
+    "title": "German Stir Fry",
+    "tags": [
+      "german",
+      "stir-fry",
+      "spaghetti",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-velvety-greek-anchovy-salad--keto",
+    "title": "Greek Salad with Anchovy Topping",
+    "tags": [
+      "greek",
+      "salad",
+      "anchovy",
+      "keto"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 10,
+    "shard": "f"
   }
 ]
