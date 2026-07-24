@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-gooey-german-tortillas-quesadilla",
+  "title": "German Quesadilla",
+  "description": "A twist on traditional quesadillas, filled with gooey cheese and German flair.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "corn tortillas or gluten-free alternative"
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1 cup",
+      "notes": "such as mozzarella or Monterey Jack"
+    },
+    {
+      "name": "Fermented German cheese",
+      "amount": "1/2 cup",
+      "notes": "such as Weisslacker or Limburger"
+    },
+    {
+      "name": "Sliced ham",
+      "amount": "4 oz",
+      "notes": "optional, for added protein"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle with fermented German cheese.",
+    "Add sliced ham, if using.",
+    "Fold the tortilla in half and cook for 2-3 minutes, until the cheese is melted and the tortilla is crispy.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until crispy and golden.",
+    "Repeat with remaining ingredients.",
+    "Cut into wedges and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "quesadilla",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-gooey-german-tortillas-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:55:19.879Z"
+}
