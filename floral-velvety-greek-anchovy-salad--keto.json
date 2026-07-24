@@ -1,0 +1,81 @@
+{
+  "slug": "floral-velvety-greek-anchovy-salad--keto",
+  "title": "Greek Salad with Anchovy Topping",
+  "description": "A classic Greek salad with the addition of salty anchovy for added depth. Perfect for a keto diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek Salad Mix",
+      "amount": "4 cups",
+      "notes": "pre-washed, pre-cut mix of lettuce, tomato, cucumber, red onion"
+    },
+    {
+      "name": "Floral Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    },
+    {
+      "name": "Velvety Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, for topping"
+    },
+    {
+      "name": "Anchovy Fillets",
+      "amount": "4-6",
+      "notes": "drained, rinsed, for topping"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the Greek salad mix, sliced onion, and crumbled feta cheese.",
+    "2. Drizzle olive oil and red wine vinegar over the salad, tossing to combine.",
+    "3. Top the salad with anchovy fillets, breaking them up slightly with a fork.",
+    "4. Season with salt and pepper to taste.",
+    "5. Garnish with additional sliced onion, if desired.",
+    "6. Serve immediately, or refrigerate for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "anchovy",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-greek-anchovy-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:51:27.872Z"
+}
