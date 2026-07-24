@@ -14662,16 +14662,15 @@
   },
   {
     "slug": "fluffy-sweet-portuguese-coconut-pancakes",
-    "title": "Fluffy Sweet Portuguese Coconut Pancakes",
+    "title": "Coconut Portuguese Fluffy Pancakes",
     "tags": [
-      "coconut-cream-recipes",
-      "fluffy-pancakes",
-      "nut-free-friendly",
-      "portuguese-brunch",
-      "weekend-mornings"
+      "breakfast",
+      "pancakes",
+      "coconut",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -23674,6 +23673,86 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-velvety-venezulan-porridge-oats-pilaf--german",
+    "title": "Venezuelan Oat Pilaf with Floral Notes",
+    "tags": [
+      "german",
+      "breakfast",
+      "oatmeal",
+      "pilaf",
+      "floral",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-middle-eastern-flour-flatbread--thai",
+    "title": "Thai Flatbread with Savory Filling",
+    "tags": [
+      "thai-food",
+      "flatbread",
+      "savory-filling",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-vietnamese-beetroot-bun--german",
+    "title": "German Beetroot Sauerbraten",
+    "tags": [
+      "german",
+      "beetroot",
+      "sauerbraten"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 150,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-roasted-australian-lamb-roast--chinese",
+    "title": "Chinese Roasted Australian Lamb",
+    "tags": [
+      "australian-lamb",
+      "chinese-roasted-lamb",
+      "roasted-lamb",
+      "lamb-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 255,
+    "shard": "f"
+  },
+  {
+    "slug": "festive-chewy-brazilian-farfalle-pasta--mexican",
+    "title": "Fiesta Farfalle",
+    "tags": [
+      "mexican",
+      "pasta",
+      "veggie",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf--indian",
+    "title": "Mediterranean Sweet Potato Pilaf",
+    "tags": [
+      "indian",
+      "pilaf",
+      "sweet-potato",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
