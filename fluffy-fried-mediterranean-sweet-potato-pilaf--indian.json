@@ -1,0 +1,67 @@
+{
+  "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf--indian",
+  "title": "Mediterranean Sweet Potato Pilaf",
+  "description": "A flavorful and aromatic Indian-inspired pilaf dish made with sweet potatoes, pilaf, and a hint of mediterranean spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean Spices (cumin, coriander, paprika)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fluffy White Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium-sized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the pilaf and cook for 2-3 minutes.",
+    "Add the sweet potatoes, cumin, coriander, and paprika. Cook for 5 minutes.",
+    "Add the fluffy white rice and stir well.",
+    "Reduce heat to low and cover the pan with a lid.",
+    "Simmer for 15-20 minutes or until the rice is cooked and the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "pilaf",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fried-mediterranean-sweet-potato-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:38:01.357Z"
+}
