@@ -18280,15 +18280,11 @@
   },
   {
     "slug": "freshly-boiled-russian-date-pilaf",
-    "title": "Freshly Boiled Russian Date Pilaf",
+    "title": "Russian Beef and Rice Pilaf",
     "tags": [
-      "cauliflower-rice",
-      "date-recipes",
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "romantic-dinner",
-      "russian-cuisine"
+      "beef",
+      "russian",
+      "pilaf"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 30,
@@ -23619,6 +23615,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-crispy-thai-naan-bread-flatbread--mexican",
+    "title": "Crispy Naan Nachos",
+    "tags": [
+      "mexican",
+      "snack",
+      "easy",
+      "nachos",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-british-beef-roast--german",
+    "title": "Traditional German Beef Roast",
+    "tags": [
+      "german cuisine",
+      "beef roast",
+      "roast potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 90,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-russian-potato-crumble--vegan",
+    "title": "Russian Crumble Potato Cakes",
+    "tags": [
+      "vegan",
+      "potato",
+      "russian",
+      "crumble"
+    ],
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
