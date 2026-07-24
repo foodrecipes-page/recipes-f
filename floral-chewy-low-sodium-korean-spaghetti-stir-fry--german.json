@@ -1,0 +1,62 @@
+{
+  "slug": "floral-chewy-low-sodium-korean-spaghetti-stir-fry--german",
+  "title": "German Stir Fry",
+  "description": "A German-inspired stir fry made with a variety of ingredients and spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "1 cup",
+      "notes": "preferably German-made"
+    },
+    {
+      "name": "korean",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "sodium",
+      "amount": "1/4 teaspoon",
+      "notes": "salt substitute"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the German spaghetti and cook for 2-3 minutes, or until lightly browned.",
+    "Add the Korean chili flakes and cook for an additional 1-2 minutes, stirring constantly.",
+    "Add the remaining 1 tablespoon of vegetable oil and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the ingredients are well combined.",
+    "Season with salt substitute to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stir-fry",
+    "spaghetti",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-low-sodium-korean-spaghetti-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:50:42.838Z"
+}
