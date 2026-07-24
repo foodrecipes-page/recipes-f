@@ -1,0 +1,89 @@
+{
+  "slug": "fluffy-british-beef-roast--german",
+  "title": "Traditional German Beef Roast",
+  "description": "A classic German-inspired dish featuring a tender beef roast with a crispy, flavorful crust.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "1.5 kg",
+      "notes": "boneless, prime cut"
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "fluffy bread rolls, for serving"
+    },
+    {
+      "name": "british",
+      "amount": "1 cup",
+      "notes": "mushrooms, sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "roast potatoes",
+      "amount": "2-3",
+      "notes": "cut into wedges"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for basting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the beef roast with salt, pepper, and caraway seeds.",
+    "Heat butter in a large Dutch oven over medium-high heat. Sear the beef roast on all sides until browned, about 5 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and roast for 20 minutes.",
+    "Reduce oven temperature to 180°C (350°F) and continue roasting for an additional 40-50 minutes, or until the beef reaches your desired level of doneness.",
+    "While the roast is cooking, toss the sliced mushrooms with a bit of oil and season with salt and pepper. Sear in a skillet over medium-high heat until tender and golden brown.",
+    "About 20-30 minutes before the roast is done, add the roast potatoes to the oven and roast until crispy and golden brown.",
+    "Remove the beef roast from the oven and let it rest for 10-15 minutes before slicing.",
+    "Serve with the roasted potatoes, sautéed mushrooms, and fluffy bread rolls on the side.",
+    "Strain the beef broth and serve it on the side for added flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german cuisine",
+    "beef roast",
+    "roast potatoes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-british-beef-roast--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:39:29.334Z"
+}
