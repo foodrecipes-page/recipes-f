@@ -1,0 +1,70 @@
+{
+  "slug": "fluffy-nutty-british-sausages-bangers-and-mash",
+  "title": "Classic British Bangers and Mash",
+  "description": "A hearty and comforting dish featuring sausages, mashed potatoes, and a hint of nutty flavor.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fluffy sausages",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "nutty brown gravy mix",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fluffy mashed potatoes",
+      "amount": "2 large",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "milk",
+      "amount": "2 tablespoons",
+      "notes": "for mashed potatoes"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for mashed potatoes"
+    },
+    {
+      "name": "and",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of salted water.",
+    "Add the fluffy sausages and cook for 10 minutes, or until browned.",
+    "Meanwhile, boil the fluffy mashed potatoes in a separate pot until tender.",
+    "Drain the potatoes and mash with butter, milk, and a pinch of salt.",
+    "Serve the sausages with the mashed potatoes and a drizzle of nutty brown gravy.",
+    "Season with and to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bangers-and-mash",
+    "british-food",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-nutty-british-sausages-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:36:47.484Z"
+}
