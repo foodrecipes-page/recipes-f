@@ -1,0 +1,103 @@
+{
+  "slug": "fresh-fast-australian-macaroni-pasta--italian",
+  "title": "Classic Spaghetti Bolognese",
+  "description": "A traditional Italian dish made with ground beef, tomato sauce, and pasta. The rich flavors of this bolognese sauce are sure to satisfy any pasta lover.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "400g",
+      "notes": "preferably San Marzano"
+    },
+    {
+      "name": "red wine",
+      "amount": "120ml",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30g",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "20g",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the spaghetti in boiling, salted water until al dente.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion, minced garlic, chopped carrot, and chopped celery to the saucepan.",
+    "Cook, stirring occasionally, until the vegetables are softened and lightly browned.",
+    "Add the ground beef to the saucepan, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the canned crushed tomatoes, red wine (if using), and tomato paste (if using).",
+    "Stir to combine, then reduce heat to low and simmer for 20-30 minutes, stirring occasionally.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Serve the bolognese sauce over cooked spaghetti, topped with chopped fresh basil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "pasta",
+    "spaghetti",
+    "bolognese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 45,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fast-australian-macaroni-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:20:24.881Z"
+}
