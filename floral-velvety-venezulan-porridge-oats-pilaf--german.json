@@ -1,0 +1,76 @@
+{
+  "slug": "floral-velvety-venezulan-porridge-oats-pilaf--german",
+  "title": "Venezuelan Oat Pilaf with Floral Notes",
+  "description": "A German-inspired breakfast dish featuring a flavorful oat pilaf with hints of floral and Venezuelan flair. This hearty start to the day combines the comforting warmth of oats with the subtle sweetness of floral notes.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned or rolled"
+    },
+    {
+      "name": "porridge",
+      "amount": "2 cups",
+      "notes": "boiled water"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "milk or non-dairy alternative"
+    },
+    {
+      "name": "floral",
+      "amount": "1 teaspoon",
+      "notes": "dried flowers or edible flowers"
+    },
+    {
+      "name": "venezulan",
+      "amount": "1/4 teaspoon",
+      "notes": "cocoa powder or chocolate chips"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the porridge to a boil.",
+    "Reduce heat to low and add the oats, velvety, floral, Venezuelan, salt, and cinnamon. Stir well.",
+    "Simmer, covered, for 20-25 minutes or until the oats have absorbed most of the liquid and have a creamy consistency.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Optional: garnish with additional dried flowers or edible flowers for added flair."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "oatmeal",
+    "pilaf",
+    "floral",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-velvety-venezulan-porridge-oats-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:58:01.996Z"
+}
