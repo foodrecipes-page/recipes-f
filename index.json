@@ -6036,14 +6036,17 @@
   },
   {
     "slug": "flaky-american-citrus-wine-bruschetta",
-    "title": "Flaky American Citrus Wine Bruschetta",
+    "title": "Citrus Herb Bruschetta",
     "tags": [
-      "bruschetta",
-      "citrusy",
-      "keto-friendly"
+      "italian",
+      "appetizer",
+      "snack",
+      "herbs",
+      "citrus",
+      "bruschetta"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 20,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -23845,6 +23848,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 10,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-fast-australian-macaroni-pasta--italian",
+    "title": "Classic Spaghetti Bolognese",
+    "tags": [
+      "italian",
+      "beef",
+      "pasta",
+      "spaghetti",
+      "bolognese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "f"
   }
 ]
