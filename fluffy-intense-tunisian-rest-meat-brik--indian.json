@@ -1,0 +1,72 @@
+{
+  "slug": "fluffy-intense-tunisian-rest-meat-brik--indian",
+  "title": "Spiced Brik Patties",
+  "description": "A twist on traditional Indian street food, these spiced brik patties are a flavorful and crispy snack.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brik pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Meat",
+      "amount": "500g",
+      "notes": "ground lamb or beef work well"
+    },
+    {
+      "name": "Tunisian spices",
+      "amount": "2 tsp",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Fluffy onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Intense tomato",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Resting time",
+      "amount": "30 minutes",
+      "notes": "for the brik to rest before frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. In a large bowl, combine meat, Tunisian spices, fluffy onion, and intense tomato. Mix well.",
+    "3. Cut brik pastry into small squares and place a spoonful of the meat mixture in the center of each square.",
+    "4. Fold the pastry squares in half to form triangles and press the edges together to seal.",
+    "5. Fry the brik patties in batches until golden brown, about 3-4 minutes on each side.",
+    "6. Remove the patties from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the brik patties hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "street-food",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-intense-tunisian-rest-meat-brik--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:52:01.330Z"
+}
