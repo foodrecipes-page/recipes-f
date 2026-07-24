@@ -1,0 +1,82 @@
+{
+  "slug": "freshly-boiled-russian-date-pilaf",
+  "title": "Russian Beef and Rice Pilaf",
+  "description": "A hearty, comforting pilaf dish originating from Russia, made with tender beef and flavorful spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (pilaf-cut)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the skillet and set aside. Add the onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the thyme, salt, and pepper to the skillet and stir to combine.",
+    "Add the beef back into the skillet and stir to combine with the rice mixture.",
+    "Transfer the mixture to a medium saucepan and add 2 cups of boiling water.",
+    "Bring the water to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-boiled-russian-date-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:01:25.581Z"
+}
