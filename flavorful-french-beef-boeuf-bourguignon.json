@@ -1,0 +1,94 @@
+{
+  "slug": "flavorful-french-beef-boeuf-bourguignon",
+  "title": "Boeuf Bourguignon",
+  "description": "A classic French dish from the Burgundy region made with tender beef, mushrooms, and a rich broth.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Add onion, carrot, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the red wine to the pot and cook until the liquid is reduced by half, scraping the bottom of the pan to release the browned bits.",
+    "Add the beef broth, mushrooms, thyme, and browned beef back to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the boeuf bourguignon in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and stir in the flour to thicken the sauce.",
+    "Season the boeuf bourguignon with salt and pepper to taste.",
+    "Serve the boeuf bourguignon hot, garnished with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "boeuf-bourguignon",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-french-beef-boeuf-bourguignon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:56:30.570Z"
+}
