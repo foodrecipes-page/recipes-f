@@ -1,0 +1,75 @@
+{
+  "slug": "floral-fresh-filipino-persian-cucumber-pancit-canton--chinese",
+  "title": "Filipino-Style Stir-Fried Pancit with Cucumber",
+  "description": "A twist on the classic Chinese stir-fry, featuring Filipino-style noodles and fresh cucumber.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit",
+      "amount": "1 package"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Filipino-style sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1-2 minutes until fragrant.",
+    "Add the sliced cucumber and stir-fry for 2-3 minutes until it starts to soften.",
+    "Add the pancit noodles and stir-fry for 2-3 minutes until they're well coated with the sauce.",
+    "Add the Filipino-style sauce and stir-fry for another minute until the noodles are well coated.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "filipino",
+    "noodles",
+    "cucumber"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-fresh-filipino-persian-cucumber-pancit-canton--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:12:56.615Z"
+}
