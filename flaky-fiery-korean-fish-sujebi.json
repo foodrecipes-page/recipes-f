@@ -1,0 +1,79 @@
+{
+  "slug": "flaky-fiery-korean-fish-sujebi",
+  "title": "Fiery Korean-Style Fish Stew",
+  "description": "A spicy, comforting fish stew inspired by Korean flavors. This dish is perfect for a chilly evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky fish",
+      "amount": "2 pounds",
+      "notes": "such as tilapia or cod"
+    },
+    {
+      "name": "sujebi",
+      "amount": "2 cups",
+      "notes": "Korean-style hand-raised noodles"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or Korean chili paste (gochujang)"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fiery korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the flaky fish and cook for 2-3 minutes per side, until browned.",
+    "Add 4 cups of water, fish sauce, and soy sauce (if using). Bring to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes, or until the fish is cooked through.",
+    "Add the sujebi noodles and cook for an additional 2-3 minutes.",
+    "Stir in the fiery korean chili flakes and chopped green onions.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fiery-korean-fish-sujebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:56:34.286Z"
+}
