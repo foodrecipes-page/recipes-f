@@ -1,0 +1,85 @@
+{
+  "slug": "floral-juicy-french-pork-dumplings--italian",
+  "title": "Italian Pork Dumplings",
+  "description": "This Italian-inspired dish combines juicy pork dumplings with a floral twist. Perfect for a hearty dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the pork shoulder, flour, egg, Italian seasoning, parsley, and garlic. Mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Bring the mixture to room temperature.",
+    "Place a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center.",
+    "Fold the wrapper into a triangle and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the dumplings to the skillet, being careful not to overcrowd. Cook for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the dumplings to a baking sheet and bake for 15-20 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-juicy-french-pork-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:13:53.107Z"
+}
