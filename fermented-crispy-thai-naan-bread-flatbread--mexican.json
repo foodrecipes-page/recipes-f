@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-crispy-thai-naan-bread-flatbread--mexican",
+  "title": "Crispy Naan Nachos",
+  "description": "A twist on traditional nachos, using crispy naan bread and mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Naan Bread",
+      "amount": "1 package",
+      "notes": "6-8 pieces"
+    },
+    {
+      "name": "Fermented Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as queso fresco"
+    },
+    {
+      "name": "Thai Peanut Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1/2 cup",
+      "notes": "red or yellow"
+    },
+    {
+      "name": "Diced Jalapeños",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Arrange crispy naan bread pieces on a baking sheet.",
+    "3. Bake for 5-7 minutes, or until crispy and golden brown.",
+    "4. In a separate pan, heat thai peanut sauce over medium heat.",
+    "5. Add diced onions and cook until softened, about 3-4 minutes.",
+    "6. Add diced tomatoes and cook for an additional 2-3 minutes.",
+    "7. Remove naan bread from oven and top with cheese, sauce mixture, and diced jalapeños (if using).",
+    "8. Return to oven and bake for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "9. Remove from oven and top with chopped cilantro (if using).",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "easy",
+    "nachos",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crispy-thai-naan-bread-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:34:54.008Z"
+}
