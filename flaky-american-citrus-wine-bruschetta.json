@@ -1,0 +1,85 @@
+{
+  "slug": "flaky-american-citrus-wine-bruschetta",
+  "title": "Citrus Herb Bruschetta",
+  "description": "A simple and flavorful appetizer or side dish featuring toasted bread topped with a mixture of citrus zest, herbs, and wine-soaked tomatoes.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "American Bread",
+      "amount": "1 baguette",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "1/2 cup mixed citrus zest (orange, lemon, lime)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1/4 cup chopped fresh parsley and basil",
+      "notes": ""
+    },
+    {
+      "name": "Bruschetta",
+      "amount": "1 cup store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Wine",
+      "amount": "1/4 cup dry white wine",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the baguette into 1/2-inch thick rounds and toast until lightly browned.",
+    "In a small bowl, mix together the citrus zest, chopped herbs, and olive oil.",
+    "Brush the toasted bread with the citrus-herb mixture.",
+    "Top each bread round with a spoonful of bruschetta and drizzle with wine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "appetizer",
+    "snack",
+    "herbs",
+    "citrus",
+    "bruschetta"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "20g",
+    "fat": "4g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-american-citrus-wine-bruschetta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:21:36.661Z"
+}
