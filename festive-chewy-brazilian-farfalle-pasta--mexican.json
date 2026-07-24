@@ -1,0 +1,78 @@
+{
+  "slug": "festive-chewy-brazilian-farfalle-pasta--mexican",
+  "title": "Fiesta Farfalle",
+  "description": "A Mexican-inspired pasta dish with a festive twist. Chewy farfalle pasta is tossed with a tangy Brazilian-style sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz",
+      "notes": "Whole wheat or gluten-free option available"
+    },
+    {
+      "name": "Brazilian-style sauce",
+      "amount": "1 cup",
+      "notes": "See instructions for homemade sauce recipe"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional for garnish"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "For some heat"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking pasta"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook farfalle pasta according to package instructions until al dente.",
+    "While pasta cooks, heat olive oil in a large skillet over medium heat.",
+    "Add chopped red pepper flakes and cook for 1 minute.",
+    "Stir in Brazilian-style sauce and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer while pasta cooks.",
+    "Reserve 1 cup of pasta water and then drain farfalle.",
+    "Add cooked pasta to the skillet with the sauce and toss to combine.",
+    "If sauce is too thick, add some reserved pasta water.",
+    "Season with salt and lime juice to taste.",
+    "Garnish with chopped cilantro if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-chewy-brazilian-farfalle-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:27:33.579Z"
+}
