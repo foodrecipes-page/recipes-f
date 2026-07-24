@@ -2548,18 +2548,14 @@
   },
   {
     "slug": "fermented-gooey-german-tortillas-quesadilla",
-    "title": "Fermented Gooey German Tortillas Quesadilla",
+    "title": "German Quesadilla",
     "tags": [
-      "german-food",
-      "high-protein",
-      "indulgent",
-      "one-pan",
-      "tortilla-based",
-      "veggie-centric",
-      "weeknight"
+      "german",
+      "quesadilla",
+      "cheese"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 32,
+    "cuisine": "German",
+    "totalTimeMin": 22,
     "shard": "f"
   },
   {
@@ -23654,6 +23650,30 @@
     ],
     "cuisine": "Eastern European",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-ethiopian-fines-herbes-stew--french",
+    "title": "Fermented Mushroom Bourguignon",
+    "tags": [
+      "french",
+      "fermented",
+      "mushroom"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-buttery-uruguayan-one-pot-casserole--italian",
+    "title": "Uruguayan Italian Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
