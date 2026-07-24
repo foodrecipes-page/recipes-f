@@ -1,0 +1,74 @@
+{
+  "slug": "fragrant-dutch-oven-british-frankfurter-bangers-and-mash--indian",
+  "title": "Bangers and Mash with Indian Twist",
+  "description": "A classic British dish with an Indian twist, featuring flavorful sausage and creamy mash.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages (bangers)",
+      "amount": "500g",
+      "notes": "Use British-style bangers"
+    },
+    {
+      "name": "Mash potatoes",
+      "amount": "3 large",
+      "notes": "Use dutch oven to boil"
+    },
+    {
+      "name": "Fragrant spices",
+      "amount": "1 tsp",
+      "notes": "Use a mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "British and",
+      "amount": "1 onion",
+      "notes": "Chop the onion finely"
+    },
+    {
+      "name": "Frankfurter mustard",
+      "amount": "2 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "To give an Indian twist"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in the dutch oven until tender.",
+    "Chop the onion and sauté in a pan until softened.",
+    "Add the sausages to the pan and cook until browned.",
+    "Add the fragrant spices, frankfurter mustard, and garam masala to the pan.",
+    "Simmer the mixture for 5 minutes.",
+    "Mash the boiled potatoes with butter and milk.",
+    "Serve the sausages and sauce over the creamy mash.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "sausages",
+    "mash",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-dutch-oven-british-frankfurter-bangers-and-mash--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:23:25.248Z"
+}
