@@ -1,0 +1,58 @@
+{
+  "slug": "flaky-russian-potato-crumble--vegan",
+  "title": "Russian Crumble Potato Cakes",
+  "description": "A vegan twist on traditional potato pancakes, topped with a crunchy crumble.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet (gluten-free)",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "russian crumble",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and grate them.",
+    "Squeeze out excess moisture using a cheesecloth or a clean kitchen towel.",
+    "Mix the grated potatoes with chopped flaky pastry.",
+    "Divide the mixture into 8 equal portions.",
+    "Shape each portion into a round patty.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Cook the patties for 4-5 minutes on each side, until golden brown.",
+    "While the patties are cooking, mix the russian crumble with a little water to form a crumbly mixture.",
+    "Once the patties are cooked, place them on a baking sheet and top each patty with a spoonful of the russian crumble mixture.",
+    "Bake in a preheated oven at 375°F (190°C) for 10-12 minutes, until the crumble is golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "potato",
+    "russian",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-russian-potato-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:55:40.685Z"
+}
