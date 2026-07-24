@@ -1,0 +1,84 @@
+{
+  "slug": "fermented-vietnamese-beetroot-bun--german",
+  "title": "German Beetroot Sauerbraten",
+  "description": "A unique twist on the traditional German dish, featuring fermented flavors and beetroot. Serve with a side of braised red cabbage for a hearty meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bun",
+      "amount": "1",
+      "notes": "used for serving"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. Peel and chop the beetroot into 1-inch pieces.",
+    "3. In a large bowl, combine the beetroot, sauerkraut, caraway seeds, flour, sugar, vinegar, water, salt, and pepper. Mix well.",
+    "4. Transfer the mixture to a large Dutch oven or oven-safe pot.",
+    "5. Cover the pot and transfer it to the preheated oven.",
+    "6. Braise the mixture for 2 hours, or until the beetroot is tender.",
+    "7. Serve the sauerbraten hot, garnished with fresh parsley, with a side of braised red cabbage.",
+    "8. Slice the bun into slices and serve on the side.",
+    "9. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beetroot",
+    "sauerbraten"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-vietnamese-beetroot-bun--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:09:58.981Z"
+}
