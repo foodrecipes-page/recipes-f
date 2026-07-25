@@ -24116,5 +24116,33 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "fantastic-roasted-malaysian-chicken-satay--indian",
+    "title": "Chicken Satay with Indian Spices",
+    "tags": [
+      "chicken",
+      "indian",
+      "grilled",
+      "peanut-sauce"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-crispy-uruguayan-tuna-skewers--italian",
+    "title": "Uruguayan-Italian Grilled Tuna Skewers",
+    "tags": [
+      "grilled",
+      "skewers",
+      "tuna",
+      "italian",
+      "uruguayan",
+      "seafood"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "f"
   }
 ]
