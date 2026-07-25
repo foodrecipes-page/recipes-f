@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-comforting-norwegian-runner-beans-grill--chinese",
+  "title": "Norwegian Runner Bean Stir Fry",
+  "description": "A comforting and hearty Chinese-inspired stir fry featuring Norwegian runner beans, great for a quick and easy dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian runner beans",
+      "amount": "250g",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the ginger and garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the runner beans and stir-fry for 3-4 minutes, or until tender.",
+    "Add the soy sauce, chili flakes, salt, and black pepper, and stir-fry for another minute.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-comforting-norwegian-runner-beans-grill--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:54:14.168Z"
+}
