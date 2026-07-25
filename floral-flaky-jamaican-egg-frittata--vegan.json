@@ -1,0 +1,61 @@
+{
+  "slug": "floral-flaky-jamaican-egg-frittata--vegan",
+  "title": "Floral Jamaican Frittata",
+  "description": "A unique vegan frittata dish combining Jamaican flavors with floral notes, perfect for a dinner option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "floral",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup",
+      "notes": "gluten-free crackers, crushed"
+    },
+    {
+      "name": "egg",
+      "amount": null,
+      "notes": "replaced with tofu (12 oz)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the Jamaican seasoning and floral in a pan with a little water.",
+    "Add the crushed flaky and sauté for 2 minutes.",
+    "Add the crumbled tofu, and cook until it's lightly browned.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "jamaican",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-flaky-jamaican-egg-frittata--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:54:39.426Z"
+}
