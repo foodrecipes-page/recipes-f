@@ -18379,15 +18379,15 @@
   },
   {
     "slug": "freshly-fluffy-low-fat-freshly-fluffy-low-fat-hummus-salad",
-    "title": "Freshly Fluffy Low-Fat Freshly Fluffy Low-Fat Hummus Salad",
+    "title": "Low Fat Hummus Salad",
     "tags": [
-      "hummus",
-      "salad",
       "low-fat",
-      "vegan"
+      "healthy",
+      "veggie",
+      "salad"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "f"
   },
   {
@@ -24074,6 +24074,46 @@
       "vegetarian"
     ],
     "cuisine": "slovakian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-charred-peruvian-lamb-stew--japanese",
+    "title": "Japanese Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "japanese",
+      "peruvian",
+      "fiery"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 180,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-mexican-chicken-curry--german",
+    "title": "German Chicken Curry",
+    "tags": [
+      "german",
+      "chicken",
+      "curry",
+      "easy-to-make"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-flaky-carrot-stir-fry--german",
+    "title": "German Carrot Stir Fry",
+    "tags": [
+      "german",
+      "carrot",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "f"
   }
