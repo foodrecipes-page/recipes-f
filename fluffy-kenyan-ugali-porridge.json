@@ -1,0 +1,74 @@
+{
+  "slug": "fluffy-kenyan-ugali-porridge",
+  "title": "Kenyan-Style Fluffy Ugali Porridge",
+  "description": "A hearty and comforting Kenyan-inspired dish made with fluffy, kenyan, ugali, and porridge.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "porridge",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried ginger",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine fluffy, kenyan, and water.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add porridge and stir to combine.",
+    "Add coconut oil, salt, and dried ginger. Stir to combine.",
+    "Cook for an additional 5 minutes, or until the porridge has thickened.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with optional sugar to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "porridge",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-kenyan-ugali-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:02:19.398Z"
+}
