@@ -1,0 +1,70 @@
+{
+  "slug": "flaky-rich-saudia-yogurt-crumble--vegan",
+  "title": "Saudia Crumble Vegan Parfait",
+  "description": "A layered dessert featuring saudia, flaky crumble, and rich yogurt, all vegan-friendly.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saudia",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flaky Crumble",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rich Vegan Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chia Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together chia seeds and maple syrup. Let it sit for 5 minutes.",
+    "In a separate bowl, whisk together vanilla extract and coconut oil.",
+    "Layer saudia, crumble, and yogurt in a parfait dish.",
+    "Drizzle the chia seed mixture over the yogurt layer.",
+    "Drizzle the vanilla-coconut oil mixture over the top layer.",
+    "Refrigerate for at least 30 minutes before serving.",
+    "Serve chilled and enjoy!",
+    "Note: You can adjust the amount of chia seeds and maple syrup to your liking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "parfait"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-rich-saudia-yogurt-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:14:14.035Z"
+}
