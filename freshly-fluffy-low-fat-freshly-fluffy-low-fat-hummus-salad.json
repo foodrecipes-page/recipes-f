@@ -1,0 +1,71 @@
+{
+  "slug": "freshly-fluffy-low-fat-freshly-fluffy-low-fat-hummus-salad",
+  "title": "Low Fat Hummus Salad",
+  "description": "A refreshing and healthy salad made with low-fat hummus, perfect for a quick snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hummus",
+      "amount": "200g"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the salad, lettuce, tomatoes, and cucumber.",
+    "In a small bowl, mix together the hummus and a pinch of salt and pepper.",
+    "Pour the hummus mixture over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "healthy",
+    "veggie",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fluffy-low-fat-freshly-fluffy-low-fat-hummus-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:14:50.944Z"
+}
