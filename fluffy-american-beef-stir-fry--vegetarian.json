@@ -1,0 +1,83 @@
+{
+  "slug": "fluffy-american-beef-stir-fry--vegetarian",
+  "title": "Beef-Free Beef Stir Fry",
+  "description": "A vegetarian alternative to a classic beef stir fry. Using portobello mushrooms to mimic the texture of beef, this dish is quick and easy to make.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "2 cups",
+      "notes": "Stems removed and sliced"
+    },
+    {
+      "name": "Fluffy american cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "American vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the mushrooms and cook until browned, about 3-4 minutes.",
+    "Add the stir-fry sauce and soy sauce, and stir to combine.",
+    "Return the mushrooms to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Stir in the shredded cheese until melted and well combined.",
+    "Serve hot, garnished with green onions if desired.",
+    "Serve with additional stir-fry sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "mushroom",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-american-beef-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:59:36.113Z"
+}
