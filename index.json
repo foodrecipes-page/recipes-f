@@ -4235,16 +4235,16 @@
   },
   {
     "slug": "festive-citrusy-creamy-egg-crumble",
-    "title": "Festive Citrusy Creamy Egg Crumble",
+    "title": "Cranberry Crumble Muffins",
     "tags": [
-      "festive",
-      "citrusy",
-      "creamy",
-      "egg",
-      "peruvian"
+      "breakfast",
+      "muffins",
+      "cranberry",
+      "orange",
+      "crumble"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 2,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -11737,15 +11737,15 @@
   },
   {
     "slug": "floral-rigatoni-a-la-basilique",
-    "title": "Floral Rigatoni à la Basilique",
+    "title": "Basilique Rigatoni Bake",
     "tags": [
-      "rigatoni",
-      "basilique",
-      "toasted-almonds",
-      "floral-dish"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "bake"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -18534,16 +18534,13 @@
   },
   {
     "slug": "freshly-fried-ukrainian-pork-dumplings",
-    "title": "Freshly Fried Ukrainian Pork Dumplings",
+    "title": "Traditional Ukrainian Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "fried-food",
-      "gherkin-relish",
-      "homemade",
-      "pork-dishes",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "pork",
+      "dumplings"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "ukrainian",
     "totalTimeMin": 35,
     "shard": "f"
   },
@@ -24027,6 +24024,33 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-roasted-korean-beef-skewers--thai",
+    "title": "Spicy Thai Beef Skewers",
+    "tags": [
+      "thaifood",
+      "spicy",
+      "grilled",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crispy-ethiopian-spinach-dabo--vegan",
+    "title": "Ethiopian Spinach Stew (Misir Wot)",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "spinach",
+      "stew",
+      "lunch"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "f"
   }
 ]
