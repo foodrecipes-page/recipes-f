@@ -1,0 +1,81 @@
+{
+  "slug": "fragrant-fried-thai-chicken-noodles--vegetarian",
+  "title": "Thai Vegetable Stir Fry",
+  "description": "A flavorful and quick Thai-inspired stir fry made with a variety of vegetables, served with fragrant fried noodles. Perfect for a vegetarian meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fragrant Fried Noodles",
+      "amount": "8 oz",
+      "notes": "Thick, chewy noodles"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "Trimmed"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the curry paste and stir-fry for 1-2 minutes.",
+    "Add the sliced onion and bell peppers and stir-fry for 2-3 minutes.",
+    "Add the mushrooms, snow peas, and cooked noodles, and stir-fry for 2-3 minutes.",
+    "Season with soy sauce (if using) and serve hot.",
+    "Serve with additional soy sauce and lime wedges (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-fried-thai-chicken-noodles--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:36:34.887Z"
+}
