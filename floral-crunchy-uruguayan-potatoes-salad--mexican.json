@@ -1,0 +1,87 @@
+{
+  "slug": "floral-crunchy-uruguayan-potatoes-salad--mexican",
+  "title": "Mexican Potato Salad",
+  "description": "A twist on traditional potato salad, this Mexican version adds a crunchy touch with fresh floral garnish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan potatoes",
+      "amount": "3",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "crunchy salad",
+      "amount": "1 cup",
+      "notes": "mixed greens with a hint of crunch"
+    },
+    {
+      "name": "floral garnish",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs such as cilantro, scallions, or chives"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss diced potatoes with a pinch of salt and pepper. Spread on a baking sheet.",
+    "Bake potatoes for 15-20 minutes or until tender.",
+    "In a large bowl, combine baked potatoes, mixed greens, and a squeeze of lime juice.",
+    "In a small bowl, whisk together olive oil, garlic powder (if using), salt, and black pepper.",
+    "Pour dressing over potato mixture and toss to combine.",
+    "Garnish with chopped fresh herbs and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "potatoes",
+    "salad",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crunchy-uruguayan-potatoes-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:32:06.660Z"
+}
