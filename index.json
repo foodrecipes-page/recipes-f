@@ -23925,5 +23925,45 @@
     "cuisine": null,
     "totalTimeMin": 15,
     "shard": "f"
+  },
+  {
+    "slug": "fantastic-fresh-irish-pinto-bean-stew--chinese",
+    "title": "Irish Bean Stew in a Chinese Twist",
+    "tags": [
+      "chinese",
+      "irish",
+      "bean",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-light-filipino-dish-spring-rolls--keto",
+    "title": "Filipino Keto Spring Rolls",
+    "tags": [
+      "keto",
+      "filipino",
+      "spring-rolls",
+      "fermented"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 32,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-fried-thai-chicken-noodles--vegetarian",
+    "title": "Thai Vegetable Stir Fry",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "stir-fry",
+      "noodles"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "f"
   }
 ]
