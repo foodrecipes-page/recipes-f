@@ -19090,14 +19090,14 @@
   },
   {
     "slug": "fried-greek-fish-stir-fry",
-    "title": "Fried Greek Fish Stir-Fry",
+    "title": "Greek-Style Pan-Seared Fish",
     "tags": [
-      "fried-greek-fish-stir-fry",
-      "date-night-dinner",
-      "pescatarian-friendly"
+      "greek",
+      "fish",
+      "fry"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 28,
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -24155,6 +24155,33 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-feta-greek-cheese-tiropita--german",
+    "title": "German Tiropita Fritters",
+    "tags": [
+      "german",
+      "snack",
+      "appetizer",
+      "fritters",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-roasted-canadian-egg-white-roast--japanese",
+    "title": "Japanese-Style Roasted Canadian Salmon",
+    "tags": [
+      "japanese",
+      "salmon",
+      "rice",
+      "egg"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
