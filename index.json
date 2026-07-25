@@ -24210,5 +24210,56 @@
     "cuisine": "Tunisian",
     "totalTimeMin": 170,
     "shard": "f"
+  },
+  {
+    "slug": "fluffy-intense-tunisian-rest-meat-brik--italian",
+    "title": "Tunisian Italian Brik",
+    "tags": [
+      "italian",
+      "tunisian",
+      "meat",
+      "pastry",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-tender-portuguese-peas-dumplings--japanese",
+    "title": "Japanese-Style Dumpling Soup",
+    "tags": [
+      "soup",
+      "dinner",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-chewy-venezuelan-chicken-bowl--vegetarian",
+    "title": "Vegetarian Venezuelan Bowl",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "south-american"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-fudgy-norwegian-potato-gratin--french",
+    "title": "French Potato Gratin",
+    "tags": [
+      "french",
+      "potato",
+      "gratin",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 70,
+    "shard": "f"
   }
 ]
