@@ -9564,17 +9564,15 @@
   },
   {
     "slug": "flavorful-roasted-turkish-prawns-revani",
-    "title": "Flavorful Roasted Turkish Prawns Revani",
+    "title": "Turkish Revani with Prawn Skewers",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "pescatarian-friendly",
-      "seafood",
-      "special-occasion",
-      "turkish-cuisine"
+      "turkish",
+      "revani",
+      "prawns",
+      "skewers"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 43,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -24051,6 +24049,32 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-norwegian-salmon-skillet--italian",
+    "title": "Pan-Seared Italian Salmon",
+    "tags": [
+      "italian",
+      "salmon",
+      "pan-seared",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 13,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-snappy-slovakian-corn-roast--vegetarian",
+    "title": "Vegetarian Slovakian Corn Fritters",
+    "tags": [
+      "slovakian",
+      "corn",
+      "fritters",
+      "vegetarian"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
