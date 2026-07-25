@@ -1,0 +1,79 @@
+{
+  "slug": "freshly-fried-ukrainian-pork-dumplings",
+  "title": "Traditional Ukrainian Pork Dumplings",
+  "description": "A hearty and comforting dish from Ukraine, featuring tender pork dumplings served with a side of fried onions and fresh dill.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": "80% lean, 20% fat"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For dumpling wrappers"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For dumpling wrappers"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, salt, and black pepper in a large mixing bowl.",
+    "Add 1 egg to the pork mixture and mix until just combined.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle.",
+    "Dampen the edges of the dough with water and fold the dough over the filling to form a half-moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Fry the dumplings until golden brown on both sides, about 3-4 minutes per side.",
+    "Serve the dumplings hot with a side of fried onions and fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 32,
+    "carbs": 26,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-ukrainian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:39:22.855Z"
+}
