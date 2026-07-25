@@ -1,0 +1,82 @@
+{
+  "slug": "fermented-snappy-slovakian-corn-roast--vegetarian",
+  "title": "Vegetarian Slovakian Corn Fritters",
+  "description": "A delicious vegetarian twist on traditional Slovakian corn fritters, using fermented and snappy elements.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fermented cabbage",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Snappy carrots",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Roast garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the corn, fermented cabbage, snappy carrots, roast garlic, flour, egg, Slovakian paprika, and salt.",
+    "Mix well to combine.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "Fry until golden brown, about 3-4 minutes.",
+    "Drain on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "corn",
+    "fritters",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-snappy-slovakian-corn-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:01:17.926Z"
+}
