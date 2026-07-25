@@ -24183,5 +24183,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "fatty-indian-chicken-tikka-masala--german",
+    "title": "Chicken Tikka Masala German Style",
+    "tags": [
+      "german",
+      "chicken",
+      "tikkamasala",
+      "sausage",
+      "creamy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-spicy-tunisian-lamb-tagine--gluten-free",
+    "title": "Tunisian Lamb Tagine",
+    "tags": [
+      "tunisian",
+      "lamb",
+      "tagine",
+      "gluten-free"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 170,
+    "shard": "f"
   }
 ]
