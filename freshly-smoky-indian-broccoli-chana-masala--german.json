@@ -1,0 +1,94 @@
+{
+  "slug": "freshly-smoky-indian-broccoli-chana-masala--german",
+  "title": "Smoky Chana Masala German Stew",
+  "description": "A hearty, smoky stew inspired by Indian flavors, adapted to traditional German cuisine. Freshly ground spices add a depth of flavor.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "chana (canned chickpeas)",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "masala",
+      "amount": "2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "beer",
+      "amount": "1/2 cup",
+      "notes": "dark German lager"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add caraway seeds and cook for 1 minute.",
+    "Add tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add beer, potatoes, broccoli, chana, masala, and smoked paprika (if using).",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "indian",
+    "stew",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-smoky-indian-broccoli-chana-masala--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:16:35.982Z"
+}
