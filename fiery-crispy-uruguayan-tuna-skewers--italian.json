@@ -1,0 +1,80 @@
+{
+  "slug": "fiery-crispy-uruguayan-tuna-skewers--italian",
+  "title": "Uruguayan-Italian Grilled Tuna Skewers",
+  "description": "A fusion dish that brings the flavors of Italy and Uruguay together with the freshness of the sea. These skewers are perfect for a summer evening.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crispy parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "fiery red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread tuna steaks onto skewers, leaving a small space between each piece.",
+    "Brush both sides of the tuna with olive oil and season with salt and pepper.",
+    "Grill the tuna for 2-3 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer the tuna to a plate and brush with lemon juice and garlic.",
+    "Sprinkle uruguayan chimichurri over the top of the tuna.",
+    "Garnish with crispy parsley and a sprinkle of fiery red pepper flakes, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "tuna",
+    "italian",
+    "uruguayan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-crispy-uruguayan-tuna-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:03:42.890Z"
+}
