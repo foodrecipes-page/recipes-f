@@ -1,0 +1,71 @@
+{
+  "slug": "flaky-fudgy-norwegian-potato-gratin--french",
+  "title": "French Potato Gratin",
+  "description": "A classic French dish made with thinly sliced potatoes, cream, and cheese. Perfect for a comforting side dish or main course.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/2 cup",
+      "notes": "grated cheese"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/4 cup",
+      "notes": "butter"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/2 cup",
+      "notes": "pastry dough"
+    },
+    {
+      "name": "fudgy",
+      "amount": "1/4 cup",
+      "notes": "brown sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13 inch baking dish.",
+    "Arrange a layer of potatoes in the dish.",
+    "Sprinkle with norwegian cheese and a pinch of salt.",
+    "Repeat the layers two more times, ending with cheese on top.",
+    "Roll out flaky pastry dough and place over the potatoes.",
+    "Cut a few slits in the top to allow steam to escape.",
+    "Bake for 45-50 minutes, or until the pastry is golden brown.",
+    "Sprinkle fudgy brown sugar over the top and return to oven for an additional 5-10 minutes.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "potato",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fudgy-norwegian-potato-gratin--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:48:07.032Z"
+}
