@@ -1,0 +1,84 @@
+{
+  "slug": "fantastic-roasted-malaysian-chicken-satay--indian",
+  "title": "Chicken Satay with Indian Spices",
+  "description": "A twist on the classic Southeast Asian dish, with the bold flavors of India. Grilled chicken skewers served with a side of spicy peanut sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack\" | \"appetizer",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "malaysian peanut sauce",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "100g"
+    },
+    {
+      "name": "fantastic curry powder",
+      "amount": "20g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together curry powder, garam masala, salt, and 1 tablespoon vegetable oil.",
+    "Add the chicken to the marinade and mix until coated. Cover and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Thread the marinated chicken onto skewers.",
+    "Grill the chicken for 8-10 minutes, or until cooked through.",
+    "Meanwhile, heat the peanut sauce in a small saucepan over low heat.",
+    "Serve the grilled chicken with a side of peanut sauce and garnish with roasted peanuts.",
+    "To make the peanut sauce, combine roasted peanuts, peanut sauce, and 2 tablespoons water in a blender or food processor.",
+    "Blend until smooth, then season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-roasted-malaysian-chicken-satay--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:52:26.125Z"
+}
