@@ -1,0 +1,68 @@
+{
+  "slug": "flaky-norwegian-salmon-skillet--italian",
+  "title": "Pan-Seared Italian Salmon",
+  "description": "A simple yet flavorful Italian-inspired dish featuring pan-seared salmon, perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "1",
+      "notes": "Fresh salmon fillet, about 6 oz"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "to taste",
+      "notes": "Use a light hand when seasoning"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Choose a high-quality oil for the best flavor"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Serve alongside the salmon for a burst of citrus"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season the salmon fillet with flaky sea salt and black pepper.",
+    "Add the olive oil to the preheated skillet and swirl to coat the bottom.",
+    "Sear the salmon fillet for 3-4 minutes on the first side, or until it develops a golden-brown crust.",
+    "Flip the salmon over and cook for an additional 3-4 minutes, or until it reaches an internal temperature of 145°F.",
+    "Remove the salmon from the skillet and serve immediately with a squeeze of lemon juice.",
+    "Serve with your choice of sides, such as roasted vegetables or a simple green salad.",
+    "Garnish with additional lemon wedges, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "salmon",
+    "pan-seared",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-norwegian-salmon-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:43:08.604Z"
+}
