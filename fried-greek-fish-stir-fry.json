@@ -1,0 +1,76 @@
+{
+  "slug": "fried-greek-fish-stir-fry",
+  "title": "Greek-Style Pan-Seared Fish",
+  "description": "A simple and flavorful Greek-inspired dish featuring pan-seared fish. Serve with a squeeze of lemon and a side of your favorite vegetables.",
+  "cuisine": "Greek",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (4-6)",
+      "amount": "4-6 fillets",
+      "notes": "Choose a firm white fish such as halibut or cod."
+    },
+    {
+      "name": "Greek Seasoning",
+      "amount": "1 tsp",
+      "notes": "A mix of oregano, thyme, and rosemary."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed or bottled."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin for best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Season the fish fillets with salt, pepper, and Greek seasoning.",
+    "Add the garlic to the skillet and sauté for 1 minute.",
+    "Add the fish fillets to the skillet and sear for 3-4 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake at 400°F (200°C) for 8-10 minutes or until cooked through.",
+    "Remove the skillet from the oven and squeeze lemon juice over the top of the fish.",
+    "Serve the fish hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "fish",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-greek-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:37:08.282Z"
+}
