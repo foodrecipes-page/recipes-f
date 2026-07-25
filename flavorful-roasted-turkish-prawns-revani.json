@@ -1,0 +1,73 @@
+{
+  "slug": "flavorful-roasted-turkish-prawns-revani",
+  "title": "Turkish Revani with Prawn Skewers",
+  "description": "A unique fusion of Turkish flavors with the sweetness of revani and the succulence of prawns. Perfect for a summer evening or a special occasion.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Revani",
+      "amount": "1",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "Flavorful Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the prawns onto skewers, leaving a little space between each prawn.",
+    "Brush the prawns with olive oil and season with salt and black pepper.",
+    "Grill the prawns for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Meanwhile, cut the revani into small squares.",
+    "Once the prawns are cooked, serve them on top of the revani squares.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "revani",
+    "prawns",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-roasted-turkish-prawns-revani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:52:57.513Z"
+}
