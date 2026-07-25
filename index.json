@@ -13588,13 +13588,12 @@
   },
   {
     "slug": "fluffy-kenyan-ugali-porridge",
-    "title": "Fluffy Kenyan Ugali Porridge",
+    "title": "Kenyan-Style Fluffy Ugali Porridge",
     "tags": [
-      "breakfast-ideas",
-      "comfort-food",
-      "kenyan-cuisine",
-      "low-fat-recipes",
-      "pressure-cooker-recipes"
+      "breakfast",
+      "kenyan",
+      "porridge",
+      "fluffy"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 25,
@@ -17314,14 +17313,14 @@
   },
   {
     "slug": "fresh-fried-spanish-yautia-bisque",
-    "title": "Fresh Fried Spanish Yautia Bisque",
+    "title": "Pan-Fried Yautia with Spanish Salsa",
     "tags": [
-      "low-calorie",
-      "one-pan",
+      "yautia",
       "spanish",
-      "weeknight"
+      "vegetarian",
+      "dinner"
     ],
-    "cuisine": "spanish",
+    "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "f"
   },
@@ -24260,6 +24259,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 70,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-smoky-indian-broccoli-chana-masala--german",
+    "title": "Smoky Chana Masala German Stew",
+    "tags": [
+      "german",
+      "indian",
+      "stew",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crispy-algerian-ham-tagine--mexican",
+    "title": "Ham and Algerian Tagine Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "algerian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
