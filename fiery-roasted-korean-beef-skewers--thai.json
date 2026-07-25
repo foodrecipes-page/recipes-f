@@ -1,0 +1,90 @@
+{
+  "slug": "fiery-roasted-korean-beef-skewers--thai",
+  "title": "Spicy Thai Beef Skewers",
+  "description": "A flavorful and spicy Thai-inspired dish made with beef, served as a snack or appetizer.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fiery sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together korean chili flakes, roasted garlic, fish sauce, brown sugar, lime juice, olive oil, salt, and black pepper.",
+    "Add the sliced beef to the marinade and mix well to coat.",
+    "Thread the marinated beef onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush with fiery sauce during the last 2 minutes of grilling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "spicy",
+    "grilled",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-roasted-korean-beef-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:07:31.258Z"
+}
