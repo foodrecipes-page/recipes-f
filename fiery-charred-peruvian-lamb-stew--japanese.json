@@ -1,0 +1,102 @@
+{
+  "slug": "fiery-charred-peruvian-lamb-stew--japanese",
+  "title": "Japanese Lamb Stew",
+  "description": "A hearty and flavorful Japanese-inspired lamb stew with a Peruvian twist. The charred and smoky flavors of the lamb pair perfectly with a hint of fiery spice.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "charred peruvian chili peppers",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "fiery miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches, about 2-3 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened.",
+    "Add the chili peppers and cook for 1-2 minutes.",
+    "Add the miso paste, soy sauce, sake, and sugar. Stir to combine.",
+    "Return the lamb to the pot and add the carrots and potatoes.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2-1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions and sliced chili peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "japanese",
+    "peruvian",
+    "fiery"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-charred-peruvian-lamb-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:34:27.613Z"
+}
