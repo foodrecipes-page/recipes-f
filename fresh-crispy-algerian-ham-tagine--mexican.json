@@ -1,0 +1,82 @@
+{
+  "slug": "fresh-crispy-algerian-ham-tagine--mexican",
+  "title": "Ham and Algerian Tagine Tacos",
+  "description": "A twist on traditional tacos, this dish combines the flavors of Mexico and Algeria with the savory taste of ham.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian Tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Crispy Ham",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mexican Crema",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Add diced green chilies and cook for 2 minutes.",
+    "Add diced ham and cook until heated through.",
+    "Stir in Algerian Tagine spice blend and cook for 1 minute.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning ham mixture onto tortillas and topping with chopped cilantro, a dollop of Mexican crema, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-algerian-ham-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:54:01.393Z"
+}
