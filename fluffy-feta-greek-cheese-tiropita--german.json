@@ -1,0 +1,81 @@
+{
+  "slug": "fluffy-feta-greek-cheese-tiropita--german",
+  "title": "German Tiropita Fritters",
+  "description": "Crispy tiropita fritters filled with a creamy greek cheese mixture, perfect for a snack or appetizer.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fluffy greek cheese",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "tiropita crust",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "for frying",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 180°C.",
+    "Crumble tiropita crust into small pieces.",
+    "In a bowl, mix together fluffy greek cheese, feta cheese, eggs, flour, salt, and pepper.",
+    "Add crumbled tiropita crust to the bowl and mix well.",
+    "Using a spoon, drop small amounts of the cheese mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "snack",
+    "appetizer",
+    "fritters",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-feta-greek-cheese-tiropita--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:30:27.761Z"
+}
