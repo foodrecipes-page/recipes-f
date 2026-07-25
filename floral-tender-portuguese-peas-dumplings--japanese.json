@@ -1,0 +1,64 @@
+{
+  "slug": "floral-tender-portuguese-peas-dumplings--japanese",
+  "title": "Japanese-Style Dumpling Soup",
+  "description": "A comforting and flavorful soup made with Japanese-style dumplings, tender vegetables, and a hint of floral notes.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tender dumplings",
+      "amount": "1 package (20 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Floral broth",
+      "amount": "4 cups",
+      "notes": "Make sure to use a high-quality store-bought or homemade broth."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the floral broth to a boil in a large pot.",
+    "Reduce heat to medium-low and add the sesame oil and soy sauce.",
+    "Add the Portuguese peas to the pot and cook for 3-4 minutes.",
+    "Add the dumplings to the pot and cook for 5-7 minutes, or until the dumplings are cooked through.",
+    "Serve the soup hot, garnished with additional sesame oil and soy sauce if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-tender-portuguese-peas-dumplings--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:23:06.067Z"
+}
