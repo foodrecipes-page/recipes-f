@@ -23901,5 +23901,29 @@
     "cuisine": "British",
     "totalTimeMin": 50,
     "shard": "f"
+  },
+  {
+    "slug": "floral-flaky-jamaican-egg-frittata--vegan",
+    "title": "Floral Jamaican Frittata",
+    "tags": [
+      "vegan",
+      "jamaican",
+      "frittata"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-rich-saudia-yogurt-crumble--vegan",
+    "title": "Saudia Crumble Vegan Parfait",
+    "tags": [
+      "vegan",
+      "dessert",
+      "parfait"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "f"
   }
 ]
