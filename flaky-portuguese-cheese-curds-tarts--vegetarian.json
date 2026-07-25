@@ -1,0 +1,72 @@
+{
+  "slug": "flaky-portuguese-cheese-curds-tarts--vegetarian",
+  "title": "Portuguese Cheese Tarts",
+  "description": "A classic Portuguese dessert with a crispy flaky crust and a creamy cheese filling.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "Portuguese Cheese Curds",
+      "amount": "1 cup",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place the dough circles into a muffin tin, pressing them into the corners.",
+    "In a bowl, mix together the cheese curds, granulated sugar, beaten egg, vanilla extract, and salt.",
+    "Spoon the cheese mixture into the dough-lined muffin tin.",
+    "Bake the tarts for 20-25 minutes, or until the crust is golden brown and the filling is set.",
+    "Allow the tarts to cool in the pan for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "cheese",
+    "tarts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-portuguese-cheese-curds-tarts--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:04:35.786Z"
+}
