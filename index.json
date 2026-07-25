@@ -23978,5 +23978,30 @@
     "cuisine": "thai",
     "totalTimeMin": 31,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-citrusy-argentinian-chicken-empanadas--vegetarian",
+    "title": "Empanada de Queso y Verduras",
+    "tags": [
+      "argentinian",
+      "vegetarian",
+      "snack",
+      "empanada"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-comforting-norwegian-runner-beans-grill--chinese",
+    "title": "Norwegian Runner Bean Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "f"
   }
 ]
