@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-roasted-canadian-egg-white-roast--japanese",
+  "title": "Japanese-Style Roasted Canadian Salmon",
+  "description": "A simple yet flavorful dish featuring roasted Canadian salmon, served with a fluffy side of egg and rice.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillet",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Fluffy Japanese rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Roasted soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "White sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Roast garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Place the salmon on a baking sheet lined with parchment paper.",
+    "Drizzle the roasted soy sauce over the salmon.",
+    "Sprinkle the white sesame seeds over the salmon.",
+    "Roast in the preheated oven for 12-15 minutes or until cooked through.",
+    "Cook the fluffy Japanese rice according to package instructions.",
+    "Fry the egg in a pan until the whites are set and the yolks are cooked to desired doneness.",
+    "Mince the roast garlic and sprinkle over the egg.",
+    "Serve the roasted salmon with a side of fluffy Japanese rice and the fried egg."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salmon",
+    "rice",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-roasted-canadian-egg-white-roast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:37:16.182Z"
+}
