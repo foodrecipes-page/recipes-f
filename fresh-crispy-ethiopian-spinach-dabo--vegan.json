@@ -1,0 +1,94 @@
+{
+  "slug": "fresh-crispy-ethiopian-spinach-dabo--vegan",
+  "title": "Ethiopian Spinach Stew (Misir Wot)",
+  "description": "A spicy and flavorful Ethiopian spinach stew made with fresh spinach, crispy onions, and dabo. This vegan dish is a great source of protein and nutrients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh spinach",
+      "amount": "1 bunch",
+      "notes": "stems removed"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dabo",
+      "amount": "2 cups",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "1-2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add garlic, ginger, and chili peppers and sauté for 2-3 minutes.",
+    "Add dabo and cook for 5 minutes, or until it starts to soften.",
+    "Add spinach and cook until wilted.",
+    "Add tomato paste and Ethiopian spice blend. Stir to combine.",
+    "Season with salt to taste.",
+    "Simmer the stew for 10-15 minutes, stirring occasionally.",
+    "Serve hot, garnished with crispy onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "spinach",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-ethiopian-spinach-dabo--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:45:11.224Z"
+}
