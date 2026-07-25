@@ -1,0 +1,74 @@
+{
+  "slug": "freshly-spherified-slovakian-amazake-dumplings",
+  "title": "Slovakian Amazake Dumplings",
+  "description": "A traditional Slovakian dish with a twist, featuring amazake-infused dumplings, served in a flavorful broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian dumpling mix",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Amazake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine vegetable broth, onion, caraway seeds, and salt.",
+    "2. Bring to a boil, then reduce heat to a simmer.",
+    "3. In a separate bowl, mix together Slovakian dumpling mix and amazake.",
+    "4. Add the dumpling mixture to the simmering broth, and cook for 10-12 minutes.",
+    "5. Stir in sour cream, and adjust seasoning with salt and pepper to taste.",
+    "6. Serve hot, garnished with chopped parsley and additional amazake if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "amazake",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-spherified-slovakian-amazake-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:38:11.658Z"
+}
