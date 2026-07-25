@@ -1,0 +1,78 @@
+{
+  "slug": "fluffy-intense-tunisian-rest-meat-brik--italian",
+  "title": "Tunisian Italian Brik",
+  "description": "A fusion of Italian flavors with a Tunisian twist, featuring crispy brik pastry filled with savory meat and spices.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "brik pastry",
+      "amount": "1 package (8-10 sheets)"
+    },
+    {
+      "name": "ground meat",
+      "amount": "1 pound",
+      "notes": "beef or a combination of beef and pork"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tunisian spices",
+      "amount": "1 tablespoon",
+      "notes": "a blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "fluffy feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "rest of the time",
+      "amount": "0 (just kidding!)",
+      "notes": "just kidding, it's rest time"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thaw brik pastry according to package instructions.",
+    "In a large skillet, cook ground meat over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in tunisian spices and cook for 1-2 minutes.",
+    "Season the meat mixture with salt and pepper to taste.",
+    "Transfer the meat mixture to a bowl and stir in crumbled feta cheese.",
+    "Cut brik pastry sheets into squares and place a tablespoon of the meat mixture in the center of each square.",
+    "Fold the pastry squares into triangles and press the edges together to seal.",
+    "Brush the tops of the brik with a little bit of olive oil and bake for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tunisian",
+    "meat",
+    "pastry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-intense-tunisian-rest-meat-brik--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:01:34.363Z"
+}
