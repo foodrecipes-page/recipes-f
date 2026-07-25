@@ -1,0 +1,67 @@
+{
+  "slug": "fresh-flaky-carrot-stir-fry--german",
+  "title": "German Carrot Stir Fry",
+  "description": "A simple and flavorful German-inspired carrot stir fry made with fresh ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped parsley and stir for 1 minute.",
+    "Add the sliced carrots and stir-fry for 3-4 minutes, or until they start to tenderize.",
+    "Sprinkle the flaky sea salt and black pepper over the carrots and stir-fry for an additional 2-3 minutes.",
+    "Continue to stir-fry the carrots until they are tender and slightly caramelized.",
+    "Remove the skillet from the heat and serve the German carrot stir fry hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "carrot",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-flaky-carrot-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:13:15.311Z"
+}
