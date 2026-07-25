@@ -1,0 +1,85 @@
+{
+  "slug": "floral-chewy-venezuelan-chicken-bowl--vegetarian",
+  "title": "Vegetarian Venezuelan Bowl",
+  "description": "A flavorful and nutritious bowl dish inspired by Venezuelan cuisine, made with roasted vegetables and topped with a crunchy salad.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": "Note: Despite the name, this recipe is vegetarian, so we're using plant-based alternatives."
+    },
+    {
+      "name": "floral",
+      "amount": "1 cup",
+      "notes": "Fresh flowers like violas or pansies add a delicate touch to this dish."
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "You'll need a single large bowl to serve this dish."
+    },
+    {
+      "name": "veggies",
+      "amount": "1 cup",
+      "notes": "Chop your favorite vegetables, such as bell peppers, carrots, and zucchini."
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "Cook quinoa according to package instructions."
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a light, neutral oil for roasting the vegetables."
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add a pinch of cumin for a hint of Venezuelan flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Season the vegetables with salt to bring out their natural flavors."
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Add a pinch of black pepper for extra depth."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the chopped vegetables with avocado oil, cumin, salt, and pepper. Spread them out on a baking sheet and roast for 20 minutes.",
+    "While the vegetables are roasting, cook the quinoa according to package instructions.",
+    "In a large bowl, combine the cooked quinoa, roasted vegetables, and chopped flowers.",
+    "Top the bowl with your favorite salad ingredients, such as diced tomatoes, shredded lettuce, and crumbled vegan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-chewy-venezuelan-chicken-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:39:57.635Z"
+}
