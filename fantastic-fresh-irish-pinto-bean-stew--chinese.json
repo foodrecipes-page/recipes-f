@@ -1,0 +1,89 @@
+{
+  "slug": "fantastic-fresh-irish-pinto-bean-stew--chinese",
+  "title": "Irish Bean Stew in a Chinese Twist",
+  "description": "A hearty fusion of Irish and Chinese flavors, this stew combines tender beans with the warmth of Chinese spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto bean",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "irish stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add sliced ginger and cook until fragrant, about 1 minute.",
+    "Add minced garlic and cook for another minute.",
+    "Add pinto bean, Irish stew, soy sauce, hoisin sauce, and sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until heated through.",
+    "Stir in chopped green onions.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "irish",
+    "bean",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fantastic-fresh-irish-pinto-bean-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:52:38.920Z"
+}
