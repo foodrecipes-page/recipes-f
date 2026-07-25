@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-citrusy-argentinian-chicken-empanadas--vegetarian",
+  "title": "Empanada de Queso y Verduras",
+  "description": "A vegetarian twist on traditional Argentinian empanadas, filled with a mix of cheeses and sautéed vegetables.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Citrusy Caper Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough, about 4 inches in diameter.",
+    "Mix together the mozzarella and parmesan cheese.",
+    "Sauté the onion and bell pepper in a pan until softened.",
+    "Add the sautéed vegetables to the cheese mixture and stir to combine.",
+    "Place a tablespoon of the cheese mixture onto one half of each dough circle.",
+    "Brush the edges with water and fold the dough in half to form a half-moon shape.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Brush the tops with the citrusy caper sauce (if using).",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "snack",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-citrusy-argentinian-chicken-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:49:04.363Z"
+}
