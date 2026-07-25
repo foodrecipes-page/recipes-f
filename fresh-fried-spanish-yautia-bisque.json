@@ -1,0 +1,96 @@
+{
+  "slug": "fresh-fried-spanish-yautia-bisque",
+  "title": "Pan-Fried Yautia with Spanish Salsa",
+  "description": "A delicious and flavorful dish that combines the goodness of yautia with the savory taste of Spanish cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the yautia into 1-inch pieces.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped yautia and cook until golden brown, about 5-6 minutes.",
+    "Add the tomato sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "For the Spanish salsa, combine the diced onion, diced tomato, and diced red pepper in a bowl.",
+    "Stir in the chopped fresh cilantro and season with salt and black pepper to taste.",
+    "Serve the salsa alongside the pan-fried yautia."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "yautia",
+    "spanish",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fried-spanish-yautia-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:35:27.436Z"
+}
