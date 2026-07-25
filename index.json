@@ -24003,5 +24003,30 @@
     "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "floral-crunchy-uruguayan-potatoes-salad--mexican",
+    "title": "Mexican Potato Salad",
+    "tags": [
+      "mexican",
+      "potatoes",
+      "salad",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-american-beef-stir-fry--vegetarian",
+    "title": "Beef-Free Beef Stir Fry",
+    "tags": [
+      "vegetarian",
+      "mushroom",
+      "stir-fry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "f"
   }
 ]
