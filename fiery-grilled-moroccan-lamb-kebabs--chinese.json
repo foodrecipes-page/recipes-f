@@ -1,0 +1,89 @@
+{
+  "slug": "fiery-grilled-moroccan-lamb-kebabs--chinese",
+  "title": "Moroccan Lamb Kebabs with Fiery Glaze",
+  "description": "A fusion of Chinese and Moroccan flavors, these spicy lamb kebabs are grilled to perfection and served with a sweet and sour glaze.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb, Moroccan spice mix, brown sugar, soy sauce, rice vinegar, ginger, garlic, green chilies and onion. Mix well and refrigerate for at least 30 minutes.",
+    "2. Preheat grill to medium-high heat.",
+    "3. Thread lamb mixture onto skewers.",
+    "4. Grill for 8-10 minutes per side, or until lamb is cooked to your liking.",
+    "5. Meanwhile, mix glaze ingredients in a small bowl.",
+    "6. Brush glaze onto lamb kebabs during last 2 minutes of grilling.",
+    "7. Serve hot and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chinese",
+    "lamb",
+    "kebabs",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-grilled-moroccan-lamb-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:57:11.938Z"
+}
