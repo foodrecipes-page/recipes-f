@@ -1,0 +1,88 @@
+{
+  "slug": "fermented-croatian-fish-stew--italian",
+  "title": "Baked Fish Stew",
+  "description": "A hearty Italian-inspired stew featuring fish as the main protein, cooked in a flavorful broth with a hint of Croatian flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fermented Croatian Paprika",
+      "amount": "2 teaspoons",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the fish with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the fish until golden brown on both sides, about 3-4 minutes per side.",
+    "Remove the fish from the pot and set aside.",
+    "Reduce heat to medium and add the chopped onion to the pot. Cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the fermented Croatian paprika and cook for 1 minute.",
+    "Add the diced tomatoes, white wine, and chopped parsley to the pot. Stir to combine.",
+    "Return the fish to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and bake for 12-15 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish-stew",
+    "croatian-flair",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-croatian-fish-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:55:05.384Z"
+}
