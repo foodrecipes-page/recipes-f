@@ -1,0 +1,90 @@
+{
+  "slug": "floral-rigatoni-a-la-basilique--indian",
+  "title": "Basilique Pesto Rigatoni",
+  "description": "A fusion of Indian and Italian flavors, this recipe combines the spice of India with the simplicity of a classic basil pesto.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz",
+      "notes": "dried pasta"
+    },
+    {
+      "name": "basilique",
+      "amount": "1 cup",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "floral",
+      "amount": "1/2 cup",
+      "notes": "chopped fresh flowers (optional)"
+    },
+    {
+      "name": "la",
+      "amount": "1 cup",
+      "notes": "grated paneer or ricotta cheese"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground spice"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "cooking oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "cooking salt"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to package instructions.",
+    "In a blender or food processor, combine the basilique, floral, garam masala, cumin powder, and garlic. Blend until smooth.",
+    "With the blender running, slowly pour in the olive oil until well combined.",
+    "Add the la to the blender and blend until smooth.",
+    "Drain the cooked rigatoni and return it to the pot. Add the pesto sauce and stir to combine.",
+    "Continue cooking for an additional 2-3 minutes, until the pasta is well coated.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional basilique if desired.",
+    "Optional: top with toasted nuts or seeds for added crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "italian",
+    "pesto",
+    "rigatoni",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-rigatoni-a-la-basilique--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:09:40.982Z"
+}
