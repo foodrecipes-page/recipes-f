@@ -2024,17 +2024,15 @@
   },
   {
     "slug": "fermented-crunchy-peruvian-aubergine-gratin",
-    "title": "Fermented Crunchy Peruvian Aubergine Gratin",
+    "title": "Peruvian Aubergine Gratin",
     "tags": [
       "peruvian",
-      "fermented",
       "aubergine",
       "gratin",
-      "gluten-free",
-      "fodmap-friendly"
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -2132,10 +2130,14 @@
   },
   {
     "slug": "fermented-dense-jamaican-coconut-stew",
-    "title": "Fermented Dense Jamaican Coconut Stew",
-    "tags": [],
-    "cuisine": "Jamaican",
-    "totalTimeMin": null,
+    "title": "Jamaican Coconut Stew",
+    "tags": [
+      "caribbean",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -24525,6 +24527,30 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-white-uruguayan-fish-skillet--gluten-free",
+    "title": "Pan-Seared Uruguayan Fish",
+    "tags": [
+      "gluten-free",
+      "fish",
+      "uruguayan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-fluffy-ethiopian-lentils-azifa--keto",
+    "title": "Ethiopian Lentil Stew",
+    "tags": [
+      "lentils",
+      "ethiopian",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "f"
   }
 ]
