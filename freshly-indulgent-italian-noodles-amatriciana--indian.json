@@ -1,0 +1,88 @@
+{
+  "slug": "freshly-indulgent-italian-noodles-amatriciana--indian",
+  "title": "Indian-Style Amatriciana Pasta",
+  "description": "A fusion of Italian and Indian flavors, this dish combines the classic amatriciana pasta with the warmth of Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "canned tomato",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add canned tomato, garam masala, cumin, coriander, and red pepper flakes.",
+    "Simmer for 10-15 minutes, stirring occasionally.",
+    "Add cooked noodles to the pan and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "italian",
+    "vegetarian",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-indulgent-italian-noodles-amatriciana--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:50:20.115Z"
+}
