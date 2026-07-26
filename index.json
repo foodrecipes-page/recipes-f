@@ -24448,5 +24448,43 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "fermented-tender-kenyan-beef-stir-fry--vegan",
+    "title": "Kenyan Vegan Stir Fry",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "stir-fry",
+      "quick-meal"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-juicy-ethiopian-lamb-stew--vegetarian",
+    "title": "Ethiopian Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "ethiopian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-folded-thai-shrimp-skewers--italian",
+    "title": "Italian-Style Shrimp Skewers",
+    "tags": [
+      "italian",
+      "shrimp",
+      "grilled",
+      "summer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "f"
   }
 ]
