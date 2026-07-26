@@ -1,0 +1,91 @@
+{
+  "slug": "freshly-smoky-indian-broccoli-chana-masala--mexican",
+  "title": "Smoky Chana Masala Tacos",
+  "description": "A fusion of Indian flavors with Mexican flair in a delicious taco. The smokiness of chipotle peppers pairs perfectly with the richness of chana masala.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chana",
+      "amount": "1 cup (drained and rinsed)"
+    },
+    {
+      "name": "masala",
+      "amount": "2 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoky chipotle peppers",
+      "amount": "1",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened, 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add chipotle peppers, cumin, and paprika. Cook for 1 minute.",
+    "Stir in chana masala and cook for 2-3 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning chana masala mixture onto tortillas.",
+    "Garnish with cilantro and serve with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-mexican",
+    "veggie-tacos",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-smoky-indian-broccoli-chana-masala--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:45:02.758Z"
+}
