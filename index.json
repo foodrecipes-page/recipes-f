@@ -932,14 +932,15 @@
   },
   {
     "slug": "fennel-caramelsweet-paleo",
-    "title": "Fennel Caramelsweet Paleo",
+    "title": "Pan-Seared Fennel with Caramelized Sweet Caramelsweet",
     "tags": [
       "fennel",
-      "caramelized",
-      "paleo"
+      "caramelsweet",
+      "paleo",
+      "dinner"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -24673,6 +24674,44 @@
       "smoky"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-canadian-pastry-pie--french",
+    "title": "French Canadian Tourtière Pie",
+    "tags": [
+      "french-canadian",
+      "meat-pie",
+      "beef-pork"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-asparagus-wrap--keto",
+    "title": "Fermented Asparagus Wrap Keto Snack",
+    "tags": [
+      "keto",
+      "snack",
+      "low-carb",
+      "asparagus"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-fried-jamaican-squash-curry--chinese",
+    "title": "Squash Curry Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "curry",
+      "squash"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "f"
   }
