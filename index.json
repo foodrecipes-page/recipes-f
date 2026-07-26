@@ -10551,17 +10551,15 @@
   },
   {
     "slug": "floral-crispy-kenyan-chicken-skewers",
-    "title": "Floral Crispy Kenyan Chicken Skewers",
+    "title": "Kenyan Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "kenyan",
+      "chicken",
+      "skewers"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
@@ -14605,12 +14603,13 @@
   },
   {
     "slug": "fluffy-spicy-greek-eggplant-stir-fry",
-    "title": "Fluffy Spicy Greek Eggplant Stir-fry",
+    "title": "Spicy Eggplant Fritters",
     "tags": [
-      "fluffy-spicy-greek-eggplant-stir-fry",
-      "sour-flavor",
-      "shaoxing-wine",
-      "kosher-friendly"
+      "eggplant",
+      "fritters",
+      "greek",
+      "snack",
+      "lunch"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
@@ -24369,6 +24368,33 @@
     ],
     "cuisine": null,
     "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-herbal-dutch-chestnut-mushroom-stew--indian",
+    "title": "Chestnut and Mushroom Korma",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "easy-dinner",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-peppery-algerian-coconut-milk-tagine--indian",
+    "title": "Coconut Almond Chicken Tagine",
+    "tags": [
+      "coconut",
+      "chicken",
+      "indian",
+      "tagine",
+      "creamy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
