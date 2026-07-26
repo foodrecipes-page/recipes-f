@@ -1,0 +1,79 @@
+{
+  "slug": "fermented-glassy-jelly-jamaican-flaked-almonds-tagine--thai",
+  "title": "Crispy Thai Almond Cookies with Jamaican Jam Filling",
+  "description": "A sweet and crunchy Thai-inspired cookie with a tangy Jamaican jam filling. Perfect for a snack or dessert.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "jamaican jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fermented rice flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "glassy sugar",
+      "amount": "1/2 cup",
+      "notes": "superfine"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together fermented rice flour, ground almonds, salt, and sugar.",
+    "In a large bowl, whisk together eggs and jamaican jam.",
+    "Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on prepared baking sheet and bake for 15-20 minutes, or until lightly golden.",
+    "Allow to cool completely on a wire rack before filling with jamaican jam."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "cookies",
+    "jam",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-glassy-jelly-jamaican-flaked-almonds-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:11:24.770Z"
+}
