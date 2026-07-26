@@ -10387,16 +10387,16 @@
   },
   {
     "slug": "floral-crisp-japanese-tofu-skewers",
-    "title": "Floral Crisp Japanese Tofu Skewers",
+    "title": "Japanese Tofu Skewers with Floral Crisp Salad",
     "tags": [
-      "japanese-cuisine",
-      "tofu-recipes",
-      "vegetarian-dishes",
-      "jain-friendly",
-      "grilled-food"
+      "japanese",
+      "salad",
+      "grilled",
+      "tofu",
+      "skewers"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "f"
   },
   {
@@ -24332,6 +24332,43 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-mexican-pork-stir-fry--chinese",
+    "title": "Crispy Pork Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "pork",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "funky-delight-mediterranean-vegetables-skillet--thai",
+    "title": "Thai Vegetable Stir Fry",
+    "tags": [
+      "thai",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "f"
+  },
+  {
+    "slug": "festive-citrusy-creamy-egg-crumble--keto",
+    "title": "Keto Citrus Crumble Cheesecake Bars",
+    "tags": [
+      "keto",
+      "cheesecake",
+      "crumble",
+      "dessert"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "f"
   }
 ]
