@@ -13161,19 +13161,16 @@
   },
   {
     "slug": "fluffy-golden-tunisian-bread-gratin",
-    "title": "Fluffy Golden Tunisian Bread Gratin",
+    "title": "Tunisian Golden Bread Gratin",
     "tags": [
       "bread",
-      "dessert",
+      "tunisian",
       "gratin",
-      "one-dish",
-      "post-workout",
       "snack",
-      "sugar-free-friendly",
-      "tunisian"
+      "vegan"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
     "shard": "f"
   },
   {
@@ -24294,6 +24291,46 @@
       "vegetarian"
     ],
     "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-rigatoni-a-la-basilique--indian",
+    "title": "Basilique Pesto Rigatoni",
+    "tags": [
+      "indian",
+      "italian",
+      "pesto",
+      "rigatoni",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crispy-algerian-ham-tagine--french",
+    "title": "Crispy Algerian Tagine Ham Croquettes",
+    "tags": [
+      "french",
+      "ham",
+      "appetizer",
+      "croquettes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 32,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-french-formed-french-pork-rillettes--german",
+    "title": "German Bratwurst Rillettes Crostini",
+    "tags": [
+      "german-food",
+      "snack-ideas",
+      "bratwurst-recipe",
+      "rillettes-crostini"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "f"
   }
