@@ -1,0 +1,84 @@
+{
+  "slug": "fried-tomato-croatian-stew--indian",
+  "title": "Croatian-Style Stew with Fried Tomatoes",
+  "description": "A twist on traditional Indian cuisine, this hearty stew combines the flavors of Croatia with the spices of India. Served with crispy fried tomatoes.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "fried"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spices",
+      "amount": "1 teaspoon",
+      "notes": "garam masala, cumin, coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the Croatian sausage and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the tomatoes and cook for 2-3 minutes.",
+    "Add the tomato paste, spices, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Meanwhile, heat oil in a separate pan over medium-high heat.",
+    "Add the sliced tomatoes and fry until crispy, about 3-4 minutes per side.",
+    "Serve the stew with fried tomatoes on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "croatian",
+    "stew",
+    "fried-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-tomato-croatian-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:35:38.364Z"
+}
