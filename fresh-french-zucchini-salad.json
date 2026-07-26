@@ -1,0 +1,79 @@
+{
+  "slug": "fresh-french-zucchini-salad",
+  "title": "Zucchini and French Salad",
+  "description": "A refreshing summer salad featuring zucchini and French vinaigrette.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "French vinaigrette",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "croutons",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the zucchini into 1/4-inch thick slices.",
+    "Separate the lettuce and tomatoes from each other.",
+    "Cut the red onion into thin slices.",
+    "Dress the lettuce and tomatoes with French vinaigrette.",
+    "Top with croutons and sliced red onion.",
+    "Arrange zucchini slices on top.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer-salad",
+    "vegetarian",
+    "gluten-free",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-french-zucchini-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:16:35.152Z"
+}
