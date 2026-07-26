@@ -1,0 +1,81 @@
+{
+  "slug": "freshly-fried-jamaican-squash-curry--chinese",
+  "title": "Squash Curry Stir Fry",
+  "description": "A Chinese-inspired stir fry with roasted squash and a flavorful curry sauce. Perfect for a quick weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with regular curry powder"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the squash with 1 tablespoon of vegetable oil and roast in the oven for 20 minutes.",
+    "In a wok or large skillet, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the Jamaican curry powder and cook for 1 minute, stirring constantly.",
+    "Add the roasted squash and cook for 2-3 minutes, until coated in the curry sauce.",
+    "Stir in the soy sauce and brown sugar.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "curry",
+    "squash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-fried-jamaican-squash-curry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:30:56.179Z"
+}
