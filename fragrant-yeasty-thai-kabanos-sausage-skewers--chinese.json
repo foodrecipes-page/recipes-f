@@ -1,0 +1,93 @@
+{
+  "slug": "fragrant-yeasty-thai-kabanos-sausage-skewers--chinese",
+  "title": "Thai-Style Chinese Sausage Skewers",
+  "description": "A Chinese-inspired dish featuring sausage and kabanos, marinated in a fragrant mixture and grilled to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai sausage",
+      "amount": "250g",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "Kabanos",
+      "amount": "250g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together hoisin sauce, fish sauce, rice vinegar, and brown sugar. Add the sausage and kabanos, and let marinate for at least 30 minutes.",
+    "Thread the marinated sausage and kabanos onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with sesame oil and season with salt.",
+    "Grill the skewers for 8-10 minutes, or until the sausage is cooked through and the kabanos is slightly charred.",
+    "During the last 2 minutes of grilling, brush the skewers with a little more sesame oil.",
+    "Serve the skewers hot, garnished with chopped cilantro and fresh pineapple chunks."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grilled",
+    "sausage",
+    "kabanos",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fragrant-yeasty-thai-kabanos-sausage-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:05:57.507Z"
+}
