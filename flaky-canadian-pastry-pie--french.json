@@ -1,0 +1,86 @@
+{
+  "slug": "flaky-canadian-pastry-pie--french",
+  "title": "French Canadian Tourtière Pie",
+  "description": "A traditional French-Canadian meat pie filled with ground pork and beef.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 package (1 crust)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works well"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the pastry and place into a 9-inch pie dish.",
+    "3. In a large skillet, cook the ground pork and beef until browned, breaking it up into small pieces.",
+    "4. Add the onion, allspice, salt, and pepper to the skillet and cook until the onion is translucent.",
+    "5. Stir in the Canadian bacon and cook for 1 minute.",
+    "6. Pour the meat mixture into the pastry-lined pie dish.",
+    "7. Roll out the remaining pastry and use to cover the pie. Crimp the edges to seal.",
+    "8. Cut a few slits in the top crust to allow steam to escape.",
+    "9. Brush the top crust with a little water or beaten egg.",
+    "10. Bake the pie for 25-30 minutes, or until the crust is golden brown.",
+    "11. Let the pie rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-canadian",
+    "meat-pie",
+    "beef-pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-canadian-pastry-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:07:35.998Z"
+}
