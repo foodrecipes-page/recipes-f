@@ -1,65 +1,82 @@
 {
   "slug": "fry-leek-turkish-stir-fry",
-  "title": "Turkish Leek Fry",
-  "description": "A simple yet flavorful dish that showcases the combination of crispy leeks and savory Turkish spices.",
+  "title": "Turkish-Style Stir Fry",
+  "description": "A simple and flavorful Turkish-inspired stir fry made with leeks and turkey.",
   "cuisine": "Turkish",
   "diet": [
     "vegetarian",
-    "gluten-free"
+    null
   ],
-  "meal": "breakfast",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "leek",
+      "name": "Leek",
       "amount": "2 medium"
     },
     {
-      "name": "fry",
-      "amount": "1/2 cup vegetable oil"
+      "name": "Turkey breast",
+      "amount": "1 pound"
     },
     {
-      "name": "Turkish",
-      "amount": "1 tsp ground cumin"
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Turkish",
-      "amount": "1 tsp smoked paprika"
+      "name": "Garlic",
+      "amount": "2 cloves"
     },
     {
-      "name": "salt",
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
       "amount": "to taste"
     },
     {
-      "name": "pepper",
+      "name": "Black pepper",
       "amount": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
     }
   ],
   "instructions": [
-    "Heat the oil in a large skillet over medium-high heat.",
-    "Add the cumin and smoked paprika, and cook for 1 minute.",
-    "Add the sliced leeks and cook until golden brown, about 5 minutes.",
-    "Season with salt and pepper to taste.",
-    "Serve hot and enjoy."
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the turkey breast and cook until browned, about 5 minutes.",
+    "Remove the turkey from the skillet and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil.",
+    "Add the sliced leeks and cook until softened, about 5 minutes.",
+    "Add the garlic, paprika, and cumin. Cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the cooked turkey back into the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
   ],
-  "prepTimeMin": 5,
-  "cookTimeMin": 10,
-  "totalTimeMin": 15,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "breakfast",
     "turkish",
+    "stir-fry",
     "leek",
-    "stir-fry"
+    "turkey"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 2,
-    "carbs": 20,
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
     "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fry-leek-turkish-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T18:06:22.500Z"
+  "createdAt": "2026-07-21T19:30:05.275Z"
 }
