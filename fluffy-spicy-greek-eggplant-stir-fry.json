@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-spicy-greek-eggplant-stir-fry",
+  "title": "Spicy Eggplant Fritters",
+  "description": "A crispy and flavorful eggplant fritter recipe with a spicy kick, perfect for a quick snack or lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup, all-purpose flour",
+      "notes": "For coating"
+    },
+    {
+      "name": "stir",
+      "amount": "1/4 cup, olive oil",
+      "notes": "For frying"
+    },
+    {
+      "name": "fry",
+      "amount": "1/2 cup, breadcrumbs",
+      "notes": "For coating"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/2 cup, chopped fresh parsley",
+      "notes": "For garnish"
+    },
+    {
+      "name": "greek",
+      "amount": "1/2 cup, crumbled feta cheese (optional)",
+      "notes": "For extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a shallow dish, mix together flour and a pinch of salt.",
+    "In a separate dish, mix together breadcrumbs and a pinch of salt.",
+    "In a large bowl, combine eggplant, parsley, and feta cheese (if using).",
+    "Dip each eggplant mixture into the flour mixture, then the breadcrumb mixture, pressing gently to adhere.",
+    "Heat the olive oil in a large non-stick skillet over medium-high heat.",
+    "Add the coated eggplant fritters to the skillet and cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Transfer the fritters to a baking sheet and bake for an additional 10-12 minutes, or until cooked through.",
+    "Serve hot and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "fritters",
+    "greek",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-spicy-greek-eggplant-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:42:39.726Z"
+}
