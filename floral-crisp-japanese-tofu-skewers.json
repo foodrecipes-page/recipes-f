@@ -1,0 +1,91 @@
+{
+  "slug": "floral-crisp-japanese-tofu-skewers",
+  "title": "Japanese Tofu Skewers with Floral Crisp Salad",
+  "description": "A refreshing Asian-inspired salad and protein-packed tofu skewers make for a delicious and healthy meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "firm, drained"
+    },
+    {
+      "name": "floral",
+      "amount": "1 cup mixed greens",
+      "notes": null
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup chopped carrots",
+      "notes": null
+    },
+    {
+      "name": "japanese",
+      "amount": "1/4 cup soy sauce",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10 bamboo skewers",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cut tofu into 1-inch cubes and thread onto skewers.",
+    "2. In a small bowl, whisk together soy sauce, sesame oil, and ginger.",
+    "3. Brush the tofu skewers with the soy-ginger mixture.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Grill the tofu skewers for 3-4 minutes per side, or until golden brown.",
+    "6. Meanwhile, combine the mixed greens, chopped carrots, and a drizzle of soy-ginger mixture in a large bowl.",
+    "7. To assemble the salad, place a scoop of the floral crisp mixture on a plate, followed by a few grilled tofu skewers.",
+    "8. Sprinkle with salt and pepper to taste.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional mixed greens and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salad",
+    "grilled",
+    "tofu",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crisp-japanese-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:20:36.351Z"
+}
