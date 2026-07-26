@@ -24594,5 +24594,47 @@
     "cuisine": "Indian",
     "totalTimeMin": 50,
     "shard": "f"
+  },
+  {
+    "slug": "flavorful-indian-chicken-thali--thai",
+    "title": "Thai-Style Chicken Thali",
+    "tags": [
+      "thai",
+      "indian",
+      "chicken",
+      "thali",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fatty-adventurous-peruvian-dasima-kombu-bisque--thai",
+    "title": "Thai-Style Spicy Dasima Soup",
+    "tags": [
+      "thaifood",
+      "dasima",
+      "kombu",
+      "vegetarian",
+      "glutenfree"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-yeasty-thai-kabanos-sausage-skewers--chinese",
+    "title": "Thai-Style Chinese Sausage Skewers",
+    "tags": [
+      "chinese",
+      "grilled",
+      "sausage",
+      "kabanos",
+      "thai"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "f"
   }
 ]
