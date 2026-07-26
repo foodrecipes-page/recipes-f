@@ -1,0 +1,94 @@
+{
+  "slug": "flavorful-indian-chicken-thali--thai",
+  "title": "Thai-Style Chicken Thali",
+  "description": "A flavorful and aromatic chicken dish served as part of a traditional Indian thali. This recipe combines the spices of Thailand with the heartiness of India.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cucumber raita",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add onion and ginger, cook until onion is translucent.",
+    "Add chicken, cook until browned.",
+    "Add curry paste, cook for 1 minute.",
+    "Add coconut milk, fish sauce (if using), and bring to a simmer.",
+    "Reduce heat to medium-low, cook for 10-15 minutes or until chicken is cooked through.",
+    "Serve chicken with brown rice, naan bread, and cucumber raita.",
+    "Garnish with chopped cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "indian",
+    "chicken",
+    "thali",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-indian-chicken-thali--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:27:29.577Z"
+}
