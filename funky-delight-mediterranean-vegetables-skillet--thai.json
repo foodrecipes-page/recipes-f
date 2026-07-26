@@ -1,0 +1,72 @@
+{
+  "slug": "funky-delight-mediterranean-vegetables-skillet--thai",
+  "title": "Thai Vegetable Stir Fry",
+  "description": "A quick and easy stir fry made with a variety of vegetables, perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "1"
+    },
+    {
+      "name": "vegetables",
+      "amount": "2 cups (any combination of bell peppers, carrots, broccoli, and onions)",
+      "notes": ""
+    },
+    {
+      "name": "funky",
+      "amount": "2 tablespoons (Thai red curry paste)",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tablespoons (olive oil)",
+      "notes": ""
+    },
+    {
+      "name": "vegetables",
+      "amount": "1 cup (snow peas)",
+      "notes": ""
+    },
+    {
+      "name": "delight",
+      "amount": "1 cup (chicken breast, cut into bite-sized pieces)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Thai red curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Add the snow peas and cook until tender, about 3-5 minutes.",
+    "Return the chicken to the skillet and stir in the vegetables.",
+    "Cook for an additional 2-3 minutes, until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with fresh cilantro, if desired.",
+    "Cook time for chicken is 5-7 minutes.",
+    "Cook time for vegetables is 3-5 minutes.",
+    "Total cook time is 12-15 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-delight-mediterranean-vegetables-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:52:35.672Z"
+}
