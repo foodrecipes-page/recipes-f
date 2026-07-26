@@ -17956,17 +17956,15 @@
   },
   {
     "slug": "fresh-syrian-chickpeas-flatbread",
-    "title": "Fresh Syrian Chickpeas Flatbread",
+    "title": "Syrian Chickpea Flatbread",
     "tags": [
-      "flexitarian-friendly",
-      "middle-eastern",
-      "one-pan",
-      "quick-fix",
-      "springy",
-      "yeasty"
+      "syrian",
+      "chickpea",
+      "flatbread",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 12,
     "shard": "f"
   },
   {
@@ -24713,6 +24711,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-syrian-sauerkraut-kebabs--thai",
+    "title": "Thai Kebab Salad",
+    "tags": [
+      "thaifood",
+      "salad",
+      "kebabs",
+      "sauerkraut"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fried-tomato-croatian-stew--indian",
+    "title": "Croatian-Style Stew with Fried Tomatoes",
+    "tags": [
+      "indian",
+      "croatian",
+      "stew",
+      "fried-tomatoes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "f"
   }
 ]
