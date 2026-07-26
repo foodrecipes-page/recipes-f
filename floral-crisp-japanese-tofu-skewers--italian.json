@@ -1,0 +1,79 @@
+{
+  "slug": "floral-crisp-japanese-tofu-skewers--italian",
+  "title": "Grilled Tofu Skewers with Japanese-Italian Twist",
+  "description": "A fusion of Japanese and Italian flavors, these grilled tofu skewers are a perfect vegetarian option for a light and refreshing meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "floral honey",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "crisp sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "japanese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "for grilling"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut tofu into 1-inch cubes and thread onto skewers, leaving a small space between each cube.",
+    "In a small bowl, whisk together rice vinegar, honey, and garlic. Brush the mixture onto both sides of the tofu.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the tofu is golden brown and crispy.",
+    "Brush with additional honey and sesame seeds during the last minute of grilling.",
+    "Garnish with chopped basil leaves and serve immediately.",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "japanese",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crisp-japanese-tofu-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:49:49.129Z"
+}
