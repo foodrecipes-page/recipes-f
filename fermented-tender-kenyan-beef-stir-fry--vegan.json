@@ -1,0 +1,76 @@
+{
+  "slug": "fermented-tender-kenyan-beef-stir-fry--vegan",
+  "title": "Kenyan Vegan Stir Fry",
+  "description": "A quick and flavorful stir fry made with Kenyan ingredients, perfect for a vegan meal. This recipe combines the tender texture of fermented vegetables with the rich flavors of Kenyan spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented vegetables",
+      "amount": "1 cup",
+      "notes": "such as kimchi or sauerkraut"
+    },
+    {
+      "name": "Tender okra",
+      "amount": "2 cups",
+      "notes": "or other tender vegetables"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "2 tsp",
+      "notes": "such as turmeric, cumin, and coriander"
+    },
+    {
+      "name": "Fry oil",
+      "amount": "1/4 cup",
+      "notes": "such as coconut or avocado oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegan stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "such as tamari or nama shoyu"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large skillet over medium-high heat.",
+    "2. Add the garlic and ginger and stir-fry for 1 minute.",
+    "3. Add the tender vegetables and stir-fry for 2-3 minutes.",
+    "4. Add the fermented vegetables and Kenyan spices and stir-fry for another 2-3 minutes.",
+    "5. Add the vegan stir-fry sauce and stir-fry for 1 minute.",
+    "6. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "stir-fry",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-kenyan-beef-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:55:24.025Z"
+}
