@@ -1,0 +1,81 @@
+{
+  "slug": "floral-crispy-kenyan-chicken-skewers",
+  "title": "Kenyan Chicken Skewers",
+  "description": "Succulent chicken skewers marinated in a blend of Kenyan spices, grilled to perfection. A delicious and easy-to-make dish perfect for any occasion.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat",
+    "grill"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1 inch pieces"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most African markets"
+    },
+    {
+      "name": "crushed floral spices",
+      "amount": "1 tsp",
+      "notes": "Use any combination of fennel, coriander, and cumin"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/2 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, kenyan spice blend, and crushed floral spices onto skewers.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally, or until chicken is cooked through.",
+    "Garnish with crispy fried onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "kenyan",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crispy-kenyan-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:07:00.366Z"
+}
