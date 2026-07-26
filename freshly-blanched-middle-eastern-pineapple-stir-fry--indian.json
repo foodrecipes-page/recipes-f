@@ -1,0 +1,89 @@
+{
+  "slug": "freshly-blanched-middle-eastern-pineapple-stir-fry--indian",
+  "title": "Spiced Pineapple Stir Fry",
+  "description": "A flavorful and aromatic Indian-inspired stir fry made with fresh pineapple, onions, and spices. This dish is perfect as a side or a light meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Pineapple",
+      "amount": "1 cup (diced)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle.",
+    "Add onion, ginger, and garlic. Sauté until onion is translucent.",
+    "Add pineapple and stir-fry for 2-3 minutes.",
+    "Add cumin powder, coriander powder, and turmeric powder. Mix well.",
+    "Add salt to taste.",
+    "Stir-fry for another minute.",
+    "Serve hot garnished with fresh cilantro (if desired).",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stir-fry",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-blanched-middle-eastern-pineapple-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:52:08.165Z"
+}
