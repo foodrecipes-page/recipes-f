@@ -1,0 +1,83 @@
+{
+  "slug": "fatty-juicy-ethiopian-lamb-stew--vegetarian",
+  "title": "Ethiopian Stew",
+  "description": "A hearty and flavorful vegetarian stew inspired by Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian stew spice mix",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern grocery stores"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and garlic and cook until softened.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add Ethiopian stew spice mix, tomato paste, and red wine (if using).",
+    "Cook for 1 minute, stirring constantly.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-juicy-ethiopian-lamb-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:06:18.227Z"
+}
