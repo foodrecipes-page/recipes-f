@@ -1,0 +1,91 @@
+{
+  "slug": "fresh-syrian-sauerkraut-kebabs--thai",
+  "title": "Thai Kebab Salad",
+  "description": "A flavorful and refreshing salad made with Thai kebabs, crunchy sauerkraut, and fresh herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh Thai basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Syrian kebabs (grilled and sliced)",
+      "amount": "4 oz",
+      "notes": "use any meat substitute for a vegetarian option"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "shredded or chopped"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "juice of 1 lime",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai peanut sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine sliced kebabs, sauerkraut, Thai basil, and cilantro.",
+    "2. In a small bowl, whisk together peanut sauce, lime juice, ginger, chili flakes, coconut sugar, and salt.",
+    "3. Pour the dressing over the kebab mixture and toss to coat.",
+    "4. Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "5. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "salad",
+    "kebabs",
+    "sauerkraut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-syrian-sauerkraut-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:58:30.614Z"
+}
