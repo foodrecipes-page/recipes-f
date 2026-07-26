@@ -1,0 +1,81 @@
+{
+  "slug": "fluffy-golden-tunisian-bread-gratin",
+  "title": "Tunisian Golden Bread Gratin",
+  "description": "A crispy and savory Tunisian-style bread gratin, perfect as a side dish or snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fluffy bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "golden olive oil",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tunisian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup",
+      "notes": "dairy-free alternative or vegan cheese"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the bread into 1-inch cubes and place in a large mixing bowl.",
+    "Drizzle the golden olive oil over the bread and toss to coat.",
+    "Sprinkle the Tunisian spices, salt, and pepper over the bread and toss again.",
+    "Transfer the bread mixture to a 9x13-inch baking dish.",
+    "Sprinkle the grated cheese evenly over the bread.",
+    "Bake for 20-25 minutes or until the top is golden brown and the bread is crispy.",
+    "Remove from the oven and sprinkle with chopped fresh parsley.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "tunisian",
+    "gratin",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-golden-tunisian-bread-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:27:11.509Z"
+}
