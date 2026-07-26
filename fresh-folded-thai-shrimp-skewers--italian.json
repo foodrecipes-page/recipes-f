@@ -1,0 +1,92 @@
+{
+  "slug": "fresh-folded-thai-shrimp-skewers--italian",
+  "title": "Italian-Style Shrimp Skewers",
+  "description": "A quick and easy Italian-inspired dish featuring shrimp, fresh vegetables, and a hint of Mediterranean flavor.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, bell peppers, onion, and cherry tomatoes onto skewers.",
+    "In a small bowl, mix together olive oil, garlic, salt, black pepper, and italian seasoning.",
+    "Brush the skewers with the olive oil mixture.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot, garnished with fresh basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "shrimp",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-folded-thai-shrimp-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:09:54.489Z"
+}
