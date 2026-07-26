@@ -1,0 +1,76 @@
+{
+  "slug": "fresh-syrian-chickpeas-flatbread",
+  "title": "Syrian Chickpea Flatbread",
+  "description": "A simple and flavorful flatbread dish topped with a mix of chickpeas and spices. Perfect for a quick and easy meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the flatbread with olive oil and sprinkle with minced garlic, cumin, paprika, and salt.",
+    "Bake the flatbread in the oven for 5-7 minutes, or until crispy and lightly browned.",
+    "Meanwhile, heat the chickpeas in a pan over medium heat.",
+    "Once the flatbread is ready, top it with the chickpeas and chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "chickpea",
+    "flatbread",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-syrian-chickpeas-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:16:22.985Z"
+}
