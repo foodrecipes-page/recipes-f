@@ -1,0 +1,94 @@
+{
+  "slug": "fermented-crunchy-peruvian-aubergine-gratin",
+  "title": "Peruvian Aubergine Gratin",
+  "description": "A flavorful Peruvian dish featuring roasted aubergine, topped with a crunchy gratin. This recipe is perfect for a dinner or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "fermented corn (choclo)",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup shredded",
+      "notes": "or other hard cheese"
+    },
+    {
+      "name": "crunchy plantain chips",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh or bottled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut aubergine into 1-inch slices and place on a baking sheet. Drizzle with olive oil and sprinkle with salt, black pepper, and minced garlic.",
+    "Roast aubergine slices in the oven for 20-25 minutes, flipping halfway through.",
+    "In a separate pan, toast the crunchy plantain chips over medium heat for 2-3 minutes, until crispy.",
+    "In a greased 8x8-inch baking dish, arrange roasted aubergine slices in a single layer.",
+    "Sprinkle shredded cheese over the aubergine, followed by toasted plantain chips.",
+    "Bake the gratin in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Remove the gratin from the oven and sprinkle with chopped cilantro and a squeeze of lemon juice.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "aubergine",
+    "gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-peruvian-aubergine-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:28:25.775Z"
+}
