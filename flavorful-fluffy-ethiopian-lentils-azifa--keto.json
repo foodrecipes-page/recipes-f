@@ -1,0 +1,70 @@
+{
+  "slug": "flavorful-fluffy-ethiopian-lentils-azifa--keto",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A flavorful and nutritious stew originating from Ethiopia, made with lentils and a variety of spices. Serve hot over fluffy rice or with a side of vegetables.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flavorful oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the lentils, spices, and salt. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes or until the lentils are tender.",
+    "Serve hot over fluffy rice or with a side of vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-fluffy-ethiopian-lentils-azifa--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:42:22.592Z"
+}
