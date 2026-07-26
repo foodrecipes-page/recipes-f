@@ -1,0 +1,67 @@
+{
+  "slug": "fermented-dense-jamaican-coconut-stew",
+  "title": "Jamaican Coconut Stew",
+  "description": "A hearty and flavorful stew made with Jamaican spices and coconut milk.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dense sweet potatoes",
+      "amount": "2",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Fermented carrots",
+      "amount": "1",
+      "notes": "shredded"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Add Jamaican curry powder and cook for 1 minute, stirring constantly.",
+    "Add cubed sweet potatoes and cook for 5 minutes, or until they start to brown.",
+    "Add shredded carrots and cook for an additional 2 minutes.",
+    "Pour in coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let the stew cook for 20-25 minutes, or until the sweet potatoes are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-dense-jamaican-coconut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:56:32.000Z"
+}
