@@ -1,0 +1,79 @@
+{
+  "slug": "fresh-crispy-algerian-ham-tagine--french",
+  "title": "Crispy Algerian Tagine Ham Croquettes",
+  "description": "A French-inspired twist on traditional croquettes, featuring crispy Algerian tagine ham and served with a side of tangy aioli.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Algerian tagine ham",
+      "amount": "1 block (about 1 cup), finely chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large, lightly beaten"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "about 1 cup, for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, combine the chopped ham, parsley, flour, breadcrumbs, egg, melted butter, garlic, salt, and pepper. Mix well until the ingredients are evenly distributed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to fry, line a baking sheet with parchment paper and dust it with flour.",
+    "Using a spoon, drop small portions of the ham mixture onto the prepared baking sheet, shaping them into small cylinders.",
+    "Fry the croquettes in hot oil until they are crispy and golden brown, about 3-4 minutes on each side.",
+    "Drain the croquettes on paper towels and serve with a side of aioli for dipping.",
+    "To make the aioli, combine 1/2 cup mayonnaise, 1 tablespoon lemon juice, and 1 minced garlic clove in a small bowl. Mix well and refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "ham",
+    "appetizer",
+    "croquettes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-algerian-ham-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:41:53.444Z"
+}
