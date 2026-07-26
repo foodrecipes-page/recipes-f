@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-peppery-algerian-coconut-milk-tagine--indian",
+  "title": "Coconut Almond Chicken Tagine",
+  "description": "A rich and creamy Indian-inspired chicken dish featuring coconut and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "algerian chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "peppery fresh cilantro",
+      "amount": "handful",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chicken and cook until browned on all sides.",
+    "Add salt, chili powder, and cook for 1 minute.",
+    "Add coconut milk and almond extract, stir to combine.",
+    "Reduce heat to low and simmer for 10-12 minutes.",
+    "Stir in cilantro and serve over rice or with naan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "chicken",
+    "indian",
+    "tagine",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-peppery-algerian-coconut-milk-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:38:45.586Z"
+}
