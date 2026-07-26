@@ -17296,15 +17296,15 @@
   },
   {
     "slug": "fresh-french-zucchini-salad",
-    "title": "Fresh French Zucchini Salad",
+    "title": "Zucchini and French Salad",
     "tags": [
-      "kid-friendly",
-      "diabetic-friendly",
-      "quick",
-      "light"
+      "summer-salad",
+      "vegetarian",
+      "gluten-free",
+      "easy-to-make"
     ],
     "cuisine": "French",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "f"
   },
   {
@@ -24485,6 +24485,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-shaggy-norwegian-yogurt-bake--french",
+    "title": "French Floral Crème Brûlée",
+    "tags": [
+      "french",
+      "dessert",
+      "creme-brulee",
+      "floral"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-velvety-syrian-phyllo-stir-fry--japanese",
+    "title": "Stir-Fried Phyllo Rolls with Floral Sauce",
+    "tags": [
+      "japanese",
+      "dessert",
+      "phyllo",
+      "floral",
+      "syrup"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-crisp-japanese-tofu-skewers--italian",
+    "title": "Grilled Tofu Skewers with Japanese-Italian Twist",
+    "tags": [
+      "italian",
+      "japanese",
+      "vegetarian",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
