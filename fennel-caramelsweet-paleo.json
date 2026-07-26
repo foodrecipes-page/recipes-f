@@ -1,0 +1,54 @@
+{
+  "slug": "fennel-caramelsweet-paleo",
+  "title": "Pan-Seared Fennel with Caramelized Sweet Caramelsweet",
+  "description": "A sweet and savory dish featuring pan-seared fennel and caramelized caramelsweet, perfect for a special occasion.",
+  "cuisine": null,
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "caramelsweet",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the fennel bulbs in half and slice them into 1/2-inch thick wedges.",
+    "In a large skillet, heat the coconut oil over medium heat. Add the fennel wedges and cook for 5-7 minutes on each side, or until they're tender and caramelized.",
+    "While the fennel is cooking, caramelize the caramelsweet in a separate skillet over medium heat, stirring frequently.",
+    "Once the fennel is done, transfer it to a baking sheet and top each wedge with a spoonful of the caramelized caramelsweet.",
+    "Bake the fennel in the preheated oven for 10-15 minutes, or until it's heated through and the caramelsweet is bubbly.",
+    "Serve the pan-seared fennel with caramelized sweet caramelsweet immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fennel",
+    "caramelsweet",
+    "paleo",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fennel-caramelsweet-paleo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:33:35.302Z"
+}
