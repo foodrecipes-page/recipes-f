@@ -1,0 +1,69 @@
+{
+  "slug": "fermented-asparagus-wrap--keto",
+  "title": "Fermented Asparagus Wrap Keto Snack",
+  "description": "A simple keto snack that combines fermented vegetables with fresh asparagus and a crunchy wrap. Perfect for a quick pick-me-up.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Asparagus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Asparagus",
+      "amount": "4 spears"
+    },
+    {
+      "name": "Low-Carb Tortilla Wrap",
+      "amount": "1 large wrap"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 oz"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Line a baking sheet with parchment paper.",
+    "3. Arrange the fresh asparagus spears on the baking sheet.",
+    "4. Roast the asparagus in the oven for 12-15 minutes, or until tender.",
+    "5. Meanwhile, warm the low-carb tortilla wrap in the microwave for 10-15 seconds.",
+    "6. Spread the fermented asparagus on the tortilla wrap.",
+    "7. Top with roasted asparagus, mozzarella cheese, and chopped cilantro.",
+    "8. Season with salt and pepper to taste.",
+    "9. Roll up the wrap tightly and slice in half.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "snack",
+    "low-carb",
+    "asparagus"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-asparagus-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:26:40.218Z"
+}
