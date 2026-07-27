@@ -1,0 +1,80 @@
+{
+  "slug": "flavorful-algerian-potato-tagine--indian",
+  "title": "Algerian-Style Indian Potato Tagine",
+  "description": "A twist on traditional Indian cuisine, this recipe combines Algerian spices with the comforting flavors of a potato tagine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Flavorful oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Algerian spices (cumin, coriander, paprika)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup (chopped)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add potatoes, spices, salt, and pepper. Stir to combine.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until potatoes are tender.",
+    "Stir in tagine spice mix and cook for an additional 2-3 minutes.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "algerian",
+    "potato",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-algerian-potato-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:56:20.638Z"
+}
