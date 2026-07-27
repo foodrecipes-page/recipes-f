@@ -1,0 +1,86 @@
+{
+  "slug": "fluffy-filipino-medjool-date-cake--vegan",
+  "title": "Vegan Date Cake",
+  "description": "A moist and delicious vegan date cake made with medjool dates and fluffy texture.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy cake mix",
+      "amount": "200g",
+      "notes": "Make sure it's vegan"
+    },
+    {
+      "name": "Date syrup",
+      "amount": "50ml",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "100ml",
+      "notes": "Melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped walnuts (optional)",
+      "amount": "",
+      "notes": "Add some crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Grease a 20cm (8-inch) round cake pan with coconut oil.",
+    "Sift together cake mix, baking powder, and salt.",
+    "In a blender or food processor, blend dates, date syrup, and coconut oil until smooth.",
+    "Add vanilla extract and mix well.",
+    "Pour the blended mixture into the sifted dry ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "If using walnuts, sprinkle on top of the cake once cooled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "datecake",
+    "fluffy",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-filipino-medjool-date-cake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:20:33.231Z"
+}
