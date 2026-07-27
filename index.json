@@ -24906,5 +24906,44 @@
     "cuisine": "french",
     "totalTimeMin": 18,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-australian-almond-paste-crumble--japanese",
+    "title": "Matcha Crumble Mochi",
+    "tags": [
+      "matcha",
+      "mochi",
+      "japanese",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-festive-korean-greens-muchim--mexican",
+    "title": "Mexican Greens and Muchim Tacos",
+    "tags": [
+      "mexican",
+      "korean",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-crunchy-ethiopian-ackee-stir-fry--vegan",
+    "title": "Vegan Ackee Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "easy",
+      "one-pot"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "f"
   }
 ]
