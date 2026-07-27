@@ -1,0 +1,80 @@
+{
+  "slug": "fatty-bouncy-syrian-pork-tenderloin-bake--mexican",
+  "title": "Mexican Pork Tenderloin",
+  "description": "A delicious and flavorful Mexican-inspired dish featuring a tenderloin of pork, marinated in a blend of spices and baked to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": "1 pound"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "fatty",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "bake",
+      "amount": "1 teaspoon",
+      "notes": "chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together the olive oil, cumin, coriander, chili powder, salt, and pepper.",
+    "Place the pork tenderloin in a large zip-top plastic bag or a shallow dish.",
+    "Pour the marinade over the pork and massage to coat.",
+    "Seal the bag or cover the dish with plastic wrap.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it on a baking sheet.",
+    "Bake for 20-25 minutes or until the internal temperature reaches 145°F (63°C).",
+    "Let the pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tenderloin",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fatty-bouncy-syrian-pork-tenderloin-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:30:55.002Z"
+}
