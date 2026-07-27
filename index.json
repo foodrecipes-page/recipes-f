@@ -24020,15 +24020,15 @@
   },
   {
     "slug": "fiery-roasted-korean-beef-skewers--thai",
-    "title": "Spicy Thai Beef Skewers",
+    "title": "Grilled Beef Satay",
     "tags": [
-      "thaifood",
-      "spicy",
+      "thai",
       "grilled",
-      "beef"
+      "beef",
+      "skewers"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "f"
   },
   {
@@ -24792,6 +24792,57 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-algerian-oats-tagine--french",
+    "title": "Algerian Chicken Tagine",
+    "tags": [
+      "algerian",
+      "chicken",
+      "tagine",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-saudia-dates-crumble--vegetarian",
+    "title": "Saudi-Style Crumble Oat Bites",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "snack"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 28,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-fragrant-dutch-feta-salad--japanese",
+    "title": "Japanese-Style Salad with Crispy Feta",
+    "tags": [
+      "japanese",
+      "salad",
+      "feta",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-romantic-ukrainian-garlic-stir-fry--mexican",
+    "title": "Mexican Shrimp Fajitas",
+    "tags": [
+      "mexican",
+      "seafood",
+      "shrimp",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
     "shard": "f"
   }
 ]
