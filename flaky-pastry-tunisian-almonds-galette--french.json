@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-pastry-tunisian-almonds-galette--french",
+  "title": "Tunisian Galette",
+  "description": "A French-inspired pastry dessert with a tunisian twist, featuring a flaky crust and a sweet almond filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package (thawed)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tunisian Galette Paste",
+      "amount": "1/2 cup (homemade or store-bought)",
+      "notes": "or substitute with almond paste"
+    },
+    {
+      "name": "Slivered Almonds",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "Confectioners Sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Spread the tunisian galette paste over the center of the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the slivered almonds over the paste.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the egg over the pastry to give it a golden brown color.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Dust with confectioners sugar before serving.",
+    "Optional: sprinkle with granulated sugar before baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pastry",
+    "almond",
+    "dessert",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-pastry-tunisian-almonds-galette--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:48:42.192Z"
+}
