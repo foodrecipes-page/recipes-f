@@ -1,0 +1,91 @@
+{
+  "slug": "flavorful-french-beef-boeuf-bourguignon--french",
+  "title": "French Beef Bourguignon",
+  "description": "Hearty French stew made with tender beef and rich flavors.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flavorful beef stew meat (1.5 lbs)",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "flavorful all-purpose flour (2 tbsp)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "french onion (1 large)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "flavorful garlic (3 cloves)",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "french red wine (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "boeuf (2 carrots, 2 potatoes)",
+      "amount": "2,2",
+      "notes": ""
+    },
+    {
+      "name": "boeuf (1 large bay leaf)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season beef with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear beef until browned, about 5 minutes. Remove beef and set aside.",
+    "Add more oil if necessary, then sauté onions until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add flour and cook for 1 minute.",
+    "Add red wine, beef broth, bay leaf, and browned beef. Bring to a boil, then reduce heat to low and simmer for 2-3 hours, or until beef is tender.",
+    "Add carrots and potatoes. Simmer for another 30 minutes, or until they are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-french-beef-boeuf-bourguignon--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:23:31.255Z"
+}
