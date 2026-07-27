@@ -1,0 +1,72 @@
+{
+  "slug": "funky-mediterranean-chickpea-muffins",
+  "title": "Funky Chickpea Muffins",
+  "description": "A flavorful and healthy muffin recipe made with chickpea flour, perfect for a quick breakfast or snack.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "funky flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mediterranean olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a large bowl, whisk together chickpea flour, funky flour, sugar, and salt.",
+    "In a separate bowl, whisk together olive oil, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Fold in chopped parsley.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of a muffin comes out clean."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea-flour",
+    "mediterranean-recipe",
+    "breakfast-ideas",
+    "gluten-free-baking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-mediterranean-chickpea-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:47:57.128Z"
+}
