@@ -24844,5 +24844,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 23,
     "shard": "f"
+  },
+  {
+    "slug": "fresh-velvety-indian-lamb-dal--italian",
+    "title": "Lamb and Dal Meatballs with Tomato Sauce",
+    "tags": [
+      "italian",
+      "meatballs",
+      "lamb",
+      "dal",
+      "tomato-sauce"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "fried-greek-fish-stir-fry--mexican",
+    "title": "Mexican Battered Fish Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "fry",
+      "greek-style"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "f"
   }
 ]
