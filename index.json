@@ -18179,16 +18179,16 @@
   },
   {
     "slug": "fresh-zesty-monsoon-algerian-cornstarch-tagine",
-    "title": "Fresh Zesty Monsoon Algerian Cornstarch Tagine",
+    "title": "Monsoon Algerian Chicken Tagine",
     "tags": [
+      "north african",
       "algerian",
-      "dairy-free",
-      "high-fiber",
-      "monsoon",
-      "tandoor"
+      "chicken",
+      "tagine",
+      "monsoon"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "f"
   },
   {
@@ -24970,6 +24970,45 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-norwegian-rose-petal-custard-tart--thai",
+    "title": "Norwegian Rose Petal Tart with Custard",
+    "tags": [
+      "dessert",
+      "tart",
+      "rose-petal",
+      "norwegian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-spicy-saudi-arabian-almonds-bake--french",
+    "title": "French Crusted Almond Cake",
+    "tags": [
+      "french",
+      "almond-cake",
+      "cake"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-kenyan-peanuts-tagine--german",
+    "title": "Kenyan Peanut Tagine Schnitzel",
+    "tags": [
+      "german",
+      "peanuts",
+      "kenyan",
+      "tagine",
+      "schnitzel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 32,
     "shard": "f"
   }
 ]
