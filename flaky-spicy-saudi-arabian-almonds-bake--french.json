@@ -1,0 +1,82 @@
+{
+  "slug": "flaky-spicy-saudi-arabian-almonds-bake--french",
+  "title": "French Crusted Almond Cake",
+  "description": "A rich and buttery almond cake with a crispy French crust, perfect for a French dessert.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "saudi arabian",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup",
+      "notes": "butter, softened"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "bake",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch (23cm) round cake pan and set aside.",
+    "In a medium bowl, whisk together flour, cinnamon, and salt.",
+    "In a large bowl, beat the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, allowing each egg to fully incorporate before adding the next.",
+    "With the mixer on low speed, gradually add the flour mixture to the wet ingredients and mix until just combined.",
+    "Stir in the chopped almonds.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "almond-cake",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-spicy-saudi-arabian-almonds-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:31:04.076Z"
+}
