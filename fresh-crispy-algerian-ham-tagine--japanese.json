@@ -1,0 +1,80 @@
+{
+  "slug": "fresh-crispy-algerian-ham-tagine--japanese",
+  "title": "Crispy Algerian Chicken Tagine Bites",
+  "description": "A fusion of Japanese and North African flavors in bite-sized crispy chicken nuggets.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with a combination of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "crispy rice cereal",
+      "amount": "1 cup",
+      "notes": "gluten-free option"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "ham",
+      "amount": "1/4 cup",
+      "notes": "finely chopped, optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the chicken breast into small nugget-sized pieces.",
+    "In a shallow dish, mix together the all-purpose flour, Algerian spice blend, and a pinch of salt.",
+    "In a separate dish, beat the eggs.",
+    "In a third dish, place the crispy rice cereal.",
+    "Dip each chicken piece into the flour mixture, then the eggs, and finally the crispy rice cereal, pressing gently to adhere.",
+    "Place the coated chicken nuggets on a baking sheet lined with parchment paper.",
+    "Drizzle with a little bit of oil and sprinkle with chopped ham (if using).",
+    "Bake for 15-20 minutes or until cooked through and crispy.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "north-african",
+    "gluten-free",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-crispy-algerian-ham-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:29:52.675Z"
+}
