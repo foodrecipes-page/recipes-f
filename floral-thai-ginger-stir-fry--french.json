@@ -1,0 +1,69 @@
+{
+  "slug": "floral-thai-ginger-stir-fry--french",
+  "title": "French Ginger Stir-Fry",
+  "description": "A simple and flavorful French-inspired stir-fry dish featuring ginger and Thai flavors.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Floral Oil",
+      "amount": "2 tablespoons",
+      "notes": "olive oil or vegetable oil"
+    },
+    {
+      "name": "Thai Basil Leaves",
+      "amount": "handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Stir-Fry Vegetables",
+      "amount": "1 cup",
+      "notes": "bell peppers, carrots, broccoli"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the floral oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and cook for 2-3 minutes or until fragrant.",
+    "Add the stir-fry vegetables and cook for 3-4 minutes or until tender.",
+    "Stir in the Thai basil leaves and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ginger",
+    "thai",
+    "french",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-thai-ginger-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:52:12.103Z"
+}
