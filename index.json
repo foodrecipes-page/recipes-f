@@ -23881,12 +23881,13 @@
     "slug": "fatty-british-nectarines-crumble--gluten-free",
     "title": "Nectarine Crumble",
     "tags": [
-      "nectarine",
-      "crumble",
       "gluten-free",
-      "dessert"
+      "dessert",
+      "nectarines",
+      "crumble",
+      "british"
     ],
-    "cuisine": "British",
+    "cuisine": "british",
     "totalTimeMin": 50,
     "shard": "f"
   },
@@ -24737,6 +24738,60 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-pastry-tunisian-almonds-galette--french",
+    "title": "Tunisian Galette",
+    "tags": [
+      "french",
+      "pastry",
+      "almond",
+      "dessert",
+      "tunisian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-algerian-potato-tagine--indian",
+    "title": "Algerian-Style Indian Potato Tagine",
+    "tags": [
+      "indian",
+      "algerian",
+      "potato",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "fennel-caramelsweet-paleo--indian",
+    "title": "Spiced Fennel and Caramel Sweet Rice Bowl",
+    "tags": [
+      "indian",
+      "paleo",
+      "sweet-potatoes",
+      "fennel"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-velvety-slovakian-lemon-bake--indian",
+    "title": "Slovakian Fermented Lemon Velvety Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "fermented",
+      "lemon",
+      "velvety"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
