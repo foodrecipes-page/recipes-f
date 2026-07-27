@@ -1,0 +1,57 @@
+{
+  "slug": "fermented-flaky-treat-with-marshmallow-nests",
+  "title": "Sweet Marshmallow Treats",
+  "description": "A simple dessert made with marshmallow treats and a crunchy flaky crust.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Marshmallow treats",
+      "amount": "1 bag (12-15 pieces)"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 sheet, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fermented rhubarb jam",
+      "amount": "1/4 cup",
+      "notes": "for a sweet and tangy flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "Cut out rectangles of dough slightly larger than the marshmallow treats.",
+    "Place a marshmallow treat in the center of each dough rectangle.",
+    "Brush the edges of the dough with fermented rhubarb jam.",
+    "Fold the dough over the marshmallow treat and press the edges to seal.",
+    "Place the treats on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "marshmallow",
+    "treats"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-flaky-treat-with-marshmallow-nests",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:46:23.774Z"
+}
