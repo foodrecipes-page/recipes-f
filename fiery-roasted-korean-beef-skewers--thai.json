@@ -1,90 +1,91 @@
 {
   "slug": "fiery-roasted-korean-beef-skewers--thai",
-  "title": "Spicy Thai Beef Skewers",
-  "description": "A flavorful and spicy Thai-inspired dish made with beef, served as a snack or appetizer.",
+  "title": "Grilled Beef Satay",
+  "description": "A classic Thai dish of marinated beef skewers grilled to perfection.",
   "cuisine": "thai",
-  "diet": null,
+  "diet": [
+    "meat"
+  ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "beef",
-      "amount": "500g",
-      "notes": "thinly sliced"
+      "name": "Beef (sirloin), cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": ""
     },
     {
-      "name": "korean chili flakes",
+      "name": "Roasted Peanuts",
       "amount": "2 tablespoons",
-      "notes": null
+      "notes": ""
     },
     {
-      "name": "roasted garlic",
-      "amount": "3 cloves",
-      "notes": null
+      "name": "Fiery Red Pepper, chopped",
+      "amount": "1",
+      "notes": ""
     },
     {
-      "name": "fish sauce",
-      "amount": "2 tablespoons",
-      "notes": null
-    },
-    {
-      "name": "brown sugar",
-      "amount": "1 tablespoon",
-      "notes": null
-    },
-    {
-      "name": "lime juice",
-      "amount": "2 tablespoons",
-      "notes": null
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tablespoons",
-      "notes": null
-    },
-    {
-      "name": "salt",
+      "name": "Korean Chili Flakes",
       "amount": "1 teaspoon",
-      "notes": null
+      "notes": ""
     },
     {
-      "name": "black pepper",
-      "amount": "1/2 teaspoon",
-      "notes": null
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": ""
     },
     {
-      "name": "fiery sauce",
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
       "amount": "1 tablespoon",
-      "notes": "optional"
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package",
+      "notes": ""
     }
   ],
   "instructions": [
+    "In a blender or food processor, combine peanuts, red pepper, chili flakes, coconut milk, fish sauce, brown sugar, lime juice, and salt. Blend until smooth.",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "Brush skewers with marinade, making sure to coat all the beef.",
     "Preheat grill to medium-high heat.",
-    "In a large bowl, whisk together korean chili flakes, roasted garlic, fish sauce, brown sugar, lime juice, olive oil, salt, and black pepper.",
-    "Add the sliced beef to the marinade and mix well to coat.",
-    "Thread the marinated beef onto skewers.",
-    "Grill the skewers for 8-10 minutes, turning occasionally.",
-    "Brush with fiery sauce during the last 2 minutes of grilling.",
-    "Serve immediately and enjoy!"
+    "Grill skewers for 5-7 minutes per side, or until beef reaches an internal temperature of 135°F.",
+    "Serve immediately with peanut sauce for dipping."
   ],
-  "prepTimeMin": 15,
+  "prepTimeMin": 10,
   "cookTimeMin": 10,
-  "totalTimeMin": 25,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "thaifood",
-    "spicy",
+    "thai",
     "grilled",
-    "beef"
+    "beef",
+    "skewers"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 35,
-    "carbs": 10,
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
     "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fiery-roasted-korean-beef-skewers--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T17:07:31.258Z"
+  "createdAt": "2026-07-21T23:13:01.990Z"
 }
