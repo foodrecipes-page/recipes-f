@@ -1,0 +1,77 @@
+{
+  "slug": "flaky-polish-beans-tagine--mexican",
+  "title": "Polish Bean Stew",
+  "description": "A hearty, flavorful stew made with polish sausage, beans, and tagine spices. This mexican twist on a traditional polish dish is a perfect cold-weather meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": "Slice into bite-sized pieces before cooking"
+    },
+    {
+      "name": "Canned Beans",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most middle eastern or specialty stores"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed and cut into squares"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large Dutch oven, cook the sliced polish sausage over medium-high heat until browned.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tagine spice blend and cook for 1 minute.",
+    "Add the canned beans and cook for 5 minutes.",
+    "Roll out the flaky pastry and cut into squares.",
+    "Use the pastry to top the stew, pressing edges to seal.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "beans",
+    "polish-sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-polish-beans-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:40:02.138Z"
+}
