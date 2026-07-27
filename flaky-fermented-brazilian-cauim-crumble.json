@@ -1,0 +1,75 @@
+{
+  "slug": "flaky-fermented-brazilian-cauim-crumble",
+  "title": "Cauim Crumble Flaky Pie",
+  "description": "A unique dessert featuring fermented cauim and flaky crust, topped with crumble and a touch of tropical flair from Brazil.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Crust",
+      "amount": "1 package (gluten-free)",
+      "notes": "make sure to thaw overnight in the fridge"
+    },
+    {
+      "name": "Cauim",
+      "amount": "1 cup",
+      "notes": "fermented, strain and rinse before use"
+    },
+    {
+      "name": "Brazilian Honey",
+      "amount": "2 tbsp",
+      "notes": "or substitute with a vegan alternative"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade, gluten-free"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup",
+      "notes": "strawberries, blueberries, or raspberries work well"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the pie dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry crust and place in a pie dish.",
+    "Strain and rinse the cauim, then mix with the Brazilian honey in a bowl.",
+    "Add the cauim mixture to the pie crust, leaving a 1-inch border.",
+    "Top with the crumble topping and fresh berries.",
+    "Drizzle with coconut oil and bake for 35-40 minutes, or until the crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cauim",
+    "flaky",
+    "fermented",
+    "brazilian",
+    "dessert",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fermented-brazilian-cauim-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:36:04.814Z"
+}
