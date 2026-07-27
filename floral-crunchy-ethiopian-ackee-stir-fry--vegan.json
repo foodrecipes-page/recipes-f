@@ -1,0 +1,76 @@
+{
+  "slug": "floral-crunchy-ethiopian-ackee-stir-fry--vegan",
+  "title": "Vegan Ackee Stir Fry",
+  "description": "A delicious and easy vegan stir fry made with ackee, a variety of crunchy vegetables, and a hint of floral spice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup, sliced",
+      "notes": "any color"
+    },
+    {
+      "name": "Floral Spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegan Stir Fry Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crunchy Vegetable Stir Fry Mix",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion and carrots, cook until the vegetables are tender, about 5 minutes.",
+    "Add the bell peppers and cook until they are tender, about 3 minutes.",
+    "Stir in the floral spice and cook for 1 minute.",
+    "Add the ackee and vegan stir fry sauce, stir-fry until the ackee is heated through.",
+    "Add the crunchy vegetable stir fry mix and stir-fry until combined.",
+    "Serve hot and enjoy!",
+    "Note: Traditional ackee stir fry recipes call for ackee cooked in its own juices, but since ackee is a fruit it can be cooked in a variety of ways. This recipe uses a quick and easy stir-fry method to cook the ackee with other vegetables.",
+    "Cooking temperature: medium-high heat (400°F) to prevent overcooking the ackee.",
+    "Rest time: 0 minutes.",
+    "Prep time: 10 minutes.",
+    "Cook time: 15 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "easy",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/floral-crunchy-ethiopian-ackee-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:57:39.963Z"
+}
