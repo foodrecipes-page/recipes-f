@@ -1,0 +1,96 @@
+{
+  "slug": "fermented-indian-lamb-curry--thai",
+  "title": "Thai Lamb Curry",
+  "description": "A flavorful and spicy Thai curry made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add curry powder, stir for 1 minute.",
+    "Add lamb, cook until browned.",
+    "Add curry paste, cook for 1 minute.",
+    "Pour in coconut milk and water, bring to a simmer.",
+    "Reduce heat to low, cook for 1.5 hours.",
+    "Season with fish sauce and brown sugar (if using).",
+    "Garnish with cilantro.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "lambcurry",
+    "curry",
+    "thairecipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-indian-lamb-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:47:48.581Z"
+}
