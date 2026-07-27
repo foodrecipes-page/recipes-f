@@ -1,0 +1,71 @@
+{
+  "slug": "fluffy-light-ethiopian-black-beans-toast--japanese",
+  "title": "Japanese Black Bean Toast",
+  "description": "A simple and flavorful Japanese-inspired dish made with black beans, toast, and spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 tablespoon, sesame seeds"
+    },
+    {
+      "name": "light",
+      "amount": "1 tablespoon, soy sauce"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "1 teaspoon, berbere spice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the black beans according to package instructions.",
+    " Toast the bread until it's lightly browned.",
+    " In a small bowl, mix together the soy sauce, berbere spice, salt, and pepper.",
+    " Spread the sesame seeds on top of the toast.",
+    " Spoon the black beans over the toast.",
+    " Drizzle the soy sauce mixture over the black beans.",
+    " Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "lunch",
+    "snack",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-light-ethiopian-black-beans-toast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:42:16.732Z"
+}
