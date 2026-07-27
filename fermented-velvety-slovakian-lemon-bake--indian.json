@@ -1,0 +1,70 @@
+{
+  "slug": "fermented-velvety-slovakian-lemon-bake--indian",
+  "title": "Slovakian Fermented Lemon Velvety Curry",
+  "description": "A unique blend of Slovakian flavors with Indian spices, featuring a creamy and tangy fermented sauce.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian Fermented Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bake-bread crumbs (used as garnish)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender, combine fermented cheese, lemon juice, velvety yogurt, ginger paste, and cumin powder. Blend until smooth.",
+    "Heat a pan over medium heat. Pour the blended mixture into the pan.",
+    "Reduce heat to low and let it simmer for 5-7 minutes or until the sauce thickens.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with bake-bread crumbs.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "fermented",
+    "lemon",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-velvety-slovakian-lemon-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:36:51.916Z"
+}
