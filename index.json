@@ -24945,5 +24945,31 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "fermented-tender-bread-crumble--mexican",
+    "title": "Mexican Crumble Tacos",
+    "tags": [
+      "mexican",
+      "corn",
+      "cheese",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-norwegian-salmon-skillet--french",
+    "title": "Norwegian Salmon in Skillet",
+    "tags": [
+      "french",
+      "salmon",
+      "fish",
+      "skillet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 18,
+    "shard": "f"
   }
 ]
