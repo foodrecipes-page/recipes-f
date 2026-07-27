@@ -1,0 +1,83 @@
+{
+  "slug": "fresh-festive-korean-greens-muchim--mexican",
+  "title": "Mexican Greens and Muchim Tacos",
+  "description": "A refreshing twist on traditional tacos, featuring vibrant Korean-inspired muchim slaw and fresh greens.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Muchim",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "4"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the muchim, lime juice, cilantro, red onion, and cumin. Stir to combine.",
+    "Add the fresh greens to the bowl and toss to coat with the muchim mixture.",
+    "Warm the tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the greens and muchim mixture into the shells.",
+    "Top with sliced avocado and crumbled queso fresco.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "korean",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-festive-korean-greens-muchim--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:56:42.258Z"
+}
