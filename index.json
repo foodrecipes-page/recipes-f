@@ -1063,18 +1063,14 @@
   },
   {
     "slug": "fermented-adventurous-jamaican-khus-khus-belly-food",
-    "title": "Fermented Adventurous Jamaican Khus Khus Belly-Food",
+    "title": "Jamaican Jerk Belly",
     "tags": [
-      "dessert",
-      "fermented",
-      "gluten-free",
-      "high-protein",
       "jamaican",
-      "vegan",
-      "weeknight"
+      "belly",
+      "adventurous"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 90,
     "shard": "f"
   },
   {
@@ -24869,6 +24865,45 @@
       "greek-style"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-crispy-algerian-ham-tagine--japanese",
+    "title": "Crispy Algerian Chicken Tagine Bites",
+    "tags": [
+      "japanese",
+      "north-african",
+      "gluten-free",
+      "chicken"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-indian-lamb-curry--thai",
+    "title": "Thai Lamb Curry",
+    "tags": [
+      "thaifood",
+      "lambcurry",
+      "curry",
+      "thairecipes"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 110,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-thai-ginger-stir-fry--french",
+    "title": "French Ginger Stir-Fry",
+    "tags": [
+      "ginger",
+      "thai",
+      "french",
+      "stir-fry"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 18,
     "shard": "f"
   }
