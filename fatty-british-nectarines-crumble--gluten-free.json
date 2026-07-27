@@ -1,48 +1,57 @@
 {
   "slug": "fatty-british-nectarines-crumble--gluten-free",
   "title": "Nectarine Crumble",
-  "description": "A classic British dessert made with fresh nectarines and a crunchy crumble topping, perfect for a warm summer evening.",
-  "cuisine": "British",
+  "description": "A gluten-free dessert featuring nectarines and a crumble topping.",
+  "cuisine": "british",
   "diet": [
     "gluten-free"
   ],
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "Nectarines",
-      "amount": "4",
-      "notes": "Ripe and sliced"
+      "name": "nectarines",
+      "amount": "3",
+      "notes": "ripe"
     },
     {
-      "name": "Fatty",
-      "amount": "1/2 cup",
-      "notes": "Cold and cubed (butter)"
+      "name": "fatty",
+      "amount": "1/4 cup",
+      "notes": "cold"
     },
     {
-      "name": "British Filling Flour",
+      "name": "gluten-free oats",
       "amount": "1 cup",
-      "notes": "Gluten-free"
+      "notes": "rolled"
     },
     {
-      "name": "Oatmeal",
+      "name": "brown sugar",
       "amount": "1/2 cup",
-      "notes": "Gluten-free"
+      "notes": "firmly packed"
     },
     {
-      "name": "Brown Sugar",
+      "name": "almond flour",
+      "amount": "1/4 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine"
+    },
+    {
+      "name": "cold unsalted butter",
       "amount": "1/2 cup",
-      "notes": "Granulated"
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "In a large mixing bowl, combine sliced nectarines, granulated sugar, and a pinch of salt.",
-    "Transfer the nectarine mixture to a 9x9-inch baking dish.",
-    "In another bowl, combine cubed fatty (butter), gluten-free flour, and oatmeal.",
-    "Add brown sugar to the flour mixture and stir until crumbly.",
-    "Spread the crumble mixture evenly over the nectarine filling.",
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and slice the nectarines into a 9-inch baking dish.",
+    "In a separate bowl, combine the gluten-free oats, brown sugar, almond flour, and salt.",
+    "Add the cold unsalted butter to the dry ingredients and mix until crumbly.",
+    "Spread the crumble mixture evenly over the nectarines.",
     "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
-    "Let cool for 10 minutes before serving."
+    "Serve warm with a scoop of vanilla ice cream, if desired."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -50,19 +59,20 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "nectarine",
-    "crumble",
     "gluten-free",
-    "dessert"
+    "dessert",
+    "nectarines",
+    "crumble",
+    "british"
   ],
   "nutrition": {
     "calories": 320,
     "protein": 4,
-    "carbs": 45,
+    "carbs": 35,
     "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fatty-british-nectarines-crumble--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T10:59:45.846Z"
+  "createdAt": "2026-07-21T22:21:27.788Z"
 }
