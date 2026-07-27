@@ -2339,15 +2339,14 @@
   },
   {
     "slug": "fermented-flaky-treat-with-marshmallow-nests",
-    "title": "Fermented Flaky Treat with Marshmallow Nests",
+    "title": "Sweet Marshmallow Treats",
     "tags": [
-      "fermented-flaky-treat",
-      "marshmallow-nests",
-      "russian-dish",
-      "salty-flaky"
+      "sweet",
+      "marshmallow",
+      "treats"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "f"
   },
   {
@@ -25088,6 +25087,30 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-french-beef-boeuf-bourguignon--french",
+    "title": "French Beef Bourguignon",
+    "tags": [
+      "french",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 230,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-rich-french-mushroom-stew--gluten-free",
+    "title": "Creamy Mushroom Stew",
+    "tags": [
+      "gluten-free",
+      "comfort-food",
+      "mushroom"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
