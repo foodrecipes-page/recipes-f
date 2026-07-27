@@ -1,0 +1,81 @@
+{
+  "slug": "fermented-tender-bread-crumble--mexican",
+  "title": "Mexican Crumble Tacos",
+  "description": "A twist on traditional tacos, featuring a tender and crispy topping. Perfect for a quick and delicious meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender corn",
+      "amount": "1 cup",
+      "notes": "Frozen, thawed"
+    },
+    {
+      "name": "crumble cheese",
+      "amount": "1 cup",
+      "notes": "Mexican blend"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fermented salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together bread crumbs, crumble cheese, cumin, salt, and chili powder.",
+    "Add oil and lime juice to the bowl and mix until crumbly.",
+    "Heat a skillet over medium heat. Add fermented salsa and cook until warmed through.",
+    "Add tender corn to the skillet and cook for 2-3 minutes.",
+    "Spoon the corn mixture onto a baking dish.",
+    "Top with the bread crumb mixture and bake for 10-12 minutes, or until golden brown.",
+    "Serve hot with additional salsa and lime wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "corn",
+    "cheese",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-bread-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:26:44.375Z"
+}
