@@ -1,0 +1,63 @@
+{
+  "slug": "fresh-fragrant-dutch-feta-salad--japanese",
+  "title": "Japanese-Style Salad with Crispy Feta",
+  "description": "A simple and refreshing salad with a crispy feta topping, inspired by Japanese flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant salad",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dutch cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the fresh greens and fragrant salad.",
+    "2. Slice the Dutch cucumber into thin rounds and add to the bowl.",
+    "3. Crumble the feta cheese into small pieces and set aside.",
+    "4. In a small pan, heat 1 tablespoon of oil over medium heat.",
+    "5. Add the crumbled feta cheese to the pan and cook until crispy, about 2-3 minutes.",
+    "6. Remove the pan from the heat and let the feta cool slightly.",
+    "7. Sprinkle the crispy feta cheese over the salad and serve immediately.",
+    "8. Garnish with sesame seeds and a drizzle of soy sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salad",
+    "feta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fragrant-dutch-feta-salad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:43:41.297Z"
+}
