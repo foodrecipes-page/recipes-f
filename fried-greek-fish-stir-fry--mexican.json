@@ -1,0 +1,94 @@
+{
+  "slug": "fried-greek-fish-stir-fry--mexican",
+  "title": "Mexican Battered Fish Tacos",
+  "description": "Crispy fried fish in a Greek-style batter with a side of tangy slaw, served in a warm taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets ( Cod or Tilapia )",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "For batter"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For batter"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "For batter"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "For batter"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For batter"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "For tacos"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Greek salad mix",
+      "amount": "1 cup",
+      "notes": "For slaw"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together the flour, baking powder, and salt.",
+    "2. Add the Greek yogurt and mix until a smooth batter forms.",
+    "3. Add the egg and mix until well combined.",
+    "4. Dip each fish fillet into the batter, coating both sides evenly.",
+    "5. Heat the vegetable oil in a large skillet over medium-high heat.",
+    "6. Fry the battered fish for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "7. Meanwhile, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the tacos by placing a piece of fried fish onto a warmed tortilla, followed by a spoonful of Greek salad mix and a squeeze of lime juice.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish-tacos",
+    "fry",
+    "greek-style"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fried-greek-fish-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:36:49.707Z"
+}
