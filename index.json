@@ -378,14 +378,11 @@
   },
   {
     "slug": "fatty-bouncy-ethiopian-samphire-azifa",
-    "title": "Fatty Bouncy Ethiopian Samphire Azifa",
+    "title": "Bouncy Samphire Stir Fry with Ethiopian Spice",
     "tags": [
-      "ethiopian",
-      "gluten-free",
-      "one-pan",
-      "quick-meal",
       "stir-fry",
-      "vegetarian"
+      "vegetarian",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
@@ -25327,6 +25324,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-delicate-moroccan-msemen--mexican",
+    "title": "Delicate Moroccan Chicken Msemen",
+    "tags": [
+      "chicken",
+      "msemen",
+      "mexican",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-fermented-malaysian-beef-skewers--thai",
+    "title": "Thai Beef Satay Skewers",
+    "tags": [
+      "thai",
+      "beef",
+      "grilled",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 46,
     "shard": "f"
   }
 ]
