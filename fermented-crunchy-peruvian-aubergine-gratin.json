@@ -1,37 +1,33 @@
 {
   "slug": "fermented-crunchy-peruvian-aubergine-gratin",
-  "title": "Peruvian Aubergine Gratin",
-  "description": "A flavorful Peruvian dish featuring roasted aubergine, topped with a crunchy gratin. This recipe is perfect for a dinner or snack.",
-  "cuisine": "Peruvian",
+  "title": "Gratin Aubergine with Peruvian Crunch",
+  "description": "A flavorful vegetarian dish combining the richness of gratin with the crunch of peruvian corn. Aubergine is the star of the show in this easy-to-make recipe.",
+  "cuisine": "vegetarian",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "aubergine",
       "amount": "2 medium",
-      "notes": "any color"
+      "notes": ""
     },
     {
-      "name": "fermented corn (choclo)",
+      "name": "gratin",
       "amount": "1 cup",
-      "notes": "canned or fresh"
-    },
-    {
-      "name": "gruyère cheese",
-      "amount": "1 cup shredded",
-      "notes": "or other hard cheese"
-    },
-    {
-      "name": "crunchy plantain chips",
-      "amount": "1/2 cup",
       "notes": "store-bought or homemade"
     },
     {
-      "name": "olive oil",
-      "amount": "2 tbsp",
-      "notes": "for brushing"
+      "name": "peruvian corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
     },
     {
       "name": "garlic",
@@ -39,56 +35,52 @@
       "notes": "minced"
     },
     {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
       "name": "salt",
-      "amount": "1 tsp",
-      "notes": "to taste"
+      "amount": "to taste",
+      "notes": ""
     },
     {
       "name": "black pepper",
-      "amount": "1/2 tsp",
-      "notes": "to taste"
-    },
-    {
-      "name": "fresh cilantro",
-      "amount": "1/4 cup",
-      "notes": "chopped"
-    },
-    {
-      "name": "lemon juice",
-      "amount": "1 tbsp",
-      "notes": "fresh or bottled"
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Cut aubergine into 1-inch slices and place on a baking sheet. Drizzle with olive oil and sprinkle with salt, black pepper, and minced garlic.",
-    "Roast aubergine slices in the oven for 20-25 minutes, flipping halfway through.",
-    "In a separate pan, toast the crunchy plantain chips over medium heat for 2-3 minutes, until crispy.",
-    "In a greased 8x8-inch baking dish, arrange roasted aubergine slices in a single layer.",
-    "Sprinkle shredded cheese over the aubergine, followed by toasted plantain chips.",
-    "Bake the gratin in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly.",
-    "Remove the gratin from the oven and sprinkle with chopped cilantro and a squeeze of lemon juice.",
-    "Serve warm, garnished with additional cilantro if desired."
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the aubergine into 1/2-inch thick rounds.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Sauté the chopped onion and minced garlic until softened.",
+    "Add the sliced aubergine to the skillet and cook for 3-4 minutes per side.",
+    "Transfer the cooked aubergine to a baking dish.",
+    "Spread the gratin over the aubergine.",
+    "Top with peruvian corn.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes or until the gratin is golden brown.",
+    "Serve warm."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 35,
-  "totalTimeMin": 50,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "peruvian",
-    "aubergine",
-    "gratin",
-    "vegetarian"
+    "vegetarian",
+    "gluten-free",
+    "easy"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 15,
-    "carbs": 20,
-    "fat": 16
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-peruvian-aubergine-gratin",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T14:28:25.775Z"
+  "createdAt": "2026-07-22T21:15:21.730Z"
 }
