@@ -1,0 +1,63 @@
+{
+  "slug": "flourpot-pickle-delight--chinese",
+  "title": "Delightful Chinese Pancakes",
+  "description": "A simple yet delightful Chinese recipe using flourpot, pickle, and delight ingredients. Perfect for a quick snack or light meal.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flourpot",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Delight",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Mix together flourpot and salt in a large bowl.",
+    "Gradually add in water to form a dough.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Rest the dough for 30 minutes.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush the surface with delight.",
+    "Sprinkle chopped pickle over the delight.",
+    "Fold the dough in half to form a half-moon shape.",
+    "Cook in a non-stick pan over medium heat for 2-3 minutes on each side, until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flourpot-pickle-delight--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:51:43.017Z"
+}
