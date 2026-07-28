@@ -3797,17 +3797,16 @@
   },
   {
     "slug": "fermented-syrian-salmon-crumble",
-    "title": "Fermented Syrian Salmon Crumble",
+    "title": "Fermented Salmon Crumble",
     "tags": [
+      "salmon",
       "fermented",
-      "pescatarian",
-      "kid-friendly",
-      "syrian",
-      "crumble-topping",
-      "dinner"
+      "crumble",
+      "seafood",
+      "healthy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "f"
   },
   {
@@ -25314,6 +25313,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-irish-baguette-sandwich--mexican",
+    "title": "Mexican Irish Sandwich",
+    "tags": [
+      "mexican",
+      "irish",
+      "sandwich",
+      "chicken",
+      "avocado"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
