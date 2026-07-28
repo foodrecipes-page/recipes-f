@@ -1,0 +1,78 @@
+{
+  "slug": "fermented-kimchi-stir-fry--gluten-free",
+  "title": "Spicy Kimchi Stir Fry",
+  "description": "A quick and easy gluten-free stir fry with spicy kimchi and a variety of vegetables.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced pork",
+      "amount": "1/2 pound",
+      "notes": "thin slices"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped kimchi to the skillet and cook for 1-2 minutes.",
+    "Add the bean sprouts, scallions, and cooked pork back into the skillet.",
+    "Stir in the soy sauce and cook for an additional 1-2 minutes.",
+    "Serve the kimchi stir fry over the cooked rice.",
+    "Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "spicy",
+    "gluten-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-kimchi-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:25:49.029Z"
+}
