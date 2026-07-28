@@ -1,0 +1,80 @@
+{
+  "slug": "freshly-delicate-moroccan-msemen--mexican",
+  "title": "Delicate Moroccan Chicken Msemen",
+  "description": "A flavorful Mexican-inspired msemen filled with chicken, spices, and fresh herbs.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "msemen dough",
+      "amount": "1 package (homemade or store-bought)",
+      "notes": "delicate, moroccan-style"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare msemen dough according to package instructions.",
+    "In a small bowl, mix together cumin, paprika, and salt.",
+    "Season chicken breast with the spice mixture and cook in a skillet over medium-high heat until browned, about 5 minutes.",
+    "Transfer chicken to a baking sheet and bake for 15-20 minutes, or until cooked through.",
+    "Meanwhile, roll out msemen dough to a thickness of about 1/8 inch.",
+    "Place a piece of chicken in the center of each msemen round, followed by a sprinkle of cilantro and a squeeze of lime juice.",
+    "Fold msemen dough over the filling and press edges together to seal.",
+    "Cook msemen in a dry skillet over medium heat for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "msemen",
+    "mexican",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-delicate-moroccan-msemen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:17:35.738Z"
+}
