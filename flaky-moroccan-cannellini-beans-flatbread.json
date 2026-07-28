@@ -1,0 +1,95 @@
+{
+  "slug": "flaky-moroccan-cannellini-beans-flatbread",
+  "title": "Moroccan Bean Stew",
+  "description": "A hearty and flavorful stew originating from North Africa, made with cannellini beans, Moroccan spices, and flaky flatbread for a side.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cannellini Beans",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Flatbread",
+      "amount": "4-6 inch pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the Moroccan spice blend and cook for 1 minute.",
+    "Add the cannellini beans, diced tomatoes, vegetable broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Serve the stew with flaky flatbread on the side.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "beans",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-moroccan-cannellini-beans-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:22:04.184Z"
+}
