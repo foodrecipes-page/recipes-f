@@ -1,0 +1,70 @@
+{
+  "slug": "fermented-tender-bread-crumble--italian",
+  "title": "Italian Crumble Bread",
+  "description": "A traditional Italian dessert with a crumbly topping and a soft bread base.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup fermented milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1 cup bread flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup crumble topping",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, whisk together the fermented milk and sugar.",
+    "Add the melted butter and mix until well combined.",
+    "Gradually add the bread flour and mix until a dough forms.",
+    "Transfer the dough to a greased 8-inch round baking dish.",
+    "In a separate bowl, mix the crumble topping ingredients.",
+    "Evenly spread the crumble topping over the bread dough.",
+    "Bake for 35-40 minutes, or until the crumble topping is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "bread",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-bread-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:45:12.325Z"
+}
