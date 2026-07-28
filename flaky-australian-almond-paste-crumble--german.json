@@ -1,0 +1,83 @@
+{
+  "slug": "flaky-australian-almond-paste-crumble--german",
+  "title": "German Apple Strudel Crumble",
+  "description": "A twist on the classic German dessert, adding a crunchy almond crumble topping.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "australian flaky pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup",
+      "notes": "make sure to soften the almond paste before using"
+    },
+    {
+      "name": "sliced apples",
+      "amount": "2 cups",
+      "notes": "any variety of apple, peeled and sliced"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "almond crumble topping",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Australian flaky pastry to a large rectangle.",
+    "In a bowl, mix together the almond paste, sliced apples, granulated sugar, flour, cinnamon, and nutmeg.",
+    "Arrange the apple mixture on one half of the pastry rectangle.",
+    "Fold the other half of the pastry over the apple mixture and press edges to seal.",
+    "Crumble the almond crumble topping over the pastry.",
+    "Dot the top with melted unsalted butter.",
+    "Bake for 35-40 minutes, or until golden brown.",
+    "Serve warm, topped with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "strudel",
+    "apple",
+    "crumble",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-australian-almond-paste-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:55:16.244Z"
+}
