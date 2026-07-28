@@ -1,0 +1,90 @@
+{
+  "slug": "fresh-fermented-malaysian-beef-skewers--thai",
+  "title": "Thai Beef Satay Skewers",
+  "description": "A classic Thai dish featuring marinated beef skewers grilled to perfection. Serve with a side of peanut sauce for dipping.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef sirloin tips",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "for peanut sauce"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Soak 10 bamboo skewers in water for 30 minutes.",
+    "2. In a blender or food processor, combine coconut milk, fish sauce, palm sugar, lemon juice, and garlic. Blend until smooth.",
+    "3. Add the beef sirloin tips to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated beef onto the skewers, leaving a small space between each piece.",
+    "6. Brush the skewers with vegetable oil and season with salt.",
+    "7. Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "8. Meanwhile, make the peanut sauce by blending together toasted peanuts, 1/4 cup of coconut milk, and 2 tbsp of fish sauce.",
+    "9. Serve the grilled beef skewers with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 16,
+  "totalTimeMin": 46,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "grilled",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fermented-malaysian-beef-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:49:49.317Z"
+}
