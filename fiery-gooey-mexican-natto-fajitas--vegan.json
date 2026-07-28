@@ -1,0 +1,84 @@
+{
+  "slug": "fiery-gooey-mexican-natto-fajitas--vegan",
+  "title": "Spicy Vegan Fajita Stew",
+  "description": "A flavorful and spicy stew made with the bold flavors of fajitas, all vegan and perfect for a quick dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fajita seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fiery Mexican peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Natto",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2-3 minutes.",
+    "Add the sliced fiery Mexican peppers and cook for 1 minute.",
+    "Add the fajita seasoning and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes, natto, and vegetable broth. Stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and cook for 10-15 minutes, or until the stew has thickened slightly.",
+    "Stir in the freshly squeezed lime juice.",
+    "Serve hot, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mexican",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fiery-gooey-mexican-natto-fajitas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:13:54.154Z"
+}
