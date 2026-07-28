@@ -1,0 +1,60 @@
+{
+  "slug": "fresh-syrian-chickpeas-flatbread--chinese",
+  "title": "Syrian Chicken Flatbread",
+  "description": "A fusion of Chinese and Syrian flavors in this delicious flatbread recipe. The combination of savory chicken and spices creates a unique taste experience.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "syrian flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and your favorite Chinese spices.",
+    "Bake the chicken in the oven for 15-20 minutes or until cooked through.",
+    "Meanwhile, warm the Syrian flatbread in the oven for 2-3 minutes.",
+    "In a pan, sauté the chickpeas with some oil and your favorite spices until crispy.",
+    "Top the flatbread with the chicken, chickpeas, and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "syrian",
+    "flatbread",
+    "chicken",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-syrian-chickpeas-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:46:18.880Z"
+}
