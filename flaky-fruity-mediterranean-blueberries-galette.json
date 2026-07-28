@@ -1,0 +1,68 @@
+{
+  "slug": "flaky-fruity-mediterranean-blueberries-galette",
+  "title": "Blueberry Galette",
+  "description": "A delicious dessert made with fresh blueberries and a flaky crust, perfect for warm weather.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "cold, cut into small pieces"
+    },
+    {
+      "name": "blueberries",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour and confectioners' sugar. Add cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Turn the mixture out onto a lightly floured surface and gently knead a few times until it comes together in a shaggy dough.",
+    "Roll out the dough to a thickness of about 1/8 inch. Transfer to a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, mix blueberries and granulated sugar. Pour the mixture onto the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the crust with a little milk or beaten egg for a golden glaze.",
+    "Bake for 40-50 minutes, or until the crust is golden brown and the filling is bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "blueberries",
+    "galette",
+    "dessert",
+    "warm-weather"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fruity-mediterranean-blueberries-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:36:12.283Z"
+}
