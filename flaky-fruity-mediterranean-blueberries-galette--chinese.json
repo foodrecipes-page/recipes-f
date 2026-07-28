@@ -1,0 +1,82 @@
+{
+  "slug": "flaky-fruity-mediterranean-blueberries-galette--chinese",
+  "title": "Blueberry Galette of Shanghai",
+  "description": "A fusion of Chinese pastry-making with Western fruit desserts, this sweet treat combines the delicate flaky crust with the tangy sweetness of fresh blueberries.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh Blueberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "In a bowl, mix together the blueberries, granulated sugar, and cornstarch.",
+    "Pour the blueberry mixture onto one half of the pastry dough, leaving a 1-inch border.",
+    "Fold the other half of the pastry dough over the filling, pressing the edges to seal.",
+    "Brush the pastry with the melted butter and beaten egg.",
+    "Sprinkle with confectioners' sugar and vanilla extract.",
+    "Bake for 40-45 minutes, or until the pastry is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "shanghai",
+    "blueberries",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fruity-mediterranean-blueberries-galette--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:49:42.394Z"
+}
