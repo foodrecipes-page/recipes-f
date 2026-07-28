@@ -1,0 +1,79 @@
+{
+  "slug": "fresh-gooey-comforting-tunisian-cornmeal-pastry--vegetarian",
+  "title": "Tunisian Corn Fritters",
+  "description": "A crispy and comforting vegetarian snack inspired by Tunisian cuisine, made with cornmeal and gooey cheese.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "pastry",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "cheese, gooey",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a handful, chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "a handful, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the pastry into small squares and set aside.",
+    "In a large bowl, whisk together cornmeal, eggs, milk, and a pinch of salt.",
+    "Add the shredded cheese and mix until well combined.",
+    "Add the chopped parsley and cilantro to the bowl and mix until just combined.",
+    "Roll out the pastry squares and brush with a little milk.",
+    "Spoon a small amount of the cornmeal mixture onto each pastry square.",
+    "Fold the pastry squares in half to form triangles and press the edges to seal.",
+    "Place the fritters on a baking sheet lined with parchment paper.",
+    "Brush the tops of the fritters with a little milk and sprinkle with a pinch of salt.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "vegetarian",
+    "snack",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-gooey-comforting-tunisian-cornmeal-pastry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:49:56.778Z"
+}
