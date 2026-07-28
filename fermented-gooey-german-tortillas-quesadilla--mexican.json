@@ -1,0 +1,69 @@
+{
+  "slug": "fermented-gooey-german-tortillas-quesadilla--mexican",
+  "title": "German-Style Quesadilla",
+  "description": "A twist on traditional Mexican quesadillas, this recipe combines the flavors of Germany with the comfort of a cheesy tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german tortillas (or regular tortillas)",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "queso fresco or mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "gooey honey mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add 1/4 cup of fermented sauerkraut on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes or until the other side is crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadilla into wedges and serve with a side of gooey honey mustard for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-german",
+    "quesadilla",
+    "sauerkraut",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-gooey-german-tortillas-quesadilla--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:51:42.935Z"
+}
