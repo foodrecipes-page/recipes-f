@@ -1,0 +1,74 @@
+{
+  "slug": "fermented-kimchi-stir-fry",
+  "title": "Spicy Kimchi Stir Fry",
+  "description": "A quick and flavorful stir fry made with fermented kimchi and your favorite protein. Serve with rice or noodles for a satisfying meal.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Protein (chicken, beef, or tofu)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Stir fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the protein and cook until browned, about 3-4 minutes.",
+    "Add the kimchi, stir fry sauce, ginger, and garlic. Cook for 2-3 minutes, stirring constantly.",
+    "Add the soy sauce and sesame oil. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with scallions."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-kimchi-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:33:58.580Z"
+}
