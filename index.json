@@ -25195,5 +25195,58 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "f"
+  },
+  {
+    "slug": "fermented-gooey-german-tortillas-quesadilla--mexican",
+    "title": "German-Style Quesadilla",
+    "tags": [
+      "mexican-german",
+      "quesadilla",
+      "sauerkraut",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "floral-chewy-venezuelan-chicken-bowl--vegan",
+    "title": "Venezuelan-Style Bowl with Floral Chia Seeds",
+    "tags": [
+      "vegan",
+      "latin-american",
+      "quinoa",
+      "black-beans",
+      "sweet-potato",
+      "chia-seeds"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-dense-jamaican-coconut-stew--thai",
+    "title": "Thai Coconut Stew",
+    "tags": [
+      "coconut",
+      "stew",
+      "thaifood",
+      "comfortfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fizzy-lebanese-butter-beans-tagine--vegetarian",
+    "title": "Vegetarian Tagine Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
+    "shard": "f"
   }
 ]
