@@ -1,0 +1,86 @@
+{
+  "slug": "fluffy-indulgent-vietnamese-jasmine-rice-mi-quang",
+  "title": "Vietnamese Jasmine Rice Bowl",
+  "description": "A simple and flavorful rice bowl dish inspired by Vietnamese cuisine, featuring jasmine rice, grilled mi, and a variety of toppings.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mi (or rice noodles)",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Indulgent sauce (e.g. hoisin, teriyaki)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fluffy chicken",
+      "amount": "1 pound",
+      "notes": "grilled or sautéed"
+    },
+    {
+      "name": "Vietnamese cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook jasmine rice according to package instructions.",
+    "Grill or sauté mi according to preference.",
+    "In a small bowl, whisk together indulgent sauce and 1 tablespoon vegetable oil.",
+    "Add fluffy chicken to the bowl and toss to coat with sauce.",
+    "Heat remaining 1 tablespoon vegetable oil in a pan over medium heat.",
+    "Add cooked mi to the pan and stir-fry for 2-3 minutes.",
+    "Add cooked chicken, salt, and pepper to the pan, and stir-fry for an additional 2 minutes.",
+    "Serve mi and chicken mixture over cooked jasmine rice.",
+    "Garnish with Vietnamese cilantro, sliced scallions (if using), and a lime wedge."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "rice",
+    "noodle",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-indulgent-vietnamese-jasmine-rice-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:26:39.861Z"
+}
