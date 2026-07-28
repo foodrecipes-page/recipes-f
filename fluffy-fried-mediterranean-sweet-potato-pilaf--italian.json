@@ -1,0 +1,72 @@
+{
+  "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf--italian",
+  "title": "Italian Fried Potato Pilaf",
+  "description": "A crispy Italian-style pilaf made with fried potatoes, fluffy rice, and mediterranean spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "fried onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add diced sweet potato and cook for 5 minutes, or until slightly tender.",
+    "Add fluffy rice and cook for 2 minutes, stirring constantly.",
+    "Add fried onions, pilaf, and mediterranean seasoning. Stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the rice is lightly toasted.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with additional fried onions and a sprinkle of parmesan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pilaf",
+    "sweet-potato",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-fried-mediterranean-sweet-potato-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:54:40.599Z"
+}
