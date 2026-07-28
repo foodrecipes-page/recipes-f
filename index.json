@@ -2014,15 +2014,14 @@
   },
   {
     "slug": "fermented-crunchy-peruvian-aubergine-gratin",
-    "title": "Peruvian Aubergine Gratin",
+    "title": "Gratin Aubergine with Peruvian Crunch",
     "tags": [
-      "peruvian",
-      "aubergine",
-      "gratin",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free",
+      "easy"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -25350,6 +25349,57 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 46,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-fermented-malaysian-beef-skewers--mexican",
+    "title": "Grilled Beef Skewers with Malaysian Chilli Sauce",
+    "tags": [
+      "mexican",
+      "beef",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-tender-bread-crumble--italian",
+    "title": "Italian Crumble Bread",
+    "tags": [
+      "italian",
+      "dessert",
+      "bread",
+      "crumble"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "f"
+  },
+  {
+    "slug": "flourpot-pickle-delight--chinese",
+    "title": "Delightful Chinese Pancakes",
+    "tags": [
+      "chinese",
+      "snack",
+      "pancake"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "f"
+  },
+  {
+    "slug": "flourpot-pickle-delight--italian",
+    "title": "Italian-Style Pickle Fritters",
+    "tags": [
+      "italian",
+      "snack",
+      "fritters",
+      "pickle"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "f"
   }
 ]
