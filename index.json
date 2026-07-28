@@ -25274,5 +25274,46 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "f"
+  },
+  {
+    "slug": "fluffy-fried-mediterranean-sweet-potato-pilaf--italian",
+    "title": "Italian Fried Potato Pilaf",
+    "tags": [
+      "italian",
+      "pilaf",
+      "sweet-potato",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-fruity-mediterranean-blueberries-galette--chinese",
+    "title": "Blueberry Galette of Shanghai",
+    "tags": [
+      "chinese",
+      "shanghai",
+      "blueberries",
+      "pastry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 60,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-australian-almond-paste-crumble--german",
+    "title": "German Apple Strudel Crumble",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel",
+      "apple",
+      "crumble",
+      "almond"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "f"
   }
 ]
