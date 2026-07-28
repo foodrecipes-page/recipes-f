@@ -1,0 +1,81 @@
+{
+  "slug": "flaky-fiery-algerian-skirt-steak-kebabs--japanese",
+  "title": "Japanese Skirt Steak Kebabs",
+  "description": "A simple and flavorful Japanese-inspired dish featuring marinated skirt steak kebabs grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "500g",
+      "notes": "1.5-2 pounds, preferably wagyu"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Algerian olive oil",
+      "amount": "1/4 cup",
+      "notes": "or other neutral-tasting oil"
+    },
+    {
+      "name": "Minced ginger",
+      "amount": "2 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fire-roasted sesame seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, sugar, black pepper, and minced ginger.",
+    "2. Add the skirt steak to the marinade, turning to coat evenly. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat. Thread the marinated skirt steak onto skewers, leaving a small space between each piece.",
+    "4. Brush the grill with flaky sea salt and Algerian olive oil to prevent sticking.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until they reach your desired level of doneness.",
+    "6. Transfer the kebabs to a plate and sprinkle with fire-roasted sesame seeds.",
+    "7. Serve immediately, garnished with sliced green onions and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skirt steak",
+    "kebabs",
+    "japanese",
+    "marinade"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fiery-algerian-skirt-steak-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:40:46.206Z"
+}
