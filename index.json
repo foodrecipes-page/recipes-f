@@ -25143,5 +25143,32 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-fiery-algerian-skirt-steak-kebabs--japanese",
+    "title": "Japanese Skirt Steak Kebabs",
+    "tags": [
+      "grilled",
+      "skirt steak",
+      "kebabs",
+      "japanese",
+      "marinade"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 36,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-kimchi-stir-fry--gluten-free",
+    "title": "Spicy Kimchi Stir Fry",
+    "tags": [
+      "korean",
+      "spicy",
+      "gluten-free",
+      "stir-fry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 17,
+    "shard": "f"
   }
 ]
