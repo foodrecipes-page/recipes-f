@@ -7098,17 +7098,15 @@
   },
   {
     "slug": "flaky-fruity-mediterranean-blueberries-galette",
-    "title": "Flaky Fruity Mediterranean Blueberries Galette",
+    "title": "Blueberry Galette",
     "tags": [
-      "breakfast",
-      "easy",
-      "flaky",
-      "fruit",
-      "mediterranean",
-      "paleo-friendly"
+      "blueberries",
+      "galette",
+      "dessert",
+      "warm-weather"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 55,
     "shard": "f"
   },
   {
@@ -25169,6 +25167,33 @@
     ],
     "cuisine": null,
     "totalTimeMin": 17,
+    "shard": "f"
+  },
+  {
+    "slug": "fragrant-herbal-middle-eastern-pasta--mexican",
+    "title": "Herbal Chicken Fajitas",
+    "tags": [
+      "chicken",
+      "mexican",
+      "fajitas",
+      "one-pot"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fresh-syrian-chickpeas-flatbread--chinese",
+    "title": "Syrian Chicken Flatbread",
+    "tags": [
+      "chinese",
+      "syrian",
+      "flatbread",
+      "chicken",
+      "chickpeas"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "f"
   }
 ]
