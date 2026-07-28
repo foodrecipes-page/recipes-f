@@ -1,0 +1,73 @@
+{
+  "slug": "funky-mediterranean-chickpea-muffins--keto",
+  "title": "Keto Mediterranean Chickpea Fritters",
+  "description": "A keto spin on traditional fritters, using chickpea flour and flavorful Mediterranean ingredients. Perfect as a snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "muffin mix",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine chickpea flour, feta cheese, muffin mix, olive oil, garlic powder, and dried oregano. Mix well.",
+    "Add chopped parsley and mix until combined.",
+    "Using a 1/4 cup measuring cup, scoop mixture into balls and flatten slightly.",
+    "Place fritters on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/funky-mediterranean-chickpea-muffins--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:34:41.073Z"
+}
