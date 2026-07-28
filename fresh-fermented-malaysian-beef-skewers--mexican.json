@@ -1,0 +1,98 @@
+{
+  "slug": "fresh-fermented-malaysian-beef-skewers--mexican",
+  "title": "Grilled Beef Skewers with Malaysian Chilli Sauce",
+  "description": "A fusion of Mexican and Malaysian flavors, these grilled beef skewers are served with a spicy and sweet chilli sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Fresh pineapple",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Malaysian chilli sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, pineapple, onion, and red bell pepper onto skewers.",
+    "In a small bowl, whisk together chilli sauce, lime juice, and garlic.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush with chilli sauce during the last 2 minutes of grilling.",
+    "Serve skewers hot with additional chilli sauce on the side.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-fermented-malaysian-beef-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:35:36.852Z"
+}
