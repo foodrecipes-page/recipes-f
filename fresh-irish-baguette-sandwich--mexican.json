@@ -1,0 +1,94 @@
+{
+  "slug": "fresh-irish-baguette-sandwich--mexican",
+  "title": "Mexican Irish Sandwich",
+  "description": "A fusion twist on the classic sandwich, blending Irish and Mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Baguette",
+      "amount": "1",
+      "notes": "preferably toasted"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mexican Cheese Blend",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "amount": "1",
+      "notes": "cooked to 165°F (74°C)"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "Sliced Tomato",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Sliced Jalapeño",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Guacamole",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Mexican Crema",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the chicken breast for 5-6 minutes per side, or until it reaches 165°F (74°C).",
+    "Meanwhile, toast the Irish Baguette.",
+    "Spread the Guacamole on the bottom slice of the baguette.",
+    "Add sliced chicken breast, Avocado, Tomato, Jalapeño, and Mexican Cheese Blend on top of the Guacamole.",
+    "Drizzle with Mexican Crema and Salsa.",
+    "Top with the other slice of the toasted baguette.",
+    "Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "irish",
+    "sandwich",
+    "chicken",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fresh-irish-baguette-sandwich--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:41:00.263Z"
+}
