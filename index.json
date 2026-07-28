@@ -25248,5 +25248,31 @@
     "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "f"
+  },
+  {
+    "slug": "fresh-gooey-comforting-tunisian-cornmeal-pastry--vegetarian",
+    "title": "Tunisian Corn Fritters",
+    "tags": [
+      "comforting",
+      "vegetarian",
+      "snack",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fiery-gooey-mexican-natto-fajitas--vegan",
+    "title": "Spicy Vegan Fajita Stew",
+    "tags": [
+      "vegan",
+      "mexican",
+      "stew",
+      "spicy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "f"
   }
 ]
