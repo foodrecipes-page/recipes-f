@@ -1,0 +1,66 @@
+{
+  "slug": "fermented-tender-bread-crumble--french",
+  "title": "French Crumble Crostini",
+  "description": "A simple French appetizer featuring toasted bread topped with a mixture of crumbled cheese and caramelized onions.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "brioche bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the brioche bread into 1/2-inch thick rounds and toast until lightly browned.",
+    "In a pan over medium heat, caramelize the sliced onions with butter until golden brown.",
+    "In a separate bowl, mix together the crumbled Gruyère cheese and flour.",
+    "To assemble the crostini, place a toasted bread round on a baking sheet and top with a spoonful of caramelized onions and a sprinkle of cheese mixture.",
+    "Bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "finger-food",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-tender-bread-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:51:12.324Z"
+}
