@@ -24883,15 +24883,16 @@
   },
   {
     "slug": "floral-thai-ginger-stir-fry--french",
-    "title": "French Ginger Stir-Fry",
+    "title": "Pan-Seared Duck Breast with Thai Stir Fry Sauce",
     "tags": [
-      "ginger",
+      "pan-seared",
+      "duck",
       "thai",
-      "french",
-      "stir-fry"
+      "stir-fry",
+      "sauce"
     ],
     "cuisine": "french",
-    "totalTimeMin": 18,
+    "totalTimeMin": 40,
     "shard": "f"
   },
   {
@@ -25531,6 +25532,46 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "f"
+  },
+  {
+    "slug": "flaky-indian-foie-gras-kebabs--italian",
+    "title": "Grilled Flaky Fish with Indian-Style Spices",
+    "tags": [
+      "italian",
+      "indian",
+      "grilled",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "f"
+  },
+  {
+    "slug": "flavorful-roasted-turkish-prawns-revani--vegetarian",
+    "title": "Turkish Revani Prawns Stuffed with Flavorful Spices",
+    "tags": [
+      "turkish",
+      "dessert",
+      "prawns",
+      "revani",
+      "flavorful",
+      "spices"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "f"
+  },
+  {
+    "slug": "fermented-tender-bread-crumble--french",
+    "title": "French Crumble Crostini",
+    "tags": [
+      "french",
+      "finger-food",
+      "appetizer"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
     "shard": "f"
   }
 ]
