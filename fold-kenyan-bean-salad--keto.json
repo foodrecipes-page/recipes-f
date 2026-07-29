@@ -1,0 +1,56 @@
+{
+  "slug": "fold-kenyan-bean-salad--keto",
+  "title": "Kenyan Keto Folded Bean Salad",
+  "description": "A simple and flavorful salad made with folded beans, Kenyan spices, and a hint of crunch. Perfect for a keto diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Folded Beans",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens Salad",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the folded beans and drain well.",
+    "2. In a small bowl, mix together Kenyan spice blend and a pinch of salt.",
+    "3. Add the spice blend mixture to the folded beans and toss to coat.",
+    "4. In a separate bowl, combine the mixed greens salad and a squeeze of fresh lemon juice.",
+    "5. Add the folded beans to the salad and toss to combine.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "salad",
+    "snack",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fold-kenyan-bean-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:37:36.453Z"
+}
