@@ -25401,5 +25401,30 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-fudgy-norwegian-potato-gratin--indian",
+    "title": "Norwegian Potato Gratin",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "potato-gratin",
+      "norwegian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 80,
+    "shard": "f"
+  },
+  {
+    "slug": "festive-tangy-soy-tofu-stir-fry--german",
+    "title": "Tangy Tofu Stir Fry",
+    "tags": [
+      "german",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "f"
   }
 ]
