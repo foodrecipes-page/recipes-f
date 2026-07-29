@@ -1,0 +1,84 @@
+{
+  "slug": "flavorful-roasted-turkish-prawns-revani--vegetarian",
+  "title": "Turkish Revani Prawns Stuffed with Flavorful Spices",
+  "description": "A twist on traditional Turkish dessert, Revani. This recipe combines succulent prawns with the warm flavors of roasted spices and a hint of sweetness.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "revani",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flavorful spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a medium bowl, mix together flavorful spices, cumin, and paprika.",
+    "3. Add chopped onion and minced garlic to the bowl and mix well.",
+    "4. Stuff each prawn with the spice mixture, dividing it evenly.",
+    "5. Heat olive oil in a large skillet over medium heat.",
+    "6. Add stuffed prawns to the skillet and cook until pink, about 2-3 minutes per side.",
+    "7. Transfer prawns to a baking dish and bake for 8-10 minutes.",
+    "8. Meanwhile, crumble revani into small pieces.",
+    "9. Remove prawns from the oven and top each with crumbled revani.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "prawns",
+    "revani",
+    "flavorful",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-roasted-turkish-prawns-revani--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:39:42.747Z"
+}
