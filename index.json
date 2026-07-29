@@ -25467,5 +25467,32 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "f"
+  },
+  {
+    "slug": "flaky-fiery-korean-fish-sujebi--japanese",
+    "title": "Spicy Korean-Style Fish Sujebi",
+    "tags": [
+      "korean",
+      "japanese",
+      "spicy",
+      "fish"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "f"
+  },
+  {
+    "slug": "fluffy-nutty-thai-coconut-khanom-krok--vegan",
+    "title": "Thai Coconut Khanom Krok",
+    "tags": [
+      "vegan",
+      "dessert",
+      "thai",
+      "coconut",
+      "khanom-krok"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "f"
   }
 ]
