@@ -1,0 +1,75 @@
+{
+  "slug": "fluffy-nutty-thai-coconut-khanom-krok--vegan",
+  "title": "Thai Coconut Khanom Krok",
+  "description": "A creamy and fragrant dessert inspired by traditional Thai street food, made with coconut milk, khanom krok flour, and a touch of sweetness.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "khanom krok flour",
+      "amount": "1 cup",
+      "notes": "gluten-free, vegan flour blend"
+    },
+    {
+      "name": "nutty sugar",
+      "amount": "1/4 cup",
+      "notes": "vegan sugar alternative"
+    },
+    {
+      "name": "fluffy coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted coconut oil"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup",
+      "notes": "chilled coconut cream"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": "vegan vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or khanom krok mold over medium heat.",
+    "In a separate bowl, whisk together coconut milk, khanom krok flour, nutty sugar, and vanilla extract.",
+    "Add the melted coconut oil to the bowl and whisk until smooth.",
+    "Pour the mixture into the preheated pan or khanom krok mold.",
+    "Cook for 2-3 minutes or until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges towards the center.",
+    "Continue cooking for another 2-3 minutes or until the khanom krok is lightly golden brown.",
+    "Remove from heat and let cool for a few minutes.",
+    "Serve warm with a dollop of coconut cream and a sprinkle of khanom krok flour."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "thai",
+    "coconut",
+    "khanom-krok"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 23
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fluffy-nutty-thai-coconut-khanom-krok--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:50:34.736Z"
+}
