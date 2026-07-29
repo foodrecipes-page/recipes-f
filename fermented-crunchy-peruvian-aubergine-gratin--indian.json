@@ -1,0 +1,88 @@
+{
+  "slug": "fermented-crunchy-peruvian-aubergine-gratin--indian",
+  "title": "Peruvian-Style Aubergine Gratin",
+  "description": "A twist on the classic Indian dish with the addition of Peruvian flavors, featuring aubergine as the main ingredient. This recipe combines the richness of gratin with the crunch of fermented elements.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Peruvian fermented corn",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together ghee, garam masala, cumin powder, and salt. Add sliced aubergine and toss to coat.",
+    "Transfer the aubergine to a baking dish and set aside.",
+    "In a separate bowl, mix together Peruvian fermented corn, crunchy peanuts, and gratin cheese.",
+    "Pour the warm chicken broth over the aubergine in the baking dish.",
+    "Top the aubergine with the corn-peanut-cheese mixture.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the aubergine is tender.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "peruvian",
+    "gratin",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/fermented-crunchy-peruvian-aubergine-gratin--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:15:58.789Z"
+}
