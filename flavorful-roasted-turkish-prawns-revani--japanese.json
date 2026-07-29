@@ -1,0 +1,86 @@
+{
+  "slug": "flavorful-roasted-turkish-prawns-revani--japanese",
+  "title": "Turkish Prawn Revani Sushi Rolls",
+  "description": "A unique fusion of Japanese sushi and Turkish flavors, featuring pan-seared prawns, crunchy revani crumbs, and a hint of roasted spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Japanese mochigome"
+    },
+    {
+      "name": "Prawns (shrimp)",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Revani crumbs",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flavorful roasted sesame oil",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Turkish-style sumac",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sushi nori (seaweed sheets)",
+      "amount": "12-15 sheets",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions.",
+    "Cut the prawns in half lengthwise and season with sumac, if using.",
+    "Pan-sear the prawns in sesame oil until cooked through, about 3-4 minutes per side.",
+    "Prepare the revani crumbs by crushing them in a food processor or placing them in a plastic bag and crushing with a rolling pin.",
+    "Cut the nori sheets into desired sizes for the sushi rolls.",
+    "Assemble the sushi rolls with the cooked prawns, cucumber, avocado, and a small amount of sushi rice.",
+    "Roll into tight, compact cylinders and slice into individual pieces.",
+    "Dust the tops with revani crumbs and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "turkish",
+    "seafood",
+    "fusion",
+    "sushi",
+    "revani"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flavorful-roasted-turkish-prawns-revani--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:20:13.648Z"
+}
