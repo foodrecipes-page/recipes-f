@@ -25426,5 +25426,33 @@
     "cuisine": "german",
     "totalTimeMin": 15,
     "shard": "f"
+  },
+  {
+    "slug": "flavorful-roasted-turkish-prawns-revani--japanese",
+    "title": "Turkish Prawn Revani Sushi Rolls",
+    "tags": [
+      "japanese",
+      "turkish",
+      "seafood",
+      "fusion",
+      "sushi",
+      "revani"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "f"
+  },
+  {
+    "slug": "freshly-smoky-indian-broccoli-chana-masala--indian",
+    "title": "Smoky Chana Masala",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "chickpeas",
+      "broccoli"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "f"
   }
 ]
