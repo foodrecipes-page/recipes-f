@@ -1,0 +1,86 @@
+{
+  "slug": "festive-tangy-soy-tofu-stir-fry--german",
+  "title": "Tangy Tofu Stir Fry",
+  "description": "A quick and easy German-inspired stir fry made with marinated tofu and a tangy sauce, served with a side of festive vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "marinated in a mixture of soy sauce and festive spices"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon vegetable oil",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "2 tablespoons",
+      "notes": "made with soy sauce and festive spices"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the bell peppers and onions and cook until tender, about 5 minutes.",
+    "Add the ginger and garlic and cook for 1 minute.",
+    "Pour in the tangy sauce and stir to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/festive-tangy-soy-tofu-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:13:37.952Z"
+}
