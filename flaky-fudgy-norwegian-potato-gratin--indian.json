@@ -1,0 +1,63 @@
+{
+  "slug": "flaky-fudgy-norwegian-potato-gratin--indian",
+  "title": "Norwegian Potato Gratin",
+  "description": "A creamy Indian-inspired potato gratin with a Norwegian twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "3-4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 sheet",
+      "notes": "for topping"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/4 cup",
+      "notes": "crushed norwegian wafers (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix the sliced potatoes with the grated gratin and a pinch of salt.",
+    "Transfer the mixture to a baking dish.",
+    "Drizzle with a little water and cover with aluminum foil.",
+    "Bake for 45 minutes.",
+    "Remove the foil and top with crushed Norwegian wafers (if using) and a flaky sheet.",
+    "Return to the oven and bake for another 15 minutes, or until golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "potato-gratin",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/flaky-fudgy-norwegian-potato-gratin--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:11:45.603Z"
+}
