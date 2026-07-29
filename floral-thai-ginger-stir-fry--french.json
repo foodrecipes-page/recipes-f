@@ -1,69 +1,98 @@
 {
   "slug": "floral-thai-ginger-stir-fry--french",
-  "title": "French Ginger Stir-Fry",
-  "description": "A simple and flavorful French-inspired stir-fry dish featuring ginger and Thai flavors.",
+  "title": "Pan-Seared Duck Breast with Thai Stir Fry Sauce",
+  "description": "A French-inspired dish with a flavorful twist, combining the richness of duck breast with the spicy kick of Thai stir fry sauce.",
   "cuisine": "french",
-  "diet": [],
+  "diet": [
+    "meat",
+    "gluten"
+  ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Ginger",
-      "amount": "2 inches",
-      "notes": "peeled and sliced"
+      "name": "duck breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
     },
     {
-      "name": "Floral Oil",
-      "amount": "2 tablespoons",
-      "notes": "olive oil or vegetable oil"
-    },
-    {
-      "name": "Thai Basil Leaves",
-      "amount": "handful",
-      "notes": "chopped"
-    },
-    {
-      "name": "Stir-Fry Vegetables",
-      "amount": "1 cup",
-      "notes": "bell peppers, carrots, broccoli"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
+      "name": "floral honey",
+      "amount": "2 tbsp",
       "notes": ""
     },
     {
-      "name": "Black Pepper",
-      "amount": "to taste",
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
       "notes": ""
     }
   ],
   "instructions": [
-    "Heat the floral oil in a large skillet or wok over medium-high heat.",
-    "Add the sliced ginger and cook for 2-3 minutes or until fragrant.",
-    "Add the stir-fry vegetables and cook for 3-4 minutes or until tender.",
-    "Stir in the Thai basil leaves and cook for an additional minute.",
-    "Season with salt and black pepper to taste.",
-    "Serve hot and enjoy!"
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and pepper.",
+    "Heat 1 tablespoon of vegetable oil in an oven-safe skillet over medium-high heat.",
+    "Sear the duck breast for 2-3 minutes on each side, then transfer to the preheated oven.",
+    "Cook for 12-15 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Meanwhile, heat the remaining 1 tablespoon of vegetable oil in a separate skillet over medium-high heat.",
+    "Add the sliced bell peppers and onions, and cook until tender.",
+    "Stir in the grated ginger, minced garlic, soy sauce, and fish sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce is bubbly and slightly thickened.",
+    "Serve the pan-seared duck breast with the Thai stir fry sauce spooned over the top.",
+    "Garnish with fresh herbs, if desired."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 8,
-  "totalTimeMin": 18,
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "ginger",
+    "pan-seared",
+    "duck",
     "thai",
-    "french",
-    "stir-fry"
+    "stir-fry",
+    "sauce"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 4,
-    "carbs": 30,
-    "fat": 10
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/floral-thai-ginger-stir-fry--french",
   "providerUsed": "groq",
-  "createdAt": "2026-07-22T01:52:12.103Z"
+  "createdAt": "2026-07-23T04:44:54.013Z"
 }
