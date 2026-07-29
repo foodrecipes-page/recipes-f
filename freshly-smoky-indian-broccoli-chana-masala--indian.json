@@ -1,0 +1,95 @@
+{
+  "slug": "freshly-smoky-indian-broccoli-chana-masala--indian",
+  "title": "Smoky Chana Masala",
+  "description": "A flavorful Indian dish made with smoky spices, chana, and broccoli. Serve over basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chana (canned chickpeas)",
+      "amount": "250g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "broccoli",
+      "amount": "200g",
+      "notes": "florets"
+    },
+    {
+      "name": "smoky masala",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g",
+      "notes": "or oil of choice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened (3-4 minutes).",
+    "Add garlic and cook for another minute.",
+    "Add broccoli and cook until tender (4-5 minutes).",
+    "Add chana, smoky masala, salt, and garam masala. Stir well.",
+    "Add tomato and cook for 2-3 minutes.",
+    "Reduce heat to low and simmer for 5-7 minutes.",
+    "Garnish with chopped cilantro.",
+    "Serve over basmati rice.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "chickpeas",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/freshly-smoky-indian-broccoli-chana-masala--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:39:57.557Z"
+}
